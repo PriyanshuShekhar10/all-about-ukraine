@@ -75,7 +75,7 @@ jobs:
         if: steps.commit.outputs.changed == 'true' && env.CF_API_TOKEN != ''
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
 
       - name: Build site
         if: steps.commit.outputs.changed == 'true' && env.CF_API_TOKEN != ''
