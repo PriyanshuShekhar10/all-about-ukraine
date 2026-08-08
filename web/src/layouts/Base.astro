@@ -61,6 +61,20 @@ const robotsContent =
     <link rel="canonical" href={canonical.href} />
     <meta name="robots" content={robotsContent} />
     <meta name="googlebot" content={robotsContent} />
+    <script is:inline>
+      // Only the canonical domain should be indexed. Any other host (Cloudflare
+      // Pages preview/alias like *.pages.dev, or localhost) is a duplicate, so
+      // force noindex there. Google honors the robots meta in the rendered DOM.
+      (function () {
+        var h = location.hostname;
+        if (h === "ukraineporn.com" || h === "www.ukraineporn.com") return;
+        var c = "noindex, nofollow";
+        var r = document.querySelector('meta[name="robots"]');
+        if (r) r.setAttribute("content", c);
+        var g = document.querySelector('meta[name="googlebot"]');
+        if (g) g.setAttribute("content", c);
+      })();
+    </script>
 
     <!-- Open Graph -->
     <meta property="og:type" content={ogType} />
