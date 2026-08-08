@@ -1,0 +1,85 @@
+name: Grow wiki (hourly)
+
+# Adds new encyclopedia entries every hour — evenly across all sections — then
+# rebuilds and redeploys the site to Cloudflare Pages. It only ADDS to the
+# existing corpus; it never replaces what is already there.
+
+on:
+  schedule:
+    - cron: "0 * * * *" # top of every hour (UTC)
+  workflow_dispatch:
+    inputs:
+      per_category:
+        description: "New entries to add per section"
+        default: "1"
+
+concurrency:
+  group: grow-wiki
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  grow:
+    runs-on: ubuntu-latest
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4o-mini' }}
+      PER_CATEGORY: ${{ github.event.inputs.per_category || '1' }}
+      CF_ACCOUNT_ID: "7c486fb2ca6b72301939bdbc6e836332"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Add new terms (equally per section)
+        run: python wiki/grow.py --per-category "$PER_CATEGORY"
+
+      - name: Build pages (gather -> synthesize -> resolve -> export)
+        run: python wiki/run.py --limit 100
+
+      - name: Commit new content
+        id: commit
+        run: |
+          git config user.name "ukraine-wiki-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data-wiki web/src/data/wiki
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No new content this run."
+          else
+            git commit -m "chore(content): hourly growth ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Set up Node
+        if: steps.commit.outputs.changed == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Build site
+        if: steps.commit.outputs.changed == 'true'
+        working-directory: web
+        run: |
+          npm ci
+          npm run build
+
+      - name: Deploy to Cloudflare Pages
+        if: steps.commit.outputs.changed == 'true'
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ env.CF_ACCOUNT_ID }}
+          command: pages deploy web/dist --project-name=all-about-ukraine --branch=main
