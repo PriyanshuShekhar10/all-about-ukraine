@@ -33,9 +33,9 @@ const ogImage =
 
 const jsonLdList = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
 
-// Site-wide switch: keep the entire site out of search engines. Flip to false
-// to allow indexing later.
-const SITE_NOINDEX = true;
+// Site-wide switch: keep the entire site out of search engines. Set to true to
+// hide the whole site again. Individual pages can still opt out via `noindex`.
+const SITE_NOINDEX = false;
 const robotsContent =
   SITE_NOINDEX || noindex ? "noindex, nofollow" : "index, follow";
 ---
@@ -47,7 +47,7 @@ const robotsContent =
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta
       name="theme-color"
-      content="#f1f1f0"
+      content="#e7e7e8"
       media="(prefers-color-scheme: light)"
     />
     <meta
