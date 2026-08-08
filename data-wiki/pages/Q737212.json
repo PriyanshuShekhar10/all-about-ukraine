@@ -1,0 +1,79 @@
+{
+  "qid": "Q737212",
+  "slug": "ukrainian-insurgent-army",
+  "title": "Ukrainian Insurgent Army",
+  "type": "military branch",
+  "category": "politics",
+  "aliases": [
+    "OUN UPA",
+    "OUN-UPA",
+    "UPA",
+    "Ukrainska povstanska armiia"
+  ],
+  "infobox": {
+    "label": "military branch",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1942-10-14",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Location",
+        "value": "Western Ukraine, Polesia",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The Ukrainian Insurgent Army (UPA) was a nationalist military formation established on 14 October 1942 by the Banderite faction of the Organisation of Ukrainian Nationalists. It played a significant role in [[ukraine|Ukraine]]'s struggle for independence during World War II, engaging in guerrilla warfare against both Soviet and Nazi forces until the 1950s.",
+  "sections": [
+    {
+      "heading": "Formation and Goals",
+      "paragraphs": [
+        "The UPA was formed by the Banderite faction of the Organisation of [[ukrainian|Ukrainian]] Nationalists (OUN) on 14 October 1942, with the objective of establishing an independent Ukrainian state. The OUN's founding declaration emphasized achieving this goal through a national revolution led by a dictatorship that would expel occupying powers and create a government representing all regions and social groups."
+      ]
+    },
+    {
+      "heading": "Military Engagements",
+      "paragraphs": [
+        "The UPA engaged in guerrilla warfare against the Soviet Union, Polish forces, and Nazi Germany. Initially motivated by anti-German sentiment, the UPA collaborated with German forces by late 1944. The organization was involved in violent confrontations, including massacres of Polish civilians in Volhynia and Eastern Galicia, resulting in the deaths of up to 100,000 individuals, which Poland recognizes as genocide.",
+        "The UPA continued its resistance against Soviet forces until 1949 and attempted to prevent the deportation of [[ukrainians|Ukrainians]] from western Galicia until 1947."
+      ]
+    },
+    {
+      "heading": "Organizational Structure",
+      "paragraphs": [
+        "The UPA was a decentralized movement divided into three operational regions, each adapting to the changing front lines and threats from both Soviet and Nazi forces. Its command structure often overlapped with that of the OUN-B, and local leaders frequently held dual roles. The UPA's largest unit, the kurin, consisted of 500–700 soldiers, while the smallest unit, the rii, comprised eight to ten soldiers.",
+        "By 1944, the UPA's estimated membership varied widely, with figures ranging from 25,000 to 200,000 fighters."
+      ]
+    },
+    {
+      "heading": "Legacy and Recognition",
+      "paragraphs": [
+        "The UPA's legacy is complex, as it is commemorated by many Ukrainians as heroes for their resistance against Nazi and Soviet oppression. However, some Soviet veterans oppose this positive remembrance. In March 2019, surviving UPA members were officially recognized as veterans by the [[cabinet-of-ministers-of-ukraine|Ukrainian government]]. The UPA's actions, particularly against Polish civilians, have led to ongoing dialogues and reconciliatory gestures between Ukrainian and Polish veterans."
+      ]
+    },
+    {
+      "heading": "Symbols and Awards",
+      "paragraphs": [
+        "The UPA's anthem, 'March of Ukrainian Nationalists,' was adopted in 1932 and reflects its nationalistic ideals. The organization's flag, a red-and-black banner, symbolizes the blood of Ukrainians spilled on their land and represents the enduring spirit of the Ukrainian national idea.",
+        "The UPA awarded honors such as the Cross of Merit and the Cross of Combat Merit to recognize bravery and service."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Insurgent Army — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Insurgent_Army",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-08",
+  "status": "published"
+}

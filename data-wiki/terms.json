@@ -2165,5 +2165,195 @@
     ],
     "notability": 65,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q1288",
+    "slug": "carpathians",
+    "name": "Carpathians",
+    "wp_title": "Carpathian Mountains",
+    "type": "mountain range",
+    "category": "geography",
+    "aliases": [
+      "Carpathian Mountains"
+    ],
+    "notability": 127,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q242711",
+    "slug": "kyiv-pechersk-lavra",
+    "name": "Kyiv Pechersk Lavra",
+    "wp_title": "Kyiv Pechersk Lavra",
+    "type": "eastern orthodox monastery",
+    "category": "geography",
+    "aliases": [
+      "Kyievo-Pecherska lavra",
+      "Kyivan Cave Monastery"
+    ],
+    "notability": 63,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q863759",
+    "slug": "maidan-nezalezhnosti",
+    "name": "Maidan Nezalezhnosti",
+    "wp_title": "Maidan Nezalezhnosti",
+    "type": "Q111027585",
+    "category": "people",
+    "aliases": [
+      "Independence Square"
+    ],
+    "notability": 54,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1729457",
+    "slug": "western-ukraine",
+    "name": "Western Ukraine",
+    "wp_title": "Western Ukraine",
+    "type": "historical region",
+    "category": "people",
+    "aliases": [
+      "West Ukraine"
+    ],
+    "notability": 45,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q95736217",
+    "slug": "culture-of-ukraine",
+    "name": "culture of Ukraine",
+    "wp_title": "Culture of Ukraine",
+    "type": "culture of an area",
+    "category": "culture",
+    "aliases": [],
+    "notability": 45,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q84151",
+    "slug": "taras-shevchenko-national-university-of-kyiv",
+    "name": "Taras Shevchenko National University of Kyiv",
+    "wp_title": "Taras Shevchenko National University of Kyiv",
+    "type": "public university",
+    "category": "culture",
+    "aliases": [
+      "Kyiv National University named after Taras Shevchenko",
+      "Kyiv State University",
+      "Kyiv University",
+      "National University of Kyiv",
+      "Shevchenko University",
+      "Taras Shevchenko University",
+      "Taras Shevchenko University of Kiev",
+      "University of Kiev"
+    ],
+    "notability": 61,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q215419",
+    "slug": "chernobyl-nuclear-power-plant",
+    "name": "Chernobyl Nuclear Power Plant",
+    "wp_title": "Chernobyl Nuclear Power Plant",
+    "type": "nuclear power plant",
+    "category": "economy",
+    "aliases": [
+      "ChAES",
+      "Chernobyl NPP",
+      "Chernobyl Nuclear Power Station",
+      "Chornobyl NPP",
+      "Chornobyl Nuclear Power Plant",
+      "V.I. Lenin Nuclear Power Plant",
+      "Vladimir Ilyich Lenin Nuclear Power Plant"
+    ],
+    "notability": 55,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q939543",
+    "slug": "kyiv-zhuliany-international-airport",
+    "name": "Kyiv Zhuliany International Airport",
+    "wp_title": "Kyiv International Airport (Zhuliany)",
+    "type": "international airport",
+    "category": "economy",
+    "aliases": [
+      "IEV",
+      "Kyiv Airport",
+      "Kyiv International Airport",
+      "UKKK",
+      "Zhuliany International Airport"
+    ],
+    "notability": 36,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q737212",
+    "slug": "ukrainian-insurgent-army",
+    "name": "Ukrainian Insurgent Army",
+    "wp_title": "Ukrainian Insurgent Army",
+    "type": "military branch",
+    "category": "politics",
+    "aliases": [
+      "OUN UPA",
+      "OUN-UPA",
+      "UPA",
+      "Ukrainska povstanska armiia"
+    ],
+    "notability": 53,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q17074103",
+    "slug": "modern-history-of-ukraine",
+    "name": "modern history of Ukraine",
+    "wp_title": "Modern history of Ukraine",
+    "type": "historical period",
+    "category": "history",
+    "aliases": [
+      "history of modern Ukraine",
+      "modern Ukraine"
+    ],
+    "notability": 6,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q254106",
+    "slug": "crimean-war",
+    "name": "Crimean War",
+    "wp_title": "Crimean War",
+    "type": "war",
+    "category": "history",
+    "aliases": [],
+    "notability": 100,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q117458",
+    "slug": "crimean-tatars",
+    "name": "Crimean Tatars",
+    "wp_title": "Crimean Tatars",
+    "type": "people",
+    "category": "war",
+    "aliases": [
+      "Crimeans"
+    ],
+    "notability": 90,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q682152",
+    "slug": "ukrainian-ground-forces",
+    "name": "Ukrainian Ground Forces",
+    "wp_title": "Ukrainian Ground Forces",
+    "type": "army",
+    "category": "war",
+    "aliases": [
+      "Ground Forces of Ukraine",
+      "Land Forces of Ukraine",
+      "Ukrainian Army",
+      "Ukrainian Land Forces"
+    ],
+    "notability": 35,
+    "status": "synthesized"
   }
 ]

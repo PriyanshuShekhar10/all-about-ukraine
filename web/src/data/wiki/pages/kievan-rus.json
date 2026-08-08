@@ -55,7 +55,7 @@
       "heading": "Historical Overview",
       "paragraphs": [
         "Kievan Rus' emerged as the first East Slavic state and later evolved into a federation of principalities from the late 9th century until the mid-13th century. It included a diverse range of polities and ethnic groups, such as East Slavic, Norse, and Finnic peoples, and was governed by the Rurik dynasty, which was established by the Varangian prince Rurik. The term 'Kievan Rus' was introduced by Russian historians in the 19th century to denote the period when Kiev was the dominant city.",
-        "At its zenith in the mid-11th century, Kievan Rus' extended from the White Sea in the north to the Black Sea in the south, and from the Carpathian Mountains in the west to the Taman Peninsula in the east, effectively uniting various East Slavic tribes."
+        "At its zenith in the mid-11th century, Kievan Rus' extended from the White Sea in the north to the Black Sea in the south, and from the [[carpathians|Carpathian Mountains]] in the west to the Taman Peninsula in the east, effectively uniting various East Slavic tribes."
       ]
     },
     {
@@ -85,6 +85,7 @@
     }
   ],
   "links_out": [
+    "carpathians",
     "dnieper",
     "ukraine"
   ],

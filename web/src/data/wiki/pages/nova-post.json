@@ -35,7 +35,7 @@
       }
     ]
   },
-  "summary": "Nova Poshta, known as Nova Post outside Ukraine, is a private postal and courier service based in Ukraine, providing logistics solutions for both individuals and businesses. Established in 2001, it has grown to become a significant player in the Ukrainian market, competing primarily with Ukrposhta.",
+  "summary": "Nova Poshta, known as Nova Post outside Ukraine, is a private postal and courier service based in Ukraine, providing logistics solutions for both individuals and businesses. Established in 2001, it has grown to become a significant player in the [[ukrainian|Ukrainian]] market, competing primarily with Ukrposhta.",
   "sections": [
     {
       "heading": "History",
@@ -50,7 +50,7 @@
     {
       "heading": "Community Engagement and Humanitarian Efforts",
       "paragraphs": [
-        "On 24 February 2022, coinciding with the onset of Russia's full-scale [[full-scale-russo-ukrainian-war|invasion of Ukraine]], Nova Poshta donated ₴25 million to support the [[ukrainian|Ukrainian]] army.",
+        "On 24 February 2022, coinciding with the onset of Russia's full-scale [[full-scale-russo-ukrainian-war|invasion of Ukraine]], Nova Poshta donated ₴25 million to support the [[ukrainian-ground-forces|Ukrainian army]].",
         "The company initiated the Humanitarian Nova POSHTA project, aimed at providing free delivery of parcels to military personnel and civilians affected by the war."
       ]
     },
@@ -87,7 +87,8 @@
     "odesa",
     "poltava",
     "ukraine",
-    "ukrainian"
+    "ukrainian",
+    "ukrainian-ground-forces"
   ],
   "sources": [
     {

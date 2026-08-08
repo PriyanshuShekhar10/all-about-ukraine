@@ -1,0 +1,94 @@
+{
+  "qid": "Q1729457",
+  "slug": "western-ukraine",
+  "title": "Western Ukraine",
+  "type": "historical region",
+  "category": "people",
+  "aliases": [
+    "West Ukraine"
+  ],
+  "infobox": {
+    "label": "historical region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "9,765,281",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "131,256",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.0000, 26.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Western Ukraine, known as Zakhidna Ukrayina in Ukrainian, encompasses the western territories of Ukraine, including several contemporary administrative regions. Historically significant, this region has been shaped by various political entities and cultural influences, making it a vital part of Ukraine's national identity.",
+  "sections": [
+    {
+      "heading": "Geographical Boundaries",
+      "paragraphs": [
+        "Western Ukraine refers to the western territories of [[ukraine|Ukraine]], though its exact boundaries are not universally defined. Typically included are the contemporary [[ukrainian|Ukrainian]] oblasts of [[chernivtsi|Chernivtsi]], [[ivano-frankivsk|Ivano-Frankivsk]], [[lviv|Lviv]], [[ternopil|Ternopil]], and Zakarpattia, which were part of the former Austro-Hungarian Empire. Additionally, Volyn and Rivne oblasts, annexed from the Polish–Lithuanian Commonwealth during its Third Partition, are also commonly recognized as part of this region.",
+        "Modern sources often include Khmelnytskyi Oblast due to its geographical, linguistic, and cultural ties to Western Ukraine, although this inclusion lacks historical and political confirmation. The region encompasses several historical areas such as Carpathian Ruthenia, Halychyna (including Pokuttia), most of Volhynia, northern Bukovina, the Hertsa region, and Podolia."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The historical roots of Western Ukraine can be traced back to the [[kingdom-of-galiciavolhynia|Kingdom of Galicia–Volhynia]], which emerged in 1199 following the decline of [[kievan-rus|Kievan Rus]]' and incursions from the Golden Horde. The region underwent various political changes, including its incorporation into the Polish–Lithuanian Commonwealth under Casimir the Great in 1340, and later, rule by the Austrian Empire and Austria-Hungary.",
+        "Following the partitions of Poland in the 18th century, the territory was divided between the Habsburg monarchy and the Russian Empire. The modern southwestern part of Western Ukraine became the Kingdom of Galicia and Lodomeria, a crownland of the Austrian Empire from 1804. The northern areas, including Lutsk and Rivne, were acquired by Imperial Russia in 1795."
+      ]
+    },
+    {
+      "heading": "World War II and Aftermath",
+      "paragraphs": [
+        "During World War II, Western Ukraine was occupied by Nazi Germany, with the southern half incorporated into the semi-colonial Distrikt Galizien established on August 1, 1941. Following the war, in May 1945, the Soviet Union annexed all territories of present-day Western Ukraine into the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]. A population exchange between Poland and Soviet Ukraine occurred between 1944 and 1946, resulting in the relocation of ethnic Poles and Jews to post-war Poland and ethnic [[ukrainians|Ukrainians]] to the Ukrainian SSR."
+      ]
+    },
+    {
+      "heading": "Cultural Characteristics",
+      "paragraphs": [
+        "Western Ukraine is characterized by its rich cultural heritage, with notable architectural sites such as the fortress of Kamianets, the Old Town of Lviv, and the Pochayiv Lavra. The region's natural landscapes, including the [[ukrainian-carpathians|Ukrainian Carpathians]] and various national parks, contribute to its appeal as a tourist destination.",
+        "The city of Lviv serves as the main cultural center, historically significant as the capital of the Kingdom of Galicia–Volhynia. Other important cities include Chernivtsi, Rivne, Ivano-Frankivsk, Ternopil, Lutsk, Khmelnytskyi, and Uzhhorod."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "In the context of the ongoing conflict involving Russia, Western Ukraine has faced military actions, including missile strikes targeting military facilities in Lviv and oil depots in surrounding areas during the 2022 Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]]. These events underscore the region's strategic importance and its ongoing relevance to Ukraine's national security."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernivtsi",
+    "full-scale-russo-ukrainian-war",
+    "ivano-frankivsk",
+    "kievan-rus",
+    "kingdom-of-galiciavolhynia",
+    "lviv",
+    "ternopil",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-carpathians",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Western Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Western_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-08",
+  "status": "published"
+}

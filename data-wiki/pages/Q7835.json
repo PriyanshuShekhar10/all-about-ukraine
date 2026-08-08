@@ -59,7 +59,7 @@
     {
       "heading": "Russian Annexation and Occupation",
       "paragraphs": [
-        "In 1783, Crimea was annexed by the Russian Empire following the Russo-Turkish War. The strategic importance of the peninsula was highlighted during the 1854 Crimean War. After a tumultuous 20th century, including occupation by Nazi Germany during World War II and the deportation of Crimean Tatars under [[donetsk|Stalin]], Crimea was transferred to the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] in 1954. Following Ukraine's independence in 1991, Crimea was designated as the Autonomous Republic of Crimea until its occupation by Russian forces in 2014, which led to an internationally unrecognized referendum and subsequent annexation by Russia."
+        "In 1783, Crimea was annexed by the Russian Empire following the Russo-Turkish War. The strategic importance of the peninsula was highlighted during the 1854 [[crimean-war|Crimean War]]. After a tumultuous 20th century, including occupation by Nazi Germany during World War II and the deportation of [[crimean-tatars|Crimean Tatars]] under [[donetsk|Stalin]], Crimea was transferred to the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] in 1954. Following Ukraine's independence in 1991, Crimea was designated as the Autonomous Republic of Crimea until its occupation by Russian forces in 2014, which led to an internationally unrecognized referendum and subsequent annexation by Russia."
       ]
     },
     {
@@ -76,6 +76,8 @@
     }
   ],
   "links_out": [
+    "crimean-tatars",
+    "crimean-war",
     "donetsk",
     "sevastopol",
     "ukraine",

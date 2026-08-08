@@ -247,6 +247,16 @@
     ]
   },
   {
+    "slug": "carpathians",
+    "title": "Carpathians",
+    "type": "mountain range",
+    "category": "geography",
+    "summary": "The Carpathian Mountains, known as Карпати in Ukrainian, are a significant mountain range in Central and Southeast Europe, extending approximately 1,500 km (930 mi) and featuring diverse ecosystems and geological formations. The range plays a crucial role in Ukraine's natural landscape and biodiversity.",
+    "aliases": [
+      "Carpathian Mountains"
+    ]
+  },
+  {
     "slug": "chernihiv",
     "title": "Chernihiv",
     "type": "city of regional significance of Ukraine",
@@ -306,6 +316,22 @@
     ]
   },
   {
+    "slug": "chernobyl-nuclear-power-plant",
+    "title": "Chernobyl Nuclear Power Plant",
+    "type": "nuclear power plant",
+    "category": "economy",
+    "summary": "The Chernobyl Nuclear Power Plant (ChNPP) is a decommissioning nuclear power facility located in northern Ukraine, near the city of Pripyat. It is historically significant due to the catastrophic disaster that occurred in 1986, which has had lasting impacts on nuclear safety and environmental policy in Ukraine and beyond.",
+    "aliases": [
+      "ChAES",
+      "Chernobyl NPP",
+      "Chernobyl Nuclear Power Station",
+      "Chornobyl NPP",
+      "Chornobyl Nuclear Power Plant",
+      "V.I. Lenin Nuclear Power Plant",
+      "Vladimir Ilyich Lenin Nuclear Power Plant"
+    ]
+  },
+  {
     "slug": "constitution-of-ukraine",
     "title": "Constitution of Ukraine",
     "type": "constitution",
@@ -360,6 +386,24 @@
     ]
   },
   {
+    "slug": "crimean-tatars",
+    "title": "Crimean Tatars",
+    "type": "people",
+    "category": "war",
+    "summary": "Crimean Tatars are an Eastern European Turkic ethnic group indigenous to Crimea, with a rich history shaped by various migrations and cultural influences. Their population and cultural identity have faced significant challenges, particularly during the Russian Empire and the Soviet Union, yet they remain a vital part of [[ukraine|Ukraine]]'s demographic and cultural landscape.",
+    "aliases": [
+      "Crimeans"
+    ]
+  },
+  {
+    "slug": "crimean-war",
+    "title": "Crimean War",
+    "type": "war",
+    "category": "history",
+    "summary": "The Crimean War was a significant conflict fought from October 1853 to February 1856 between Russia and an alliance of the Ottoman Empire, France, the United Kingdom, and Sardinia. Its implications extended to Ukraine, particularly through the involvement of the Black Sea region and the geopolitical dynamics that shaped the area during this period.",
+    "aliases": []
+  },
+  {
     "slug": "cucutenitrypillia-culture",
     "title": "Cucuteni–Trypillia culture",
     "type": "archaeological culture",
@@ -369,6 +413,14 @@
       "Cucuteni-Trypillian culture",
       "Trypillian culture"
     ]
+  },
+  {
+    "slug": "culture-of-ukraine",
+    "title": "culture of Ukraine",
+    "type": "culture of an area",
+    "category": "culture",
+    "summary": "The culture of Ukraine encompasses the material and spiritual values of its people, shaped by a rich history that includes strong family ties, religious influences, and traditional arts. This culture has persisted through various historical challenges and has seen a revival since Ukraine's independence in 1991.",
+    "aliases": []
   },
   {
     "slug": "denys-shmyhal",
@@ -594,7 +646,7 @@
     "title": "Ivano-Frankivsk",
     "type": "city of regional significance of Ukraine",
     "category": "geography",
-    "summary": "Ivano-Frankivsk is a city of regional significance in western [[ukraine|Ukraine]], serving as the administrative center of Ivano-Frankivsk Oblast and Ivano-Frankivsk Raion. With a population of approximately 238,196 in 2022, it has a rich historical background and diverse cultural influences.",
+    "summary": "Ivano-Frankivsk is a city of regional significance in [[western-ukraine|western Ukraine]], serving as the administrative center of Ivano-Frankivsk Oblast and Ivano-Frankivsk Raion. With a population of approximately 238,196 in 2022, it has a rich historical background and diverse cultural influences.",
     "aliases": [
       "Ivano-Frankivs'k",
       "Stanislau",
@@ -755,6 +807,31 @@
     ]
   },
   {
+    "slug": "kyiv-pechersk-lavra",
+    "title": "Kyiv Pechersk Lavra",
+    "type": "eastern orthodox monastery",
+    "category": "geography",
+    "summary": "The Kyiv Pechersk Lavra, also known as the Kyiv Monastery of the Caves, is a significant Eastern Orthodox monastery located in Kyiv, Ukraine. Founded in 1051, it has played a crucial role in the history of Eastern Christianity in Eastern Europe.",
+    "aliases": [
+      "Kyievo-Pecherska lavra",
+      "Kyivan Cave Monastery"
+    ]
+  },
+  {
+    "slug": "kyiv-zhuliany-international-airport",
+    "title": "Kyiv Zhuliany International Airport",
+    "type": "international airport",
+    "category": "economy",
+    "summary": "Kyiv Zhuliany International Airport, officially known as Igor Sikorsky Kyiv International Airport, is one of the two main passenger airports serving the Ukrainian capital, Kyiv. Located approximately seven kilometers southwest of the city center, it plays a significant role in both passenger and business aviation in Ukraine.",
+    "aliases": [
+      "IEV",
+      "Kyiv Airport",
+      "Kyiv International Airport",
+      "UKKK",
+      "Zhuliany International Airport"
+    ]
+  },
+  {
     "slug": "kyivstar",
     "title": "Kyivstar",
     "type": "business",
@@ -824,6 +901,16 @@
     ]
   },
   {
+    "slug": "maidan-nezalezhnosti",
+    "title": "Maidan Nezalezhnosti",
+    "type": "Q111027585",
+    "category": "people",
+    "summary": "Maidan Nezalezhnosti, or Independence Square, is the central square of Kyiv, Ukraine, significant for its role in political movements and as a symbol of [[ukrainian|Ukrainian]] independence. It features the Independence Monument and has been the site of numerous historic protests and events since the 1990s.",
+    "aliases": [
+      "Independence Square"
+    ]
+  },
+  {
     "slug": "mariupol",
     "title": "Mariupol",
     "type": "city of regional significance of Ukraine",
@@ -875,6 +962,17 @@
       "Minsk agreement",
       "Minsk peace talks",
       "Minsk protocols"
+    ]
+  },
+  {
+    "slug": "modern-history-of-ukraine",
+    "title": "modern history of Ukraine",
+    "type": "historical period",
+    "category": "history",
+    "summary": "The modern history of Ukraine is marked by its evolution from a region under imperial control to an independent nation-state, characterized by significant events such as the Ukrainian National Revival, the struggle for independence, Soviet rule, and ongoing conflicts in the post-Soviet era.",
+    "aliases": [
+      "history of modern Ukraine",
+      "modern Ukraine"
     ]
   },
   {
@@ -970,7 +1068,7 @@
     "title": "Nova Post",
     "type": "postal service",
     "category": "economy",
-    "summary": "Nova Poshta, known as Nova Post outside Ukraine, is a private postal and courier service based in Ukraine, providing logistics solutions for both individuals and businesses. Established in 2001, it has grown to become a significant player in the Ukrainian market, competing primarily with Ukrposhta.",
+    "summary": "Nova Poshta, known as Nova Post outside Ukraine, is a private postal and courier service based in Ukraine, providing logistics solutions for both individuals and businesses. Established in 2001, it has grown to become a significant player in the [[ukrainian|Ukrainian]] market, competing primarily with Ukrposhta.",
     "aliases": [
       "New Post",
       "Nova Poshta",
@@ -1337,6 +1435,23 @@
     ]
   },
   {
+    "slug": "taras-shevchenko-national-university-of-kyiv",
+    "title": "Taras Shevchenko National University of Kyiv",
+    "type": "public university",
+    "category": "culture",
+    "summary": "The Taras Shevchenko National University of Kyiv is a prominent public university located in Kyiv, Ukraine, recognized as the third-oldest university in the country. Established in 1834, it has evolved into a leading center for education and research, named after the influential Ukrainian poet and artist Taras Shevchenko.",
+    "aliases": [
+      "Kyiv National University named after Taras Shevchenko",
+      "Kyiv State University",
+      "Kyiv University",
+      "National University of Kyiv",
+      "Shevchenko University",
+      "Taras Shevchenko University",
+      "Taras Shevchenko University of Kiev",
+      "University of Kiev"
+    ]
+  },
+  {
     "slug": "ternopil",
     "title": "Ternopil",
     "type": "city of regional significance of Ukraine",
@@ -1370,7 +1485,7 @@
     "title": "trembita",
     "type": "type of musical instrument",
     "category": "culture",
-    "summary": "The trembita is a wooden alpine horn traditionally associated with the Hutsul highlanders of western [[ukraine|Ukraine]]. It serves both musical and signaling purposes within the cultural practices of the region.",
+    "summary": "The trembita is a wooden alpine horn traditionally associated with the Hutsul highlanders of [[western-ukraine|western Ukraine]]. It serves both musical and signaling purposes within the cultural practices of the region.",
     "aliases": []
   },
   {
@@ -1461,6 +1576,32 @@
     "aliases": [
       "Ukrainian Catholic Church",
       "Ukrainian Catholic Church of the Byzantine Tradition"
+    ]
+  },
+  {
+    "slug": "ukrainian-ground-forces",
+    "title": "Ukrainian Ground Forces",
+    "type": "army",
+    "category": "war",
+    "summary": "The Ukrainian Ground Forces, also known as the Ukrainian Army, is the land force component of the [[armed-forces-of-ukraine|Armed Forces of Ukraine]]. Established from Soviet military units following Ukraine's independence, it has undergone significant modernization and expansion, particularly in response to ongoing conflicts in the region.",
+    "aliases": [
+      "Ground Forces of Ukraine",
+      "Land Forces of Ukraine",
+      "Ukrainian Army",
+      "Ukrainian Land Forces"
+    ]
+  },
+  {
+    "slug": "ukrainian-insurgent-army",
+    "title": "Ukrainian Insurgent Army",
+    "type": "military branch",
+    "category": "politics",
+    "summary": "The Ukrainian Insurgent Army (UPA) was a nationalist military formation established on 14 October 1942 by the Banderite faction of the Organisation of Ukrainian Nationalists. It played a significant role in [[ukraine|Ukraine]]'s struggle for independence during World War II, engaging in guerrilla warfare against both Soviet and Nazi forces until the 1950s.",
+    "aliases": [
+      "OUN UPA",
+      "OUN-UPA",
+      "UPA",
+      "Ukrainska povstanska armiia"
     ]
   },
   {
@@ -1673,6 +1814,16 @@
       "ZUNR",
       "Zakhidno-Ukrainska Narodnia Respublika",
       "Zakhidnoukrayins’ka Narodna Respublyka"
+    ]
+  },
+  {
+    "slug": "western-ukraine",
+    "title": "Western Ukraine",
+    "type": "historical region",
+    "category": "people",
+    "summary": "Western Ukraine, known as Zakhidna Ukrayina in Ukrainian, encompasses the western territories of Ukraine, including several contemporary administrative regions. Historically significant, this region has been shaped by various political entities and cultural influences, making it a vital part of Ukraine's national identity.",
+    "aliases": [
+      "West Ukraine"
     ]
   },
   {

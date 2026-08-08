@@ -68,13 +68,13 @@
     {
       "heading": "Demographics and Names",
       "paragraphs": [
-        "As of 2025, Lviv has an estimated population of 723,403, making it the largest city in western [[ukraine|Ukraine]]. The city has been known by various names throughout its history, including [[ukrainian|Ukrainian]]: Львів (Lʹviv), Polish: Lwów, German: Lwiw and Lemberg, Yiddish: לעמבעריק (Lemberik), Russian: Львов (Lʹvov), and Latin: Leopolis."
+        "As of 2025, Lviv has an estimated population of 723,403, making it the largest city in [[western-ukraine|western Ukraine]]. The city has been known by various names throughout its history, including [[ukrainian|Ukrainian]]: Львів (Lʹviv), Polish: Lwów, German: Lwiw and Lemberg, Yiddish: לעמבעריק (Lemberik), Russian: Львов (Lʹvov), and Latin: Leopolis."
       ]
     },
     {
       "heading": "Modern Developments",
       "paragraphs": [
-        "After the dissolution of the Soviet Union in 1991, Lviv remained part of Ukraine. The city continues to play a vital role in the cultural and educational landscape of the country, reflecting its historical significance and ongoing relevance in contemporary Ukraine."
+        "After the dissolution of the Soviet Union in 1991, Lviv remained part of [[ukraine|Ukraine]]. The city continues to play a vital role in the cultural and educational landscape of the country, reflecting its historical significance and ongoing relevance in contemporary Ukraine."
       ]
     }
   ],
@@ -82,7 +82,8 @@
     "full-scale-russo-ukrainian-war",
     "kingdom-of-galiciavolhynia",
     "ukraine",
-    "ukrainian"
+    "ukrainian",
+    "western-ukraine"
   ],
   "sources": [
     {

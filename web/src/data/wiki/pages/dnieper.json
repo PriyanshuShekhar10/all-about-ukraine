@@ -48,7 +48,7 @@
     {
       "heading": "Ecological Challenges",
       "paragraphs": [
-        "The Dnieper faces significant ecological challenges due to anthropogenic influences, including pollution from industrial emissions and radioactive waste from nearby facilities, such as the Prydniprovsky Chemical Plant and the Chernobyl Nuclear Power Station. These factors have raised concerns about the river's health and the safety of its water resources."
+        "The Dnieper faces significant ecological challenges due to anthropogenic influences, including pollution from industrial emissions and radioactive waste from nearby facilities, such as the Prydniprovsky Chemical Plant and the [[chernobyl-nuclear-power-plant|Chernobyl Nuclear Power Station]]. These factors have raised concerns about the river's health and the safety of its water resources."
       ]
     },
     {
@@ -59,6 +59,7 @@
     }
   ],
   "links_out": [
+    "chernobyl-nuclear-power-plant",
     "kyiv",
     "ukraine",
     "ukrainian"

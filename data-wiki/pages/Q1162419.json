@@ -23,7 +23,7 @@
     {
       "heading": "Geographical Extent",
       "paragraphs": [
-        "The Cucuteni–Trypillia culture spanned a vast area of approximately 350,000 km2 (140,000 sq mi), extending from the Carpathian Mountains to the [[dniester|Dniester]] and [[dnieper|Dnieper]] regions, primarily in modern-day Moldova and substantial parts of western [[ukraine|Ukraine]] and northeastern Romania. This cultural complex is characterized by its concentration in river valleys such as the Siret, Prut, and Dniester."
+        "The Cucuteni–Trypillia culture spanned a vast area of approximately 350,000 km2 (140,000 sq mi), extending from the [[carpathians|Carpathian Mountains]] to the [[dniester|Dniester]] and [[dnieper|Dnieper]] regions, primarily in modern-day Moldova and substantial parts of [[western-ukraine|western Ukraine]] and northeastern Romania. This cultural complex is characterized by its concentration in river valleys such as the Siret, Prut, and Dniester."
       ]
     },
     {
@@ -41,7 +41,7 @@
     {
       "heading": "Historical Context and Nomenclature",
       "paragraphs": [
-        "The culture was first identified in 1884 by Teodor T. Burada, after discovering ceramic fragments in Cucuteni, Romania. The first [[ukrainian|Ukrainian]] sites were uncovered by Vincenc Chvojka in [[kyiv|Kyiv]], with significant findings presented in 1897, marking the official recognition of the Trypillia culture in Ukraine. The culture is referred to as Cucuteni in Romania and Trypillia in Ukraine, with the term 'Cucuteni–Trypillia culture' commonly used in English."
+        "The culture was first identified in 1884 by Teodor T. Burada, after discovering ceramic fragments in Cucuteni, Romania. The first [[ukrainian|Ukrainian]] sites were uncovered by Vincenc Chvojka in [[kyiv|Kyiv]], with significant findings presented in 1897, marking the official recognition of the Trypillia culture in [[ukraine|Ukraine]]. The culture is referred to as Cucuteni in Romania and Trypillia in Ukraine, with the term 'Cucuteni–Trypillia culture' commonly used in English."
       ]
     },
     {
@@ -58,11 +58,13 @@
     }
   ],
   "links_out": [
+    "carpathians",
     "dnieper",
     "dniester",
     "kyiv",
     "ukraine",
-    "ukrainian"
+    "ukrainian",
+    "western-ukraine"
   ],
   "sources": [
     {

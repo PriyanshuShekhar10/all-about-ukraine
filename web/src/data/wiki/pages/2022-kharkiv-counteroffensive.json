@@ -62,7 +62,7 @@
     {
       "heading": "Leadership and Strategy",
       "paragraphs": [
-        "Oleksandr Syrskyi, appointed to command Ukrainian land forces in Kharkiv Oblast, played a crucial role in planning the counteroffensive. His strategy focused on a rapid advance that minimized direct attacks on populated areas to reduce casualties. The operation was characterized by the effective use of artillery, including US-supplied HIMARS, which targeted Russian logistics and contributed to the success of the counteroffensive."
+        "Oleksandr Syrskyi, appointed to command [[ukrainian-ground-forces|Ukrainian land forces]] in Kharkiv Oblast, played a crucial role in planning the counteroffensive. His strategy focused on a rapid advance that minimized direct attacks on populated areas to reduce casualties. The operation was characterized by the effective use of artillery, including US-supplied HIMARS, which targeted Russian logistics and contributed to the success of the counteroffensive."
       ]
     }
   ],
@@ -72,7 +72,8 @@
     "kharkiv",
     "kherson",
     "ukraine",
-    "ukrainian"
+    "ukrainian",
+    "ukrainian-ground-forces"
   ],
   "sources": [
     {

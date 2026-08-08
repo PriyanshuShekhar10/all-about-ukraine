@@ -1,0 +1,92 @@
+{
+  "qid": "Q242711",
+  "slug": "kyiv-pechersk-lavra",
+  "title": "Kyiv Pechersk Lavra",
+  "type": "eastern orthodox monastery",
+  "category": "geography",
+  "aliases": [
+    "Kyievo-Pecherska lavra",
+    "Kyivan Cave Monastery"
+  ],
+  "infobox": {
+    "label": "eastern orthodox monastery",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1051",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "29",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4322, 30.5622",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Kyiv Pechersk Lavra, also known as the Kyiv Monastery of the Caves, is a significant Eastern Orthodox monastery located in Kyiv, Ukraine. Founded in 1051, it has played a crucial role in the history of Eastern Christianity in Eastern Europe.",
+  "sections": [
+    {
+      "heading": "Etymology and Naming",
+      "paragraphs": [
+        "The term 'Pechersk' comes from the [[ukrainian|Ukrainian]] word for 'cave' (печера, romanized: pechera), which is derived from Proto-Slavic *реktera. The word 'lavra' (лавра, romanized: lavra) refers to high-ranking male monasteries within the Eastern Orthodox Church. Thus, the monastery is also referred to as the [[kyiv|Kyiv]] Cave Monastery or the Kyiv Monastery of the Caves."
+      ]
+    },
+    {
+      "heading": "Foundation and Historical Significance",
+      "paragraphs": [
+        "The Kyiv Pechersk Lavra was established as a cave monastery in 1051, although some sources suggest a founding date of 1074. Anthony, a monk from Mount Athos, returned to Rus' and settled in Kyiv, where he chose a cave on Berestov Mount overlooking the [[dnieper|Dnipro river]]. With the support of Prince Iziaslav I of Kyiv, the monastery was built by architects from Constantinople. Over the centuries, it faced numerous invasions and destruction, including attacks by the Cumans and Mongolian forces, and was rebuilt in 1470.",
+        "The Lavra became the burial site for several notable figures during the time of the Grand Duchy of Lithuania, including Prince Vladimir Olgerdovich and Grand Duke Švitrigaila."
+      ]
+    },
+    {
+      "heading": "Cultural and Educational Influence",
+      "paragraphs": [
+        "In the 17th century, the Kyiv Pechersk Lavra emerged as a center of Ukrainian national identity under archimandrites such as Eliseus Pletenetsky and Peter Mohyla. The monastery's printing house and educational reforms contributed to a cultural revival in Kyiv, making it a significant hub for Eastern Orthodoxy. Pilgrimage to the Lavra became highly regarded, sometimes viewed as more important than visiting Jerusalem.",
+        "A legendary account from 1630 describes a Polish siege of the monastery, during which the Holy Mother of God is said to have protected the monks."
+      ]
+    },
+    {
+      "heading": "Modern History and Recent Developments",
+      "paragraphs": [
+        "The Kyiv Pechersk Lavra underwent significant changes during the [[ukrainian-war-of-independence|Ukrainian Revolution]] in the early 20th century, with attempts to Ukrainize the monastery facing challenges. In 1918, Metropolitan Vladimir was murdered by Bolshevik troops, and the monastery was eventually disbanded in 1926, becoming a museum.",
+        "Following the Second World War, the monastery resumed activities under the Russian Orthodox Church. In 1992, ownership was transferred to the [[ukrainian-orthodox-church|Ukrainian Orthodox Church]] (Moscow Patriarchate). The Lavra has been a site of controversy, particularly regarding its leadership and connections to Russian authorities.",
+        "In 2023, the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] terminated the UOC-MP's lease on significant parts of the monastery, returning control to the state. The Lavra has been recognized as a UNESCO World Heritage Site since 1990 and was named one of the Seven Wonders of [[ukraine|Ukraine]] in 2007."
+      ]
+    },
+    {
+      "heading": "Recent Attacks and International Reactions",
+      "paragraphs": [
+        "In 2026, the Kyiv Pechersk Lavra suffered damage from Russian drone attacks, marking the first instance of war-related damage to the site since World War II. The attacks prompted widespread condemnation from Ukrainian officials and international leaders, who characterized them as assaults on cultural heritage and called for accountability.",
+        "Statements from various religious and political figures emphasized the significance of the Lavra as a shared cultural and historical monument, highlighting the broader implications of the attacks on Christian heritage."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "dnieper",
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-orthodox-church",
+    "ukrainian-war-of-independence"
+  ],
+  "sources": [
+    {
+      "title": "Kyiv Pechersk Lavra — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kyiv_Pechersk_Lavra",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-08",
+  "status": "published"
+}

@@ -1,0 +1,88 @@
+{
+  "qid": "Q863759",
+  "slug": "maidan-nezalezhnosti",
+  "title": "Maidan Nezalezhnosti",
+  "type": "Q111027585",
+  "category": "people",
+  "aliases": [
+    "Independence Square"
+  ],
+  "infobox": {
+    "label": "Q111027585",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1900",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Kyiv",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4502, 30.5239",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Maidan Nezalezhnosti, or Independence Square, is the central square of Kyiv, Ukraine, significant for its role in political movements and as a symbol of [[ukrainian|Ukrainian]] independence. It features the Independence Monument and has been the site of numerous historic protests and events since the 1990s.",
+  "sections": [
+    {
+      "heading": "Geographical and Historical Context",
+      "paragraphs": [
+        "Maidan Nezalezhnosti is located on Khreshchatyk Street in the Shevchenko Raion of [[kyiv|Kyiv]], the capital of [[ukraine|Ukraine]]. The square has evolved from a low-lying area known as Perevisyshche until the 10th century to a central commercial hub by the mid-19th century, marked by the construction of significant buildings and infrastructure.",
+        "Historically, the square has undergone several name changes, including Khreshchatyk Square in 1869, Duma Square in 1876, and Soviet Square in 1919, before being named Independence Square on 26 August 1991, shortly after Ukraine declared independence from the Soviet Union."
+      ]
+    },
+    {
+      "heading": "Political Significance",
+      "paragraphs": [
+        "Since the onset of Ukraine's independence movement in 1990, Maidan Nezalezhnosti has served as a focal point for political rallies and protests. Notable events include the 1990 Revolution on Granite, the 2001 Ukraine without Kuchma protests, the 2004 [[orange-revolution|Orange Revolution]], and the 2013–2014 [[euromaidan|Euromaidan]] demonstrations.",
+        "The square has become synonymous with political activism in Ukraine, hosting mass gatherings that have shaped the country's political landscape. The Orange Revolution, in particular, drew significant international attention as hundreds of thousands gathered to protest electoral fraud."
+      ]
+    },
+    {
+      "heading": "Cultural and Memorial Aspects",
+      "paragraphs": [
+        "Maidan Nezalezhnosti is not only a site for political expression but also a cultural venue. However, since 2014, many public events have been relocated to Sofiyivska Square, as it is deemed inappropriate to hold celebrations in a place associated with violence and loss during the Euromaidan protests.",
+        "In the wake of the ongoing conflict following the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], the square has also become a memorial site, honoring those who have lost their lives in the conflict, including a makeshift memorial established in their memory."
+      ]
+    },
+    {
+      "heading": "Landmarks",
+      "paragraphs": [
+        "The square features several notable landmarks, including the Independence Monument, which commemorates Ukraine's independence, and the Monument to the Founders of Kyiv. The square's architecture reflects its historical transformations, with modern developments such as the underground shopping mall 'Globus' enhancing its urban landscape."
+      ]
+    },
+    {
+      "heading": "Future Developments",
+      "paragraphs": [
+        "Plans for future developments in and around Maidan Nezalezhnosti include the demolition of the old Hotel Ukraine and the construction of a new 68-floor building, indicating ongoing urban evolution in Kyiv's central area."
+      ]
+    }
+  ],
+  "links_out": [
+    "euromaidan",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "orange-revolution",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Maidan Nezalezhnosti — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maidan_Nezalezhnosti",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-08",
+  "status": "published"
+}

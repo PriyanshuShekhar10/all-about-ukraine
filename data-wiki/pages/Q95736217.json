@@ -1,0 +1,84 @@
+{
+  "qid": "Q95736217",
+  "slug": "culture-of-ukraine",
+  "title": "culture of Ukraine",
+  "type": "culture of an area",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "culture of an area",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The culture of Ukraine encompasses the material and spiritual values of its people, shaped by a rich history that includes strong family ties, religious influences, and traditional arts. This culture has persisted through various historical challenges and has seen a revival since Ukraine's independence in 1991.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "[[ukrainian|Ukrainian]] culture has maintained its identity despite numerous historical challenges, including foreign domination. Since gaining independence in 1991, there has been a significant cultural resurgence. The earliest cultural artifacts in [[ukraine|Ukraine]] date back to the Neanderthal era, with notable contributions from nomadic tribes like the Scythians in the 4th century BCE, who created exquisite gold ornaments.",
+        "Modern Ukrainian culture is considered a descendant of the ancient state of [[kievan-rus|Kievan Rus]]', with [[kyiv|Kyiv]] and the [[kingdom-of-galiciavolhynia|Kingdom of Galicia–Volhynia]] regarded as historical ancestors. Historian [[mykhailo-hrushevskyi|Mykhailo Hrushevsky]] referred to Ukraine as Ukraine-Rus, highlighting its historical claims."
+      ]
+    },
+    {
+      "heading": "Art and Folklore",
+      "paragraphs": [
+        "Traditional folk art, including embroidery and vernacular architecture, plays a vital role in Ukrainian culture. The strong tradition of embroidery is recognized as an art form. Ukrainian customs are influenced by various religious traditions, including Ukrainian Greek Catholicism and Eastern Orthodoxy, as well as Slavic mythology.",
+        "Social gatherings, such as vechornytsi, and traditional holidays like Ivan Kupala Night and Malanka are integral to community life."
+      ]
+    },
+    {
+      "heading": "Religious Influence",
+      "paragraphs": [
+        "Religion is a significant aspect of Ukrainian culture, with Eastern Orthodox Christianity and Eastern Catholicism being the most widely practiced. The [[ukrainian-orthodox-church|Ukrainian Orthodox Church]] is the largest denomination, followed by the [[ukrainian-greek-catholic-church|Ukrainian Greek Catholic Church]], which practices Byzantine rites and is in communion with the Roman Catholic Church."
+      ]
+    },
+    {
+      "heading": "Cultural Heritage and Challenges",
+      "paragraphs": [
+        "Ukrainian culture has faced numerous obstacles, particularly during periods of Russification, which sought to assimilate the population and suppress cultural expression. Despite these challenges, the culture has preserved its originality and continues to thrive.",
+        "During the ongoing conflict with Russia, significant damage has been inflicted on cultural infrastructure, with 1,945 cultural objects reported damaged. The Ministry of Culture and Information Policy estimates that rebuilding these sites may take about 10 years."
+      ]
+    },
+    {
+      "heading": "Arts and Literature",
+      "paragraphs": [
+        "[[ukrainian-literature|Ukrainian literature]] has developed under challenging conditions due to foreign domination, which often restricted the use of the Ukrainian language. Nonetheless, Ukrainian authors have contributed significantly to both Ukrainian and Russian literature.",
+        "Visual arts in Ukraine include a rich tradition of ornamentation and design, with various regions showcasing unique styles. Museums such as the Ivan Honchar Museum and the [[pysanka|Pysanka]] Museum are dedicated to preserving this heritage."
+      ]
+    },
+    {
+      "heading": "Sports and Tourism",
+      "paragraphs": [
+        "Ukraine has a vibrant sports culture, with football being the most popular sport. The Vyscha Liha, or Ukrainian Premier League, features prominent teams like FC Dynamo Kyiv and FC Shakhtar [[donetsk|Donetsk]]. Ukraine has also made its mark in the Olympics, particularly in the Summer Games.",
+        "Tourism plays a significant role in Ukraine's economy, attracting over 20 million visitors annually to its natural wonders, historical sites, and cultural festivals."
+      ]
+    }
+  ],
+  "links_out": [
+    "donetsk",
+    "kievan-rus",
+    "kingdom-of-galiciavolhynia",
+    "kyiv",
+    "mykhailo-hrushevskyi",
+    "pysanka",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-greek-catholic-church",
+    "ukrainian-literature",
+    "ukrainian-orthodox-church"
+  ],
+  "sources": [
+    {
+      "title": "Culture of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-08",
+  "status": "published"
+}

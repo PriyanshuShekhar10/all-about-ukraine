@@ -1,0 +1,77 @@
+{
+  "qid": "Q1288",
+  "slug": "carpathians",
+  "title": "Carpathians",
+  "type": "mountain range",
+  "category": "geography",
+  "aliases": [
+    "Carpathian Mountains"
+  ],
+  "infobox": {
+    "label": "mountain range",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Serbia, Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "2,655",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "47.0000, 25.5000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Carpathian Mountains, known as Карпати in Ukrainian, are a significant mountain range in Central and Southeast Europe, extending approximately 1,500 km (930 mi) and featuring diverse ecosystems and geological formations. The range plays a crucial role in Ukraine's natural landscape and biodiversity.",
+  "sections": [
+    {
+      "heading": "Geographical Overview",
+      "paragraphs": [
+        "The Carpathian Mountains form an arc across Central and Southeast Europe, stretching from the Western Carpathians in Austria, the Czech Republic, Slovakia, and Poland, to the Eastern Carpathians in [[ukraine|Ukraine]] and Romania, and further to the Southern Carpathians in Romania and Serbia. The range covers an area of 190,000 km2 (73,000 sq mi) and includes significant portions in Ukraine, which accounts for 10% of the total range."
+      ]
+    },
+    {
+      "heading": "Ecological Significance",
+      "paragraphs": [
+        "The Carpathians are home to the largest populations of brown bears, wolves, chamois, and lynxes in Europe, with a notable concentration in Romania. The region also supports over one-third of all European plant species. The [[ukrainian-carpathians|Ukrainian Carpathians]] contribute to this biodiversity, providing essential habitats and ecological resources."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Historically, the Carpathians have been referred to by various names, including Montes Sarmatici in late Roman texts and Carpates in Ptolemy's Geographia. In [[ukrainian|Ukrainian]], the range is called Карпати, reflecting its deep-rooted significance in the region's history and culture."
+      ]
+    },
+    {
+      "heading": "Geological Features",
+      "paragraphs": [
+        "The Carpathians were formed during the Alpine orogeny and consist of several distinct geological groups. The mountains feature a fold and thrust belt and are known for their seismic activity. The Ukrainian segment of the Carpathians includes unique geological formations that contribute to the overall diversity of the range."
+      ]
+    },
+    {
+      "heading": "Cultural and Economic Relevance",
+      "paragraphs": [
+        "The Carpathians are not only a natural landmark but also a cultural symbol for the regions they span, including Ukraine. The mountains influence local economies through tourism, forestry, and natural resources, while also serving as a site for traditional practices and local heritage."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine",
+    "ukrainian",
+    "ukrainian-carpathians"
+  ],
+  "sources": [
+    {
+      "title": "Carpathian Mountains — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Carpathian_Mountains",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-08",
+  "status": "published"
+}

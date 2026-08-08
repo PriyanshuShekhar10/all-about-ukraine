@@ -1,0 +1,100 @@
+{
+  "qid": "Q84151",
+  "slug": "taras-shevchenko-national-university-of-kyiv",
+  "title": "Taras Shevchenko National University of Kyiv",
+  "type": "public university",
+  "category": "culture",
+  "aliases": [
+    "Kyiv National University named after Taras Shevchenko",
+    "Kyiv State University",
+    "Kyiv University",
+    "National University of Kyiv",
+    "Shevchenko University",
+    "Taras Shevchenko University",
+    "Taras Shevchenko University of Kiev",
+    "University of Kiev"
+  ],
+  "infobox": {
+    "label": "public university",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1834",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Russian Empire, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Kyiv",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4419, 30.5113",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Taras Shevchenko National University of Kyiv is a prominent public university located in Kyiv, Ukraine, recognized as the third-oldest university in the country. Established in 1834, it has evolved into a leading center for education and research, named after the influential Ukrainian poet and artist Taras Shevchenko.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Taras Shevchenko National University of Kyiv, also referred to as Kyiv University or KNU, is a public educational institution situated in [[kyiv|Kyiv]], [[ukraine|Ukraine]]. It is the third-oldest university in the country, following the University of [[lviv|Lviv]] and the University of [[kharkiv|Kharkiv]], and comprises 15 faculties and five institutes."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Founded in 1834 by Nicholas I of Russia, the university was originally named the Saint Vladimir Imperial University of Kiev. The name was chosen to reflect the significance of Vladimir the Great in the context of Eastern Christianity. The university's initial structure included a single Faculty of Philosophy, which later expanded to include faculties of Law and Medicine.",
+        "In 1920, the institution was renamed Mykhailo Drahomanov University, and in 1939 it adopted its current name in honor of [[taras-shevchenko|Taras Shevchenko]], who had worked at the university as a field researcher. During World War II, the university was evacuated to Kazakhstan and later returned to Kyiv in 1943, where it resumed classes after reconstruction."
+      ]
+    },
+    {
+      "heading": "Academic Excellence",
+      "paragraphs": [
+        "Taras Shevchenko University is regarded as the most prestigious university in Ukraine, training approximately 30,000 students across various fields. It has consistently ranked as the top university in Ukraine in numerous academic assessments and is recognized for its high research output."
+      ]
+    },
+    {
+      "heading": "Campus and Facilities",
+      "paragraphs": [
+        "The university's main building, constructed between 1837 and 1843, is an architectural landmark designed in the late Russian Classicism style. The A.V. Fomin Botanical Garden, established in 1839, is part of the university and features a diverse collection of over 10,000 plant species.",
+        "The Maksymovych Library, built from 1939 to 1940, is the largest research library in Ukraine, housing around 3.5 million books and contributing to the university's status as a key educational institution."
+      ]
+    },
+    {
+      "heading": "International Relations",
+      "paragraphs": [
+        "The university maintains partnerships with over 400 international institutions and engages in student exchange programs with universities in forty countries. This includes collaborations with former Soviet republics and other nations where Ukraine has historically established educational ties."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Named after Taras Shevchenko, a pivotal figure in [[ukrainian|Ukrainian]] culture, the university serves as a vital center for cultural and intellectual development in Ukraine. Its alumni include notable figures in various fields, contributing to the university's legacy as a cornerstone of Ukrainian education and culture."
+      ]
+    }
+  ],
+  "links_out": [
+    "kharkiv",
+    "kyiv",
+    "lviv",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Taras Shevchenko National University of Kyiv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Taras_Shevchenko_National_University_of_Kyiv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-08",
+  "status": "published"
+}

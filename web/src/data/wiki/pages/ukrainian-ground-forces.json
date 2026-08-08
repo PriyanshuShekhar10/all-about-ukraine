@@ -1,0 +1,97 @@
+{
+  "qid": "Q682152",
+  "slug": "ukrainian-ground-forces",
+  "title": "Ukrainian Ground Forces",
+  "type": "army",
+  "category": "war",
+  "aliases": [
+    "Ground Forces of Ukraine",
+    "Land Forces of Ukraine",
+    "Ukrainian Army",
+    "Ukrainian Land Forces"
+  ],
+  "infobox": {
+    "label": "army",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1917-02",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Kyiv",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Ukrainian Ground Forces, also known as the Ukrainian Army, is the land force component of the [[armed-forces-of-ukraine|Armed Forces of Ukraine]]. Established from Soviet military units following Ukraine's independence, it has undergone significant modernization and expansion, particularly in response to ongoing conflicts in the region.",
+  "sections": [
+    {
+      "heading": "Formation and Historical Context",
+      "paragraphs": [
+        "The Ukrainian Ground Forces (SVZSU) were formed from [[ukrainian|Ukrainian]] units of the Soviet Army after [[ukraine|Ukraine]] gained independence in 1991. Its historical roots trace back to the [[ukrainian-peoples-republic|Ukrainian People's Republic]]'s army from 1917 to 1922.",
+        "After the Soviet Union's dissolution, Ukraine retained much of its Soviet-era military equipment, but the army faced significant downsizing and underinvestment, leading to a decline in operational readiness by 2014."
+      ]
+    },
+    {
+      "heading": "Establishment and Early Development",
+      "paragraphs": [
+        "The Ground Forces were officially established on 6 December 1991, with a presidential decree following the declaration of Ukrainian independence. By the end of 1992, the Ukrainian Ground Forces comprised approximately 245,000 personnel and 6,500 tanks.",
+        "The forces inherited several Soviet formations, including the 1st Guards Army and the 28th Guards Motor Rifle Division, and underwent a process of restructuring and oath-taking to solidify their identity as a national army."
+      ]
+    },
+    {
+      "heading": "Challenges and Reforms",
+      "paragraphs": [
+        "In the years following its establishment, the Ukrainian Ground Forces faced challenges, including a planned reduction in troop numbers and reliance on outdated equipment. A reform plan initiated in 2000 aimed to transition to a fully professional military force.",
+        "The [[russian-annexation-of-crimea|2014 annexation of Crimea]] by Russia highlighted the vulnerabilities of the Ukrainian military, with only a fraction of troops ready for combat during the crisis."
+      ]
+    },
+    {
+      "heading": "Conflict Engagement and Modernization",
+      "paragraphs": [
+        "The Ground Forces played a crucial role during the [[war-in-donbas|war in Donbas]] starting in 2014, facing initial criticism for inadequate equipment and leadership. However, by February 2018, the forces had expanded to 200,000 active personnel and improved their equipment.",
+        "The full-scale Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] that began on 24 February 2022 further accelerated the modernization and expansion of the Ground Forces, supported by Western military aid."
+      ]
+    },
+    {
+      "heading": "Training and Education",
+      "paragraphs": [
+        "Training initiatives have evolved, with significant contributions from international partners, including the establishment of the Joint Multinational Training Group – Ukraine in 2015. This group set up training facilities aimed at enhancing combat readiness.",
+        "Key educational institutions include the [[hetman|Hetman]] Petro Sahaidachnyi National Ground Forces Academy in [[lviv|Lviv]] and the Ivan Chernyakhovsky National Defence University in [[kyiv|Kyiv]], which provide specialized training for military personnel."
+      ]
+    }
+  ],
+  "links_out": [
+    "armed-forces-of-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "hetman",
+    "kyiv",
+    "lviv",
+    "russian-annexation-of-crimea",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "war-in-donbas"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Ground Forces — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Ground_Forces",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-08",
+  "status": "published"
+}

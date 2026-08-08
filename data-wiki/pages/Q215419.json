@@ -1,0 +1,87 @@
+{
+  "qid": "Q215419",
+  "slug": "chernobyl-nuclear-power-plant",
+  "title": "Chernobyl Nuclear Power Plant",
+  "type": "nuclear power plant",
+  "category": "economy",
+  "aliases": [
+    "ChAES",
+    "Chernobyl NPP",
+    "Chernobyl Nuclear Power Station",
+    "Chornobyl NPP",
+    "Chornobyl Nuclear Power Plant",
+    "V.I. Lenin Nuclear Power Plant",
+    "Vladimir Ilyich Lenin Nuclear Power Plant"
+  ],
+  "infobox": {
+    "label": "nuclear power plant",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1972",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Soviet Union, Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "51.3896, 30.0991",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Chernobyl Nuclear Power Plant (ChNPP) is a decommissioning nuclear power facility located in northern Ukraine, near the city of Pripyat. It is historically significant due to the catastrophic disaster that occurred in 1986, which has had lasting impacts on nuclear safety and environmental policy in Ukraine and beyond.",
+  "sections": [
+    {
+      "heading": "Location and Structure",
+      "paragraphs": [
+        "The Chernobyl Nuclear Power Plant is situated approximately 16.5 kilometers (10 miles) northwest of Chernobyl and 16 kilometers (10 miles) from the Belarus–[[ukraine|Ukraine]] border, around 100 kilometers (62 miles) north of [[kyiv|Kyiv]]. The facility was originally cooled by a pond fed by the Pripyat River, located about 5 kilometers (3 miles) from its confluence with the [[dnieper|Dnieper River]].",
+        "The plant features an RBMK type graphite-moderated reactor, which is noted for its cost efficiency but is considered less safe compared to other reactor designs, such as the VVER pressurized water reactor."
+      ]
+    },
+    {
+      "heading": "History and Operations",
+      "paragraphs": [
+        "Commissioned in phases, the Chernobyl Nuclear Power Plant's four reactors began commercial operations between 1978 and 1984. The facility was initially named the Chernobyl Nuclear Power Plant of V. I. Lenin. On 26 April 1986, reactor No. 4 experienced a catastrophic explosion and meltdown, leading to the establishment of the Chernobyl exclusion zone, which is managed by the State Agency of Ukraine on Exclusion Zone Management.",
+        "Despite the disaster, the remaining three reactors continued to operate, achieving a capacity factor between 60 and 70%. Units 1 and 3 generated a total of 98 terawatt-hours (TWh) of electricity each, while unit 2 produced 75 TWh before its permanent shutdown in 1991 due to a turbine fire."
+      ]
+    },
+    {
+      "heading": "Decommissioning Process",
+      "paragraphs": [
+        "In 2015, the Chernobyl Nuclear Power Plant entered the decommissioning phase, which involves the removal of equipment contaminated during its operational period. This process is projected to continue until 2065. Although the reactors are no longer generating power, the facility maintains a significant workforce to manage the ongoing decommissioning efforts."
+      ]
+    },
+    {
+      "heading": "Impact of the 2022 Invasion",
+      "paragraphs": [
+        "From 24 February to 31 March 2022, during the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], the Chernobyl Nuclear Power Plant was occupied by Russian troops. This occupation raised concerns regarding the safety and security of the site, given its historical significance and the potential risks associated with the nuclear facility."
+      ]
+    },
+    {
+      "heading": "Construction and Design",
+      "paragraphs": [
+        "The construction of the Chernobyl Nuclear Power Plant began in 1972, with plans for a total of 12 units, although only four RBMK-1000 reactors were completed. The facility was intended to be the largest nuclear power plant in the world and, at its peak, produced about 10% of Ukraine's electricity.",
+        "Construction involved over 20 specialized organizations and utilized unique equipment, including a mobile crane capable of lifting pre-fabricated structures weighing up to 640 tons."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnieper",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Chernobyl Nuclear Power Plant — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chernobyl_Nuclear_Power_Plant",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-08",
+  "status": "published"
+}

@@ -1,0 +1,78 @@
+{
+  "qid": "Q117458",
+  "slug": "crimean-tatars",
+  "title": "Crimean Tatars",
+  "type": "people",
+  "category": "war",
+  "aliases": [
+    "Crimeans"
+  ],
+  "infobox": {
+    "label": "people",
+    "fields": [
+      {
+        "label": "Population",
+        "value": "257,592",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Location",
+        "value": "Crimea",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "Crimean Tatars are an Eastern European Turkic ethnic group indigenous to Crimea, with a rich history shaped by various migrations and cultural influences. Their population and cultural identity have faced significant challenges, particularly during the Russian Empire and the Soviet Union, yet they remain a vital part of [[ukraine|Ukraine]]'s demographic and cultural landscape.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Crimean Tatars, also known as Crimeans, are an Eastern European Turkic ethnic group native to [[crimea|Crimea]]. Their ethnogenesis occurred over centuries, integrating Mediterranean populations with those from the Eurasian Steppe. Until the 20th century, they were the most populous demographic in Crimea.",
+        "The Russian Empire's annexation of the Crimean Khanate in 1783 initiated a series of actions aimed at displacing Crimean Tatars, including violence, harassment, and forced resettlement. By 1800, an estimated 100,000 to 300,000 Crimean Tatars had left the peninsula.",
+        "Under the Soviet regime, particularly during the Stalinist era, Crimean Tatars faced severe repression. In May 1944, the Soviet State Defense Committee ordered the deportation of all Crimean Tatars, including families of soldiers in the Red Army, resulting in significant population loss."
+      ]
+    },
+    {
+      "heading": "Cultural and Linguistic Heritage",
+      "paragraphs": [
+        "The Crimean Tatar language is part of the Kipchak branch of the Turkic language family and consists of three dialects. UNESCO classified the Crimean Tatar language as severely endangered in 2010, with its status worsening to critically endangered in recent years.",
+        "The dialects include Noğay, spoken by the diaspora in Romania, Bulgaria, and Turkey; Bağçasaray, the standard language in Crimea; and Yalıboyu, an Oghuz language influenced by Ottoman Turkish. These dialects reflect the diverse historical influences on the Crimean Tatar culture."
+      ]
+    },
+    {
+      "heading": "Sub-Ethnic Groups",
+      "paragraphs": [
+        "Crimean Tatars are primarily divided into three sub-ethnic groups: the Mountain Tats, who inhabited the mountainous regions of Crimea; the Yaliboylu Tats, descendants of Ottoman settlers; and the Noğay Tatars, former inhabitants of the Crimean steppe.",
+        "Additional groups related to Crimean Tatars include the Türkmen, who migrated from Anatolia, the Urum, a Turkic-speaking group with Christian roots, and the Lipka Tatars, who played a significant role in the Crimean Tatar national movement."
+      ]
+    },
+    {
+      "heading": "Genetic Composition",
+      "paragraphs": [
+        "The genetic makeup of Crimean Tatars features two main patterns: the 'sea pattern,' linked to Mediterranean populations, and the 'steppe pattern,' associated with nomadic tribes of the Eurasian steppe. The sea pattern is primarily derived from ancient populations of Eastern Mediterranean city-states.",
+        "Research indicates that the Crimean Tatar gene pool retains elements from both historical Mediterranean and steppe populations, showcasing the complex heritage of this ethnic group."
+      ]
+    },
+    {
+      "heading": "Contemporary Status",
+      "paragraphs": [
+        "Since the dissolution of the Soviet Union in 1991, Crimean Tatars have been recognized as an indigenous [[ukrainians|people of Ukraine]], a status affirmed by international organizations. However, the Russian administration in occupied Crimea classifies them as a national minority, denying their status as the peninsula's titular nation.",
+        "Today, Crimean Tatars make up approximately 15% of Crimea's population, with significant diaspora communities in Turkey, Romania, and Bulgaria, contributing to the preservation of their cultural identity."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "ukraine",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Crimean Tatars — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Crimean_Tatars",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-08",
+  "status": "published"
+}

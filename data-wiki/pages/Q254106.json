@@ -1,0 +1,64 @@
+{
+  "qid": "Q254106",
+  "slug": "crimean-war",
+  "title": "Crimean War",
+  "type": "war",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "war",
+    "fields": [
+      {
+        "label": "Location",
+        "value": "Crimea, Caucasus",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The Crimean War was a significant conflict fought from October 1853 to February 1856 between Russia and an alliance of the Ottoman Empire, France, the United Kingdom, and Sardinia. Its implications extended to Ukraine, particularly through the involvement of the Black Sea region and the geopolitical dynamics that shaped the area during this period.",
+  "sections": [
+    {
+      "heading": "Geopolitical Context",
+      "paragraphs": [
+        "The Crimean War arose from various geopolitical factors, including the decline of the Ottoman Empire, Russian territorial ambitions following previous Russo-Turkish wars, and the interests of Britain and France in maintaining the Ottoman Empire to uphold the balance of power in Europe.",
+        "The immediate catalyst for the war was Tsar Nicholas I's demand for the protection of the Ottoman Empire's Orthodox subjects. Following the Ottoman refusal, Russian forces occupied the Danubian Principalities in July 1853, prompting the Ottomans to declare war on Russia in October."
+      ]
+    },
+    {
+      "heading": "Military Engagements",
+      "paragraphs": [
+        "In March 1854, Britain and France entered the war on the side of the Ottomans, motivated by concerns over Russian expansion and public outrage following the destruction of the Ottoman fleet at Sinop. The Russian advance was halted at Silistria in June 1854.",
+        "Allied forces landed in [[crimea|Crimea]] in September 1854, aiming to capture [[sevastopol|Sevastopol]], Russia's primary naval base in the Black Sea. They achieved an early victory at the Battle of the Alma, followed by repelling Russian counterattacks at Balaclava and Inkerman. The conflict then settled into the prolonged Siege of Sevastopol, which lasted for 11 months."
+      ]
+    },
+    {
+      "heading": "Outcome and Consequences",
+      "paragraphs": [
+        "Sevastopol fell to the allies after a renewed assault in September 1855, leading to Russia's request for peace in March 1856. The Treaty of Paris, signed on 30 March 1856, concluded the war, prohibiting Russia from basing warships in the Black Sea and granting greater independence to the Ottoman vassal states of Wallachia and Moldavia.",
+        "The war highlighted significant military and logistical failures, prompting calls for reforms in military and medical practices, notably led by Florence Nightingale. It also marked a turning point for the Russian Empire, weakening its military and prompting social reforms, including the emancipation of serfs in 1861."
+      ]
+    },
+    {
+      "heading": "Impact on Ukraine",
+      "paragraphs": [
+        "The Crimean War had direct implications for [[ukraine|Ukraine]], particularly through the control of the Black Sea and the involvement of [[ukrainian|Ukrainian]] territories such as the Danubian Principalities. The war's outcomes influenced the geopolitical landscape of Eastern Europe, affecting Ukraine's relationship with both Russia and the Ottoman Empire.",
+        "Moreover, the conflict underscored the significance of the Black Sea region, a critical area for trade and military strategy, which has continued to be relevant in Ukraine's historical and contemporary context."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "sevastopol",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Crimean War — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Crimean_War",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-08",
+  "status": "published"
+}

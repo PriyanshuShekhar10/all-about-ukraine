@@ -42,7 +42,7 @@
     {
       "heading": "Overview of the Disaster",
       "paragraphs": [
-        "On April 26, 1986, an explosion at reactor 4 of the Chernobyl Nuclear Power Plant, located near Pripyat, [[ukraine|Ukraine]], resulted in dozens of immediate casualties and thousands of subsequent health complications. This incident is classified as one of only two nuclear accidents rated at the highest severity on the International Nuclear Event Scale, the other being the Fukushima disaster in Japan in 2011.",
+        "On April 26, 1986, an explosion at reactor 4 of the [[chernobyl-nuclear-power-plant|Chernobyl Nuclear Power Plant]], located near Pripyat, [[ukraine|Ukraine]], resulted in dozens of immediate casualties and thousands of subsequent health complications. This incident is classified as one of only two nuclear accidents rated at the highest severity on the International Nuclear Event Scale, the other being the Fukushima disaster in Japan in 2011.",
         "The disaster occurred during a test intended to simulate reactor cooling during a severe accident under blackout conditions. Due to significant design flaws, a power surge occurred when the reactor was shut down, leading to a rupture of reactor components, loss of coolant, and subsequent steam explosions and meltdown."
       ]
     },
@@ -74,6 +74,7 @@
     }
   ],
   "links_out": [
+    "chernobyl-nuclear-power-plant",
     "ukraine"
   ],
   "sources": [

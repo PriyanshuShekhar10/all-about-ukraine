@@ -1,0 +1,86 @@
+{
+  "qid": "Q17074103",
+  "slug": "modern-history-of-ukraine",
+  "title": "modern history of Ukraine",
+  "type": "historical period",
+  "category": "history",
+  "aliases": [
+    "history of modern Ukraine",
+    "modern Ukraine"
+  ],
+  "infobox": {
+    "label": "historical period",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Eastern Europe",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The modern history of Ukraine is marked by its evolution from a region under imperial control to an independent nation-state, characterized by significant events such as the Ukrainian National Revival, the struggle for independence, Soviet rule, and ongoing conflicts in the post-Soviet era.",
+  "sections": [
+    {
+      "heading": "Ukrainian National Revival",
+      "paragraphs": [
+        "The concept of [[ukraine|Ukraine]] as a nation and the emergence of [[ukrainians|Ukrainians]] as a distinct nationality began with the [[ukrainian|Ukrainian]] National Revival in the late 18th and early 19th centuries. This period is often linked to the publication of the first part of 'Eneyida' by Ivan Kotlyarevsky in 1798.",
+        "In 1846, 'Istoriya Rusov ili Maloi Rossii' (History of Ruthenians or Little Russia) was published in Moscow. The Supreme Ruthenian Council was established in Lemberg ([[lviv|Lviv]]) in 1848, declaring that Galician Ruthenians were part of a larger Ukrainian nation and adopting the yellow and blue flag, which is now the national flag of Ukraine."
+      ]
+    },
+    {
+      "heading": "Independence and Soviet Era",
+      "paragraphs": [
+        "Ukraine first declared independence in late 1917 amid the Bolshevik invasion. Following World War I and the Peace of Riga, Ukraine was partitioned between Poland and Bolshevik Russia, with the Bolshevik-controlled area becoming the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]].",
+        "In 1922, the Ukrainian Soviet Socialist Republic became one of the founding members of the Soviet Union. The devastating Soviet famine of 1932–33, known as [[holodomor|Holodomor]], resulted in the deaths of an estimated 6 to 8 million people, primarily in Ukraine."
+      ]
+    },
+    {
+      "heading": "World War II and Aftermath",
+      "paragraphs": [
+        "During World War II, the Soviet Union was invaded by Germany in 1941. Many Ukrainians initially viewed the German forces as liberators from Soviet rule, while others engaged in resistance through the [[ukrainian-insurgent-army|Ukrainian Insurgent Army]] against both Soviet and Nazi troops.",
+        "In 1945, Ukraine was recognized as one of the founding members of the United Nations despite being part of the Soviet Union. The Crimean Oblast was transferred from the Russian Soviet Federative Socialist Republic to the Ukrainian Soviet Socialist Republic in 1954."
+      ]
+    },
+    {
+      "heading": "Post-Soviet Independence",
+      "paragraphs": [
+        "Ukraine achieved independence in 1991 following the dissolution of the Soviet Union, a status confirmed by a referendum. The enlargement of the European Union in 2004 led to Ukraine becoming a focal point of influence between the EU and the Russian Federation.",
+        "This geopolitical tension resulted in a political divide between pro-European [[western-ukraine|Western Ukraine]] and pro-Russian Eastern Ukraine, culminating in significant events such as the [[orange-revolution|Orange Revolution]], the [[euromaidan|Euromaidan]] protests, and the outbreak of the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]] in 2014, which continues to affect the nation."
+      ]
+    },
+    {
+      "heading": "19th Century Context",
+      "paragraphs": [
+        "In the 19th century, Ukraine was divided among the Russian Empire, the Ottoman Empire, and the Polish–Lithuanian Commonwealth. The Russian Empire's annexation of Ukrainian territories and the imposition of Russification policies stifled Ukrainian culture and language.",
+        "Despite this repression, the nationalistic spirit inspired Ukrainian intellectuals, leading to a cultural revival. The Austrian Empire's governance in Galicia allowed for some local representation, but the overall experience of Ukrainians during this period was one of struggle against imperial dominance."
+      ]
+    }
+  ],
+  "links_out": [
+    "euromaidan",
+    "full-scale-russo-ukrainian-war",
+    "holodomor",
+    "lviv",
+    "orange-revolution",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-insurgent-army",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainians",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Modern history of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Modern_history_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-08",
+  "status": "published"
+}
