@@ -4,11 +4,13 @@ from __future__ import annotations
 
 import json
 import os
+import random
 import re
 import time
 import urllib.parse
 import urllib.request
 from pathlib import Path
+from urllib.error import HTTPError, URLError
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA_WIKI = ROOT / "data-wiki"
@@ -16,7 +18,15 @@ PAGES_DIR = DATA_WIKI / "pages"
 CACHE_DIR = ROOT / "wiki" / "cache"
 TERMS_JSON = DATA_WIKI / "terms.json"
 
-USER_AGENT = "UkraineWikiBot/0.1 (educational project; contact: local dev)"
+USER_AGENT = (
+    "UkraineWikiBot/0.1 "
+    "(+https://github.com/PriyanshuShekhar10/all-about-ukraine)"
+)
+
+# HTTP statuses worth retrying (rate limits + transient server errors). Shared
+# CI IPs (e.g. GitHub Actions) get 429'd by Wikimedia frequently, so we back off
+# and honor Retry-After instead of failing hard.
+RETRY_STATUS = {429, 500, 502, 503, 504}
 
 
 def load_env(path: Path | None = None) -> None:
@@ -32,7 +42,7 @@ def load_env(path: Path | None = None) -> None:
 
 
 def http_get(url: str, params: dict | None = None, accept: str | None = None,
-             retries: int = 3, backoff: float = 1.5) -> str:
+             retries: int = 6, backoff: float = 2.0) -> str:
     if params:
         url = f"{url}?{urllib.parse.urlencode(params)}"
     last_err: Exception | None = None
@@ -42,11 +52,24 @@ def http_get(url: str, params: dict | None = None, accept: str | None = None,
             req.add_header("User-Agent", USER_AGENT)
             if accept:
                 req.add_header("Accept", accept)
-            with urllib.request.urlopen(req, timeout=30) as resp:
+            with urllib.request.urlopen(req, timeout=45) as resp:
                 return resp.read().decode("utf-8")
-        except Exception as e:  # noqa: BLE001
+        except HTTPError as e:
             last_err = e
-            time.sleep(backoff * (attempt + 1))
+            retryable = e.code in RETRY_STATUS and attempt < retries - 1
+            if not retryable:
+                raise RuntimeError(f"GET failed (HTTP {e.code}): {url}\n{e}") from e
+            retry_after = e.headers.get("Retry-After") if e.headers else None
+            if retry_after and str(retry_after).strip().isdigit():
+                delay = float(retry_after)
+            else:
+                delay = backoff * (2 ** attempt)
+            time.sleep(min(delay, 60.0) + random.uniform(0, 1.0))
+        except URLError as e:
+            last_err = e
+            if attempt >= retries - 1:
+                break
+            time.sleep(min(backoff * (2 ** attempt), 60.0) + random.uniform(0, 1.0))
     raise RuntimeError(f"GET failed after {retries} tries: {url}\n{last_err}")
 
 

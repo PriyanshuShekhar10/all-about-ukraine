@@ -21,6 +21,7 @@ import argparse
 import json
 import os
 import sys
+import time
 
 from wutil import load_env, load_terms, save_terms, slugify
 
@@ -108,68 +109,71 @@ def main() -> int:
     for cat in GROW_CATEGORIES:
         cat_name = CATEGORIES[cat]
         avoid = sorted({t["name"] for t in terms if t["category"] == cat})[:120]
+        # Isolate each section: a transient API failure (e.g. Wikimedia 429 on
+        # shared CI IPs) skips this section instead of aborting the whole run,
+        # so progress from other sections is still saved.
         try:
             candidates = propose(client, cat, cat_name, avoid, want)
+
+            resolved = resolve_titles(candidates) if candidates else {}
+            picks: list[tuple[str, str]] = []
+            for title in candidates:
+                qid = resolved.get(title)
+                if not qid or qid in existing_qids or title.lower() in existing_names:
+                    continue
+                picks.append((title, qid))
+                existing_qids.add(qid)  # avoid dupes within this run
+                if len(picks) >= per_cat:
+                    break
+
+            if not picks:
+                summary[cat] = 0
+                print(f"  [{cat}] +0 (no new resolvable topics)")
+                continue
+
+            ents = fetch_entities([q for _, q in picks])
+            type_qids = [tq for tq in (instance_of(e) for e in ents.values() if e) if tq]
+            type_labels = fetch_labels(type_qids)
+
+            added_here = 0
+            for title, qid in picks:
+                ent = ents.get(qid)
+                if not ent:
+                    continue
+                label = ent.get("labels", {}).get("en", {}).get("value") or title
+                sitelinks = ent.get("sitelinks", {})
+                wp = sitelinks.get("enwiki", {}).get("title")
+                if not wp:  # need an English article to ground synthesis on
+                    continue
+                aliases = [a["value"] for a in ent.get("aliases", {}).get("en", [])]
+                t31 = instance_of(ent)
+                slug = slugify(label)
+                base, n = slug, 2
+                while slug in used_slugs:
+                    slug, n = f"{base}-{n}", n + 1
+                used_slugs.add(slug)
+                existing_names.add(label.lower())
+                new_terms.append(
+                    {
+                        "qid": qid,
+                        "slug": slug,
+                        "name": label,
+                        "wp_title": wp,
+                        "type": type_labels.get(t31 or "", "topic"),
+                        "category": cat,  # honor the requested section
+                        "aliases": sorted(set(aliases)),
+                        "notability": len(sitelinks),
+                        "status": "queued",
+                    }
+                )
+                added_here += 1
+            summary[cat] = added_here
+            picked = ", ".join(t for t, _ in picks[:added_here])
+            print(f"  [{cat}] +{added_here}: {picked}")
         except Exception as e:  # noqa: BLE001
-            print(f"  [{cat}] propose failed: {e}")
             summary[cat] = 0
-            continue
-
-        resolved = resolve_titles(candidates) if candidates else {}
-        picks: list[tuple[str, str]] = []
-        for title in candidates:
-            qid = resolved.get(title)
-            if not qid or qid in existing_qids or title.lower() in existing_names:
-                continue
-            picks.append((title, qid))
-            existing_qids.add(qid)  # avoid dupes within this run
-            if len(picks) >= per_cat:
-                break
-
-        if not picks:
-            summary[cat] = 0
-            print(f"  [{cat}] +0 (no new resolvable topics)")
-            continue
-
-        ents = fetch_entities([q for _, q in picks])
-        type_qids = [tq for tq in (instance_of(e) for e in ents.values() if e) if tq]
-        type_labels = fetch_labels(type_qids)
-
-        added_here = 0
-        for title, qid in picks:
-            ent = ents.get(qid)
-            if not ent:
-                continue
-            label = ent.get("labels", {}).get("en", {}).get("value") or title
-            sitelinks = ent.get("sitelinks", {})
-            wp = sitelinks.get("enwiki", {}).get("title")
-            if not wp:  # need an English article to ground synthesis on
-                continue
-            aliases = [a["value"] for a in ent.get("aliases", {}).get("en", [])]
-            t31 = instance_of(ent)
-            slug = slugify(label)
-            base, n = slug, 2
-            while slug in used_slugs:
-                slug, n = f"{base}-{n}", n + 1
-            used_slugs.add(slug)
-            existing_names.add(label.lower())
-            new_terms.append(
-                {
-                    "qid": qid,
-                    "slug": slug,
-                    "name": label,
-                    "wp_title": wp,
-                    "type": type_labels.get(t31 or "", "topic"),
-                    "category": cat,  # honor the requested section
-                    "aliases": sorted(set(aliases)),
-                    "notability": len(sitelinks),
-                    "status": "queued",
-                }
-            )
-            added_here += 1
-        summary[cat] = added_here
-        picked = ", ".join(t for t, _ in picks[:added_here])
-        print(f"  [{cat}] +{added_here}: {picked}")
+            print(f"  [{cat}] skipped (transient error): {e}")
+        time.sleep(1.0)
 
     total = sum(summary.values())
     if args.dry_run:

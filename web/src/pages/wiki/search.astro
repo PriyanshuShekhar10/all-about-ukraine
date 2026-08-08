@@ -33,7 +33,15 @@ import Base from "@/layouts/Base.astro";
     <script is:inline src="/pagefind/pagefind-ui.js"></script>
     <script is:inline>
       window.addEventListener("DOMContentLoaded", () => {
-        if (typeof PagefindUI === "undefined") return;
+        if (typeof PagefindUI === "undefined") {
+          // Pagefind builds its index only during `astro build` (see the
+          // `pagefind --site dist` step), so it is absent in `astro dev`.
+          var el = document.getElementById("search");
+          if (el)
+            el.innerHTML =
+              '<p class="text-body">The search index is generated at build time, so it is unavailable in the dev server. Run <code>npm run build &amp;&amp; npm run preview</code>, or use the deployed site.</p>';
+          return;
+        }
         new PagefindUI({
           element: "#search",
           showSubResults: true,
