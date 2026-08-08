@@ -1,8 +1,11 @@
-name: Grow wiki (hourly)
+name: Grow wiki (daily)
 
-# Adds new encyclopedia entries every hour — evenly across all sections — and
+# Adds new encyclopedia entries once a day — evenly across all sections — and
 # commits them to the repo. It only ADDS to the existing corpus; it never
 # replaces what is already there.
+#
+# Rate: throttled to ~100 entries/day (14 per section x 7 sections = 98).
+# Bump `per_category` (or add more scheduled runs) later to grow faster.
 #
 # Deployment:
 #   * If the repo is connected to Cloudflare Pages via Git integration,
@@ -12,12 +15,12 @@ name: Grow wiki (hourly)
 
 on:
   schedule:
-    - cron: "0 * * * *" # top of every hour (UTC)
+    - cron: "0 0 * * *" # once a day at 00:00 UTC
   workflow_dispatch:
     inputs:
       per_category:
         description: "New entries to add per section"
-        default: "10"
+        default: "14"
 
 concurrency:
   group: grow-wiki
@@ -32,7 +35,7 @@ jobs:
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4o-mini' }}
-      PER_CATEGORY: ${{ github.event.inputs.per_category || '10' }}
+      PER_CATEGORY: ${{ github.event.inputs.per_category || '14' }}
       CF_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
       CF_ACCOUNT_ID: "7c486fb2ca6b72301939bdbc6e836332"
     steps:
