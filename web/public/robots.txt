@@ -2,5 +2,55 @@
 # "noindex" robots meta tag. Crawling is left allowed on purpose so that
 # crawlers can fetch the pages and actually read the noindex directive
 # (a blanket Disallow would hide the noindex and could leave stale URLs indexed).
+#
+# AI crawlers are explicitly welcome. Because a named User-agent group overrides
+# the "*" group for that bot, each AI crawler below repeats "Allow: /".
+
 User-agent: *
+Allow: /
+
+# --- AI / LLM crawlers (explicitly allowed) ---
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Diffbot
 Allow: /
