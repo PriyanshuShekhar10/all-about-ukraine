@@ -1,0 +1,82 @@
+{
+  "qid": "Q629702",
+  "slug": "leonid-kuchma",
+  "title": "Leonid Kuchma",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Leonid Danylovych Kuchma"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1938-08-09",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Chaikyne",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "President of Ukraine, Prime Minister of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Leonid Danylovych Kuchma is a prominent Ukrainian politician who served as the second president of Ukraine from 19 July 1994 to 23 January 2005. His presidency is noted for economic stabilization and improved relations with Russia, but also for democratic backsliding and increased oligarchic influence.",
+  "sections": [
+    {
+      "heading": "Early Life and Family",
+      "paragraphs": [
+        "Leonid Danylovych Kuchma was born on 9 August 1938 in the village of Chaikyne, located in [[chernihiv|Chernihiv]] Oblast. He was the youngest of three children in a peasant family. Kuchma's early life was influenced by a blend of [[ukrainian|Ukrainian]], Belarusian, and Russian cultures, and he experienced significant poverty during his childhood, especially during the Soviet famine of 1946–1947.",
+        "Kuchma's father, Danylo Prokopovych, was a member of the Communist Party and served in the Red Army during World War II, dying in 1944. After the war, the family faced hardships and lived in a kolkhoz, which shaped Kuchma's upbringing."
+      ]
+    },
+    {
+      "heading": "Engineering and Business Career",
+      "paragraphs": [
+        "Kuchma graduated from [[dnipro|Dnipropetrovsk]] State University in 1960 with a degree in engineering physics. He began his career in aerospace engineering at the Pivdenne Design Bureau, where he contributed to missile and space rocket designs. He became the director of Pivdenmash in 1986, a key manufacturer of intercontinental ballistic missiles in the Soviet Union."
+      ]
+    },
+    {
+      "heading": "Political Career",
+      "paragraphs": [
+        "Kuchma's political journey began in 1990 when he was elected to the [[verkhovna-rada|Verkhovna Rada]]. He served as [[prime-minister-of-ukraine|Prime Minister of Ukraine]] from October 1992 until September 1993, where he focused on economic reform and privatization amid a severe economic crisis.",
+        "In 1994, Kuchma resigned as Prime Minister to run for the presidency, winning the election against incumbent [[leonid-kravchuk|Leonid Kravchuk]]. He was re-elected for a second term in 1999, during which his administration faced challenges such as media censorship and corruption, alongside efforts to stabilize the economy and improve Ukrainian-Russian relations."
+      ]
+    },
+    {
+      "heading": "Presidency and Legacy",
+      "paragraphs": [
+        "Kuchma's presidency lasted from 19 July 1994 to 23 January 2005, making him the only [[president-of-ukraine|Ukrainian president]] to serve two terms. His tenure saw economic growth starting in 2000, but was also marked by democratic backsliding and the rise of oligarchs. His administration faced significant scandals, including the Cassette Scandal and media censorship.",
+        "Kuchma chose not to seek a third term and supported [[viktor-yanukovych|Viktor Yanukovych]] in the 2004 election. Following the [[orange-revolution|Orange Revolution]], he acted as a mediator between the opposing political factions. After his presidency, he served as a special representative for [[ukraine|Ukraine]] in peace talks regarding the conflict in [[donbas|Donbas]] from 2014 to 2020."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernihiv",
+    "dnipro",
+    "donbas",
+    "leonid-kravchuk",
+    "orange-revolution",
+    "president-of-ukraine",
+    "prime-minister-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada",
+    "viktor-yanukovych"
+  ],
+  "sources": [
+    {
+      "title": "Leonid Kuchma — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leonid_Kuchma",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

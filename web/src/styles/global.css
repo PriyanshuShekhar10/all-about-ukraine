@@ -1,0 +1,205 @@
+@import "tailwindcss";
+
+/* ---------------------------------------------------------------------------
+   Vercel design language tokens
+--------------------------------------------------------------------------- */
+@theme {
+  /* Calm, low-glare "reference book" palette: warm paper surfaces, softened
+     ink, and a muted slate-blue link instead of a saturated brand blue. */
+  --color-ink: #26282b;
+  --color-body: #575a5f;
+  --color-mute: #8b8e92;
+  --color-hairline: #e7e4dd;
+  --color-canvas: #fbfaf7;
+  --color-canvas-soft: #f4f2ec;
+  --color-canvas-soft-2: #ece9e1;
+  --color-link: #2b4a8b;
+  --color-visited: #55417a;
+  --color-success: #3f6b4a;
+  --color-error: #a6483c;
+  --color-warning: #9a7b3f;
+
+  /* Plain print-encyclopedia type: a workhorse serif for everything, with a
+     system sans reserved only for tiny UI labels. */
+  --font-sans: Georgia, "Iowan Old Style", "Palatino Linotype", Palatino,
+    "Times New Roman", serif;
+  --font-ui: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-mono: ui-monospace, "SFMono-Regular", "JetBrains Mono", monospace;
+
+  /* Square, undecorated. */
+  --radius-xs: 0px;
+  --radius-sm: 0px;
+  --radius-md: 0px;
+  --radius-lg: 0px;
+  --radius-xl: 0px;
+  --radius-pill: 0px;
+
+  --shadow-card: none;
+  --shadow-card-hover: none;
+  --shadow-modal: none;
+}
+
+/* ---------------------------------------------------------------------------
+   Dark mode
+   Tokens are flipped by overriding the CSS variables, so every token-based
+   utility (bg-canvas, text-ink, border-hairline, …) switches automatically.
+   `.dark` / `.light` classes (set by the toggle) win over the system default.
+--------------------------------------------------------------------------- */
+:root {
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) {
+    color-scheme: dark;
+    --color-ink: #dedcd6;
+    --color-body: #9a9a94;
+    --color-mute: #6b6b66;
+    --color-hairline: #2a2a27;
+    --color-canvas: #161614;
+    --color-canvas-soft: #101010;
+    --color-canvas-soft-2: #1e1e1b;
+    --color-link: #8fabdc;
+    --color-visited: #b7a6d6;
+    --shadow-card: none;
+    --shadow-card-hover: none;
+  }
+}
+
+:root.dark {
+  color-scheme: dark;
+  --color-ink: #dedcd6;
+  --color-body: #9a9a94;
+  --color-mute: #6b6b66;
+  --color-hairline: #2a2a27;
+  --color-canvas: #161614;
+  --color-canvas-soft: #101010;
+  --color-canvas-soft-2: #1e1e1b;
+  --color-link: #8fabdc;
+  --color-visited: #b7a6d6;
+  --shadow-card: none;
+  --shadow-card-hover: none;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
+  /* Focus ring offsets should match the page background (fixes dark mode). */
+  --tw-ring-offset-color: var(--color-canvas-soft);
+}
+
+/* Remove the 300ms tap delay and set an intentional tap highlight. */
+a,
+button,
+select,
+[role="button"] {
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: color-mix(in srgb, var(--color-link) 18%, transparent);
+}
+
+body {
+  background-color: var(--color-canvas);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  font-size: 18px;
+  line-height: 1.6;
+  text-rendering: optimizeLegibility;
+}
+
+/* Classic document links: always underlined, traditional blue/purple. */
+.doc a,
+a.doclink {
+  color: var(--color-link);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.doc a:visited,
+a.doclink:visited {
+  color: var(--color-visited);
+}
+.doc a:hover,
+a.doclink:hover {
+  color: var(--color-ink);
+}
+
+/* Small UI labels (nav, eyebrows) use a plain system sans. */
+.ui {
+  font-family: var(--font-ui);
+}
+
+/* Anchored headings clear the sticky header. */
+:target {
+  scroll-margin-top: 6rem;
+}
+
+/* Consistent, visible focus for keyboard users. */
+:focus-visible {
+  outline: 2px solid var(--color-link);
+  outline-offset: 2px;
+  border-radius: var(--radius-xs);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Utilities / components
+--------------------------------------------------------------------------- */
+
+/* Expandable "post" (native <details>) — accessible, no JS. */
+.post details > summary {
+  list-style: none;
+  cursor: pointer;
+}
+.post details > summary::-webkit-details-marker {
+  display: none;
+}
+.post details > summary .chevron {
+  transition: transform 0.2s ease;
+}
+.post details[open] > summary .chevron {
+  transform: rotate(90deg);
+}
+.post details > summary .label-open {
+  display: none;
+}
+.post details[open] > summary .label-open {
+  display: inline;
+}
+.post details[open] > summary .label-closed {
+  display: none;
+}
+
+/* Theme toggle: show the icon for the theme you can switch TO. */
+.theme-toggle .icon-sun {
+  display: none;
+}
+:root.dark .theme-toggle .icon-sun {
+  display: block;
+}
+:root.dark .theme-toggle .icon-moon {
+  display: none;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) .theme-toggle .icon-sun {
+    display: block;
+  }
+  :root:not(.light) .theme-toggle .icon-moon {
+    display: none;
+  }
+}
+
+/* Restrained hero surface — a flat sheet of "paper", no decoration. */
+@utility mesh-hero {
+  background-color: var(--color-canvas);
+}

@@ -1,0 +1,113 @@
+{
+  "qid": "Q156743",
+  "slug": "ternopil",
+  "title": "Ternopil",
+  "type": "city of regional significance of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Cernopol",
+    "Tarnepol",
+    "Tarnopol",
+    "Tarnopolis",
+    "Ternopil'",
+    "Ternopilis",
+    "Ternopilj",
+    "Ternopilo",
+    "Ternopol'",
+    "Ternópil"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1540",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Crown of the Kingdom of Poland",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "218,653",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "59",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "320",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Serhiy Nadal",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.5667, 25.6000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Ternopil, formerly known as Tarnopol until 1944, is a significant city in western Ukraine, situated along the Seret River. As a key urban center in the historical regions of Galicia and Podolia, Ternopil plays an important role in the cultural and administrative landscape of Ukraine.",
+  "sections": [
+    {
+      "heading": "Historical Overview",
+      "paragraphs": [
+        "Ternopil was founded in 1540 by Polish commander and [[hetman|Hetman]] Jan Amor Tarnowski as a border fortress for the Kingdom of Poland. The name Tarnopol translates to 'Tarnowski's city', derived from the founder's family name and the Greek word 'polis'. Initially serving as a military stronghold, the city faced numerous attacks from Turks, Tatars, and Zaporozhian [[cossacks|Cossacks]].",
+        "The city experienced a decline but regained significance in the 19th century, becoming a transit point between the Austrian monarchy and the Russian Empire. During the early 20th century, Ternopil was notable for having a [[ukrainian|Ukrainian]] majority among its population. It underwent various political changes, including periods of Russian, Ukrainian, and Soviet rule, before becoming part of Interwar Poland.",
+        "During World War II, Ternopil was occupied by both Soviet and German forces, suffering extensive damage. After the war, it was incorporated into the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]] and has been part of independent [[ukraine|Ukraine]] since 1991."
+      ]
+    },
+    {
+      "heading": "Geographical and Demographic Context",
+      "paragraphs": [
+        "Ternopil is located in western Ukraine and serves as the administrative center of Ternopil Oblast and Ternopil Raion. The city has a moderate continental climate characterized by cold winters and warm summers.",
+        "As of the 2022 estimate, Ternopil's population stands at approximately 225,004. The demographic composition has evolved significantly over time, with a current population that is predominantly ethnic Ukrainian. According to the 2001 Ukrainian census, Ternopil city and its oblast are largely Ukrainian-speaking."
+      ]
+    },
+    {
+      "heading": "Economic Significance",
+      "paragraphs": [
+        "Ternopil is recognized as a center for various industries, including light industry, food production, and construction. The city has historically been important for its industrial contributions, particularly during the Soviet era, when it developed a robust manufacturing sector."
+      ]
+    },
+    {
+      "heading": "Transport and Education",
+      "paragraphs": [
+        "Ternopil is a vital railway hub, providing connections to major railway stations across Ukraine. The city is also located along the M12 international highway, facilitating transport between western and central regions of the country. Public transport includes trolleybus lines and a bus station.",
+        "Higher education institutions in Ternopil include the West Ukrainian National University, Ternopil Ivan Pul'uj National Technical University, Ternopil Volodymyr Hnatyuk National Pedagogical University, and Ternopil State Medical University."
+      ]
+    },
+    {
+      "heading": "Cultural Heritage and Notable Figures",
+      "paragraphs": [
+        "Ternopil is home to several cultural landmarks, including the Ternopil Regional Art Museum, Ternopil Drama Theater, and various religious sites such as the Ukrainian Greek Catholic Cathedral of the Immaculate Conception of The Blessed Virgin Mary.",
+        "The city has produced notable individuals in various fields, including Ukrainian composer Vasyl Barvinsky, journalist Vitaly Derekh, and cultural activist Ihor Duda, reflecting its rich cultural heritage."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossacks",
+    "hetman",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Ternopil — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ternopil",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

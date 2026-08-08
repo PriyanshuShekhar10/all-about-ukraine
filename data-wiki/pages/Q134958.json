@@ -1,0 +1,95 @@
+{
+  "qid": "Q134958",
+  "slug": "taras-shevchenko",
+  "title": "Taras Shevchenko",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Grigor'yevich Shevchenko",
+    "K.Darmohrai",
+    "Kobzar Darmohrai",
+    "Perebendya",
+    "T. Shevchenko",
+    "T.Sh",
+    "Taras Grigor'evič Ševčenko",
+    "Taras Grigor'yevich Shevchenko",
+    "Taras Grigorjevič Ševčenko",
+    "Taras Hryhorovych Shevchenko",
+    "Taras Hryhorovyč Ševčenko",
+    "Taras Ševčenko",
+    "Taras. Shevchenko",
+    "Tarass Grigorjewitsch Schewtschenko"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1814-02-25",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1861-03-10",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Moryntsi",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Taras Hryhorovych Shevchenko (9 March 1814 – 10 March 1861) was a prominent Ukrainian poet, writer, artist, and political figure, whose works are foundational to modern Ukrainian literature and language. His literary and artistic contributions have made him a significant cultural icon in Ukraine and among Slavic nations.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Taras Hryhorovych Shevchenko was born on 9 March 1814 in Morintsy, located in the Zvenigorodka uezd of Kiev Governorate, during a time when [[ukraine|Ukraine]] was under Russian rule. He was the third child in a family of serfs, with his parents being Kateryna and Hryhoriy Ivanovych Shevchenko. The family worked the land owned by Vasily Engelhardt, a relative of the Russian statesman Grigory Potemkin.",
+        "In 1816, the family moved to Kyrylivka, where Taras grew up and began his education. After the death of his mother in 1823, his father remarried, and Taras faced a difficult childhood, marked by cruelty from his stepmother. He eventually left home at the age of 12 to work as a servant, which further shaped his experiences."
+      ]
+    },
+    {
+      "heading": "Artistic Development",
+      "paragraphs": [
+        "In 1828, after the death of his landlord, Taras became a kitchen servant for Pavel Engelhardt. During this time, he was introduced to the luxuries of the Russian nobility and began to cultivate his artistic talents. In 1829, he was caught painting a portrait and faced punishment, but this incident led to an apprenticeship with a painter-decorator in Warsaw, where he honed his skills.",
+        "Shevchenko's artistic journey continued as he met influential figures like Ivan Soshenko, who recognized his talent and introduced him to prominent artists. Despite being a serf, Shevchenko's abilities caught the attention of Karl Briullov, a leading painter of the time, who sought to mentor him."
+      ]
+    },
+    {
+      "heading": "Liberation and Literary Success",
+      "paragraphs": [
+        "Shevchenko was liberated from serfdom on 5 May 1838, thanks to the efforts of Briullov, who raised the necessary funds. Following his emancipation, he became a student at the Imperial Academy of Arts, where he flourished both socially and artistically. His works began to gain recognition, earning him several silver medals for his paintings.",
+        "In addition to painting, Shevchenko wrote extensively, producing poetry and prose that would later be compiled in his famous collection, Kobzar. His literary works are considered the cornerstone of modern [[ukrainian-literature|Ukrainian literature]], highlighting themes of national identity and social justice."
+      ]
+    },
+    {
+      "heading": "Cultural Impact",
+      "paragraphs": [
+        "Shevchenko's contributions to [[ukrainian|Ukrainian]] culture extend beyond literature and art; he is celebrated as a national hero and symbol of Ukrainian identity. His works express the struggles and aspirations of the [[ukrainians|Ukrainian people]], and his legacy continues to inspire generations.",
+        "Comparisons have been made between Shevchenko and Robert Burns, emphasizing his significance not only in Ukraine but also in the broader Slavic cultural context. His poetry and artistic endeavors have solidified his status as a pivotal figure in the history of Ukraine."
+      ]
+    },
+    {
+      "heading": "Final Years",
+      "paragraphs": [
+        "Despite his fame and artistic success, Shevchenko faced restrictions on returning to Ukraine due to his political activities. He spent his final years in Saint Petersburg, where he continued to create until his death on 10 March 1861. His passing marked a profound loss for Ukrainian culture, but his works remain a vital part of the national heritage."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine",
+    "ukrainian",
+    "ukrainian-literature",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Taras Shevchenko — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Taras_Shevchenko",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,74 @@
+{
+  "qid": "Q12140171",
+  "slug": "petrykivka-painting",
+  "title": "Petrykivka painting",
+  "type": "style of painting",
+  "category": "culture",
+  "aliases": [
+    "Petrikivka painting",
+    "Petrykivka"
+  ],
+  "infobox": {
+    "label": "style of painting",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Petrykivka painting is a traditional Ukrainian decorative art form that originated in the village of Petrykivka, Dnipropetrovsk Oblast. Recognized for its vibrant floral patterns and unique brush techniques, this style has been an integral part of Ukrainian culture since the 18th century and continues to evolve as a modern art form.",
+  "sections": [
+    {
+      "heading": "Origins and Historical Context",
+      "paragraphs": [
+        "Petrykivka painting, known in [[ukrainian|Ukrainian]] as Петриківський розпис, is believed to have originated from mural decorations in rural homes. This folk art style was traditionally used to adorn house walls and various household items, with the earliest examples dating back to the 18th century.",
+        "The style is characterized by its floral patterns and distinctive brush techniques, typically set against a white background, although contemporary artists often utilize black, green, red, or blue backgrounds. The oldest known Ukrainian wall paintings featuring floral designs emerged in the late 19th and early 20th centuries in regions including [[dnipro|Dnipropetrovsk]] and Sloboda."
+      ]
+    },
+    {
+      "heading": "Recognition and Development",
+      "paragraphs": [
+        "The Ministry of Culture of [[ukraine|Ukraine]] recognized Petrykivka painting as part of the country's intangible cultural heritage in 2012. In 2013, it was included in the UNESCO Representative List of the Intangible Cultural Heritage of Humanity, further solidifying its significance in Ukrainian culture.",
+        "The early 20th century saw increased interest in Petrykivka painting, particularly from ethnographer Dmytro Yavornytsky, who conducted expeditions to document the art form. Subsequent exhibitions in [[kyiv|Kyiv]] and Leningrad in the 1930s helped popularize the style, leading to the establishment of a two-year school of decorative painting in Petrykivka."
+      ]
+    },
+    {
+      "heading": "Artistic Evolution",
+      "paragraphs": [
+        "During the 1930s, students of Tatiana Pata, a key figure in the Petrykivka painting tradition, began applying the style in industrial production, notably at the Kyiv [[taras-shevchenko|Taras Shevchenko]] Souvenir Factory. This period marked the introduction of varnished paintings on nontraditional black backgrounds, which became prevalent during Soviet times.",
+        "The development of Petrykivka painting continued through the establishment of a cooperative workshop in 1958, which later evolved into the 'Friendship' Factory of Petrikivka Painting. This factory produced a variety of decorated items that became synonymous with Ukrainian craftsmanship."
+      ]
+    },
+    {
+      "heading": "Contemporary Significance",
+      "paragraphs": [
+        "In 1998, the Experimental Workshop of Petrykivka Painting transformed into the Petrykivka Center of Folk Art, which now serves as a hub for approximately 40 leading artists. This center plays a crucial role in preserving and promoting the Petrykivka painting style.",
+        "Since 2007, the 'Petrykivskyi Dyvotsvit' festival has celebrated this art form through markets, workshops, and exhibitions, fostering community engagement and cultural exchange. Additionally, in 2020, Petrykivka painting was granted geographical indication status in Ukraine, ensuring the authenticity and quality of its products."
+      ]
+    },
+    {
+      "heading": "Techniques and Characteristics",
+      "paragraphs": [
+        "Petrykivka painting is distinguished by its representation of plant forms, predominantly flowers, which may be depicted in abstract forms or based on recognizable species such as dahlias, asters, and wildflowers. Common motifs also include acanthus leaves and flower buds, showcasing the rich botanical heritage of Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnipro",
+    "kyiv",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Petrykivka painting — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Petrykivka_painting",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

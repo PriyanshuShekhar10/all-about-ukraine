@@ -1,0 +1,78 @@
+{
+  "qid": "Q488006",
+  "slug": "anatoliy-solovyanenko",
+  "title": "Anatoliy Solovyanenko",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Anatoliy Borysovych Solovyanenko",
+    "Anatoliy Solovianenko"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1932-09-25",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1999-07-29",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Donetsk",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Anatoliy Borysovych Solovianenko was a prominent [[ukrainian|Ukrainian]] operatic tenor, recognized as a People's Artist of the USSR and Ukraine, and a recipient of the Shevchenko National Prize. His contributions to Ukrainian opera and culture have left a lasting legacy.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Anatoliy Solovyanenko was born on 25 September 1932 in [[donetsk|Donetsk]], which was known as Stalino at the time, into a family of miners. He graduated from Donetsk Polytechnic Institute in 1954 and subsequently taught in the engineering graphics department."
+      ]
+    },
+    {
+      "heading": "Musical Career",
+      "paragraphs": [
+        "Solovyanenko began his singing studies in 1950 under Alexander Korobeychenko, a Honoured Artist of the Russian Soviet Republic. His breakthrough came in 1962 when he won a popular talent show, leading to an invitation to perform at the National Opera of [[ukraine|Ukraine]]. He also won a young singers' contest at Milan's La Scala, where he studied from 1963 to 1965.",
+        "In 1965, he joined the National Opera of Ukraine, where he performed numerous roles, including Duke in Rigoletto, Alfredo in La Traviata, and Lenskiy in Yevgeniy Onegin. He was a soloist at the [[taras-shevchenko|Taras Shevchenko]] National Opera and Ballet Theatre in [[kyiv|Kyiv]] for 30 years and made twelve performances at the Metropolitan Opera in Kyiv."
+      ]
+    },
+    {
+      "heading": "Achievements and Awards",
+      "paragraphs": [
+        "Anatoliy Solovyanenko was honored with the title of Honoured Artist of Ukraine in 1967 and became a People's Artist of the USSR in 1975. His accolades include the Lenin Prize in 1980, which he donated to the Peace Committee, and the Miner's Glory Medal in 1982. He received the Taras Shevchenko National Prize in 1997 and a Badge of Honour from the [[president-of-ukraine|President of Ukraine]] in 1993."
+      ]
+    },
+    {
+      "heading": "Legacy and Recognition",
+      "paragraphs": [
+        "Following his sudden death from a heart attack on 29 July 1999, his funeral was attended by notable figures, including President [[leonid-kuchma|Leonid Kuchma]]. In December 1999, the Donetsk State Academic Opera and Ballet Theatre was renamed in his honor. A statue was erected at Kozyn in Kyiv Oblast, where he is buried.",
+        "In addition to the renaming of the theater, monuments were installed in his memory in Donetsk and Kyiv, and a musical titled 'Vyzov Sud'be' was produced about his life. A book by A.K. Tereshchenko detailing his life was published in 1982 and reprinted in 1988."
+      ]
+    }
+  ],
+  "links_out": [
+    "donetsk",
+    "kyiv",
+    "leonid-kuchma",
+    "president-of-ukraine",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Anatoliy Solovianenko — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anatoliy_Solovianenko",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

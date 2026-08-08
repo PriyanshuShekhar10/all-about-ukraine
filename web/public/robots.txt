@@ -1,0 +1,6 @@
+# This site is intentionally kept out of search results: every page sends a
+# "noindex" robots meta tag. Crawling is left allowed on purpose so that
+# crawlers can fetch the pages and actually read the noindex directive
+# (a blanket Disallow would hide the noindex and could leave stale URLs indexed).
+User-agent: *
+Allow: /

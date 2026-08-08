@@ -1,0 +1,87 @@
+{
+  "qid": "Q186691",
+  "slug": "oleh-blokhin",
+  "title": "Oleh Blokhin",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Oleg Blokhin"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1952-11-05",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Kyiv",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "People's Deputy of Ukraine, People's Deputy of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Oleh Blokhin is a prominent Ukrainian former football player and manager, celebrated as one of the greatest footballers of his generation. He holds numerous records in Ukrainian and Soviet football, including being the all-time top goalscorer for both Dynamo Kyiv and the Soviet Union national team.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Oleh Volodymyrovych Blokhin was born on 5 November 1952 in [[kyiv|Kyiv]], the capital of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]. He is the son of a Russian father, Vladimir Blokhin, a World War II veteran and police officer, and a [[ukrainian|Ukrainian]] mother, Kateryna Adamenko, who was a multiple champion of the USSR in various athletic disciplines."
+      ]
+    },
+    {
+      "heading": "Playing Career",
+      "paragraphs": [
+        "Blokhin had a distinguished playing career primarily with Dynamo Kyiv during the 1970s, where he became the highest goalscorer in the Soviet League, netting 211 goals. He is recognized as the all-time leading goalscorer for the Soviet Union national team with 42 goals and is the most capped player with 112 appearances. His achievements include winning eight Soviet league titles and two European Cup Winners' Cups with Dynamo Kyiv.",
+        "Blokhin represented the Soviet Union in the 1972 and 1976 Olympic Games, as well as the 1982 and 1986 FIFA World Cups. In 1975, he received the Ballon d'Or, becoming the first Ukrainian player and the second Soviet player to achieve this honor."
+      ]
+    },
+    {
+      "heading": "Managerial Career",
+      "paragraphs": [
+        "After retiring from playing, Blokhin transitioned into coaching, leading several clubs in Greece before taking charge of the [[ukraine|Ukraine]] national team in September 2003. Under his management, Ukraine qualified for the 2006 FIFA World Cup, reaching the quarter-finals. He returned to coach the national team for UEFA Euro 2012, which was hosted in Ukraine.",
+        "Blokhin also managed Dynamo Kyiv, but his tenure ended in April 2014 due to unsatisfactory results, including failing to qualify for the UEFA Champions League."
+      ]
+    },
+    {
+      "heading": "Political Involvement",
+      "paragraphs": [
+        "In addition to his football career, Blokhin was elected to the [[verkhovna-rada|Verkhovna Rada]], Ukraine's parliament, in 1998 as a member of the Hromada party. He was re-elected in March 2002 and later joined the United Social Democratic Party of Ukraine."
+      ]
+    },
+    {
+      "heading": "Family",
+      "paragraphs": [
+        "Blokhin's family includes his first wife, Irina Deriugina, a renowned rhythmic gymnastics coach, with whom he has a daughter, Iryna Blokhina, a singer. He later married Angela, with whom he has two daughters, Hanna and Katerina."
+      ]
+    },
+    {
+      "heading": "Honors and Recognition",
+      "paragraphs": [
+        "Blokhin's contributions to football have been recognized through various honors, including being named the Soviet Footballer of the Year three times and the Ukrainian Footballer of the Year nine times. He is also celebrated as a legend of Ukrainian football, receiving accolades at the Victory of Football awards in 2011."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Oleg Blokhin — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oleg_Blokhin",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

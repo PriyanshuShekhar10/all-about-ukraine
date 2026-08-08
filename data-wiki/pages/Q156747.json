@@ -1,0 +1,82 @@
+{
+  "qid": "Q156747",
+  "slug": "poltava",
+  "title": "Poltava",
+  "type": "city of regional significance of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Ltava",
+    "Pultowa"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "283,402",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "103",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "132",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.5894, 34.5514",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Poltava is a city located on the Vorskla River in Central Ukraine, serving as the administrative center of Poltava Oblast and Poltava Raion. With an estimated population of 279,593 in 2022, it holds significant historical and cultural relevance in Ukraine.",
+  "sections": [
+    {
+      "heading": "Historical Overview",
+      "paragraphs": [
+        "Poltava was first recorded as Ltava in the 12th century Rus' chronicles. The city has been known as Poltava since 1430 and became an integral part of the [[cossack-hetmanate|Cossack Hetmanate]] in the 17th century, serving as a center for a Cossack regiment in Left-bank [[ukraine|Ukraine]]. The city was the site of the pivotal Battle of Poltava in 1709 during the Great Northern War."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "From the late 18th century, Poltava emerged as a major cultural hub, hosting many figures of the [[ukrainian|Ukrainian]] national revival. Despite suffering extensive damage during World War II, the city was restored and expanded, maintaining its status as an important cultural and educational center in contemporary Ukraine."
+      ]
+    },
+    {
+      "heading": "Administrative Role",
+      "paragraphs": [
+        "Poltava serves as the administrative center of Poltava Oblast and Poltava Raion, and it is also home to the administration of the Poltava urban hromada. Following administrative reforms in Ukraine, the city was merged into Poltava Raion on 18 July 2020."
+      ]
+    },
+    {
+      "heading": "Demographics and Development",
+      "paragraphs": [
+        "As of 2022, Poltava's estimated population is 279,593. The city has undergone significant development over the years, particularly in the 19th century when it became a center for education and cultural activities, and continues to be recognized for its green spaces, making it one of the greenest cities in Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossack-hetmanate",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Poltava — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Poltava",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

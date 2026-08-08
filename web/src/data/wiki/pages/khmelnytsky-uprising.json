@@ -1,0 +1,75 @@
+{
+  "qid": "Q641479",
+  "slug": "khmelnytsky-uprising",
+  "title": "Khmelnytsky Uprising",
+  "type": "rebellion",
+  "category": "history",
+  "aliases": [
+    "Cossack-Polish War",
+    "Khmelnytsky insurrection"
+  ],
+  "infobox": {
+    "label": "rebellion",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "1648",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Location",
+        "value": "Ukraine",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The Khmelnytsky Uprising was a significant Cossack rebellion that occurred between 1648 and 1657 in the eastern territories of the Polish–Lithuanian Commonwealth, primarily in [[dnieper|Dnieper]] Ukraine. Led by Cossack Hetman Bohdan Khmelnytsky, the uprising resulted in a Cossack victory and the establishment of the Cossack Hetmanate, marking a pivotal moment in Ukraine's history and its relations with Poland and Russia.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The Khmelnytsky Uprising emerged against the backdrop of the Union of Lublin in 1569, which integrated southern Ruthenian voivodeships into the Polish–Lithuanian Commonwealth. Despite formal rights granted to the local nobility by a 1572 royal decree, there was significant pressure to adopt Polish culture and Catholicism, leading to alienation among the Ruthenian population, particularly the [[cossacks|Cossacks]].",
+        "The oppression by the Polish szlachta, coupled with the influence of the Grand Duchy of Moscow over Orthodox traditions, set the stage for discontent among the Cossacks. The Union of Brest in 1596 further exacerbated tensions as many Cossacks opposed the Uniate Church, reinforcing their desire for autonomy."
+      ]
+    },
+    {
+      "heading": "Bohdan Khmelnytsky's Leadership",
+      "paragraphs": [
+        "[[bohdan-khmelnytsky|Bohdan Khmelnytsky]], born into a noble family, became a prominent figure in the Cossack ranks after experiencing personal injustices at the hands of Polish magnates. His leadership was marked by a strategic alliance with the Crimean Khanate and a focus on uniting the Cossacks against their common oppressors.",
+        "Khmelnytsky's efforts to rally support among the Cossacks and his diplomatic skills were crucial in mobilizing forces for the uprising. His grievances against the Polish authorities resonated widely, leading to his election as [[hetman|Hetman]] by the Cossack [[verkhovna-rada|Rada]]."
+      ]
+    },
+    {
+      "heading": "Course of the Uprising",
+      "paragraphs": [
+        "The uprising officially began on January 25, 1648, when Khmelnytsky launched an attack on Polish forces at Mykytyn Rih. Following initial victories, including the significant Battle of Zhovti Vody on April 29, the Cossack army rapidly gained momentum, capturing key Polish leaders and territories.",
+        "By May 1648, Khmelnytsky's forces had effectively routed Polish troops, leading to further successes and the consolidation of Cossack power in the region. The uprising garnered widespread support, transforming into a major rebellion against Polish rule."
+      ]
+    },
+    {
+      "heading": "Aftermath and Significance",
+      "paragraphs": [
+        "The Khmelnytsky Uprising had lasting implications for [[ukraine|Ukraine]]'s political landscape, ultimately leading to the incorporation of eastern Ukraine into the Tsardom of Russia through the 1654 Pereiaslav Agreement. This event marked the beginning of a turbulent period known as the Ruin, characterized by internal strife within the [[cossack-hetmanate|Cossack Hetmanate]].",
+        "The uprising also had profound effects on Polish power, contributing to the decline of the Polish Golden Age and the onset of a period known as 'the Deluge.' Additionally, the uprising is remembered in Jewish history for the violence inflicted upon Jewish communities, which many consider a significant national catastrophe."
+      ]
+    }
+  ],
+  "links_out": [
+    "bohdan-khmelnytsky",
+    "cossack-hetmanate",
+    "cossacks",
+    "dnieper",
+    "hetman",
+    "ukraine",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Khmelnytsky Uprising — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Khmelnytsky_Uprising",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

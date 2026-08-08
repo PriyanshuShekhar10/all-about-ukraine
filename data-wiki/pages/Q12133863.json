@@ -1,0 +1,101 @@
+{
+  "qid": "Q12133863",
+  "slug": "nova-post",
+  "title": "Nova Post",
+  "type": "postal service",
+  "category": "economy",
+  "aliases": [
+    "New Post",
+    "Nova Poshta",
+    "Nova poshta LLC",
+    "«Nova poshta», Ltd"
+  ],
+  "infobox": {
+    "label": "postal service",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2001-02-13",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.3411, 30.5497",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Nova Poshta, known as Nova Post outside Ukraine, is a private postal and courier service based in Ukraine, providing logistics solutions for both individuals and businesses. Established in 2001, it has grown to become a significant player in the Ukrainian market, competing primarily with Ukrposhta.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Founded in 2001 by Vyacheslav Klymov and Volodymyr Popereshnyuk, Nova Poshta has expanded its operations significantly over the years.",
+        "In 2018, the company delivered more than 174 million shipments through its network of 6,000 branches across [[ukraine|Ukraine]].",
+        "Internationally, Nova Poshta expanded into Georgia and Moldova in 2015, though it exited the Georgian market in 2021 without providing a reason.",
+        "As of October 2022, Nova Poshta Global operates offices in [[kyiv|Kyiv]], London, and New York, along with operations centers in various countries including Poland, Turkey, and Germany.",
+        "In 2020, the brand was recognized as one of the top three most valuable brands in Ukraine, and by 2021, it employed 32,000 individuals, earning accolades as one of the best employers in the country."
+      ]
+    },
+    {
+      "heading": "Community Engagement and Humanitarian Efforts",
+      "paragraphs": [
+        "On 24 February 2022, coinciding with the onset of Russia's full-scale [[full-scale-russo-ukrainian-war|invasion of Ukraine]], Nova Poshta donated ₴25 million to support the [[ukrainian|Ukrainian]] army.",
+        "The company initiated the Humanitarian Nova POSHTA project, aimed at providing free delivery of parcels to military personnel and civilians affected by the war."
+      ]
+    },
+    {
+      "heading": "Financial Contributions",
+      "paragraphs": [
+        "In 2019, Nova Poshta contributed over ₴2.7 billion in taxes, ranking 27th among the top 100 largest companies in Ukraine by tax payments.",
+        "The company is recognized as one of the top 20 largest taxpayers in Ukraine, having paid 5 billion hryvnias in 2020."
+      ]
+    },
+    {
+      "heading": "Services and Infrastructure",
+      "paragraphs": [
+        "Nova Poshta offers a wide range of logistics services, including express delivery of documents, freight, and parcels, catering to both businesses and individual clients.",
+        "The company operates more than 8,700 branches throughout Ukraine, including in all major cities and every fourth village, and continues to expand its network of automated parcel terminals, which numbered over 8,500 by November 2021.",
+        "In 2020, Nova Poshta successfully delivered 327 million parcels and cargo to 14 million customers.",
+        "The company has established modern sorting facilities in major cities, equipped with automated technology capable of sorting between 8,500 to 50,000 parcels per hour, with one-third of terminals utilizing robots for sorting smaller items."
+      ]
+    },
+    {
+      "heading": "Impact of the Russia-Ukraine War",
+      "paragraphs": [
+        "On 21 October 2023, a Russian attack targeted a Nova Poshta terminal in the [[kharkiv|Kharkiv]] region, resulting in the deaths of six employees and injuries to 17 others, with two additional fatalities occurring in the hospital a week later.",
+        "On 1 May 2024, a missile strike in [[odesa|Odesa]] destroyed 904 parcels valued at UAH 3 million at a Nova Poshta depot, although no employees were harmed.",
+        "Subsequent attacks included a drone strike on 29 July 2026 in [[poltava|Poltava]], which killed one individual and caused a fire, and another drone strike on 30 July 2026 in [[dnipro|Dnipropetrovsk]], which did not result in any employee injuries."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnipro",
+    "full-scale-russo-ukrainian-war",
+    "kharkiv",
+    "kyiv",
+    "odesa",
+    "poltava",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Nova Poshta — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nova_Poshta",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

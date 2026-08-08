@@ -1,0 +1,73 @@
+{
+  "qid": "Q1139098",
+  "slug": "hopak",
+  "title": "hopak",
+  "type": "type of dance",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "type of dance",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Hopak is a traditional Ukrainian folk dance that originated as a male dance among the Zaporozhian Cossacks and has evolved to include couples and mixed groups. It is often celebrated as the 'National Dance of Ukraine' and is performed by various dance ensembles both in Ukraine and internationally.",
+  "sections": [
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "The term hopak is derived from the [[ukrainian|Ukrainian]] verb hopaty, meaning 'to hop', and the exclamation hop!, which can be expressed during a jump to convey surprise or amazement."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "The hopak originated as a Cossack social dance in [[ukraine|Ukraine]] during the 16th century, primarily performed by men in celebratory contexts following military victories. Although the [[zaporizhian-sich|Zaporizhian Sich]] typically discouraged leisure activities, these dances became a form of expression for victorious [[cossacks|Cossacks]], showcasing acrobatic jumps and improvisational movements.",
+        "Initially, the hopak was an all-male dance, characterized by energetic performances that often included pantomimed battles. Over time, as Cossack status rose, mixed-gender versions began to emerge in villages, incorporating elements from traditional ritual dances.",
+        "The dance was not formally documented until later, but historical accounts, including those by Guillaume Le Vasseur de Beauplan, confirm its existence. Notable Ukrainian literary figures like Ivan Kotlyarevsky and [[taras-shevchenko|Taras Shevchenko]] referenced the hopak in their works. Following the destruction of the Sich in the 18th century, the dance persisted primarily in its mixed-gender village format."
+      ]
+    },
+    {
+      "heading": "Concert Dance Evolution",
+      "paragraphs": [
+        "In the 18th century, hopak-like dances began to appear on stage, integrated into theatrical performances. The dance gained prominence through the efforts of ethnochoreologist Vasyl Verkhovynets in the early 20th century, who collected authentic village steps and established the hopak as a distinct concert dance.",
+        "A significant milestone occurred in 1935 when Verkhovynets choreographed the 'London Hopak' for the First International Festival of Folk Dance, which won first prize. This three-part dance featured segments for men, women, and a combined finale, influencing many professional folk dance ensembles, including the Pavlo Virsky Ukrainian National Folk Dance Ensemble."
+      ]
+    },
+    {
+      "heading": "Dance Characteristics",
+      "paragraphs": [
+        "The contemporary hopak is a choreographed performance that mimics improvisation, highlighting acrobatic feats by male dancers and synchronized movements by female dancers. The dance typically concludes a program, characterized by its high energy and continuous motion.",
+        "The music accompanying the hopak varies in tempo and melody, often featuring 24 time. Popular melodies include 'Hop, moyi hrechanyky' and 'Od Kyieva do Luben'. The dance frequently culminates in a fast-paced finale, sometimes incorporating traditional Ukrainian marches."
+      ]
+    },
+    {
+      "heading": "Cultural References",
+      "paragraphs": [
+        "The hopak has been referenced in various cultural contexts, including a notable incident where Soviet leader Joseph [[donetsk|Stalin]] compelled Nikita Khrushchev to dance it. It was also featured in the 1980 Summer Olympics opening ceremony, performed by dancers in Ukrainian folk costumes.",
+        "In the 2000s, hopak music gained popularity in rhythmic gymnastics routines by Ukrainian athletes. Additionally, the videogame Team Fortress 2 incorporated the hopak as a taunt move in the 2015 Gun Mettle Update, allowing players to perform the dance with different character classes."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossacks",
+    "donetsk",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian",
+    "zaporizhian-sich"
+  ],
+  "sources": [
+    {
+      "title": "Hopak — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hopak",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,102 @@
+{
+  "qid": "Q42308",
+  "slug": "kharkiv",
+  "title": "Kharkiv",
+  "type": "centre of oblast",
+  "category": "geography",
+  "aliases": [
+    "Chárkiv",
+    "Harkov",
+    "Khar'kov",
+    "Kharkoff",
+    "Kharkov"
+  ],
+  "infobox": {
+    "label": "centre of oblast",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1654",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "1,439,733",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "49",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "152",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Ihor Terekhov",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.9925, 36.2311",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Kharkiv, the second-largest city in Ukraine, serves as the administrative center of Kharkiv Oblast and Kharkiv Raion. It has a rich history as a cultural, industrial, and educational hub, significantly influencing the development of Ukrainian identity and politics.",
+  "sections": [
+    {
+      "heading": "Geographical and Demographic Overview",
+      "paragraphs": [
+        "Kharkiv, also referred to as Kharkov, is situated in the northeast of [[ukraine|Ukraine]] and is the largest city in the historic region of Sloboda Ukraine. Before the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in early 2022, the estimated population of Kharkiv was 1,421,125."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Founded in 1654 as a Cossack fortress, Kharkiv evolved into a significant commercial and industrial center within the Russian Empire by the late 19th century. From December 1919 to January 1934, it served as the capital of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]], during which time the demographic makeup shifted as [[ukrainian|Ukrainian]] became the largest recorded nationality, despite Russian being the predominant spoken language."
+      ]
+    },
+    {
+      "heading": "Cultural and Industrial Significance",
+      "paragraphs": [
+        "Kharkiv has played a vital role as a cultural, scientific, educational, transport, and industrial center in independent Ukraine. Key landmarks include the Annunciation and Dormition cathedrals, the Derzhprom building in Freedom Square, the Kharkiv Railway Station, the National University of Kharkiv, and the Kharkiv Tractor Factory (HTZ). The city is known for its leading industries, including machinery, electronics, and military hardware."
+      ]
+    },
+    {
+      "heading": "Recent Conflicts and Challenges",
+      "paragraphs": [
+        "In March and April 2014, Kharkiv experienced pro-Russia and pro-Ukrainian demonstrations, alongside an attempted takeover by Russian-backed separatists. During the Russo-Ukrainian War, Kharkiv became a primary target for Russian forces, and as of April 2024, it was reported that nearly a quarter of the city had suffered damage or destruction, marking it as one of the most devastated battlefields in the ongoing conflict."
+      ]
+    },
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "The name Kharkiv is derived from the Kharkiv River, with folk etymology linking it to a legendary Cossack founder named Kharko. The city has undergone various transliterations, with 'Kharkov' being the traditional English spelling used before Ukraine's independence in 1991. Following the adoption of a standardized Latin-alphabet transliteration system in 2010, 'Kharkiv' has become the internationally recognized spelling."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Kharkiv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kharkiv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

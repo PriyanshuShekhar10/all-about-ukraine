@@ -1,0 +1,87 @@
+{
+  "qid": "Q111078529",
+  "slug": "battle-of-sievierodonetsk",
+  "title": "Battle of Sievierodonetsk",
+  "type": "battle",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "battle",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2022",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Siverskodonetsk",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.9500, 38.4833",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Battle of Sievierodonetsk was a significant military engagement during the [[donbas|Donbas]] conflict in eastern Ukraine, part of the broader Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]]. The battle resulted in heavy urban combat, leading to extensive destruction and loss of life, with Sievierodonetsk being a crucial administrative center in Luhansk Oblast.",
+  "sections": [
+    {
+      "heading": "Background",
+      "paragraphs": [
+        "Sievierodonetsk and its neighboring city Lysychansk were previously the sites of battles in 2014 between pro-Russian separatists and the [[ukrainian|Ukrainian]] military during the [[war-in-donbas|Donbas war]]. Following the commencement of the Russian invasion on 28 February 2022, Russian forces began shelling Sievierodonetsk, resulting in casualties and damage to infrastructure.",
+        "By early April 2022, Russian forces claimed to control 93% of [[luhansk|Luhansk]] Oblast, with Sievierodonetsk and Lysychansk remaining as key Ukrainian strongholds. Russian military operations aimed to capture Sievierodonetsk were contingent on successes in nearby cities, with significant fighting reported in the area throughout April."
+      ]
+    },
+    {
+      "heading": "Battle Dynamics",
+      "paragraphs": [
+        "The battle escalated on 6 May 2022, as Russian and separatist forces made advances in the outskirts of Sievierodonetsk, effectively surrounding the city. By mid-May, artillery bombardments disrupted power and water supplies, leaving many civilians without basic necessities.",
+        "On 27 May, Russian forces initiated a direct ground assault on Sievierodonetsk, capturing strategic locations within the city. By the end of May, heavy fighting resulted in Russian control of significant portions of the city, with reports indicating that 70 to 80 percent of Sievierodonetsk was under Russian dominance by 31 May."
+      ]
+    },
+    {
+      "heading": "Civilians and Humanitarian Impact",
+      "paragraphs": [
+        "The battle had a devastating impact on the civilian population, with most residents fleeing the city by the end of April 2022. Reports indicated that around 800 civilians were sheltering in the Azot chemical plant, which became a defensive stronghold for Ukrainian troops amid ongoing bombardments.",
+        "The destruction of infrastructure was extensive, with approximately 90% of the city's buildings either destroyed or damaged during the fighting, exacerbating the humanitarian crisis in the region."
+      ]
+    },
+    {
+      "heading": "Military Strategy and Tactics",
+      "paragraphs": [
+        "Throughout the battle, Ukrainian forces employed defensive strategies against overwhelming Russian artillery and troop numbers. Despite suffering heavy losses, Ukrainian defenders attempted counterattacks and sought to hold strategic positions within the city.",
+        "Russian tactics included using forces from the Luhansk People's Republic to minimize their own casualties, while also employing scorched earth strategies that resulted in significant destruction of urban areas."
+      ]
+    },
+    {
+      "heading": "Conclusion and Aftermath",
+      "paragraphs": [
+        "The Battle of Sievierodonetsk concluded with the full capture of the city by Russian and pro-Russian forces on 25 June 2022, following a Ukrainian retreat. The battle is remembered as one of the bloodiest engagements of the war, highlighting the intense urban warfare that characterized the conflict in eastern [[ukraine|Ukraine]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "donbas",
+    "full-scale-russo-ukrainian-war",
+    "luhansk",
+    "ukraine",
+    "ukrainian",
+    "war-in-donbas"
+  ],
+  "sources": [
+    {
+      "title": "Battle of Sievierodonetsk (2022) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Sievierodonetsk_(2022)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

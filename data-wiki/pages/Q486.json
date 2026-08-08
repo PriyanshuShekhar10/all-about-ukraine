@@ -1,0 +1,88 @@
+{
+  "qid": "Q486",
+  "slug": "chernobyl-disaster",
+  "title": "Chernobyl disaster",
+  "type": "nuclear disaster",
+  "category": "history",
+  "aliases": [
+    "1986 Chernobyl nuclear disaster",
+    "Chernobyl accident",
+    "Chernobyl incident",
+    "Chernobyl nuclear reactor disaster",
+    "Chornobyl disaster",
+    "Chornobyl nuclear reactor disaster"
+  ],
+  "infobox": {
+    "label": "nuclear disaster",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "1986-04-26",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Chernobyl Nuclear Power Plant",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "51.3894, 30.0992",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Chernobyl disaster, which occurred on April 26, 1986, at reactor 4 of the Chernobyl Nuclear Power Plant near Pripyat, Ukraine, is one of the most catastrophic nuclear accidents in history. It resulted in immediate fatalities and long-term health issues, marking a significant event in Ukraine's history and impacting nuclear safety worldwide.",
+  "sections": [
+    {
+      "heading": "Overview of the Disaster",
+      "paragraphs": [
+        "On April 26, 1986, an explosion at reactor 4 of the Chernobyl Nuclear Power Plant, located near Pripyat, [[ukraine|Ukraine]], resulted in dozens of immediate casualties and thousands of subsequent health complications. This incident is classified as one of only two nuclear accidents rated at the highest severity on the International Nuclear Event Scale, the other being the Fukushima disaster in Japan in 2011.",
+        "The disaster occurred during a test intended to simulate reactor cooling during a severe accident under blackout conditions. Due to significant design flaws, a power surge occurred when the reactor was shut down, leading to a rupture of reactor components, loss of coolant, and subsequent steam explosions and meltdown."
+      ]
+    },
+    {
+      "heading": "Immediate Response and Evacuation",
+      "paragraphs": [
+        "In the aftermath of the explosion, a response involving over 500,000 personnel was initiated, with an estimated cost of 18 billion rubles (approximately $85 billion in 2026). A 10-kilometer exclusion zone was established 36 hours post-accident, leading to the evacuation of around 49,000 people, which was later expanded to a 30-kilometer radius, ultimately evacuating about 68,000 more individuals.",
+        "The Soviet government did not publicly acknowledge the disaster until two days after the explosion, when elevated radiation levels were detected in Sweden."
+      ]
+    },
+    {
+      "heading": "Health Impact and Casualties",
+      "paragraphs": [
+        "The explosion resulted in the immediate deaths of two engineers and severe injuries to two others. Of the 237 workers hospitalized, 134 exhibited symptoms of acute radiation syndrome (ARS), with 28 dying within three months. Over the following decade, an additional 14 workers died from various causes, primarily unrelated to radiation exposure.",
+        "As of 2005, 6,000 cases of childhood thyroid cancer were reported among affected populations, with 15 fatalities attributed to the accident. Long-term death estimates range from up to 4,000 in Ukraine, Belarus, and Russia, according to the United Nations, to a total of 16,000 across Europe."
+      ]
+    },
+    {
+      "heading": "Long-term Consequences and Cleanup Efforts",
+      "paragraphs": [
+        "Pripyat was abandoned and replaced by the newly constructed city of Slavutych. A sarcophagus was completed around the Chernobyl Nuclear Power Plant in December 1986 to contain radioactive contamination and protect crews working at the site. Between 2016 and 2018, the Chernobyl New Safe Confinement was built around the original sarcophagus to facilitate the removal of reactor debris, with cleanup efforts projected to be completed by 2065."
+      ]
+    },
+    {
+      "heading": "Technical Background and Safety Failures",
+      "paragraphs": [
+        "The disaster was precipitated by a safety test that aimed to assess the reactor's cooling capabilities after a power loss. However, the test was poorly managed, with critical safety systems disabled and a lack of understanding of the reactor's behavior under the planned conditions. A significant drop in reactor power led to a series of errors, resulting in the catastrophic power surge that caused the explosion."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Chernobyl disaster — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

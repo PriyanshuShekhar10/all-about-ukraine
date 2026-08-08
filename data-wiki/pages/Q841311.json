@@ -1,0 +1,79 @@
+{
+  "qid": "Q841311",
+  "slug": "economy-of-ukraine",
+  "title": "economy of Ukraine",
+  "type": "national economy",
+  "category": "economy",
+  "aliases": [
+    "Ukrainian economy"
+  ],
+  "infobox": {
+    "label": "national economy",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Ukraine",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The economy of Ukraine is characterized as a developing social market economy, featuring rich agricultural land, a diverse industrial base, and significant mineral resources. Despite these advantages, Ukraine faces challenges such as high corruption levels and slow economic reforms, contributing to its status as one of the poorest countries in Europe.",
+  "sections": [
+    {
+      "heading": "Economic Overview",
+      "paragraphs": [
+        "[[ukraine|Ukraine]] has a developing social market economy with many characteristics of a major European economy, including fertile farmlands, a robust industrial sector, and a well-educated workforce. The country is endowed with substantial mineral deposits.",
+        "Despite these resources, Ukraine is one of the poorest nations in Europe, a situation often linked to high levels of corruption and the slow pace of economic liberalization and institutional reforms."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The geographical features of Ukraine have historically influenced its economic development, with fertile soils making it a significant agricultural area since ancient times. The region's mineral resources spurred industrialization, particularly in the [[donbas|Donbas]] region, from the 19th century onward.",
+        "Ukraine declared independence from the Soviet Union on 24 August 1991, but the economy faced severe challenges in the following years, including hyperinflation and a dramatic decline in output."
+      ]
+    },
+    {
+      "heading": "Economic Growth and Challenges (2000-2014)",
+      "paragraphs": [
+        "Economic growth resumed in Ukraine in 2000, continuing until the 2008-2009 financial crisis. During this period, exports increased significantly, particularly in traditional industries such as metals and food.",
+        "The economy faced a downturn in 2013 due to stricter customs controls imposed by Russia, leading to a recession. By the end of 2013, Ukraine's economy was stagnant, with no growth in GDP."
+      ]
+    },
+    {
+      "heading": "Post-Euromaidan Economic Developments (2014-Present)",
+      "paragraphs": [
+        "Following the [[russian-annexation-of-crimea|annexation of Crimea by Russia]] in March 2014 and the onset of conflict in Donbas, Ukraine's economy contracted by 6.8% in 2014. The economic situation worsened with significant declines in exports and retail trade in subsequent years.",
+        "In 2016, Ukraine's economy began to recover, achieving over 2% growth for the first time since 2010. The World Bank projected continued growth in the following years, with inflation rates gradually decreasing."
+      ]
+    },
+    {
+      "heading": "Current Economic Conditions",
+      "paragraphs": [
+        "By 2016, the economy showed signs of resilience despite the ongoing conflict, with a 200% devaluation of the [[hryvnia|hryvnia]] making [[ukrainian|Ukrainian]] goods more competitive. However, challenges such as corruption and a large shadow economy continue to hinder economic progress.",
+        "As of 2017, the World Bank anticipated further economic growth, projecting increases in GDP and improvements in inflation rates, indicating a gradual recovery from the economic turmoil of previous years."
+      ]
+    }
+  ],
+  "links_out": [
+    "donbas",
+    "hryvnia",
+    "russian-annexation-of-crimea",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Economy of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

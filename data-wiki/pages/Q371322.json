@@ -1,0 +1,95 @@
+{
+  "qid": "Q371322",
+  "slug": "mykhailo-hrushevskyi",
+  "title": "Mykhailo Hrushevskyi",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Michael Hrushevsky",
+    "Mikhail Hrushevskii",
+    "Mychailo Hruschewsky",
+    "Mychajlo Hruševsʹkyj",
+    "Mychaylo Hrushevsky",
+    "Mykhailo Hrushevsky",
+    "Mykhailo Serhiiovych Hrushevsky",
+    "Mykhaylo Hrushevskyy",
+    "Mykhaĭlo Hrushevsʹkyĭ"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1866-09-29",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1934-11-26",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Chełm",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "Member of the Russian Constituent Assembly, Head of the Central Rada of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Mykhailo Hrushevskyi was a prominent Ukrainian historian, politician, and statesman, recognized as a key figure in the Ukrainian national revival of the early 20th century. His contributions to Ukrainian history and culture, particularly through his extensive writings and political activism, have left a lasting impact on Ukraine's national identity.",
+  "sections": [
+    {
+      "heading": "Biography",
+      "paragraphs": [
+        "Mykhailo Serhiiovych Hrushevskyi was born on 29 September 1866 in Chełm, Congress Poland, to a [[ukrainian|Ukrainian]] noble family. His father, Serhii Fedorovych Hrushevsky, was an educator, while his mother, Glafira Zakharivna Oppokova, came from a family of Orthodox priests. Hrushevskyi's upbringing instilled a strong sense of Ukrainian patriotism in him, which was further nurtured by his education and exposure to [[ukrainian-literature|Ukrainian literature]] and history."
+      ]
+    },
+    {
+      "heading": "Activities in Galicia",
+      "paragraphs": [
+        "After relocating to [[lviv|Lviv]], Hrushevskyi became actively involved in the Shevchenko Scientific Society, where he restructured the organization to resemble an academy of sciences. He was a co-founder of the National Democratic Party in 1899, advocating for Ukrainian independence and opposing Polish dominance in the region. His collaborations with notable figures such as poet [[ivan-franko|Ivan Franko]] further solidified his role in promoting Ukrainian culture and education."
+      ]
+    },
+    {
+      "heading": "Ukrainian Revolution",
+      "paragraphs": [
+        "Following the February Revolution in 1917, Hrushevskyi was elected head of the Ukrainian Central [[verkhovna-rada|Rada]], guiding [[ukraine|Ukraine]] towards national autonomy and eventual independence. He played a significant role in drafting the Constitution of the [[ukrainian-peoples-republic|Ukrainian People's Republic]], adopted on 29 April 1918, and was a vocal advocate for radical democratic and socialist policies during this transformative period."
+      ]
+    },
+    {
+      "heading": "Later Life and Death",
+      "paragraphs": [
+        "Hrushevskyi returned to Ukraine in 1924 after a period of emigration and continued his academic work, focusing on his monumental History of Ukraine-Rusʹ. Despite his contributions, he faced persecution during the Stalinist purges and was exiled to Moscow in 1931. He died on 24 November 1934 at the age of 68, under suspicious circumstances that led to his posthumous recognition as a martyr for the Ukrainian cause."
+      ]
+    },
+    {
+      "heading": "Scientific Career",
+      "paragraphs": [
+        "Hrushevskyi is celebrated for his extensive scholarly contributions, including his ten-volume History of Ukraine-Rus, which provided a comprehensive account of Ukrainian history from prehistory to the 1660s. His works challenged the prevailing Russocentric historical narratives and emphasized the importance of Ukrainian political entities and the experiences of ordinary [[ukrainians|Ukrainians]]. His bibliography includes over 2000 titles, reflecting his significant impact on Ukrainian historiography."
+      ]
+    }
+  ],
+  "links_out": [
+    "ivan-franko",
+    "lviv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-literature",
+    "ukrainian-peoples-republic",
+    "ukrainians",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Mykhailo Hrushevsky — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mykhailo_Hrushevsky",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

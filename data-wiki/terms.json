@@ -1,0 +1,2169 @@
+[
+  {
+    "qid": "Q212",
+    "slug": "ukraine",
+    "name": "Ukraine",
+    "wp_title": "Ukraine",
+    "type": "sovereign state",
+    "category": "geography",
+    "aliases": [
+      "Ukr.",
+      "Ukraina",
+      "Ukrainia",
+      "Ukraïna"
+    ],
+    "notability": 388,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1899",
+    "slug": "kyiv",
+    "name": "Kyiv",
+    "wp_title": "Kyiv",
+    "type": "largest city",
+    "category": "geography",
+    "aliases": [
+      "Kief",
+      "Kieff",
+      "Kiew",
+      "Kiof",
+      "Kioff",
+      "Kiou",
+      "Kiovia",
+      "Kiow",
+      "Kiowia",
+      "Kiyev",
+      "Kyiw",
+      "Kyjiw",
+      "Kyïv",
+      "Kyїv"
+    ],
+    "notability": 275,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q8798",
+    "slug": "ukrainian",
+    "name": "Ukrainian",
+    "wp_title": "Ukrainian language",
+    "type": "natural language",
+    "category": "people",
+    "aliases": [
+      "Ukrainian language",
+      "Ukrainska"
+    ],
+    "notability": 228,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q3874799",
+    "slug": "volodymyr-zelenskyy",
+    "name": "Volodymyr Zelenskyy",
+    "wp_title": "Volodymyr Zelenskyy",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "President Volodymyr Oleksandrovych Zelenskyy",
+      "President Volodymyr Zelenskyy",
+      "President Zelenskyy",
+      "Volodymyr Zelenskyi",
+      "Volodymyr Zelenskyj"
+    ],
+    "notability": 214,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q7835",
+    "slug": "crimea",
+    "name": "Crimea",
+    "wp_title": "Crimea",
+    "type": "peninsula",
+    "category": "geography",
+    "aliases": [
+      "Cimmeria",
+      "Crim.",
+      "Crimean P.",
+      "Crimean Peninsula",
+      "Kimmeria",
+      "Kimmería",
+      "Kirim",
+      "Qırım",
+      "Taurica",
+      "Taurike",
+      "Taurikḗ"
+    ],
+    "notability": 194,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1874",
+    "slug": "odesa",
+    "name": "Odesa",
+    "wp_title": "Odesa",
+    "type": "port city",
+    "category": "geography",
+    "aliases": [
+      "Odesa, Ukraine",
+      "Odessa"
+    ],
+    "notability": 176,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q110999040",
+    "slug": "full-scale-russo-ukrainian-war",
+    "name": "full-scale Russo-Ukrainian war",
+    "wp_title": "Russo-Ukrainian war (2022–present)",
+    "type": "war",
+    "category": "war",
+    "aliases": [
+      "Operation Z",
+      "Russia's invasion of Ukraine",
+      "Russia-Ukraine war 2022",
+      "Russian attack on Ukraine",
+      "Russian war in Ukraine 2022",
+      "Russo-Ukrainian War",
+      "Russo-Ukrainian war (2022–present)",
+      "Special military operation in Ukraine",
+      "Ukraine invasion",
+      "Ukrainian Patriotic War",
+      "Ukrainian War",
+      "War in Ukraine",
+      "invasion of Ukraine"
+    ],
+    "notability": 175,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q36036",
+    "slug": "lviv",
+    "name": "Lviv",
+    "wp_title": "Lviv",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "aliases": [
+      "L'vov",
+      "Lemberik",
+      "Leopol"
+    ],
+    "notability": 173,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q42308",
+    "slug": "kharkiv",
+    "name": "Kharkiv",
+    "wp_title": "Kharkiv",
+    "type": "centre of oblast",
+    "category": "geography",
+    "aliases": [
+      "Chárkiv",
+      "Harkov",
+      "Khar'kov",
+      "Kharkoff",
+      "Kharkov"
+    ],
+    "notability": 171,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q7525",
+    "slug": "sevastopol",
+    "name": "Sevastopol",
+    "wp_title": "Sevastopol",
+    "type": "city or town",
+    "category": "geography",
+    "aliases": [
+      "Aqyar",
+      "Sebastopol",
+      "Sevastopil",
+      "Sevastopol'",
+      "Sewastupolis",
+      "Sewastúpolis"
+    ],
+    "notability": 151,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q43070",
+    "slug": "donetsk",
+    "name": "Donetsk",
+    "wp_title": "Donetsk",
+    "type": "city of regional significance of Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Aleksandrovka",
+      "Hughesovka",
+      "Stalin",
+      "Stalino",
+      "Yuzovka"
+    ],
+    "notability": 148,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q48256",
+    "slug": "dnipro",
+    "name": "Dnipro",
+    "wp_title": "Dnipro",
+    "type": "big city",
+    "category": "geography",
+    "aliases": [
+      "Dnepr",
+      "Dnepropetróvsk",
+      "Dnipropetrovsk",
+      "Katerynoslav",
+      "Novorossiysk",
+      "Sicheslav",
+      "Yekaterinoslav"
+    ],
+    "notability": 143,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q134958",
+    "slug": "taras-shevchenko",
+    "name": "Taras Shevchenko",
+    "wp_title": "Taras Shevchenko",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Grigor'yevich Shevchenko",
+      "K.Darmohrai",
+      "Kobzar Darmohrai",
+      "Perebendya",
+      "T. Shevchenko",
+      "T.Sh",
+      "Taras Grigor'evič Ševčenko",
+      "Taras Grigor'yevich Shevchenko",
+      "Taras Grigorjevič Ševčenko",
+      "Taras Hryhorovych Shevchenko",
+      "Taras Hryhorovyč Ševčenko",
+      "Taras Ševčenko",
+      "Taras. Shevchenko",
+      "Tarass Grigorjewitsch Schewtschenko"
+    ],
+    "notability": 138,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q37133",
+    "slug": "mariupol",
+    "name": "Mariupol",
+    "wp_title": "Mariupol",
+    "type": "city of regional significance of Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Mariiupil",
+      "Marijúpil'",
+      "Marik",
+      "Mariople",
+      "Mariouple",
+      "Marioúpoli",
+      "Mariuple",
+      "Mariúpol'",
+      "Zhdanov"
+    ],
+    "notability": 136,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q40855",
+    "slug": "dnieper",
+    "name": "Dnieper",
+    "wp_title": "Dnieper",
+    "type": "river",
+    "category": "geography",
+    "aliases": [
+      "Dnepr",
+      "Dnieper River",
+      "Dnipro",
+      "Dnipro River"
+    ],
+    "notability": 126,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q157835",
+    "slug": "zaporizhzhia",
+    "name": "Zaporizhzhia",
+    "wp_title": "Zaporizhzhia",
+    "type": "big city",
+    "category": "geography",
+    "aliases": [
+      "Aleksandrovsk",
+      "Oleksandrivsk",
+      "Zaporizhia",
+      "Zaporizhzhya"
+    ],
+    "notability": 126,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q134279",
+    "slug": "luhansk",
+    "name": "Luhansk",
+    "wp_title": "Luhansk",
+    "type": "city of regional significance of Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Lugansk"
+    ],
+    "notability": 126,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q486",
+    "slug": "chernobyl-disaster",
+    "name": "Chernobyl disaster",
+    "wp_title": "Chernobyl disaster",
+    "type": "nuclear disaster",
+    "category": "history",
+    "aliases": [
+      "1986 Chernobyl nuclear disaster",
+      "Chernobyl accident",
+      "Chernobyl incident",
+      "Chernobyl nuclear reactor disaster",
+      "Chornobyl disaster",
+      "Chornobyl nuclear reactor disaster"
+    ],
+    "notability": 125,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q58077",
+    "slug": "petro-poroshenko",
+    "name": "Petro Poroshenko",
+    "wp_title": "Petro Poroshenko",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "Petr Alekseyevich Poroshenko",
+      "Petr Alexeyevich Poroshenko",
+      "Petr Poroshenko",
+      "Petro Oleksijovyč Porošenko",
+      "Pyotr Alekseyevich Poroshenko",
+      "Pyotr Alexeyevich Poroshenko",
+      "Pyotr Poroshenko"
+    ],
+    "notability": 122,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q156732",
+    "slug": "kherson",
+    "name": "Kherson",
+    "wp_title": "Kherson",
+    "type": "city of regional significance of Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 120,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1459658",
+    "slug": "viktor-yanukovych",
+    "name": "Viktor Yanukovych",
+    "wp_title": "Viktor Yanukovych",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "Victor Fedorovych Yanukovych",
+      "Viktor Fedorovych Yanukovych"
+    ],
+    "notability": 118,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q15860072",
+    "slug": "russo-ukrainian-war",
+    "name": "Russo-Ukrainian war",
+    "wp_title": "Russo-Ukrainian war",
+    "type": "war",
+    "category": "war",
+    "aliases": [
+      "Putin's war of aggression",
+      "Russia-Ukraine war",
+      "Russian military intervention in Ukraine (2014–present)",
+      "Russian war in Ukraine",
+      "Russian-Ukrainian war",
+      "Special operation on the territory of Ukraine"
+    ],
+    "notability": 118,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q157053",
+    "slug": "chernihiv",
+    "name": "Chernihiv",
+    "wp_title": "Chernihiv",
+    "type": "city of regional significance of Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Chernigov",
+      "Czernihów",
+      "Tchernihiv"
+    ],
+    "notability": 113,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q48283",
+    "slug": "yulia-tymoshenko",
+    "name": "Yulia Tymoshenko",
+    "wp_title": "Yulia Tymoshenko",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "Julia Tymoshenko",
+      "Yulia Volodymyrivna Tymoshenko",
+      "Yuliya Tymoshenko"
+    ],
+    "notability": 113,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q44806",
+    "slug": "ukrainians",
+    "name": "Ukrainians",
+    "wp_title": "Ukrainians",
+    "type": "ethnic group",
+    "category": "people",
+    "aliases": [
+      "Ukrainian people",
+      "people of Ukraine"
+    ],
+    "notability": 112,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1459699",
+    "slug": "viktor-yushchenko",
+    "name": "Viktor Yushchenko",
+    "wp_title": "Viktor Yushchenko",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "Viktor Andriiovych Yushchenko"
+    ],
+    "notability": 107,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q156713",
+    "slug": "zhytomyr",
+    "name": "Zhytomyr",
+    "wp_title": "Zhytomyr",
+    "type": "city of regional significance of Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Zhitomir",
+      "Żytomierz",
+      "Žitomir",
+      "Žitómir",
+      "Žytómyr"
+    ],
+    "notability": 106,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q156747",
+    "slug": "poltava",
+    "name": "Poltava",
+    "wp_title": "Poltava",
+    "type": "city of regional significance of Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Ltava",
+      "Pultowa"
+    ],
+    "notability": 105,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q157725",
+    "slug": "chernivtsi",
+    "name": "Chernivtsi",
+    "wp_title": "Chernivtsi",
+    "type": "city of regional significance of Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Cernivtsi",
+      "Cernwitze Bukovina",
+      "Chernovits",
+      "Chernovitsy",
+      "Chernovitz",
+      "Chernívtsi",
+      "Csernovic",
+      "Czernovicum",
+      "Tchernovtsi",
+      "Tjernivtsi",
+      "Tjernovtsy",
+      "Tschernovitz",
+      "Tschernowzy",
+      "Tsernivtsi",
+      "Tsernovtso",
+      "Tshernivtsi",
+      "Txernivtsi",
+      "Tšernivtsi",
+      "Tšernovtsõ",
+      "Çernivtsi",
+      "Černivci",
+      "Černovcy",
+      "Černovice"
+    ],
+    "notability": 105,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q131210",
+    "slug": "dniester",
+    "name": "Dniester",
+    "wp_title": "Dniester",
+    "type": "river",
+    "category": "geography",
+    "aliases": [
+      "Dnister River"
+    ],
+    "notability": 105,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q157144",
+    "slug": "vinnytsia",
+    "name": "Vinnytsia",
+    "wp_title": "Vinnytsia",
+    "type": "centre of oblast",
+    "category": "geography",
+    "aliases": [
+      "Vinica",
+      "Vinnica",
+      "Vinnitsa",
+      "Vinnycja",
+      "Vinnytsa",
+      "Vinnytsya",
+      "Winnica"
+    ],
+    "notability": 103,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q41572",
+    "slug": "mykolaiv",
+    "name": "Mykolaiv",
+    "wp_title": "Mykolaiv",
+    "type": "centre of oblast",
+    "category": "geography",
+    "aliases": [
+      "Mykolayiv",
+      "Nikolaev",
+      "Nikolajew",
+      "Nikolayev"
+    ],
+    "notability": 101,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q156743",
+    "slug": "ternopil",
+    "name": "Ternopil",
+    "wp_title": "Ternopil",
+    "type": "city of regional significance of Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Cernopol",
+      "Tarnepol",
+      "Tarnopol",
+      "Tarnopolis",
+      "Ternopil'",
+      "Ternopilis",
+      "Ternopilj",
+      "Ternopilo",
+      "Ternopol'",
+      "Ternópil"
+    ],
+    "notability": 100,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q157137",
+    "slug": "kryvyi-rih",
+    "name": "Kryvyi Rih",
+    "wp_title": "Kryvyi Rih",
+    "type": "big city",
+    "category": "geography",
+    "aliases": [
+      "Krivoy Rog",
+      "Kryvyy Rih",
+      "Криви́й Ріг",
+      "Кривой Рог"
+    ],
+    "notability": 98,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q47805",
+    "slug": "cossacks",
+    "name": "Cossacks",
+    "wp_title": "Cossacks",
+    "type": "social class",
+    "category": "history",
+    "aliases": [],
+    "notability": 98,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q156726",
+    "slug": "ivano-frankivsk",
+    "name": "Ivano-Frankivsk",
+    "wp_title": "Ivano-Frankivsk",
+    "type": "city of regional significance of Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Ivano-Frankivs'k",
+      "Stanislau",
+      "Stanislav",
+      "Stanislavov",
+      "Stanislaw",
+      "Stanislawow",
+      "Stanisle",
+      "Stanislev",
+      "Stanislo",
+      "Stanislowow",
+      "Stanisławów",
+      "Stanyslaviv"
+    ],
+    "notability": 97,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1108445",
+    "slug": "kievan-rus",
+    "name": "Kievan Rus'",
+    "wp_title": "Kievan Rus'",
+    "type": "historical country",
+    "category": "history",
+    "aliases": [
+      "Kievan Rus",
+      "Kyivan Rus",
+      "Kyivan Rus'",
+      "Kyivan Rusʹ",
+      "Kyivan Rusʼ",
+      "Kyivan state",
+      "Kyivska Rus'",
+      "Rus"
+    ],
+    "notability": 96,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q156752",
+    "slug": "sumy",
+    "name": "Sumy",
+    "wp_title": "Sumy",
+    "type": "city of regional significance of Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 95,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q133356",
+    "slug": "ukrainian-soviet-socialist-republic",
+    "name": "Ukrainian Soviet Socialist Republic",
+    "wp_title": "Ukrainian Soviet Socialist Republic",
+    "type": "historical country",
+    "category": "history",
+    "aliases": [
+      "Communist Ukraine",
+      "Soviet Ukraine",
+      "Ukrainian S.S.R",
+      "Ukrainian SSR"
+    ],
+    "notability": 95,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q298033",
+    "slug": "lesya-ukrainka",
+    "name": "Lesya Ukrainka",
+    "wp_title": "Lesya Ukrainka",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Larysa Kosach",
+      "Larysa Petrivna Kosach-Kvitka",
+      "Lesia Ukrainka"
+    ],
+    "notability": 94,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4551",
+    "slug": "borscht",
+    "name": "borscht",
+    "wp_title": "Borscht",
+    "type": "topic",
+    "category": "culture",
+    "aliases": [
+      "barsciai",
+      "barszcz",
+      "barszcz czerwony",
+      "barščiai",
+      "beetroot soup",
+      "borsch",
+      "borshch",
+      "borshsh",
+      "borsht",
+      "borszcz",
+      "bortsch",
+      "chlodnik",
+      "chłodnik",
+      "ciorba de sfecla",
+      "ciorbă de sfeclă",
+      "cold beet soup",
+      "cold borscht",
+      "hot borscht",
+      "saltibarsciai",
+      "Šaltibarščiai"
+    ],
+    "notability": 93,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q165058",
+    "slug": "holodomor",
+    "name": "Holodomor",
+    "wp_title": "Holodomor",
+    "type": "famine",
+    "category": "history",
+    "aliases": [
+      "Famine-Genocide in Ukraine",
+      "Great Famine",
+      "Terror-Famine",
+      "The Holodomor",
+      "The Ukrainian Genocide of 1932–33"
+    ],
+    "notability": 92,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q81893",
+    "slug": "hryvnia",
+    "name": "hryvnia",
+    "wp_title": "Ukrainian hryvnia",
+    "type": "currency",
+    "category": "economy",
+    "aliases": [
+      "UAH",
+      "Ukrainian hryvnia",
+      "hryvnya"
+    ],
+    "notability": 91,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q629702",
+    "slug": "leonid-kuchma",
+    "name": "Leonid Kuchma",
+    "wp_title": "Leonid Kuchma",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "Leonid Danylovych Kuchma"
+    ],
+    "notability": 90,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q189732",
+    "slug": "leonid-kravchuk",
+    "name": "Leonid Kravchuk",
+    "wp_title": "Leonid Kravchuk",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "Kravchuk, Leonid",
+      "Kravchuk, Leonid Makarovich",
+      "Kravchuk, Leonid Makarovych",
+      "L. M. Kravchuk",
+      "Leonid Makarovich Kravchuk",
+      "Leonid Makarovych Kravchuk"
+    ],
+    "notability": 86,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q332462",
+    "slug": "ivan-franko",
+    "name": "Ivan Franko",
+    "wp_title": "Ivan Franko",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Ivan Yakovych Franko",
+      "Kremin",
+      "Myron",
+      "Zhyvyi"
+    ],
+    "notability": 86,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q605714",
+    "slug": "donbas",
+    "name": "Donbas",
+    "wp_title": "Donbas",
+    "type": "industrial region",
+    "category": "geography",
+    "aliases": [
+      "Donbass",
+      "Donets Basin",
+      "Donetsia"
+    ],
+    "notability": 82,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q15224558",
+    "slug": "euromaidan",
+    "name": "Euromaidan",
+    "wp_title": "Euromaidan",
+    "type": "civil disorder",
+    "category": "history",
+    "aliases": [
+      "2013 Ukraine protests",
+      "Maidan protests"
+    ],
+    "notability": 76,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q66094865",
+    "slug": "denys-shmyhal",
+    "name": "Denys Shmyhal",
+    "wp_title": "Denys Shmyhal",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "Denys Anatoliiovych Shmyhal"
+    ],
+    "notability": 75,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q15920546",
+    "slug": "russian-annexation-of-crimea",
+    "name": "Russian annexation of Crimea",
+    "wp_title": "2014 Russian annexation of Crimea",
+    "type": "annexation",
+    "category": "war",
+    "aliases": [
+      "2014 annexation of Crimea",
+      "annexation of Crimea",
+      "annexation of Crimea by Russia"
+    ],
+    "notability": 74,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q16335075",
+    "slug": "war-in-donbas",
+    "name": "War in Donbas",
+    "wp_title": "War in Donbas",
+    "type": "armed conflict",
+    "category": "war",
+    "aliases": [
+      "Donbas War",
+      "Donbass War",
+      "War in Donbass",
+      "War in Eastern Ukraine"
+    ],
+    "notability": 73,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q579677",
+    "slug": "president-of-ukraine",
+    "name": "President of Ukraine",
+    "wp_title": "President of Ukraine",
+    "type": "elective office",
+    "category": "politics",
+    "aliases": [
+      "Ukrainian president"
+    ],
+    "notability": 72,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q111467700",
+    "slug": "bucha-massacre",
+    "name": "Bucha massacre",
+    "wp_title": "Bucha massacre",
+    "type": "genocide",
+    "category": "war",
+    "aliases": [
+      "Massacre of Bucha",
+      "mass killings in Bucha",
+      "war crimes in Bucha"
+    ],
+    "notability": 71,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q203808",
+    "slug": "bohdan-khmelnytsky",
+    "name": "Bohdan Khmelnytsky",
+    "wp_title": "Bohdan Khmelnytsky",
+    "type": "human",
+    "category": "history",
+    "aliases": [
+      "Bohdan Khmelnytskyi"
+    ],
+    "notability": 69,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q836386",
+    "slug": "orange-revolution",
+    "name": "Orange Revolution",
+    "wp_title": "Orange Revolution",
+    "type": "revolution",
+    "category": "history",
+    "aliases": [],
+    "notability": 68,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q243610",
+    "slug": "ukrainian-peoples-republic",
+    "name": "Ukrainian People's Republic",
+    "wp_title": "Ukrainian People's Republic",
+    "type": "historical country",
+    "category": "history",
+    "aliases": [],
+    "notability": 65,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q176296",
+    "slug": "verkhovna-rada",
+    "name": "Verkhovna Rada",
+    "wp_title": "Verkhovna Rada",
+    "type": "rada",
+    "category": "politics",
+    "aliases": [
+      "Parliament of Ukraine",
+      "Rada",
+      "Supreme Council of Ukraine",
+      "Ukrainian Parliament"
+    ],
+    "notability": 64,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q936105",
+    "slug": "armed-forces-of-ukraine",
+    "name": "Armed Forces of Ukraine",
+    "wp_title": "Armed Forces of Ukraine",
+    "type": "armed forces",
+    "category": "politics",
+    "aliases": [
+      "AFU",
+      "Ukrainian Armed Forces",
+      "ZSU",
+      "military of Ukraine"
+    ],
+    "notability": 61,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q203323",
+    "slug": "administrative-territorial-entity-of-ukraine",
+    "name": "administrative territorial entity of Ukraine",
+    "wp_title": "Administrative divisions of Ukraine",
+    "type": "topic",
+    "category": "politics",
+    "aliases": [
+      "Administrative and territorial system of Ukraine",
+      "Administrative division of Ukraine",
+      "Administrative-territorial",
+      "Areas in Ukraine",
+      "List of Oblasts of Ukraine",
+      "Regions of Ukraine",
+      "The region of Ukraine",
+      "Ukraine's regions"
+    ],
+    "notability": 61,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q457167",
+    "slug": "west-ukrainian-peoples-republic",
+    "name": "West Ukrainian People's Republic",
+    "wp_title": "West Ukrainian People's Republic",
+    "type": "historical country",
+    "category": "history",
+    "aliases": [
+      "Western Ukrainian National Republic",
+      "ZUNR",
+      "Zakhidno-Ukrainska Narodnia Respublika",
+      "Zakhidnoukrayins’ka Narodna Respublyka"
+    ],
+    "notability": 57,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q371322",
+    "slug": "mykhailo-hrushevskyi",
+    "name": "Mykhailo Hrushevskyi",
+    "wp_title": "Mykhailo Hrushevsky",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Michael Hrushevsky",
+      "Mikhail Hrushevskii",
+      "Mychailo Hruschewsky",
+      "Mychajlo Hruševsʹkyj",
+      "Mychaylo Hrushevsky",
+      "Mykhailo Hrushevsky",
+      "Mykhailo Serhiiovych Hrushevsky",
+      "Mykhaylo Hrushevskyy",
+      "Mykhaĭlo Hrushevsʹkyĭ"
+    ],
+    "notability": 55,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q239502",
+    "slug": "kingdom-of-galiciavolhynia",
+    "name": "Kingdom of Galicia–Volhynia",
+    "wp_title": "Kingdom of Galicia–Volhynia",
+    "type": "kingdom",
+    "category": "history",
+    "aliases": [
+      "Kingdom of Ruthenia",
+      "Principality of Galicia-Volhynia"
+    ],
+    "notability": 53,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1503789",
+    "slug": "ukrainian-cuisine",
+    "name": "Ukrainian cuisine",
+    "wp_title": "Ukrainian cuisine",
+    "type": "national cuisine",
+    "category": "culture",
+    "aliases": [
+      "Ukrainian food",
+      "cuisine of Ukraine"
+    ],
+    "notability": 53,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q212268",
+    "slug": "antonov",
+    "name": "Antonov",
+    "wp_title": "Antonov",
+    "type": "aerospace manufacturer",
+    "category": "economy",
+    "aliases": [
+      "Aeronautical Scientific-Technical Complex named after Antonov",
+      "Antonov ASTC",
+      "Antonov Aviatsionny Nauchno-Tekhnichesky Kompleks",
+      "Antonov Design Bureau",
+      "Antonov State Enterprise",
+      "Aviatsionny Nauchno-Tekhnichesky Kompleks Imeni O K Antonova",
+      "Kyiv Mechanical Plant",
+      "OKB-153",
+      "Research and Design Bureau named after O. K. Antonov"
+    ],
+    "notability": 53,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q212439",
+    "slug": "cossack-hetmanate",
+    "name": "Cossack Hetmanate",
+    "wp_title": "Cossack Hetmanate",
+    "type": "vassal and tributary state of the Ottoman Empire",
+    "category": "history",
+    "aliases": [
+      "Zaporozhian Host"
+    ],
+    "notability": 52,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2992278",
+    "slug": "moskva",
+    "name": "Moskva",
+    "wp_title": "Russian cruiser Moskva",
+    "type": "guided missile cruiser",
+    "category": "war",
+    "aliases": [
+      "Russian cruiser Moskva",
+      "Russian cruiser Slava",
+      "Slava",
+      "Soviet cruiser Slava"
+    ],
+    "notability": 52,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q841311",
+    "slug": "economy-of-ukraine",
+    "name": "economy of Ukraine",
+    "wp_title": "Economy of Ukraine",
+    "type": "national economy",
+    "category": "economy",
+    "aliases": [
+      "Ukrainian economy"
+    ],
+    "notability": 52,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q52292915",
+    "slug": "servant-of-the-people",
+    "name": "Servant of the People",
+    "wp_title": "Servant of the People",
+    "type": "political party",
+    "category": "politics",
+    "aliases": [],
+    "notability": 51,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q111017791",
+    "slug": "siege-of-mariupol",
+    "name": "Siege of Mariupol",
+    "wp_title": "Siege of Mariupol",
+    "type": "battle",
+    "category": "war",
+    "aliases": [],
+    "notability": 50,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q152981",
+    "slug": "potato-pancake",
+    "name": "potato pancake",
+    "wp_title": "Potato pancake",
+    "type": "dish",
+    "category": "culture",
+    "aliases": [
+      "pan-fried potato pancakes"
+    ],
+    "notability": 50,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q6499669",
+    "slug": "cabbage-roll",
+    "name": "cabbage roll",
+    "wp_title": "Cabbage roll",
+    "type": "topic",
+    "category": "culture",
+    "aliases": [
+      "cabbage rolls",
+      "stuffed cabbage"
+    ],
+    "notability": 49,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q15733401",
+    "slug": "revolution-of-dignity",
+    "name": "Revolution of Dignity",
+    "wp_title": "Revolution of Dignity",
+    "type": "civil disorder",
+    "category": "history",
+    "aliases": [
+      "2014 Ukrainian Revolution",
+      "Maidan Revolution"
+    ],
+    "notability": 47,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q625652",
+    "slug": "hetman",
+    "name": "hetman",
+    "wp_title": "Hetman",
+    "type": "military rank",
+    "category": "history",
+    "aliases": [
+      "hatman",
+      "hejtman",
+      "het’mаn"
+    ],
+    "notability": 46,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q472189",
+    "slug": "ukrainian-greek-catholic-church",
+    "name": "Ukrainian Greek Catholic Church",
+    "wp_title": "Ukrainian Greek Catholic Church",
+    "type": "Catholic particular church sui iuris",
+    "category": "culture",
+    "aliases": [
+      "Ukrainian Catholic Church",
+      "Ukrainian Catholic Church of the Byzantine Tradition"
+    ],
+    "notability": 45,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1549039",
+    "slug": "constitution-of-ukraine",
+    "name": "Constitution of Ukraine",
+    "wp_title": "Constitution of Ukraine",
+    "type": "constitution",
+    "category": "politics",
+    "aliases": [],
+    "notability": 44,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q613729",
+    "slug": "cabinet-of-ministers-of-ukraine",
+    "name": "Cabinet of Ministers of Ukraine",
+    "wp_title": "Government of Ukraine",
+    "type": "executive branch",
+    "category": "politics",
+    "aliases": [
+      "CMU",
+      "CabMin",
+      "Cabinet of Ukraine",
+      "Government of Ukraine",
+      "Ukraine government",
+      "Ukrainian Government"
+    ],
+    "notability": 44,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q262414",
+    "slug": "bandura",
+    "name": "bandura",
+    "wp_title": "Bandura",
+    "type": "topic",
+    "category": "culture",
+    "aliases": [],
+    "notability": 43,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q6496411",
+    "slug": "salo",
+    "name": "salo",
+    "wp_title": "Salo (food)",
+    "type": "topic",
+    "category": "culture",
+    "aliases": [
+      "Slanina"
+    ],
+    "notability": 43,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q641479",
+    "slug": "khmelnytsky-uprising",
+    "name": "Khmelnytsky Uprising",
+    "wp_title": "Khmelnytsky Uprising",
+    "type": "rebellion",
+    "category": "history",
+    "aliases": [
+      "Cossack-Polish War",
+      "Khmelnytsky insurrection"
+    ],
+    "notability": 42,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q525758",
+    "slug": "treaty-of-pereyaslav",
+    "name": "Treaty of Pereyaslav",
+    "wp_title": "Pereiaslav Agreement",
+    "type": "treaty",
+    "category": "history",
+    "aliases": [
+      "Pereiaslav treaty of 1654"
+    ],
+    "notability": 42,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1145714",
+    "slug": "prime-minister-of-ukraine",
+    "name": "Prime Minister of Ukraine",
+    "wp_title": "Prime Minister of Ukraine",
+    "type": "public office",
+    "category": "politics",
+    "aliases": [],
+    "notability": 41,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q112114958",
+    "slug": "battle-of-bakhmut",
+    "name": "Battle of Bakhmut",
+    "wp_title": "Battle of Bakhmut",
+    "type": "battle",
+    "category": "war",
+    "aliases": [
+      "battle for Bakhmut"
+    ],
+    "notability": 41,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q111012552",
+    "slug": "snake-island-campaign",
+    "name": "Snake Island campaign",
+    "wp_title": "Snake Island campaign",
+    "type": "battle",
+    "category": "war",
+    "aliases": [
+      "battle of Snake Island"
+    ],
+    "notability": 41,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1162419",
+    "slug": "cucutenitrypillia-culture",
+    "name": "Cucuteni–Trypillia culture",
+    "wp_title": "Cucuteni–Trypillia culture",
+    "type": "archaeological culture",
+    "category": "history",
+    "aliases": [
+      "Cucuteni-Trypillian culture",
+      "Trypillian culture"
+    ],
+    "notability": 40,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2642372",
+    "slug": "vyshyvanka",
+    "name": "vyshyvanka",
+    "wp_title": "Vyshyvanka",
+    "type": "clothing",
+    "category": "culture",
+    "aliases": [],
+    "notability": 40,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q615811",
+    "slug": "security-service-of-ukraine",
+    "name": "Security Service of Ukraine",
+    "wp_title": "Security Service of Ukraine",
+    "type": "security agency",
+    "category": "politics",
+    "aliases": [
+      "SBU",
+      "SSU",
+      "Sluzhba Bezpeky Ukrayiny"
+    ],
+    "notability": 39,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q111015252",
+    "slug": "battle-of-kyiv",
+    "name": "Battle of Kyiv",
+    "wp_title": "Battle of Kyiv (2022)",
+    "type": "military operation",
+    "category": "war",
+    "aliases": [],
+    "notability": 39,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q13147213",
+    "slug": "varenyky",
+    "name": "varenyky",
+    "wp_title": "Varenyky",
+    "type": "type of pasta",
+    "category": "culture",
+    "aliases": [
+      "pyrohy"
+    ],
+    "notability": 39,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2479606",
+    "slug": "ukrainian-war-of-independence",
+    "name": "Ukrainian War of Independence",
+    "wp_title": "Ukrainian War of Independence",
+    "type": "historical period",
+    "category": "history",
+    "aliases": [
+      "Ukrainian Revolution",
+      "Ukrainian Struggle for Independence"
+    ],
+    "notability": 38,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1139098",
+    "slug": "hopak",
+    "name": "hopak",
+    "wp_title": "Hopak",
+    "type": "type of dance",
+    "category": "culture",
+    "aliases": [],
+    "notability": 37,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q923337",
+    "slug": "ukrainian-railways",
+    "name": "Ukrainian Railways",
+    "wp_title": "Ukrainian Railways",
+    "type": "railway company",
+    "category": "economy",
+    "aliases": [
+      "UZ",
+      "UkrZaliznytsya",
+      "Ukrzaliznytsia"
+    ],
+    "notability": 37,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1276062",
+    "slug": "ukrainian-literature",
+    "name": "Ukrainian literature",
+    "wp_title": "Ukrainian literature",
+    "type": "sub-set of literature",
+    "category": "culture",
+    "aliases": [
+      "literature of Ukraine"
+    ],
+    "notability": 35,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1794677",
+    "slug": "kutia",
+    "name": "Kutia",
+    "wp_title": "Kutia",
+    "type": "topic",
+    "category": "culture",
+    "aliases": [
+      "kutya"
+    ],
+    "notability": 35,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2418795",
+    "slug": "zaporizhian-sich",
+    "name": "Zaporizhian Sich",
+    "wp_title": "Zaporozhian Sich",
+    "type": "quasi-state",
+    "category": "history",
+    "aliases": [
+      "Zaporizka Sich",
+      "Zaporozhian Sich"
+    ],
+    "notability": 34,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q59199697",
+    "slug": "kerch-strait-incident",
+    "name": "Kerch Strait incident",
+    "wp_title": "Kerch Strait incident",
+    "type": "invasion",
+    "category": "war",
+    "aliases": [],
+    "notability": 34,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1070388",
+    "slug": "national-bank-of-ukraine",
+    "name": "National Bank of Ukraine",
+    "wp_title": "National Bank of Ukraine",
+    "type": "central bank",
+    "category": "economy",
+    "aliases": [
+      "NBU"
+    ],
+    "notability": 34,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q728513",
+    "slug": "naftogaz-of-ukraine",
+    "name": "Naftogaz of Ukraine",
+    "wp_title": "Naftogaz",
+    "type": "business",
+    "category": "economy",
+    "aliases": [
+      "Naftogaz of Ukraine",
+      "Naftohaz",
+      "Naftohaz of Ukraine"
+    ],
+    "notability": 32,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q12140171",
+    "slug": "petrykivka-painting",
+    "name": "Petrykivka painting",
+    "wp_title": "Petrykivka painting",
+    "type": "style of painting",
+    "category": "culture",
+    "aliases": [
+      "Petrikivka painting",
+      "Petrykivka"
+    ],
+    "notability": 31,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q3624961",
+    "slug": "ukraine-nato-relations",
+    "name": "Ukraine-NATO relations",
+    "wp_title": "Ukraine–NATO relations",
+    "type": "bilateral relation",
+    "category": "politics",
+    "aliases": [
+      "NATO–Ukraine relations"
+    ],
+    "notability": 30,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q111078529",
+    "slug": "battle-of-sievierodonetsk",
+    "name": "Battle of Sievierodonetsk",
+    "wp_title": "Battle of Sievierodonetsk (2022)",
+    "type": "battle",
+    "category": "war",
+    "aliases": [],
+    "notability": 30,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q111528870",
+    "slug": "kramatorsk-railway-station-attack",
+    "name": "Kramatorsk railway station attack",
+    "wp_title": "Kramatorsk railway station attack",
+    "type": "missile strike",
+    "category": "war",
+    "aliases": [
+      "Airstrike on Kramatorsk railway station",
+      "Kramatorsk railway bombing",
+      "Kramatorsk train station airstrike",
+      "Missile strike at Kramatorsk station"
+    ],
+    "notability": 30,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q3233785",
+    "slug": "pysanka",
+    "name": "pysanka",
+    "wp_title": "Egg decorating in Slavic culture",
+    "type": "tradition",
+    "category": "culture",
+    "aliases": [
+      "pisanica",
+      "pisanka"
+    ],
+    "notability": 30,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2635017",
+    "slug": "roshen",
+    "name": "Roshen",
+    "wp_title": "Roshen",
+    "type": "privately held company",
+    "category": "economy",
+    "aliases": [],
+    "notability": 30,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4390519",
+    "slug": "executed-renaissance",
+    "name": "Executed Renaissance",
+    "wp_title": "Executed Renaissance",
+    "type": "term",
+    "category": "history",
+    "aliases": [
+      "Rozstriliane vidrodzhennia"
+    ],
+    "notability": 29,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q201120",
+    "slug": "paska",
+    "name": "paska",
+    "wp_title": "Paska (bread)",
+    "type": "topic",
+    "category": "culture",
+    "aliases": [
+      "Pască"
+    ],
+    "notability": 29,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1515015",
+    "slug": "privatbank",
+    "name": "PrivatBank",
+    "wp_title": "PrivatBank",
+    "type": "bank",
+    "category": "economy",
+    "aliases": [],
+    "notability": 29,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q111269621",
+    "slug": "mariupol-theatre-airstrike",
+    "name": "Mariupol theatre airstrike",
+    "wp_title": "Mariupol theatre airstrike",
+    "type": "war crime",
+    "category": "war",
+    "aliases": [
+      "Bombardment of theater in Mariupol",
+      "Bombing of the Mariupol theatre",
+      "Mariupol theater airstrike",
+      "Mariupol theater bombing",
+      "Mariupol theatre bombing"
+    ],
+    "notability": 28,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1573443",
+    "slug": "ukrainization",
+    "name": "Ukrainization",
+    "wp_title": "Ukrainization",
+    "type": "assimilation",
+    "category": "history",
+    "aliases": [
+      "Ukrainianization",
+      "Ukrainizatsiia"
+    ],
+    "notability": 26,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q658951",
+    "slug": "ukraineeuropean-union-relations",
+    "name": "Ukraine–European Union relations",
+    "wp_title": "Ukraine–European Union relations",
+    "type": "bilateral relation",
+    "category": "politics",
+    "aliases": [],
+    "notability": 25,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q113865480",
+    "slug": "2022-kharkiv-counteroffensive",
+    "name": "2022 Kharkiv counteroffensive",
+    "wp_title": "2022 Kharkiv counteroffensive",
+    "type": "counter-offensive",
+    "category": "war",
+    "aliases": [
+      "2022 Ukrainian Kharkiv counteroffensive",
+      "2022 Ukrainian eastern counteroffensive",
+      "Balakliia Blitzkrieg",
+      "Kharkiv Blitzkrieg",
+      "Kharkiv counteroffensive",
+      "Ukrainian eastern counteroffensive",
+      "eastern Ukraine counteroffensive"
+    ],
+    "notability": 24,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q19359929",
+    "slug": "minsk-agreements",
+    "name": "Minsk agreements",
+    "wp_title": "Minsk agreements",
+    "type": "peace treaty",
+    "category": "war",
+    "aliases": [
+      "Minsk agreement",
+      "Minsk peace talks",
+      "Minsk protocols"
+    ],
+    "notability": 24,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q937993",
+    "slug": "motor-sich",
+    "name": "Motor Sich",
+    "wp_title": "Motor Sich",
+    "type": "business",
+    "category": "economy",
+    "aliases": [
+      "Motor-Sich"
+    ],
+    "notability": 24,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2288463",
+    "slug": "kyivstar",
+    "name": "Kyivstar",
+    "wp_title": "Kyivstar",
+    "type": "business",
+    "category": "economy",
+    "aliases": [
+      "KYIVSTAR JSC"
+    ],
+    "notability": 23,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q18920465",
+    "slug": "battle-of-debaltseve",
+    "name": "Battle of Debaltseve",
+    "wp_title": "Battle of Debaltseve",
+    "type": "battle",
+    "category": "war",
+    "aliases": [],
+    "notability": 22,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1761133",
+    "slug": "rushnyk",
+    "name": "Rushnyk",
+    "wp_title": "Rushnyk",
+    "type": "topic",
+    "category": "culture",
+    "aliases": [],
+    "notability": 22,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q399514",
+    "slug": "ukrainian-orthodox-church",
+    "name": "Ukrainian Orthodox Church",
+    "wp_title": "Ukrainian Orthodox Church",
+    "type": "Wikimedia disambiguation page",
+    "category": "culture",
+    "aliases": [],
+    "notability": 22,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2991257",
+    "slug": "ukrainian-diaspora",
+    "name": "Ukrainian diaspora",
+    "wp_title": "Ukrainian diaspora",
+    "type": "diaspora",
+    "category": "people",
+    "aliases": [],
+    "notability": 21,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q14645946",
+    "slug": "sich-riflemen",
+    "name": "Sich Riflemen",
+    "wp_title": "Sich Riflemen",
+    "type": "military unit",
+    "category": "history",
+    "aliases": [],
+    "notability": 20,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q113027451",
+    "slug": "2022-kherson-counteroffensive",
+    "name": "2022 Kherson counteroffensive",
+    "wp_title": "2022 Kherson counteroffensive",
+    "type": "counter-offensive",
+    "category": "war",
+    "aliases": [
+      "2022 Ukrainian southern counteroffensive",
+      "Kherson counteroffensive",
+      "South Ukraine counteroffensive",
+      "Ukrainian southern counteroffensive",
+      "southern Ukraine counteroffensive"
+    ],
+    "notability": 20,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q3739421",
+    "slug": "ukrainian-defense-industry",
+    "name": "Ukrainian Defense Industry",
+    "wp_title": "Ukrainian Defense Industry",
+    "type": "concern",
+    "category": "economy",
+    "aliases": [
+      "Ukroboronprom"
+    ],
+    "notability": 20,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1062643",
+    "slug": "ukrainian-carpathians",
+    "name": "Ukrainian Carpathians",
+    "wp_title": "Ukrainian Carpathians",
+    "type": "mountain range",
+    "category": "geography",
+    "aliases": [],
+    "notability": 19,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q155858",
+    "slug": "music-of-ukraine",
+    "name": "music of Ukraine",
+    "wp_title": "Music of Ukraine",
+    "type": "music by country or region",
+    "category": "culture",
+    "aliases": [
+      "Ukraine music",
+      "Ukrainian music",
+      "music in Ukraine"
+    ],
+    "notability": 19,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2918349",
+    "slug": "rag-doll",
+    "name": "rag doll",
+    "wp_title": "Rag doll",
+    "type": "topic",
+    "category": "culture",
+    "aliases": [
+      "cloth doll"
+    ],
+    "notability": 19,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q938225",
+    "slug": "energoatom",
+    "name": "Energoatom",
+    "wp_title": "Energoatom",
+    "type": "joint-stock company",
+    "category": "economy",
+    "aliases": [],
+    "notability": 19,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1680874",
+    "slug": "trembita",
+    "name": "trembita",
+    "wp_title": "Trembita",
+    "type": "type of musical instrument",
+    "category": "culture",
+    "aliases": [],
+    "notability": 18,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2714836",
+    "slug": "constitutional-court-of-ukraine",
+    "name": "Constitutional Court of Ukraine",
+    "wp_title": "Constitutional Court of Ukraine",
+    "type": "constitutional court",
+    "category": "politics",
+    "aliases": [],
+    "notability": 17,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q17627724",
+    "slug": "battle-of-ilovaisk",
+    "name": "Battle of Ilovaisk",
+    "wp_title": "Battle of Ilovaisk",
+    "type": "battle",
+    "category": "war",
+    "aliases": [
+      "Ilovaisk massacre"
+    ],
+    "notability": 17,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q6824111",
+    "slug": "metinvest",
+    "name": "Metinvest",
+    "wp_title": "Metinvest",
+    "type": "business",
+    "category": "economy",
+    "aliases": [
+      "Metinvest Group"
+    ],
+    "notability": 17,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2069651",
+    "slug": "kolomyjka",
+    "name": "Kolomyjka",
+    "wp_title": "Kolomyika",
+    "type": "music genre",
+    "category": "culture",
+    "aliases": [],
+    "notability": 16,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4340839",
+    "slug": "oschadbank",
+    "name": "Oschadbank",
+    "wp_title": "Oschadbank",
+    "type": "bank",
+    "category": "economy",
+    "aliases": [
+      "State Savings Bank of Ukraine"
+    ],
+    "notability": 16,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4153473",
+    "slug": "dtek",
+    "name": "DTEK",
+    "wp_title": "DTEK",
+    "type": "business",
+    "category": "economy",
+    "aliases": [],
+    "notability": 13,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q12133863",
+    "slug": "nova-post",
+    "name": "Nova Post",
+    "wp_title": "Nova Poshta",
+    "type": "postal service",
+    "category": "economy",
+    "aliases": [
+      "New Post",
+      "Nova Poshta",
+      "Nova poshta LLC",
+      "«Nova poshta», Ltd"
+    ],
+    "notability": 13,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2447961",
+    "slug": "ukrnafta",
+    "name": "Ukrnafta",
+    "wp_title": "Ukrnafta",
+    "type": "business",
+    "category": "economy",
+    "aliases": [],
+    "notability": 12,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q491289",
+    "slug": "arcelormittal-kryvyi-rih",
+    "name": "ArcelorMittal Kryvyi Rih",
+    "wp_title": "ArcelorMittal Kryvyi Rih",
+    "type": "steel mill",
+    "category": "economy",
+    "aliases": [
+      "AMKR",
+      "Kryvorizhstal"
+    ],
+    "notability": 12,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q16056631",
+    "slug": "foreign-relations-of-ukraine",
+    "name": "foreign relations of Ukraine",
+    "wp_title": "Foreign relations of Ukraine",
+    "type": "foreign relations",
+    "category": "politics",
+    "aliases": [],
+    "notability": 10,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4202120",
+    "slug": "interpipe-group",
+    "name": "Interpipe Group",
+    "wp_title": "Interpipe Group",
+    "type": "business",
+    "category": "economy",
+    "aliases": [],
+    "notability": 9,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2827170",
+    "slug": "agriculture-in-ukraine",
+    "name": "agriculture in Ukraine",
+    "wp_title": "Agriculture in Ukraine",
+    "type": "agriculture by country or territory",
+    "category": "economy",
+    "aliases": [],
+    "notability": 7,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q488006",
+    "slug": "anatoliy-solovyanenko",
+    "name": "Anatoliy Solovyanenko",
+    "wp_title": "Anatoliy Solovianenko",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Anatoliy Borysovych Solovyanenko",
+      "Anatoliy Solovianenko"
+    ],
+    "notability": 120,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q41244",
+    "slug": "andriy-shevchenko",
+    "name": "Andriy Shevchenko",
+    "wp_title": "Andriy Shevchenko",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Andriy Mykolayovych Shevchenko"
+    ],
+    "notability": 86,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2662517",
+    "slug": "jamala",
+    "name": "Jamala",
+    "wp_title": "Jamala",
+    "type": "human",
+    "category": "people",
+    "aliases": [],
+    "notability": 81,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q43137",
+    "slug": "sofia-rotaru",
+    "name": "Sofia Rotaru",
+    "wp_title": "Sofia Rotaru",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Sofia Mykhailivna Rotaru",
+      "Sofiia Mykhailivna Rotaru",
+      "Sofiia Rotaru"
+    ],
+    "notability": 78,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q129119",
+    "slug": "ruslana-lyzhychko",
+    "name": "Ruslana Lyzhychko",
+    "wp_title": "Ruslana",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Ruslana",
+      "Ruslana Stepanivna Lyzhychko"
+    ],
+    "notability": 75,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q31919",
+    "slug": "vitali-klitschko",
+    "name": "Vitali Klitschko",
+    "wp_title": "Vitali Klitschko",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Vitali Volodymyrovych Klitschko",
+      "Vitalii Klychko",
+      "Vitaliy Klitschko"
+    ],
+    "notability": 74,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q184556",
+    "slug": "sergei-bubka",
+    "name": "Sergei Bubka",
+    "wp_title": "Sergey Bubka",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Sergey Bubka",
+      "Sergey Nazarovych Bubka",
+      "Serhii Bubka",
+      "Serhiy Bubka"
+    ],
+    "notability": 70,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q164730",
+    "slug": "olga-kurylenko",
+    "name": "Olga Kurylenko",
+    "wp_title": "Olga Kurylenko",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Olga Konstantinovna Kurylenko",
+      "Olha Kostiantynivna Kurylenko",
+      "Olha Kurylenko"
+    ],
+    "notability": 69,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q186691",
+    "slug": "oleh-blokhin",
+    "name": "Oleh Blokhin",
+    "wp_title": "Oleg Blokhin",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Oleg Blokhin"
+    ],
+    "notability": 66,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q15850",
+    "slug": "oleksandr-turchynov",
+    "name": "Oleksandr Turchynov",
+    "wp_title": "Oleksandr Turchynov",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Oleksandr Valentynovych Turchynov"
+    ],
+    "notability": 65,
+    "status": "synthesized"
+  }
+]

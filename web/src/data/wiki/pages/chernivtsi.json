@@ -1,0 +1,115 @@
+{
+  "qid": "Q157725",
+  "slug": "chernivtsi",
+  "title": "Chernivtsi",
+  "type": "city of regional significance of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Cernivtsi",
+    "Cernwitze Bukovina",
+    "Chernovits",
+    "Chernovitsy",
+    "Chernovitz",
+    "Chernívtsi",
+    "Csernovic",
+    "Czernovicum",
+    "Tchernovtsi",
+    "Tjernivtsi",
+    "Tjernovtsy",
+    "Tschernovitz",
+    "Tschernowzy",
+    "Tsernivtsi",
+    "Tsernovtso",
+    "Tshernivtsi",
+    "Txernivtsi",
+    "Tšernivtsi",
+    "Tšernovtsõ",
+    "Çernivtsi",
+    "Černivci",
+    "Černovcy",
+    "Černovice"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "266,550",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "153",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "248",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Mykoła Fedoruk, Q17371830",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.2908, 25.9344",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Chernivtsi is a city of regional significance in southwestern Ukraine, located on the upper course of the Prut River. Historically the capital of Bukovina, the city has played a vital role in the cultural and administrative landscape of Ukraine.",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Significance",
+      "paragraphs": [
+        "Chernivtsi is situated in southwestern [[ukraine|Ukraine]] along the Prut River. It serves as the administrative center for the Chernivtsi urban hromada, the Chernivtsi Raion, and the Chernivtsi Oblast. As of 2022, the population of Chernivtsi is estimated to be 264,298."
+      ]
+    },
+    {
+      "heading": "Historical Overview",
+      "paragraphs": [
+        "The earliest mention of Chernivtsi dates back to 1408 when it was part of Moldavia. Initially established as a defensive fortification, it became the center of Bukovina in 1488. The city changed hands multiple times, coming under Polish, Ottoman, and Austrian control before becoming part of Romania in 1918. Following World War II, Chernivtsi became part of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] and later independent Ukraine."
+      ]
+    },
+    {
+      "heading": "Cultural and Educational Hub",
+      "paragraphs": [
+        "Chernivtsi is recognized as one of the main cultural centers of Western Ukraine, known for its rich history and diverse architecture. The city has been historically cosmopolitan, earning nicknames such as 'Little Vienna' and 'Jerusalem upon the Prut.' It remains an important educational site and a regional transportation hub, featuring an international airport."
+      ]
+    },
+    {
+      "heading": "Demographics and Ethnic Composition",
+      "paragraphs": [
+        "As of the 1930 census, Chernivtsi had a diverse population with [[ukrainians|Ukrainians]] making up 44.5%, Romanians 25.5%, Jews 16.7%, Germans 6.4%, and Poles 4.9%. This ethnic diversity reflects the city's historical significance as a crossroads of various cultures and nationalities."
+      ]
+    },
+    {
+      "heading": "Modern Developments",
+      "paragraphs": [
+        "In the contemporary context, Chernivtsi continues to thrive as a regional center, balancing its historical heritage with modern development. The city's role in Ukraine's educational and cultural landscape remains significant, contributing to the broader narrative of [[ukrainian|Ukrainian]] identity."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Chernivtsi — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chernivtsi",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

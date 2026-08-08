@@ -1,0 +1,94 @@
+---
+import Base from "@/layouts/Base.astro";
+
+const description =
+  "Privacy policy — what limited data this website does and does not collect.";
+const updated = new Date().toLocaleDateString("en-US", {
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+});
+const contactEmail = "contact@ukraineporn.com";
+---
+
+<Base title="Privacy Policy" description={description}>
+  <div class="doc mx-auto max-w-[820px] px-5 py-8 sm:py-10">
+    <nav aria-label="Breadcrumb" class="ui mb-4 text-sm text-mute">
+      <a href="/" class="hover:underline">Home</a>
+      <span aria-hidden="true"> › </span>
+      <span>Privacy Policy</span>
+    </nav>
+
+    <header class="border-b border-hairline pb-4">
+      <h1 class="text-3xl font-bold leading-tight text-ink sm:text-4xl">
+        Privacy Policy
+      </h1>
+      <p class="ui mt-2 text-sm text-mute">Last updated: {updated}</p>
+    </header>
+
+    <div class="mt-6 flex max-w-prose flex-col gap-4 text-body">
+      <p>
+        This website is a static, read-only reference. We keep data collection to
+        an absolute minimum and do not sell or share personal information.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">Information we collect</h2>
+      <ul class="list-disc space-y-1 pl-5 marker:text-mute">
+        <li>
+          <strong class="text-ink">No accounts.</strong> There is no login, and we
+          do not ask for your name, email, or other personal details to browse.
+        </li>
+        <li>
+          <strong class="text-ink">Local settings.</strong> Your light/dark theme
+          preference is stored in your browser's <code>localStorage</code> on your
+          device. It never leaves your browser and is not a tracking cookie.
+        </li>
+        <li>
+          <strong class="text-ink">Server logs.</strong> Our hosting provider may
+          record standard technical information (such as IP address, browser type,
+          and pages requested) to serve the site securely and reliably.
+        </li>
+      </ul>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">Cookies &amp; tracking</h2>
+      <p>
+        We do not set advertising or cross-site tracking cookies. If analytics are
+        ever added, they will be privacy-respecting and this policy will be
+        updated to say so.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">Third parties</h2>
+      <p>
+        The site is delivered through a hosting/CDN provider and may link out to
+        third-party websites. We are not responsible for the privacy practices of
+        other sites; please review their policies separately.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">Children</h2>
+      <p>
+        This site is intended for a general audience and does not knowingly
+        collect personal information from children.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">Your choices</h2>
+      <p>
+        You can clear your theme preference at any time by clearing your browser's
+        site data. Because we do not maintain user accounts, there is no personal
+        profile for us to delete.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">Changes</h2>
+      <p>
+        We may update this policy from time to time. Material changes will be
+        reflected by the “last updated” date above.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">Contact</h2>
+      <p>
+        Questions about privacy? Email
+        <a href={`mailto:${contactEmail}`} class="doclink">{contactEmail}</a> or
+        use the <a href="/contact" class="doclink">contact page</a>.
+      </p>
+    </div>
+  </div>
+</Base>

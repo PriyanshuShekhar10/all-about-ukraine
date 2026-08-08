@@ -1,0 +1,87 @@
+{
+  "qid": "Q332462",
+  "slug": "ivan-franko",
+  "title": "Ivan Franko",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Ivan Yakovych Franko",
+    "Kremin",
+    "Myron",
+    "Zhyvyi"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1856-08-27",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1916-05-28",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Nahuievychi",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Ivan Yakovych Franko was a prominent Ukrainian poet, writer, and political activist, recognized as a key figure in the development of modern Ukrainian literature and socialist thought. His contributions include pioneering detective novels and modern poetry, as well as translating significant works into Ukrainian.",
+  "sections": [
+    {
+      "heading": "Biography",
+      "paragraphs": [
+        "Ivan Yakovych Franko was born on 27 August 1856 in the village of Nahuievychi, located in the Austrian kronland of Galicia, which is now part of Drohobych Raion, [[lviv|Lviv]] Oblast, [[ukraine|Ukraine]]. He was baptized as Ivan by Father Yosyp Levytsky, a poet and author of the first Galician-Ruthenian grammar. Franko's family was considered well-to-do, owning 24 hectares of property and possibly having German origins.",
+        "His mother, Maria, came from a family of petty nobility, the Kulczyckis, and researchers describe her nationality as either Polish or [[ukrainian|Ukrainian]]. Franko attended school in Yasenytsia Sylna and later the Basilian monastic school in Drohobych. After the death of his father, he continued his education with the support of his stepfather, graduating from Drohobych Realschule in 1875 and later studying at Lviv University."
+      ]
+    },
+    {
+      "heading": "Socialist Activism and Imprisonment",
+      "paragraphs": [
+        "Franko's political activism began at Lviv University, where he met Mykhailo Drahomanov. His socialist writings led to his arrest in 1877 for alleged involvement in a non-existent socialist organization. Despite spending nine months in prison, he continued his political engagement, writing and contributing to various publications, including the magazine Hromadskyi Druh.",
+        "Franko faced further arrests for his activism, including a two-month imprisonment in 1889. His experiences during these times influenced his literary works, including the novel Na Dni. He was expelled from Lviv University due to his political activities, which later became known as Ivan Franko National University of Lviv."
+      ]
+    },
+    {
+      "heading": "Marriage and Political Engagement",
+      "paragraphs": [
+        "In May 1886, Franko married Olha Khoruzhynska from [[kyiv|Kyiv]]. His political involvement continued as he co-founded the Ruthenian-Ukrainian Radical Party and ran for parliamentary seats, although he was never elected. He pursued higher education, receiving a PhD from the University of Vienna in 1893 and later lecturing in [[ukrainian-literature|Ukrainian literature]] at Lviv University.",
+        "Franko's political writings included critiques of socialism and Marxism, reflecting his evolving views on national identity and social issues in Ukraine."
+      ]
+    },
+    {
+      "heading": "Later Career and Illness",
+      "paragraphs": [
+        "In 1902, Franko was supported by students and activists who purchased a house for him in Lviv, where he lived until his death. He participated in ethnographic expeditions and published significant works, including his jubilee collection in 1914. However, his health declined due to rheumatism and other illnesses, limiting his ability to write in his later years.",
+        "Despite his declining health, Franko was nominated for the Nobel Prize in Literature in 1916, although he passed away on 28 May 1916 before the nomination could be finalized."
+      ]
+    },
+    {
+      "heading": "Death and Legacy",
+      "paragraphs": [
+        "Franko's final years were marked by illness and the loss of family support during World War I. He died in a shelter for members of the Ukrainian [[sich-riflemen|Sich Riflemen]]. Initially denied a proper burial due to his refusal of confession, he was eventually interred in Lychakiv Cemetery in Lviv on 28 May 1921, five years after his death. A monument was erected at his grave site in 1933, honoring his contributions to Ukrainian literature and culture."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "lviv",
+    "sich-riflemen",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-literature"
+  ],
+  "sources": [
+    {
+      "title": "Ivan Franko — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ivan_Franko",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

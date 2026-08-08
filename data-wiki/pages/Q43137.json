@@ -1,0 +1,79 @@
+{
+  "qid": "Q43137",
+  "slug": "sofia-rotaru",
+  "title": "Sofia Rotaru",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Sofia Mykhailivna Rotaru",
+    "Sofiia Mykhailivna Rotaru",
+    "Sofiia Rotaru"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1947-08-07",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Marshyntsi",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Sofiia Mykhailivna Yevdokymenko-Rotaru, commonly known as Sofia Rotaru, is a prominent [[ukrainian|Ukrainian]] singer born on 7 August 1947. She has made significant contributions to the music scene in Ukraine and the former Soviet Union, achieving international recognition through her diverse repertoire and performances.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Sofia Rotaru was born in Marshyntsi, [[chernivtsi|Chernivtsi]] Oblast, [[ukraine|Ukraine]], to a family of the Romanian minority. She was the second of six children in her family. Her father, Mykhail Fedorovich Rotaru, served as a heavy machine gunner during World War II and later became the first member of the Communist Party in their village. Rotaru's early exposure to music was influenced by her older sister, Zina, who, despite going blind, taught her folk songs and instilled a love for music in her.",
+        "Growing up in a predominantly Romanian-speaking environment, Sofia began singing in school and church choirs, and developed her musical talents through various competitions and local performances."
+      ]
+    },
+    {
+      "heading": "Career Beginnings",
+      "paragraphs": [
+        "Rotaru's professional career began in 1962 when she won a regional vocal competition, leading to further recognition in 1963 and 1964. After graduating high school, she pursued music at the Chernivtsi musical college and gained valuable experience performing at the State Kremlin Palace in 1964. Her early career included appearances in a short documentary film showcasing her talent in Moldavian folk songs.",
+        "In 1968, she gained international attention at the IX World Festival of Youth and Students in Bulgaria, winning first prize and marking the beginning of her rise in the music industry."
+      ]
+    },
+    {
+      "heading": "International Recognition",
+      "paragraphs": [
+        "Sofia Rotaru's career flourished in the early 1970s, highlighted by her participation in the musical film 'Chervona Ruta' in 1971, which significantly boosted her popularity in the Soviet Union, especially in Ukraine. The film's success led to her working with the Chernivtsi Philharmonic Society and the ensemble Chervona Ruta, where she collaborated with notable composers like Volodymyr Ivasyuk.",
+        "In 1973, she won first prize at the Golden Orpheus festival in Bulgaria, further solidifying her status as a leading artist in the Soviet music scene."
+      ]
+    },
+    {
+      "heading": "Later Career and Achievements",
+      "paragraphs": [
+        "Throughout the late 1970s and 1980s, Rotaru continued to evolve her musical style, collaborating with various composers and expanding her repertoire. She gained acclaim for her performances at international festivals, including winning first prize at the Tokyo festival in 1980.",
+        "Her contributions to music have earned her numerous accolades, including the title of People's Artist of Ukraine and the Hero of Ukraine, awarded for her significant impact on the arts. In 2008 and 2010, she was reported as the highest-earning celebrity in Ukraine."
+      ]
+    },
+    {
+      "heading": "Personal Life",
+      "paragraphs": [
+        "Sofia Rotaru's official surname is Yevdokymenko-Rotaru, reflecting her late husband's surname. She primarily resides in Yalta but also maintains homes in Moscow, [[kyiv|Kyiv]], and Baden-Baden. Her heritage as part of the Romanian minority in Ukraine has influenced her musical identity and connection to her roots."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernivtsi",
+    "kyiv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Sofia Rotaru — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sofia_Rotaru",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

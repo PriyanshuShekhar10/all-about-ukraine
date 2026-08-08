@@ -1,0 +1,87 @@
+{
+  "qid": "Q203808",
+  "slug": "bohdan-khmelnytsky",
+  "title": "Bohdan Khmelnytsky",
+  "type": "human",
+  "category": "history",
+  "aliases": [
+    "Bohdan Khmelnytskyi"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1595",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1657-07-27",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Zhovkva, Chyhyryn",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "Hetman of Zaporizhian Host",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Bohdan Khmelnytsky (c. 1595 – 6 August 1657) was a prominent Ruthenian nobleman and military leader of the Zaporozhian [[cossacks|Cossacks]], serving as [[hetman|Hetman]] of the Zaporozhian Host. He is best known for leading a successful uprising against the Polish–Lithuanian Commonwealth, which resulted in the establishment of an independent Cossack state in [[dnieper|Dnieper]] Ukraine.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Bohdan Khmelnytsky was likely born on 27 December 1595 Julian in the village of Subotiv, near Chyhyryn in the Crown of the Kingdom of Poland. His father, Mykhailo Khmelnytsky, was a Registered Cossack. There is some debate regarding Khmelnytsky's noble status, but modern historians generally agree that he belonged to the [[ukrainian|Ukrainian]] lesser nobility. His education included studies at the [[lviv|Lviv]] Jesuit collegium and possibly in Jarosław."
+      ]
+    },
+    {
+      "heading": "Cossack Service and Captivity",
+      "paragraphs": [
+        "After completing his education in 1617, Khmelnytsky entered Cossack service. He was captured by the Ottomans during the Battle of Cecora on 17 September 1620 and spent two years in captivity in Constantinople. He eventually returned to [[ukraine|Ukraine]], likely through ransom, and took over his father's estate, becoming a Registered Cossack in the Chyhyryn Regiment."
+      ]
+    },
+    {
+      "heading": "Cossack Uprisings and Leadership",
+      "paragraphs": [
+        "Khmelnytsky participated in various Cossack uprisings and naval raids during the 1620s and was involved in the Pavliuk uprising. He later became a military scribe for the [[cossack-hetmanate|Zaporozhian Host]]. His leadership culminated in the uprising against the Polish–Lithuanian Commonwealth from 1648 to 1654, which led to significant violence and the establishment of a Cossack state."
+      ]
+    },
+    {
+      "heading": "Treaty of Pereiaslav and Legacy",
+      "paragraphs": [
+        "In 1654, Khmelnytsky signed the Treaty of Pereiaslav with the Russian Tsar, aligning the Cossack Hetmanate with the Tsardom of Russia. His actions significantly altered the power dynamics in Europe and contributed to the rise of Ukrainian nationalism. Khmelnytsky is viewed as a folk hero by many [[ukrainians|Ukrainians]], celebrated for his role in the fight for independence, although his legacy is complex and controversial due to the violence associated with his rule."
+      ]
+    },
+    {
+      "heading": "Controversies and Historical Interpretations",
+      "paragraphs": [
+        "Khmelnytsky's leadership was marked by massacres of Poles and Jews, which have been described as traumatic events in Polish and Jewish history. His image has been shaped by various narratives, with some portraying him as a unifier of Ukraine with Russia, while others emphasize his contentious alliances and harsh policies that resulted in numerous deaths and enslavements."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossack-hetmanate",
+    "cossacks",
+    "dnieper",
+    "hetman",
+    "lviv",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Bohdan Khmelnytsky — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bohdan_Khmelnytsky",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

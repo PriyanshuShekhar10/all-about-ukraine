@@ -1,0 +1,109 @@
+{
+  "qid": "Q156713",
+  "slug": "zhytomyr",
+  "title": "Zhytomyr",
+  "type": "city of regional significance of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Zhitomir",
+    "Żytomierz",
+    "Žitomir",
+    "Žitómir",
+    "Žytómyr"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "0884",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Grand Duchy of Lithuania, Crown of the Kingdom of Poland",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "267,038",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "65",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "221",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Serhii Sukhomlyn",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.2544, 28.6578",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Zhytomyr is a city located in the north of the western part of Ukraine, serving as the administrative center of Zhytomyr Oblast and the surrounding urban hromada. With a population of 261,624 as of 2022, it is a significant transport hub and has a rich historical and cultural heritage.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Zhytomyr is situated in the north of the western region of [[ukraine|Ukraine]], covering an area of 65 square kilometers (25 sq mi). As of 2022, the city has an estimated population of 261,624 residents."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Legend suggests that Zhytomyr was founded around 884 by Prince Jytomyr, a leader of the Drevlians. The city is one of the notable locations of [[kievan-rus|Kievan Rus]]', with its first recorded mention dating back to 1240 when it was attacked by the Mongol forces of Batu Khan.",
+        "Throughout its history, Zhytomyr has been under various dominions, including the Grand Duchy of Lithuania in 1320 and later incorporated into the Kingdom of Poland after the Union of Lublin in 1569. It became a significant administrative center and was granted Magdeburg city rights in 1444."
+      ]
+    },
+    {
+      "heading": "Economic Activities",
+      "paragraphs": [
+        "Zhytomyr's economy is diverse, with significant activities including lumber milling, food processing, granite quarrying, metalworking, and the production of musical instruments. The city also serves as a major transport hub, connecting key routes between [[kyiv|Kyiv]] and western Ukraine."
+      ]
+    },
+    {
+      "heading": "Cultural Heritage",
+      "paragraphs": [
+        "Zhytomyr is recognized as a center for the Polish minority in Ukraine, featuring a Latin Catholic cathedral and a large Roman Catholic Polish cemetery established in 1800. This cemetery is regarded as the third largest Polish cemetery outside of Poland."
+      ]
+    },
+    {
+      "heading": "Impact of Conflicts",
+      "paragraphs": [
+        "During World War II, Zhytomyr was occupied by Nazi Germany and became a site of significant atrocities, particularly against the Jewish population. The city has also faced challenges during the 2022 Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], experiencing air and missile strikes that resulted in casualties and damage to infrastructure."
+      ]
+    },
+    {
+      "heading": "Administrative Structure",
+      "paragraphs": [
+        "Zhytomyr is the administrative center of Zhytomyr Oblast and is divided into two urban districts: Bohunskyi District and Koroliovskyi District, the latter named in honor of Sergey Korolyov. The city plays a vital role in local governance and community organization."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "kievan-rus",
+    "kyiv",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Zhytomyr — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zhytomyr",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

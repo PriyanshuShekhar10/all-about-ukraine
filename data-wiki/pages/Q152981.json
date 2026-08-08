@@ -1,0 +1,51 @@
+{
+  "qid": "Q152981",
+  "slug": "potato-pancake",
+  "title": "potato pancake",
+  "type": "dish",
+  "category": "culture",
+  "aliases": [
+    "pan-fried potato pancakes"
+  ],
+  "infobox": {
+    "label": "dish",
+    "fields": []
+  },
+  "summary": "Potato pancakes, known in Ukraine as деруни (deruny), are shallow-fried pancakes made primarily from grated potatoes, often combined with ingredients like flour and eggs. This dish is a staple in [[ukrainian-cuisine|Ukrainian cuisine]] and is celebrated for its simplicity and flavor.",
+  "sections": [
+    {
+      "heading": "Preparation and Ingredients",
+      "paragraphs": [
+        "Potato pancakes are typically made from grated or ground potatoes, combined with matzo meal or flour, and often include a binding agent such as egg or corn starch. Additional flavoring may come from grated garlic or onion, along with various seasonings. They can be served plain or topped with condiments such as sour cream, cottage cheese, apple sauce, or sugar."
+      ]
+    },
+    {
+      "heading": "Cultural Significance in Ukraine",
+      "paragraphs": [
+        "In [[ukraine|Ukraine]], potato pancakes, or деруни, are a traditional dish that reflects the agricultural heritage of the region. They are particularly popular in the northern and eastern parts of the country and are often served with sour cream. Deruny can also be accompanied by mushrooms, onions, or other vegetables, with regional variations incorporating ingredients like cabbage or cheese.",
+        "Since 2008, the town of Korosten in northern Ukraine has hosted the International Deruny Festival, celebrating this beloved dish through cooking competitions, tastings, and demonstrations of traditional cooking methods."
+      ]
+    },
+    {
+      "heading": "Variations and Similar Dishes",
+      "paragraphs": [
+        "Potato pancakes are not unique to Ukraine and are found in various forms across different cultures. They are known as драники (draniki) in Belarus and Russia, and are similarly regarded as national dishes in these countries. Other variations include the Jewish latke, which has historical ties to [[ukrainian|Ukrainian]] potato cultivation during the mid-1800s.",
+        "In addition to Ukrainian deruny, similar dishes can be found in other European cuisines, such as the German Kartoffelpuffer, Polish placki ziemniaczane, and Czech bramborák, each with its own regional ingredients and preparation methods."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine",
+    "ukrainian",
+    "ukrainian-cuisine"
+  ],
+  "sources": [
+    {
+      "title": "Potato pancake — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Potato_pancake",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,78 @@
+{
+  "qid": "Q131210",
+  "slug": "dniester",
+  "title": "Dniester",
+  "type": "river",
+  "category": "geography",
+  "aliases": [
+    "Dnister River"
+  ],
+  "infobox": {
+    "label": "river",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Moldova",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "46.3500, 30.2333",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Dniester is a transboundary river in Eastern Europe, primarily flowing through Ukraine before continuing into Moldova and discharging into the Black Sea on Ukrainian territory. It serves as a significant geographical and historical landmark in the region.",
+  "sections": [
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "The name Dniester originates from the Sarmatian term dānu nazdya, meaning 'the close river'. This contrasts with the [[dnieper|Dnieper]], which means 'the river on the far side'. Alternative theories suggest a blend of Scythian and Thracian origins, with the river being referred to as Tyras in Ancient Greek, meaning 'rapid'.",
+        "In various languages, the river is known as Дністе́р (Dnister) in [[ukrainian|Ukrainian]], Nistru in Romanian, Днестр (Dnestr) in Russian, Dniestr in Polish, and Turla in Turkish, among others."
+      ]
+    },
+    {
+      "heading": "Geographical Features",
+      "paragraphs": [
+        "The Dniester rises in [[ukraine|Ukraine]], near Turka, close to the Polish border, and flows toward the Black Sea. It delineates part of the border between Ukraine and Moldova and flows through Moldova for 398 kilometres (247 miles), separating the main territory from the breakaway region of Transnistria. The river then continues through Ukraine to its estuary, the Dniester Liman.",
+        "The western bank of the lower Dniester is characterized by high hills, while the eastern bank is low and flat, marking the end of the Eurasian Steppe. Key tributaries include Răut and Bîc."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "During the Neolithic period, the Dniester was home to the Cucuteni–[[cucutenitrypillia-culture|Trypillian culture]], which thrived from approximately 5300 to 2600 BC, establishing one of the earliest large farming communities with settlements of up to 15,000 inhabitants.",
+        "Classical geographers and historians noted the Dniester as a significant river in European Sarmatia, with references by Herodotus and Ptolemy regarding its sources and navigability. The river also served as a trade route for the Varangians to the Greeks.",
+        "From the 14th century until 1812, the Dniester marked the eastern boundary of the Principality of Moldavia. It later became part of the border between Romania and the Soviet Union, witnessing military conflicts during World War II."
+      ]
+    },
+    {
+      "heading": "Modern Context",
+      "paragraphs": [
+        "Following Moldova's independence in 1991, the area east of the Dniester, previously part of the Moldavian SSR, declared itself the Pridnestrovian Moldavian Republic (Transnistria), with Tiraspol as its capital.",
+        "In Moldova, Dniester Day (Ziua Nistrului) is celebrated annually on the last Sunday of May, highlighting the river's cultural significance."
+      ]
+    },
+    {
+      "heading": "Environmental Initiatives",
+      "paragraphs": [
+        "The Eco-TIRAS International Environmental Association of River Keepers was established in 1999 in Moldova by environmental NGOs from both Moldova and Ukraine. Its mission is to promote sustainable management of the Dniester River's water resources through an Integrated River Basin Management approach."
+      ]
+    }
+  ],
+  "links_out": [
+    "cucutenitrypillia-culture",
+    "dnieper",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Dniester — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dniester",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

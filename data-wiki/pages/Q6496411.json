@@ -1,0 +1,69 @@
+{
+  "qid": "Q6496411",
+  "slug": "salo",
+  "title": "salo",
+  "type": "topic",
+  "category": "culture",
+  "aliases": [
+    "Slanina"
+  ],
+  "infobox": {
+    "label": "topic",
+    "fields": []
+  },
+  "summary": "Salo, also known as slanina, is a traditional European food made from salt-cured pork fat, particularly significant in [[ukrainian-cuisine|Ukrainian cuisine]]. It is characterized by its preparation methods and cultural importance across Central, Eastern, and Southeastern Europe.",
+  "sections": [
+    {
+      "heading": "Definition and Characteristics",
+      "paragraphs": [
+        "Salo, or slanina, refers to slabs of salt-cured pork subcutaneous fat, which may or may not include skin and meat layers. This food is recognized under various names throughout Central, Eastern, and Southeastern Europe. Typically, it is cured using dry salt or brine, with variations in seasoning such as paprika in East Slavic, Hungarian, and Romanian versions, while South and West Slavic varieties are often smoked."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The consumption of pork, and specifically pork fat, has historical roots in the region due to several factors. In [[ukraine|Ukraine]], pigs were viewed as a resource for food, particularly because Islamic law prohibits pork consumption, making pigs less vulnerable to raiders. In the 18th and 19th centuries, urban residents in Ukraine often kept pigs, with pastures located even in central urban areas like [[kyiv|Kyiv]]."
+      ]
+    },
+    {
+      "heading": "Production Methods",
+      "paragraphs": [
+        "The production of salo varies among different cultures. In [[ukrainian|Ukrainian]] and Romanian practices, pigs are not skinned after slaughter; instead, the skin is scorched, and the fat is cut into slabs. Blood from the animal is utilized to create blood sausage, differing from Polish methods of salo production."
+      ]
+    },
+    {
+      "heading": "Preservation Techniques",
+      "paragraphs": [
+        "To preserve salo, it is salted and sometimes smoked, then aged in a cool, dark environment, allowing it to last for a year or longer. The fat is cut into manageable pieces and layered with salt in wooden boxes or barrels. In Ukraine, salo is traditionally salted and stored in bags or barrels, with Western Ukrainian practices often involving smoking."
+      ]
+    },
+    {
+      "heading": "Culinary Uses",
+      "paragraphs": [
+        "Salo can be consumed both in its cured form and cooked. It is frequently chopped and fried to render fat for cooking, with the resulting cracklings known as shkvarky used as condiments. In Romania, slănină is typically cured with salt and smoked, served with bread, polenta, and onions, and utilized in various dishes."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Salo holds a prominent place in Ukrainian culture, often associated with humor and national identity. The Museum of Salo in [[lviv|Lviv]] serves as a testament to its cultural importance. Additionally, August 27 is informally celebrated as Salo Day in Ukraine, highlighting its significance in Ukrainian society."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "lviv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-cuisine"
+  ],
+  "sources": [
+    {
+      "title": "Salo (food) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Salo_(food)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

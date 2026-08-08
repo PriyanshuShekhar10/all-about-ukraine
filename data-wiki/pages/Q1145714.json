@@ -1,0 +1,86 @@
+{
+  "qid": "Q1145714",
+  "slug": "prime-minister-of-ukraine",
+  "title": "Prime Minister of Ukraine",
+  "type": "public office",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "public office",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1991-09-17",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Prime Minister of Ukraine serves as the head of government, overseeing the Cabinet of Ministers, the highest executive body in the country. This position has evolved since Ukraine's independence in 1991, with various notable individuals holding the office, including the first female prime minister, Yulia Tymoshenko.",
+  "sections": [
+    {
+      "heading": "Role and Historical Context",
+      "paragraphs": [
+        "The prime minister of Ukraine ([[ukrainian|Ukrainian]]: Прем'єр-міністр України) is the head of government, presiding over the Cabinet of Ministers, which represents the highest executive authority in [[ukraine|Ukraine]]. This position emerged following the 1991 Declaration of Independence, replacing the Soviet-era chair of the Council of Ministers of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]], established on March 25, 1946."
+      ]
+    },
+    {
+      "heading": "Appointment Process",
+      "paragraphs": [
+        "The prime minister is appointed by the president with the consent of the [[verkhovna-rada|Verkhovna Rada]], Ukraine's parliament. A simple majority vote from the parliament is required for approval. Notably, [[yulia-tymoshenko|Yulia Tymoshenko]] received the highest parliamentary approval on February 4, 2005, with 373 votes. Other prime ministers who garnered over 300 votes include Arseniy Yatsenyuk (371 and 341 votes in different terms), Vitold Fokin (332), and [[leonid-kuchma|Leonid Kuchma]] (316).",
+        "The appointment process involves extensive consultations and interviews with parliamentary factions. While the president nominates candidates, constitutional amendments in 2004 and 2014 have limited the president's discretion, requiring adherence to the parliamentary coalition's proposal."
+      ]
+    },
+    {
+      "heading": "Duties and Powers",
+      "paragraphs": [
+        "As the head of the executive branch, the prime minister leads the Cabinet of Ministers and is responsible for signing decrees. The prime minister can propose candidates for ministry positions to the Verkhovna Rada, except for the ministers of foreign affairs and defense, who are nominated by the president. Additionally, the prime minister can countersign presidential decrees and laws.",
+        "While in office, the prime minister enjoys full legal immunity from prosecution. The prime minister's office is located in the Cabinet of Ministries building in central [[kyiv|Kyiv]]. In 2005, the annual salary for the prime minister was ₴202,776, and by 2013 it had increased to ₴33,980 per month."
+      ]
+    },
+    {
+      "heading": "Acting and Deputy Prime Ministers",
+      "paragraphs": [
+        "The first vice-prime minister assumes leadership of the cabinet in the absence of the prime minister. Notable first deputies include Yukhym Zvyahilsky and Mykola Azarov, who served as acting prime ministers for extended periods. Other vice-ministers support the prime minister and may oversee specific ministries, with some traditionally managing areas like economic affairs or regional policy."
+      ]
+    },
+    {
+      "heading": "Dismissal and Resignation",
+      "paragraphs": [
+        "The prime minister may voluntarily resign by submitting a resignation letter to the parliament, which must consider the matter within ten days. A resignation leads to the dismissal of the entire Cabinet. Since the 1996 constitution, only Pavlo Lazarenko and Mykola Azarov have resigned this way. Previously, prime ministers could be dismissed unilaterally by the president, but reforms have shifted this power to the parliament.",
+        "The Verkhovna Rada must pass a resolution of no confidence to dismiss a prime minister, which cannot occur within one year of the cabinet's official program approval. This process has led to the dismissals of prime ministers [[viktor-yushchenko|Viktor Yushchenko]] and [[viktor-yanukovych|Viktor Yanukovych]]."
+      ]
+    },
+    {
+      "heading": "List of Prime Ministers",
+      "paragraphs": [
+        "Since Ukraine's independence in 1991, there have been 20 prime ministers. The current prime minister, Serhii Koretskyi, has been in office since July 16, 2026. The longest-serving prime minister is [[denys-shmyhal|Denys Shmyhal]], followed by Mykola Azarov and Yulia Tymoshenko, who both served two terms."
+      ]
+    }
+  ],
+  "links_out": [
+    "denys-shmyhal",
+    "kyiv",
+    "leonid-kuchma",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "verkhovna-rada",
+    "viktor-yanukovych",
+    "viktor-yushchenko",
+    "yulia-tymoshenko"
+  ],
+  "sources": [
+    {
+      "title": "Prime Minister of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Prime_Minister_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

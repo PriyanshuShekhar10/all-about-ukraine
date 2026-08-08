@@ -1,0 +1,94 @@
+{
+  "qid": "Q110999040",
+  "slug": "full-scale-russo-ukrainian-war",
+  "title": "full-scale Russo-Ukrainian war",
+  "type": "war",
+  "category": "war",
+  "aliases": [
+    "Operation Z",
+    "Russia's invasion of Ukraine",
+    "Russia-Ukraine war 2022",
+    "Russian attack on Ukraine",
+    "Russian war in Ukraine 2022",
+    "Russo-Ukrainian War",
+    "Russo-Ukrainian war (2022–present)",
+    "Special military operation in Ukraine",
+    "Ukraine invasion",
+    "Ukrainian Patriotic War",
+    "Ukrainian War",
+    "War in Ukraine",
+    "invasion of Ukraine"
+  ],
+  "infobox": {
+    "label": "war",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Luhansk People's Republic",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Eastern Europe, Ukraine",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The full-scale Russo-Ukrainian war began on 24 February 2022 with Russia's invasion of Ukraine, marking the most significant military conflict in Europe since World War II. This war escalated from earlier hostilities that started in 2014 when Russia annexed Crimea and supported separatist movements in eastern Ukraine.",
+  "sections": [
+    {
+      "heading": "Invasion and Initial Conflict",
+      "paragraphs": [
+        "On 24 February 2022, Russia initiated a large-scale invasion of Ukraine, which was a significant escalation of the ongoing conflict that began in 2014. The invasion led to extensive military and civilian casualties, with hundreds of thousands of military personnel and tens of thousands of [[ukrainian|Ukrainian]] civilians affected.",
+        "As of August 2026, approximately 20% of Ukrainian territory remains under Russian occupation. The conflict has resulted in about 8 million internally displaced [[ukrainians|Ukrainians]] and 6 to 7 million fleeing the country, contributing to Europe's largest refugee crisis since World War II."
+      ]
+    },
+    {
+      "heading": "Background and Prelude to War",
+      "paragraphs": [
+        "The conflict's roots trace back to the post-Soviet relations between Russia and [[ukraine|Ukraine]], which were initially cordial following the Soviet Union's dissolution in 1991. Ukraine's signing of the Nuclear Non-Proliferation Treaty in 1994 and the Budapest Memorandum underscored commitments to its sovereignty.",
+        "Tensions escalated with the 2013 [[euromaidan|Euromaidan]] protests against President Yanukovych's decision to reject an EU association agreement under Russian pressure, leading to his ousting in 2014. Shortly after, Russia annexed [[crimea|Crimea]] and supported separatist movements in [[donetsk|Donetsk]] and [[luhansk|Luhansk]], igniting the [[war-in-donbas|War in Donbas]]."
+      ]
+    },
+    {
+      "heading": "Military Developments and Humanitarian Impact",
+      "paragraphs": [
+        "Following the invasion, Ukrainian forces enacted martial law, mobilized troops, and severed diplomatic ties with Russia. Initial Russian advances included assaults from multiple fronts, including [[kyiv|Kyiv]], where they faced significant resistance and logistical challenges, leading to a retreat by April 2022.",
+        "The conflict has been marked by severe human rights violations, with reports of attacks on civilians and allegations of genocide in occupied territories. The UN Human Rights Office has documented these violations, while the International Criminal Court has opened investigations into potential war crimes."
+      ]
+    },
+    {
+      "heading": "International Response and Ongoing Conflict",
+      "paragraphs": [
+        "The invasion prompted widespread international condemnation, resulting in sanctions against Russia and Belarus, alongside military and humanitarian aid for Ukraine. Protests against the war occurred globally, while Russia responded with increased censorship and repression of dissent within its borders.",
+        "Despite various attempts at peace negotiations, including calls for a ceasefire, these efforts have stalled, and the conflict continues with ongoing military engagements and territorial disputes."
+      ]
+    },
+    {
+      "heading": "Economic Consequences",
+      "paragraphs": [
+        "The war has inflicted significant economic costs, with estimates of over US$450 billion in direct costs for Russia and a reconstruction cost for Ukraine projected at US$588 billion by the World Bank Group. The conflict has also disrupted agricultural production and shipping in Ukraine, exacerbating global food crises and causing environmental damage described as ecocide."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "donetsk",
+    "euromaidan",
+    "kyiv",
+    "luhansk",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "war-in-donbas"
+  ],
+  "sources": [
+    {
+      "title": "Russo-Ukrainian war (2022–present) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Russo-Ukrainian_war_(2022–present)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

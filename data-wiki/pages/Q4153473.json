@@ -1,0 +1,83 @@
+{
+  "qid": "Q4153473",
+  "slug": "dtek",
+  "title": "DTEK",
+  "type": "business",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "business",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2005",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Donetsk, Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "DTEK is the largest private investor in Ukraine's energy sector, involved in electricity generation, coal and gas extraction, and energy trading. The company plays a crucial role in the development of renewable energy and supports Ukraine's energy infrastructure.",
+  "sections": [
+    {
+      "heading": "Company Overview",
+      "paragraphs": [
+        "DTEK ([[ukrainian|Ukrainian]]: ДТЕК) is recognized as the foremost private investor in [[ukraine|Ukraine]]'s energy industry. The company operates various enterprises that generate electricity from solar, wind, and thermal power plants, extract coal and natural gas, and engage in energy trading both domestically and internationally. Additionally, DTEK is involved in electricity distribution and supply to consumers and is developing a network of supercharger stations for electric vehicles. The company's headquarters is situated in [[kyiv|Kyiv]], and it is owned by SCM Holdings."
+      ]
+    },
+    {
+      "heading": "Business Operations",
+      "paragraphs": [
+        "DTEK functions through seven primary business units: DTEK Renewables, which focuses on wind and solar energy; DTEK Renewables International (DRI), which develops renewable projects outside Ukraine; DTEK Energy, which manages coal-based electricity production; DTEK Grids, responsible for electricity distribution in multiple regions; D.Solutions, which handles retail electricity supply and energy efficiency services; DTEK Oil & Gas, overseeing oil and gas operations; and D.Trading, which focuses on energy trading and management."
+      ]
+    },
+    {
+      "heading": "Educational Initiatives",
+      "paragraphs": [
+        "Academy DTEK serves as an open educational platform, collaborating with both Ukrainian and international business schools and organizations, including INSEAD and Kyiv—Mohyla Business School, to enhance business education."
+      ]
+    },
+    {
+      "heading": "Cybersecurity Division",
+      "paragraphs": [
+        "MODUS X is the cybersecurity division of DTEK Group, tasked with safeguarding the company's digital infrastructure. Since its inception in 2022, MODUS X has successfully detected and thwarted over 150 million cyberattack attempts targeting DTEK's networks."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "DTEK was founded in 2005 and has since expanded through various acquisitions and partnerships. Key milestones include joining the UN Global Compact in 2007, establishing DTEK Oil&Gas in 2011, and launching significant renewable energy projects in subsequent years. The company faced challenges during the ongoing conflict in eastern Ukraine, including losing control over certain assets in 2017 and responding to the full-scale invasion by Russia in 2022 with humanitarian efforts and power restoration initiatives."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "In 2023, DTEK advanced its renewable energy initiatives by opening Phase I of the Tylihul Wind Power Plant in [[mykolaiv|Mykolaiv]] Oblast, capable of powering 200,000 households. The company also signed a Memorandum of Understanding with Vestas for the completion of the Tylihul Wind Power Plant, which is expected to become the largest in Eastern Europe. Additionally, DTEK achieved a legal victory against Russia regarding seized assets in [[crimea|Crimea]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "kyiv",
+    "mykolaiv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "DTEK — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/DTEK",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

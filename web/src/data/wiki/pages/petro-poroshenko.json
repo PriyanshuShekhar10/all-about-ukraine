@@ -1,0 +1,94 @@
+{
+  "qid": "Q58077",
+  "slug": "petro-poroshenko",
+  "title": "Petro Poroshenko",
+  "type": "human",
+  "category": "politics",
+  "aliases": [
+    "Petr Alekseyevich Poroshenko",
+    "Petr Alexeyevich Poroshenko",
+    "Petr Poroshenko",
+    "Petro Oleksijovyč Porošenko",
+    "Pyotr Alekseyevich Poroshenko",
+    "Pyotr Alexeyevich Poroshenko",
+    "Pyotr Poroshenko"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1965-09-26",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Bolhrad",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "People's Deputy of Ukraine, People's Deputy of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Petro Oleksiiovych Poroshenko is a prominent Ukrainian politician and businessman who served as the fifth president of Ukraine from 2014 to 2019. His leadership was marked by significant military and economic reforms, as well as a strong push for Ukraine's integration with the European Union.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Petro Poroshenko was born on 26 September 1965 in Bolhrad, [[odesa|Odesa]] Oblast, [[ukraine|Ukraine]], into an ethnic [[ukrainian|Ukrainian]] family. His father, Oleksiy Poroshenko, was an engineer and government official, while his mother, Yevhenia Serhiyivna Hryhorchuk, worked as an accountant.",
+        "Poroshenko spent his childhood in Tighina, where he practiced judo and sambo. He graduated in 1989 from the [[kyiv|Kyiv]] University with a degree in economics and later founded a legal advisory firm."
+      ]
+    },
+    {
+      "heading": "Political Career",
+      "paragraphs": [
+        "Poroshenko began his political career in 1998 when he was elected to the [[verkhovna-rada|Verkhovna Rada]]. He initially aligned with the United Social Democratic Party of Ukraine and later played a significant role in the creation of the Party of Regions.",
+        "In December 2001, he became campaign chief for [[viktor-yushchenko|Viktor Yushchenko]]'s Our Ukraine Bloc and was appointed Secretary of the National Security and Defense Council after Yushchenko's election as president in 2005."
+      ]
+    },
+    {
+      "heading": "Presidency (2014-2019)",
+      "paragraphs": [
+        "Poroshenko was elected [[president-of-ukraine|president of Ukraine]] in 2014, winning 55.46% of the vote in the first round. His presidency was characterized by efforts to address the [[war-in-donbas|war in Donbas]], signing the [[minsk-agreements|Minsk Agreements]], and initiating military reforms.",
+        "He was a strong advocate for Ukraine's European integration, signing the EU–Ukraine Association Agreement in June 2014 and a visa-free travel agreement in June 2017."
+      ]
+    },
+    {
+      "heading": "Business Ventures",
+      "paragraphs": [
+        "Poroshenko is known as a prominent oligarch in Ukraine, with significant business interests including the [[roshen|Roshen]] confectionery group, which earned him the nickname 'Chocolate King.'",
+        "He has also been involved in various sectors, including manufacturing, agriculture, and media, with ownership of the 5 Kanal television channel."
+      ]
+    },
+    {
+      "heading": "Post-Presidency and Current Role",
+      "paragraphs": [
+        "After his presidency, Poroshenko remained active in Ukrainian politics as a people's deputy in the Verkhovna Rada and as the leader of the European Solidarity party. He is regarded as an influential figure in contemporary Ukrainian politics."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "minsk-agreements",
+    "odesa",
+    "president-of-ukraine",
+    "roshen",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada",
+    "viktor-yushchenko",
+    "war-in-donbas"
+  ],
+  "sources": [
+    {
+      "title": "Petro Poroshenko — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Petro_Poroshenko",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

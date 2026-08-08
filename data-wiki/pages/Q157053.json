@@ -1,0 +1,106 @@
+{
+  "qid": "Q157053",
+  "slug": "chernihiv",
+  "title": "Chernihiv",
+  "type": "city of regional significance of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Chernigov",
+    "Czernihów",
+    "Tchernihiv"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Polish–Lithuanian Commonwealth",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "299,609",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "79",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "136",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Vladyslav Atroshenko, Oleksandr Lomako",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "51.4939, 31.2947",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Chernihiv is a city and municipality located in northern Ukraine, serving as the administrative center of Chernihiv Oblast and Chernihiv Raion. With a population of 282,747 as of 2022, Chernihiv has a rich historical significance, having been an important cultural and political center since the 9th century.",
+  "sections": [
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Chernihiv was originally a tribal center for the Siverians and became part of the Rus' state in the 9th century, emerging as its second most important city after [[kyiv|Kyiv]]. It was the center of a principality and a bishopric from the 11th to the 13th century, marked by the presence of numerous preserved churches from that era.",
+        "The city experienced a decline following the Tatar invasion but later came under the Grand Duchy of Lithuania, facing various attacks throughout the centuries. In the 16th century, it was part of the Tsardom of Moscow and later transferred to Poland in 1618, where it became a voivodeship center.",
+        "Chernihiv regained prominence in the late 17th and early 18th centuries as part of the [[cossack-hetmanate|Cossack Hetmanate]], becoming a cultural hub with significant architectural developments."
+      ]
+    },
+    {
+      "heading": "Modern Era",
+      "paragraphs": [
+        "After the February Revolution, Chernihiv was controlled by the [[ukrainian|Ukrainian]] Central [[verkhovna-rada|Rada]] and became the center of an eponymous region in [[ukrainian-soviet-socialist-republic|Soviet Ukraine]] after the Russian Civil War. The city underwent rapid industrialization under Soviet rule and was significantly damaged during World War II.",
+        "In 2014, Chernihiv saw the toppling of a Lenin statue, reflecting the broader movement against Soviet-era symbols in [[ukraine|Ukraine]]. The city was restructured administratively in 2020 as part of Ukraine's reforms, merging into Chernihiv Raion."
+      ]
+    },
+    {
+      "heading": "Recent Conflicts",
+      "paragraphs": [
+        "During the 2022 Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], Chernihiv was besieged, marking its first major conflict since World War II. The city was encircled by Russian forces, and significant military actions occurred, including missile strikes that resulted in civilian casualties.",
+        "Chernihiv was designated as a Hero City of Ukraine in 2022 for its resilience during the invasion, and it signed a sister city agreement with Rzeszów, Poland, in June 2022."
+      ]
+    },
+    {
+      "heading": "Demographics and Language",
+      "paragraphs": [
+        "As of the 2001 census, the ethnic composition of Chernihiv included a significant Jewish community, which played a vital role in the city's economic life. Language usage has evolved, with a shift towards Ukrainian, especially following the 2022 invasion.",
+        "A survey in 2023 indicated that 53% of the city's population spoke Ukrainian at home, reflecting a growing trend of [[ukrainization|Ukrainization]]."
+      ]
+    },
+    {
+      "heading": "Geography and Climate",
+      "paragraphs": [
+        "Chernihiv is situated on the upper right bank of the Desna River, approximately 150 km north-northeast of Kyiv. The city features a humid continental climate with cold winters and warm summers.",
+        "The Desna River, a major tributary of the [[dnieper|Dnieper]], flows through Chernihiv, contributing to the region's geography and historical significance."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossack-hetmanate",
+    "dnieper",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainization",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Chernihiv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chernihiv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

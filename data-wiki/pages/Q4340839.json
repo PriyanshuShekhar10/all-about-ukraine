@@ -1,0 +1,76 @@
+{
+  "qid": "Q4340839",
+  "slug": "oschadbank",
+  "title": "Oschadbank",
+  "type": "bank",
+  "category": "economy",
+  "aliases": [
+    "State Savings Bank of Ukraine"
+  ],
+  "infobox": {
+    "label": "bank",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1991-12-31",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv, Hospitalna Street",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Oschadbank, officially known as Public JSC 'State Savings Bank of Ukraine', is a significant public bank in Ukraine recognized as one of the country's systemically important banks. Established after the dissolution of the Soviet Union, Oschadbank plays a crucial role in the Ukrainian banking sector, providing various financial services across its extensive branch and ATM network.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Public JSC 'State Savings Bank of Ukraine', commonly referred to as Oschadbank, is a major public banking institution in [[ukraine|Ukraine]]. In early 2024, it was confirmed by the [[national-bank-of-ukraine|National Bank of Ukraine]] as one of the nation's systemically important banks. As of July 1, 2023, the bank operated 1,183 branches and 2,790 ATMs across Ukraine, facilitating the disbursement of pensions, social aid, utility payments, and various banking transactions."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Following the dissolution of the Soviet Union, the [[ukrainian|Ukrainian]] operations of the Savings Bank of the USSR were restructured into the State Specialized Commercial Savings Bank of Ukraine. On May 21, 1999, this institution was transformed into Oschadbank by a Decree of the [[cabinet-of-ministers-of-ukraine|Cabinet of Ministers of Ukraine]]. In 2014, Oschadbank was ranked 10th among the largest banks in Central and Eastern Europe and 367th among the top 1000 world banks, according to The Banker magazine.",
+        "As of the end of 2016, Oschadbank had expanded its network to 3,650 branches and 2,850 ATMs. It, along with [[privatbank|PrivatBank]], was one of the few Ukrainian banks whose clients' time deposits were fully guaranteed by state law, in contrast to the ₴200,000 limit in other banks. The bank was not a member of the Deposit Guarantee Fund until April 2022 when it joined under a new law aimed at enhancing depositors' confidence in the banking system."
+      ]
+    },
+    {
+      "heading": "Legal Proceedings Against Russia",
+      "paragraphs": [
+        "After the [[russian-annexation-of-crimea|Russian annexation of Crimea]] in 2014, Oschadbank's assets in [[crimea|Crimea]] were expropriated by Russia, prompting the bank to initiate legal proceedings. In 2016, the Permanent Court of Arbitration in The Hague ruled in favor of Oschadbank, ordering the Russian Federation to pay $1.1 billion in compensation. This ruling was recognized by the Arbitral Tribunal in Paris in 2018 and confirmed by the Supreme Court of France in 2021, with a final decision announced in 2022. In April 2025, Oschadbank registered the seizure of Russian assets in France valued at approximately €87 million ($99 million) as part of the arbitration award."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "In 2020, Oschadbank reported a net profit of ₴2.78 billion, which was ₴2.5 billion higher than in 2019. In 2023, the bank was recognized among the top 200 companies in Ukraine based on revenue. Additionally, former bank lawyer Iryna Mudra became the Deputy Minister of Justice of Ukraine, highlighting the bank's influence in the country's public sector."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "crimea",
+    "national-bank-of-ukraine",
+    "privatbank",
+    "russian-annexation-of-crimea",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Oschadbank — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oschadbank",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

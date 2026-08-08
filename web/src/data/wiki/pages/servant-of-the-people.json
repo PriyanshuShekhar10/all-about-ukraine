@@ -1,0 +1,83 @@
+{
+  "qid": "Q52292915",
+  "slug": "servant-of-the-people",
+  "title": "Servant of the People",
+  "type": "political party",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "political party",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2017-12-02",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Sichovykh Striltsiv Street, Kyiv, Pecherskyi Descent",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Servant of the People is a liberal, centrist political party in [[ukraine|Ukraine]], known for its association with President Volodymyr Zelenskyy. Since the 2019 elections, it has held a ruling position in the [[cabinet-of-ministers-of-ukraine|Ukrainian government]].",
+  "sections": [
+    {
+      "heading": "Founding and Background",
+      "paragraphs": [
+        "Servant of the People originated from the Party of Decisive Change, founded in April 2016 by Eugene Yurdiga. The party was renamed in December 2017 after the popular [[ukrainian|Ukrainian]] TV series of the same name, in which [[volodymyr-zelenskyy|Volodymyr Zelenskyy]] portrayed a fictional president. The rebranded party was officially registered on 31 March 2018, with Ivan Bakanov as its first leader.",
+        "The establishment of the party was partly motivated by concerns that others might exploit the series' name for political gain. Polls indicated a growing readiness among [[ukrainians|Ukrainians]] to support the party, with 4% in December 2017 and 5% by May 2018, indicating potential electoral viability."
+      ]
+    },
+    {
+      "heading": "2019 Elections and Political Ascendancy",
+      "paragraphs": [
+        "In late December 2018, Zelenskyy was declared the presidential candidate from Servant of the People. He surged in polls throughout early 2019, ultimately winning the presidential election on 21 April 2019 with over 73% of the votes. Following his victory, he announced the dissolution of parliament, leading to early parliamentary elections on 21 July 2019.",
+        "In the parliamentary elections, the party secured 124 seats from the nationwide party list and 130 constituency seats, positioning itself as a dominant force in the Ukrainian political landscape."
+      ]
+    },
+    {
+      "heading": "Post-Election Developments",
+      "paragraphs": [
+        "Following the 2019 elections, Oleksandr Korniyenko replaced Razumkov as party chairman on 11 November 2019. The party faced challenges in local elections, winning about 25% of the votes in December 2019 but achieving only 17.59% in the 2020 local elections.",
+        "Despite setbacks in major cities, the party managed to elect 225 candidates as mayors across various local councils. The party's youth wing, 'Ze! Molodizhka,' was established in spring 2021, reflecting an effort to engage younger voters."
+      ]
+    },
+    {
+      "heading": "Ideology and Political Position",
+      "paragraphs": [
+        "Servant of the People is positioned as a centrist party with a political ideology described as populist and liberal. Initially, libertarianism was identified as its core ideology, but this evolved to a stance referred to as 'Ukrainian centrism,' which seeks to avoid political extremes.",
+        "The party's election program for the 2019 parliamentary election included commitments to improve conditions for foreign investors and introduce measures for direct democracy and anti-corruption."
+      ]
+    },
+    {
+      "heading": "Challenges and Current Status",
+      "paragraphs": [
+        "By early November 2024, the party had a faction of 233 deputies remaining from the 254 initially elected. However, reports indicated a decline in party unity and effectiveness in parliament, particularly following the installation of the Shmyhal Government in March 2020.",
+        "The party has faced criticism for its performance during critical votes, particularly after the onset of the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in February 2022, and it was granted affiliate status by the Alliance of Liberals and Democrats for Europe Party on 28 February 2022."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "Servant of the People — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Servant_of_the_People",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,747 @@
+{
+  "title": "All About Ukraine — Archive",
+  "description": "An archive of encyclopedic material about Ukraine, organized by section.",
+  "counts": {
+    "topics": 44,
+    "sections": 10,
+    "canonical_articles": 2
+  },
+  "articles": [
+    {
+      "id": "russia-ukraine-war",
+      "title": "Russia–Ukraine War",
+      "path": "articles/russia-ukraine-war.md",
+      "source_files": [
+        "Russia-Ukraine War - Bloody stalemate the war in 2025  Britannica.md",
+        "Ukraine - Russian Invasion, Crimea, Conflict  Britannica.md",
+        "Russia-Ukraine War  Map, Casualties, Timeline, Death Toll, Causes, & Significance  Britannica.md",
+        "Russia-Ukraine War - The Ukrainian counterattack  Britannica.md"
+      ]
+    },
+    {
+      "id": "ukraine-overview",
+      "title": "Ukraine: Country Overview",
+      "path": "articles/ukraine-overview.md",
+      "source_files": [
+        "Ukraine  History, Flag, Population, President, Map, Language, & Facts  Britannica.md",
+        "Ukraine - Soils, Climate, Agriculture  Britannica.md",
+        "Ukraine - Forests, Steppes, Fauna  Britannica.md",
+        "Ukraine - Cossacks, Steppe, Black Sea  Britannica.md",
+        "Ukraine - Ethnicity, Religion, Language  Britannica.md",
+        "Ukraine - Russian, Ukrainian, Yiddish  Britannica.md",
+        "Ukraine - Cultural Institutions  Britannica.md",
+        "Ukraine - Bukovina, Carpathians, Culture  Britannica.md",
+        "Ukraine - Art, Music, Theater  Britannica.md",
+        "Ukraine - Folk, Choral, Instrumental  Britannica.md",
+        "Ukraine - Culture, History, Politics  Britannica.md",
+        "Ukraine - Culture, Traditions, Cuisine  Britannica.md",
+        "Ukraine - Economy, Banking, Currency  Britannica.md",
+        "Ukraine - Agriculture, Industry, Trade  Britannica.md",
+        "Ukraine - Economic Struggles, Reforms, Crisis  Britannica.md",
+        "Ukraine - Resources, Power, Economy  Britannica.md",
+        "Ukraine - Parliamentary Democracy  Britannica.md",
+        "Ukraine - Politics, Independence, Reforms  Britannica.md",
+        "Ukraine - Politics, Constitution, Autonomy  Britannica.md",
+        "Ukraine - Polish Rule, Galicia, Habsburgs  Britannica.md",
+        "Ukraine - Habsburg Monarchy, Western Ukraine, Galicia  Britannica.md",
+        "Ukraine - Imperial Rule, Cossacks, Hetmanate  Britannica.md",
+        "Ukraine - Lithuanian, Polish, Rule  Britannica.md",
+        "Ukraine - Holodomor, Famine, 1932-33  Britannica.md",
+        "Ukraine - Nazi Occupation, Soviet, Genocide  Britannica.md",
+        "Ukraine - Transcarpathia, Czechoslovakia, History  Britannica.md",
+        "Ukraine - Poroshenko, Administration, Reforms  Britannica.md",
+        "Ukraine - Kuchma, Reforms, Independence  Britannica.md",
+        "Ukraine - Orange Revolution, Yushchenko, Presidency  Britannica.md",
+        "Ukraine - Autonomous Hetman, Sloboda Ukraine  Britannica.md",
+        "Ukraine - Interwar, Soviet Union, Independence  Britannica.md",
+        "Ukraine - Maidan, Protest, Revolution  Britannica.md",
+        "Ukraine - Shelest Rule, Soviet Union, Independence  Britannica.md",
+        "Ukraine - Soviet Rule, Independence, Revolution  Britannica.md",
+        "Ukraine - Soviet Union, Postwar, Independence  Britannica.md",
+        "Ukraine - Soviet Union, Independence, Revolution  Britannica.md",
+        "Ukraine - WWI, Independence, Revolution  Britannica.md",
+        "Ukraine - Independence, Sovereignty, Reforms  Britannica.md",
+        "Ukraine - Crimea, Eastern Ukraine, Conflict  Britannica.md",
+        "Ukraine - Health, Welfare, Reforms  Britannica.md"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview-quick-facts",
+      "title": "Overview & Quick Facts",
+      "topics": [
+        {
+          "title": "Ukraine: Geography, Population, and Government Overview",
+          "slug": "ukraine-geography-population-and-government-overview",
+          "summary": "This document provides key facts about Ukraine, including its geography, population statistics, government structure, and historical context.",
+          "tags": [
+            "ukraine",
+            "geography",
+            "population",
+            "government",
+            "facts"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine  History, Flag, Population, President, Map, Language, & Facts  Britannica.md"
+        }
+      ]
+    },
+    {
+      "id": "land-geography",
+      "title": "Land & Geography",
+      "topics": [
+        {
+          "title": "Geography and Climate of Ukraine",
+          "slug": "geography-and-climate-of-ukraine",
+          "summary": "This document provides an overview of Ukraine's geographical features, including its plains, mountains, and climate, along with key facts about its location and borders.",
+          "tags": [
+            "ukraine",
+            "geography",
+            "climate",
+            "land",
+            "plains"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Soils, Climate, Agriculture  Britannica.md"
+        },
+        {
+          "title": "Geography and Landscape of Ukraine",
+          "slug": "geography-and-landscape-of-ukraine",
+          "summary": "This document provides an overview of Ukraine's geographical features, including its plains, mountains, and borders with neighboring countries.",
+          "tags": [
+            "ukraine",
+            "geography",
+            "landscape",
+            "plains",
+            "mountains"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Forests, Steppes, Fauna  Britannica.md"
+        },
+        {
+          "title": "Geography and Landscape of Ukraine",
+          "slug": "geography-and-landscape-of-ukraine-2",
+          "summary": "This document provides an overview of Ukraine's geographical features, including its plains, mountains, and borders with neighboring countries.",
+          "tags": [
+            "ukraine",
+            "geography",
+            "landscape",
+            "plains",
+            "mountains"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Cossacks, Steppe, Black Sea  Britannica.md"
+        }
+      ]
+    },
+    {
+      "id": "people-society-religion",
+      "title": "People, Society & Religion",
+      "topics": [
+        {
+          "title": "Ethnicity, Language, and Religion in Ukraine",
+          "slug": "ethnicity-language-and-religion-in-ukraine",
+          "summary": "This document explores the ethnic composition, official language, and religious practices of Ukraine, highlighting its cultural diversity and historical influences.",
+          "tags": [
+            "ethnicity",
+            "language",
+            "religion",
+            "culture",
+            "ukraine"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Ethnicity, Religion, Language  Britannica.md"
+        },
+        {
+          "title": "Languages and Cultural Identity in Ukraine",
+          "slug": "languages-and-cultural-identity-in-ukraine",
+          "summary": "This document explores the languages spoken in Ukraine, including Russian, Ukrainian, and Yiddish, and discusses their impact on the country's cultural identity.",
+          "tags": [
+            "ukraine",
+            "languages",
+            "culture",
+            "identity",
+            "society"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Russian, Ukrainian, Yiddish  Britannica.md"
+        }
+      ]
+    },
+    {
+      "id": "culture-arts",
+      "title": "Culture & Arts",
+      "topics": [
+        {
+          "title": "Cultural Institutions in Ukraine",
+          "slug": "cultural-institutions-in-ukraine",
+          "summary": "This document explores Ukraine's cultural institutions, highlighting important traditions, the influence of history on modern identity, and key facts about the country.",
+          "tags": [
+            "ukraine",
+            "culture",
+            "traditions",
+            "institutions",
+            "identity"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Cultural Institutions  Britannica.md"
+        },
+        {
+          "title": "Cultural Traditions and Geography of Ukraine",
+          "slug": "cultural-traditions-and-geography-of-ukraine",
+          "summary": "This document explores Ukraine's cultural traditions, geographical features, and historical influences shaping its modern identity.",
+          "tags": [
+            "ukraine",
+            "culture",
+            "geography",
+            "traditions",
+            "history"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Bukovina, Carpathians, Culture  Britannica.md"
+        },
+        {
+          "title": "Exploring Ukraine's Rich Cultural Heritage",
+          "slug": "exploring-ukraines-rich-cultural-heritage",
+          "summary": "This document delves into Ukraine's cultural traditions, including its art, music, and theater, while also touching on the country's historical influences.",
+          "tags": [
+            "ukraine",
+            "culture",
+            "art",
+            "music",
+            "theater"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Art, Music, Theater  Britannica.md"
+        },
+        {
+          "title": "Folk, Choral, and Instrumental Traditions of Ukraine",
+          "slug": "folk-choral-and-instrumental-traditions-of-ukraine",
+          "summary": "This document explores the rich folk, choral, and instrumental music traditions of Ukraine, highlighting their cultural significance and historical context.",
+          "tags": [
+            "ukraine",
+            "music",
+            "folk",
+            "choral",
+            "traditions"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Folk, Choral, Instrumental  Britannica.md"
+        },
+        {
+          "title": "Overview of Ukrainian Culture and Traditions",
+          "slug": "overview-of-ukrainian-culture-and-traditions",
+          "summary": "This document provides insights into Ukraine's cultural traditions, language, and historical influences shaping its modern identity.",
+          "tags": [
+            "ukraine",
+            "culture",
+            "traditions",
+            "history",
+            "identity"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Culture, History, Politics  Britannica.md"
+        },
+        {
+          "title": "Ukrainian Culture, Traditions, and Cuisine",
+          "slug": "ukrainian-culture-traditions-and-cuisine",
+          "summary": "This document explores the rich cultural traditions and culinary practices of Ukraine, highlighting their significance in shaping national identity.",
+          "tags": [
+            "ukraine",
+            "culture",
+            "traditions",
+            "cuisine",
+            "identity"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Culture, Traditions, Cuisine  Britannica.md"
+        }
+      ]
+    },
+    {
+      "id": "economy-industry",
+      "title": "Economy & Industry",
+      "topics": [
+        {
+          "title": "Overview of Ukraine's Economy and Currency",
+          "slug": "overview-of-ukraines-economy-and-currency",
+          "summary": "This document provides insights into Ukraine's economic structure, banking system, and currency, highlighting key statistics and government leadership.",
+          "tags": [
+            "economy",
+            "banking",
+            "currency",
+            "ukraine",
+            "statistics"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Economy, Banking, Currency  Britannica.md"
+        },
+        {
+          "title": "Ukraine's Agriculture, Industry, and Trade Overview",
+          "slug": "ukraines-agriculture-industry-and-trade-overview",
+          "summary": "This document provides insights into Ukraine's agricultural and industrial sectors, along with its trade dynamics and economic statistics.",
+          "tags": [
+            "agriculture",
+            "industry",
+            "trade",
+            "economy",
+            "ukraine"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Agriculture, Industry, Trade  Britannica.md"
+        },
+        {
+          "title": "Ukraine's Economic Challenges and Reforms",
+          "slug": "ukraines-economic-challenges-and-reforms",
+          "summary": "This document discusses Ukraine's economic struggles, ongoing reforms, and the impact of crises on its development and stability.",
+          "tags": [
+            "economy",
+            "reforms",
+            "crisis",
+            "ukraine",
+            "industry"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Economic Struggles, Reforms, Crisis  Britannica.md"
+        },
+        {
+          "title": "Ukraine's Economic Landscape and Resources",
+          "slug": "ukraines-economic-landscape-and-resources",
+          "summary": "This document provides an overview of Ukraine's economy, including its resources, power structure, and key economic indicators.",
+          "tags": [
+            "ukraine",
+            "economy",
+            "resources",
+            "industry",
+            "power"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Resources, Power, Economy  Britannica.md"
+        }
+      ]
+    },
+    {
+      "id": "government-politics",
+      "title": "Government & Politics",
+      "topics": [
+        {
+          "title": "Ukraine's Parliamentary Democracy Overview",
+          "slug": "ukraines-parliamentary-democracy-overview",
+          "summary": "This document provides an overview of Ukraine's parliamentary democracy, including its government structure, key political figures, and historical context.",
+          "tags": [
+            "ukraine",
+            "democracy",
+            "government",
+            "politics",
+            "parliament"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Parliamentary Democracy  Britannica.md"
+        },
+        {
+          "title": "Ukraine's Political Landscape and Independence Journey",
+          "slug": "ukraines-political-landscape-and-independence-journey",
+          "summary": "This document outlines Ukraine's political structure, its journey to independence, and the reforms that have shaped its modern governance.",
+          "tags": [
+            "ukraine",
+            "politics",
+            "independence",
+            "reforms",
+            "government"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Politics, Independence, Reforms  Britannica.md"
+        },
+        {
+          "title": "Ukraine's Political Structure and Constitution",
+          "slug": "ukraines-political-structure-and-constitution",
+          "summary": "This document outlines Ukraine's government system, including its constitution, political autonomy, and key political figures.",
+          "tags": [
+            "ukraine",
+            "politics",
+            "government",
+            "constitution",
+            "autonomy"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Politics, Constitution, Autonomy  Britannica.md"
+        }
+      ]
+    },
+    {
+      "id": "history-imperial-soviet-era",
+      "title": "History: Imperial & Soviet Era",
+      "topics": [
+        {
+          "title": "Ukraine Under Polish and Habsburg Rule",
+          "slug": "ukraine-under-polish-and-habsburg-rule",
+          "summary": "This document explores Ukraine's historical periods of domination by Poland and the Habsburgs, leading to its eventual independence in the 20th century.",
+          "tags": [
+            "ukraine",
+            "history",
+            "poland",
+            "habsburg",
+            "independence"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Polish Rule, Galicia, Habsburgs  Britannica.md"
+        },
+        {
+          "title": "Ukraine's Historical Context Under Habsburg and Soviet Rule",
+          "slug": "ukraines-historical-context-under-habsburg-and-soviet-rule",
+          "summary": "This document explores Ukraine's historical governance, focusing on its periods under the Habsburg Monarchy and the Soviet Union, shaping its modern identity.",
+          "tags": [
+            "ukraine",
+            "history",
+            "habsburg",
+            "soviet",
+            "galicia"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Habsburg Monarchy, Western Ukraine, Galicia  Britannica.md"
+        },
+        {
+          "title": "Ukraine's Historical Journey Through Imperial Rule and the Cossacks",
+          "slug": "ukraines-historical-journey-through-imperial-rule-and-the-cossacks",
+          "summary": "This document explores Ukraine's history during the periods of imperial rule, the influence of Cossacks, and the establishment of the Hetmanate.",
+          "tags": [
+            "ukraine",
+            "history",
+            "cossacks",
+            "imperial rule",
+            "hetmanate"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Imperial Rule, Cossacks, Hetmanate  Britannica.md"
+        },
+        {
+          "title": "Ukraine's Historical Rule by Lithuania, Poland, and the USSR",
+          "slug": "ukraines-historical-rule-by-lithuania-poland-and-the-ussr",
+          "summary": "This document outlines Ukraine's historical governance under Lithuania, Poland, and the Soviet Union, leading to its eventual independence in 1991.",
+          "tags": [
+            "ukraine",
+            "history",
+            "soviet",
+            "poland",
+            "lithuania"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Lithuanian, Polish, Rule  Britannica.md"
+        },
+        {
+          "title": "Ukraine's Historical Struggles and Independence",
+          "slug": "ukraines-historical-struggles-and-independence",
+          "summary": "This document outlines Ukraine's historical context, including its periods of domination and the path to independence from the Soviet Union in 1991.",
+          "tags": [
+            "ukraine",
+            "history",
+            "soviet",
+            "independence",
+            "famine"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Holodomor, Famine, 1932-33  Britannica.md"
+        },
+        {
+          "title": "Ukraine's Historical Struggles: Occupation and Genocide",
+          "slug": "ukraines-historical-struggles-occupation-and-genocide",
+          "summary": "This document explores Ukraine's tumultuous history during the Nazi occupation and the Soviet era, highlighting the impact of genocide and foreign domination.",
+          "tags": [
+            "ukraine",
+            "history",
+            "soviet",
+            "nazi",
+            "genocide"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Nazi Occupation, Soviet, Genocide  Britannica.md"
+        },
+        {
+          "title": "Ukraine's Historical Ties with Czechoslovakia",
+          "slug": "ukraines-historical-ties-with-czechoslovakia",
+          "summary": "This document explores Ukraine's historical connections with Czechoslovakia and its complex past under various dominations leading to modern independence.",
+          "tags": [
+            "ukraine",
+            "czechoslovakia",
+            "history",
+            "soviet",
+            "independence"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Transcarpathia, Czechoslovakia, History  Britannica.md"
+        }
+      ]
+    },
+    {
+      "id": "history-independence-modern",
+      "title": "History: Independence & Modern",
+      "topics": [
+        {
+          "title": "Ukraine's Modern History and Political Reforms",
+          "slug": "ukraines-modern-history-and-political-reforms",
+          "summary": "This document discusses Ukraine's journey to independence and the political reforms during the Poroshenko administration.",
+          "tags": [
+            "ukraine",
+            "independence",
+            "political reforms",
+            "poroshenko",
+            "history"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Poroshenko, Administration, Reforms  Britannica.md"
+        },
+        {
+          "title": "Ukraine's Path to Independence and Modern Governance",
+          "slug": "ukraines-path-to-independence-and-modern-governance",
+          "summary": "This document outlines Ukraine's journey to independence in 1991 and the subsequent establishment of its government and societal structure.",
+          "tags": [
+            "independence",
+            "ukraine",
+            "government",
+            "history",
+            "modern"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Kuchma, Reforms, Independence  Britannica.md"
+        },
+        {
+          "title": "Ukraine's Path to Independence and Modern Governance",
+          "slug": "ukraines-path-to-independence-and-modern-governance-2",
+          "summary": "This document outlines Ukraine's journey to independence in 1991, highlighting key historical events and the establishment of its modern government structure.",
+          "tags": [
+            "independence",
+            "ukraine",
+            "government",
+            "history",
+            "yushchenko"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Orange Revolution, Yushchenko, Presidency  Britannica.md"
+        },
+        {
+          "title": "Ukraine's Path to Independence and Modern Identity",
+          "slug": "ukraines-path-to-independence-and-modern-identity",
+          "summary": "This document outlines Ukraine's historical journey towards independence, highlighting its struggles and the establishment of a modern state post-Soviet Union.",
+          "tags": [
+            "ukraine",
+            "independence",
+            "history",
+            "modern",
+            "soviet"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Autonomous Hetman, Sloboda Ukraine  Britannica.md"
+        },
+        {
+          "title": "Ukraine's Path to Independence and Modern Identity",
+          "slug": "ukraines-path-to-independence-and-modern-identity-2",
+          "summary": "This document outlines Ukraine's historical journey from interwar periods and Soviet rule to its declaration of independence in 1991 and subsequent developments.",
+          "tags": [
+            "independence",
+            "soviet union",
+            "modern history",
+            "ukraine",
+            "20th century"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Interwar, Soviet Union, Independence  Britannica.md"
+        },
+        {
+          "title": "Ukraine's Path to Independence and Modern Identity",
+          "slug": "ukraines-path-to-independence-and-modern-identity-3",
+          "summary": "This document explores Ukraine's journey to independence in the late 20th century, highlighting its historical influences and modern identity.",
+          "tags": [
+            "independence",
+            "modern history",
+            "ukraine",
+            "identity",
+            "politics"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Maidan, Protest, Revolution  Britannica.md"
+        },
+        {
+          "title": "Ukraine's Path to Independence and Modern Identity",
+          "slug": "ukraines-path-to-independence-and-modern-identity-4",
+          "summary": "This document outlines Ukraine's historical journey from Soviet rule to independence in 1991, highlighting key events that shaped its modern identity.",
+          "tags": [
+            "independence",
+            "soviet union",
+            "ukraine",
+            "history",
+            "modern identity"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Shelest Rule, Soviet Union, Independence  Britannica.md"
+        },
+        {
+          "title": "Ukraine's Path to Independence and Modern Identity",
+          "slug": "ukraines-path-to-independence-and-modern-identity-5",
+          "summary": "This document explores Ukraine's historical journey from Soviet rule to independence, highlighting key events and the formation of its modern identity.",
+          "tags": [
+            "independence",
+            "soviet union",
+            "ukraine",
+            "history",
+            "modern identity"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Soviet Rule, Independence, Revolution  Britannica.md"
+        },
+        {
+          "title": "Ukraine's Path to Independence and Modern Identity",
+          "slug": "ukraines-path-to-independence-and-modern-identity-6",
+          "summary": "This document outlines Ukraine's historical journey from Soviet domination to independence in 1991, highlighting key events that shaped its modern identity.",
+          "tags": [
+            "independence",
+            "soviet union",
+            "modern history",
+            "ukraine",
+            "identity"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Soviet Union, Postwar, Independence  Britannica.md"
+        },
+        {
+          "title": "Ukraine's Path to Independence and Modern Identity",
+          "slug": "ukraines-path-to-independence-and-modern-identity-7",
+          "summary": "This document outlines Ukraine's historical journey from Soviet rule to independence in 1991, highlighting key events that shaped its modern identity.",
+          "tags": [
+            "independence",
+            "soviet union",
+            "ukraine",
+            "history",
+            "modern"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Soviet Union, Independence, Revolution  Britannica.md"
+        },
+        {
+          "title": "Ukraine's Path to Independence and Modern Identity",
+          "slug": "ukraines-path-to-independence-and-modern-identity-8",
+          "summary": "This document outlines Ukraine's journey to independence, highlighting key historical events from World War I through the late 20th century.",
+          "tags": [
+            "independence",
+            "history",
+            "ukraine",
+            "modern",
+            "revolution"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - WWI, Independence, Revolution  Britannica.md"
+        },
+        {
+          "title": "Ukraine's Path to Independence and Sovereignty",
+          "slug": "ukraines-path-to-independence-and-sovereignty",
+          "summary": "This document outlines Ukraine's journey to independence, highlighting key events from its declaration of sovereignty in 1990 to its full independence in 1991.",
+          "tags": [
+            "independence",
+            "sovereignty",
+            "ukraine",
+            "history",
+            "modern"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Independence, Sovereignty, Reforms  Britannica.md"
+        }
+      ]
+    },
+    {
+      "id": "russiaukraine-war",
+      "title": "Russia–Ukraine War",
+      "topics": [
+        {
+          "title": "Bloody Stalemate: The Russia-Ukraine War in 2025",
+          "slug": "bloody-stalemate-the-russia-ukraine-war-in-2025",
+          "summary": "This document discusses the ongoing Russia-Ukraine War, detailing its origins, key events, and the impact on both nations as of 2025.",
+          "tags": [
+            "russia",
+            "ukraine",
+            "war",
+            "conflict",
+            "2025"
+          ],
+          "article": "russia-ukraine-war",
+          "source_file": "Russia-Ukraine War - Bloody stalemate the war in 2025  Britannica.md"
+        },
+        {
+          "title": "Conflict in Crimea and Eastern Ukraine",
+          "slug": "conflict-in-crimea-and-eastern-ukraine",
+          "summary": "This document discusses the ongoing conflict in Crimea and Eastern Ukraine, highlighting its historical context and implications for Ukraine's sovereignty.",
+          "tags": [
+            "crimea",
+            "eastern ukraine",
+            "conflict",
+            "sovereignty",
+            "war"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Crimea, Eastern Ukraine, Conflict  Britannica.md"
+        },
+        {
+          "title": "Overview of the Russia-Ukraine War and Its Origins",
+          "slug": "overview-of-the-russia-ukraine-war-and-its-origins",
+          "summary": "This document details the origins and developments of the Russia-Ukraine War, including the invasion of Crimea and the subsequent full-scale invasion in 2022.",
+          "tags": [
+            "russia",
+            "ukraine",
+            "war",
+            "crimea",
+            "conflict"
+          ],
+          "article": "russia-ukraine-war",
+          "source_file": "Ukraine - Russian Invasion, Crimea, Conflict  Britannica.md"
+        },
+        {
+          "title": "Overview of the Russia-Ukraine War: Causes and Impact",
+          "slug": "overview-of-the-russia-ukraine-war-causes-and-impact",
+          "summary": "This document details the origins, timeline, and consequences of the Russia-Ukraine War, including military and civilian casualties since its escalation in 2022.",
+          "tags": [
+            "russia",
+            "ukraine",
+            "war",
+            "casualties",
+            "timeline"
+          ],
+          "article": "russia-ukraine-war",
+          "source_file": "Russia-Ukraine War  Map, Casualties, Timeline, Death Toll, Causes, & Significance  Britannica.md"
+        },
+        {
+          "title": "The Ukrainian Counterattack in the Russia-Ukraine War",
+          "slug": "the-ukrainian-counterattack-in-the-russia-ukraine-war",
+          "summary": "This document details the events surrounding the Ukrainian counterattacks against Russian forces following the full-scale invasion that began in February 2022.",
+          "tags": [
+            "ukraine",
+            "counterattack",
+            "russia",
+            "war",
+            "invasion"
+          ],
+          "article": "russia-ukraine-war",
+          "source_file": "Russia-Ukraine War - The Ukrainian counterattack  Britannica.md"
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "title": "Other",
+      "topics": [
+        {
+          "title": "Health and Welfare Reforms in Ukraine",
+          "slug": "health-and-welfare-reforms-in-ukraine",
+          "summary": "This document discusses the health and welfare reforms in Ukraine, highlighting the country's demographic statistics and government structure.",
+          "tags": [
+            "health",
+            "welfare",
+            "reforms",
+            "ukraine",
+            "demographics"
+          ],
+          "article": "ukraine-overview",
+          "source_file": "Ukraine - Health, Welfare, Reforms  Britannica.md"
+        }
+      ]
+    }
+  ]
+}

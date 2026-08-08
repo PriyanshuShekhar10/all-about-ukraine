@@ -1,0 +1,84 @@
+{
+  "qid": "Q66094865",
+  "slug": "denys-shmyhal",
+  "title": "Denys Shmyhal",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Denys Anatoliiovych Shmyhal"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1975-10-15",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Lviv",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "Prime Minister of Ukraine, Minister of Communities and Regional Development",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Denys Anatoliiovych Shmyhal, born on 15 October 1975, is a prominent Ukrainian politician and entrepreneur who served as the 18th Prime Minister of Ukraine from 2020 to 2025. His political career includes significant roles in managing Ukraine's response to the COVID-19 pandemic and the defense during the 2022 Russian invasion.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Denys Shmyhal was born to parents Anatolii Ivanovych and Iryna Feliksovna. He graduated from [[lviv|Lviv]] Polytechnic University in 1997 and holds the PhD-equivalent title of Candidate of Economic Sciences, which he obtained in 2003."
+      ]
+    },
+    {
+      "heading": "Early Career",
+      "paragraphs": [
+        "Following his graduation, Shmyhal worked as an accountant in various companies from 1997 until September 2005. He held the position of Deputy General Director at 'LA DIS' from September 2005 to June 2006, and subsequently served as Director for the investment company 'Comfort-Invest' from June 2006 to August 2008. He was also General Director of 'Rosaninvest LLC' from September 2008 to September 2009."
+      ]
+    },
+    {
+      "heading": "Political Career",
+      "paragraphs": [
+        "Shmyhal's political career began in Lviv Oblast, where he held various leading roles from 2009 until December 2013. He served as the Head of the Department of Economics at the Lviv Oblast Administration from 2009 to 2011, and later as Head of the Department of Economic Development, Investment, Trade and Industry in 2013. He was a consultant for a People's Deputy of [[ukraine|Ukraine]] in early 2014 and worked as Deputy Head of the Lviv Oblast regional office of the Ministry of Revenues and Duties from May to December 2014. In the 2014 parliamentary election, he ran as an independent candidate but received only 188 votes. He was also a candidate for the Lviv Oblast Council in the 2015 local elections but was not elected. From 2015 to 2017, he served as Vice President of TVK Lvivkholod and was the Director of Burshtyn TES from 2018 to 2019. He became the Governor of [[ivano-frankivsk|Ivano-Frankivsk]] Oblast on 1 August 2019 and was appointed Minister of Regional Development on 4 February 2020.",
+        "Shmyhal became [[prime-minister-of-ukraine|Prime Minister of Ukraine]] in March 2020, succeeding Oleksiy Honcharuk. His tenure included managing the COVID-19 pandemic response and the defense efforts during the 2022 Russian invasion. He was recognized as one of the 100 most influential [[ukrainians|Ukrainians]] in 2021, ranking 7th on the list.",
+        "On 15 July 2025, he announced his resignation following [[volodymyr-zelenskyy|President Volodymyr Zelenskyy]]'s proposal for a government reshuffle, which included replacing him with Yulia Svyrydenko. His prime ministership lasted over five years, marking the longest tenure in [[ukrainian|Ukrainian]] history."
+      ]
+    },
+    {
+      "heading": "Minister of Defense and Energy",
+      "paragraphs": [
+        "Following his resignation as Prime Minister, Shmyhal was appointed Minister of Defense of Ukraine on 17 July 2025. Subsequently, on 14 January 2026, he was approved by the [[verkhovna-rada|Verkhovna Rada]] as First Deputy Prime Minister and Minister of Energy of Ukraine."
+      ]
+    },
+    {
+      "heading": "Personal Life",
+      "paragraphs": [
+        "Denys Shmyhal is married to Kateryna Shmyhal, and they have two daughters. Kateryna was previously a co-owner of the Kamyanetsky Bakery in Lviv and a local Nextbike bike rental outlet, which she sold in 2019."
+      ]
+    }
+  ],
+  "links_out": [
+    "ivano-frankivsk",
+    "lviv",
+    "prime-minister-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "verkhovna-rada",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "Denys Shmyhal — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Denys_Shmyhal",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

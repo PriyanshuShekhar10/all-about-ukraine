@@ -1,0 +1,86 @@
+{
+  "qid": "Q111017791",
+  "slug": "siege-of-mariupol",
+  "title": "Siege of Mariupol",
+  "type": "battle",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "battle",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Mariupol",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "47.0975, 37.6100",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Siege of Mariupol, which commenced on 24 February 2022 and concluded on 20 May 2022, was a critical military engagement during the Russian invasion of Ukraine. The siege resulted in significant casualties and destruction, marking a pivotal moment in the conflict over control of southeastern Ukraine.",
+  "sections": [
+    {
+      "heading": "Overview of the Siege",
+      "paragraphs": [
+        "The siege of Mariupol began on 24 February 2022, coinciding with the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], and lasted until 20 May. It involved intense combat between the Russian Armed Forces, supported by the [[donetsk|Donetsk]] People's Republic People's Militia, and the [[armed-forces-of-ukraine|Ukrainian Armed Forces]], all vying for control over the city of [[mariupol|Mariupol]] in southeastern [[ukraine|Ukraine]]. The siege endured for nearly three months, culminating in a victory for Russia and the DPR, as [[ukrainian|Ukrainian]] forces ultimately surrendered at the Azovstal Iron and Steel Works on 20 May 2022."
+      ]
+    },
+    {
+      "heading": "Humanitarian Impact",
+      "paragraphs": [
+        "During the siege, the Red Cross characterized the situation in Mariupol as 'apocalyptic,' while Ukrainian officials accused Russian forces of creating a major humanitarian crisis. Reports indicated that approximately 25,000 civilians lost their lives, with at least 95% of the city suffering destruction primarily due to extensive Russian bombardments. The United Nations confirmed 1,348 civilian deaths but warned that the actual toll was likely much higher, with 90% of residential buildings damaged or destroyed."
+      ]
+    },
+    {
+      "heading": "Strategic Importance of Mariupol",
+      "paragraphs": [
+        "Mariupol is situated in Ukraine's Donetsk Oblast and was a significant strategic target due to its status as the largest city in the Ukrainian-controlled part of the region and a major industrial hub. Control over its port on the Sea of Azov is crucial for Ukraine's economy, while for Russia, it would facilitate a land corridor to [[crimea|Crimea]] and enhance maritime dominance."
+      ]
+    },
+    {
+      "heading": "Military Developments",
+      "paragraphs": [
+        "The siege intensified after Russian forces fully surrounded Mariupol on 2 March 2022. Following this, the city experienced relentless shelling, leading to severe casualties and a humanitarian crisis. Major combat operations effectively concluded on 16 May 2022 when the Azov Regiment surrendered. Some analysts described the siege as a pyrrhic victory for Russia, highlighting the humanitarian consequences and reputational damage incurred by the Russian military."
+      ]
+    },
+    {
+      "heading": "Allegations of War Crimes",
+      "paragraphs": [
+        "Numerous allegations of war crimes emerged during the siege, including unlawful attacks on civilians, killings, and forced displacements. Human Rights Watch estimated that at least 10,284 individuals died in Mariupol from March 2022 to February 2023, suggesting that this figure may represent an undercount."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Prior to the siege, Mariupol had a history of conflict, including pro-Russian protests in 2014 and subsequent battles during the [[war-in-donbas|war in Donbas]]. The city was defended by various Ukrainian military forces, including the National Guard's Azov Regiment, which played a significant role in both its defense and the narrative surrounding the conflict, particularly in light of Russia's stated objective of 'denazification'."
+      ]
+    }
+  ],
+  "links_out": [
+    "armed-forces-of-ukraine",
+    "crimea",
+    "donetsk",
+    "full-scale-russo-ukrainian-war",
+    "mariupol",
+    "ukraine",
+    "ukrainian",
+    "war-in-donbas"
+  ],
+  "sources": [
+    {
+      "title": "Siege of Mariupol — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Mariupol",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

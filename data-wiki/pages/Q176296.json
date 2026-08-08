@@ -1,0 +1,97 @@
+{
+  "qid": "Q176296",
+  "slug": "verkhovna-rada",
+  "title": "Verkhovna Rada",
+  "type": "rada",
+  "category": "politics",
+  "aliases": [
+    "Parliament of Ukraine",
+    "Rada",
+    "Supreme Council of Ukraine",
+    "Ukrainian Parliament"
+  ],
+  "infobox": {
+    "label": "rada",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1938-07-25",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Verkhovna Rada building",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Verkhovna Rada building",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Verkhovna Rada of Ukraine serves as the unicameral parliament of the nation, consisting of 450 deputies and located in Kyiv. It has evolved from historical legislative bodies and plays a crucial role in shaping Ukraine's laws and policies.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Verkhovna Rada of [[ukraine|Ukraine]] is the unicameral parliament of Ukraine, comprising 450 deputies led by a speaker. The parliament convenes in the Verkhovna Rada building situated in [[kyiv|Kyiv]], the capital of Ukraine."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "The Verkhovna Rada emerged from the Soviet Union's Supreme Soviet system, which was first established on 26 June 1938 as a legislative body for the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] following the dissolution of the Congress of Soviets.",
+        "The twelfth convocation of the Supreme Soviet, elected in 1990, declared Ukraine's independence and transitioned to the Verkhovna Rada of Ukraine. Currently, the parliament is in its ninth convocation, with 424 deputies due to the absence of elections in [[crimea|Crimea]] and parts of [[donbas|Donbas]] since the 2014 and 2019 elections."
+      ]
+    },
+    {
+      "heading": "Voting System and Elections",
+      "paragraphs": [
+        "Historically, the Verkhovna Rada utilized a mixed voting system, with 50% of seats filled through party-list proportional representation and the other 50% through first-past-the-post voting. This system was in place during the elections of 2002, 2012, 2014, and 2019.",
+        "As of 1 January 2020, a new election law mandates that future elections will be conducted under a proportional system, expected to occur after the resolution of the ongoing conflict with Russia."
+      ]
+    },
+    {
+      "heading": "Location and Architecture",
+      "paragraphs": [
+        "The Verkhovna Rada convenes in a neo-classical building located in Constitution Square on Mykhaila Hrushevsky Street in Kyiv. The building, which was constructed between 1936 and 1938 and later reconstructed after World War II, is adjacent to Mariinskyi Park and the Mariinskyi Palace."
+      ]
+    },
+    {
+      "heading": "Legislative Authority and Function",
+      "paragraphs": [
+        "As the sole legislative authority in Ukraine, the Verkhovna Rada is responsible for determining domestic and foreign policy, amending the Constitution, adopting laws, and approving the state budget, among other functions.",
+        "The parliament operates under the condition that at least two-thirds of its members (300 or more deputies) are elected, and it typically processes around 200 bills annually."
+      ]
+    },
+    {
+      "heading": "Composition and Political Dynamics",
+      "paragraphs": [
+        "The Verkhovna Rada consists of 450 people's deputies elected through universal suffrage. Members are organized into parliamentary factions, which must contain at least 15 deputies to be officially recognized.",
+        "The parliament has seen fluctuations in female representation, with women comprising 11.1% of MPs after the 2014 elections, compared to an EU average of 25% at that time."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "donbas",
+    "kyiv",
+    "ukraine",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Verkhovna Rada — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Verkhovna_Rada",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

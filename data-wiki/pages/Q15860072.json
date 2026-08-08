@@ -1,0 +1,101 @@
+{
+  "qid": "Q15860072",
+  "slug": "russo-ukrainian-war",
+  "title": "Russo-Ukrainian war",
+  "type": "war",
+  "category": "war",
+  "aliases": [
+    "Putin's war of aggression",
+    "Russia-Ukraine war",
+    "Russian military intervention in Ukraine (2014–present)",
+    "Russian war in Ukraine",
+    "Russian-Ukrainian war",
+    "Special operation on the territory of Ukraine"
+  ],
+  "infobox": {
+    "label": "war",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2100",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Russia",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Sea of Azov, Rostov Oblast",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The Russo-Ukrainian war, which commenced in February 2014, has significantly impacted Ukraine following the occupation and [[russian-annexation-of-crimea|annexation of Crimea by Russia]]. The conflict has evolved through various phases, including support for separatist movements in eastern Ukraine and a full-scale invasion by Russia in February 2022, marking the largest military conflict in Europe since World War II.",
+  "sections": [
+    {
+      "heading": "Conflict Overview",
+      "paragraphs": [
+        "The [[full-scale-russo-ukrainian-war|Russo-Ukrainian war]] began in February 2014 and remains ongoing. Following [[ukraine|Ukraine]]'s [[revolution-of-dignity|Revolution of Dignity]], Russia occupied [[crimea|Crimea]] and subsequently annexed it from Ukraine. This led to the support of Russian separatist armed groups that initiated conflict in the eastern [[donbas|Donbas]] region against Ukraine's military. In 2018, Ukraine officially declared the region to be occupied by Russia. The initial eight years of conflict included naval incidents and cyberwarfare.",
+        "On 24 February 2022, Russia launched a full-scale invasion of Ukraine, initiating the current phase of the war. This invasion has resulted in a significant refugee crisis and has caused hundreds of thousands of deaths, marking the conflict as the largest in Europe since World War II."
+      ]
+    },
+    {
+      "heading": "Background and Escalation",
+      "paragraphs": [
+        "The conflict's roots trace back to early 2014, when the [[euromaidan|Euromaidan]] protests led to the ousting of Ukraine's pro-Russian president, [[viktor-yanukovych|Viktor Yanukovych]]. Following his removal, unmarked Russian troops occupied Crimea, and in March 2014, Russia annexed the region after a disputed referendum. Concurrently, pro-Russian protests emerged in southeastern Ukraine, leading to the declaration of the [[donetsk|Donetsk]] People's Republic (DPR) and the [[luhansk|Luhansk]] People's Republic (LPR) in April 2014, which marked the beginning of the [[war-in-donbas|Donbas war]].",
+        "The International Criminal Court (ICC) classified the conflict as both a national and international armed conflict involving Russia. The European Court of Human Rights determined that Russia exerted control over the DPR and LPR from 2014 onward."
+      ]
+    },
+    {
+      "heading": "Minsk Agreements and Stalemate",
+      "paragraphs": [
+        "In February 2015, the Minsk II agreements were signed by Russia and Ukraine; however, these agreements were not fully implemented in subsequent years. The conflict in Donbas evolved into a static situation resembling trench warfare, with repeated ceasefire violations but little change in frontlines."
+      ]
+    },
+    {
+      "heading": "Full-Scale Invasion and International Response",
+      "paragraphs": [
+        "Beginning in 2021, a significant Russian military buildup occurred near Ukraine's borders, including in neighboring Belarus, despite Russian officials denying any plans for an attack. In early 2022, Russia recognized the DPR and LPR as independent states, intensifying hostilities against Ukraine.",
+        "The invasion launched on 24 February 2022 was met with widespread international condemnation, leading to sanctions against Russia and the provision of humanitarian and military aid to Ukraine. Ukraine's military successfully repelled initial attempts to capture [[kyiv|Kyiv]], and by August 2022, [[ukrainian|Ukrainian]] forces began reclaiming territories in the northeast and south."
+      ]
+    },
+    {
+      "heading": "Human Rights Violations and War Crimes",
+      "paragraphs": [
+        "The invasion has resulted in numerous attacks against civilians far from the frontlines, prompting the UN Human Rights Office to report severe human rights violations in occupied Ukraine. The ICC has initiated an investigation into war crimes, issuing arrest warrants for Russian officials, including President Vladimir Putin. Despite international calls for a ceasefire, Russia has consistently refused."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The Russo-Ukrainian war is rooted in historical tensions between Ukraine and Russia, including Ukraine's post-Soviet independence and aspirations for closer ties with Western Europe. The conflict has been influenced by Russia's historical view of Ukraine as within its sphere of influence and its opposition to NATO's expansion."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "donbas",
+    "donetsk",
+    "euromaidan",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "luhansk",
+    "revolution-of-dignity",
+    "russian-annexation-of-crimea",
+    "ukraine",
+    "ukrainian",
+    "viktor-yanukovych",
+    "war-in-donbas"
+  ],
+  "sources": [
+    {
+      "title": "Russo-Ukrainian war — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Russo-Ukrainian_war",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

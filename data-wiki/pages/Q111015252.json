@@ -1,0 +1,74 @@
+{
+  "qid": "Q111015252",
+  "slug": "battle-of-kyiv",
+  "title": "Battle of Kyiv",
+  "type": "military operation",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "military operation",
+    "fields": [
+      {
+        "label": "Coordinates",
+        "value": "50.4500, 30.5236",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Battle of Kyiv was a significant military operation during the Russian invasion of Ukraine, aimed at capturing Kyiv, the capital of [[ukraine|Ukraine]]. It occurred from 24 February 2022 to 2 April 2022 and concluded with the withdrawal of Russian forces following sustained Ukrainian resistance.",
+  "sections": [
+    {
+      "heading": "Overview of the Battle",
+      "paragraphs": [
+        "The Battle of Kyiv formed part of the [[kyiv|Kyiv]] offensive during the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], with the objective of seizing control of Kyiv and its surrounding areas, including Hostomel Airport. The conflict involved the Russian Armed Forces and the [[armed-forces-of-ukraine|Ukrainian Armed Forces]] and lasted from 24 February 2022 until 2 April 2022, culminating in the retreat of Russian troops."
+      ]
+    },
+    {
+      "heading": "Initial Russian Assault",
+      "paragraphs": [
+        "On 24 February 2022, Russian forces initiated their attack by engaging [[ukrainian|Ukrainian]] troops at Hostomel Airport, which was a vital supply point for the Russian military. The airport was captured by Russian forces on 25 February.",
+        "Russian troops attempted to infiltrate Kyiv on 24 February, aiming to eliminate or capture [[president-of-ukraine|Ukrainian President]] [[volodymyr-zelenskyy|Volodymyr Zelenskyy]]. This led to street battles and the barricading of the presidential compound, with Russian paratroopers making two failed attempts to storm the area."
+      ]
+    },
+    {
+      "heading": "Ukrainian Defense and Civilian Mobilization",
+      "paragraphs": [
+        "Ukrainian forces mounted a robust defense against the Russian advance, managing to repel initial assaults despite heavy fighting. By 26 February, a curfew was imposed in Kyiv, and Ukrainian officials reported that the city remained under their control.",
+        "In response to the invasion, Kyiv's mayor, [[vitali-klitschko|Vitali Klitschko]], and President Zelenskyy called on citizens to defend the city. Over 18,000 firearms were distributed to civilians, and by 26 February, more than 25,000 assault rifles and approximately 10 million rounds of ammunition were provided to volunteers."
+      ]
+    },
+    {
+      "heading": "Escalation of Conflict",
+      "paragraphs": [
+        "The conflict escalated with continuous Russian shelling and attempts to encircle the city. On 1 March, a Russian missile strike on the Kyiv TV Tower resulted in casualties and disrupted television broadcasts.",
+        "Despite efforts to blockade Kyiv, Ukrainian forces successfully defended the city, with reports indicating that Russian troops were unable to fully encircle it by 8 March. The Ukrainian military established defensive positions both in the suburbs and downtown Kyiv."
+      ]
+    },
+    {
+      "heading": "Turning Point and Withdrawal",
+      "paragraphs": [
+        "By late March, Ukrainian forces began counterattacks, leading to the gradual withdrawal of Russian troops from the Kyiv area starting on 29 March. On 2 April, Ukrainian authorities announced that Kyiv and the surrounding Kyiv Oblast had been fully reclaimed.",
+        "The battle showcased the resilience of Ukrainian forces and the significant civilian response to the invasion, marking a pivotal moment in the conflict."
+      ]
+    }
+  ],
+  "links_out": [
+    "armed-forces-of-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "president-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "vitali-klitschko",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "Battle of Kyiv (2022) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Kyiv_(2022)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

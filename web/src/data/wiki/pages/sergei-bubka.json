@@ -1,0 +1,89 @@
+{
+  "qid": "Q184556",
+  "slug": "sergei-bubka",
+  "title": "Sergei Bubka",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Sergey Bubka",
+    "Sergey Nazarovych Bubka",
+    "Serhii Bubka",
+    "Serhiy Bubka"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1963-12-04",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Luhansk",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "People's Deputy of Ukraine, member of the International Olympic Committee",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Serhiy Nazarovych Bubka is a distinguished Ukrainian former pole vaulter, recognized as the 1988 Olympic Champion and a record six-time consecutive World Champion. His remarkable achievements in athletics and contributions to sports governance have made him a significant figure in Ukraine's sporting history.",
+  "sections": [
+    {
+      "heading": "Early Life and Career",
+      "paragraphs": [
+        "Serhiy Nazarovych Bubka was born on 4 December 1963 in [[luhansk|Luhansk]], [[ukraine|Ukraine]]. Initially a track-and-field athlete competing in the 100-meter sprint and long jump, he transitioned to pole vaulting, where he achieved world-class success. Bubka won the world championship in Helsinki, Finland, in 1983, marking the beginning of his illustrious career."
+      ]
+    },
+    {
+      "heading": "Athletic Achievements",
+      "paragraphs": [
+        "Bubka's athletic career is highlighted by his status as the 1988 Olympic Champion and a record six-time consecutive World Champion. He also secured four World Indoor Championships and was the 1985 European Indoor Champion. Notably, he broke the world record in men's pole vault 35 times, with 17 records set outdoors and 18 indoors. He was the first vaulter to clear 6.0 meters and later 6.10 meters, holding the indoor record of 6.15 meters from 1993 to 2014 and the outdoor record of 6.14 meters from 1994 until 2020."
+      ]
+    },
+    {
+      "heading": "Olympic Participation",
+      "paragraphs": [
+        "Bubka's Olympic journey was marked by both triumph and disappointment. He won his only Olympic gold medal at the 1988 Seoul Olympics, clearing 5.90 meters. However, his subsequent appearances were marred by setbacks, including failing to clear in the 1992 Barcelona Olympics and withdrawing due to injury in the 1996 Atlanta Olympics. At the 2000 Sydney Olympics, he was eliminated from the final after three unsuccessful attempts."
+      ]
+    },
+    {
+      "heading": "Post-Athletic Career and Contributions",
+      "paragraphs": [
+        "After retiring from competitive pole vaulting in 2001, Bubka became involved in sports administration. He has served as the Senior Vice President of the International Association of Athletics Federations (IAAF) since 2007 and was President of the National Olympic Committee of Ukraine from 2005 until November 2022. Additionally, he is an Honorary Member of the International Olympic Committee (IOC) since 1996."
+      ]
+    },
+    {
+      "heading": "Legacy and Recognition",
+      "paragraphs": [
+        "Bubka's contributions to athletics have been recognized through various awards, including being named Athlete of the Year by Track & Field News twice. In 2012, he was inducted as one of the inaugural members of the IAAF Hall of Fame. His innovative techniques in pole vaulting, particularly the Petrov/Bubka model, have influenced the sport significantly."
+      ]
+    },
+    {
+      "heading": "Personal Life and Recent Events",
+      "paragraphs": [
+        "Bubka has a son, Sergei Bubka, who is a former professional tennis player. He was a member of the [[ukrainian|Ukrainian]] [[verkhovna-rada|Verkhovna Rada]] from 2002 to 2006 and served as an advisor to former President [[viktor-yanukovych|Viktor Yanukovych]] until 2014. Following the 2022 Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], Bubka expressed his patriotism and optimism for Ukraine's future, stating, 'Ukraine will win.'"
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "luhansk",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada",
+    "viktor-yanukovych"
+  ],
+  "sources": [
+    {
+      "title": "Sergey Bubka — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sergey_Bubka",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,94 @@
+{
+  "qid": "Q15224558",
+  "slug": "euromaidan",
+  "title": "Euromaidan",
+  "type": "civil disorder",
+  "category": "history",
+  "aliases": [
+    "2013 Ukraine protests",
+    "Maidan protests"
+  ],
+  "infobox": {
+    "label": "civil disorder",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2010",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Maidan Nezalezhnosti, Ukraine",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4502, 30.5239",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Euromaidan, also known as the Maidan Uprising, was a significant wave of protests and civil unrest in Ukraine that began on 21 November 2013. Triggered by President [[viktor-yanukovych|Viktor Yanukovych]]'s decision to reject the European Union–Ukraine Association Agreement in favor of closer ties with Russia, the movement highlighted widespread discontent with government corruption and human rights violations, ultimately leading to the 2014 Revolution of Dignity.",
+  "sections": [
+    {
+      "heading": "Origins of the Protests",
+      "paragraphs": [
+        "The Euromaidan protests commenced on the night of 21 November 2013 in [[kyiv|Kyiv]], following the [[cabinet-of-ministers-of-ukraine|Ukrainian government]]'s suspension of preparations for signing the [[ukraine|Ukraine]]–European Union Association Agreement. This decision was influenced by pressure from Russia and was seen as a rejection of pro-European aspirations.",
+        "The protests quickly gained momentum, with university students joining in significant numbers. The movement was characterized as a major political symbol for the European Union, being referred to as the largest pro-European rally in history."
+      ]
+    },
+    {
+      "heading": "Escalation and Violence",
+      "paragraphs": [
+        "Despite facing heavy police presence and harsh winter conditions, the protests intensified, particularly after violent police actions on 30 November. Estimates indicated that between 400,000 and 800,000 people participated in demonstrations in Kyiv on the weekends of 1 and 8 December.",
+        "Clashes with police erupted on 1 December, and further violence occurred from 19 to 25 January 2014, leading to deadly confrontations on Hrushevsky Street. By late January, Euromaidan activists began occupying government buildings in various regions across Ukraine."
+      ]
+    },
+    {
+      "heading": "Climax and Political Change",
+      "paragraphs": [
+        "The protests reached a climax between 18 and 20 February 2014, resulting in fierce battles in Kyiv that led to the deaths of nearly 100 protesters and 13 police officers. In response, an agreement was signed on 21 February between Yanukovych and the parliamentary opposition to establish an interim unity government and schedule early elections.",
+        "Following the agreement, police withdrew from central Kyiv, and Yanukovych fled the city. The [[verkhovna-rada|Ukrainian parliament]] subsequently removed him from office and appointed an interim government."
+      ]
+    },
+    {
+      "heading": "Consequences and Legacy",
+      "paragraphs": [
+        "The [[revolution-of-dignity|Revolution of Dignity]], which emerged from Euromaidan, was followed by significant geopolitical shifts, including the [[russian-annexation-of-crimea|Russian annexation of Crimea]] and unrest in Eastern Ukraine, leading to the ongoing [[full-scale-russo-ukrainian-war|Russo-Ukrainian war]].",
+        "In early 2019, a [[ukrainian|Ukrainian]] court found Yanukovych guilty of treason for his actions during the protests and for requesting Russian military intervention in Ukraine after his departure."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "The term 'Euromaidan' originated as a hashtag on Twitter, combining 'Euro', reflecting the pro-European sentiment, and 'maidan', which refers to Independence Square in Kyiv where the protests were centered. The movement has been associated with the public practice of politics and protest in Ukraine.",
+        "Initially referred to as Eurorevolution or the Ukrainian Spring, Euromaidan became a pivotal moment in Ukraine's history, symbolizing a collective demand for democratic governance and alignment with European values."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "revolution-of-dignity",
+    "russian-annexation-of-crimea",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada",
+    "viktor-yanukovych"
+  ],
+  "sources": [
+    {
+      "title": "Euromaidan — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Euromaidan",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

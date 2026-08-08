@@ -1,0 +1,84 @@
+{
+  "qid": "Q937993",
+  "slug": "motor-sich",
+  "title": "Motor Sich",
+  "type": "business",
+  "category": "economy",
+  "aliases": [
+    "Motor-Sich"
+  ],
+  "infobox": {
+    "label": "business",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1907",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Russian Empire, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Zaporizhzhia",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Motor Sich, Joint Stock Company, is a prominent Ukrainian aircraft engine manufacturer located in Zaporizhzhia, specializing in engines for airplanes, helicopters, and industrial marine gas turbines.",
+  "sections": [
+    {
+      "heading": "Company Overview",
+      "paragraphs": [
+        "Motor Sich is headquartered in [[zaporizhzhia|Zaporizhzhia]], [[ukraine|Ukraine]], and is known for producing the Ivchenko Progress D-18 turbofan engine, which powers variants of the [[antonov|Antonov]] An-124 and An-225 freighters. The company also produces the Ivchenko Progress D-36/Ivchenko Progress D-436 series, recognized as the highest production-rate engines in the Commonwealth of Independent States (CIS)."
+      ]
+    },
+    {
+      "heading": "Historical Context and Partnerships",
+      "paragraphs": [
+        "The company has inherited significant aero engine manufacturing capabilities from the former Soviet Union and produces various types of engines, including turbofan, turboprop, and rotary-wing turboshaft engines. These engines are utilized in military helicopters such as the Mi- and Ka-series, which are in service with the Russian military.",
+        "In 2017, Skyrizon Aviation from Beijing acquired a 41% stake in Motor Sich, promising a $250 million investment to enhance the [[ukrainian|Ukrainian]] facilities and establish a new assembly plant in Chongqing."
+      ]
+    },
+    {
+      "heading": "Challenges and Nationalization",
+      "paragraphs": [
+        "Motor Sich severed its ties with Russia, its largest client, in 2014, and subsequently sought new markets. The U.S. government placed Skyrizon on a Military End-User List, leading to sanctions imposed by [[volodymyr-zelenskyy|President Volodymyr Zelenskyy]]. In response, Skyrizon initiated a $3.5 billion arbitration case against Ukraine.",
+        "On 11 March 2021, the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] announced plans to nationalize Motor Sich, aiming to repurchase shares from Chinese investors. This decision was reiterated on 6 November 2022, under martial law, to address the urgent needs of Ukraine's defense sector amid ongoing conflict."
+      ]
+    },
+    {
+      "heading": "Current Operations and Products",
+      "paragraphs": [
+        "Motor Sich produces engines for several Turkish military products, including the Bayraktar TB2 drone and the TAI T929 ATAK 2 helicopter. The company is also developing the MS-500V turboshaft engine, originally intended for the Russian Ansat helicopter.",
+        "The Zaporizhzhia plant has faced multiple attacks during the ongoing Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], with reports of significant damage occurring in May 2022 and subsequent strikes in August 2022, August 2023, and January 2025."
+      ]
+    },
+    {
+      "heading": "Subsidiaries and Components",
+      "paragraphs": [
+        "Motor Sich encompasses several engineering factories, including the Zaporizhzhia Engine Engineering Factory, Omelchenko Engineering Factory, Snizhne Engineering Factory, and Volochysk Engineering Factory. It also operates Motor Sich Airlines and has interests in local media through Aleks TV."
+      ]
+    }
+  ],
+  "links_out": [
+    "antonov",
+    "cabinet-of-ministers-of-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "ukraine",
+    "ukrainian",
+    "volodymyr-zelenskyy",
+    "zaporizhzhia"
+  ],
+  "sources": [
+    {
+      "title": "Motor Sich — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Motor_Sich",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

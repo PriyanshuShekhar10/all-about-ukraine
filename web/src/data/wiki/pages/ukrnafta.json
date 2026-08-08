@@ -1,0 +1,86 @@
+{
+  "qid": "Q2447961",
+  "slug": "ukrnafta",
+  "title": "Ukrnafta",
+  "type": "business",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "business",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2004",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Public JSC Ukrnafta is the largest oil and natural gas extraction company in Ukraine, also managing a significant network of gas filling stations. Established in 1994, it plays a crucial role in the country's energy sector and has undergone significant changes in governance and ownership.",
+  "sections": [
+    {
+      "heading": "Company Overview",
+      "paragraphs": [
+        "Public JSC Ukrnafta, known in [[ukrainian|Ukrainian]] as ПАТ 'Укрнафта', is recognized as the largest oil and natural gas extraction company in [[ukraine|Ukraine]]. In 2006, Ukrnafta was responsible for approximately 91% of the country's oil extraction, 27% of natural gas condensate, and 17% of total gas production. By 2020, the company had produced around 1.5 million tonnes of oil, 1.13 billion m³ of natural gas, and 117,000 tonnes of liquefied petroleum gas (LPG)."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Ukrnafta was founded in 1994 as a result of the privatization of the 'Ukrnafta producing association', a state enterprise that had been operating since 1945. The company's name is a portmanteau of the Ukrainian words for 'Ukrainian' and 'oil'. The state company Naftogaz Ukrainy holds just over 50% plus one share of Ukrnafta, while 42% is owned by the Privat Group, based in [[dnieper|Dnipro]]. Along with Chornomornaftogaz and Ukragazproduction, Ukrnafta is one of the few state companies involved in the extraction and refining of oil and gas in Ukraine."
+      ]
+    },
+    {
+      "heading": "Corporate Structure and Operations",
+      "paragraphs": [
+        "Ukrnafta operates as a unified production and economic complex, consisting of six oil and gas production departments located in Okhtyrka, [[chernihiv|Chernihiv]], [[poltava|Poltava]], Dolyna, Nadvirna, and Boryslav. The company also has three drilling departments, one oil refinery, and three gas processing factories situated in Hnidyn (Chernihiv Oblast), Kachanivka ([[sumy|Sumy]] Oblast), and Dolyna ([[ivano-frankivsk|Ivano-Frankivsk]] Oblast). As of the end of 2020, Ukrnafta operated 1,813 oil wells and 155 gas wells."
+      ]
+    },
+    {
+      "heading": "Gas Filling Stations and Educational Initiatives",
+      "paragraphs": [
+        "Ukrnafta possesses one of the largest networks of gas filling stations in Ukraine, with 537 stations reported as of December 31, 2014. The company has established 28 regional administrations to enhance the management of these stations. Additionally, it supports several educational institutions, including the Ivano-Frankivsk National Technical University of Oil and Gas and the Drohobych Petroleum Technical School, providing training for future professionals in the oil and gas sector."
+      ]
+    },
+    {
+      "heading": "Nationalization and Recent Developments",
+      "paragraphs": [
+        "On November 6, 2022, during a period of martial law, the [[cabinet-of-ministers-of-ukraine|Ukrainian government]], led by President Volodymyr Zelenskiy, nationalized Ukrnafta to ensure the fulfillment of urgent defense needs. Prior to this action, Naftogaz owned 50% plus one share, while the remaining shares were held by various entities, including Little Enterprises Limited and Bridgemont Ventures Limited. The shares owned by Ihor Kolomoiskyi and Gennadiy Bogolyubov, totaling 42%, were transferred to a special depository account managed by the Ministry of Defense of Ukraine."
+      ]
+    },
+    {
+      "heading": "Allegations of Corruption",
+      "paragraphs": [
+        "In September 2022, the National Anti-Corruption Bureau of Ukraine reported suspicions of embezzlement involving Ukrnafta's property and funds, amounting to 13.3 billion hryvnias. On February 1, 2023, the Economic Security Bureau announced the exposure of a $1 billion embezzlement scheme linked to both Ukrnafta and Ukrtatnafta, implicating former management in tax evasion and money laundering activities."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "chernihiv",
+    "dnieper",
+    "ivano-frankivsk",
+    "poltava",
+    "sumy",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ukrnafta — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrnafta",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

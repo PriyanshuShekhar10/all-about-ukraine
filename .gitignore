@@ -1,0 +1,28 @@
+# Secrets — never commit
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+**/node_modules/
+
+# Build output
+dist/
+**/dist/
+.astro/
+**/.astro/
+
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Pipeline caches (regenerable)
+wiki/cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db

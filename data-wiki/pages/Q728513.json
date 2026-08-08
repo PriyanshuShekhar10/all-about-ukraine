@@ -1,0 +1,84 @@
+{
+  "qid": "Q728513",
+  "slug": "naftogaz-of-ukraine",
+  "title": "Naftogaz of Ukraine",
+  "type": "business",
+  "category": "economy",
+  "aliases": [
+    "Naftogaz of Ukraine",
+    "Naftohaz",
+    "Naftohaz of Ukraine"
+  ],
+  "infobox": {
+    "label": "business",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1991",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Naftogaz of Ukraine is the largest state-owned oil and gas company in Ukraine, responsible for the complete cycle of natural gas and crude oil operations. The company plays a crucial role in Ukraine's energy sector and has significant influence in regional politics due to its infrastructure connecting Russia and the European Union.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Naftogaz of Ukraine ([[ukrainian|Ukrainian]]: НАК 'Нафтогаз України', Naftogaz Ukrainy) is the largest national oil and gas company in [[ukraine|Ukraine]], operating under the authority of the [[cabinet-of-ministers-of-ukraine|Government of Ukraine]]. This vertically-integrated entity is involved in the exploration, extraction, transportation, and refinement of natural gas and crude oil, as well as the supply of natural and liquefied gas to consumers.",
+        "The company manages Ukraine's network of trunk natural gas pipelines and underground storage facilities through its subsidiary, Ukrtransgaz. Naftogaz operates 38,200 km of high-pressure gas transit pipelines and maintains a gas storage capacity exceeding 30 billion cubic meters."
+      ]
+    },
+    {
+      "heading": "Employment and Economic Impact",
+      "paragraphs": [
+        "As of 2025, Naftogaz is a significant employer in Ukraine with over 100,000 employees. It is also one of the largest taxpayers in the country. In 2023, Naftogaz Group reported a net consolidated profit of UAH 23.1 billion, a recovery from a loss of UAH 79.1 billion the previous year. The group further increased its net profit to UAH 38 billion in 2024, marking a 64% rise from 2023."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "Naftogaz was established in 1998, succeeding the earlier entity Ukrgazprom. Key figures in its formation included Ihor Didenko and Ihor Bakai, who were previously involved in gas trading. The company emerged during a period when Ukraine was consuming significant amounts of gas while facing challenges in domestic production and energy independence.",
+        "The company has undergone various transformations and faced numerous challenges, including political pressures and economic difficulties. Notably, it received over $6 billion in subsidies from 2009 to 2012 due to regulated gas prices and costly Russian energy imports."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "Since 2014, Naftogaz has been pivotal in Ukraine's energy strategy, particularly following the cessation of Russian gas supplies. The company has engaged in legal battles, including a significant trial against Gazprom in 2018, resulting in a favorable ruling for Naftogaz.",
+        "As of October 2023, Naftogaz's leadership indicated plans not to renew its contract with Gazprom, which is set to expire at the end of 2024, emphasizing the company's shift towards meeting the energy needs of European partners."
+      ]
+    },
+    {
+      "heading": "Legal and Financial Challenges",
+      "paragraphs": [
+        "In recent years, Naftogaz has faced financial difficulties, reporting a deficit of $1.6 billion in the first half of 2022. However, the company has also pursued legal avenues to recover losses, including a successful claim against Gazprom that resulted in a Swiss court ruling in favor of Naftogaz for $1.4 billion.",
+        "In 2026, the enforcement of international rulings regarding compensation for losses incurred due to the annexation of Naftogaz assets in [[crimea|Crimea]] is expected to further impact the company's financial standing."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "crimea",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Naftogaz — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Naftogaz",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

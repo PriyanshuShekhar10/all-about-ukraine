@@ -1,0 +1,86 @@
+{
+  "qid": "Q112114958",
+  "slug": "battle-of-bakhmut",
+  "title": "Battle of Bakhmut",
+  "type": "battle",
+  "category": "war",
+  "aliases": [
+    "battle for Bakhmut"
+  ],
+  "infobox": {
+    "label": "battle",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Bakhmut, Ukraine",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.5950, 38.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Battle of Bakhmut was a significant confrontation between the Russian Armed Forces and the [[armed-forces-of-ukraine|Ukrainian Armed Forces]] for control of the city of Bakhmut during the Russo-Ukrainian War. It is noted for being one of the bloodiest battles since World War II, with high casualties and intense urban warfare.",
+  "sections": [
+    {
+      "heading": "Background",
+      "paragraphs": [
+        "Bakhmut, previously known as Artemivsk, was the site of a 2014 conflict between [[ukraine|Ukraine]] and the self-declared separatist [[donetsk|Donetsk]] People's Republic, where pro-Russian forces captured parts of the city during unrest. [[ukrainian|Ukrainian]] forces were eventually able to expel the separatists to the outskirts by July 2014.",
+        "During the ongoing Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], capturing the [[donbas|Donbas]] region, which includes Donetsk and [[luhansk|Luhansk]] oblasts, became a primary objective for Russian forces. The assault on Bakhmut aimed to encircle Ukrainian troops at the Sievierodonetsk-Lysychansk salient. On 17 May 2022, Russian shelling commenced, resulting in civilian casualties, including a two-year-old child."
+      ]
+    },
+    {
+      "heading": "Battle Initiation and Early Encroachment (July–October 2022)",
+      "paragraphs": [
+        "The battle for Bakhmut began with Russian forces shelling the city starting in May 2022, followed by an offensive in early July. By 22 July, Russian troops had captured parts of nearby Pokrovske, facilitating their advance towards Bakhmut.",
+        "On 1 August 2022, Russian assaults targeted settlements around Bakhmut, with claims of proximity to the city. By September, urban fighting had commenced, and significant infrastructure, including a bridge over the Bakhmutka river, was destroyed, impacting both civilian and military logistics."
+      ]
+    },
+    {
+      "heading": "Escalation and Urban Warfare (November–December 2022)",
+      "paragraphs": [
+        "By November 2022, the battle had devolved into trench warfare, with heavy casualties reported daily. Russian forces adapted their tactics, concentrating small infantry groups to breach Ukrainian defenses. Ukrainian officials described the Bakhmut front as one of the most brutal sectors of the war.",
+        "On 9 December, [[volodymyr-zelenskyy|President Volodymyr Zelenskyy]] condemned the destruction of Bakhmut by Russian forces, highlighting the city's devastation. Reports indicated that urban street fighting intensified, with fierce resistance from Ukrainian troops despite significant Russian advances."
+      ]
+    },
+    {
+      "heading": "Significance and Outcomes",
+      "paragraphs": [
+        "Although initially considered less strategically important, Bakhmut became a focal point of the Russo-Ukrainian War, symbolizing the intense struggle for morale and control. President Zelenskyy referred to it as the 'fortress of our morale.'",
+        "By May 2023, Russian forces had largely captured Bakhmut, although Ukrainian troops maintained control of a small section along the T0504 highway. Despite heavy losses, Ukraine continued to mount counterattacks in efforts to encircle the city."
+      ]
+    },
+    {
+      "heading": "Comparative Context",
+      "paragraphs": [
+        "The Battle of Bakhmut has been likened to historical battles such as Verdun and Stalingrad due to its high casualties and urban combat intensity. It has been characterized as a 'meat grinder' for both Ukrainian and Russian forces, marking it as one of the most prominent urban battles in Europe since World War II."
+      ]
+    }
+  ],
+  "links_out": [
+    "armed-forces-of-ukraine",
+    "donbas",
+    "donetsk",
+    "full-scale-russo-ukrainian-war",
+    "luhansk",
+    "ukraine",
+    "ukrainian",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "Battle of Bakhmut — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Bakhmut",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

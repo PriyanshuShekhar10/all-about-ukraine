@@ -1,0 +1,67 @@
+{
+  "qid": "Q2069651",
+  "slug": "kolomyjka",
+  "title": "Kolomyjka",
+  "type": "music genre",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "music genre",
+    "fields": []
+  },
+  "summary": "Kolomyika is a [[music-of-ukraine|Ukrainian music]] genre characterized by a lively folk dance and humorous rhymed verses. Originating from the town of Kolomyia in western Ukraine, it has historical significance among Ukrainians and Poles and continues to be a vibrant part of cultural festivities in Ukraine.",
+  "sections": [
+    {
+      "heading": "Origin and Definition",
+      "paragraphs": [
+        "The kolomyika ([[ukrainian|Ukrainian]]: кoлoмийкa, Polish: kołomyjka) is a Hutsul music genre that merges a fast-paced folk dance with comedic rhymed verses, known as танець-приспівка. It is named after the town of Kolomyia, situated in the Hutsul region of east Galicia, now part of western [[ukraine|Ukraine]].",
+        "Historically, the kolomyika was popular among both [[ukrainians|Ukrainians]] and Poles, and it is recognized in northeastern Slovakia as kalamajka, a remnant of Ukrainian settlement during Austro-Hungarian times."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Kolomyikas are traditionally performed during holidays, festivities, and weddings in Ukraine, particularly in the western regions. The genre can consist of a combination of tune, song, and dance, with some versions alternating between singing and instrumental melodies, while others are purely instrumental.",
+        "The texts of kolomyikas are typically composed in rhyming couplets and provide humorous commentary on everyday life. Their simple 2/4 rhythm allows for adaptability, with numerous versions documented, including a collection by Volodymyr Shukhevych in 1905 that contains over 8,000 examples."
+      ]
+    },
+    {
+      "heading": "Poetic Structure and Themes",
+      "paragraphs": [
+        "The kolomyika's verse structure is syllabic, usually comprising two lines of 14 syllables, or four lines structured as 8 + 6 + 8 + 6. This structure is not only characteristic of kolomyikas but is also found in other forms of Ukrainian folk songs, including those by the renowned poet [[taras-shevchenko|Taras Shevchenko]].",
+        "The content of kolomyikas often reflects social issues, personal experiences, and the collective history of the Ukrainian people, addressing themes such as forced labor, soldiering, and social conditions."
+      ]
+    },
+    {
+      "heading": "Historical Context and Research",
+      "paragraphs": [
+        "The earliest known records of kolomyika date back to the 17th century, with indications of their existence in ancient times. Scholars have shown interest in this genre since the early 19th century, leading to translations and studies in Ukrainian, Russian, and Polish literature.",
+        "Notable folklorists like I. Franko, F. Kolessa, and V. Hnatyuk have contributed to the understanding and appreciation of kolomyikas, emphasizing their artistic and ideological qualities. The genre has inspired various literary works, particularly in the writings of I. Franko and others."
+      ]
+    },
+    {
+      "heading": "Influence and Diaspora Development",
+      "paragraphs": [
+        "The Hungarian composer Bela Bartok noted similarities between kolomyika rhythms and melodies in his works, suggesting a cultural exchange between Ukrainian and Hungarian music traditions.",
+        "In the [[ukrainian-diaspora|Ukrainian diaspora]], particularly in Canada, kolomyikas have evolved into a distinct genre of dance influenced by stage performance. This adaptation, which emerged in the 1950s and 60s, plays a significant role in Ukrainian weddings and cultural events, showcasing dynamic dance styles that engage younger generations in preserving their heritage."
+      ]
+    }
+  ],
+  "links_out": [
+    "music-of-ukraine",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-diaspora",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Kolomyika — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kolomyika",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

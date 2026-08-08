@@ -1,0 +1,87 @@
+{
+  "qid": "Q15920546",
+  "slug": "russian-annexation-of-crimea",
+  "title": "Russian annexation of Crimea",
+  "type": "annexation",
+  "category": "war",
+  "aliases": [
+    "2014 annexation of Crimea",
+    "annexation of Crimea",
+    "annexation of Crimea by Russia"
+  ],
+  "infobox": {
+    "label": "annexation",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2014",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Russia",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Crimea",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The Russian annexation of Crimea occurred in 2014, following an invasion of the peninsula, which is part of Ukraine. This event marked a significant escalation in the ongoing [[full-scale-russo-ukrainian-war|Russo-Ukrainian war]] and has been widely condemned by Ukraine and the international community as a violation of international law.",
+  "sections": [
+    {
+      "heading": "Background",
+      "paragraphs": [
+        "[[crimea|Crimea]] was part of the Crimean Khanate until it was annexed by the Russian Empire in 1783. Following the Russian Civil War in 1917, Crimea experienced a series of short-lived independent governments before being incorporated into the Russian Soviet Federative Socialist Republic (RSFSR) in 1921. After World War II, the Crimean Autonomous Soviet Socialist Republic lost its autonomy and was downgraded to an oblast of the RSFSR. In 1954, Crimea was transferred to the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]] (Ukrainian SSR) to commemorate the 300th anniversary of [[ukraine|Ukraine]]'s union with Russia.",
+        "The 1990s saw tensions between Ukraine and Crimea, particularly regarding the status of the Black Sea Fleet. In 1992, the Crimean parliament declared independence, but by 1995, the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] reasserted control over the region. Throughout the years, Crimea's demographic composition, with a significant ethnic Russian majority, contributed to ongoing disputes over its status."
+      ]
+    },
+    {
+      "heading": "Euromaidan and Revolution of Dignity",
+      "paragraphs": [
+        "The [[euromaidan|Euromaidan]] protests began in late November 2013, following President [[viktor-yanukovych|Viktor Yanukovych]]'s decision to suspend the signing of the Ukraine–European Union Association Agreement. The protests escalated, leading to Yanukovych's ousting on 22 February 2014. In the aftermath, the [[verkhovna-rada|Ukrainian parliament]] established a caretaker government, which was recognized internationally. The Russian government, however, labeled these events as a coup d'état, setting the stage for its subsequent actions in Crimea."
+      ]
+    },
+    {
+      "heading": "Annexation Process",
+      "paragraphs": [
+        "In February and March 2014, Russia invaded Crimea, exploiting the political instability in Ukraine. Following the ousting of Yanukovych, pro-Russian demonstrations occurred in Crimea, and Russian President Vladimir Putin directed his security chiefs to plan for Crimea's annexation. On 27 February 2014, Russian special forces seized key locations in Crimea, leading to the dismissal of the Crimean government and the establishment of a pro-Russian administration.",
+        "A referendum on Crimea's status was conducted under Russian occupation, with authorities claiming overwhelming support for joining Russia. On 17 March 2014, Crimea's authorities declared independence and requested to join Russia, which was formalized on 18 March 2014 when Russia incorporated Crimea as the Republic of Crimea and federal city of [[sevastopol|Sevastopol]]."
+      ]
+    },
+    {
+      "heading": "International Response",
+      "paragraphs": [
+        "The annexation of Crimea was met with widespread condemnation from Ukraine and many other nations, which viewed it as a breach of international law and existing agreements that protected Ukraine's territorial integrity. In response, the G8 suspended Russia from the group and imposed sanctions. The United Nations General Assembly rejected the referendum and annexation, affirming Ukraine's territorial integrity within its internationally recognized borders and labeling the Russian actions as a temporary occupation."
+      ]
+    },
+    {
+      "heading": "Terminology and Perceptions",
+      "paragraphs": [
+        "In Ukraine, the annexation is referred to as the temporary occupation of the Autonomous Republic of Crimea and Sevastopol by Russia, while in Russia, it is described as the accession of Crimea to the Russian Federation. These differing terminologies reflect the contrasting narratives surrounding the event, with Russia defending the legitimacy of the referendum based on the principle of self-determination."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "crimea",
+    "euromaidan",
+    "full-scale-russo-ukrainian-war",
+    "sevastopol",
+    "ukraine",
+    "ukrainian-soviet-socialist-republic",
+    "verkhovna-rada",
+    "viktor-yanukovych"
+  ],
+  "sources": [
+    {
+      "title": "2014 Russian annexation of Crimea — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2014_Russian_annexation_of_Crimea",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

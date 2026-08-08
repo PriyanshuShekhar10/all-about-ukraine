@@ -1,0 +1,79 @@
+{
+  "qid": "Q625652",
+  "slug": "hetman",
+  "title": "hetman",
+  "type": "military rank",
+  "category": "history",
+  "aliases": [
+    "hatman",
+    "hejtman",
+    "het’mаn"
+  ],
+  "infobox": {
+    "label": "military rank",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Kingdom of Bohemia",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Hetman is a historical political and military title from Central and Eastern Europe, particularly significant in Ukraine as the title of the head of the Cossack state following the [[khmelnytsky-uprising|Khmelnytsky Uprising]] of 1648. The title has roots in various cultures and has evolved over time, reflecting the military and political landscape of the region.",
+  "sections": [
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "The term hetman is believed to be a Polish borrowing, likely derived via Czech from the Turkic title ataman, meaning 'father of horsemen'. It may also originate from the German word Hauptmann, meaning 'captain'. The title first appeared in Czechia in the 15th century, possibly introduced by the Cumans."
+      ]
+    },
+    {
+      "heading": "Hetmans in Poland and Lithuania",
+      "paragraphs": [
+        "The title Grand Crown Hetman (Polish: hetman wielki koronny) was established in 1505 in Poland, designating the leader of the Polish Army. Initially, the hetman position was temporary, existing only during specific military campaigns until it became a permanent title after 1581. The Polish–Lithuanian Commonwealth typically had four hetmans at any time, including a Great Hetman and a Field Hetman for both Poland and Lithuania.",
+        "From 1585 onward, a hetman's title could not be revoked without a proven charge of treachery, leading to many serving for life. Hetmans were independent military commanders, second only to the monarch, and their powerful position sometimes allowed them to pursue independent policies. This dynamic led to varying outcomes based on the abilities of the hetman and the strength of the monarch. The Zaporizhian Host elected its own hetman, [[bohdan-khmelnytsky|Bohdan Khmelnytsky]], in 1648, which marked the beginning of [[ukraine|Ukraine]]'s struggle for independence.",
+        "The powers of the hetmans were curtailed following military reforms in 1776, and the office was ultimately abolished after the Third Partition of Poland in 1795."
+      ]
+    },
+    {
+      "heading": "Hetmans of the Cossack Hetmanate",
+      "paragraphs": [
+        "By the late 16th century, commanders of the Zaporizhian [[cossacks|Cossacks]] were known as Koshovyi Otaman or Hetman, with Christof Kosynsky recognized as the first Zaporizhian hetman. In 1572, a hetman commanded the Registered Cossack Army of the Commonwealth. Following Bohdan Khmelnytsky's uprising in 1648, the hetman became the leader of the entire [[ukrainian|Ukrainian]] State, known as Hetmanshchyna, and the heads of the [[cossack-hetmanate|Cossack Hetmanate]].",
+        "Hetmans wielded significant military and legislative powers and were elected to their positions. The division of Ukraine along the [[dnieper|Dnieper River]] after the 1667 Polish–Russian Treaty of Andrusovo led to the classification of Cossacks into Left-bank and Right-bank groups. The Cossack Hetmanate was dissolved by Catherine II of Russia in 1764, with Kyrylo Rozumovsky serving as the last Hetman of the Zaporozhian Army from 1751 until 1764.",
+        "The title saw a revival during the [[ukrainian-war-of-independence|Ukrainian revolution]] of 1917 to 1921, when Pavlo Skoropadskyi claimed the title Hetman of Ukraine after a coup in early 1918. This regime lasted until late 1918, when it was overthrown by the Directorate of Ukraine."
+      ]
+    },
+    {
+      "heading": "Hetmans in Other Regions",
+      "paragraphs": [
+        "In Bohemia, the term hetman has been used since the Hussite Wars in the 15th century, and today it refers to the elected governor of a Czech region (kraj). In Romania and the Principality of Moldavia, hetmans historically held the second-highest military rank, subordinate only to the ruling prince, known as voivode."
+      ]
+    },
+    {
+      "heading": "Figurative Use and Cultural References",
+      "paragraphs": [
+        "The term hetman has also been used figuratively to denote 'commander' or 'leader'. For example, in Maxim Gorky's novel 'Mother' (1906), a character is referred to as the hetman of a group.",
+        "Additionally, the chess piece known as the queen is referred to as hetman in Polish and is denoted by the letter H in algebraic notation."
+      ]
+    }
+  ],
+  "links_out": [
+    "bohdan-khmelnytsky",
+    "cossack-hetmanate",
+    "cossacks",
+    "dnieper",
+    "khmelnytsky-uprising",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-war-of-independence"
+  ],
+  "sources": [
+    {
+      "title": "Hetman — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hetman",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

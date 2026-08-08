@@ -1,0 +1,85 @@
+{
+  "qid": "Q3739421",
+  "slug": "ukrainian-defense-industry",
+  "title": "Ukrainian Defense Industry",
+  "type": "concern",
+  "category": "economy",
+  "aliases": [
+    "Ukroboronprom"
+  ],
+  "infobox": {
+    "label": "concern",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2010",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Ukrainian Defense Industry, known as Ukroboronprom, is the largest arms manufacturer in Ukraine and ranks among the top 50 companies in the global arms sector. Established in 2010, it has adapted its operations in response to the ongoing conflict with Russia, including relocating parts of its production abroad since the 2022 invasion.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Ukroboronprom is a conglomerate that encompasses various enterprises involved in the development, manufacture, sale, repair, modernization, and disposal of weapons, military equipment, and ammunition. The company also engages in military-technical cooperation with foreign nations.",
+        "As of 2025, the process of corporatization is ongoing."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Ukroboronprom was established in 2010 through presidential and ministerial decrees. In September 2013, it was organized into five divisions focusing on aircraft, precision weaponry, armored vehicles, shipbuilding, and radar systems.",
+        "The conglomerate signed a memorandum of cooperation with Anthony Tetter, a former head of DARPA, in 2016, who became an advisor for its long-term development.",
+        "Ukroboronprom implemented an e-procurement system in October 2014, claiming savings of US$304.8 million in 2015 and ₴476.6 million in 2016. By 2017, it supplied 3,673 units of weapons and equipment to [[ukraine|Ukraine]]'s security agencies."
+      ]
+    },
+    {
+      "heading": "Impact of the Russian Invasion",
+      "paragraphs": [
+        "During the 2022 Russian invasion, Ukroboronprom engaged in the repair and maintenance of both [[ukrainian|Ukrainian]] and captured Russian military vehicles. It offered financial incentives for the surrender of combat-capable aircraft and helicopters.",
+        "Significant damage occurred to its facilities, including the destruction of the [[zhytomyr|Zhytomyr]] Armour Plant on 6 March 2022, resulting in the loss of three lives.",
+        "In response to military needs, Ukroboronprom announced plans to produce ammunition to NATO standards in collaboration with a NATO member country on 20 September 2022."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "On 15 March 2023, Ukroboronprom began manufacturing 125 mm smoothbore ammunition for Soviet-era tanks outside Ukraine, part of a broader initiative to bolster domestic ammunition production amidst decreasing Western stockpiles.",
+        "The company was renamed to Ukrainska oboronna promyslovist (Ukrainian Defense Industry) on 21 March 2023, and announced a partnership with Polska Grupa Zbrojeniowa to produce 125mm tank rounds.",
+        "By June 2023, Ukroboronprom claimed to have developed a drone capable of reaching targets 1,000 km away."
+      ]
+    },
+    {
+      "heading": "Structure and Workforce",
+      "paragraphs": [
+        "Ukroboronprom comprises 134 military industry enterprises, including 123 state-owned and 9 joint stock corporations, employing approximately 120,000 individuals as of 2014.",
+        "The conglomerate has a diverse manufacturing and design sector, including armored vehicles, shipbuilding, and air defense systems, with key facilities located throughout Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine",
+    "ukrainian",
+    "zhytomyr"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Defense Industry — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Defense_Industry",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

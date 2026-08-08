@@ -1,0 +1,65 @@
+{
+  "qid": "Q1794677",
+  "slug": "kutia",
+  "title": "Kutia",
+  "type": "topic",
+  "category": "culture",
+  "aliases": [
+    "kutya"
+  ],
+  "infobox": {
+    "label": "topic",
+    "fields": []
+  },
+  "summary": "Kutia, also known as kutya, is a ceremonial grain dish in syrup that holds significant cultural importance in [[ukrainian-cuisine|Ukrainian cuisine]], particularly during the Christmas season. It is traditionally made with wheatberries, poppy seeds, and honey, reflecting ancient rituals and customs.",
+  "sections": [
+    {
+      "heading": "Cultural Significance in Ukraine",
+      "paragraphs": [
+        "In [[ukraine|Ukraine]], kutia is one of the two essential ritual dishes served during the Christmas Eve supper, known as Svyata vecherya. Its ritual importance dates back to ancient times, with [[ukrainian|Ukrainian]] ethnographer Fedir Vovk tracing its origins to the Neolithic era.",
+        "Before the Christmas dinner, kutia is placed in the icon corner of the home, a space reserved for religious icons, from Christmas on December 25 until New Year's Day, January 1. There is a custom of sending children with kutia to relatives, particularly grandparents and godparents."
+      ]
+    },
+    {
+      "heading": "Ritual Practices",
+      "paragraphs": [
+        "After the Christmas Eve dinner, kutia is left on the table overnight with spoons for deceased ancestors, symbolizing a connection with the past. A traditional practice involves the head of the family inviting frost to join the dinner, ensuring a good harvest for the coming year.",
+        "Kutia is the first of twelve dishes tasted during Svyata vecherya, with the head of the family calling upon the souls of departed family members before tasting it. The act of throwing a spoonful of kutia to the ceiling is believed to predict the prosperity of the household in the coming year."
+      ]
+    },
+    {
+      "heading": "Ingredients and Preparation",
+      "paragraphs": [
+        "The primary ingredients of traditional kutia include wheatberries, poppy seeds, and honey, with optional additions of walnuts, dried fruits, and raisins. As a Lenten dish, it avoids the use of milk or egg products, adhering to the fasting traditions of the Eastern Orthodox Church.",
+        "Variations of kutia may use pearl barley or millet instead of wheatberries. A similar dish, kolyvo, is served at remembrance services but does not include poppy seeds."
+      ]
+    },
+    {
+      "heading": "Regional Variations",
+      "paragraphs": [
+        "Kutia is also known in Poland, where it is served during Christmas Eve supper and has origins that predate Christianity. It is particularly found in eastern regions near the borders with Ukraine and Belarus.",
+        "In Armenia, kutia is referred to as anoush abour, which differs in preparation by sometimes omitting poppy seeds and often includes pomegranate seeds. This dish is part of various festive occasions and is linked to communal sharing and gratitude."
+      ]
+    },
+    {
+      "heading": "Similar Dishes in Other Cultures",
+      "paragraphs": [
+        "Other countries have similar dishes, such as kolivo in Bulgaria, koliva in Greece, and ameh masslouk in Lebanon, which also feature boiled grains mixed with honey and nuts, reflecting a shared cultural heritage across various regions."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine",
+    "ukrainian",
+    "ukrainian-cuisine"
+  ],
+  "sources": [
+    {
+      "title": "Kutia — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kutia",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

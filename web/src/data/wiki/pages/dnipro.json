@@ -1,0 +1,108 @@
+{
+  "qid": "Q48256",
+  "slug": "dnipro",
+  "title": "Dnipro",
+  "type": "big city",
+  "category": "geography",
+  "aliases": [
+    "Dnepr",
+    "Dnepropetróvsk",
+    "Dnipropetrovsk",
+    "Katerynoslav",
+    "Novorossiysk",
+    "Sicheslav",
+    "Yekaterinoslav"
+  ],
+  "infobox": {
+    "label": "big city",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1776",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "1,065,008",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "405",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "155",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Borys Filatov",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.4675, 35.0400",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Dnipro is the fourth-largest city in Ukraine, located in the eastern part of the country along the Dnipro River. With a population of approximately one million, it serves as the administrative center of Dnipropetrovsk Oblast and has a rich historical and industrial significance.",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Significance",
+      "paragraphs": [
+        "[[dnieper|Dnipro]] is situated 391 km (243 mi) southeast of [[kyiv|Kyiv]], the capital of [[ukraine|Ukraine]], and is named after the Dnipro River on which it lies. The city is the administrative center of Dnipropetrovsk Oblast and hosts the administration of the Dnipro urban hromada."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Archaeological evidence indicates that the area has been settled since at least 1524, primarily by Cossack communities. The city was established as Yekaterinoslav by Empress Catherine the Great in 1787, serving as the administrative center of Novorossiya. It attracted foreign investment and a diverse workforce during the late 19th century, particularly in the iron and coal industries.",
+        "In 1926, the city was renamed Dnipropetrovsk in honor of Grigory Petrovsky, a leader of the [[ukrainian|Ukrainian]] Communist Party. It became a center for heavy industry during the Stalinist era, including nuclear and arms production, leading to its designation as a closed city after World War II."
+      ]
+    },
+    {
+      "heading": "Political Changes and Renaming",
+      "paragraphs": [
+        "Following the [[euromaidan|Euromaidan]] events in 2014, Dnipro shifted politically towards pro-European Union parties. The city underwent a decommunization process, officially changing its name to Dnipro in 2016, aligning with a law aimed at removing Soviet-era names.",
+        "The name Dnipro reflects the city's historical and cultural ties to the Dnipro River, while the previous name, Dnipropetrovsk, had connections to the Soviet past."
+      ]
+    },
+    {
+      "heading": "Role During the Russian Invasion",
+      "paragraphs": [
+        "In February 2022, amid the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], Dnipro emerged as a crucial logistical hub for humanitarian aid and a reception point for individuals fleeing conflict zones. This role underscores the city's strategic importance in the ongoing crisis."
+      ]
+    },
+    {
+      "heading": "Cultural and Historical Identity",
+      "paragraphs": [
+        "The city's history reflects a complex interplay of Cossack heritage and imperial influences. The original settlement, known as Novyi Kodak, played a significant role in the region's development. Over the years, various names have been attributed to the city, including Yekaterinoslav and Dnipropetrovsk, each representing different historical phases and political contexts."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnieper",
+    "euromaidan",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Dnipro — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dnipro",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

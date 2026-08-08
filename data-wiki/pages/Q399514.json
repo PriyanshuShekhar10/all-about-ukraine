@@ -1,0 +1,55 @@
+{
+  "qid": "Q399514",
+  "slug": "ukrainian-orthodox-church",
+  "title": "Ukrainian Orthodox Church",
+  "type": "Wikimedia disambiguation page",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "The Ukrainian Orthodox Church encompasses various Orthodox Christian entities within Ukraine and abroad, reflecting the religious diversity and historical developments of Orthodoxy in the region.",
+  "sections": [
+    {
+      "heading": "Orthodox Churches in Ukraine",
+      "paragraphs": [
+        "The term 'Ukrainian Orthodox Church' primarily refers to the collective Orthodox churches present in [[ukraine|Ukraine]], which includes the Orthodox Church of Ukraine and the Ukrainian Orthodox Church (Moscow Patriarchate)."
+      ]
+    },
+    {
+      "heading": "International Affiliations",
+      "paragraphs": [
+        "The Ukrainian Orthodox Church also includes the Ukrainian Orthodox Church of Canada and the Ukrainian Orthodox Church of the USA, both of which are under the jurisdiction of the Ecumenical Patriarchate of Constantinople."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The [[ukrainian|Ukrainian]] Orthodox Vicariate Sighetu Marmației serves the Eastern Orthodox community of Ukraine in Romania. Additionally, the Ukrainian Orthodox Church – [[kyiv|Kyiv]] Patriarchate (UOC-KP) existed from 1992 until its dissolution on December 15, 2018, when it contributed to the formation of the Orthodox Church of Ukraine.",
+        "Another significant entity, the Ukrainian Autocephalous Orthodox Church (UAOC), was active from 1922 until its dissolution on December 15, 2018, also merging into the Orthodox Church of Ukraine."
+      ]
+    },
+    {
+      "heading": "Other Variants",
+      "paragraphs": [
+        "The Ukrainian Autocephalous Orthodox Church Canonical, originating from the Polish Orthodox Church in 1924, and the Ukrainian Orthodox Greek Catholic Church, established in 2008, represent further dimensions of the Orthodox presence in Ukraine.",
+        "The Ukrainian Autonomous Orthodox Church existed briefly from 1941 to 1944 during the Nazi occupation of Ukraine, while the Living Church operated from May 1922 until July 26, 1946 as an independent liberal church."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Orthodox Church — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Orthodox_Church",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

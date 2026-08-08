@@ -1,0 +1,70 @@
+{
+  "qid": "Q1573443",
+  "slug": "ukrainization",
+  "title": "Ukrainization",
+  "type": "assimilation",
+  "category": "history",
+  "aliases": [
+    "Ukrainianization",
+    "Ukrainizatsiia"
+  ],
+  "infobox": {
+    "label": "assimilation",
+    "fields": []
+  },
+  "summary": "Ukrainization is a policy aimed at promoting the Ukrainian language and culture across various public domains in Ukraine, as well as assimilating non-Ukrainians into Ukrainian cultural practices. This process has historical roots and has evolved through different political contexts in Ukraine.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Ukrainization has historical roots dating back to the second half of the 15th century, during which [[ukraine|Ukraine]] and Belarus were part of the Grand Duchy of Lithuania. The Renaissance played a significant role in shifting cultural expressions from Byzantine influences to a focus on humanist themes, leading to the development of new literary genres and the use of the vernacular language, known as Ruthenian.",
+        "Ruthenian evolved into a standard language, eventually splitting into modern [[ukrainian|Ukrainian]] and Belarusian. By the 17th century, it became widely used in everyday communication, while Church Slavonic was increasingly restricted to religious contexts."
+      ]
+    },
+    {
+      "heading": "Ukrainization Under the Russian Empire",
+      "paragraphs": [
+        "During the era of the Russian Empire, the process of Russification severely restricted the use of the Ukrainian language in state institutions and schools. This suppression created adverse conditions for the development of Ukrainian culture and language."
+      ]
+    },
+    {
+      "heading": "Post-Russian Revolution Developments (1917–1923)",
+      "paragraphs": [
+        "After the Russian Revolution in 1917, Ukraine experienced a brief period of independence, leading to efforts to promote Ukrainian culture. The Central [[verkhovna-rada|Rada]], Ukraine's governing body, struggled to assert control amidst foreign interventions, and the language used in governance was a mix of Polish, Russian, and Ukrainian.",
+        "The subsequent Hetmanate, led by Pavlo Skoropadskyi, initiated significant cultural programs, including the establishment of Ukrainian schools and universities. However, the government was short-lived, leading to further conflicts and changes in leadership."
+      ]
+    },
+    {
+      "heading": "Early Soviet Period (1923–1931)",
+      "paragraphs": [
+        "With the establishment of Bolshevik rule, the Soviet government initially adopted an indigenization policy, which included a brief period of Ukrainization. The All-Ukrainian Sovnarkom's decree on July 27, 1923, marked the start of formal Ukrainization efforts, promoting the Ukrainian language in state institutions.",
+        "By 1929, over 97% of high school students were educated in Ukrainian, and literacy rates among Ukrainophones improved significantly. Major cities like [[kharkiv|Kharkiv]] and [[kyiv|Kyiv]] saw increases in the Ukrainian population and cultural representation.",
+        "The Ukrainian language's presence in publishing and education flourished, with a significant rise in Ukrainian-language newspapers and theaters. By 1931, 66 out of 88 theaters were Ukrainian, and 373 out of 426 newspapers were published in Ukrainian."
+      ]
+    },
+    {
+      "heading": "Cultural and Political Impact",
+      "paragraphs": [
+        "Ukrainization policies led to increased representation of [[ukrainians|Ukrainians]] in government and party structures, with ethnic Ukrainians making up over half of the membership in the Ukrainian Communist Party by the end of the 1920s. The representation of Ukrainians in various governmental bodies also rose significantly during this period.",
+        "Despite the Soviet anti-religious campaign, the Ukrainian Autocephalous Orthodox Church was established, gaining support among the peasantry and serving as a tool for the Soviet government to counter the influence of the Russian Orthodox Church."
+      ]
+    }
+  ],
+  "links_out": [
+    "kharkiv",
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainization — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainization",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

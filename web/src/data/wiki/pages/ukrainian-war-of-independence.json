@@ -1,0 +1,84 @@
+{
+  "qid": "Q2479606",
+  "slug": "ukrainian-war-of-independence",
+  "title": "Ukrainian War of Independence",
+  "type": "historical period",
+  "category": "history",
+  "aliases": [
+    "Ukrainian Revolution",
+    "Ukrainian Struggle for Independence"
+  ],
+  "infobox": {
+    "label": "historical period",
+    "fields": [
+      {
+        "label": "Location",
+        "value": "Ukraine, Eastern Europe",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The Ukrainian War of Independence, also known as the Ukrainian–Soviet War, occurred from March 1917 to November 1921, forming a significant part of the Russian Civil War and leading to the establishment of an independent Ukrainian republic. This conflict involved various factions vying for control over Ukraine, ultimately resulting in the incorporation of much of the territory into the Ukrainian Soviet Socialist Republic.",
+  "sections": [
+    {
+      "heading": "Background",
+      "paragraphs": [
+        "During the First World War, [[ukraine|Ukraine]] was situated at the forefront of the conflict between Imperial Russia and Austria-Hungary. [[ukrainian|Ukrainian]] activists faced repression in Russia, while Galician Russophiles were persecuted by Austrians. In March 1917, following the February Revolution, the Central [[verkhovna-rada|Rada]] was formed in [[kyiv|Kyiv]], with [[mykhailo-hrushevskyi|Mykhailo Hrushevsky]] elected as its leader in April. The Central Rada aimed for greater Ukrainian autonomy, and in June 1917, it proclaimed Ukrainian autonomy, later establishing the [[ukrainian-peoples-republic|Ukrainian People's Republic]] (UPR) on November 20."
+      ]
+    },
+    {
+      "heading": "Outbreak of Fighting (1917–1918)",
+      "paragraphs": [
+        "The authority of the Central Rada was limited to urban areas, and it faced both external threats and internal uprisings. In late December 1917, the Communist Party of Ukraine established the [[donetsk|Donetsk]]–[[kryvyi-rih|Krivoy Rog]] Soviet Republic in [[kharkiv|Kharkiv]]. The Bolsheviks advanced through Ukraine, capturing major cities including Kyiv on February 9, 1918, leading to a retreat of the Central Rada ministers."
+      ]
+    },
+    {
+      "heading": "Central Powers Intervention",
+      "paragraphs": [
+        "Following negotiations with the Central Powers, the Central Rada sought peace, leading to the proclamation of UPR independence on January 25, 1918. The Central Powers launched Operation Faustschlag, successfully driving out Bolshevik forces from Ukraine, with Kyiv being taken on March 1, 1918. Despite these military successes, civil unrest persisted throughout the region."
+      ]
+    },
+    {
+      "heading": "Hetmanate (April – November 1918)",
+      "paragraphs": [
+        "On April 28, 1918, the Central Rada was disbanded by German forces, and Pavlo Skoropadsky was installed as [[hetman|Hetman]] of Ukraine. His regime faced opposition from the Directorate of Ukraine, which sought to restore the UPR. Following Germany's defeat in November 1918, Skoropadsky's government collapsed, leading to the Directorate's takeover of Kyiv by December 14."
+      ]
+    },
+    {
+      "heading": "West Ukrainian People's Republic",
+      "paragraphs": [
+        "In October 1918, the Western Ukrainian People's Republic (WUPR) was declared in territories previously under Austrian control. The Polish–[[full-scale-russo-ukrainian-war|Ukrainian War]] ensued, with [[lviv|Lviv]] initially captured by Ukrainian forces but later retaken by Poland. On January 22, 1919, the WUPR and UPR signed an Act of Union, although by October 1919, the WUPR was defeated by Polish forces."
+      ]
+    },
+    {
+      "heading": "Resumed Hostilities (1919)",
+      "paragraphs": [
+        "After Germany's defeat, Lenin's government annulled the Treaty of Brest-Litovsk and invaded Ukraine. The Ukrainian People's Republic, under Symon Petliura, faced a renewed Bolshevik offensive, leading to Kyiv's recapture by the Red Army on February 5, 1919, and the re-establishment of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]], forcing the UPR to retreat into Eastern Galicia."
+      ]
+    }
+  ],
+  "links_out": [
+    "donetsk",
+    "full-scale-russo-ukrainian-war",
+    "hetman",
+    "kharkiv",
+    "kryvyi-rih",
+    "kyiv",
+    "lviv",
+    "mykhailo-hrushevskyi",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "ukrainian-soviet-socialist-republic",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian War of Independence — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_War_of_Independence",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

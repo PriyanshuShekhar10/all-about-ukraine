@@ -1,0 +1,96 @@
+{
+  "qid": "Q212268",
+  "slug": "antonov",
+  "title": "Antonov",
+  "type": "aerospace manufacturer",
+  "category": "economy",
+  "aliases": [
+    "Aeronautical Scientific-Technical Complex named after Antonov",
+    "Antonov ASTC",
+    "Antonov Aviatsionny Nauchno-Tekhnichesky Kompleks",
+    "Antonov Design Bureau",
+    "Antonov State Enterprise",
+    "Aviatsionny Nauchno-Tekhnichesky Kompleks Imeni O K Antonova",
+    "Kyiv Mechanical Plant",
+    "OKB-153",
+    "Research and Design Bureau named after O. K. Antonov"
+  ],
+  "infobox": {
+    "label": "aerospace manufacturer",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1930",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Antonov is a Ukrainian aerospace manufacturer known for its expertise in large aircraft and operations on unprepared runways. Established in 1946 and relocated to Kyiv in 1952, Antonov has produced approximately 22,000 aircraft, significantly impacting both military and civilian aviation.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Antonov was founded in 1946 in the Novosibirsk Aircraft Production Association as the top-secret Soviet Research and Design Bureau No. 153, led by Oleg Antonov. The bureau specialized in turboprop military transport aircraft, notably creating the An-2 biplane, which first flew on 31 August 1947.",
+        "In 1952, the bureau moved to [[kyiv|Kyiv]], a city with a strong aviation legacy. The introduction of the An-10/An-12 family in 1957 marked the beginning of mass production, with these aircraft serving military and civilian roles globally.",
+        "During the late Soviet era, Antonov gained prominence with the An-124 'Ruslan' and the An-225 'Mriya', the latter becoming the world's largest and heaviest aircraft."
+      ]
+    },
+    {
+      "heading": "Independent Ukraine",
+      "paragraphs": [
+        "Post-independence in 1991, Antonov remained state-owned and was recognized as a strategic asset for [[ukraine|Ukraine]]. The company has since certified and marketed both Soviet-era and new aircraft models, including the An-140, An-148, and An-158.",
+        "Following the [[russian-annexation-of-crimea|annexation of Crimea by Russia]] in 2014, Antonov faced significant challenges, including reduced income and reliance on Russian suppliers. However, it has sought to recover by entering new markets, notably in the Persian Gulf and India.",
+        "In 2016, the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] initiated the formation of the [[ukrainian|Ukrainian]] Aircraft Corporation to consolidate aircraft manufacturing, including Antonov's assets."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "The onset of Russia's full-scale [[full-scale-russo-ukrainian-war|invasion of Ukraine]] on 24 February 2022 severely impacted Antonov, with significant damage to facilities and aircraft, including the destruction of the An-225 'Mriya'.",
+        "In March 2023, former director general Serhiy Bychkov was arrested for negligence related to the loss of the An-225, highlighting the ongoing challenges faced by the company during the conflict."
+      ]
+    },
+    {
+      "heading": "Products and Activities",
+      "paragraphs": [
+        "Antonov's primary focus includes the design and manufacturing of large military transport aircraft, as well as airliners and various derivatives. The company has produced notable models such as the An-2, An-124, and An-148.",
+        "In addition to aircraft production, Antonov is involved in cargo air transport through Antonov Airlines, aircraft maintenance, testing, and aerospace research."
+      ]
+    },
+    {
+      "heading": "Facilities and Composition",
+      "paragraphs": [
+        "Antonov's key production facilities include the Antonov Serial Production Plant in Kyiv and the [[kharkiv|Kharkiv]] Aviation Factory. The company operates from airfields such as Sviatoshyn Airfield and Hostomel Airport.",
+        "The consolidation of production capabilities has allowed Antonov to maintain a full manufacturing cycle, although it continues to collaborate with various contractors for assembly and production."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "kharkiv",
+    "kyiv",
+    "russian-annexation-of-crimea",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Antonov — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Antonov",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

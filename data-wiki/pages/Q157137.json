@@ -1,0 +1,108 @@
+{
+  "qid": "Q157137",
+  "slug": "kryvyi-rih",
+  "title": "Kryvyi Rih",
+  "type": "big city",
+  "category": "geography",
+  "aliases": [
+    "Krivoy Rog",
+    "Kryvyy Rih",
+    "Криви́й Ріг",
+    "Кривой Рог"
+  ],
+  "infobox": {
+    "label": "big city",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1775-04-27",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "2,184",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "410",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "84",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Yurii Vilkul, Konstantin Pavlov",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "47.9100, 33.3900",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Kryvyi Rih is a significant city located in central Ukraine, serving as the administrative center of Kryvyi Rih Raion in [[dnipro|Dnipropetrovsk]] Oblast. With a population of approximately 603,904 as of 2022, it ranks as the seventh-most populous city in Ukraine and is notable for its extensive industrial history and geographical features.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Kryvyi Rih is situated at the confluence of the Saksahan and Inhulets rivers and is part of the Kryvyi Rih Metropolitan Region. The city is recognized as the second largest by area in [[ukraine|Ukraine]] and is claimed to be the longest city in Europe.",
+        "As of 2022, the estimated population of Kryvyi Rih is 603,904, making it the seventh-most populous city in Ukraine."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Founded in 1775 as a military staging post, Kryvyi Rih's early history is closely tied to the Zaporozhian [[cossacks|Cossacks]], who named the area 'Kryvyi Rih', meaning 'crooked horn' or 'curved cape'.",
+        "The city gained its official status in 1919 and underwent significant urban-industrial growth in the late 19th century due to investments from Belgium, France, and Britain in the local iron-ore deposits known as Kryvbas."
+      ]
+    },
+    {
+      "heading": "Industrial Development",
+      "paragraphs": [
+        "The establishment of the [[arcelormittal-kryvyi-rih|Kryvorizhstal]] metallurgical plant in 1934 marked a pivotal moment in the city's industrialization during the [[donetsk|Stalin]] era. This plant became the largest integrated metallurgical works in the Soviet Union.",
+        "Post-World War II, Kryvyi Rih continued to expand industrially until the economic challenges following the dissolution of the Soviet Union in the 1990s led to high unemployment and population decline."
+      ]
+    },
+    {
+      "heading": "Recent History and Conflicts",
+      "paragraphs": [
+        "The privatization of Kryvorizhstal in 2005 spurred foreign investment and urban regeneration. However, the city has also faced significant labor unrest, including major protests and strikes beginning in 2017.",
+        "Since the onset of the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in February 2022, Kryvyi Rih has been subjected to frequent missile strikes and was a focal point in the southern Ukraine campaign, with Russian ground advances halted approximately 50 kilometers south of the city."
+      ]
+    },
+    {
+      "heading": "Cultural and Social Aspects",
+      "paragraphs": [
+        "Kryvyi Rih has a rich cultural history, with its Jewish community historically playing a significant role in the city's development. The city experienced tragic events during the Holocaust, where many Jews were murdered during the German occupation in World War II.",
+        "In contemporary times, Kryvyi Rih continues to evolve, with ongoing redevelopment efforts supported by local and foreign investments."
+      ]
+    }
+  ],
+  "links_out": [
+    "arcelormittal-kryvyi-rih",
+    "cossacks",
+    "dnipro",
+    "donetsk",
+    "full-scale-russo-ukrainian-war",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Kryvyi Rih — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kryvyi_Rih",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

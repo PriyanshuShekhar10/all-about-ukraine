@@ -1,0 +1,54 @@
+{
+  "qid": "Q2918349",
+  "slug": "rag-doll",
+  "title": "rag doll",
+  "type": "topic",
+  "category": "culture",
+  "aliases": [
+    "cloth doll"
+  ],
+  "infobox": {
+    "label": "topic",
+    "fields": []
+  },
+  "summary": "A rag doll is a type of doll crafted from fabric scraps, historically serving as both a toy and a tool for teaching sewing skills. In Ukraine, the motanka doll represents a traditional variant of the rag doll, deeply rooted in folk culture and magical beliefs.",
+  "sections": [
+    {
+      "heading": "Definition and Characteristics",
+      "paragraphs": [
+        "A rag doll is created from various scraps of fabric. In contemporary contexts, many rag dolls are produced commercially, designed to reflect features of traditional handmade dolls, including simple facial characteristics, soft cloth bodies, and patchwork attire."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Historically, rag dolls were made from cloth scraps or cornhusks. In the 19th and 20th centuries, materials such as stockinette, felt, or velvet became common. The British Museum houses a Roman rag doll discovered in a child's grave, dating from the 1st to 5th century AD. Rag dolls have traditionally served as comfort items and tools for teaching nurturing skills to young children, including sewing practices."
+      ]
+    },
+    {
+      "heading": "Motanka Dolls in Ukrainian Culture",
+      "paragraphs": [
+        "Motanka dolls, known in [[ukrainian|Ukrainian]] as мо́танка, are a specific type of traditional amulet doll made in [[ukraine|Ukraine]], Poland, and Belarus. These dolls are integral to folk culture and magical beliefs, constructed without needles to avoid 'poking' fate, and typically lack facial features, sometimes featuring a cross instead. Motanka dolls were created with particular intentions, such as family protection or ensuring a prosperous marriage. Recently, there has been a resurgence of interest in motanka dolls as part of a broader appreciation for Slavic cultural heritage, often utilized in educational and ethnographic workshops."
+      ]
+    },
+    {
+      "heading": "Commercial Production",
+      "paragraphs": [
+        "In modern times, the commercial production of rag dolls has increased, with many designs echoing the characteristics of traditional homemade dolls. A notable example is the Raggedy Ann doll, which debuted in 1918 as the central character in a series of children's stories by Johnny Gruelle, followed by the introduction of her brother, Raggedy Andy, in 1920."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Rag doll — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rag_doll",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

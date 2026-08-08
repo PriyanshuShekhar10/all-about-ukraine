@@ -1,0 +1,73 @@
+{
+  "qid": "Q2992278",
+  "slug": "moskva",
+  "title": "Moskva",
+  "type": "guided missile cruiser",
+  "category": "war",
+  "aliases": [
+    "Russian cruiser Moskva",
+    "Russian cruiser Slava",
+    "Slava",
+    "Soviet cruiser Slava"
+  ],
+  "infobox": {
+    "label": "guided missile cruiser",
+    "fields": [
+      {
+        "label": "Coordinates",
+        "value": "45.2951, 30.8789",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Moskva, previously known as Slava, was a guided missile cruiser of the Russian Navy, commissioned in 1983 and serving as the flagship of the Black Sea Fleet. Its involvement in the Russo-Ukrainian War, particularly during the 2022 invasion of Ukraine, marked a significant chapter in its operational history.",
+  "sections": [
+    {
+      "heading": "Construction and Early History",
+      "paragraphs": [
+        "Moskva was originally laid down as Slava in 1976 at Shipyard 445 of the 61 Kommunara Shipbuilding Plant in [[mykolaiv|Mykolaiv]], [[ukrainian-soviet-socialist-republic|Ukrainian SSR]], and was launched in 1979. The cruiser was commissioned into the Soviet Navy on 30 January 1983. It played a notable role during the Malta Summit in December 1989, where it served as a platform for the Soviet delegation."
+      ]
+    },
+    {
+      "heading": "Service in the Russian Navy",
+      "paragraphs": [
+        "Renamed Moskva on 15 May 1995, the cruiser was recommissioned into the Russian Navy in April 2000, taking over as the flagship of the Russian Black Sea Fleet. Throughout the 2000s, Moskva participated in various naval exercises and operations, including securing the Black Sea during the 2008 Russian invasion of Georgia and blockading the [[ukrainian|Ukrainian]] fleet during the [[russian-annexation-of-crimea|2014 annexation of Crimea]]."
+      ]
+    },
+    {
+      "heading": "Role in the Russo-Ukrainian War",
+      "paragraphs": [
+        "During the 2022 Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], Moskva played a critical role in the naval assault from February until April 2022. It was involved in the attack on Snake Island, where it demanded the surrender of the Ukrainian garrison, which famously responded with a defiant message. Moskva provided air cover for Russian naval operations in the Black Sea."
+      ]
+    },
+    {
+      "heading": "Sinking and Aftermath",
+      "paragraphs": [
+        "On 14 April 2022, Moskva was reported to have been struck by two R-360 Neptune anti-ship missiles fired by Ukrainian forces, leading to its sinking. This event marked the largest warship sunk in combat since the Falklands War in 1982 and the first Russian flagship lost since the Russo-Japanese War. The Russian Ministry of Defence initially attributed the sinking to a fire and subsequent munitions explosion, while Ukrainian officials claimed responsibility for the attack. The ship had a crew of approximately 510, with varying reports on casualties and survivors."
+      ]
+    },
+    {
+      "heading": "Cultural and Historical Significance",
+      "paragraphs": [
+        "The wreck of Moskva has been declared an underwater cultural heritage site by [[ukraine|Ukraine]], highlighting its significance in the context of the ongoing conflict. The sinking of Moskva has been a point of national pride for Ukraine and symbolizes the resistance against Russian military actions in the Black Sea region."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "mykolaiv",
+    "russian-annexation-of-crimea",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Russian cruiser Moskva — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Russian_cruiser_Moskva",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,102 @@
+{
+  "qid": "Q134279",
+  "slug": "luhansk",
+  "title": "Luhansk",
+  "type": "city of regional significance of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Lugansk"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1795",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Russian Empire, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "425,848",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "257",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "105",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Manolis Pilavov, Serhii Kravchenko",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.5717, 39.2973",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Luhansk is a city of regional significance located in eastern [[ukraine|Ukraine]], specifically within the Donbas region. As of 2022, it is the 12th-largest city in Ukraine, with a population of approximately 397,677.",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Overview",
+      "paragraphs": [
+        "Luhansk is situated at the confluence of the Luhan and Olkhova rivers, covering an area of 28.6 thousand hectares. The city is administratively divided into four districts: Zhovtnevyi District, Artemivskyi District, Leninskyi District, and Kamiano-Bridskyi District. In addition, three territorial administrations were established by Russian authorities in 2014."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Founded between 1795 and 1796 as a foundry, Luhansk was named after the Lugan River. The city was granted city status in 1882 and underwent several name changes, including Voroshilovgrad in 1935 and back to Luhansk in 1958, with a brief return to Voroshilovgrad in 1970 before finally being reinstated as Luhansk in 1990.",
+        "Luhansk's early industrial growth was marked by the establishment of an ammunition factory by British industrialist Charles Gascoigne. The city experienced significant demographic changes throughout the 20th century, particularly during the Soviet era and the aftermath of World War II."
+      ]
+    },
+    {
+      "heading": "Impact of the Russo-Ukrainian War",
+      "paragraphs": [
+        "In 2014, pro-Russian separatists seized control of Luhansk, declaring it the capital of the self-proclaimed Luhansk People's Republic. The city has since been a focal point of the ongoing conflict in the [[donbas|Donbas]] region, leading to significant military and civilian casualties, and resulting in the temporary relocation of the [[ukrainian|Ukrainian]] administrative center to Sievierodonetsk."
+      ]
+    },
+    {
+      "heading": "Demographics and Culture",
+      "paragraphs": [
+        "As of the 2001 Ukrainian Census, the population of Luhansk was composed of 49.6% ethnically [[ukrainians|Ukrainians]] and 47% Russians, with 85.3% of residents speaking Russian as their native language. The city is known for its educational institutions, including Luhansk University and Luhansk State Medical University.",
+        "Luhansk has a rich cultural history, including significant events during World War II, such as a concert featuring [[taras-shevchenko|Taras Shevchenko]]'s work aimed at inspiring local resistance against Nazi occupation."
+      ]
+    },
+    {
+      "heading": "Sports",
+      "paragraphs": [
+        "Luhansk is home to the football club Zorya Luhansk, which competes in the Ukrainian Premier League but currently plays its home matches in [[zaporizhzhia|Zaporizhzhia]] due to the ongoing conflict. The city also has a football team, FC Zarya Luhansk, which was formed in December 2023 and plays in the Russian Second League B Group 1."
+      ]
+    }
+  ],
+  "links_out": [
+    "donbas",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "zaporizhzhia"
+  ],
+  "sources": [
+    {
+      "title": "Luhansk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Luhansk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

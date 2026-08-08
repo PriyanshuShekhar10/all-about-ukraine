@@ -1,0 +1,105 @@
+{
+  "qid": "Q111528870",
+  "slug": "kramatorsk-railway-station-attack",
+  "title": "Kramatorsk railway station attack",
+  "type": "missile strike",
+  "category": "war",
+  "aliases": [
+    "Airstrike on Kramatorsk railway station",
+    "Kramatorsk railway bombing",
+    "Kramatorsk train station airstrike",
+    "Missile strike at Kramatorsk station"
+  ],
+  "infobox": {
+    "label": "missile strike",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2022-04-08",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Kramatorsk railway station",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.7261, 37.5428",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Kramatorsk railway station attack occurred on 8 April 2022, when a Russian missile strike targeted civilians in Kramatorsk, Ukraine, resulting in 63 fatalities, including 9 children, and 150 injuries. This incident highlights the ongoing violence during the Russian invasion of Ukraine, which began on 24 February 2022.",
+  "sections": [
+    {
+      "heading": "Background",
+      "paragraphs": [
+        "The Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] commenced on 24 February 2022, with Russian forces aiming to support the separatist People's Republics of [[donetsk|Donetsk]] and [[luhansk|Luhansk]] in capturing areas of Donetsk and Luhansk oblasts still under [[ukrainian|Ukrainian]] control. The [[armed-forces-of-ukraine|Armed Forces of Ukraine]] stationed in Sloviansk and Kramatorsk played a crucial role in resisting this offensive.",
+        "On the night of 7 April, a pro-Russian Telegram channel warned civilians against evacuating from Sloviansk and Kramatorsk using railways. The following morning, at approximately 10:10, the Russian Ministry of Defence announced strikes on railway stations in Sloviansk, Pokrovsk, and Barvinkove using 'high-precision air-based missiles.'"
+      ]
+    },
+    {
+      "heading": "Attack Details",
+      "paragraphs": [
+        "On 8 April 2022, between 1,000 and 4,000 civilians, predominantly women and children, were at the Kramatorsk railway station awaiting evacuation due to heavy Russian shelling in the area. At 10:24 and 10:25, media linked to the People's Republic of Donetsk broadcasted videos of missiles being launched from Shakhtarsk, a city under separatist control. Around 10:30, two missiles struck near the railway station, with initial reports emerging in Ukrainian media by approximately 10:45.",
+        "A witness from World Central Kitchen reported hearing 'between five and ten explosions,' describing the aftermath as gruesome, with victims' bodies scattered among abandoned luggage. The missiles were initially misidentified as Iskander ballistic missiles, but Donetsk oblast governor Pavlo Kyrylenko later clarified they were Tochka-U missiles equipped with cluster munitions.",
+        "One missile's remnants bore the Russian inscription ЗА ДЕТЕЙ (za detey), meaning '[in revenge] for the children,' along with the serial number Ш91579, which investigators suggested could help trace the missile back to its source."
+      ]
+    },
+    {
+      "heading": "Reactions and Responses",
+      "paragraphs": [
+        "International reactions to the attack were swift and condemnatory. Michelle Bachelet, the United Nations High Commissioner for Human Rights, characterized the strike as emblematic of a failure to adhere to international humanitarian law. Dunja Mijatović, Council of Europe Commissioner for Human Rights, condemned the attack as a blatant disregard for civilian life.",
+        "[[president-of-ukraine|Ukrainian President]] [[volodymyr-zelenskyy|Volodymyr Zelenskyy]] referred to Russia as 'an evil with no limits.' European Commission President Ursula von der Leyen, who was in [[ukraine|Ukraine]] on the day of the attack, labeled it 'despicable.' French Foreign Minister Jean-Yves Le Drian called it a 'crime against humanity,' while British Defence Secretary Ben Wallace condemned it as a war crime. United Nations Secretary-General António Guterres deemed the missile strike 'completely unacceptable.'",
+        "Oleksandr Kamyshin, chairman of [[ukrainian-railways|Ukrainian Railways]], described the incident as a 'targeted blow to the passenger infrastructure' and the residents of Kramatorsk. The [[security-service-of-ukraine|Security Service of Ukraine]] initiated criminal proceedings under Article 438 of the Criminal Code."
+      ]
+    },
+    {
+      "heading": "Russian Response",
+      "paragraphs": [
+        "Initially, Russian state media and pro-Russian channels claimed that the airstrikes targeted a military transport site in Kramatorsk. However, as civilian casualties became apparent, these reports were retracted, and the Russian government denied responsibility, claiming the missiles were launched by Ukrainian forces from Dobropillia, southwest of Kramatorsk.",
+        "Russian media suggested that the missile's serial number matched those used by Ukrainian forces, though it was noted that all Tochka-U missiles were manufactured in Russia and distributed throughout the former Soviet Union. This raised questions about the ability to definitively attribute the missile's origin. Additionally, a fake video attributing blame to Ukrainian forces circulated among pro-Russian channels and was aired on Russian state television, despite the BBC not producing such content."
+      ]
+    },
+    {
+      "heading": "Further Investigations",
+      "paragraphs": [
+        "The Russian Ministry of Defense claimed they no longer utilized Tochka-U missiles. However, reports from Amnesty International and other investigative bodies indicated that Russian forces had employed Tochka missiles in various locations within Ukraine prior to the Kramatorsk strike. Open-source investigations also documented the movement of Russian trucks carrying Tochka missiles into Ukraine.",
+        "On 14 April, Bellingcat noted that there was insufficient evidence to determine the missile's launch direction. PolitiFact later assessed the likelihood of the incident being a false flag operation, concluding that there was no credible evidence implicating Ukraine in the Kramatorsk attack."
+      ]
+    },
+    {
+      "heading": "Documentary",
+      "paragraphs": [
+        "In 2023, Ukrainian filmmaker Aleksandr Kirienko released a documentary titled Save The Grasshopper, which focuses on the Kramatorsk railway station attack and its impact."
+      ]
+    }
+  ],
+  "links_out": [
+    "armed-forces-of-ukraine",
+    "donetsk",
+    "full-scale-russo-ukrainian-war",
+    "luhansk",
+    "president-of-ukraine",
+    "security-service-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-railways",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "Kramatorsk railway station attack — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kramatorsk_railway_station_attack",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,91 @@
+{
+  "qid": "Q613729",
+  "slug": "cabinet-of-ministers-of-ukraine",
+  "title": "Cabinet of Ministers of Ukraine",
+  "type": "executive branch",
+  "category": "politics",
+  "aliases": [
+    "CMU",
+    "CabMin",
+    "Cabinet of Ukraine",
+    "Government of Ukraine",
+    "Ukraine government",
+    "Ukrainian Government"
+  ],
+  "infobox": {
+    "label": "executive branch",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1991-09-17",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Ukiranian Government Building",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Cabinet of Ministers of Ukraine is the highest executive authority in the country, responsible for implementing state policies and governing various ministries. Established on April 18, 1991, it has undergone several structural changes and is currently led by Prime Minister Serhii Koretskyi since July 16, 2026.",
+  "sections": [
+    {
+      "heading": "Formation and Structure",
+      "paragraphs": [
+        "The Cabinet of Ministers of Ukraine, known in [[ukrainian|Ukrainian]] as Кабінет Міністрів України, was established on April 18, 1991, under the Law of [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] No.980-XII. Vitold Fokin became the first [[prime-minister-of-ukraine|Prime Minister of Ukraine]].",
+        "The cabinet operates as a collegiate body, which includes the Prime Minister, vice prime ministers, and other ministers who participate in cabinet sessions. The Prime Minister presides over these sessions, while the Secretariat of Cabinet of Ministers facilitates the cabinet's operations."
+      ]
+    },
+    {
+      "heading": "Government Administration",
+      "paragraphs": [
+        "The Cabinet of Ministers oversees central offices of executive authority, which may hold ministerial status. These offices are led by heads (holova) and can include services, agencies, and inspections. Some offices are designated with special status, while others support the President or the [[verkhovna-rada|Verkhovna Rada]].",
+        "The cabinet is accountable to the [[president-of-ukraine|President of Ukraine]] and the Verkhovna Rada, with its structure comprising the Prime Minister, the First Vice-Prime Minister, three Vice-Prime Ministers, and other Ministers."
+      ]
+    },
+    {
+      "heading": "Duties and Authority",
+      "paragraphs": [
+        "The duties of the Cabinet are outlined in Article 116 of the [[constitution-of-ukraine|Constitution of Ukraine]]. Members must be citizens of [[ukraine|Ukraine]], possess higher education, and be fluent in the state language. They are prohibited from holding other jobs that conflict with their official duties.",
+        "The Cabinet has the authority to issue resolutions and orders that are mandatory for execution, and it can introduce legislative initiatives to the Verkhovna Rada. The Prime Minister leads sessions, which are considered plenipotentiary when a majority of members are present."
+      ]
+    },
+    {
+      "heading": "Appointment and Dismissal",
+      "paragraphs": [
+        "The Prime Minister is proposed by the President and must be approved by the Verkhovna Rada within five days. Any minister requires parliamentary approval for appointment or dismissal, and a vote of no confidence can be initiated by the President or a third of parliament members.",
+        "The entire Cabinet must resign if the Prime Minister resigns, but such a resignation cannot occur within the first year of the Cabinet's approval of its program."
+      ]
+    },
+    {
+      "heading": "Public Engagement and Reforms",
+      "paragraphs": [
+        "Since August 2016, Ukrainian citizens have been able to submit electronic petitions to the Cabinet, which require 25,000 votes within three months to be considered.",
+        "The establishment of the Cabinet marked the beginning of an administrative system in independent Ukraine, evolving significantly until the adoption of the Constitution of Ukraine in 1996."
+      ]
+    }
+  ],
+  "links_out": [
+    "constitution-of-ukraine",
+    "president-of-ukraine",
+    "prime-minister-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Government of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Government_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

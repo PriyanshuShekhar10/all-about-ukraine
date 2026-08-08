@@ -1,0 +1,85 @@
+{
+  "qid": "Q113027451",
+  "slug": "2022-kherson-counteroffensive",
+  "title": "2022 Kherson counteroffensive",
+  "type": "counter-offensive",
+  "category": "war",
+  "aliases": [
+    "2022 Ukrainian southern counteroffensive",
+    "Kherson counteroffensive",
+    "South Ukraine counteroffensive",
+    "Ukrainian southern counteroffensive",
+    "southern Ukraine counteroffensive"
+  ],
+  "infobox": {
+    "label": "counter-offensive",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2020",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "southern Ukraine",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The 2022 Kherson counteroffensive was a significant military operation launched by Ukraine on 29 August 2022, aimed at reclaiming territories occupied by Russian forces in the southern regions of Kherson and Mykolaiv oblasts. This counteroffensive marked a pivotal phase in the ongoing conflict, leading to the liberation of Kherson, the only regional capital captured by Russia since the invasion began.",
+  "sections": [
+    {
+      "heading": "Background",
+      "paragraphs": [
+        "The Russian offensive in southern [[ukraine|Ukraine]] commenced with the invasion of [[kherson|Kherson]], [[zaporizhzhia|Zaporizhzhia]], and [[mykolaiv|Mykolaiv]] Oblasts, resulting in the capture of several cities, including Melitopol and Kherson. The initial Russian strategy aimed to seize the port city of [[odesa|Odesa]] but was thwarted after their defeat at the battle of Voznesensk. By early July 2022, Russian forces controlled 95% of Kherson Oblast, 70% of Zaporizhzhia Oblast, and 10% of Mykolaiv Oblast."
+      ]
+    },
+    {
+      "heading": "Ukrainian Counterattacks",
+      "paragraphs": [
+        "Following stalled Russian advances, [[ukrainian|Ukrainian]] forces began a series of counterattacks, reclaiming eleven settlements in northern Kherson Oblast by the end of March 2022. By 25 July, Ukraine had reportedly retaken 44 towns and villages, amounting to 15 percent of the region's territory. Ukrainian military strategies included disrupting Russian communication lines and conducting minor skirmishes leading up to the counteroffensive."
+      ]
+    },
+    {
+      "heading": "Launch of the Counteroffensive",
+      "paragraphs": [
+        "Ukraine officially announced the full-scale counteroffensive on 29 August 2022, following extensive artillery bombardments and preparatory strikes against Russian targets. By 9 October, Ukrainian forces had recaptured 1,170 square kilometers of territory. On 9 November, Russian troops were ordered to withdraw from Kherson, culminating in the liberation of the city on 11 November."
+      ]
+    },
+    {
+      "heading": "Strategic Importance",
+      "paragraphs": [
+        "The Kherson counteroffensive is regarded as the third strategic phase of the [[full-scale-russo-ukrainian-war|war in Ukraine]], alongside concurrent operations in the eastern regions. The successful recapture of Kherson not only represented a significant military victory for Ukraine but also had broader implications for the war's trajectory, as it disrupted Russian plans and bolstered Ukrainian morale."
+      ]
+    },
+    {
+      "heading": "International Response",
+      "paragraphs": [
+        "The referendums held by Russian authorities in the occupied territories, including Kherson, were widely condemned by Western governments as illegitimate. The annexation of Kherson, along with other regions, on 5 October 2022, was met with international denunciation, further isolating Russia on the global stage."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "kherson",
+    "mykolaiv",
+    "odesa",
+    "ukraine",
+    "ukrainian",
+    "zaporizhzhia"
+  ],
+  "sources": [
+    {
+      "title": "2022 Kherson counteroffensive — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2022_Kherson_counteroffensive",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

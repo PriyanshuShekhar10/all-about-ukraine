@@ -1,0 +1,108 @@
+{
+  "qid": "Q156752",
+  "slug": "sumy",
+  "title": "Sumy",
+  "type": "city of regional significance of Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1652",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "270,870",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "145",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "166",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Q17371921",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.9067, 34.7992",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Sumy is a city of regional significance located in northeastern Ukraine, serving as the administrative center of Sumy Oblast. Founded in the 1650s by [[cossacks|Cossacks]], Sumy has evolved into a significant industrial and cultural hub in Northern Ukraine, with a population of 256,474 as of 2022.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Sumy was established by Cossack Herasym Kondratyev along the Psel River, with its founding date debated as either 1652 or 1655. Between 1656 and 1658, a fort was constructed under Muscovite leadership, leading to Sumy's expansion as a fortified town in the 1670s.",
+        "From 1658, Sumy became the center of the Sumy Cossack Regiment, and by the end of the 17th century, it was a strategic point for Muscovite troops during the Crimean campaigns. The city served as the headquarters for Tsar Peter the Great during the Great Northern War and was influential in the Cossack administration until 1765.",
+        "After the dissolution of the Cossack community, Sumy became the center of the newly formed Sumy Province. The city's industrial growth began in the late 19th century, particularly with the establishment of sugar and engineering industries."
+      ]
+    },
+    {
+      "heading": "World War II",
+      "paragraphs": [
+        "During World War II, Sumy was occupied by German forces from October 10, 1941, to September 2, 1943, suffering significant destruction and loss of life, particularly among the Jewish population. The city was also a site for Polish military training in early 1944.",
+        "Post-war, Sumy underwent reconstruction to restore the damaged areas."
+      ]
+    },
+    {
+      "heading": "Geography and Climate",
+      "paragraphs": [
+        "Sumy is positioned in northeastern [[ukraine|Ukraine]], along the Psel River, within the Central Russian Upland and the historical region of Sloboda Ukraine. The climate is classified as warm-summer humid continental, with average temperatures of -6.9 °C (19.6 °F) in January and 20.3 °C (68.5 °F) in July."
+      ]
+    },
+    {
+      "heading": "Demographics and Language",
+      "paragraphs": [
+        "As of the 2001 census, the population of Sumy was recorded at 292,139, with a demographic composition of 85% [[ukrainians|Ukrainians]] and 12% Russians. The city has a significant Christian population, primarily Eastern Orthodox, and a historical Jewish community.",
+        "In a 2023 survey, 64% of residents reported speaking [[ukrainian|Ukrainian]] at home, while 27% spoke Russian."
+      ]
+    },
+    {
+      "heading": "Economy and Infrastructure",
+      "paragraphs": [
+        "Sumy is home to various industrial enterprises, including the Sumy Engineering Science and Production Association and the Sumykhimprom chemical plant. The city also features an international airport, several railway stations, and major road routes connecting it to other regions.",
+        "The city's infrastructure supports its role as a significant industrial center in Ukraine."
+      ]
+    },
+    {
+      "heading": "Cultural Landmarks",
+      "paragraphs": [
+        "Sumy features notable landmarks such as the Saviour's Transfiguration Cathedral, the Resurrection Church, and the Cathedral of Holy Trinity, showcasing architectural styles from various periods.",
+        "Cultural institutions include the Sumy Regional Art Museum and the Museum of Local Lore, which house collections of art and local history."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossacks",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Sumy — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sumy",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

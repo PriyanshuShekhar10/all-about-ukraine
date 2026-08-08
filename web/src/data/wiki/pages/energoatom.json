@@ -1,0 +1,80 @@
+{
+  "qid": "Q938225",
+  "slug": "energoatom",
+  "title": "Energoatom",
+  "type": "joint-stock company",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "joint-stock company",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1996-10-17",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Energoatom is the state-owned enterprise responsible for operating all nuclear power plants in Ukraine, making it the largest electricity producer in the country. Founded in October 1996, it plays a crucial role in meeting Ukraine's energy needs and ensuring nuclear safety.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Public JSC National Nuclear Energy Generating Company 'Energoatom' was established in October 1996. It manages four nuclear power plants in [[ukraine|Ukraine]], comprising 15 reactors (13 VVER-1000 and 2 VVER-440) with a combined installed capacity of 13,835 MW. Additionally, Energoatom oversees two hydroelectric units at the Oleksandrivska Hydroelectric Plant (25 MW) and three units at the Tashlyk Pumped-Storage Power Plant (453 MW), with the third hydroelectric unit connected to the power system in 2022.",
+        "Ukraine ranks seventh globally and second in Europe for the number of operational nuclear reactors and total capacity. Energoatom supplies approximately 55% of the country's electricity. As of early 2022, the company employed 33,969 individuals."
+      ]
+    },
+    {
+      "heading": "Founding and Structure",
+      "paragraphs": [
+        "Energoatom was founded under the Ordinance of the [[cabinet-of-ministers-of-ukraine|Cabinet of Ministers of Ukraine]] 'On the establishment of the National Nuclear Energy Generating Company 'Energoatom' dated 17 October 1996 No. 1268, utilizing the assets of existing nuclear power plants, including [[zaporizhzhia|Zaporizhzhya]], Rivne, South Ukraine, Khmelnytskyi, and Chornobyl NPP. The Chornobyl NPP was removed from Energoatom's management in 2001.",
+        "In 2021, the Cabinet of Ministers took over the management of Energoatom's unified property complex, aiming to enhance operational efficiency."
+      ]
+    },
+    {
+      "heading": "Economic Activities and Safety",
+      "paragraphs": [
+        "Energoatom's primary activities include electricity production, ensuring the safe operation of nuclear facilities, and maintaining readiness for emergencies. The company is responsible for purchasing nuclear fuel, managing spent fuel, and training personnel. It is classified as a strategic enterprise vital for Ukraine's economy and security.",
+        "The NPPs operated by Energoatom are considered city-forming enterprises, significantly impacting local populations in cities such as Energodar, Varash, Pivdennoukrainsk, and Netishyn."
+      ]
+    },
+    {
+      "heading": "Recent History and Challenges",
+      "paragraphs": [
+        "In 2011, Energoatom initiated a safety enhancement project with an estimated budget of $1.8 billion, originally slated for completion in 2017, but later postponed to 2020 due to funding issues. The company faced corruption allegations in 2015, leading to legal challenges that temporarily froze its assets.",
+        "In 2021, the Ukrainian government shifted management oversight from the Energy Ministry to direct government control, aligning with EU energy regulations. The company has experienced various leadership changes and financial difficulties, particularly regarding fuel procurement and market adjustments."
+      ]
+    },
+    {
+      "heading": "Nuclear Power Stations",
+      "paragraphs": [
+        "Energoatom operates four major nuclear power plants: Zaporizhzhia NPP, Rivne NPP, Khmelnytskyi NPP, and South Ukraine NPP, each contributing significantly to Ukraine's electricity generation. Zaporizhzhia NPP, the largest in Ukraine and Europe, began construction in 1979 and has produced over 1.1 trillion kWh of electricity.",
+        "Rivne NPP, operational since 1980, was the first in Ukraine to utilize VVER-type reactors, producing about 20 billion kWh annually. Khmelnytskyi NPP, opened in 1987, is noted for its potential in the European energy market, generating nearly 15 billion kWh per year. South Ukraine NPP, operational since 1982, includes three VVER-1000 units."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "ukraine",
+    "zaporizhzhia"
+  ],
+  "sources": [
+    {
+      "title": "Energoatom — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Energoatom",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

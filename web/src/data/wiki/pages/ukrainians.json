@@ -1,0 +1,63 @@
+{
+  "qid": "Q44806",
+  "slug": "ukrainians",
+  "title": "Ukrainians",
+  "type": "ethnic group",
+  "category": "people",
+  "aliases": [
+    "Ukrainian people",
+    "people of Ukraine"
+  ],
+  "infobox": {
+    "label": "ethnic group",
+    "fields": []
+  },
+  "summary": "Ukrainians are an East Slavic ethnic group primarily associated with Ukraine, where they constitute over three-quarters of the population. With a global population of approximately 46 million, they are the second largest Slavic ethnic group after Russians.",
+  "sections": [
+    {
+      "heading": "Ethnonym and Historical Context",
+      "paragraphs": [
+        "The term 'Ukrainians' ([[ukrainian|Ukrainian]]: українці, romanised: ukraintsi) is derived from '[[ukraine|Ukraina]],' a name first recorded in the Kievan Chronicle in 1187. Various earlier names such as 'Ukrainiany' and 'Ruthenians' were used to refer to the East Slavic population in what is now Ukraine, with the latter term being prominent during the time of the Polish–Lithuanian Commonwealth and the Russian Empire.",
+        "The ethnonym 'Ukrainians' gained prominence during the late 18th century, particularly associated with the [[cossack-hetmanate|Cossack Hetmanate]]. The [[cossacks|Cossacks]] play a significant role in contemporary Ukrainian identity, as reflected in national symbols and the national anthem."
+      ]
+    },
+    {
+      "heading": "Geographic Distribution",
+      "paragraphs": [
+        "The majority of ethnic Ukrainians reside in Ukraine, where they form over 75% of the population. Significant Ukrainian communities exist outside Ukraine, particularly in Russia, where approximately 1.9 million identify as Ukrainian. Other notable populations are found in North America, Brazil, Kazakhstan, and several European countries.",
+        "In 2011, a national poll indicated that 49% of Ukrainians had relatives living in Russia. The [[ukrainian-diaspora|Ukrainian diaspora]] is extensive, with estimates of up to 20 million people of Ukrainian descent living globally, although official figures suggest around 10 million."
+      ]
+    },
+    {
+      "heading": "Origins and Genetic Diversity",
+      "paragraphs": [
+        "The East Slavs, from whom Ukrainians descend, emerged during the Slavic migrations in the 6th and 7th centuries CE. The state of [[kievan-rus|Kievan Rus]], which existed from the 9th to the 13th centuries, unified these groups, including tribes such as the Polianians, who were integral to the formation of Kievan Rus'.",
+        "Genetic studies indicate that Ukrainians primarily descend from three ancestral lineages: Mesolithic hunter-gatherers, Neolithic Early European Farmers, and Yamnaya Steppe pastoralists. A survey of Ukrainian genomes revealed over 13 million genetic variants, highlighting significant genetic diversity."
+      ]
+    },
+    {
+      "heading": "Cultural Identity and Language",
+      "paragraphs": [
+        "The Ukrainian language, a descendant of Old East Slavic, has evolved significantly over the centuries. The term 'Ruthenian' was commonly used in Western and Central Europe until the 16th and 17th centuries when 'Ukrainian' began to emerge more prominently.",
+        "The Ukrainian National Revival in the early 19th century played a crucial role in establishing a distinct Ukrainian identity and language, moving away from the previously dominant 'Rusyn' and 'Ruthenian' terms. Modern Ukrainian identity is characterized by a civic understanding, where all citizens of Ukraine, regardless of ethnicity, may identify as Ukrainians."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossack-hetmanate",
+    "cossacks",
+    "kievan-rus",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-diaspora"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainians — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainians",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

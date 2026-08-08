@@ -1,0 +1,116 @@
+{
+  "qid": "Q1899",
+  "slug": "kyiv",
+  "title": "Kyiv",
+  "type": "largest city",
+  "category": "geography",
+  "aliases": [
+    "Kief",
+    "Kieff",
+    "Kiew",
+    "Kiof",
+    "Kioff",
+    "Kiou",
+    "Kiovia",
+    "Kiow",
+    "Kiowia",
+    "Kiyev",
+    "Kyiw",
+    "Kyjiw",
+    "Kyïv",
+    "Kyїv"
+  ],
+  "infobox": {
+    "label": "largest city",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "0482",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Kievan Rus', Golden Horde",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "2,934,522",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "848",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "179",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Vitali Klitschko",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4500, 30.5236",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Kyiv, the capital and largest city of Ukraine, is situated in the north-central region of the country along both banks of the Dnieper River. With a population of 2,952,301 as of January 2022, it serves as a significant industrial, scientific, educational, and cultural hub in Ukraine and Eastern Europe.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Kyiv is located in the north-central part of [[ukraine|Ukraine]], straddling both banks of the [[dnieper|Dnieper River]]. As of January 2022, the city's population was recorded at 2,952,301, making it the seventh-most populous city in Europe."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Kyiv is one of the oldest cities in Eastern Europe, believed to have existed as early as the 5th century. It was a commercial center along a significant trade route between Scandinavia and Constantinople and became the capital of [[kievan-rus|Kievan Rus]]', the first East Slavic state, under Varangian rule in the mid-9th century.",
+        "The city faced significant destruction during the Siege of Kiev in 1240, which led to a long period of decline in its influence.",
+        "Kyiv regained prominence during the 16th century as a center of Eastern Orthodox learning and later prospered during the Industrial Revolution of the late 19th century."
+      ]
+    },
+    {
+      "heading": "Political Developments",
+      "paragraphs": [
+        "In 1918, following the October Revolution, the [[ukrainian-peoples-republic|Ukrainian People's Republic]] declared independence from the Russian Republic, and Kyiv became its capital. After a series of conflicts, including the [[ukrainian|Ukrainian]]-Soviet and Polish-Soviet wars, Kyiv was established as the capital of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] in 1934.",
+        "The city suffered extensive damage during World War II but recovered to become the third-largest city in the Soviet Union."
+      ]
+    },
+    {
+      "heading": "Post-Soviet Era",
+      "paragraphs": [
+        "Following Ukraine's independence in 1991, Kyiv has continued to be the largest and wealthiest city in the country, transitioning towards a market economy and electoral democracy. Despite losing its reliance on the armaments industry, the growth of the services and finance sectors has supported urban development."
+      ]
+    },
+    {
+      "heading": "Cultural and Educational Hub",
+      "paragraphs": [
+        "Kyiv is recognized as an important industrial, scientific, educational, and cultural center in Ukraine, housing numerous high-tech industries, higher education institutions, and historical landmarks. The city is also served by an extensive public transport network, including the Kyiv Metro."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnieper",
+    "kievan-rus",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Kyiv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kyiv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,73 @@
+{
+  "qid": "Q3233785",
+  "slug": "pysanka",
+  "title": "pysanka",
+  "type": "tradition",
+  "category": "culture",
+  "aliases": [
+    "pisanica",
+    "pisanka"
+  ],
+  "infobox": {
+    "label": "tradition",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Belarus",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Pysanka is a traditional Ukrainian practice of egg decoration, particularly associated with Easter, that has roots in both pagan and Christian customs. This art form, characterized by intricate designs created using a wax-resist technique, is recognized as a national symbol of Ukraine and has influenced various cultural practices both domestically and internationally.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The tradition of egg decoration in Slavic cultures dates back to pagan times, evolving through religious syncretism into the Christian Easter egg. The oldest decorated eggs were discovered in [[ukraine|Ukraine]], highlighting the significance of this practice in the region."
+      ]
+    },
+    {
+      "heading": "Ukrainian Pysanka",
+      "paragraphs": [
+        "The term pysanka ([[ukrainian|Ukrainian]]: писанка) derives from the verb pysaty (писати), meaning 'to write,' reflecting the technique of applying designs with beeswax. Although no ancient pysanky have been preserved, archaeological findings indicate the existence of decorative eggs from the [[cucutenitrypillia-culture|Trypillian culture]] (5th to 3rd millennium BC) and [[kievan-rus|Kievan Rus]]' period.",
+        "The oldest intact pysanka was excavated in [[lviv|Lviv]] in 2013, dating to the 15th or 16th century, while another significant find from Baturyn dates to the late 17th century. The practice of pysankarstvo was widespread across Ukrainian lands, with traditional designs documented well into the late 19th century."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Pysanky serve as symbols of renewal and rebirth, reflecting both nature's cycles and the Christian resurrection narrative. During Holy Week, decorated eggs are blessed and shared among families, embodying friendship and community.",
+        "The art of pysankarstvo transitioned from ritualistic to decorative purposes in the mid-19th century, with women known as pysankarky beginning to mass-produce pysanky for sale in markets, spreading the tradition beyond rural areas."
+      ]
+    },
+    {
+      "heading": "Modern Revival",
+      "paragraphs": [
+        "Following Ukraine's independence in 1991, there has been a resurgence in the practice of pysankarstvo, as efforts to preserve and promote this cultural heritage have intensified. Despite historical suppression during the Soviet era, the tradition continues to thrive, both in Ukraine and among the [[ukrainian-diaspora|Ukrainian diaspora]] worldwide."
+      ]
+    },
+    {
+      "heading": "International Influence",
+      "paragraphs": [
+        "While pysanky are a distinctly Ukrainian tradition, similar egg decoration practices have emerged in various countries, including Poland, Croatia, and Slovenia, each with unique styles and techniques. The global appreciation for pysanky has also led to the establishment of commemorative items, such as coins, celebrating this art form."
+      ]
+    }
+  ],
+  "links_out": [
+    "cucutenitrypillia-culture",
+    "kievan-rus",
+    "lviv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-diaspora"
+  ],
+  "sources": [
+    {
+      "title": "Egg decorating in Slavic culture — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Egg_decorating_in_Slavic_culture",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,99 @@
+{
+  "qid": "Q1874",
+  "slug": "odesa",
+  "title": "Odesa",
+  "type": "port city",
+  "category": "geography",
+  "aliases": [
+    "Odesa, Ukraine",
+    "Odessa"
+  ],
+  "infobox": {
+    "label": "port city",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1500",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Russian Empire, Ukrainian People's Republic",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "1,010,783",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "236",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "40",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Eduard Gurvits, Mykola Biloblotskyi",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "46.4775, 30.7326",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Odesa, a significant port city in Ukraine, is the third-most populous municipality in the country and serves as a vital transport hub on the Black Sea. Its rich history, multicultural heritage, and recent recognition as a World Heritage Site underscore its importance in the [[ukrainian|Ukrainian]] context.",
+  "sections": [
+    {
+      "heading": "Geographical and Demographic Overview",
+      "paragraphs": [
+        "Odesa, also known as Odessa, is situated in the southwestern part of [[ukraine|Ukraine]] on the northwestern shore of the Black Sea. As of January 2021, the city had a population of approximately 1,010,537, making it the third-most populous city in Ukraine. It serves as the administrative center of both Odesa Raion and Odesa Oblast."
+      ]
+    },
+    {
+      "heading": "Cultural Significance and Heritage",
+      "paragraphs": [
+        "Odesa is recognized as a multiethnic cultural center. On 25 January 2023, the historic city center was designated a World Heritage Site and added to the List of World Heritage in Danger by the UNESCO World Heritage Committee, acknowledging its multiculturality and 19th-century urban planning. This designation followed the bombing of Odesa during the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], which resulted in damage to many buildings within the city."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The area of Odesa has been inhabited since classical antiquity, with evidence of a large Greek settlement existing by the mid-6th century BC. The first documented mention of a Slavic settlement-port named Kotsiubijiv dates back to 1415. The region was subsequently ruled by various powers, including the Grand Duchy of Lithuania and the Ottoman Empire, before becoming part of the Russian Empire in the late 18th century.",
+        "In 1794, Empress Catherine II issued a decree to establish a navy harbor and trading place in Khadjibey, which was renamed Odesa shortly thereafter. The city grew rapidly and became a free port from 1819 to 1858, emerging as a significant trading center during the 19th century."
+      ]
+    },
+    {
+      "heading": "Economic Importance",
+      "paragraphs": [
+        "Odesa functions as a warm-water port and hosts both the Port of Odesa and Port Pivdennyi, an important oil terminal located in the city's suburbs. The nearby port of Chornomorsk also contributes to the region's status as a major transport hub, with connections to railways and strategic pipelines linking Odesa's oil and chemical processing facilities to Russian and European networks. In 2000, the Quarantine Pier at Odesa Commercial Sea Port was declared a free port and free economic zone for a period of 25 years."
+      ]
+    },
+    {
+      "heading": "Architectural Heritage",
+      "paragraphs": [
+        "The architectural landscape of Odesa is characterized by Mediterranean influences, with significant contributions from French and Italian styles. The city features a blend of architectural styles, including Art Nouveau, Renaissance, and Classicist elements, reflecting its historical development and cultural diversity."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Odesa — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Odesa",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,77 @@
+{
+  "qid": "Q31919",
+  "slug": "vitali-klitschko",
+  "title": "Vitali Klitschko",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Vitali Volodymyrovych Klitschko",
+    "Vitalii Klychko",
+    "Vitaliy Klitschko"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1971-07-19",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Belovodskoye",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "People's Deputy of Ukraine, Head of Kyiv City",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Vitali Klitschko is a prominent Ukrainian politician and former professional boxer, serving as the mayor of Kyiv since 2014. He is recognized for his significant contributions to both sports and politics in Ukraine, particularly during the Russian invasion of Ukraine in 2022.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Vitali Volodymyrovych Klychko was born on 19 July 1971 in [[ukraine|Ukraine]]. He holds a Doctoral Degree (Ph.D.) in 'Sports Science' from [[kyiv|Kyiv]] University's Physical Science and Sports Department."
+      ]
+    },
+    {
+      "heading": "Boxing Career",
+      "paragraphs": [
+        "Klitschko began his boxing journey under the guidance of Anatoliy Klimanov, a former Soviet boxer. He achieved success in amateur boxing, kickboxing, and sport karate, culminating in an amateur boxing record of 195 wins (80 knockouts) and 15 losses.",
+        "He turned professional in 1996, quickly rising through the ranks and winning the WBO heavyweight title on 26 June 1999. Klitschko held multiple heavyweight championships, including the WBC title twice between 2004 and 2013, and became a dominant figure in boxing during the 'Klitschko Era' alongside his brother Wladimir."
+      ]
+    },
+    {
+      "heading": "Political Career",
+      "paragraphs": [
+        "Klitschko entered politics in 2005 and became a notable figure in the 2013–2014 [[euromaidan|Euromaidan]] protests. He was elected Mayor of Kyiv on 25 May 2014 and has since been a key political leader in Ukraine.",
+        "In addition to his mayoral duties, Klitschko was the head of the Kyiv City State Administration until the onset of the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in 2022. He was re-elected as mayor on 15 November 2015 and again in the 2020 local elections."
+      ]
+    },
+    {
+      "heading": "Impact and Recognition",
+      "paragraphs": [
+        "Klitschko's dual career as a boxer and politician has made him an influential figure in Ukraine. His leadership during the ongoing crisis has positioned him as an international symbol of [[ukrainian|Ukrainian]] resistance."
+      ]
+    }
+  ],
+  "links_out": [
+    "euromaidan",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Vitali Klitschko — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vitali_Klitschko",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

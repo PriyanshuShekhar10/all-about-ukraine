@@ -1,0 +1,58 @@
+{
+  "qid": "Q1761133",
+  "slug": "rushnyk",
+  "title": "Rushnyk",
+  "type": "topic",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "topic",
+    "fields": []
+  },
+  "summary": "A rushnyk is a decorative and ritual cloth significant in Ukrainian culture, often made of linen or cotton and featuring intricate woven or embroidered designs. It plays a vital role in various East Slavic rituals, including weddings and funerals, and serves as a symbol of cultural heritage.",
+  "sections": [
+    {
+      "heading": "Definition and Cultural Importance",
+      "paragraphs": [
+        "A rushnyk, also known as rushnik, is a decorative cloth used in various rituals and ceremonies within East Slavic cultures, particularly in [[ukraine|Ukraine]]. It is typically crafted from linen or cotton and showcases woven or embroidered designs that often contain symbols and cryptograms from ancient traditions. These cloths are integral to sacred rituals and events such as weddings and funerals, with each region in Ukraine presenting unique patterns and meanings that have been preserved through generations."
+      ]
+    },
+    {
+      "heading": "Symbolism and Spiritual Significance",
+      "paragraphs": [
+        "The rectangular shape of the rushnyk symbolizes the journey of life, while its ornamentation reflects the cultural ancestral memory of the region. Traditionally made from linen or hemp, the process of creating a rushnyk is imbued with spiritual significance, often linked to the ancient deity Mokosh, who is represented in the embroidery. The colors used in the thread carry sacred meanings, with red symbolizing life and being the predominant color in rushnyk designs. A rushnyk is presented to a newborn and accompanies an individual throughout their life, eventually being utilized in funeral services."
+      ]
+    },
+    {
+      "heading": "Types and Uses",
+      "paragraphs": [
+        "Rushnyks serve various functions, with the basic type known as the utyralnyk, or wiper, used as a towel. This simpler version may have minimal or no designs, while the nabozhnyk is a more elaborately decorated rushnyk adorned with embroidery and lace. Nabozhnyks, also referred to as nabraznyks or nakutnyks, are often used to embellish icons and corners in homes."
+      ]
+    },
+    {
+      "heading": "Wedding Traditions and Motifs",
+      "paragraphs": [
+        "In [[ukrainian|Ukrainian]] wedding customs, color plays a crucial symbolic role, particularly the color red, which represents life, fertility, and health. The majority of rushnyks are embroidered with red threads, and the term 'red' historically connoted beauty in Old Russian and Ruthenian. Common motifs include diamond shapes symbolizing agricultural prosperity and ducks representing life-giving water, with pairs of ducks symbolizing familial unity. During wedding ceremonies, the bride and groom stand on a rushnyk known as a pidnozhnyk, which the bride drags behind her, symbolizing the path to marriage."
+      ]
+    },
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "The term rushnyk derives from the word 'ruka,' meaning hand, with the suffix '-nyk' indicating a connection to the base word. Other related terms include nabozhnyk, which comes from 'Boh' (God), naobraznyk from 'obraz' (image), nakutnyk from 'kut' (corner), and pidnozhnyk from 'pid' (under) and 'nohy' (feet), reflecting their respective cultural and functional contexts."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Rushnyk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rushnyk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

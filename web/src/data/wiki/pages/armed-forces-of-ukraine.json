@@ -1,0 +1,87 @@
+{
+  "qid": "Q936105",
+  "slug": "armed-forces-of-ukraine",
+  "title": "Armed Forces of Ukraine",
+  "type": "armed forces",
+  "category": "politics",
+  "aliases": [
+    "AFU",
+    "Ukrainian Armed Forces",
+    "ZSU",
+    "military of Ukraine"
+  ],
+  "infobox": {
+    "label": "armed forces",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1991",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Armed Forces of Ukraine (AFU) serve as the military forces of Ukraine, comprising various branches including the Ground Forces, Air Force, Navy, and Special Operations Forces. With a total strength of 4.9 million, the AFU is recognized as one of the largest armed forces globally and plays a critical role in Ukraine's defense, particularly amid ongoing conflicts.",
+  "sections": [
+    {
+      "heading": "Composition and Size",
+      "paragraphs": [
+        "The Armed Forces of Ukraine (AFU; [[ukrainian|Ukrainian]]: Збройні сили України) encompass several branches, including the Ground Forces, Air Force, Navy, Air Assault Forces, Marine Corps, Special Operations Forces, Unmanned Systems Forces, and Territorial Defence Forces. The Ukrainian Navy also features its own Naval Aviation, while the National Guard acts as a paramilitary reserve component. With a total strength of 4.9 million personnel, the AFU ranks as the fifth largest armed force worldwide.",
+        "The AFU operates one of the largest and most diverse drone fleets globally and is undergoing a transition from Soviet-era military equipment to NATO-standard military gear. As of 2025, it was reported to have the eighth largest defense budget in the world."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The origins of the modern Ukrainian Armed Forces can be traced back to the early twentieth century, coinciding with the formation of the modern Ukrainian nation during the '[[ukrainian-war-of-independence|Ukrainian War of Independence]]' or the 'First Liberation Struggle.' This period marked the establishment of national military formations, including the Legion of Ukrainian [[sich-riflemen|Sich Riflemen]], which influenced subsequent paramilitary organizations in Galicia.",
+        "Following World War I, national units began to emerge within the disintegrating Russian Imperial Army, leading to the formation of the Army of the [[ukrainian-peoples-republic|Ukrainian People's Republic]]. However, the establishment of a cohesive national armed force was interrupted by external influences, including the German administration and later the Bolshevik regime."
+      ]
+    },
+    {
+      "heading": "Post-Soviet Development",
+      "paragraphs": [
+        "In 1992, following the dissolution of the Soviet Union, [[ukraine|Ukraine]] inherited military assets and personnel from the Soviet Armed Forces. This included a significant number of troops and equipment, with the Armed Forces of Ukraine comprising approximately 780,000 personnel, 6,500 battle tanks, and 1,500 combat aircraft at that time.",
+        "The establishment of the Ukrainian Ministry of Defence occurred shortly after the Declaration of Independence on 24 August 1991. The nationalization of Soviet military units on Ukrainian soil began on 22 October 1991, and the formal creation of the Armed Forces was legislated on 6 December 1991, which is now commemorated as Armed Forces Day."
+      ]
+    },
+    {
+      "heading": "Arms Control and Disarmament",
+      "paragraphs": [
+        "Following the Soviet Union's collapse, Ukraine possessed significant nuclear capabilities, including two divisions of the Strategic Rocket Forces. However, Ukraine voluntarily relinquished its nuclear arsenal in the early 1990s, becoming the first country in history to do so. This decision was formalized through the Strategic Arms Reduction Treaty (START I) signed in May 1992.",
+        "By 1996, Ukraine had successfully eliminated all military nuclear equipment and materials from its territory, transitioning to a non-nuclear weapon state as part of its commitments under the Nuclear Non-Proliferation Treaty."
+      ]
+    },
+    {
+      "heading": "Reforms and Challenges",
+      "paragraphs": [
+        "The initial military reforms in Ukraine commenced in December 1996, aimed at restructuring the Armed Forces. One significant change was the reduction of combat units from divisions to brigades, aligning them under newly established military districts: the Western, Southern, and Northern Operational Commands.",
+        "These reforms were primarily driven by financial constraints, reflecting the ongoing challenges faced by the Ukrainian military in terms of funding and modernization efforts."
+      ]
+    }
+  ],
+  "links_out": [
+    "sich-riflemen",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "ukrainian-war-of-independence"
+  ],
+  "sources": [
+    {
+      "title": "Armed Forces of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Armed_Forces_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,78 @@
+{
+  "qid": "Q262414",
+  "slug": "bandura",
+  "title": "bandura",
+  "type": "topic",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "topic",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The bandura is a traditional Ukrainian plucked-string folk instrument that merges characteristics of the zither and lute. It has evolved significantly over the centuries, becoming a symbol of Ukrainian cultural heritage and identity.",
+  "sections": [
+    {
+      "heading": "Definition and Structure",
+      "paragraphs": [
+        "The bandura ([[ukrainian|Ukrainian]]: бандура [bɐnˈdurɐ]) is a Ukrainian plucked-string folk instrument that incorporates elements of both the zither and the lute. Historically, it was referred to as a kobza until the 1940s. Early versions of the instrument, dating back to around 1700, featured 5 to 12 strings and bore a resemblance to lutes. By the 20th century, the string count increased to 31 in 1926, and modern concert instruments typically have between 56 and 68 strings as of 1954.",
+        "Musicians who play the bandura are known as bandurists. In the 19th and early 20th centuries, traditional players, often blind, were called kobzars."
+      ]
+    },
+    {
+      "heading": "Etymology and Historical Context",
+      "paragraphs": [
+        "The term 'bandura' is first documented in a Polish chronicle from 1441, which noted that Sigismund III, the king of Poland, employed a Ruthenian musician named Taraszko to play the bandura at court. The instrument's name is believed to have entered the Ukrainian language from Polish, potentially tracing back to Latin or Greek origins, specifically the terms pandora or pandura.",
+        "The evolution of the bandura is thought to have occurred through a hybridization of the gusli (an Eastern-European psaltery) and the kobza (an Eastern-European lute), with the latter sometimes considered a type of bandura."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "The use of lute-like instruments by [[ukrainians|Ukrainians]] dates back to 591, as recorded in Byzantine Greek chronicles. Iconographic evidence from the 11th century, such as frescoes in Saint Sophia's Cathedral in [[kyiv|Kyiv]], depicts these instruments, although their specific names from that time are unclear.",
+        "By the mid-18th century, the bandura transitioned from a lute-like instrument to a zither-like form, featuring approximately four to six stoppable strings along the neck and up to sixteen treble strings known as prystrunky. This adaptation was influenced by the development of a professional class of itinerant blind musicians called kobzars."
+      ]
+    },
+    {
+      "heading": "Cultural Significance and Repertoire",
+      "paragraphs": [
+        "The bandura's repertoire has traditionally been an oral tradition, encompassing folk songs, chants, psalms, and epics known as dumy. The instrument gained popularity in the courts of Eastern European nobility, with numerous Ukrainian bandurists documented in Russia and Poland. Notably, Empress Elisabeth of Russia had a significant relationship with her Ukrainian bandurist, Olexii Rozumovsky.",
+        "In 1908, the Mykola Lysenko Institute of Music and Drama in Kyiv began offering bandura classes, marking a pivotal moment in the formal education of bandura musicians."
+      ]
+    },
+    {
+      "heading": "Challenges and Resilience",
+      "paragraphs": [
+        "The bandura faced significant challenges during the late 19th and early 20th centuries, particularly due to the Ems Ukaz of 1876, which prohibited performances by kobzars and bandurists. This decree aimed to suppress [[music-of-ukraine|Ukrainian music]] and culture, leading to the persecution of many musicians.",
+        "Despite these restrictions, the early 20th century saw a revival of interest in the bandura, especially among young Ukrainians. The instrument underwent considerable changes, including the introduction of metal strings and chromatic tuning, which enhanced its versatility and sound quality."
+      ]
+    },
+    {
+      "heading": "Modern Developments",
+      "paragraphs": [
+        "By the mid-20th century, the bandura had evolved into a more sophisticated instrument, capable of a wider range of musical expression. The construction and playing techniques were refined, allowing for greater sonority and adaptability in performance contexts.",
+        "The bandura remains a vital part of Ukrainian cultural identity, symbolizing the resilience and creativity of the Ukrainian people throughout history."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "music-of-ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Bandura — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bandura",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

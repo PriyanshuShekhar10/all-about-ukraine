@@ -1,0 +1,86 @@
+---
+import Base from "@/layouts/Base.astro";
+
+const description =
+  "Terms and conditions governing use of this Ukraine encyclopedia website.";
+const updated = new Date().toLocaleDateString("en-US", {
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+});
+const contactEmail = "contact@ukraineporn.com";
+---
+
+<Base title="Terms & Conditions" description={description}>
+  <div class="doc mx-auto max-w-[820px] px-5 py-8 sm:py-10">
+    <nav aria-label="Breadcrumb" class="ui mb-4 text-sm text-mute">
+      <a href="/" class="hover:underline">Home</a>
+      <span aria-hidden="true"> › </span>
+      <span>Terms &amp; Conditions</span>
+    </nav>
+
+    <header class="border-b border-hairline pb-4">
+      <h1 class="text-3xl font-bold leading-tight text-ink sm:text-4xl">
+        Terms &amp; Conditions
+      </h1>
+      <p class="ui mt-2 text-sm text-mute">Last updated: {updated}</p>
+    </header>
+
+    <div class="mt-6 flex max-w-prose flex-col gap-4 text-body">
+      <p>
+        By accessing or using this website, you agree to these terms. If you do
+        not agree, please do not use the site.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">Use of content</h2>
+      <p>
+        Content is provided for educational, non-commercial use. You may read,
+        share, and quote entries with attribution and a link back. You may not
+        republish the corpus in bulk or use it for commercial purposes without
+        prior permission.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">No warranty</h2>
+      <p>
+        This is a summarized reference. Content is provided “as is” and “as
+        available,” without warranties of any kind, express or implied, including
+        accuracy, completeness, or fitness for a particular purpose. Nothing here
+        is legal, financial, medical, or other professional advice.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">External links</h2>
+      <p>
+        The site may link to third-party websites for convenience. We do not
+        control and are not responsible for their content, policies, or
+        availability.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">Limitation of liability</h2>
+      <p>
+        To the fullest extent permitted by law, we are not liable for any damages
+        arising from your use of, or inability to use, this website or its
+        content, including any errors or omissions.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">Intellectual property</h2>
+      <p>
+        Trademarks, names, and marks referenced in entries belong to their
+        respective owners and are used for identification and educational purposes
+        only.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">Changes</h2>
+      <p>
+        We may revise these terms at any time. Continued use of the site after
+        changes take effect constitutes acceptance of the revised terms.
+      </p>
+
+      <h2 class="mt-4 text-xl font-bold text-ink">Contact</h2>
+      <p>
+        Questions about these terms? Email
+        <a href={`mailto:${contactEmail}`} class="doclink">{contactEmail}</a> or
+        use the <a href="/contact" class="doclink">contact page</a>.
+      </p>
+    </div>
+  </div>
+</Base>

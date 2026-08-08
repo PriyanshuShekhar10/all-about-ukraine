@@ -1,0 +1,76 @@
+{
+  "qid": "Q658951",
+  "slug": "ukraineeuropean-union-relations",
+  "title": "Ukraine–European Union relations",
+  "type": "bilateral relation",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "bilateral relation",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, European Union",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Ukraine–European Union relations are defined by the Ukraine–European Union Association Agreement and the Deep and Comprehensive Free Trade Area (DCFTA), highlighting Ukraine's strategic partnership with the EU. The relationship has evolved significantly, culminating in Ukraine being granted candidate status for EU accession in June 2022.",
+  "sections": [
+    {
+      "heading": "Overview of Relations",
+      "paragraphs": [
+        "International relations between the European Union (EU) and [[ukraine|Ukraine]] are primarily structured through the Ukraine–European Union Association Agreement and the Deep and Comprehensive Free Trade Area (DCFTA). Ukraine is recognized as a priority partner within the Eastern Partnership and the European Neighbourhood Policy (ENP), leading to a progressively closer relationship that encompasses economic integration and enhanced political cooperation.",
+        "On 23 June 2022, the European Council granted Ukraine the status of a candidate for accession to the European Union."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Ukraine's aspiration to join the European Union began in 1993, when the government identified EU integration as a primary foreign policy goal. The Delegation of the European Commission to Ukraine was established in [[kyiv|Kyiv]] in September 1993, although progress was limited due to Ukraine's reliance on Russia as a major trade partner and energy supplier.",
+        "The political dialogue between the EU and Ukraine commenced in 1994 with the signing of the Partnership and Cooperation Agreement (PCA), which focused on economic and social issues, public administration reforms, and civil rights."
+      ]
+    },
+    {
+      "heading": "Key Developments",
+      "paragraphs": [
+        "The Association Agreement negotiations began in 2012 but were suspended on 21 November 2013 by President [[viktor-yanukovych|Viktor Yanukovych]], leading to the pro-EU [[euromaidan|Euromaidan]] movement and the subsequent 2013–[[revolution-of-dignity|2014 Ukrainian revolution]], which resulted in Yanukovych's removal.",
+        "The political portion of the Association Agreement was signed on 21 March 2014 by Prime Minister Arseniy Yatsenyuk, while the economic section followed on 27 June 2014 under President [[petro-poroshenko|Petro Poroshenko]]. Ukraine joined the DCFTA with the EU on 1 January 2016, and visa-free travel for [[ukrainian|Ukrainian]] citizens to the Schengen Area was implemented on 11 June 2017."
+      ]
+    },
+    {
+      "heading": "Constitutional Changes and EU Membership Application",
+      "paragraphs": [
+        "On 21 February 2019, amendments to the [[constitution-of-ukraine|Constitution of Ukraine]] were made to enshrine the strategic goal of EU and NATO membership. In response to the 2022 Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], [[volodymyr-zelenskyy|President Volodymyr Zelenskyy]] signed an EU membership application on 28 February 2022.",
+        "During this period, Prime Ministers from Poland, Slovenia, and the Czech Republic visited Kyiv to demonstrate solidarity and support for Ukraine."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "Ukraine shares borders with four EU member states—Hungary, Poland, Slovakia, and Romania—totaling approximately 2,235 kilometers (1,389 miles) with 33 border crossings. On 14 December 2023, the European Council agreed to initiate accession negotiations with Ukraine, which commenced on 25 June 2024, concurrently with negotiations for Moldova."
+      ]
+    }
+  ],
+  "links_out": [
+    "constitution-of-ukraine",
+    "euromaidan",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "petro-poroshenko",
+    "revolution-of-dignity",
+    "ukraine",
+    "ukrainian",
+    "viktor-yanukovych",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "Ukraine–European Union relations — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukraine–European_Union_relations",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

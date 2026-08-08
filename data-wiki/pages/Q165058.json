@@ -1,0 +1,89 @@
+{
+  "qid": "Q165058",
+  "slug": "holodomor",
+  "title": "Holodomor",
+  "type": "famine",
+  "category": "history",
+  "aliases": [
+    "Famine-Genocide in Ukraine",
+    "Great Famine",
+    "Terror-Famine",
+    "The Holodomor",
+    "The Ukrainian Genocide of 1932–33"
+  ],
+  "infobox": {
+    "label": "famine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Ukrainian Soviet Socialist Republic",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.0000, 32.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Holodomor, or Ukrainian famine, was a catastrophic man-made famine that occurred in Soviet Ukraine from 1932 to 1933, resulting in the deaths of millions of Ukrainians. This event is a significant part of Ukraine's history and has been recognized by various nations as a genocide against the Ukrainian people.",
+  "sections": [
+    {
+      "heading": "Background and Definition",
+      "paragraphs": [
+        "The term Holodomor translates from [[ukrainian|Ukrainian]] as 'death by hunger' or 'killing by starvation' and is derived from the words 'holod' meaning 'hunger' and 'mor' meaning 'plague'. The Holodomor is also referred to as the 'artificial famine' or 'terror-genocide'.",
+        "The Holodomor occurred within the broader context of the Soviet famine of 1930–1933, which impacted major grain-producing regions across the Soviet Union. [[ukraine|Ukraine]], being one of the largest grain-producing areas, faced disproportionately high grain quotas that contributed to the severity of the famine."
+      ]
+    },
+    {
+      "heading": "Historical Context and Impact",
+      "paragraphs": [
+        "The famine primarily affected the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] and the Moldavian Autonomous Soviet Socialist Republic during 1932 and 1933, with the highest number of casualties recorded in the spring of 1933. Demographic data indicates that the Ukrainian population grew by only 6.6% between 1926 and 1939, contrasting sharply with growth rates in Russia and Belarus.",
+        "Estimates of the death toll vary widely, with a 2003 joint statement to the United Nations by 25 countries estimating 7 to 10 million deaths, while more recent scholarship suggests a lower range of 3.5 to 5 million victims."
+      ]
+    },
+    {
+      "heading": "Causes of the Holodomor",
+      "paragraphs": [
+        "Scholars generally agree that the famine was man-made, although there is debate regarding the intentions behind it. Some historians argue that Joseph [[donetsk|Stalin]] engineered the famine to suppress a Ukrainian independence movement, while others view it as a consequence of agricultural collectivization and rapid industrialization.",
+        "A middle ground suggests that while the initial causes may have been unintentional, the famine was subsequently weaponized against [[ukrainians|Ukrainians]] as a punitive measure for their resistance to Soviet policies."
+      ]
+    },
+    {
+      "heading": "Recognition and Legacy",
+      "paragraphs": [
+        "Public discourse surrounding the Holodomor was suppressed in the Soviet Union until the glasnost reforms of the 1980s. Since 2006, Ukraine has officially recognized the Holodomor as a genocide, a stance supported by 33 other UN member states and the European Parliament.",
+        "In 2008, the Russian State Duma condemned the Soviet regime for neglecting the lives of its citizens in pursuit of economic and political objectives, acknowledging the catastrophic impact of the famine."
+      ]
+    },
+    {
+      "heading": "Etymology and Usage",
+      "paragraphs": [
+        "The term 'Holodomor' began to appear in print in the 1930s among [[ukrainian-diaspora|Ukrainian diaspora]] publications and was officially recognized in the Soviet Union in the late 1980s. It is now included in the modern Ukrainian language dictionary as a term describing an organized famine inflicted by a criminal regime.",
+        "The Holodomor has been compared to the Holocaust, with some scholars asserting that the term has been used by anti-communists to draw parallels. However, the lack of definitive documentation of Stalin's direct orders against Ukrainians remains a point of contention among historians."
+      ]
+    }
+  ],
+  "links_out": [
+    "donetsk",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-diaspora",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Holodomor — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Holodomor",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

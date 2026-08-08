@@ -1,0 +1,88 @@
+{
+  "qid": "Q923337",
+  "slug": "ukrainian-railways",
+  "title": "Ukrainian Railways",
+  "type": "railway company",
+  "category": "economy",
+  "aliases": [
+    "UZ",
+    "UkrZaliznytsya",
+    "Ukrzaliznytsia"
+  ],
+  "infobox": {
+    "label": "railway company",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1991",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Ukrainian Railways, officially known as Public JSC Ukrainian Railways or PAT 'Ukrzaliznytsia (UZ)', is a state-owned company responsible for managing railway infrastructure and transportation in Ukraine. It is a significant player in the global rail transport sector, ranking as the sixth largest passenger transporter and seventh largest freight transporter worldwide.",
+  "sections": [
+    {
+      "heading": "Overview and Structure",
+      "paragraphs": [
+        "Ukrainian Railways is a monopoly that oversees the majority of railroad transportation in [[ukraine|Ukraine]]. As of 2020, the company's railroad network spans a total length of 19,787 kilometres (12,295 mi), making it the 13th largest globally. The company emerged from a merger in 2015 between a state agency and a state-owned enterprise, becoming a public joint stock company owned by the state.",
+        "The State Administration of Railroad Transportation operates under the Ministry of Infrastructure, managing the railways through six territorial railway companies. The general director is appointed by the [[cabinet-of-ministers-of-ukraine|Cabinet of Ministers of Ukraine]], and the company employs over 191,700 individuals across the country."
+      ]
+    },
+    {
+      "heading": "Role During the Conflict",
+      "paragraphs": [
+        "During the 2022 Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], Ukrainian Railways played a crucial role in evacuating millions of people from conflict zones. While rail links to Russia were destroyed to hinder military use, the railways continued to operate within Ukraine and to neighboring countries such as Poland, Hungary, the Republic of Moldova, and Slovakia. The service successfully evacuated over two million individuals on special trains.",
+        "As Black Sea ports became unusable for grain exports, railways emerged as a vital export route to Europe. However, many rail sections in the North and South became unusable due to the ongoing conflict."
+      ]
+    },
+    {
+      "heading": "Financial Challenges",
+      "paragraphs": [
+        "As of 2026, Ukrainian Railways faces a severe financial crisis due to significant asset losses and military demands stemming from the ongoing conflict. In the first quarter of 2026, the company reported a loss of 7.9 billion hryvnias. It holds a Restricted Default (RD) rating from Fitch Ratings and a Selective Default (SD) from S&P Global Ratings due to halted debt payments.",
+        "By the end of 2025, freight traffic had decreased by 7.8 percent year-on-year, with revenue dropping by 19 percent. The workforce has also shrunk by 27 percent since 2022, with reports of casualties among railroad workers during the war."
+      ]
+    },
+    {
+      "heading": "Administrative and Operational Structure",
+      "paragraphs": [
+        "Ukrainian Railways is divided into six territorial companies: [[donetsk|Donetsk]], [[lviv|Lviv]], [[odesa|Odesa]], Southern, South-Western, and Cisdnieper. These divisions are administrative and do not correspond to specific railway lines. The names of these companies reflect historical ties to the Russian and Austro-Hungarian Empires.",
+        "In 2024, efforts began to rename railway stations in accordance with [[ukrainian|Ukrainian]] derussification and decommunization laws, reflecting a shift away from imperial nomenclature."
+      ]
+    },
+    {
+      "heading": "Rolling Stock and Infrastructure",
+      "paragraphs": [
+        "Ukrainian Railways operates several repair factories that produce locomotives and railcars, including the Kryukiv Railcar Engineering Factory. The company has engaged in various procurement initiatives, such as a 2010 agreement to purchase high-speed trains from Hyundai Rotem and a partnership with GE Transportation for a rolling stock renewal program.",
+        "As of 2020, Ukrainian Railways had a fleet consisting of 1,944 locomotives, 3,883 passenger cars, and 85,200 freight wagons, serving a crucial role in both passenger and cargo transportation."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "donetsk",
+    "full-scale-russo-ukrainian-war",
+    "lviv",
+    "odesa",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Railways — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Railways",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

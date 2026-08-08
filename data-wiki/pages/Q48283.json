@@ -1,0 +1,92 @@
+{
+  "qid": "Q48283",
+  "slug": "yulia-tymoshenko",
+  "title": "Yulia Tymoshenko",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Julia Tymoshenko",
+    "Yulia Volodymyrivna Tymoshenko",
+    "Yuliya Tymoshenko"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1960-11-27",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Dnipro",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "Deputy Prime Minister of Ukraine, People's Deputy of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Yulia Volodymyrivna Tymoshenko is a prominent Ukrainian politician who served as the first female [[prime-minister-of-ukraine|Prime Minister of Ukraine]], holding office in 2005 and again from 2007 to 2010. She is known for her leadership in the Batkivshchyna political party and her significant role in Ukraine's political landscape, including her involvement in the Orange Revolution and various presidential elections.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Yulia Tymoshenko was born on 27 November 1960 in [[dnipro|Dnipropetrovsk]], [[ukrainian-soviet-socialist-republic|Ukrainian SSR]], Soviet Union. Her mother, Lyudmila Telehina, was born on 11 August 1937 in Dnipropetrovsk, while her father, Volodymyr Hrihyan, was born on 3 December 1937 and identified as Latvian. He abandoned the family when Tymoshenko was very young, leading her to adopt her mother's surname.",
+        "Tymoshenko graduated from high school No. 75 in Dnipropetrovsk in 1977 and enrolled in the Automatization and Telemechanics Department of the Dnipropetrovsk Mining Institute in 1978. She later transferred to the Economics Department of Dnipropetrovsk State University, graduating in 1984 with first degree honors as an engineer-economist. In 1999, she earned a PhD in Economic Sciences from the [[kyiv|Kyiv]] National Economic University."
+      ]
+    },
+    {
+      "heading": "Commercial Career",
+      "paragraphs": [
+        "Before entering politics, Tymoshenko had a successful career as a businesswoman in the gas industry, becoming one of the wealthiest individuals in [[ukraine|Ukraine]]. She co-led the [[orange-revolution|Orange Revolution]], which was pivotal in shaping Ukraine's democratic movement.",
+        "Tymoshenko worked as an engineer-economist at the [[dnieper|Dnipro]] Machine-Building Plant until 1988. She then ventured into business, opening a video-rental cooperative and later founding the [[ukrainian|Ukrainian]] Petrol Corporation, which supplied fuel to the agricultural sector. In 1995, she became the president of United Energy Systems of Ukraine, a major importer of Russian natural gas, during which she was nicknamed the 'gas princess'."
+      ]
+    },
+    {
+      "heading": "Political Career",
+      "paragraphs": [
+        "Tymoshenko's political career began in 1996 when she was elected to the [[verkhovna-rada|Verkhovna Rada]], winning 92.3% of the vote. She became a significant figure in parliament and was appointed Chair of the Budget Committee. In 1999, she founded the All-Ukrainian Union 'Fatherland' party, which later became the Batkivshchyna party.",
+        "She served as Deputy Prime Minister for the fuel and energy sector from late 1999 until early 2001, where she implemented significant reforms that increased revenue collections from the electricity industry."
+      ]
+    },
+    {
+      "heading": "Challenges and Arrests",
+      "paragraphs": [
+        "Tymoshenko faced political persecution, including her arrest in February 2001 on charges of forging customs documents and smuggling gas. Her supporters organized protests demanding her release, and she claimed that her arrest was politically motivated by President [[leonid-kuchma|Leonid Kuchma]]'s administration.",
+        "In 2011, she was sentenced to seven years in prison on charges seen as politically motivated. After the [[revolution-of-dignity|Revolution of Dignity]], she was rehabilitated by the Supreme Court of Ukraine and the European Court of Human Rights, leading to her release in February 2014."
+      ]
+    },
+    {
+      "heading": "Recent Political Activity",
+      "paragraphs": [
+        "Tymoshenko ran for president in the 2010 and 2014 elections, finishing second both times. In the 2019 presidential election, she initially led in polls but finished third in the first round with 13.40% of the vote, failing to advance to the second round.",
+        "She was re-elected to the Verkhovna Rada in 2019 and continues to lead her party in opposition, advocating for Ukraine's integration into the European Union and NATO."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnieper",
+    "dnipro",
+    "kyiv",
+    "leonid-kuchma",
+    "orange-revolution",
+    "prime-minister-of-ukraine",
+    "revolution-of-dignity",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Yulia Tymoshenko — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yulia_Tymoshenko",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

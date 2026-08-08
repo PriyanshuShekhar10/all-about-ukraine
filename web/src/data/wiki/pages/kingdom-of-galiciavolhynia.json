@@ -1,0 +1,79 @@
+{
+  "qid": "Q239502",
+  "slug": "kingdom-of-galiciavolhynia",
+  "title": "Kingdom of Galicia–Volhynia",
+  "type": "kingdom",
+  "category": "history",
+  "aliases": [
+    "Kingdom of Ruthenia",
+    "Principality of Galicia-Volhynia"
+  ],
+  "infobox": {
+    "label": "kingdom",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1199",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Capital",
+        "value": "Halych, Chełm",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.9053, 24.9609",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Kingdom of Galicia–Volhynia, also referred to as the Kingdom of Ruthenia or Kingdom of Rus', was a significant medieval state in Eastern Europe that existed from 1199 to 1349, primarily within the territory of modern-day [[ukraine|Ukraine]]. It emerged from the fragmentation of [[kievan-rus|Kievan Rus]]' and played a crucial role in the region's political landscape during its existence.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The Kingdom of Galicia–Volhynia originated from the Principality of Volhynia, which may have formed as early as the late 10th century, with notable rulers such as Vsevolod, a son of Vladimir I of Kiev. The Principality of Galicia was established between 1124 and 1144 by Vladimirko Volodarovich, unifying the principalities of Zvenyhorod, Peremyshl, and Terebovlia."
+      ]
+    },
+    {
+      "heading": "Formation and Reign of Roman the Great",
+      "paragraphs": [
+        "The Kingdom was officially formed after the death of Vladimir II Yaroslavich in 1198 or 1199, when Roman the Great united Galicia and Volhynia. Roman's reign from 1199 to 1205 marked a period of consolidation and conflict, during which he became a powerful figure in the region, defeating rival princes and expanding his influence."
+      ]
+    },
+    {
+      "heading": "War of the Galician Succession",
+      "paragraphs": [
+        "Following Roman's death in 1205, Galicia–Volhynia entered a tumultuous period marked by the War of the Galician Succession, lasting nearly 40 years. The Galician boyars resisted the establishment of a hereditary dynasty, leading to a series of puppet rulers and foreign interventions, particularly from Poland and Hungary."
+      ]
+    },
+    {
+      "heading": "Reign of Daniel and the Kingdom's Golden Age",
+      "paragraphs": [
+        "Daniel of Galicia, who reigned from 1245 to 1264, successfully reunited Galicia and Volhynia and strengthened ties with the Mongol Golden Horde. He was crowned King of Ruthenia in 1253, marking a significant moment in the kingdom's history. Under his rule, the kingdom experienced a cultural and economic flourishing, with major cities like [[lviv|Lviv]] and Halych becoming important centers."
+      ]
+    },
+    {
+      "heading": "Decline and Legacy",
+      "paragraphs": [
+        "The kingdom began to decline after Daniel's death in 1264, especially under the reign of his son Leo I, who shifted alliances towards the Mongols. The Polish conquest in 1349 ultimately led to the kingdom's absorption into the Polish-Lithuanian state, but its historical significance remains vital to understanding the development of [[ukrainian|Ukrainian]] statehood and identity."
+      ]
+    }
+  ],
+  "links_out": [
+    "kievan-rus",
+    "lviv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Kingdom of Galicia–Volhynia — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Galicia–Volhynia",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

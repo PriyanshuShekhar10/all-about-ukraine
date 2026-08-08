@@ -1,0 +1,68 @@
+{
+  "qid": "Q1276062",
+  "slug": "ukrainian-literature",
+  "title": "Ukrainian literature",
+  "type": "sub-set of literature",
+  "category": "culture",
+  "aliases": [
+    "literature of Ukraine"
+  ],
+  "infobox": {
+    "label": "sub-set of literature",
+    "fields": []
+  },
+  "summary": "Ukrainian literature encompasses literary works written in the Ukrainian language and those created within the territory of Ukraine, reflecting the country's historical and cultural context. Its development has been shaped significantly by foreign dominations and the evolution of the Ukrainian language as a medium for literary expression.",
+  "sections": [
+    {
+      "heading": "Definition",
+      "paragraphs": [
+        "Ukrainian literature is typically defined as literary works produced in the [[ukrainian|Ukrainian language]], which gained prominence in the 19th century. Some scholars, including Dmytro Chyzhevsky and George Grabowicz, argue that a single literary tradition can encompass works in various languages, such as Old East Slavic, Polish, and Russian, which are integral to the Ukrainian literary heritage.",
+        "Modern Ukrainian literature can be classified into works by Ukrainian-speaking and Russian-speaking authors residing in [[ukraine|Ukraine]], as well as those written in Surzhyk or by foreign authors on Ukrainian themes."
+      ]
+    },
+    {
+      "heading": "History of Ukrainian Literary Studies",
+      "paragraphs": [
+        "The first systematic collection of Ukrainian literary works was compiled by Ivan Mohylnytsky in 1829, covering a range of texts from the Medieval to the Early modern period. Ivan Vahylevych's 1848 work and Yakiv Holovatsky's lectures in 1849 contributed to the narrative of Ukrainian literature's continuity.",
+        "The late 19th century saw significant contributions from scholars like Nikolai Petrov and [[ivan-franko|Ivan Franko]], who challenged the prevailing Russian imperial narrative regarding Ukrainian literature. The publication of influential works continued into the 20th century, with Serhiy Yefremov's History of Ukrainian Writing and [[mykhailo-hrushevskyi|Mykhailo Hrushevsky]]'s History of Ukrainian Literature marking important milestones."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "Ukrainian literature's roots can be traced back to writings in Old Church Slavonic and Latin by authors such as Hryhorii Skovoroda and Yuriy Drohobych. The emergence of oral literature, particularly through folk epics known as dumy, marked a significant cultural development in the late 16th and early 17th centuries.",
+        "The establishment of modern Ukrainian literature is often attributed to Ivan Kotliarevsky's poem Eneida, published in 1798, which is considered one of the first significant works in contemporary Ukrainian. The novel Marusya by Hryhorii Kvitka-Osnovianenko further established prose literature in the Ukrainian language."
+      ]
+    },
+    {
+      "heading": "Contemporary Literature",
+      "paragraphs": [
+        "Contemporary Ukrainian literature, emerging after the Perestroika and the independence of Ukraine in 1991, has seen a flourishing of diverse voices, including writers like Sofia Maidanska, Yuri Andrukhovych, and Serhiy Zhadan. This period is characterized by a postmodernist approach and a rich exploration of Ukrainian themes."
+      ]
+    },
+    {
+      "heading": "Events, Prizes, and Organizations",
+      "paragraphs": [
+        "Since the 2000s, literary events such as the Arsenal Book Festival in [[kyiv|Kyiv]] and Book Forum [[lviv|Lviv]] have gained prominence, showcasing Ukrainian literature alongside international works. The Shevchenko National Prize, the highest state award for culture and arts in Ukraine, alongside other literary prizes, recognizes significant contributions to Ukrainian literature.",
+        "The Union of Ukrainian Writers, established during the Soviet era, was succeeded by a new organization in 1997, reflecting the changing landscape of Ukrainian literary culture. PEN Ukraine was founded in 1998 to promote literature and freedom of expression."
+      ]
+    }
+  ],
+  "links_out": [
+    "ivan-franko",
+    "kyiv",
+    "lviv",
+    "mykhailo-hrushevskyi",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian literature — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_literature",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

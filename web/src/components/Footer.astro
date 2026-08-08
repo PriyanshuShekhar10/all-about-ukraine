@@ -1,0 +1,49 @@
+---
+import { getCategories, wikiCounts } from "@/lib/wiki";
+const categories = getCategories();
+const year = new Date().getFullYear();
+
+const siteLinks = [
+  { href: "/about", label: "About" },
+  { href: "/faq", label: "FAQ" },
+  { href: "/contact", label: "Contact" },
+  { href: "/privacy", label: "Privacy" },
+  { href: "/terms", label: "Terms" },
+];
+---
+
+<footer class="mt-12 border-t border-hairline bg-canvas">
+  <div class="mx-auto max-w-[820px] px-5 py-8">
+    <nav aria-label="Categories" class="ui text-sm">
+      {
+        categories.map((cat, i) => (
+          <>
+            {i > 0 && <span class="text-mute"> · </span>}
+            <a href={`/wiki/category/${cat.slug}`} class="doclink">
+              {cat.name}
+            </a>
+          </>
+        ))
+      }
+    </nav>
+
+    <nav aria-label="Site" class="ui mt-3 text-sm">
+      {
+        siteLinks.map((link, i) => (
+          <>
+            {i > 0 && <span class="text-mute"> · </span>}
+            <a href={link.href} class="doclink">
+              {link.label}
+            </a>
+          </>
+        ))
+      }
+    </nav>
+
+    <p class="ui mt-4 text-xs leading-relaxed text-mute">
+      No fantasies. Just centuries of Ukraine’s story, uncensored. {
+        wikiCounts.pages
+      } entries. Educational, non-commercial use. &copy; {year}.
+    </p>
+  </div>
+</footer>

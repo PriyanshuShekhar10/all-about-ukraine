@@ -1,0 +1,86 @@
+{
+  "qid": "Q111012552",
+  "slug": "snake-island-campaign",
+  "title": "Snake Island campaign",
+  "type": "battle",
+  "category": "war",
+  "aliases": [
+    "battle of Snake Island"
+  ],
+  "infobox": {
+    "label": "battle",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2022-02-24",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Snake Island",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "45.2550, 30.2042",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Snake Island campaign refers to the Russian military's attack and subsequent occupation of Snake Island, a strategically significant Ukrainian island in the Black Sea, beginning on 24 February 2022, the first day of the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]]. The campaign lasted for 126 days and involved notable Ukrainian resistance and counteroffensive actions.",
+  "sections": [
+    {
+      "heading": "Strategic Importance of Snake Island",
+      "paragraphs": [
+        "Snake Island is a rocky landmass measuring less than 1 square kilometer (0.4 sq mi) and is located off the southwestern coast of [[ukraine|Ukraine]], approximately 45 kilometers (28 mi) from Romania. Its strategic position allows control over significant maritime routes, including the ability to blockade [[odesa|Odesa]] and influence large areas of the Black Sea. The island also holds economic value due to potential hydrocarbon reserves within its exclusive economic zone."
+      ]
+    },
+    {
+      "heading": "Initial Attack and Capture",
+      "paragraphs": [
+        "On 24 February 2022, [[ukrainian|Ukrainian]] State Border Guards reported that Snake Island was under attack by the [[moskva|Russian cruiser Moskva]] and the patrol ship Vasily Bykov. The Russian forces demanded the surrender of the Ukrainian garrison, to which a soldier, later identified as Roman Hrybov, famously replied, 'Russian warship, go fuck yourself.' Following a naval and air bombardment that destroyed the island's infrastructure, Russian troops captured Snake Island later that evening."
+      ]
+    },
+    {
+      "heading": "Status of Ukrainian Forces",
+      "paragraphs": [
+        "Initial reports from Ukrainian officials indicated that all 13 border guards stationed on the island had been killed after refusing to surrender. [[president-of-ukraine|Ukrainian President]] [[volodymyr-zelenskyy|Volodymyr Zelenskyy]] announced that these guards would be posthumously honored as Heroes of Ukraine. However, Russian sources claimed that 82 Ukrainian soldiers had surrendered and were taken as prisoners. Subsequent Ukrainian statements suggested that the guards might still be alive, and by 28 February 2022, the Ukrainian Navy confirmed that all border guards were in Russian custody."
+      ]
+    },
+    {
+      "heading": "Ukrainian Counteroffensive",
+      "paragraphs": [
+        "Following the capture of Snake Island, Ukraine launched a series of counteroffensive operations. On 14 April 2022, Ukraine claimed to have sunk the Moskva, disrupting Russian naval operations. Throughout April and May, Ukrainian forces conducted multiple strikes against Russian positions on the island, utilizing drones and missiles to target Russian equipment and personnel. By 30 June 2022, Russian forces withdrew from Snake Island, which Ukraine celebrated as a significant victory."
+      ]
+    },
+    {
+      "heading": "Aftermath and Ongoing Developments",
+      "paragraphs": [
+        "In the aftermath of the campaign, Ukraine continued to conduct operations aimed at disrupting Russian logistics and military presence in the area. Reports indicated ongoing engagements between Ukrainian forces and Russian troops, including drone strikes and missile attacks. The status of Snake Island remained a critical point of contention, with both sides recognizing its strategic military importance."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "moskva",
+    "odesa",
+    "president-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "Snake Island campaign — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Snake_Island_campaign",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

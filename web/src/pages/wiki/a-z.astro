@@ -1,0 +1,98 @@
+---
+import Base from "@/layouts/Base.astro";
+import { wikiIndex, categoryName, displayTitle } from "@/lib/wiki";
+
+const sorted = [...wikiIndex].sort((a, b) =>
+  a.title.localeCompare(b.title, "en", { sensitivity: "base" }),
+);
+
+const homeUrl = new URL("/", Astro.site).href;
+const azUrl = new URL("/wiki/a-z", Astro.site).href;
+const jsonLd = [
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: "A–Z Index",
+    description: "Every entry in the Ukraine encyclopedia, listed alphabetically.",
+    url: azUrl,
+    inLanguage: "en",
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: homeUrl },
+      { "@type": "ListItem", position: 2, name: "A–Z index", item: azUrl },
+    ],
+  },
+];
+
+const groups = new Map<string, typeof sorted>();
+for (const e of sorted) {
+  const first = e.title.trim().charAt(0).toUpperCase();
+  const key = /[A-Z]/.test(first) ? first : "#";
+  const list = groups.get(key) ?? [];
+  list.push(e);
+  groups.set(key, list);
+}
+const letters = [...groups.keys()];
+---
+
+<Base
+  title="A–Z Index"
+  description="Every entry in the Ukraine encyclopedia, listed alphabetically."
+  jsonLd={jsonLd}
+>
+  <div class="doc mx-auto max-w-[820px] px-5 py-8 sm:py-10">
+    <nav aria-label="Breadcrumb" class="ui mb-4 text-sm text-mute">
+      <a href="/" class="hover:underline">Home</a>
+      <span aria-hidden="true"> › </span>
+      <span>A–Z index</span>
+    </nav>
+
+    <header class="border-b border-hairline pb-4">
+      <h1 class="text-3xl font-bold leading-tight text-ink sm:text-4xl">
+        A–Z index
+      </h1>
+      <p class="mt-2 text-body">All {sorted.length} entries, alphabetically.</p>
+    </header>
+
+    <nav aria-label="Jump to letter" class="ui mt-5 text-sm">
+      {
+        letters.map((l, i) => (
+          <>
+            {i > 0 && <span class="text-mute"> · </span>}
+            <a href={`#letter-${l}`} class="doclink font-semibold">
+              {l}
+            </a>
+          </>
+        ))
+      }
+    </nav>
+
+    <div class="mt-8 flex flex-col gap-8">
+      {
+        letters.map((l) => (
+          <section id={`letter-${l}`} class="scroll-mt-16">
+            <h2 class="border-b border-hairline pb-1 text-xl font-bold text-ink">
+              {l}
+            </h2>
+            <ul class="mt-2 columns-1 gap-8 text-[15px] sm:columns-2 [column-fill:balance]">
+              {groups.get(l)!.map((e) => (
+                <li class="mb-1 break-inside-avoid">
+                  <a href={`/wiki/${e.slug}`} class="doclink">
+                    {displayTitle(e.title)}
+                  </a>
+                  <span class="ui text-xs text-mute">
+                    {" "}
+                    ({categoryName(e.category)})
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </section>
+        ))
+      }
+    </div>
+  </div>
+</Base>

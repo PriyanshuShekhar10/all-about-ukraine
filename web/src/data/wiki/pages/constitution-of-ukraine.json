@@ -1,0 +1,82 @@
+{
+  "qid": "Q1549039",
+  "slug": "constitution-of-ukraine",
+  "title": "Constitution of Ukraine",
+  "type": "constitution",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "constitution",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1996-06-28",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Constitution of Ukraine, adopted on 28 June 1996, serves as the fundamental law of Ukraine, establishing the framework for the country's governance and legal system. It is significant for its role in defining the rights of citizens and the structure of the [[cabinet-of-ministers-of-ukraine|Ukrainian government]].",
+  "sections": [
+    {
+      "heading": "Adoption and Ratification",
+      "paragraphs": [
+        "The Constitution of Ukraine was adopted and ratified during the 5th session of the [[verkhovna-rada|Verkhovna Rada]], the parliament of Ukraine, on 28 June 1996. It was approved with 315 votes in favor out of a possible 450, surpassing the minimum requirement of 300 votes. This constitution is the supreme law of [[ukraine|Ukraine]], and all other laws must align with it.",
+        "The authority to amend the constitution is exclusively held by the parliament, while the [[constitutional-court-of-ukraine|Constitutional Court of Ukraine]] is the sole body authorized to interpret the constitution and assess the conformity of legislation with it. Constitution Day is celebrated annually on 28 June."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Prior to the current constitution, Ukraine was governed by the Constitution of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]], adopted in 1978, until 8 June 1995. During this transitional period, President [[leonid-kuchma|Leonid Kuchma]] and Speaker Oleksandr Moroz signed a Constitutional Agreement to guide governance until a new constitution could be established.",
+        "In 1994, Kuchma revived the Constitutional Commission to draft a new constitution, proposing a stopgap measure known as the Law on State Power. However, this proposal faced challenges, leading to a provisional constitutional agreement that was criticized for its lack of clarity regarding legislative and executive relations."
+      ]
+    },
+    {
+      "heading": "Structure of the Constitution",
+      "paragraphs": [
+        "The Constitution of Ukraine is organized into 15 chapters, covering various aspects of governance, including general principles, human rights, electoral processes, the roles of the Verkhovna Rada and the President, and provisions for local self-government and the Constitutional Court.",
+        "Chapters include: General Principles, Human and Citizens' Rights, Elections and Referendums, Verkhovna Rada of Ukraine, [[president-of-ukraine|President of Ukraine]], Cabinet of Ministers, Prokuratura, Justice, Territorial Structure, Autonomous Republic of [[crimea|Crimea]], Local Self-Government, Constitutional Court, Introducing Amendments, Final Provisions, and Transitional Provisions."
+      ]
+    },
+    {
+      "heading": "Amendments and Revisions",
+      "paragraphs": [
+        "Amendments to the constitution require the approval of at least two-thirds of the Verkhovna Rada. Specific chapters, including General Principles and Elections, necessitate both parliamentary approval and a national referendum.",
+        "Significant amendments occurred in 2004, which altered the political structure, reducing presidential powers, but these were later overturned in 2010. Following the [[euromaidan|Euromaidan]] protests, the 2004 amendments were reinstated in 2014. In February 2019, the constitution was further amended to affirm Ukraine's aspirations to join the European Union and NATO."
+      ]
+    },
+    {
+      "heading": "Significance and Legacy",
+      "paragraphs": [
+        "The Constitution of Ukraine is a pivotal document in the nation's legal and political framework, representing a commitment to democratic governance and the rule of law. It is noted for being the last constitution adopted among post-Soviet states.",
+        "On Constitution Day in 2018, President [[petro-poroshenko|Petro Poroshenko]] highlighted the historical significance of the 1710 Constitution of Pylyp Orlyk as a precursor to the current constitution, emphasizing Ukraine's long-standing pursuit of sovereignty and governance."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "constitutional-court-of-ukraine",
+    "crimea",
+    "euromaidan",
+    "leonid-kuchma",
+    "petro-poroshenko",
+    "president-of-ukraine",
+    "ukraine",
+    "ukrainian-soviet-socialist-republic",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Constitution of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Constitution_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

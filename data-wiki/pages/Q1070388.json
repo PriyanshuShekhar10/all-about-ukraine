@@ -1,0 +1,99 @@
+{
+  "qid": "Q1070388",
+  "slug": "national-bank-of-ukraine",
+  "title": "National Bank of Ukraine",
+  "type": "central bank",
+  "category": "economy",
+  "aliases": [
+    "NBU"
+  ],
+  "infobox": {
+    "label": "central bank",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1991",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "National Bank of Ukraine",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4473, 30.5310",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The National Bank of Ukraine (NBU) serves as the central bank of Ukraine, established in 1991 from the Soviet Gosbank's Ukrainian operations. It plays a crucial role in regulating the country's financial system and ensuring the stability of the national currency, the Hryvnia.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The National Bank of Ukraine has its origins in the State Bank of [[ukraine|Ukraine]], which was established on 22 December 1917 by the Central [[verkhovna-rada|Rada]] of the [[ukrainian-peoples-republic|Ukrainian People's Republic]]. This institution operated until its dissolution by the Bolsheviks following the [[ukrainian-war-of-independence|Ukrainian War of Independence]].",
+        "In early 1991, the [[ukrainian|Ukrainian]] branch of the Soviet Gosbank began to assume central banking responsibilities in Ukraine. The institution faced significant financial challenges during the 1990s, including hyperinflation. On 20 March 1991, the Verkhovna Rada adopted a resolution that declared the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]'s ownership of the Ukrainian Republican branch of the Gosbank, which was renamed the National Bank. This resolution also nationalized several other banking entities."
+      ]
+    },
+    {
+      "heading": "Legal Status and Structure",
+      "paragraphs": [
+        "The legal framework governing the National Bank of Ukraine is defined by the [[constitution-of-ukraine|Constitution of Ukraine]] and the Law of Ukraine 'On the National Bank of Ukraine'. The NBU operates as a legal entity with its own property, which is classified as state property.",
+        "The authorized capital of the National Bank is UAH 100 million, which is entirely state-owned. According to Article 99 of the Constitution, the primary function of the NBU is to maintain the stability of the [[hryvnia|Hryvnia]], the national currency, while also ensuring the stability of the banking system and price stability."
+      ]
+    },
+    {
+      "heading": "Functions",
+      "paragraphs": [
+        "The National Bank of Ukraine's main responsibilities include ensuring the stability of the national currency, developing and implementing effective credit and monetary policies, and regulating the activities of commercial banks and financial institutions.",
+        "The NBU is accountable to the Verkhovna Rada, the [[president-of-ukraine|President of Ukraine]], and the Cabinet of Ministers for its operations. It has the authority to introduce legislation to the Verkhovna Rada, with its resolutions becoming enforceable upon publication."
+      ]
+    },
+    {
+      "heading": "Banking Supervision",
+      "paragraphs": [
+        "As part of its central banking role, the National Bank oversees banking regulation and supervision in Ukraine. All registered banks are members of the Deposit Guarantee Fund, which provides deposit insurance up to 200,000 UAH (approximately USD $5,000) per individual and bank in cases of insolvency.",
+        "The NBU categorizes banks into four groups based on their size to determine the intensity of supervision. Since 2016, the Bank's policies have mandated the publication of the ownership structures of banks to combat money laundering and tax evasion."
+      ]
+    },
+    {
+      "heading": "Governance",
+      "paragraphs": [
+        "The Governor of the National Bank of Ukraine is appointed and dismissed by the Verkhovna Rada, following a nomination by the President of Ukraine. The Governor's role is supported by the Council of the National Bank, which consists of 15 members, including the Governor ex officio."
+      ]
+    },
+    {
+      "heading": "Commemorative Coins",
+      "paragraphs": [
+        "The National Bank of Ukraine also produces a variety of commemorative and bullion coins and numismatic products, with two-thirds of these being sold through NBU branches and one-third through state banks such as [[oschadbank|Oschadbank]] and Ukrgasbank."
+      ]
+    }
+  ],
+  "links_out": [
+    "constitution-of-ukraine",
+    "hryvnia",
+    "oschadbank",
+    "president-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainian-war-of-independence",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "National Bank of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_Bank_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

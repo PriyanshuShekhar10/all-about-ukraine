@@ -1,0 +1,88 @@
+{
+  "qid": "Q1459699",
+  "slug": "viktor-yushchenko",
+  "title": "Viktor Yushchenko",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Viktor Andriiovych Yushchenko"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1954-02-23",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Choruživka",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "President of Ukraine, Prime Minister of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Viktor Andriiovych Yushchenko is a prominent Ukrainian politician who served as the third president of Ukraine from 23 January 2005 to 25 February 2010, known for his pro-Western orientation and leadership during pivotal moments in Ukraine's political history.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Viktor Yushchenko was born on 23 February 1954 in Khoruzhivka, [[sumy|Sumy]] Oblast, [[ukrainian-soviet-socialist-republic|Ukrainian SSR]], Soviet Union, into a family of educators. His father, Andriy Andriyovych Yushchenko (1919–1992), was a Second World War veteran who endured imprisonment in German concentration camps, including Auschwitz-Birkenau. His mother, Varvara Tymofiyivna Yushchenko (1918–2005), taught physics and mathematics. Growing up in a predominantly [[ukrainian|Ukrainian]]-speaking region, Yushchenko's linguistic background set him apart from many of his political contemporaries, who were native Russian speakers.",
+        "Yushchenko graduated from the [[ternopil|Ternopil]] Finance and Economics Institute in 1975 and began his career as an accountant before serving in the Soviet military from 1975 to 1976."
+      ]
+    },
+    {
+      "heading": "Central Banking Career",
+      "paragraphs": [
+        "Yushchenko commenced his banking career in 1976 and became the Deputy Director for Agricultural Credit at the Ukrainian Republican Office of the Soviet Union State Bank in 1983. He served as vice-chairman and first vice-chairman of the JSC Agroindustrial Bank [[ukraine|Ukraina]] from 1990 to 1993. In 1993, he was appointed Governor of the [[national-bank-of-ukraine|National Bank of Ukraine]], where he played a crucial role in establishing the national currency, the [[hryvnia|hryvnia]], and managing hyperinflation, reducing it from over 10,000 percent to below 10 percent."
+      ]
+    },
+    {
+      "heading": "Political Ascendancy",
+      "paragraphs": [
+        "In December 1999, President [[leonid-kuchma|Leonid Kuchma]] appointed Yushchenko as prime minister, a position he held until a no-confidence vote led to his dismissal in April 2001. Following his removal, he became the leader of the Our Ukraine political coalition, which gained significant traction in the 2002 parliamentary elections. Yushchenko was a key figure in the opposition against Kuchma and later ran for president in 2004, facing Prime Minister [[viktor-yanukovych|Viktor Yanukovych]].",
+        "His campaign was marked by an assassination attempt involving dioxin poisoning, which resulted in severe health issues but ultimately increased his public support."
+      ]
+    },
+    {
+      "heading": "Presidency",
+      "paragraphs": [
+        "Yushchenko was inaugurated as [[president-of-ukraine|President of Ukraine]] on 23 January 2005. His presidency was characterized by a pro-Western agenda, aiming to align Ukraine more closely with the European Union and NATO. However, his time in office saw a decline in popularity due to political infighting and legislative challenges, culminating in his loss during the 2010 presidential election.",
+        "Despite initial high approval ratings, Yushchenko's popularity significantly waned, and he finished fifth in the 2010 election with only 5.5% of the vote."
+      ]
+    },
+    {
+      "heading": "Legacy and Impact",
+      "paragraphs": [
+        "Yushchenko's presidency is often associated with the [[orange-revolution|Orange Revolution]], a pivotal moment in Ukraine's history that underscored the nation's struggle for democratic governance and transparency. His leadership during this period has had lasting implications for Ukraine's political landscape and its relationships with Western nations."
+      ]
+    }
+  ],
+  "links_out": [
+    "hryvnia",
+    "leonid-kuchma",
+    "national-bank-of-ukraine",
+    "orange-revolution",
+    "president-of-ukraine",
+    "sumy",
+    "ternopil",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "viktor-yanukovych"
+  ],
+  "sources": [
+    {
+      "title": "Viktor Yushchenko — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Viktor_Yushchenko",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

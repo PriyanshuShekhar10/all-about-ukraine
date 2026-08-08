@@ -1,0 +1,81 @@
+{
+  "qid": "Q2714836",
+  "slug": "constitutional-court-of-ukraine",
+  "title": "Constitutional Court of Ukraine",
+  "type": "constitutional court",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "constitutional court",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1996",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4342, 30.5142",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Constitutional Court of Ukraine is the highest judicial authority responsible for interpreting the [[constitution-of-ukraine|Constitution of Ukraine]] and ensuring the constitutionality of laws and legal acts. Established on 18 October 1996, the Court plays a crucial role in the Ukrainian legal system, with its decisions being binding and final.",
+  "sections": [
+    {
+      "heading": "Mission and Authority",
+      "paragraphs": [
+        "The Constitutional Court of Ukraine interprets the Constitution and assesses the constitutionality of laws and legal acts. Its authority is derived from Chapter XII of [[ukraine|Ukraine]]'s Constitution. Following significant reforms in 2016, individuals and companies can now file complaints if they believe a final court judgment contradicts the Constitution, expanding access beyond just the President and members of parliament.",
+        "The Court is tasked with evaluating the constitutionality of laws and acts from various governmental bodies, interpreting the Constitution and laws, and providing opinions on the compliance of international treaties and impeachment procedures."
+      ]
+    },
+    {
+      "heading": "Structure",
+      "paragraphs": [
+        "The Constitutional Court consists of 18 judges, appointed equally by the President, the parliament, and the Congress of Judges. Judges must be [[ukrainian|Ukrainian]] citizens, at least 40 years old, possess a higher legal education with a minimum of 10 years of professional experience, have resided in Ukraine for the last 20 years, and be proficient in the Ukrainian language.",
+        "Judges serve a term of 9 years without the possibility of reappointment and must retire at the age of 65. The process of appointing judges can be complicated by political dynamics within the parliament."
+      ]
+    },
+    {
+      "heading": "Controversies",
+      "paragraphs": [
+        "The Court has been involved in several significant controversies throughout its history. Notably, on 29 December 1999, it ruled that capital punishment was unconstitutional, effectively abolishing it in Ukraine. In the 2000s, there were reports of attempts to influence judges through bribery.",
+        "The Court's decisions have sometimes led to political turmoil, such as during the 2007 political crisis when President Yushchenko dismissed judges, which was later overturned by the Court. Additionally, the Court's ruling on 27 October 2020, which repealed anti-corruption measures, sparked a constitutional crisis in Ukraine."
+      ]
+    },
+    {
+      "heading": "Reforms",
+      "paragraphs": [
+        "On 17 August 2023, [[volodymyr-zelenskyy|President Volodymyr Zelenskyy]] signed a law aimed at reforming the selection process for judges of the Constitutional Court. This law, adopted by the [[verkhovna-rada|Verkhovna Rada]], mandates the involvement of international experts in the selection process, a requirement set by the European Commission for Ukraine's EU accession negotiations."
+      ]
+    },
+    {
+      "heading": "Membership",
+      "paragraphs": [
+        "The Constitutional Court is composed of judges appointed from various quotas, including the President's, the parliament's, and the Congress of judges. Notable judges include Volodymyr Kampo, Dmytro Lylak, and Viktor Shyshkin, among others, who have served since 2006.",
+        "The Court has had multiple chairpersons since its establishment, with the current chairperson being Oleksandr Petryshyn, serving from 2025."
+      ]
+    }
+  ],
+  "links_out": [
+    "constitution-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "Constitutional Court of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Constitutional_Court_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

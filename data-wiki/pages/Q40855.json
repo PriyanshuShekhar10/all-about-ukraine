@@ -1,0 +1,75 @@
+{
+  "qid": "Q40855",
+  "slug": "dnieper",
+  "title": "Dnieper",
+  "type": "river",
+  "category": "geography",
+  "aliases": [
+    "Dnepr",
+    "Dnieper River",
+    "Dnipro",
+    "Dnipro River"
+  ],
+  "infobox": {
+    "label": "river",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Russia, Belarus",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "55.8721, 33.7239",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Dnieper, also known as the Dnipro, is a significant transboundary river in Europe, originating in Russia and flowing through Belarus and Ukraine to the Black Sea. It is the longest river in Ukraine and plays a crucial role in the country's economy and cultural identity.",
+  "sections": [
+    {
+      "heading": "Geographical Overview",
+      "paragraphs": [
+        "The Dnieper River, approximately 2,200 km (1,400 mi) long, has a drainage basin covering 504,000 square kilometres (195,000 mi2). It is the longest river in [[ukraine|Ukraine]], flowing 1,095 km (680 mi) within its borders, and serves as a natural border between Belarus and Ukraine for 115 km (71 mi). The river's source is located in the Valdai Hills of Russia, at an elevation of 220 m (720 ft)."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "In antiquity, the Dnieper was part of the Amber Road trade routes. During the late 17th century, the river's area was contested between the Polish–Lithuanian Commonwealth and the Russian Empire, leading to the division of present-day Ukraine into regions identified by their right and left banks. The river has also been significant during the Soviet period, noted for its hydroelectric dams and reservoirs."
+      ]
+    },
+    {
+      "heading": "Economic Importance",
+      "paragraphs": [
+        "The Dnieper is a vital navigable waterway for Ukraine's economy, connecting to other European waterways via the Dnieper–Bug Canal. Almost 2,000 km (1,200 mi) of the river is navigable, with 90% of river transport in Ukraine occurring on it. The river's reservoirs support large ship locks, facilitating access for vessels up to 270 by 18 metres (886 ft × 59 ft) as far as [[kyiv|Kyiv]]."
+      ]
+    },
+    {
+      "heading": "Ecological Challenges",
+      "paragraphs": [
+        "The Dnieper faces significant ecological challenges due to anthropogenic influences, including pollution from industrial emissions and radioactive waste from nearby facilities, such as the Prydniprovsky Chemical Plant and the Chernobyl Nuclear Power Station. These factors have raised concerns about the river's health and the safety of its water resources."
+      ]
+    },
+    {
+      "heading": "Cultural Relevance",
+      "paragraphs": [
+        "The Dnieper is a national symbol of Ukraine, prominently featured in the country's national anthem. It has inspired numerous works of literature, music, and visual arts throughout history, reflecting its deep connection to [[ukrainian|Ukrainian]] identity. The river is also associated with various historical and cultural narratives, including references in the epic The Tale of Igor's Campaign."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Dnieper — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dnieper",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,65 @@
+{
+  "qid": "Q4390519",
+  "slug": "executed-renaissance",
+  "title": "Executed Renaissance",
+  "type": "term",
+  "category": "history",
+  "aliases": [
+    "Rozstriliane vidrodzhennia"
+  ],
+  "infobox": {
+    "label": "term",
+    "fields": []
+  },
+  "summary": "The Executed Renaissance refers to a generation of Ukrainian artists and intellectuals active during the 1920s and early 1930s in the Ukrainian Soviet Socialist Republic, whose cultural contributions were largely suppressed during [[donetsk|Stalin]]'s Great Terror. This period was marked by significant advancements in various artistic fields, ultimately leading to the tragic loss of many of its key figures.",
+  "sections": [
+    {
+      "heading": "Cultural Flourishing in Ukraine",
+      "paragraphs": [
+        "The 1920s represented a time of cultural growth in [[ukrainian-soviet-socialist-republic|Soviet Ukraine]], following the collapse of the Russian Empire and the end of imperial censorship. This era was characterized by the early Soviet policy of nativization, which encouraged the promotion of [[ukrainian|Ukrainian language]] and culture as a means to gain local loyalty and legitimize Soviet rule.",
+        "During this time, the Ukrainian Soviet government implemented numerous decrees to transition state institutions to the Ukrainian language, resulting in a significant increase in higher education institutions using Ukrainian, from 28.5% in 1926 to 69% by 1929."
+      ]
+    },
+    {
+      "heading": "Political Repression",
+      "paragraphs": [
+        "Despite the initial cultural leniency, tensions arose between the Ukrainian intelligentsia and the Soviet central government, particularly regarding loyalty to either the Ukrainian national movement or the Soviet regime. This tension escalated with the 1930 show trial of the Union for the Liberation of [[ukraine|Ukraine]], leading to the arrest, deportation, or execution of thousands of Ukrainian intellectuals during the Great Purge of 1937-38."
+      ]
+    },
+    {
+      "heading": "Origin of the Term",
+      "paragraphs": [
+        "The term 'Executed Renaissance' was introduced in 1959 by Jerzy Giedroyc, a Polish émigré publisher, who suggested it to Ukrainian literary critic Yuriy Lavrinenko for an anthology of [[ukrainian-literature|Ukrainian literature]] from 1917 to 1933. The anthology, published by Kultura in Paris, remains a key resource for understanding this period in Ukrainian literature."
+      ]
+    },
+    {
+      "heading": "Literary Movements and Organizations",
+      "paragraphs": [
+        "Various literary organizations emerged during this time, such as Hart, VAPLITE, and MARS, each advocating for unique approaches to Ukrainian literature. Writers like Mykola Khvylovy emphasized a shift towards West European cultural influences while rejecting the dominance of Russian literature.",
+        "The literary discussion initiated by Khvylovy between 1925 and 1928 highlighted the evolving role of writers in society and the need for a distinctly Ukrainian literary identity."
+      ]
+    },
+    {
+      "heading": "Legacy and Impact",
+      "paragraphs": [
+        "The Executed Renaissance encapsulates the martyrdom of Ukrainian poets and their enduring influence on Ukrainian culture. This movement not only contributed to the struggle for national identity but also laid the groundwork for future generations of Ukrainian intellectuals seeking independence and cultural revival."
+      ]
+    }
+  ],
+  "links_out": [
+    "donetsk",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-literature",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Executed Renaissance — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Executed_Renaissance",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

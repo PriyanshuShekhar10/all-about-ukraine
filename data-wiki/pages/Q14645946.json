@@ -1,0 +1,70 @@
+{
+  "qid": "Q14645946",
+  "slug": "sich-riflemen",
+  "title": "Sich Riflemen",
+  "type": "military unit",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "military unit",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1917",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "West Ukrainian People's Republic",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Sich Riflemen Halych-Bukovyna Kurin was a significant military unit of the [[ukrainians|Ukrainian People]]'s Army, active from 1917 to 1919. Composed of Ukrainian soldiers from the Austro-Hungarian army and local volunteers, the unit played a crucial role in Ukraine's struggle for independence during the tumultuous period following World War I.",
+  "sections": [
+    {
+      "heading": "Formation and Early Operations",
+      "paragraphs": [
+        "The Sich Riflemen Halych-Bukovyna Kurin was established on 13 November 1917 in [[kyiv|Kyiv]], under the command of Colonel Yevhen Konovalets and Chief of Staff Andriy Melnyk. At its peak, the unit comprised up to 25,000 personnel, including various military branches such as artillery, cavalry, reconnaissance, and machine-gun units.",
+        "The unit defended the [[ukrainian|Ukrainian]] National Republic (UNR) against Bolshevik insurrections in Kyiv and subsequently against the advancing Red Army in 1918. Following the recapture of Kyiv in March 1918, the Sich Riflemen were tasked with guarding government buildings and maintaining order in the city."
+      ]
+    },
+    {
+      "heading": "Expansion and Revolt",
+      "paragraphs": [
+        "The Sich Riflemen expanded to include two infantry detachments, a cavalry unit, and an artillery battery. However, they refused to serve under the Hetmanate of Pavlo Skoropadsky and were disarmed by German forces supporting the [[hetman|hetman]].",
+        "In August 1918, a partial re-establishment of the Sich Riflemen occurred in Bila Tserkva, where the unit grew to 1,200 men, organized into an infantry regiment, an artillery battery, and a technical unit. By November 1918, their ranks had increased to 11,000 as they led a revolt against Skoropadsky, later swelling to 25,000 with new recruits."
+      ]
+    },
+    {
+      "heading": "Military Engagements and Demobilization",
+      "paragraphs": [
+        "The Sich Riflemen played a vital role in the establishment of the Directorate under Symon Petliura and captured Kyiv in December 1918. Subsequently, they were divided into smaller units and engaged in battles against Bolshevik forces and General Denikin's White Russian forces.",
+        "The unit faced heavy losses due to combat and typhus, leading to their demobilization on 6 December 1919. Some former soldiers were interned by the Polish army, while others continued to fight in smaller detachments across [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Cultural and Ideological Principles",
+      "paragraphs": [
+        "The Sich Riflemen were guided by principles of Ukrainian independence, sovereignty, and national unity. They prioritized national interests over socialist ideologies, emphasizing a centralized military structure where responsibility lay with superiors.",
+        "During their time in Kyiv, they undertook efforts to Ukrainize the city, replacing Russian-language signs with Ukrainian ones. Members who sought to continue the struggle against Poland co-founded the Ukrainian Military Organisation in 1920, contributing to the ideological framework of the organization."
+      ]
+    }
+  ],
+  "links_out": [
+    "hetman",
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Sich Riflemen — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sich_Riflemen",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,92 @@
+{
+  "qid": "Q111467700",
+  "slug": "bucha-massacre",
+  "title": "Bucha massacre",
+  "type": "genocide",
+  "category": "war",
+  "aliases": [
+    "Massacre of Bucha",
+    "mass killings in Bucha",
+    "war crimes in Bucha"
+  ],
+  "infobox": {
+    "label": "genocide",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2022-03",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Bucha",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.5374, 30.2188",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Bucha massacre refers to the mass killing of Ukrainian civilians and prisoners of war by the Russian Armed Forces during the occupation of Bucha, a city near Kyiv, amid the Russian invasion of Ukraine. Documented evidence of the atrocities surfaced on April 1, 2022, following the withdrawal of Russian forces.",
+  "sections": [
+    {
+      "heading": "Overview of the Massacre",
+      "paragraphs": [
+        "The Bucha massacre ([[ukrainian|Ukrainian]]: Бучанська різанина) involved the mass murder of Ukrainian civilians and prisoners of war by the Russian Armed Forces during their occupation of Bucha, part of the broader Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]]. Evidence of the massacre, including photographic and video documentation, emerged on April 1, 2022, after Russian troops retreated from the city, with earlier testimonies beginning in early March.",
+        "Local authorities reported the recovery of 458 bodies from Bucha, including nine children under the age of 18. Of the deceased, 419 were killed by weapons, while 39 appeared to have died from natural causes, potentially linked to the occupation. A memorial wall in Bucha bears the names of 501 residents who were killed. The UN High Commissioner for Human Rights confirmed unlawful killings, including summary executions, of at least 73 civilians in the area."
+      ]
+    },
+    {
+      "heading": "Background of the Invasion",
+      "paragraphs": [
+        "During the 2022 invasion of Ukraine, Russian military forces entered from Belarus, with an initial objective to advance towards [[kyiv|Kyiv]]. Bucha was among the first areas to be captured, with Russian troops entering the city on February 27, 2022. The occupying forces included the 64th Separate Guards Motor Rifle Brigade, led by Lieutenant Colonel Azatbek Omurbekov, who has been referred to as 'The Butcher of Bucha' by the US State Department.",
+        "Prior to their withdrawal, Ukrainian Prosecutor General Iryna Venediktova indicated that evidence had been collected for approximately 2,500 suspected war crimes committed by Russian forces, with several hundred suspects identified."
+      ]
+    },
+    {
+      "heading": "Reports of Atrocities",
+      "paragraphs": [
+        "Reports from various sources during the Russian offensive detailed numerous incidents of violence against civilians. For instance, on March 4, Russian forces killed three unarmed civilians delivering food. The mayor of Bucha, Anatoliy Fedoruk, described the situation as a 'nightmare,' citing ongoing shelling that hindered recovery efforts for the deceased.",
+        "Following the Russian withdrawal, extensive evidence of war crimes emerged, including mass civilian casualties and reports of torture. Ukrainian forces discovered mutilated bodies in a basement used as a torture chamber, with many victims showing signs of execution-style killings."
+      ]
+    },
+    {
+      "heading": "Eyewitness Accounts and Testimonies",
+      "paragraphs": [
+        "Residents of Bucha and nearby areas provided harrowing accounts of the violence perpetrated by Russian troops. Many survivors hid in basements, lacking basic necessities due to the destruction of infrastructure. Eyewitnesses reported that Russian soldiers used civilians as human shields and engaged in acts of looting and destruction.",
+        "Testimonies revealed a systematic campaign of terror, with reports of executions and sexual violence. Individuals were targeted based on their perceived affiliations or symbols, and many were found with their hands tied, suggesting organized killings by multiple Russian military units."
+      ]
+    },
+    {
+      "heading": "International Response and Investigation",
+      "paragraphs": [
+        "[[ukraine|Ukraine]] has sought an investigation by the International Criminal Court into the events in Bucha, aiming to determine whether Russian forces committed war crimes or crimes against humanity. [[president-of-ukraine|Ukrainian President]] [[volodymyr-zelenskyy|Volodymyr Zelenskyy]] characterized the massacre as genocide.",
+        "In contrast, Russian authorities have denied responsibility, claiming that the footage of the massacre was fabricated or staged. These assertions have been widely challenged and debunked by various media organizations and human rights groups, which have documented the systematic nature of the atrocities committed in Bucha."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "president-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "Bucha massacre — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bucha_massacre",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

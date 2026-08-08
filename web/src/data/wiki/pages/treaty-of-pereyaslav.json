@@ -1,0 +1,81 @@
+{
+  "qid": "Q525758",
+  "slug": "treaty-of-pereyaslav",
+  "title": "Treaty of Pereyaslav",
+  "type": "treaty",
+  "category": "history",
+  "aliases": [
+    "Pereiaslav treaty of 1654"
+  ],
+  "infobox": {
+    "label": "treaty",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "1654",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Pereiaslav",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The Treaty of Pereyaslav, signed in January 1654 in central Ukraine, marked a significant pledge of allegiance by the Zaporozhian Cossacks to the Russian Tsar Alexis I. This agreement, stemming from the Khmelnytsky Uprising, established a complex relationship between the Cossack Hetmanate and the Tsardom of Russia, influencing Ukraine's political landscape for centuries.",
+  "sections": [
+    {
+      "heading": "Background of the Treaty",
+      "paragraphs": [
+        "The Treaty of Pereyaslav, also referred to as the Pereiaslav Agreement, was the result of ongoing negotiations initiated by [[hetman|Hetman]] [[bohdan-khmelnytsky|Bohdan Khmelnytsky]] during the [[khmelnytsky-uprising|Khmelnytsky Uprising]] against the Polish–Lithuanian Commonwealth. The uprising, which began in January 1648, aimed to address various grievances faced by the [[cossacks|Cossacks]], including the need for increased autonomy and protection from oppression."
+      ]
+    },
+    {
+      "heading": "Pereiaslav Council",
+      "paragraphs": [
+        "On January 18, 1654, the Pereiaslav Council convened in the town of Pereiaslav, where Zaporozhian Cossacks formally pledged allegiance to Tsar Alexis I. The council served as a demonstration of unity among the Cossacks and was attended by military leaders, nobles, and townspeople, all of whom listened to Khmelnytsky's call for Russian protection."
+      ]
+    },
+    {
+      "heading": "Terms of the Treaty",
+      "paragraphs": [
+        "The treaty, finalized in Moscow in April 1654, granted the [[cossack-hetmanate|Cossack Hetmanate]] a degree of autonomy within the Russian state. Key provisions included military protection from Russia in exchange for allegiance, the preservation of the status of the Kiev Orthodox Metropolitan, and restrictions on the Hetmanate's ability to conduct independent foreign policy."
+      ]
+    },
+    {
+      "heading": "Consequences of the Treaty",
+      "paragraphs": [
+        "The Treaty of Pereyaslav had far-reaching implications, leading to the Russo-Polish War of 1654–1667. The agreement ultimately resulted in the ceding of eastern [[ukraine|Ukraine]] to Russia, while the Cossack Hetmanate, established by Khmelnytsky, was confined to left-bank Ukraine and existed under Russian rule until its dissolution in the late 18th century."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "The Pereiaslav Agreement is considered a pivotal moment in [[ukrainian|Ukrainian]] history, as it marked Ukraine's complex relationship with Russia and its struggle for autonomy. The terms and outcomes of the treaty have been the subject of extensive scholarly debate, reflecting its lasting impact on the political dynamics of the region."
+      ]
+    }
+  ],
+  "links_out": [
+    "bohdan-khmelnytsky",
+    "cossack-hetmanate",
+    "cossacks",
+    "hetman",
+    "khmelnytsky-uprising",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Pereiaslav Agreement — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pereiaslav_Agreement",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

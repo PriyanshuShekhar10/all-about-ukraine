@@ -1,0 +1,213 @@
+---
+import Base from "@/layouts/Base.astro";
+import Wikitext from "@/components/Wikitext.astro";
+import {
+  wikiIndex,
+  redirects,
+  getPage,
+  getBacklinks,
+  categoryName,
+  slugify,
+  displayTitle,
+  clampDescription,
+} from "@/lib/wiki";
+
+export function getStaticPaths() {
+  const pageSlugs = new Set(wikiIndex.map((e) => e.slug));
+  const paths = wikiIndex.map((e) => ({
+    params: { slug: e.slug },
+    props: { redirectTo: null as string | null },
+  }));
+
+  const safe = /^[a-z0-9-]+$/;
+  for (const [from, to] of Object.entries(redirects)) {
+    if (pageSlugs.has(from) || !safe.test(from)) continue;
+    if (!pageSlugs.has(to)) continue;
+    paths.push({ params: { slug: from }, props: { redirectTo: to } });
+  }
+  return paths;
+}
+
+interface Props {
+  redirectTo: string | null;
+}
+
+const { slug } = Astro.params;
+const { redirectTo } = Astro.props as Props;
+
+// Alias redirect: emit a canonicalized, noindex meta-refresh stub so the alias
+// URL does not compete with its canonical page in search results.
+if (redirectTo) {
+  const target = `/wiki/${redirectTo}/`;
+  const canonical = new URL(target, Astro.site).href;
+  return new Response(
+    `<!doctype html><html lang="en"><head><meta charset="utf-8">` +
+      `<meta name="viewport" content="width=device-width, initial-scale=1">` +
+      `<meta name="robots" content="noindex,follow">` +
+      `<link rel="canonical" href="${canonical}">` +
+      `<meta http-equiv="refresh" content="0;url=${target}">` +
+      `<title>Redirecting…</title></head>` +
+      `<body>Redirecting to <a href="${target}">${target}</a>.</body></html>`,
+    { headers: { "content-type": "text/html; charset=utf-8" } },
+  );
+}
+
+const page = getPage(slug!);
+if (!page) {
+  return Astro.redirect("/404");
+}
+
+const title = displayTitle(page.title);
+const description = clampDescription(page.summary);
+const infoFields = page.infobox?.fields ?? [];
+const backlinks = getBacklinks(page.slug);
+const catName = categoryName(page.category);
+
+const seen = new Map<string, number>();
+const toc = page.sections.map((s) => {
+  const base = slugify(s.heading) || "section";
+  const n = seen.get(base) ?? 0;
+  seen.set(base, n + 1);
+  return { heading: s.heading, anchor: n === 0 ? base : `${base}-${n + 1}` };
+});
+
+const canonicalUrl = new URL(`/wiki/${page.slug}`, Astro.site).href;
+const homeUrl = new URL("/", Astro.site).href;
+const categoryUrl = new URL(`/wiki/category/${page.category}`, Astro.site).href;
+
+const jsonLd = [
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: title,
+    description,
+    inLanguage: "en",
+    datePublished: page.updated_at,
+    dateModified: page.updated_at,
+    mainEntityOfPage: canonicalUrl,
+    about: title,
+    isPartOf: { "@type": "WebSite", name: "Ukraine Encyclopedia", url: homeUrl },
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: homeUrl },
+      { "@type": "ListItem", position: 2, name: catName, item: categoryUrl },
+      { "@type": "ListItem", position: 3, name: title, item: canonicalUrl },
+    ],
+  },
+];
+---
+
+<Base
+  title={title}
+  description={description}
+  ogType="article"
+  jsonLd={jsonLd}
+>
+  <div class="doc mx-auto max-w-[820px] px-5 py-8 sm:py-10" data-pagefind-body>
+    <nav aria-label="Breadcrumb" class="ui mb-4 text-sm text-mute">
+      <a href="/" class="hover:underline">Home</a>
+      <span aria-hidden="true"> › </span>
+      <a href={`/wiki/category/${page.category}`} class="hover:underline"
+        >{catName}</a
+      >
+    </nav>
+
+    <article>
+      <header class="border-b border-hairline pb-5">
+        <h1 class="text-3xl font-bold leading-tight text-ink sm:text-4xl">
+          {title}
+        </h1>
+        <p class="ui mt-1 text-sm text-mute">{page.type}</p>
+        {
+          page.aliases.length > 0 && (
+            <p class="ui mt-2 text-sm text-mute">
+              Also known as: {page.aliases.slice(0, 8).join(", ")}
+            </p>
+          )
+        }
+      </header>
+
+      {
+        infoFields.length > 0 && (
+          <aside class="mt-5 border border-hairline bg-canvas-soft p-4 text-[15px] sm:float-right sm:mt-1 sm:ml-6 sm:w-64">
+            <p class="ui mb-2 text-xs font-semibold uppercase tracking-wide text-mute">
+              Quick facts
+            </p>
+            <dl class="flex flex-col divide-y divide-hairline">
+              {infoFields.map((f) => (
+                <div class="py-1.5 first:pt-0 last:pb-0">
+                  <dt class="ui text-xs text-mute">{f.label}</dt>
+                  <dd class="text-ink">{f.value}</dd>
+                </div>
+              ))}
+            </dl>
+          </aside>
+        )
+      }
+
+      <p class="mt-5 text-lg leading-relaxed text-ink">
+        <Wikitext text={page.summary} />
+      </p>
+
+      {
+        toc.length > 1 && (
+          <nav
+            aria-label="Contents"
+            class="mt-6 inline-block border border-hairline bg-canvas-soft px-4 py-3"
+          >
+            <p class="ui mb-1 text-xs font-semibold uppercase tracking-wide text-mute">
+              Contents
+            </p>
+            <ol class="ml-4 list-decimal text-[15px] marker:text-mute">
+              {toc.map((item) => (
+                <li class="py-0.5">
+                  <a href={`#${item.anchor}`} class="doclink">
+                    {item.heading}
+                  </a>
+                </li>
+              ))}
+            </ol>
+          </nav>
+        )
+      }
+
+      {
+        page.sections.map((s, i) => (
+          <section id={toc[i].anchor} class="mt-8 scroll-mt-20">
+            <h2 class="border-b border-hairline pb-1 text-2xl font-bold text-ink">
+              {s.heading}
+            </h2>
+            <div class="mt-3 flex flex-col gap-4">
+              {s.paragraphs.map((p) => (
+                <p class="text-[17px] leading-[1.7] text-ink">
+                  <Wikitext text={p} />
+                </p>
+              ))}
+            </div>
+          </section>
+        ))
+      }
+
+      {
+        backlinks.length > 0 && (
+          <section class="mt-10 border-t border-hairline pt-5">
+            <h2 class="text-base font-bold text-ink">What links here</h2>
+            <p class="mt-2 text-[15px] leading-relaxed text-body">
+              {backlinks.map((b, i) => (
+                <>
+                  {i > 0 && <span class="text-mute"> · </span>}
+                  <a href={`/wiki/${b.slug}`} class="doclink">
+                    {displayTitle(b.title)}
+                  </a>
+                </>
+              ))}
+            </p>
+          </section>
+        )
+      }
+    </article>
+  </div>
+</Base>

@@ -1,0 +1,127 @@
+{
+  "qid": "Q212",
+  "slug": "ukraine",
+  "title": "Ukraine",
+  "type": "sovereign state",
+  "category": "geography",
+  "aliases": [
+    "Ukr.",
+    "Ukraina",
+    "Ukrainia",
+    "Ukraïna"
+  ],
+  "infobox": {
+    "label": "sovereign state",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1991-08-24",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Kyiv",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "42,800,501",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "603,550",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Head of government",
+        "value": "Pavlo Lazarenko, Yurii Yekhanurov",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.0000, 32.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Ukraine is a sovereign state located in Eastern Europe, recognized as the second-largest country in Europe. It has a rich historical legacy, marked by early human settlement, the establishment of Kievan Rus', and significant events leading to its independence in 1991.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Ukraine is situated in Eastern Europe and is bordered by Russia to the east and northeast, Belarus to the north, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and the Sea of Azov to the south and southeast.",
+        "The country has an area of 603,628 km2 (233,062 sq mi) and is estimated to have a population of 32.3 million by 2026. [[kyiv|Kyiv]] serves as the capital and largest city, followed by [[kharkiv|Kharkiv]], [[odesa|Odesa]], and [[dnieper|Dnipro]].",
+        "[[ukrainian|Ukrainian]] is the official language of the country."
+      ]
+    },
+    {
+      "heading": "Historical Overview",
+      "paragraphs": [
+        "Human habitation in Ukraine dates back to at least 32,000 BC, with significant cultural developments occurring throughout the Neolithic and Iron Ages.",
+        "[[kievan-rus|Kievan Rus]]', a key state in the 9th century, became the most powerful realm in Europe during the 10th and 11th centuries but disintegrated by the 13th century due to internal conflicts and external invasions, notably by the Mongols.",
+        "For the next 600 years, Ukraine was divided and ruled by various powers, including the Grand Duchy of Lithuania, the Kingdom of Poland, and the Russian Empire."
+      ]
+    },
+    {
+      "heading": "Cossack Hetmanate and National Identity",
+      "paragraphs": [
+        "The [[cossack-hetmanate|Cossack Hetmanate]] emerged in central Ukraine in the 17th century, providing a form of governance for the local population until its absorption by the Russian Empire in the 18th century.",
+        "Ukrainian nationalism began to rise following the Russian Revolution in 1917, leading to the establishment of the short-lived [[ukrainian-peoples-republic|Ukrainian People's Republic]].",
+        "The [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]] was created after the Bolsheviks consolidated power, becoming a part of the Soviet Union in 1922."
+      ]
+    },
+    {
+      "heading": "Independence and Modern Era",
+      "paragraphs": [
+        "Ukraine declared independence in 1991 as the Soviet Union dissolved, adopting a neutral stance and later a new constitution in 1996.",
+        "The country has faced significant political challenges, including the [[orange-revolution|Orange Revolution]] in 2004–2005 and the [[euromaidan|Euromaidan]] protests in 2014, which led to the [[russian-annexation-of-crimea|annexation of Crimea by Russia]] and ongoing conflict in the [[donbas|Donbas]] region.",
+        "As of 2022, Ukraine is engaged in a war following the Russian invasion, which has had profound implications for its sovereignty and global standing."
+      ]
+    },
+    {
+      "heading": "Political Structure and Economy",
+      "paragraphs": [
+        "Ukraine operates as a unitary state with a semi-presidential republic system of government.",
+        "The economy is transitioning, with the country facing challenges such as the lowest nominal GDP per capita in Europe as of 2024.",
+        "Despite these challenges, Ukraine is a significant exporter of grain due to its fertile land, although production has declined due to the ongoing war, impacting global food security."
+      ]
+    },
+    {
+      "heading": "International Relations",
+      "paragraphs": [
+        "Ukraine is a founding member of the United Nations and participates in various international organizations, including the Council of Europe, the World Trade Organization, and the OSCE.",
+        "The country is in the process of joining the European Union and submitted an application to join NATO in 2022, reflecting its aspirations for closer integration with Western institutions."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossack-hetmanate",
+    "dnieper",
+    "donbas",
+    "euromaidan",
+    "kharkiv",
+    "kievan-rus",
+    "kyiv",
+    "odesa",
+    "orange-revolution",
+    "russian-annexation-of-crimea",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

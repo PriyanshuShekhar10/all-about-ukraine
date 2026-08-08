@@ -1,0 +1,89 @@
+{
+  "qid": "Q15733401",
+  "slug": "revolution-of-dignity",
+  "title": "Revolution of Dignity",
+  "type": "civil disorder",
+  "category": "history",
+  "aliases": [
+    "2014 Ukrainian Revolution",
+    "Maidan Revolution"
+  ],
+  "infobox": {
+    "label": "civil disorder",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2010",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Mariinskyi Park, Maidan Nezalezhnosti",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4500, 30.5242",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Revolution of Dignity, also known as the Maidan Revolution, occurred in Ukraine in February 2014 as a culmination of the Euromaidan protests. This civil disorder led to the ousting of President Viktor Yanukovych and significant political changes in Ukraine, ultimately contributing to the Russo-Ukrainian war.",
+  "sections": [
+    {
+      "heading": "Background and Causes",
+      "paragraphs": [
+        "In the early 2000s, successive [[ukrainian|Ukrainian]] governments aimed to strengthen ties with the European Union (EU). President [[viktor-yanukovych|Viktor Yanukovych]]'s government had been negotiating an association agreement with the EU since 2012, which would have affected [[ukraine|Ukraine]]'s trade relations with Russia, its largest trade partner. Yanukovych's refusal to sign the agreement in November 2013, opting instead for closer relations with Russia, sparked widespread protests known as the '[[euromaidan|Euromaidan]]' movement."
+      ]
+    },
+    {
+      "heading": "Development of Protests",
+      "paragraphs": [
+        "The Euromaidan protests began on 21 November 2013 in [[kyiv|Kyiv]]'s Independence Square. Initially peaceful, the demonstrations escalated in January 2014 following the passage of repressive laws by a parliament dominated by Yanukovych's supporters. By mid-February 2014, the protests had turned violent, resulting in significant casualties, including 108 protesters and 13 police officers killed during clashes with the Berkut riot police."
+      ]
+    },
+    {
+      "heading": "Key Events and Escalation",
+      "paragraphs": [
+        "On 18 February 2014, approximately 20,000 protesters marched towards the [[verkhovna-rada|Ukrainian parliament]], demanding the restoration of the 2004 Constitution. Violent confrontations ensued, leading to numerous fatalities and injuries. The situation intensified, with the government declaring a de facto state of emergency in Kyiv and the Internal Affairs Minister authorizing the use of live ammunition against demonstrators."
+      ]
+    },
+    {
+      "heading": "Political Consequences",
+      "paragraphs": [
+        "On 21 February, an agreement was signed between Yanukovych and opposition leaders, proposing constitutional reforms and early elections. However, Yanukovych fled Kyiv the same evening, and on 22 February, the Ukrainian parliament voted unanimously to remove him from office. This decision was followed by the establishment of an interim government led by Arseniy Yatsenyuk, which signed the EU association agreement and initiated a series of reforms."
+      ]
+    },
+    {
+      "heading": "Aftermath and Impact",
+      "paragraphs": [
+        "The Revolution of Dignity had profound implications for Ukraine, leading to the restoration of the 2004 constitutional amendments and the election of [[petro-poroshenko|Petro Poroshenko]] as president later in 2014. The revolution also incited Russia's [[russian-annexation-of-crimea|annexation of Crimea]] and the emergence of armed separatist movements in eastern Ukraine, contributing to the ongoing [[full-scale-russo-ukrainian-war|Russo-Ukrainian war]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "euromaidan",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "petro-poroshenko",
+    "russian-annexation-of-crimea",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada",
+    "viktor-yanukovych"
+  ],
+  "sources": [
+    {
+      "title": "Revolution of Dignity — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Revolution_of_Dignity",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,77 @@
+{
+  "qid": "Q8798",
+  "slug": "ukrainian",
+  "title": "Ukrainian",
+  "type": "natural language",
+  "category": "people",
+  "aliases": [
+    "Ukrainian language",
+    "Ukrainska"
+  ],
+  "infobox": {
+    "label": "natural language",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Russia",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.0000, 31.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Ukrainian is an East Slavic language predominantly spoken in Ukraine, serving as the native language for a significant majority of its population. The language has evolved through various historical phases, influenced by neighboring languages and cultures, and is characterized by its unique phonetic and grammatical features.",
+  "sections": [
+    {
+      "heading": "Linguistic Classification",
+      "paragraphs": [
+        "Ukrainian (українська мова, ukrainska mova) is classified as an East Slavic language, primarily used in [[ukraine|Ukraine]]. It is the first language for a large majority of [[ukrainians|Ukrainians]] and employs the Ukrainian alphabet, a variant of the Cyrillic script.",
+        "The language is studied by institutions such as the National Academy of Sciences of Ukraine and Potebnia Institute of Linguistics. While comparisons are often made between Ukrainian and Russian, Ukrainian shares greater mutual intelligibility with Belarusian and has closer lexical ties with West Slavic Polish and South Slavic Bulgarian."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "Ukrainian is a descendant of Old East Slavic, which was spoken during the medieval period of Kievan Rusʹ. In the Grand Duchy of Lithuania, the language evolved into Ruthenian, becoming an official language before undergoing Polonization in the Polish–Lithuanian Commonwealth.",
+        "By the 18th century, Ruthenian had diverged into regional variants, leading to the emergence of modern Ukrainian within the territory of contemporary Ukraine. The language faced suppression during the Russification efforts in the Russian Empire and later in the Soviet Union, yet it persisted, particularly in Western Ukraine."
+      ]
+    },
+    {
+      "heading": "Linguistic Evolution",
+      "paragraphs": [
+        "The transformation of Old East Slavic into modern Ukrainian began around the 12th and 13th centuries, marked by significant phonological changes. These included the raising of mid vowels and the merger of certain vowel phonemes, which did not occur in Russian.",
+        "The 13th century saw the introduction of German words into the Ukrainian language due to the settlement of German colonists, with influences continuing through Yiddish-speaking Jews. Examples of such words include dakh ('roof') and rynok ('market')."
+      ]
+    },
+    {
+      "heading": "Influences from Neighboring Cultures",
+      "paragraphs": [
+        "Under Polish and Lithuanian rule, Ukrainian experienced substantial influence from Polish and Latin, with many words and constructions adopted into everyday speech. This period also saw the incorporation of Turkic words, particularly in military and trade contexts.",
+        "The significant number of loanwords from Polish, German, Czech, and Latin contributed to early modern vernacular Ukrainian having more lexical similarity with West Slavic languages than with Russian or Church Slavonic."
+      ]
+    },
+    {
+      "heading": "Chronology of Language Development",
+      "paragraphs": [
+        "The history of the Ukrainian language is divided into three main periods: Old Ukrainian, Middle Ukrainian, and Modern Ukrainian. The Proto-Ukrainian period lasted until the mid-11th century, followed by Old Ukrainian from the mid-11th to the 14th century, and Middle Ukrainian from the 15th to the 18th century.",
+        "Modern Ukrainian emerged at the end of the 18th century and has since been recognized in literature and other written forms. Ukraine observes the Day of Ukrainian Writing and Language on 9 November, coinciding with the Eastern Orthodox feast day of Nestor the Chronicler."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian language — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_language",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

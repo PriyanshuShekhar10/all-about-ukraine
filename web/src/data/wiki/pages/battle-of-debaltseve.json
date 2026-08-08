@@ -1,0 +1,73 @@
+{
+  "qid": "Q18920465",
+  "slug": "battle-of-debaltseve",
+  "title": "Battle of Debaltseve",
+  "type": "battle",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "battle",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Debaltseve",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.3799, 38.3454",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Battle of Debaltseve was a significant military engagement in January and February 2015, occurring in the city of Debaltseve, Donetsk Oblast, between [[armed-forces-of-ukraine|Ukrainian Armed Forces]] and pro-Russian separatists. This battle was pivotal in the context of the ongoing war in the [[donbas|Donbas]] region, marking the last major confrontation before the Minsk II ceasefire took effect.",
+  "sections": [
+    {
+      "heading": "Context and Importance",
+      "paragraphs": [
+        "Debaltseve is strategically located as a vital road and railway junction in [[donetsk|Donetsk]] Oblast, situated in a 'wedge' of [[ukrainian|Ukrainian]]-held territory surrounded by separatist forces from the Donetsk People's Republic (DPR) and [[luhansk|Luhansk]] People's Republic (LPR). The city was under Ukrainian control following a counter-offensive in July 2014 until it was targeted by separatist forces in January 2015."
+      ]
+    },
+    {
+      "heading": "Course of the Battle",
+      "paragraphs": [
+        "The battle commenced on 16–17 January 2015, with heavy fighting persisting until 18 February 2015, when Ukrainian forces retreated to Artemivsk (present-day Bakhmut). Initial assaults included intense shelling and direct attacks on Ukrainian positions, leading to significant military engagements and civilian casualties.",
+        "By the end of January, the situation had deteriorated, with reports indicating that Ukrainian troops were increasingly surrounded and facing overwhelming artillery fire from Russian forces."
+      ]
+    },
+    {
+      "heading": "Humanitarian Impact",
+      "paragraphs": [
+        "The civilian population of Debaltseve suffered greatly during the conflict, with many residents fleeing the area amidst continuous shelling. By 31 January, it was reported that at least 1,000 civilians had been evacuated, but harsh winter conditions and a lack of basic utilities exacerbated the humanitarian crisis.",
+        "As the fighting escalated, aid workers described the situation as 'catastrophic,' with deliberate targeting of evacuation routes by pro-Russian forces."
+      ]
+    },
+    {
+      "heading": "Aftermath and Ceasefire",
+      "paragraphs": [
+        "Despite a ceasefire agreement signed on 12 February 2015, fighting intensified as Russian forces sought to eliminate Ukrainian troops before the ceasefire took effect on 15 February. The battle resulted in significant casualties for Ukrainian forces, with reports of heavy losses and ongoing assaults even after the ceasefire was announced."
+      ]
+    }
+  ],
+  "links_out": [
+    "armed-forces-of-ukraine",
+    "donbas",
+    "donetsk",
+    "luhansk",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Battle of Debaltseve — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Debaltseve",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

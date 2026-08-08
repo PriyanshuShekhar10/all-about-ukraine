@@ -1,0 +1,86 @@
+{
+  "qid": "Q6824111",
+  "slug": "metinvest",
+  "title": "Metinvest",
+  "type": "business",
+  "category": "economy",
+  "aliases": [
+    "Metinvest Group"
+  ],
+  "infobox": {
+    "label": "business",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2006-06-06",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Netherlands",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Amsterdam, Zaporizhzhia",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Metinvest is a prominent group of steel and mining companies with significant operations in Ukraine and other countries. It is recognized as Ukraine's largest producer of iron ore and steel, playing a vital role in the nation's economy.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Metinvest is a conglomerate of steel and mining enterprises that operates in [[ukraine|Ukraine]], Italy, Bulgaria, the UK, and the US. The company is engaged in various activities, including ore and coal mining, coke production, steel smelting, and the manufacturing of rolled products, pipes, and other steel goods. The operations of the group are overseen by Metinvest Holding LLC."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Metinvest Holding LLC was established on 6 June 2006, acquiring a 100% stake in Leman Ukraine LLC and a 27% stake in Yenakiieve Iron and Steel Works.",
+        "In October 2007, Metinvest became the first [[ukrainian|Ukrainian]] member of the World Steel Association, and in November of the same year, it acquired 82.5% of Ingulets Iron Ore Mining and Processing Plant.",
+        "The company continued to expand in 2008 with the acquisition of rolling businesses in Italy and the UK, as well as a 51% stake in NPO Incor & Co LLC.",
+        "In 2009, Metinvest acquired a 100% stake in United Coal Company and became the first Ukrainian firm to receive Climate Action certification from the World Steel Association.",
+        "The group has made significant acquisitions and partnerships throughout the years, including the merger of its mining and metal assets in 2014 and the establishment of Metinvest-Promservice in 2015."
+      ]
+    },
+    {
+      "heading": "Impact of the Russian Invasion",
+      "paragraphs": [
+        "Following the onset of the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in 2022, Metinvest suspended operations at Ilyich Steel and Azovstal in [[mariupol|Mariupol]] due to shelling, resulting in a more than 40% reduction in production capacity across its enterprises.",
+        "During the first 100 days of the war, Metinvest allocated over UAH 1.5 billion to support the Ukrainian army and civilians. The company also initiated the Saving Lives humanitarian project in collaboration with [[dtek|DTEK]] and the Rinat Akhmetov Foundation."
+      ]
+    },
+    {
+      "heading": "Corporate Structure and Leadership",
+      "paragraphs": [
+        "Metinvest is primarily owned by Rinat Akhmetov, with SCM holding 71.24% and Smart Holding 23.76%. The main holding company is Metinvest B.V., registered in the Netherlands.",
+        "Ihor Syryy led the company from 2006 to 2013, followed by Yuriy Ryzhenkov, who has been the CEO since 2013 and was recognized as one of Ukraine's top CEOs in 2020."
+      ]
+    },
+    {
+      "heading": "Market Position and Environmental Impact",
+      "paragraphs": [
+        "In 2021, Metinvest was ranked as Ukraine's largest private company by Forbes and was recognized as the largest producer of iron ore and steel in the country. The World Steel Association ranked Metinvest 42nd among the top 50 steel companies globally.",
+        "Despite its significant contributions to the economy, Metinvest has faced criticism regarding its environmental impact, with several of its enterprises listed among the top ten environmental polluters in Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "dtek",
+    "full-scale-russo-ukrainian-war",
+    "mariupol",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Metinvest — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Metinvest",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

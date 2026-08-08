@@ -1,0 +1,88 @@
+{
+  "qid": "Q17627724",
+  "slug": "battle-of-ilovaisk",
+  "title": "Battle of Ilovaisk",
+  "type": "battle",
+  "category": "war",
+  "aliases": [
+    "Ilovaisk massacre"
+  ],
+  "infobox": {
+    "label": "battle",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Ilovaisk",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "47.9250, 38.1972",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Battle of Ilovaisk, which commenced on 7 August 2014, was a significant confrontation between the [[armed-forces-of-ukraine|Armed Forces of Ukraine]] and pro-Russian insurgents, culminating in a tragic encirclement and heavy losses for Ukrainian forces. This battle is a critical event in the context of the ongoing conflict in Eastern Ukraine, highlighting the involvement of Russian military forces and the challenges faced by Ukraine in its defense efforts.",
+  "sections": [
+    {
+      "heading": "Prelude to the Battle",
+      "paragraphs": [
+        "The conflict in [[donetsk|Donetsk]] Oblast escalated on 11 July 2014, with shelling from Russian territory. On 23 July 2014, General Petro Lytvyn was appointed commander of sector D, which included the area between Donetsk city and the Russo-[[ukrainian|Ukrainian]] border. Ukrainian forces aimed to disrupt insurgent supply lines between Donetsk and [[luhansk|Luhansk]] while attempting to regain control of the border.",
+        "Following the securing of Savur-Mohyla hill, a battalion from the 25th Airborne Brigade was dispatched to assault Shakhtarsk on 31 July 2014, resulting in significant casualties. The Ukrainian media later portrayed a maneuver on 11 August as a successful raid, although its outcomes remained unclear.",
+        "On 6 August, the National Security and Defence of [[ukraine|Ukraine]] warned of a potential Russian invasion, and on 7 August, pro-Russian militant leader Alexander Borodai was replaced by Alexander Zakharchenko, marking the beginning of Ukrainian attempts to capture Ilovaisk."
+      ]
+    },
+    {
+      "heading": "Ukrainian Forces Enter Ilovaisk",
+      "paragraphs": [
+        "On 18 August 2014, Ukrainian forces made their first successful attempt to enter Ilovaisk, led by the [[donbas|Donbas]] Battalion, raising the Ukrainian flag over the city administration building. This victory was celebrated in Ukrainian media as a demonstration of the effectiveness of the government's Anti-Terrorist Operation.",
+        "Despite initial success, the following day saw intense fighting, with claims of complete control over Ilovaisk by Ukrainian forces being denied by DPR officials. Heavy casualties were reported, including the deaths of at least nine Ukrainian soldiers during street battles."
+      ]
+    },
+    {
+      "heading": "Encirclement of Ukrainian Troops",
+      "paragraphs": [
+        "From 24 to 26 August, Ukrainian forces became encircled by DPR insurgents and Russian reinforcements. Reports indicated that Russian regular army troops were increasingly visible, contributing to the deteriorating situation for Ukrainian soldiers.",
+        "During this period, Ukrainian forces engaged in various skirmishes, capturing enemy equipment and personnel, including a T-72B3 tank. However, the encirclement led to significant casualties among the trapped Ukrainian troops, prompting protests in [[kyiv|Kyiv]] regarding the perceived abandonment of volunteer forces."
+      ]
+    },
+    {
+      "heading": "Attempts to Break the Siege",
+      "paragraphs": [
+        "In response to the encirclement, the Ukrainian command formed a tactical group from the 92nd Mechanized Brigade to attempt a rescue operation. This unit, consisting of 276 soldiers and various armored vehicles, was dispatched from [[kharkiv|Kharkiv]] Oblast on 24 August.",
+        "However, the group faced heavy artillery fire upon arrival and suffered significant losses, with the majority of vehicles destroyed and only a few soldiers surviving. Similarly, the Rukh Oporu squad also faced defeat, preventing any successful rendezvous with the encircled forces."
+      ]
+    },
+    {
+      "heading": "Retreat and Aftermath",
+      "paragraphs": [
+        "On 29 August, Ukrainian forces began their withdrawal from Ilovaisk after negotiations for a humanitarian corridor failed. The withdrawal was marked by intense fire from Russian and insurgent troops, leading to heavy losses.",
+        "The northern column, consisting of approximately 1,000 troops, faced severe attacks, resulting in the destruction of multiple vehicles and significant casualties. The southern column managed to capture the village of Chervonosilske but also suffered losses due to enemy fire. The battle concluded with a tragic toll on Ukrainian forces, highlighting the complexities and challenges of the conflict in Eastern Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "armed-forces-of-ukraine",
+    "donbas",
+    "donetsk",
+    "kharkiv",
+    "kyiv",
+    "luhansk",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Battle of Ilovaisk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Ilovaisk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

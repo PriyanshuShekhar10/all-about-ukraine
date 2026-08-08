@@ -1,0 +1,78 @@
+{
+  "qid": "Q472189",
+  "slug": "ukrainian-greek-catholic-church",
+  "title": "Ukrainian Greek Catholic Church",
+  "type": "Catholic particular church sui iuris",
+  "category": "culture",
+  "aliases": [
+    "Ukrainian Catholic Church",
+    "Ukrainian Catholic Church of the Byzantine Tradition"
+  ],
+  "infobox": {
+    "label": "Catholic particular church sui iuris",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1596",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Ukrainian Greek Catholic Church (UGCC) is an autonomous Eastern Catholic church based in Ukraine, in full communion with the Holy See. It traces its origins to the Christianization of [[kievan-rus|Kievan Rus]]' in 988 and has played a significant role in the development of Ukrainian identity and culture.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The UGCC considers itself a successor to the Metropolis of Kiev and all Rus', established in 988 by Grand Prince Vladimir the Great. The church's roots can be traced back to Byzantine missionaries, particularly Saints Cyril and Methodius, who influenced the spread of Christianity in the region."
+      ]
+    },
+    {
+      "heading": "Union of Brest",
+      "paragraphs": [
+        "The church was formally established with the Union of Brest in 1595/1596, when four bishops of the Ruthenian Orthodox Church reunited with the Catholic Church under the authority of the Holy See. This union marked a significant shift in the religious landscape of [[ukraine|Ukraine]], as it allowed the church to maintain the Byzantine Rite while aligning with the Latin Church."
+      ]
+    },
+    {
+      "heading": "Development and Identity",
+      "paragraphs": [
+        "Following the Union of Brest, the Greek Catholic Church gained support from the [[ukrainian|Ukrainian]] clergy and local Christians, contributing to the development of Ukrainian national awareness. The separation from Russian Orthodoxy fostered a distinct Ukrainian identity, with Greek Catholicism becoming a dominant religion in Ukraine."
+      ]
+    },
+    {
+      "heading": "Impact of Political Changes",
+      "paragraphs": [
+        "The partitions of Poland in the late 18th century led to the division of the church's diocesan structure among the Russian Empire, the Kingdom of Prussia, and the Habsburg monarchy. This division affected the church's governance and its ability to serve the Ukrainian population."
+      ]
+    },
+    {
+      "heading": "Modern Recognition",
+      "paragraphs": [
+        "In 1963, the church was officially recognized as Ukrainian, and its leader was granted the title of 'Major Archbishop', currently held by Sviatoslav Shevchuk. The church's hierarchy and faithful have sought recognition of the title 'Patriarch' from the Pope, reflecting its significant role in the spiritual life of Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "kievan-rus",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Greek Catholic Church — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Greek_Catholic_Church",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

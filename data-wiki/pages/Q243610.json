@@ -1,0 +1,99 @@
+{
+  "qid": "Q243610",
+  "slug": "ukrainian-peoples-republic",
+  "title": "Ukrainian People's Republic",
+  "type": "historical country",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "historical country",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1917-11-07",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Russian Republic",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Kyiv",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "850,100",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Head of government",
+        "value": "Volodymyr Vynnychenko, Dmytro Doroshenko",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4500, 30.5000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Ukrainian People's Republic (UPR) was a historical state in Eastern Europe that emerged during a period of national awakening in Ukraine following the February Revolution of 1917. It declared independence from Russia on 22 January 1918, amidst a backdrop of conflict involving various factions during the Ukrainian War of Independence.",
+  "sections": [
+    {
+      "heading": "Formation and Declaration of Independence",
+      "paragraphs": [
+        "The Ukrainian People's Republic was established following the election of the Central Council of [[ukraine|Ukraine]] in March 1917, which sought [[ukrainian|Ukrainian]] autonomy within Russia. This autonomy was recognized by the Russian Provisional Government. After the October Revolution, the Central Council denounced the Bolshevik takeover and proclaimed the Ukrainian People's Republic, covering the territories of the Russian governorates of Kiev, Volhynia, [[kharkiv|Kharkov]], [[kherson|Kherson]], [[dnipro|Yekaterinoslav]], [[poltava|Poltava]], [[chernihiv|Chernigov]], and Podolia.",
+        "The republic officially declared its independence from Russia on 22 January 1918."
+      ]
+    },
+    {
+      "heading": "Conflict and Opposition",
+      "paragraphs": [
+        "In the aftermath of the October Revolution, an opposing government, the Ukrainian People's Republic of Soviets, was formed in Kharkiv, which engaged in conflict with the UPR, receiving support from Soviet Russia. The UPR faced additional opposition from the White movement, Poland, Green armies, and anarchists, leading to the [[ukrainian-war-of-independence|Ukrainian War of Independence]], which was part of the broader Russian Civil War and resulted in significant casualties among [[ukrainians|Ukrainians]].",
+        "Soviet Russia ultimately extended its control over the region, leading to the establishment of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]], which became a founding member of the Soviet Union in 1922."
+      ]
+    },
+    {
+      "heading": "Political Transformations",
+      "paragraphs": [
+        "Throughout its brief existence, the UPR underwent several political changes, transitioning from a socialist-leaning republic led by the Central Council to a socialist republic under the Directorate and Symon Petliura. Between April and December 1918, the authority of the UPR was suspended following the rise of the pro-German Ukrainian State led by Pavlo Skoropadskyi, who was elected as [[hetman|Hetman]] of Ukraine by a congress of landowners.",
+        "After the collapse of the Ukrainian State, the UPR declared unification with the [[west-ukrainian-peoples-republic|West Ukrainian People's Republic]] in January 1919."
+      ]
+    },
+    {
+      "heading": "International Relations and Exile",
+      "paragraphs": [
+        "Following the Polish–[[full-scale-russo-ukrainian-war|Ukrainian War]], the UPR signed an alliance with the Second Polish Republic. During the Polish-Soviet War, the UPR lost its remaining territories to the Bolsheviks. The Peace of Riga, signed on 18 March 1921, between Poland, Soviet Russia, and Soviet Ukraine, marked a significant turning point, after which the UPR's government continued its activities in exile.",
+        "After Ukraine's Declaration of Independence, the leadership of the UPR officially recognized Ukraine as its legal successor and transferred its symbols of power to the [[president-of-ukraine|Ukrainian president]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernihiv",
+    "dnipro",
+    "full-scale-russo-ukrainian-war",
+    "hetman",
+    "kharkiv",
+    "kherson",
+    "poltava",
+    "president-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainian-war-of-independence",
+    "ukrainians",
+    "west-ukrainian-peoples-republic"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian People's Republic — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_People's_Republic",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

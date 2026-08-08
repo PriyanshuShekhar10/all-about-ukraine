@@ -1,0 +1,102 @@
+{
+  "qid": "Q156732",
+  "slug": "kherson",
+  "title": "Kherson",
+  "type": "city of regional significance of Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1778",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Russian Empire, Russian Republic",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "355,379",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "68",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "25",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Volodymyr Mykolayenko, Ihor Kolykhaiev",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "46.6425, 32.6250",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Kherson is a significant port city in southern Ukraine, serving as the administrative center of Kherson Oblast. Established in the late 18th century, it has been an important hub for shipbuilding and trade, with a population of approximately 279,131 as of early 2022.",
+  "sections": [
+    {
+      "heading": "Geography and Economy",
+      "paragraphs": [
+        "Kherson is situated along the Black Sea and the [[dnieper|Dnieper River]], making it a vital port city in southern [[ukraine|Ukraine]]. The city is known for its prominent shipbuilding industry and serves as a regional economic center."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Founded on June 18, 1778, by a decree from Catherine the Great, Kherson was established as a fortress for the Russian Empire's Black Sea Fleet. It became a district town in 1783, with a shipyard that contributed to the Russian Black Sea fleet's development.",
+        "During the 19th and early 20th centuries, Kherson evolved into a major center for trade and transportation, with significant Polish immigration and trade connections established by the end of the 18th century."
+      ]
+    },
+    {
+      "heading": "Soviet Era",
+      "paragraphs": [
+        "Under Soviet rule, Kherson became a significant scientific, cultural, and industrial hub. The population grew from 41,000 in 1921 to 97,200 by 1939, although it suffered greatly during the famine of 1921-1923.",
+        "Post-World War II, the city experienced industrial growth, with the population exceeding 261,000 by 1970. The ethnic composition shifted, with the [[ukrainian|Ukrainian]] population increasing significantly."
+      ]
+    },
+    {
+      "heading": "Independence and Recent History",
+      "paragraphs": [
+        "In the national referendum of December 1, 1991, 90.1% of voters in Kherson Oblast supported Ukrainian independence. However, the city faced economic challenges following the collapse of the Soviet Union.",
+        "During the 2014 pro-Russian unrest, Kherson remained loyal to Ukraine, housing the office of the [[president-of-ukraine|Ukrainian President]]'s representative in [[crimea|Crimea]]. In local elections held on October 25, 2020, pro-Russian parties received only about 30% of the vote.",
+        "In March to November 2022, Kherson was occupied by Russian forces during their [[full-scale-russo-ukrainian-war|invasion of Ukraine]], with the city being liberated on November 11, 2022. The city faced significant challenges post-liberation, including flooding due to the destruction of the Kakhovka Dam and ongoing attacks targeting civilians."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Kherson is also known for its agricultural products, particularly its watermelons. Despite the challenges faced in recent years, a 2021 report indicated that over 80% of Kherson's citizens felt positively about their locality, emphasizing a strong attachment to their Ukrainian identity."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "dnieper",
+    "full-scale-russo-ukrainian-war",
+    "president-of-ukraine",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Kherson — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kherson",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,92 @@
+{
+  "qid": "Q3874799",
+  "slug": "volodymyr-zelenskyy",
+  "title": "Volodymyr Zelenskyy",
+  "type": "human",
+  "category": "politics",
+  "aliases": [
+    "President Volodymyr Oleksandrovych Zelenskyy",
+    "President Volodymyr Zelenskyy",
+    "President Zelenskyy",
+    "Volodymyr Zelenskyi",
+    "Volodymyr Zelenskyj"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1978-01-25",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Kryvyi Rih",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "President of Ukraine, Supreme Commander of the Armed Forces of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Volodymyr Oleksandrovych Zelenskyy is a prominent Ukrainian politician and former entertainer, serving as the sixth [[president-of-ukraine|president of Ukraine]] since 2019. His presidency has been marked by significant challenges, including the ongoing Russo-Ukrainian war and efforts to unify the country's diverse population.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Volodymyr Zelenskyy was born on 25 January 1978 in [[kryvyi-rih|Kryvyi Rih]], located in the [[dnipro|Dnipropetrovsk]] Oblast of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]. He was raised in a Russian-speaking Jewish family, with his mother, Rymma, being a retired engineer, and his father, Oleksandr, a professor and head of the Department of Cybernetics and Computing Hardware at Kryvyi Rih State University of Economics and Technology. His paternal grandfather, Semyon, served as an infantryman in the Red Army during World War II, and both of his grandparents were victims of the Holocaust.",
+        "Zelenskyy spent part of his childhood in Erdenet, Mongolia, where his father worked as a mining engineer. He later earned a law degree from the Kryvyi Rih Institute of Economics but did not pursue a career in law."
+      ]
+    },
+    {
+      "heading": "Entertainment Career",
+      "paragraphs": [
+        "Zelenskyy's entertainment career began at age 17 when he joined a local team in KVN, a comedy competition popular in former Soviet states. He later co-founded Kvartal 95, a production company that became a significant force in [[ukrainian|Ukrainian]] entertainment, producing popular television shows and films.",
+        "Kvartal 95's comedy show, Evening Kvartal, became the most-watched comedy program in [[ukraine|Ukraine]] during the 2000s. Zelenskyy also gained fame through various films and television projects, including the sitcom Svaty and the romantic comedy Love in the Big City. He was recognized for his contributions to the entertainment industry, winning awards and accolades."
+      ]
+    },
+    {
+      "heading": "Political Career",
+      "paragraphs": [
+        "In March 2018, Zelenskyy co-founded a political party named after his television series, [[servant-of-the-people|Servant of the People]]. He ran for president in the 2019 election, positioning himself as an anti-establishment candidate and winning with 73.23 percent of the vote, marking the largest electoral victory in Ukrainian history. His party also achieved significant success in the subsequent parliamentary elections.",
+        "As president, Zelenskyy has advocated for e-government and unity among Ukraine's diverse linguistic communities. He has faced significant challenges, including the full-scale Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] that began on 24 February 2022, during which he remained in [[kyiv|Kyiv]] and declared martial law."
+      ]
+    },
+    {
+      "heading": "Response to the Russo-Ukrainian War",
+      "paragraphs": [
+        "Zelenskyy's presidency has been defined by his response to the ongoing conflict with Russia. He has sought to negotiate peace while demanding a ceasefire and Russian withdrawal. His administration has called for international support and military aid for Ukraine, and he has actively engaged with world leaders to bolster Ukraine's defense efforts.",
+        "Despite numerous assassination attempts on his life, Zelenskyy has remained a symbol of Ukrainian resistance, visiting frontline areas and rallying support for his country. His leadership during the war has garnered international recognition, including being named Time Person of the Year for 2022."
+      ]
+    },
+    {
+      "heading": "Legacy and Future",
+      "paragraphs": [
+        "Zelenskyy's term as president was originally set to end in May 2024, but the ongoing war has led to an extension of his presidency. He is currently the second-longest serving president in Ukraine's history, following [[leonid-kuchma|Leonid Kuchma]]. A poll in October 2022 ranked him as the second most outstanding Ukrainian of all time, reflecting his significant impact on the nation during a critical period."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnipro",
+    "full-scale-russo-ukrainian-war",
+    "kryvyi-rih",
+    "kyiv",
+    "leonid-kuchma",
+    "president-of-ukraine",
+    "servant-of-the-people",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Volodymyr Zelenskyy — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

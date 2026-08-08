@@ -1,0 +1,105 @@
+{
+  "qid": "Q43070",
+  "slug": "donetsk",
+  "title": "Donetsk",
+  "type": "city of regional significance of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Aleksandrovka",
+    "Hughesovka",
+    "Stalin",
+    "Stalino",
+    "Yuzovka"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1869",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Russian Empire, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "965,800",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "358",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "169",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Alexey Kulemzin",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.0158, 37.8028",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Donetsk is an industrial city in eastern Ukraine, situated on the Kalmius River within Donetsk Oblast. Historically significant as the unofficial capital of the [[donbas|Donets Basin]], it has been a focal point of conflict during the Russo-Ukrainian War since 2014.",
+  "sections": [
+    {
+      "heading": "Geographical and Demographic Overview",
+      "paragraphs": [
+        "Donetsk is located in eastern [[ukraine|Ukraine]] on the Kalmius River, with a population estimated at 901,645 in 2022 within the city core and over 2 million in the metropolitan area as of 2011. The city is part of a major urban sprawl adjacent to Makiivka."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "The settlement of Aleksandrovka was first mentioned in 1779, and the city of Donetsk was founded in 1869 by Welsh businessman John Hughes, who established a steel plant and coal mines. The city underwent several name changes, including Yuzovka, Stalin, and Stalino, before being renamed Donetsk in 1961.",
+        "In 1924, the city was named Stalin, and in 1929 it became Stalino. After World War II, Donetsk was rebuilt and became the administrative center of the Donetsk Oblast of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] in 1933."
+      ]
+    },
+    {
+      "heading": "Economic Significance",
+      "paragraphs": [
+        "Donetsk has been a major economic and industrial center in Ukraine, characterized by a high concentration of heavy industries such as steel production, chemical manufacturing, and coal mining. The city faced ecological challenges due to its industrial activities.",
+        "In 2008, Donetsk was recognized as the best city in the Commonwealth of Independent States for its development strategies, and in 2012 and 2013, it was noted as the best place for business in Ukraine."
+      ]
+    },
+    {
+      "heading": "Conflict and Current Status",
+      "paragraphs": [
+        "Since April 2014, Donetsk has been a significant battleground in the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]], with pro-Russian separatists declaring the Donetsk People's Republic. The city has been administered by these separatist forces, and as of June 2026, it remains under Russian control amidst ongoing military conflict.",
+        "The city was heavily impacted by fighting, particularly around the Donetsk International Airport, which became a focal point of conflict in 2014."
+      ]
+    },
+    {
+      "heading": "Climate and Geography",
+      "paragraphs": [
+        "Donetsk is situated in a steppe landscape surrounded by woodlands, hills, and rivers. The climate is classified as moderate hot summer continental, with average temperatures ranging from −4.0 °C (25 °F) in January to 22.5 °C (73 °F) in July."
+      ]
+    }
+  ],
+  "links_out": [
+    "donbas",
+    "full-scale-russo-ukrainian-war",
+    "ukraine",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Donetsk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Donetsk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

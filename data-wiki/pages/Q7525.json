@@ -1,0 +1,104 @@
+{
+  "qid": "Q7525",
+  "slug": "sevastopol",
+  "title": "Sevastopol",
+  "type": "city or town",
+  "category": "geography",
+  "aliases": [
+    "Aqyar",
+    "Sebastopol",
+    "Sevastopil",
+    "Sevastopol'",
+    "Sewastupolis",
+    "Sewastúpolis"
+  ],
+  "infobox": {
+    "label": "city or town",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1783",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ottoman Empire, Russian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "418,987",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "863",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "100",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Mikhail Razvozhayev",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "44.6050, 33.5225",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Sevastopol is the largest city in [[crimea|Crimea]] and a significant port on the Black Sea, founded in 1783 by Catherine the Great. The city has a complex history marked by its strategic military importance and its contentious status following the annexation of Crimea by Russia in 2014, despite being internationally recognized as part of Ukraine.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Sevastopol covers a total administrative area of 864 square kilometres (334 sq mi), which includes a considerable amount of rural land. The urban population is primarily concentrated around Sevastopol Bay, with a total population of 547,820, of which 479,394 reside in the urban area."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Founded in June 1783, Sevastopol was established as a naval base by Rear Admiral Thomas MacKenzie on the site of the ancient Greek city of Chersonesus. The city was named by Catherine the Great, who ordered the construction of a fortress there in 1784. It served as a crucial naval base for the Russian Empire and later became known for its military significance during various conflicts."
+      ]
+    },
+    {
+      "heading": "Military Significance",
+      "paragraphs": [
+        "Sevastopol's strategic location made it a focal point during the Crimean War (1853-1856) and World War II, where it endured extensive bombardments and sieges. The city was recognized for its fortifications and was awarded the title of Hero City after its liberation by the Red Army on 9 May 1944."
+      ]
+    },
+    {
+      "heading": "Soviet and Ukrainian Era",
+      "paragraphs": [
+        "During the Soviet period, Sevastopol was designated as a 'closed city,' requiring permits for non-residents to enter. In 1954, it was transferred from the Russian SFSR to the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]], becoming a municipality with special status. Following [[ukraine|Ukraine]]'s independence in 1991, Sevastopol became the primary base of the [[ukrainian|Ukrainian]] navy, leading to ongoing tensions with Russia."
+      ]
+    },
+    {
+      "heading": "Contemporary Status",
+      "paragraphs": [
+        "Sevastopol has been occupied by Russia since 27 February 2014, following the [[russian-annexation-of-crimea|annexation of Crimea]] on 18 March 2014. Despite this, the city is still internationally recognized as part of Ukraine. The population includes a majority of ethnic Russians, alongside significant Ukrainian and Crimean Tatar minorities."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "russian-annexation-of-crimea",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Sevastopol — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sevastopol",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

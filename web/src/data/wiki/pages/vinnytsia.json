@@ -1,0 +1,109 @@
+{
+  "qid": "Q157144",
+  "slug": "vinnytsia",
+  "title": "Vinnytsia",
+  "type": "centre of oblast",
+  "category": "geography",
+  "aliases": [
+    "Vinica",
+    "Vinnica",
+    "Vinnitsa",
+    "Vinnycja",
+    "Vinnytsa",
+    "Vinnytsya",
+    "Winnica"
+  ],
+  "infobox": {
+    "label": "centre of oblast",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1363",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "367,610",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "113",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "248",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Serhii Morhunov",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.2372, 28.4672",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Vinnytsia is a city in west-central Ukraine, serving as the administrative center of Vinnytsia Oblast and Vinnytsia Raion. With a population of 431,319 as of July 2026, it is the largest city in the historic region of Podillia and has a rich history dating back to the Middle Ages.",
+  "sections": [
+    {
+      "heading": "Geographical Context",
+      "paragraphs": [
+        "Vinnytsia is situated approximately 260 km (160 mi) southwest of [[kyiv|Kyiv]], 429 km (267 mi) north-northwest of [[odesa|Odesa]], and 369 km (229 mi) east of [[lviv|Lviv]]. It functions as the administrative center of Vinnytsia Oblast and Vinnytsia Raion."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "The city has historical roots that trace back to the 14th century when it was established as a trade and political center. Vinnytsia was under Lithuanian and Polish control for several centuries before being ceded to the Russian Empire in 1793. It was significant during the Cossack uprisings and served as a temporary capital for the [[ukrainian-peoples-republic|Ukrainian People's Republic]] during the [[ukrainian-war-of-independence|Ukrainian Revolution]] of 1917–1920.",
+        "During World War II, Vinnytsia was occupied by German forces, leading to the tragic loss of its Jewish population during the Holocaust. The city was also the site of Nazi atrocities and later became a significant military base in the Soviet era."
+      ]
+    },
+    {
+      "heading": "Modern Development",
+      "paragraphs": [
+        "Since [[ukraine|Ukraine]]'s independence, Vinnytsia has developed into one of the most comfortable cities for living in the country. It has been the site of significant events during the ongoing conflict with Russia, including missile strikes that resulted in civilian casualties and damage to infrastructure."
+      ]
+    },
+    {
+      "heading": "Government and Politics",
+      "paragraphs": [
+        "Vinnytsia serves as the administrative center for both Vinnytsia Oblast and Vinnytsia Raion. The city has been associated with prominent political figures, including former President [[petro-poroshenko|Petro Poroshenko]] and former Prime Minister Volodymyr Groysman."
+      ]
+    },
+    {
+      "heading": "Population and Demographics",
+      "paragraphs": [
+        "As of 1 July 2026, Vinnytsia has a population of 431,319, making it one of the ten largest cities in Ukraine. The 2001 census indicated that [[ukrainians|Ukrainians]] comprised 87% of the population, with Russians accounting for 10%."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "lviv",
+    "odesa",
+    "petro-poroshenko",
+    "ukraine",
+    "ukrainian-peoples-republic",
+    "ukrainian-war-of-independence",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Vinnytsia — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vinnytsia",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

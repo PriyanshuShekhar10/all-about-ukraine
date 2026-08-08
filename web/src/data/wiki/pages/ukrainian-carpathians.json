@@ -1,0 +1,74 @@
+{
+  "qid": "Q1062643",
+  "slug": "ukrainian-carpathians",
+  "title": "Ukrainian Carpathians",
+  "type": "mountain range",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "mountain range",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "1,094",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.5000, 24.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Ukrainian Carpathians are a segment of the Eastern Carpathians located in the southwestern part of Ukraine, spanning four administrative regions. This mountain range is significant for its diverse geological features and cultural relevance within Ukraine.",
+  "sections": [
+    {
+      "heading": "Geographical Location",
+      "paragraphs": [
+        "The Ukrainian Carpathians are situated in the southwestern corner of Western [[ukraine|Ukraine]], encompassing parts of four [[ukrainian|Ukrainian]] regions: northeastern Zakarpattia Oblast, southwestern [[lviv|Lviv]] Oblast, southern [[ivano-frankivsk|Ivano-Frankivsk]] Oblast, and western [[chernivtsi|Chernivtsi]] Oblast.",
+        "This mountain range extends in a general northwest-southeast direction, beginning at the tripartite border of Ukraine with Poland and Slovakia, and continuing towards the border with Romania."
+      ]
+    },
+    {
+      "heading": "Geological Classification",
+      "paragraphs": [
+        "In terms of geological classification, the Ukrainian Carpathians are divided into two main categories: the majority belongs to the Outer Eastern Carpathians, while a smaller portion is classified as the Inner Eastern Carpathians."
+      ]
+    },
+    {
+      "heading": "Regional Designations",
+      "paragraphs": [
+        "Various regional and national traditions have produced overlapping classifications for the Eastern Carpathian mountain ranges. A notable section of the Outer Eastern Carpathians, which spans parts of southeastern Poland, northeastern Slovakia, and western Ukraine, is commonly referred to as the Eastern Beskids.",
+        "In Slovakia, the same mountain range is also known as the Meadowed Mountains."
+      ]
+    },
+    {
+      "heading": "Subdivisions",
+      "paragraphs": [
+        "The Ukrainian Carpathians include several subdivisions, particularly within the Inner Eastern Carpathians, such as the Vihorlat Mountains, Makovytsia, Velikyi Dil, Tupyi, Oaș Mountains, Maramureș Lowland, and Maramureș Mountains.",
+        "Additionally, the Outer Eastern Carpathians feature subdivisions like the Wooded Beskids, which include the Bieszczady Mountains, Sanok-Turka Mountains, and Skole Beskids, among others. The Polonynian Beskids comprise notable areas such as Smooth Polonyna, Polonyna Borzhava, and Chornohora."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernivtsi",
+    "ivano-frankivsk",
+    "lviv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Carpathians — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Carpathians",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,94 @@
+{
+  "qid": "Q7835",
+  "slug": "crimea",
+  "title": "Crimea",
+  "type": "peninsula",
+  "category": "geography",
+  "aliases": [
+    "Cimmeria",
+    "Crim.",
+    "Crimean P.",
+    "Crimean Peninsula",
+    "Kimmeria",
+    "Kimmería",
+    "Kirim",
+    "Qırım",
+    "Taurica",
+    "Taurike",
+    "Taurikḗ"
+  ],
+  "infobox": {
+    "label": "peninsula",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Russia",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "546,592",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "27,000",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "45.0000, 34.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Crimea is a peninsula located in Eastern Europe, bordered by the Black Sea and the Sea of Azov, and is internationally recognized as part of Ukraine. The region has a complex history marked by various cultures and powers, and has been under Russian occupation since 2014.",
+  "sections": [
+    {
+      "heading": "Geographical Overview",
+      "paragraphs": [
+        "Crimea is situated on the northern coast of the Black Sea and the western coast of the Sea of Azov, covering an area of 27,000 km2 (10,425 sq mi). It is connected to mainland [[ukraine|Ukraine]] via the Isthmus of Perekop, which is approximately 5–7 kilometers (3.1–4.3 mi) wide. The peninsula is almost an island, with natural borders formed by the Syvash lagoons along the western shore of the Sea of Azov."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Historically known as the Tauric Peninsula, Crimea has served as a cultural and strategic crossroads between various civilizations. The Greek colonies established along its southern coast in the 5th century BCE laid the groundwork for its significance in trade and culture. The peninsula later became part of the Roman and Byzantine Empires, and was influenced by the Golden Horde and the Crimean Khanate."
+      ]
+    },
+    {
+      "heading": "Russian Annexation and Occupation",
+      "paragraphs": [
+        "In 1783, Crimea was annexed by the Russian Empire following the Russo-Turkish War. The strategic importance of the peninsula was highlighted during the 1854 Crimean War. After a tumultuous 20th century, including occupation by Nazi Germany during World War II and the deportation of Crimean Tatars under [[donetsk|Stalin]], Crimea was transferred to the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] in 1954. Following Ukraine's independence in 1991, Crimea was designated as the Autonomous Republic of Crimea until its occupation by Russian forces in 2014, which led to an internationally unrecognized referendum and subsequent annexation by Russia."
+      ]
+    },
+    {
+      "heading": "Cultural and Demographic Aspects",
+      "paragraphs": [
+        "Crimea has a population of approximately 2.4 million, with [[sevastopol|Sevastopol]] being its largest city. The region is home to a diverse cultural heritage, influenced by its historical rulers, including Greeks, Tatars, and Russians. The Crimean Tatar name for the peninsula is Qırım, while it is known as Крым (Krym) in both Russian and [[ukrainian|Ukrainian]]."
+      ]
+    },
+    {
+      "heading": "Current Status",
+      "paragraphs": [
+        "Despite being under Russian control since 2014, Crimea is still recognized by most countries as part of Ukraine. The ongoing geopolitical tensions surrounding the peninsula continue to impact regional stability and relations between Ukraine and Russia."
+      ]
+    }
+  ],
+  "links_out": [
+    "donetsk",
+    "sevastopol",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Crimea — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Crimea",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

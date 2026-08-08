@@ -1,0 +1,117 @@
+{
+  "qid": "Q156726",
+  "slug": "ivano-frankivsk",
+  "title": "Ivano-Frankivsk",
+  "type": "city of regional significance of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Ivano-Frankivs'k",
+    "Stanislau",
+    "Stanislav",
+    "Stanislavov",
+    "Stanislaw",
+    "Stanislawow",
+    "Stanisle",
+    "Stanislev",
+    "Stanislo",
+    "Stanislowow",
+    "Stanisławów",
+    "Stanyslaviv"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1662",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "229,447",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "119",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "244",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Wiktor Anuschkewytschus, Ruslan Martsinkiv",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.9228, 24.7106",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Ivano-Frankivsk is a city of regional significance in western [[ukraine|Ukraine]], serving as the administrative center of Ivano-Frankivsk Oblast and Ivano-Frankivsk Raion. With a population of approximately 238,196 in 2022, it has a rich historical background and diverse cultural influences.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Originally founded as a fortress named Stanisławów in the mid-17th century by the Polish Potocki family, the city was annexed to the Habsburg Empire in 1772 during the First Partition of Poland. It evolved from a military fortification to a prominent urban center at the foothills of the Carpathian Mountains.",
+        "In the aftermath of World War I, Stanisławów briefly served as the temporary capital of the [[west-ukrainian-peoples-republic|West Ukrainian People's Republic]]. Following the Peace of Riga in 1921, it became part of the Second Polish Republic until the onset of World War II, when it was annexed by the Soviet Union and later occupied by Nazi Germany."
+      ]
+    },
+    {
+      "heading": "Name Evolution",
+      "paragraphs": [
+        "The city has undergone several name changes throughout its history. Initially known as Stanisławów, it was transliterated as Stanislau during its time under the Austrian Empire. After World War II, it was renamed Stanislav by Soviet authorities, and in 1962, it was renamed Ivano-Frankivsk to honor the [[ukrainian|Ukrainian]] writer [[ivan-franko|Ivan Franko]]."
+      ]
+    },
+    {
+      "heading": "Geography and Climate",
+      "paragraphs": [
+        "Ivano-Frankivsk is located in the Carpathian region, approximately 120 meters above sea level. The Vovchynets Hill, part of the Pokuttya Highland, is a notable geographical feature, reaching heights of 300-350 meters. The climate is characterized as moderate continental, with warm summers and cold winters, and an average of 170 days of precipitation annually."
+      ]
+    },
+    {
+      "heading": "Demographics and Language",
+      "paragraphs": [
+        "As of the 2021 census, the city had a population of approximately 238,196, with a significant majority speaking Ukrainian at home. A survey conducted in April-May 2023 indicated that 97% of the population used Ukrainian, while 3% spoke Russian."
+      ]
+    },
+    {
+      "heading": "Administrative Significance",
+      "paragraphs": [
+        "Ivano-Frankivsk serves as the administrative center for both Ivano-Frankivsk Oblast and Ivano-Frankivsk Raion. The city administration is located in a prominent building known as Bily Dim on Hrushevsky Street. Following administrative reforms in July 2020, the city was incorporated into the newly established Ivano-Frankivsk Raion."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "Since the beginning of the Russian full-scale [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in 2022, Ivano-Frankivsk has faced attacks from Russian forces, including missile strikes on February 24 and March 11, 2022."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "ivan-franko",
+    "ukraine",
+    "ukrainian",
+    "west-ukrainian-peoples-republic"
+  ],
+  "sources": [
+    {
+      "title": "Ivano-Frankivsk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ivano-Frankivsk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

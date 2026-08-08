@@ -1,0 +1,88 @@
+{
+  "qid": "Q579677",
+  "slug": "president-of-ukraine",
+  "title": "President of Ukraine",
+  "type": "elective office",
+  "category": "politics",
+  "aliases": [
+    "Ukrainian president"
+  ],
+  "infobox": {
+    "label": "elective office",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1991-07-05",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The President of Ukraine serves as the head of state, representing the nation in international affairs and overseeing the executive branch of government. Elected by the citizens for a five-year term, the office has been pivotal in shaping Ukraine's political landscape since its establishment in 1991.",
+  "sections": [
+    {
+      "heading": "Role and Responsibilities",
+      "paragraphs": [
+        "The President of Ukraine is the supreme commander-in-chief of the [[armed-forces-of-ukraine|Ukrainian Armed Forces]] and leads the National Security and Defence Council. This council advises the president and coordinates executive power in matters of national security and defense.",
+        "As defined by the [[constitution-of-ukraine|Constitution of Ukraine]], the president guarantees the sovereignty and territorial integrity of the state, as well as the observance of human and citizens' rights and freedoms. The president also possesses the authority to veto laws passed by parliament, although this veto can be overridden with a two-thirds majority vote.",
+        "The president has the power to nominate candidates for key government positions, including the ministers of foreign affairs and defense, and appoints six out of eighteen judges to the Constitutional Court."
+      ]
+    },
+    {
+      "heading": "Election and Terms",
+      "paragraphs": [
+        "The president is directly elected by [[ukrainian|Ukrainian]] citizens for a five-year term, with a limit of two consecutive terms. The elections can be scheduled or called early, depending on the political situation.",
+        "The current president, [[volodymyr-zelenskyy|Volodymyr Zelenskyy]], took the oath of office on 20 May 2019. Due to the ongoing martial law, elections have been suspended in the country."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The office of the president was officially established on 5 December 1991, following [[ukraine|Ukraine]]'s independence from the Soviet Union. The first president was [[leonid-kravchuk|Leonid Kravchuk]], who served from 1991 until his resignation in 1994.",
+        "Since the establishment of the presidency, there have been six presidents, with [[leonid-kuchma|Leonid Kuchma]] being the only one to serve two consecutive terms. [[viktor-yushchenko|Viktor Yushchenko]], [[petro-poroshenko|Petro Poroshenko]], and [[viktor-yanukovych|Viktor Yanukovych]] each served one term, with Yanukovych being replaced by acting president [[oleksandr-turchynov|Oleksandr Turchynov]] on 21 February 2014."
+      ]
+    },
+    {
+      "heading": "Modern Presidency",
+      "paragraphs": [
+        "The modern presidency was formally established on 5 July 1991, with the title changing to 'President of Ukraine' on 24 August 1991. The first presidential election coincided with the independence referendum, resulting in Kravchuk's election by a record 19.5 million votes.",
+        "Subsequent elections have been marked by significant events, including the [[orange-revolution|Orange Revolution]] in 2004, which led to Viktor Yushchenko's victory, and the 2014 [[revolution-of-dignity|Revolution of Dignity]] that resulted in the removal of Yanukovych and the appointment of Turchynov as acting president."
+      ]
+    },
+    {
+      "heading": "Presidential Influence",
+      "paragraphs": [
+        "The president of Ukraine holds considerable influence, as the role is not merely ceremonial. Unlike many countries with a similar semi-presidential system, both the president and the prime minister wield substantial power.",
+        "The president's ability to approve the appointment of the prime minister further underscores the significance of the presidential office within the Ukrainian political framework."
+      ]
+    }
+  ],
+  "links_out": [
+    "armed-forces-of-ukraine",
+    "constitution-of-ukraine",
+    "leonid-kravchuk",
+    "leonid-kuchma",
+    "oleksandr-turchynov",
+    "orange-revolution",
+    "petro-poroshenko",
+    "revolution-of-dignity",
+    "ukraine",
+    "ukrainian",
+    "viktor-yanukovych",
+    "viktor-yushchenko",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "President of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/President_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

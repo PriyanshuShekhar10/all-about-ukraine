@@ -1,0 +1,87 @@
+{
+  "qid": "Q4551",
+  "slug": "borscht",
+  "title": "borscht",
+  "type": "topic",
+  "category": "culture",
+  "aliases": [
+    "barsciai",
+    "barszcz",
+    "barszcz czerwony",
+    "barščiai",
+    "beetroot soup",
+    "borsch",
+    "borshch",
+    "borshsh",
+    "borsht",
+    "borszcz",
+    "bortsch",
+    "chlodnik",
+    "chłodnik",
+    "ciorba de sfecla",
+    "ciorbă de sfeclă",
+    "cold beet soup",
+    "cold borscht",
+    "hot borscht",
+    "saltibarsciai",
+    "Šaltibarščiai"
+  ],
+  "infobox": {
+    "label": "topic",
+    "fields": []
+  },
+  "summary": "Borscht is a sour soup that is particularly associated with [[ukrainian-cuisine|Ukrainian cuisine]], characterized by its use of red beetroots, which impart a distinctive red color. This dish has deep cultural significance in Ukraine and has evolved into various regional interpretations across Eastern Europe.",
+  "sections": [
+    {
+      "heading": "Culinary Significance in Ukraine",
+      "paragraphs": [
+        "Borscht is an integral part of [[ukrainian|Ukrainian]] culinary tradition, with each region, or oblast, offering its own unique version. The variations may include different types of stock, meats, and vegetables, reflecting local tastes and customs. For instance, the [[kyiv|Kyiv]] variant incorporates mutton along with beef, while the [[poltava|Poltava]] version is typically made with poultry.",
+        "The dish is not only a staple of everyday meals but also symbolizes hospitality and is featured in various traditional celebrations and rituals. A notable example is the third day of a wedding celebration, referred to as do nevistky na borshch, which translates to 'visit daughter-in-law to eat borscht'."
+      ]
+    },
+    {
+      "heading": "Historical Context and Etymology",
+      "paragraphs": [
+        "The term 'borscht' is derived from the Ukrainian and Russian word бо́рщ (borshch) and has cognates in other Slavic languages. It originates from the Proto-Slavic word *bъ̃rščь, meaning 'hogweed', which reflects the dish's ancient roots in Slavic culinary practices.",
+        "The soup's popularity spread from [[ukraine|Ukraine]] throughout Eastern Europe and beyond, particularly through migration from the Russian Empire, leading to various adaptations in different cultures."
+      ]
+    },
+    {
+      "heading": "Ingredients and Preparation",
+      "paragraphs": [
+        "Borscht is typically prepared using a meat or bone stock, often made from beef or pork, with a variety of vegetables such as beetroots, cabbage, carrots, and potatoes. The preparation involves sautéing vegetables separately and then combining them with the stock, a method that ensures even cooking.",
+        "The dish can be served hot or cold and may include various garnishes such as sour cream, hard-boiled eggs, or traditional breads like pampushky."
+      ]
+    },
+    {
+      "heading": "UNESCO Recognition",
+      "paragraphs": [
+        "In 2022, UNESCO recognized the 'Culture of Ukrainian borscht cooking' as part of its List of Intangible Cultural Heritage in Need of Urgent Safeguarding, highlighting the dish's cultural importance amidst the backdrop of the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Variations Across Cultures",
+      "paragraphs": [
+        "While borscht is most commonly associated with Ukraine, it has numerous variations in neighboring countries. For example, Polish cuisine features clear red borscht known as barszcz czysty czerwony, and Jewish communities have adapted the soup to create both meat and dairy versions, reflecting their dietary laws.",
+        "Russian and Lithuanian adaptations also exist, with unique ingredients and preparation methods that distinguish them from the traditional Ukrainian borscht."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "poltava",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-cuisine"
+  ],
+  "sources": [
+    {
+      "title": "Borscht — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Borscht",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

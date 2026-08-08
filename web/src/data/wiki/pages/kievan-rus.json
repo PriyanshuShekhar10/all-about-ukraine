@@ -1,0 +1,100 @@
+{
+  "qid": "Q1108445",
+  "slug": "kievan-rus",
+  "title": "Kievan Rus'",
+  "type": "historical country",
+  "category": "history",
+  "aliases": [
+    "Kievan Rus",
+    "Kyivan Rus",
+    "Kyivan Rus'",
+    "Kyivan Rusʹ",
+    "Kyivan Rusʼ",
+    "Kyivan state",
+    "Kyivska Rus'",
+    "Rus"
+  ],
+  "infobox": {
+    "label": "historical country",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "0882",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Kievan Rus'",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Kyiv",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "5,400,000",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "1,330,000",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4500, 30.5250",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Kievan Rus', also referred to as Kyivan Rus', was the inaugural East Slavic state and a collective of principalities in Eastern Europe from the late 9th to the mid-13th century. It played a crucial role in shaping the cultural and political landscape of Ukraine and the surrounding region.",
+  "sections": [
+    {
+      "heading": "Historical Overview",
+      "paragraphs": [
+        "Kievan Rus' emerged as the first East Slavic state and later evolved into a federation of principalities from the late 9th century until the mid-13th century. It included a diverse range of polities and ethnic groups, such as East Slavic, Norse, and Finnic peoples, and was governed by the Rurik dynasty, which was established by the Varangian prince Rurik. The term 'Kievan Rus' was introduced by Russian historians in the 19th century to denote the period when Kiev was the dominant city.",
+        "At its zenith in the mid-11th century, Kievan Rus' extended from the White Sea in the north to the Black Sea in the south, and from the Carpathian Mountains in the west to the Taman Peninsula in the east, effectively uniting various East Slavic tribes."
+      ]
+    },
+    {
+      "heading": "Key Rulers and Developments",
+      "paragraphs": [
+        "According to the Primary Chronicle, the initial ruler to consolidate East Slavic territories into Kievan Rus' was Varangian prince Oleg the Wise (r. 879–912), who expanded his influence from Novgorod southward along the [[dnieper|Dnieper River]] to safeguard trade against Khazar threats and established his rule over Kiev.",
+        "Sviatoslav I (r. 943–972) marked the first significant territorial expansion of Kievan Rus' through military campaigns against the Khazars. Vladimir the Great (r. 980–1015) played a pivotal role in the Christianization of the state, personally converting and mandating the baptism of all residents of Kiev and its surroundings. Kievan Rus' reached its peak under Yaroslav the Wise (r. 1019–1054), who oversaw the creation of its first written legal code, the Russkaya Pravda, shortly after his death."
+      ]
+    },
+    {
+      "heading": "Decline and Fall",
+      "paragraphs": [
+        "The decline of Kievan Rus' began in the late 11th century, as it fragmented into competing regional powers throughout the 12th century. Contributing factors included the weakening of the Byzantine Empire, Kievan Rus' main economic ally, leading to a reduction in trade routes. The state ultimately succumbed to the Mongol invasion in the mid-13th century, although the Rurik dynasty continued to rule until the death of Feodor I of Russia in 1598."
+      ]
+    },
+    {
+      "heading": "Cultural Legacy",
+      "paragraphs": [
+        "Kievan Rus' is regarded as a cultural ancestor by the modern nations of Belarus, Russia, and [[ukraine|Ukraine]]. The name 'Rus' has various historical interpretations and etymologies, with connections to both Norse and Slavic origins. The term 'Kievan Rus' was popularized in the 19th century and is used to describe the period from the 9th century to the mid-13th century when Kiev was the center of power."
+      ]
+    },
+    {
+      "heading": "Origins and Ethnic Composition",
+      "paragraphs": [
+        "Before the establishment of Kievan Rus', the area was predominantly inhabited by Eastern Slavic tribes. The northern regions were home to the Ilmen Slavs and Krivichi, while the southern areas around Kiev were occupied by the Poliane, Drevliane, and Severiane tribes. The origins of the Rus' have been debated, with some arguing for a Varangian (Norse) background and others asserting a Slavic identity. The consensus among historians is that if the proto-Rus' were initially Norse, they quickly assimilated into Slavic culture."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnieper",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Kievan Rus' — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kievan_Rus'",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

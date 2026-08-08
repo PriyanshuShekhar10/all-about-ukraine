@@ -1,0 +1,63 @@
+{
+  "qid": "Q47805",
+  "slug": "cossacks",
+  "title": "Cossacks",
+  "type": "social class",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "social class",
+    "fields": []
+  },
+  "summary": "The Cossacks are a significant social class in [[ukrainian|Ukrainian]] history, primarily composed of East Slavic, Eastern Orthodox Christian individuals who originated from the Pontic–Caspian steppe. They played a crucial role in military defense and the development of the southern [[administrative-territorial-entity-of-ukraine|regions of Ukraine]] and surrounding areas.",
+  "sections": [
+    {
+      "heading": "Origins and Etymology",
+      "paragraphs": [
+        "The Cossacks emerged from the Pontic–Caspian steppe, primarily in eastern [[ukraine|Ukraine]] and southern Russia. The term 'Cossack' is derived from the Tatar Turkic word kazak, meaning 'free man' or 'conqueror'. The name first appeared in written records in the Codex Cumanicus from the 13th century."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "Cossacks were historically a semi-nomadic, semi-militarized people who provided military service in exchange for autonomy under various Eastern European states. By the end of the 15th century, Slavic peasants fleeing to the lower [[dnieper|Dnieper]] and Don Rivers established self-governing communities, becoming known as Cossacks.",
+        "Major Cossack hosts included the Zaporozhian Cossacks near the Dnieper and the Don Cossacks along the River Don. These groups played a vital role in the development of mounted horsemanship and cavalry tactics, significantly impacting the cultural landscape of Ukraine."
+      ]
+    },
+    {
+      "heading": "Cossack Society and Military Role",
+      "paragraphs": [
+        "Cossack society functioned as a federation of independent communities, often forming local cavalry units. The Zaporozhian Cossacks were primarily infantry, while the Don Cossacks focused on cavalry. Each host was responsible for protecting its territory, consisting of affiliated villages called stanitsas.",
+        "Cossacks were instrumental in defending the southern borders of the Polish-Lithuanian Commonwealth and the Russian Empire against Crimean–Nogai raids, contributing to the economic development of the steppe regions."
+      ]
+    },
+    {
+      "heading": "Impact of Political Changes",
+      "paragraphs": [
+        "The Cossack way of life faced significant disruptions during the Russian Revolution, leading to migrations and assimilation into the Soviet state. After World War II, the Soviet Union disbanded Cossack military units, suppressing many of their traditions.",
+        "However, during the Perestroika era in the late 1980s, there was a revival of Cossack culture, with laws permitting the re-establishment of Cossack hosts. By the 1990s, regional authorities began to delegate local administrative responsibilities to these groups."
+      ]
+    },
+    {
+      "heading": "Cossack Identity Today",
+      "paragraphs": [
+        "Currently, between 3.5 and 5 million people worldwide identify with Cossack culture, although many have little connection to the original Cossack communities. Cossack organizations exist in countries including Ukraine, Russia, Belarus, Kazakhstan, Canada, and the United States."
+      ]
+    }
+  ],
+  "links_out": [
+    "administrative-territorial-entity-of-ukraine",
+    "dnieper",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Cossacks — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cossacks",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,88 @@
+{
+  "qid": "Q2635017",
+  "slug": "roshen",
+  "title": "Roshen",
+  "type": "privately held company",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "privately held company",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1996",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv, Vinnytsia",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Roshen Confectionery Corporation is a prominent Ukrainian confectionery manufacturing group, known for its extensive production and export of various confectionery products. Founded in 1993, the company has become a significant player in the global candy industry, with its operations deeply rooted in Ukraine.",
+  "sections": [
+    {
+      "heading": "Company Overview",
+      "paragraphs": [
+        "Roshen Confectionery Corporation ([[ukrainian|Ukrainian]]: Кондитерська корпорація «Рошен», romanized: Kondyterska korporatsiia \"Roshen\") is a Ukrainian confectionery manufacturing group. The company operates factories in [[kyiv|Kyiv]], [[vinnytsia|Vinnytsia]], Ivankiv, and Kremenchuk, as well as in Budapest, Hungary, and Klaipėda, Lithuania. The name 'Roshen' is derived from the surname of its former owner, [[petro-poroshenko|Petro Poroshenko]], who served as the [[president-of-ukraine|president of Ukraine]] from 2014 to 2019.",
+        "In 2012, Roshen was ranked 18th in the 'Candy Industry Top 100' list of the world's largest confectionery companies, with an annual production volume of 410,000 tonnes. The company exports its products to numerous countries, including Kazakhstan, Uzbekistan, and the United States, though it previously derived 40 percent of its revenue from exports to Russia until the market was closed to them in July 2013."
+      ]
+    },
+    {
+      "heading": "Ownership and Management",
+      "paragraphs": [
+        "During the 2014 presidential election, Petro Poroshenko announced his plan to sell Roshen to avoid conflicts of interest after winning the presidency. On June 5, 2015, he confirmed his intention to transfer his shares to N M Rothschild & Sons, a private investment banking company. By January 2016, an agreement for the transfer was signed, and in April 2016, Poroshenko placed his shares in a blind trust managed by Rothschild Trust."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "The company was established in 1993 by the Poroshenko family as Ukrprominvest, aiming to privatize former state-owned factories. The creation of 'Ukrprominvest Kondyter' followed the acquisition of confectionery factories in Kyiv and Vinnytsia in 1996. Subsequent expansions included factories in [[mariupol|Mariupol]] in 1997 and Kremenchuk in 2000, along with a milk factory in Bershad in 1998.",
+        "In 2002, the company rebranded to 'Roshen' and adopted 'The sweet quality mark' as its slogan. The brand's first factory outside [[ukraine|Ukraine]] was established in Lipetsk, Russia, in 2000. In 2017, amid the [[full-scale-russo-ukrainian-war|Russo-Ukrainian war]], Roshen closed its Lipetsk factory and ceased operations in Russia."
+      ]
+    },
+    {
+      "heading": "Product Range and Production",
+      "paragraphs": [
+        "Roshen produces over 350 confectionery items, including chocolate, jelly sweets, caramel, toffee, and pastries, with an annual output of approximately 300,000 tonnes. As of 2023, the company ranked 23rd in Candy Industry's Top 100 confectionery companies, with reported sales of $800 million."
+      ]
+    },
+    {
+      "heading": "Social Initiatives",
+      "paragraphs": [
+        "Since 2005, Roshen has contributed to social projects in Ukraine, notably by installing 80 children's playgrounds in various cities. However, the project was halted in 2019 due to vandalism issues. Additionally, from 2015 to 2018, Roshen supported the Okhmatdyt children's hospital in Kyiv through significant donations for medical equipment and facility improvements."
+      ]
+    },
+    {
+      "heading": "Controversies",
+      "paragraphs": [
+        "Roshen and its founder, Poroshenko, have faced scrutiny regarding business practices, particularly concerning the sale of shares held by Poroshenko. The company also encountered challenges with Russian exports, culminating in a ban in July 2013 due to labeling issues, which many viewed as politically motivated. The Lipetsk factory was closed in 2014, and in February 2024, it was nationalized by Russia."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "mariupol",
+    "petro-poroshenko",
+    "president-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "vinnytsia"
+  ],
+  "sources": [
+    {
+      "title": "Roshen — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Roshen",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,55 @@
+{
+  "qid": "Q1680874",
+  "slug": "trembita",
+  "title": "trembita",
+  "type": "type of musical instrument",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "type of musical instrument",
+    "fields": []
+  },
+  "summary": "The trembita is a wooden alpine horn traditionally associated with the Hutsul highlanders of western [[ukraine|Ukraine]]. It serves both musical and signaling purposes within the cultural practices of the region.",
+  "sections": [
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "The term 'trembita' is thought to originate from the Romanian word 'trîmbiță'. It is likely a Slavicism derived from Proto-Slavic *trǫbica, which relates to the [[ukrainian|Ukrainian]] word 'труба'. The variant 'trombita' is believed to have been borrowed from the Hungarian 'trombita', which itself comes from the Italian 'trombetta'."
+      ]
+    },
+    {
+      "heading": "Description",
+      "paragraphs": [
+        "The trembita is primarily utilized by the Hutsuls and Gorals, mountain dwellers in the Carpathians, as a signaling instrument for events such as deaths, funerals, and weddings. It is crafted from a long, straight piece of pine or spruce, ideally one that has been struck by lightning. The wood is split to carve out a core, then rejoined and wrapped in birch bark or osier rings. Additionally, it is used by shepherds for communication and guiding livestock in mountainous regions.",
+        "The trembita produces a brighter timbre than the alpenhorn due to its narrow bore and minimal flare. Lacking lateral openings, it generates a pure natural harmonic series. The upper harmonics are easily produced due to the small diameter of the bore relative to its length. The notes within the harmonic series do not align precisely with the chromatic scale of Western music, with the 7th and 11th harmonics being particularly prominent."
+      ]
+    },
+    {
+      "heading": "Modern Use",
+      "paragraphs": [
+        "In contemporary settings, the trembita is featured in Galician ethnographic ensembles and serves as an episodic instrument in Galician folk orchestras. It gained international recognition during the 2004 Eurovision Song Contest, where Ukrainian artist [[ruslana-lyzhychko|Ruslana]] showcased it while performing her song 'Wild Dances'.",
+        "The trembita is also utilized by the Ukrainian band ONUKA. Notably, the longest trembita, measuring 8.35 meters, was created by Polish folk musician Józef Chmiel and is located in the Czech Republic."
+      ]
+    },
+    {
+      "heading": "Similar Instruments",
+      "paragraphs": [
+        "The trembita shares similarities with several other instruments, including the alphorn, commonly used by mountain dwellers in Switzerland, and the erke, found in the Argentine Northwest. Other comparable instruments include the birch trumpet, utilized in Norway, Sweden, and the Baltic region, as well as the Scandinavian lur, and the trâmbiță or bucium, which is a type of alphorn used by shepherds in Romania and Moldova."
+      ]
+    }
+  ],
+  "links_out": [
+    "ruslana-lyzhychko",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Trembita — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Trembita",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,75 @@
+{
+  "qid": "Q2827170",
+  "slug": "agriculture-in-ukraine",
+  "title": "agriculture in Ukraine",
+  "type": "agriculture by country or territory",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "agriculture by country or territory",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Agriculture in Ukraine is a critical component of the national economy, recognized as one of the largest agricultural producers and exporters globally, often referred to as the 'breadbasket of Europe'. The sector encompasses vast agricultural land and significantly contributes to both domestic food supply and international food security.",
+  "sections": [
+    {
+      "heading": "Overview of Agricultural Land",
+      "paragraphs": [
+        "Agricultural land in [[ukraine|Ukraine]] spans approximately 42 million hectares, which constitutes 70% of the country's total land area. Of this land, 78.9% is classified as arable land and perennial plantations, while 13.0% is designated for pastures, and 8.4% for hayfields. The highest concentration of arable land is found in the Pontic–Caspian steppe regions and the East European forest steppe zones."
+      ]
+    },
+    {
+      "heading": "Crop Production",
+      "paragraphs": [
+        "The main crops cultivated in Ukraine include cereals such as winter and spring wheat, rye, barley, maize, oats, buckwheat, millet, and rice. Grain farming is vital for ensuring a steady supply of bread and bakery products, as well as generating significant revenue for the economy. Winter wheat is the predominant grain crop, primarily grown in the forest steppe and northern steppe regions.",
+        "Barley is the second most important grain, with spring barley cultivated in Polissia and winter barley in southern steppe areas. Maize ranks third in terms of acreage, predominantly used for animal feed. Sunflower, recognized as the leading oilseed crop, has been a highly profitable agricultural product in Ukraine."
+      ]
+    },
+    {
+      "heading": "Vegetable and Fruit Production",
+      "paragraphs": [
+        "In 2021, Ukraine surpassed the top nine vegetable-producing EU countries in total production of cabbages and cucumbers, with notable yields in tomatoes, onions, and carrots as well. However, EU counterparts demonstrated higher yields per hectare for most vegetables, attributed to more intensive greenhouse cultivation.",
+        "Ukraine also produces wine, primarily in the southwestern regions, including [[odesa|Odesa]] Oblast, Zakarpattia Oblast, and [[crimea|Crimea]]."
+      ]
+    },
+    {
+      "heading": "Livestock Breeding",
+      "paragraphs": [
+        "Livestock breeding plays a significant role in Ukraine's agricultural sector, accounting for over 38% of gross agricultural output. Key livestock sectors include cattle, pigs, sheep, and poultry, alongside aquaculture and beekeeping. The production of meat and milk has seen fluctuations, with notable declines in the 1990s followed by gradual recovery."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The agricultural landscape of Ukraine has been shaped by its geography, rich fertile soils, and historical developments. The [[cucutenitrypillia-culture|Cucuteni–Trypillia culture]], dating back to 5050 to 2950 BCE, marks the beginnings of large-scale agriculture in the region. Throughout history, various states and empires have recognized Ukraine's agricultural potential, contributing to its reputation as a key grain exporter."
+      ]
+    },
+    {
+      "heading": "Impact of Recent Conflicts",
+      "paragraphs": [
+        "Agriculture in Ukraine has faced significant challenges due to historical events, including collectivization in the 1930s and the privatization processes in the late 20th century. The ongoing [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]], particularly the full-scale invasion beginning on 24 February 2022, has severely affected agricultural production, with estimates indicating that about 30% of the agricultural sector's potential has been destroyed and nearly 20% of agricultural land occupied. Despite these challenges, by 2024, agricultural exports had rebounded to pre-war levels."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "cucutenitrypillia-culture",
+    "full-scale-russo-ukrainian-war",
+    "odesa",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Agriculture in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Agriculture_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,84 @@
+{
+  "qid": "Q491289",
+  "slug": "arcelormittal-kryvyi-rih",
+  "title": "ArcelorMittal Kryvyi Rih",
+  "type": "steel mill",
+  "category": "economy",
+  "aliases": [
+    "AMKR",
+    "Kryvorizhstal"
+  ],
+  "infobox": {
+    "label": "steel mill",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1931-06-16",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Metallurgical Raion, Kryvyi Rih",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "47.8837, 33.3909",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "ArcelorMittal Kryvyi Rih, formerly known as Kryvorizhstal, is the largest integrated steel company in Ukraine, established in 1934 in Kryvyi Rih. The company plays a significant role in the [[economy-of-ukraine|Ukrainian economy]] as a major producer of steel, particularly rebar and wire rod.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The existence of iron ore in the [[kryvyi-rih|Kryvyi Rih]] area has been documented since at least 1781, with indications of earlier knowledge among local inhabitants. The 1800s saw extensive surveys of the region's mineral resources, leading to the discovery of iron ore with a 70% iron content and manganese ores. Industrial extraction of iron ore commenced in 1881, coinciding with the construction of the Kryvyi Rih railway. By 1884, over 100,000 tons of iron ore had been extracted, and the railway connecting Yasynuvata station to Dolynska station was operational. By 1896, the Kryvyi Rih Basin had 20 mines producing over 1,000,000 tonnes of ore, with industrial growth continuing until 1917, though production was disrupted during World War I."
+      ]
+    },
+    {
+      "heading": "Foundation and Development",
+      "paragraphs": [
+        "Following the establishment of the Soviet Union, planning for an integrated steel plant began in 1929, aimed at combining iron ore and carbon mining with steel production. A decree for construction was signed in 1931, and the first metal was produced in August 1934 at Kryvorizhstal. Before World War II, the plant operated with three blast furnaces and two open hearth furnaces. In 1941, additional facilities were added before the Nazi occupation led to significant destruction. Post-war, the plant was rebuilt and expanded, becoming the largest in Europe by the late 1970s."
+      ]
+    },
+    {
+      "heading": "Post-Independence Era",
+      "paragraphs": [
+        "In 1996, a restructuring merged the Kryvyi Rih State Mining and Metallurgical Combine with the Novokrivorozhsky ore concentrating unit. The company gained international attention during its privatization in June 2004, when it was sold for $800 million, a deal criticized for perceived corruption. The privatization was annulled in 2005, leading to a second auction where Mittal Steel Company acquired a 93.02 percent stake in October 2005 for $4.81 billion, marking the largest privatization deal in the former Soviet Union."
+      ]
+    },
+    {
+      "heading": "Investment and Production",
+      "paragraphs": [
+        "From 2006 to 2022, ArcelorMittal Kryvyi Rih invested approximately $10 billion in [[ukraine|Ukraine]], focusing on production development and modernization projects. Key investments included the reconstruction of coke oven batteries and blast furnaces, as well as environmental initiatives. However, the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in February 2022 led to the suspension of several major projects, although essential operations continued. As of September 2024, the company aims to maintain its operations amid challenges such as declining iron ore prices and workforce mobilization."
+      ]
+    },
+    {
+      "heading": "Production Metrics",
+      "paragraphs": [
+        "In 2005, ArcelorMittal Kryvyi Rih produced over 6 million tonnes of crude steel, 5 million tonnes of rolled products, and 5.5 million tonnes of hot metal. By 2021, production metrics included 24.5 million tons of ore mining, 11 million tons of concentrate, 5.3 million tons of hot metal, 4.9 million tons of steel, and 4.6 million tons of rolled products. The integrated plant includes an iron ore mine, processing facilities, and various steel workshops."
+      ]
+    }
+  ],
+  "links_out": [
+    "economy-of-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "kryvyi-rih",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "ArcelorMittal Kryvyi Rih — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ArcelorMittal_Kryvyi_Rih",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

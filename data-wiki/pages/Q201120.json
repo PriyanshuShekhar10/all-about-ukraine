@@ -1,0 +1,63 @@
+{
+  "qid": "Q201120",
+  "slug": "paska",
+  "title": "paska",
+  "type": "topic",
+  "category": "culture",
+  "aliases": [
+    "Pască"
+  ],
+  "infobox": {
+    "label": "topic",
+    "fields": []
+  },
+  "summary": "Paska is a traditional Ukrainian Easter bread that holds cultural significance in Ukraine and other Central and Eastern European countries with ties to the Byzantine Empire and Eastern Christianity. It is an essential part of Easter celebrations, symbolizing the resurrection of Christ and featuring prominently in various festive customs.",
+  "sections": [
+    {
+      "heading": "Etymology and Origins",
+      "paragraphs": [
+        "In [[ukrainian|Ukrainian]], Easter is referred to as Великдень (Velýkden'). The word paska is derived from the Greek term for Easter, which has also influenced the Russian language, where it is known as пасха (páskha). In [[ukraine|Ukraine]], паска (páska) specifically denotes a traditional egg-enriched Easter bread or cake, while Великдень (Velýkden') signifies the holiday itself.",
+        "In some diaspora communities, the term paska may refer to braided loaves, whereas tall breads resembling Russian kulich are identified as baba or babka. The terminology can vary among different families and communities, encompassing both braided, decorated loaves and tall Easter cakes baked in tin cylinders."
+      ]
+    },
+    {
+      "heading": "Christian Symbolism",
+      "paragraphs": [
+        "In Mennonite communities in North America, baking paska is a ritual that commemorates the resurrection of Christ. Many Eastern Christian countries incorporate this bread into their Easter celebrations, associating it with various Christian symbols. Some variations of paska include ingredients such as chocolate, rice, or savory mixtures with cheese, while others may feature maraschino cherries symbolizing royal jewels in honor of Jesus' resurrection."
+      ]
+    },
+    {
+      "heading": "Traditional Ingredients",
+      "paragraphs": [
+        "Paska is typically made from milk, butter, eggs, flour, and sugar. In contrast, the Romanian version known as pască often includes sweet cream, cottage cheese, and/or sour cream, along with eggs, sugar, raisins, and rum. A mixture of egg and water is commonly used as a glaze for the bread."
+      ]
+    },
+    {
+      "heading": "Cultural Practices in Ukraine",
+      "paragraphs": [
+        "In Ukraine, it is customary to prepare an Easter basket (koshyk) filled with Easter eggs (pysanky), paska, sausage (kovbasa), butter, salt, and other ceremonial foods on Holy Saturday. After the Easter liturgy and the blessing of these items, families return home to enjoy the blessed food, which includes eggs and cold meats.",
+        "In eastern Ukraine, families place the blessed food (sviachene) on the table, and the oldest member unwraps the items, distributing them along with blessed unleavened bread. In the western regions, particularly in the Hutsul area, it is traditional to circle the house three times before entering and ceremoniously opening the food bundle over the children's heads before breaking their fast.",
+        "Modern pasky are often adorned with a white glaze made from sugar and egg, decorated with colored wheat grains or poppy seeds. Some regions still practice the old custom of creating dough ornaments for paska, symbolizing themes of spring, resurrection, and rebirth, with birds like larks used as decorative motifs."
+      ]
+    },
+    {
+      "heading": "Accompaniments",
+      "paragraphs": [
+        "Paska is commonly served alongside hrudka, also known as syrek, a sweet custard-like dish made from separated eggs and milk, as well as beets mixed with horseradish (chren/hrin) and kovbasa."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Paska (bread) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Paska_(bread)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

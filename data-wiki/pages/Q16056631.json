@@ -1,0 +1,75 @@
+{
+  "qid": "Q16056631",
+  "slug": "foreign-relations-of-ukraine",
+  "title": "foreign relations of Ukraine",
+  "type": "foreign relations",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "foreign relations",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The foreign relations of Ukraine encompass its diplomatic engagements with various nations, emphasizing Euro-Atlantic integration and security partnerships, particularly in response to regional threats. Ukraine's foreign policy has evolved significantly, especially following the annexation of Crimea and the ongoing conflict with Russia.",
+  "sections": [
+    {
+      "heading": "Western Relations",
+      "paragraphs": [
+        "[[ukraine|Ukraine]] prioritizes Euro-Atlantic integration as its main foreign policy goal, while managing its relationships with Europe and the United States and reducing its ties with Russia. The Partnership and Cooperation Agreement (PCA) with the European Union (EU) became effective on March 1, 1998, with the EU urging Ukraine to fully implement the PCA before discussing an association agreement. The EU Common Strategy toward Ukraine, issued in December 1999, acknowledges Ukraine's long-term aspirations without addressing association.",
+        "Ukraine joined the Conference on Security and Cooperation in Europe on January 31, 1992, and became a member of the North Atlantic Cooperation Council on March 10, 1992. The country maintains a close relationship with NATO and has expressed interest in future membership, being the most active participant in the Partnership for Peace (PfP). Former President [[viktor-yushchenko|Viktor Yushchenko]] supported EU membership, but plans for NATO membership were halted after [[viktor-yanukovych|Viktor Yanukovych]]'s election in 2010, which led to a non-aligned status for Ukraine.",
+        "On June 3, 2010, the [[verkhovna-rada|Verkhovna Rada]] removed the goal of Euro-Atlantic integration from the national security strategy, although 'European integration' remained a focus. Following the ousting of Yanukovych and the [[russian-annexation-of-crimea|annexation of Crimea]] in February 2014, Ukraine renewed its pursuit of NATO membership, abolishing its non-aligned status on December 23, 2014. The U.S. Senate passed a bill on July 30, 2014, granting Ukraine, Georgia, and Moldova non-NATO ally status, allowing U.S. military support in case of aggression."
+      ]
+    },
+    {
+      "heading": "Bilateral Security Agreements",
+      "paragraphs": [
+        "In early 2024, following the 2022 Russian invasion, numerous allies signed long-term bilateral security agreements with Ukraine, often spanning 10 years. This initiative stemmed from a G7 declaration at a NATO Summit on July 12, 2023, establishing a framework for military and economic support for Ukraine's defense.",
+        "The agreements focus on enhancing Ukraine's air defense, artillery, long-range strike capabilities, armor, and combat aviation to counter Russian aggression. By March 1, 2024, 32 countries and the EU had signed these treaties. Notable agreements include the United Kingdom on January 12, 2024, France and Germany on February 16, 2024, and several others throughout 2024 and 2025, culminating in a 100-year agreement with the United Kingdom on January 16, 2025."
+      ]
+    },
+    {
+      "heading": "Similar Agreements and Negotiations",
+      "paragraphs": [
+        "In March 2024, Ukraine began discussions with South Korea on long-term security agreements, later signing a five-year framework for $2.1 billion to support reconstruction. An additional memorandum on economic cooperation was signed on May 2, 2025.",
+        "Negotiations for bilateral security agreements with Slovakia commenced in September 2025. The EU also established security partnerships with six countries, three of which included commitments to support Ukraine. Although Ukraine and Moldova lack a formal security agreement, they cooperate closely against Russian threats, often in trilateral formats with Romania, leading to the establishment of the [[odesa|Odesa]] Triangle in August 2025."
+      ]
+    },
+    {
+      "heading": "Relations with CIS States",
+      "paragraphs": [
+        "Ukraine's relations with Russia have been strained due to energy dependence and historical payment issues, despite a Treaty of Friendship and Cooperation ratified in 1998. Diplomatic relations were severed in response to the [[full-scale-russo-ukrainian-war|Russo-Ukrainian war]]. Ukraine was a non-official member of the Commonwealth of Independent States (CIS) from December 8, 1991, until it ceased participation in March 2014, and it is a founding member of GUAM.",
+        "Ukraine has also served as a non-permanent member of the UN Security Council from 1999 to 2001 and has consistently advocated for peaceful resolutions to international disputes."
+      ]
+    },
+    {
+      "heading": "International Disputes",
+      "paragraphs": [
+        "The boundary treaty with Belarus from 1997 remains unratified due to unresolved financial claims. The delimitation of the land boundary with Russia is incomplete, and maritime boundaries in the Sea of Azov and Kerch Strait remain contentious. Following the annexation of Crimea in April 2024, Ukraine continues to assert its sovereignty over the region.",
+        "Diplomatic relations with Russia were cut on February 24, 2022, in response to the invasion. Ukraine has established joint customs posts with Moldova to monitor transit through the breakaway Transnistria Region, which is under OSCE supervision."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "odesa",
+    "russian-annexation-of-crimea",
+    "ukraine",
+    "verkhovna-rada",
+    "viktor-yanukovych",
+    "viktor-yushchenko"
+  ],
+  "sources": [
+    {
+      "title": "Foreign relations of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Foreign_relations_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

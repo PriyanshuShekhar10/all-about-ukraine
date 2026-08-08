@@ -1,0 +1,20 @@
+---
+import Base from "@/layouts/Base.astro";
+---
+
+<Base title="Server error" noindex={true}>
+  <div class="doc mx-auto max-w-[820px] px-5 py-16 sm:py-24">
+    <p class="ui text-sm text-mute">Error 500</p>
+    <h1 class="mt-2 text-3xl font-bold leading-tight text-ink sm:text-4xl">
+      Something went wrong on our end.
+    </h1>
+    <p class="mt-4 max-w-prose text-body">
+      An unexpected error occurred while loading this page. Please try again in a
+      moment. You can also head back
+      <a href="/" class="doclink">home</a>, browse the
+      <a href="/wiki/a-z" class="doclink">A–Z index</a>, or
+      <a href="/wiki/search" class="doclink">search</a>. If the problem persists,
+      <a href="/contact" class="doclink">let us know</a>.
+    </p>
+  </div>
+</Base>

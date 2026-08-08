@@ -1,0 +1,93 @@
+{
+  "qid": "Q1459658",
+  "slug": "viktor-yanukovych",
+  "title": "Viktor Yanukovych",
+  "type": "human",
+  "category": "politics",
+  "aliases": [
+    "Victor Fedorovych Yanukovych",
+    "Viktor Fedorovych Yanukovych"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1950-07-09",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Yenakiieve",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "President of Ukraine, Prime Minister of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Viktor Fedorovych Yanukovych, born on 9 July 1950, is a former Ukrainian politician who served as the fourth [[president-of-ukraine|president of Ukraine]] from 2010 to 2014. His political career was marked by significant events including the 2014 [[revolution-of-dignity|Revolution of Dignity]], which led to his removal from office and subsequent exile in Russia.",
+  "sections": [
+    {
+      "heading": "Political Career",
+      "paragraphs": [
+        "Yanukovych held the position of [[prime-minister-of-ukraine|Prime Minister of Ukraine]] multiple times between 2002 and 2007 and was a member of the [[verkhovna-rada|Verkhovna Rada]] from 2006 to 2010. His presidency, which lasted from 2010 until 2014, was characterized by a pro-Russian stance and significant political controversies.",
+        "He was a member of the pro-Russian Party of Regions and served as the governor of [[donetsk|Donetsk]] Oblast from 1997 to 2002. Yanukovych's political rise began with his appointment as Vice-Head of Donetsk Oblast Administration in 1996, followed by his election as the Head of the Administration in 1997."
+      ]
+    },
+    {
+      "heading": "Presidential Elections",
+      "paragraphs": [
+        "Yanukovych first ran for president in the 2004 election, where he was initially declared the winner against [[viktor-yushchenko|Viktor Yushchenko]]. However, widespread allegations of electoral fraud led to the [[orange-revolution|Orange Revolution]], resulting in a rerun of the election, which Yanukovych lost.",
+        "He successfully ran for president again in 2010, defeating [[yulia-tymoshenko|Yulia Tymoshenko]] in an election recognized as free and fair by international observers."
+      ]
+    },
+    {
+      "heading": "Controversies and Downfall",
+      "paragraphs": [
+        "During his presidency, Yanukovych advocated for economic modernization and closer ties with the European Union, yet his tenure was marred by accusations of democratic backsliding, including the imprisonment of political opponents and a decline in press freedom.",
+        "His decision in November 2013 to withdraw from an association agreement with the EU, under pressure from Russia, ignited the [[euromaidan|Euromaidan]] protests. The unrest culminated in February 2014, leading to the deaths of nearly 100 protesters and ultimately his flight from [[kyiv|Kyiv]]."
+      ]
+    },
+    {
+      "heading": "Exile and Legal Issues",
+      "paragraphs": [
+        "Following his removal from power, Yanukovych fled to Russia, where he claimed to still be the head of state. In 2019, a [[ukrainian|Ukrainian]] court sentenced him in absentia to a thirteen-year prison term for high treason due to his actions during the protests.",
+        "Polling conducted after his presidency has consistently ranked Yanukovych among the least favorable leaders in Ukrainian history, and his name has become synonymous with political blunders in [[ukraine|Ukraine]], referred to as 'Yanukisms.'"
+      ]
+    },
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Viktor Yanukovych was born on 9 July 1950 in Zhukovka, a village in the Donetsk Oblast of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]. He experienced a challenging childhood, losing his mother at a young age and being raised by his grandmother after conflicts with his stepmother.",
+        "Yanukovych's family background includes Russian, Polish, and Belarusian descent. His father, Fyodor Yanukovych, has faced allegations regarding his past during World War II, which have been contested and remain a point of controversy."
+      ]
+    }
+  ],
+  "links_out": [
+    "donetsk",
+    "euromaidan",
+    "kyiv",
+    "orange-revolution",
+    "president-of-ukraine",
+    "prime-minister-of-ukraine",
+    "revolution-of-dignity",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "verkhovna-rada",
+    "viktor-yushchenko",
+    "yulia-tymoshenko"
+  ],
+  "sources": [
+    {
+      "title": "Viktor Yanukovych — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Viktor_Yanukovych",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

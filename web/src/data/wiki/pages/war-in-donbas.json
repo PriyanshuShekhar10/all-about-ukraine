@@ -1,0 +1,95 @@
+{
+  "qid": "Q16335075",
+  "slug": "war-in-donbas",
+  "title": "War in Donbas",
+  "type": "armed conflict",
+  "category": "war",
+  "aliases": [
+    "Donbas War",
+    "Donbass War",
+    "War in Donbass",
+    "War in Eastern Ukraine"
+  ],
+  "infobox": {
+    "label": "armed conflict",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Donbas, Donetsk Oblast",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.0000, 38.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The war in Donbas, a significant phase of the Russo-Ukrainian war, erupted in April 2014 in the eastern region of Ukraine, marked by a conflict between Russian-backed paramilitaries and the Ukrainian government. This conflict led to the establishment of self-proclaimed republics and continued until it was overshadowed by the full-scale Russian invasion of Ukraine in 2022.",
+  "sections": [
+    {
+      "heading": "Background and Causes",
+      "paragraphs": [
+        "Despite [[ukraine|Ukraine]]'s independence since 1991, Russia viewed the country as within its sphere of influence. Following the 2013 [[euromaidan|Euromaidan]] protests against President [[viktor-yanukovych|Viktor Yanukovych]]'s pivot towards Russia, pro-Russian sentiments surged in the [[donbas|Donbas]] region, which had a mixed population of ethnic [[ukrainians|Ukrainians]] and Russians.",
+        "In the aftermath of the [[revolution-of-dignity|Revolution of Dignity]], unmarked Russian troops occupied [[crimea|Crimea]], and pro-Russian protests erupted in the Donbas, where a significant portion of the population supported Yanukovych."
+      ]
+    },
+    {
+      "heading": "Outbreak of Conflict",
+      "paragraphs": [
+        "The war in Donbas began on 12 April 2014, when a Russian commando unit led by Igor 'Strelkov' Girkin crossed into Ukraine and seized the town of Sloviansk. This marked the start of an armed uprising against the [[cabinet-of-ministers-of-ukraine|Ukrainian government]], leading to the declaration of the [[donetsk|Donetsk]] People's Republic (DPR) and [[luhansk|Luhansk]] People's Republic (LPR) as independent states.",
+        "Ukraine's military responded with an Anti-Terrorist Operation (ATO) but struggled to regain control of the territory as Russian military support bolstered the separatists."
+      ]
+    },
+    {
+      "heading": "Minsk Agreements and Ongoing Hostilities",
+      "paragraphs": [
+        "The [[minsk-agreements|Minsk agreement]] was signed in September 2014 to establish a ceasefire and outline steps for conflict resolution, including the withdrawal of foreign troops and elections under [[ukrainian|Ukrainian]] law. However, violations occurred, including the separatists holding their own elections in November 2014.",
+        "A second ceasefire, Minsk II, was agreed upon in February 2015, but fighting continued, leading to a protracted stalemate characterized by trench warfare and ongoing casualties."
+      ]
+    },
+    {
+      "heading": "Escalation and Full-Scale Invasion",
+      "paragraphs": [
+        "In 2021, tensions escalated as Russian forces amassed near Ukraine's borders, and attacks by Russian proxies increased. On 21 February 2022, Russia recognized the DPR and LPR as independent states and deployed troops under the guise of 'peacekeeping'.",
+        "This prelude culminated in Russia's full-scale [[full-scale-russo-ukrainian-war|invasion of Ukraine]] on 24 February 2022, effectively subsuming the ongoing conflict in Donbas into a broader war."
+      ]
+    },
+    {
+      "heading": "Casualties and Human Impact",
+      "paragraphs": [
+        "The conflict in Donbas resulted in approximately 14,000 deaths, including 4,400 Ukrainian forces, 6,500 Russian and proxy forces, and 3,400 civilians. The majority of civilian casualties occurred in the first year of fighting.",
+        "The war displaced around 2 million people from the Donbas region, significantly impacting the local population, which was around 6.1 million in 2011."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "crimea",
+    "donbas",
+    "donetsk",
+    "euromaidan",
+    "full-scale-russo-ukrainian-war",
+    "luhansk",
+    "minsk-agreements",
+    "revolution-of-dignity",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "viktor-yanukovych"
+  ],
+  "sources": [
+    {
+      "title": "War in Donbas — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/War_in_Donbas",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

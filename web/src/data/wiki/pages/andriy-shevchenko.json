@@ -1,0 +1,70 @@
+{
+  "qid": "Q41244",
+  "slug": "andriy-shevchenko",
+  "title": "Andriy Shevchenko",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Andriy Mykolayovych Shevchenko"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1976-09-29",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Yahotyn",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Andriy Mykolayovych Shevchenko is a prominent Ukrainian former football manager and player, widely regarded as one of the greatest strikers in football history and the top scorer for the Ukraine national team. His illustrious career includes significant achievements with clubs like Dynamo Kyiv, AC Milan, and Chelsea, as well as leading Ukraine in international competitions.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Andriy Shevchenko was born on 29 September 1976 in Dvirkivshchyna, [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]. His family relocated to the Obolon neighborhood of [[kyiv|Kyiv]] in 1979. He attended the 216th City School and joined a football section at the age of nine, coached by Oleksandr Shpakov. Following the [[chernobyl-disaster|Chernobyl disaster]], he was temporarily evacuated from Kyiv. Initially, he was a competitive boxer before committing to football."
+      ]
+    },
+    {
+      "heading": "Club Career",
+      "paragraphs": [
+        "Shevchenko began his professional career at Dynamo Kyiv, debuting in 1994. He won five consecutive league titles and three domestic cups, becoming a national champion. In 1999, he transferred to AC Milan for a record fee of $25 million, where he became one of Europe's top strikers, winning Serie A in 2004 and the Champions League in 2003. After a successful stint at Milan, he moved to Chelsea in 2006, where he won both domestic cups in his first season.",
+        "During his time at Milan, Shevchenko scored 175 goals, making him the club's second all-time top scorer. He also holds the record for the most goals in the Derby della Madonnina, with 14 goals."
+      ]
+    },
+    {
+      "heading": "International Career",
+      "paragraphs": [
+        "Shevchenko is the all-time top scorer for the [[ukraine|Ukraine]] national team, with 48 goals. He captained Ukraine to the quarter-finals in their first FIFA World Cup appearance in 2006 and participated in UEFA Euro 2012 held in Ukraine. He was named in the FIFA World XI in 2005 and recognized as one of the top 125 greatest living footballers in 2004."
+      ]
+    },
+    {
+      "heading": "Post-Football Career",
+      "paragraphs": [
+        "In 2012, Shevchenko ventured into politics, running for a seat in the [[verkhovna-rada|Ukrainian Parliament]] but did not succeed. He returned to football as an assistant coach for the Ukraine national team in 2016 and was appointed head coach later that year, leading the team to the quarter-finals at UEFA Euro 2020. On 17 November 2022, he became the Vice President of the National Olympic Committee of Ukraine but left in January 2023 over disagreements regarding leadership. In January 2024, he was elected President of the [[ukrainian|Ukrainian]] Football Association."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernobyl-disaster",
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Andriy Shevchenko — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Andriy_Shevchenko",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

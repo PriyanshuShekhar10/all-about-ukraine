@@ -1,0 +1,24 @@
+---
+import { parseWikitext } from "@/lib/wiki";
+
+interface Props {
+  text: string;
+}
+
+const { text } = Astro.props;
+const tokens = parseWikitext(text);
+---
+
+{
+  tokens.map((token) =>
+    token.type === "text" ? (
+      <Fragment set:text={token.value} />
+    ) : token.exists ? (
+      <a href={`/wiki/${token.slug}`} class="doclink">
+        {token.text}
+      </a>
+    ) : (
+      <Fragment set:text={token.text} />
+    ),
+  )
+}

@@ -1,0 +1,109 @@
+{
+  "qid": "Q133356",
+  "slug": "ukrainian-soviet-socialist-republic",
+  "title": "Ukrainian Soviet Socialist Republic",
+  "type": "historical country",
+  "category": "history",
+  "aliases": [
+    "Communist Ukraine",
+    "Soviet Ukraine",
+    "Ukrainian S.S.R",
+    "Ukrainian SSR"
+  ],
+  "infobox": {
+    "label": "historical country",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1919-03-10",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Kharkiv, Kyiv",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "51,706,746",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "603,700",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Head of government",
+        "value": "Christian Rakovsky, Vlas Chubar",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4444, 30.5289",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Ukrainian Soviet Socialist Republic (Ukrainian SSR) was a key constituent republic of the Soviet Union from 1922 until 1991, playing a significant role in Ukraine's historical and political landscape. Governed by the Communist Party of the Soviet Union through its Ukrainian branch, the republic underwent numerous territorial and political changes during its existence.",
+  "sections": [
+    {
+      "heading": "Formation and Governance",
+      "paragraphs": [
+        "The Ukrainian Soviet Socialist Republic, abbreviated as the Ukrainian SSR, was established as part of the Soviet Union in 1922, following the Russian Revolution. It was governed under the one-party system of the Communist Party of the Soviet Union, specifically through the Communist Party of [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The early formation of the Ukrainian SSR was influenced by the aftermath of the Russian Revolution and the [[ukrainian-war-of-independence|Ukrainian War of Independence]], which saw various factions vying for control. The Bolsheviks established the [[ukrainian-peoples-republic|Ukrainian People's Republic]] of Soviets in December 1917, which was later succeeded by the [[ukrainian|Ukrainian]] Soviet Republic in 1918 amidst the ongoing conflict with the independent Ukrainian People's Republic."
+      ]
+    },
+    {
+      "heading": "Incorporation into the Soviet Union",
+      "paragraphs": [
+        "The Ukrainian SSR was officially incorporated into the Soviet Union on December 30, 1922, as one of its founding members, alongside the Russian, Byelorussian, and Transcaucasian republics. This incorporation marked a shift in governance, with the Ukrainian SSR gradually coming under the control of Soviet Russia during the Civil War."
+      ]
+    },
+    {
+      "heading": "Territorial Changes",
+      "paragraphs": [
+        "Throughout its existence, the borders of the Ukrainian SSR fluctuated, generally moving towards areas with a majority ethnic Ukrainian population. Significant territorial gains included Eastern Galicia and Volhynia in 1939, parts of Romania in 1940, and Carpathian Ruthenia in 1945, which were annexed as a result of the Molotov–Ribbentrop Pact."
+      ]
+    },
+    {
+      "heading": "Capital and Demographics",
+      "paragraphs": [
+        "Initially, [[kharkiv|Kharkov]] served as the capital of the Ukrainian SSR from its establishment until 1934, when the capital was moved to Kiev, which is historically significant as the capital of Ukraine. According to the 1989 Soviet census, the population of the Ukrainian SSR was recorded at 51,706,746, making it the second most populous republic after Russia."
+      ]
+    },
+    {
+      "heading": "Legacy and Independence",
+      "paragraphs": [
+        "Following the dissolution of the Soviet Union in 1991, Ukraine declared its independence, transitioning from the Ukrainian SSR to the modern independent state of Ukraine. Despite this transition, elements of the Soviet-era constitution remained in effect until the adoption of the [[constitution-of-ukraine|Constitution of Ukraine]] in June 1996."
+      ]
+    }
+  ],
+  "links_out": [
+    "constitution-of-ukraine",
+    "kharkiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "ukrainian-war-of-independence"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Soviet Socialist Republic — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Soviet_Socialist_Republic",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

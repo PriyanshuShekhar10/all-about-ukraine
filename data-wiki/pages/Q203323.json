@@ -1,0 +1,92 @@
+{
+  "qid": "Q203323",
+  "slug": "administrative-territorial-entity-of-ukraine",
+  "title": "administrative territorial entity of Ukraine",
+  "type": "topic",
+  "category": "politics",
+  "aliases": [
+    "Administrative and territorial system of Ukraine",
+    "Administrative division of Ukraine",
+    "Administrative-territorial",
+    "Areas in Ukraine",
+    "List of Oblasts of Ukraine",
+    "Regions of Ukraine",
+    "The region of Ukraine",
+    "Ukraine's regions"
+  ],
+  "infobox": {
+    "label": "topic",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The administrative territorial entities of Ukraine are defined by the [[ukrainian|Ukrainian]] Constitution and consist of a unitary state structure with three levels of divisions: regions, raions, and hromadas. This framework is crucial for the governance and administrative organization of Ukraine.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The system of administrative and territorial organization in [[ukraine|Ukraine]] is outlined in Article 133 of the [[constitution-of-ukraine|Constitution of Ukraine]]. It comprises the Autonomous Republic of [[crimea|Crimea]], oblasts (provinces), raions (districts), populated places (cities, rural settlements, villages), urban districts, and hromadas (municipalities).",
+        "An administrative reform in 2020 resulted in the resubordination of all populated places in the country, excluding [[kyiv|Kyiv]] and [[sevastopol|Sevastopol]], to raions. The current structure includes 136 raions, which consist of 10 in the Autonomous Republic of Crimea and Sevastopol, with these raions being functional since September 2023."
+      ]
+    },
+    {
+      "heading": "First Level Divisions",
+      "paragraphs": [
+        "Ukraine's first-level administrative divisions include 24 oblasts, 1 autonomous republic, and 2 cities with special status.",
+        "The Autonomous Republic of Crimea, with its capital in Simferopol, is the only region in Ukraine that possesses its own constitution. Following the Russian military occupation in 2014, a referendum was held regarding Crimea's annexation to Russia, which the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] and the majority of the international community do not recognize as legitimate."
+      ]
+    },
+    {
+      "heading": "Oblasts and Special Status Cities",
+      "paragraphs": [
+        "Oblasts are the primary first-level administrative divisions in Ukraine and are typically named after their administrative centers. For instance, Volyn and Zakarpattia oblasts are named after the historical regions of Volhynia and Transcarpathia, respectively.",
+        "Kyiv and Sevastopol are designated as cities with special status, placing them on the same administrative level as oblasts. Following the [[russian-annexation-of-crimea|annexation of Crimea]], Sevastopol is presently under Russian control and is recognized as a federal subject of Russia."
+      ]
+    },
+    {
+      "heading": "Second Level Divisions",
+      "paragraphs": [
+        "Raions serve as the second level of administrative divisions in Ukraine, with a total of 136 raions established following a reform that replaced the previous 490 raions. This restructuring was part of a broader constitutional change initiated by [[volodymyr-zelenskyy|President Volodymyr Zelenskyy]]."
+      ]
+    },
+    {
+      "heading": "Third Level Divisions and Hromadas",
+      "paragraphs": [
+        "Hromadas, which translates to 'territorial communities', were introduced on 12 June 2020 as part of the administrative reform initiated in 2015. There are currently 1469 hromadas, categorized into rural, settlement, and urban types, as of November 1, 2023."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Historically, the administrative divisions of Ukraine have evolved significantly. During the [[cossack-hetmanate|Cossack Hetmanate]], the territory was divided into military-administrative districts known as regimental districts. In the early 20th century, the [[ukrainian-peoples-republic|Ukrainian People's Republic]] utilized a system of zemlias, volosts, and hromadas, although this was not fully realized due to political upheaval.",
+        "Under Soviet rule, the structure transitioned from 40 okruhas to oblasts in 1932, which established the basis for the modern administrative divisions, while much of Western Ukraine remained under Polish administrative influence until the end of World War II."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "constitution-of-ukraine",
+    "cossack-hetmanate",
+    "crimea",
+    "kyiv",
+    "russian-annexation-of-crimea",
+    "sevastopol",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "Administrative divisions of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Administrative_divisions_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

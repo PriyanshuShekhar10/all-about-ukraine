@@ -1,0 +1,82 @@
+{
+  "qid": "Q59199697",
+  "slug": "kerch-strait-incident",
+  "title": "Kerch Strait incident",
+  "type": "invasion",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "invasion",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2018-11-25",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Russia",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Strait of Kerch",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "44.8500, 36.3844",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Kerch Strait incident, occurring on 25 November 2018, involved the Russian Federal Security Service (FSB) coast guard firing upon and capturing three Ukrainian Navy vessels as they attempted to transit from the Black Sea to the Sea of Azov. This event marked the first direct engagement between Russian and Ukrainian forces during the ongoing [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]] and highlighted the tensions surrounding maritime access to Ukrainian ports.",
+  "sections": [
+    {
+      "heading": "Background",
+      "paragraphs": [
+        "The Kerch Strait connects the Sea of Azov with the Black Sea and serves as the only access route for vessels traveling to [[ukraine|Ukraine]]'s eastern port cities, particularly [[mariupol|Mariupol]]. Following the [[russian-annexation-of-crimea|annexation of Crimea by Russia]] in 2014, which remains unrecognized by the international community, Russia has controlled the land surrounding the strait and constructed the Crimean Bridge without Ukraine's consent. This construction has been criticized as illegal and has led to restrictions on maritime movement, viewed by Ukraine and the United States as part of a hybrid blockade aimed at destabilizing Ukraine.",
+        "In 2003, both Ukraine and Russia agreed to the principle of freedom of movement through the strait and the Sea of Azov. However, following the annexation, Russia has increased inspections of [[ukrainian|Ukrainian]] vessels, causing significant delays and economic losses for Ukraine, estimated at $360 million in 2018."
+      ]
+    },
+    {
+      "heading": "Events of the Incident",
+      "paragraphs": [
+        "On the morning of 25 November 2018, three Ukrainian naval vessels, including the Gyurza-M-class gunboats Berdyansk and Nikopol, and the tugboat Yany Kapu, departed from [[odesa|Odesa, Ukraine]], en route to Mariupol. As they approached the Kerch Strait, Russian Coast Guard boats accused them of illegally entering Russian territorial waters and ordered them to turn back. The Ukrainian vessels, citing the 2003 treaty on freedom of navigation, refused to comply.",
+        "The Russian boats attempted to intercept the Ukrainian ships, resulting in collisions and damage to both sides. The Ukrainian vessels remained in the strait for eight hours before deciding to return to Odesa. During their departure, the Russian Coast Guard pursued them and ultimately fired upon and captured the ships approximately 23 kilometers off the coast of [[crimea|Crimea]], in international waters."
+      ]
+    },
+    {
+      "heading": "Casualties and Political Reactions",
+      "paragraphs": [
+        "The confrontation resulted in injuries to six Ukrainian servicemen and damage to the Ukrainian vessel Berdyansk. Following the incident, both Ukraine and Russia accused each other of provocative actions. Ukraine condemned the seizure of its ships as illegal, with President [[petro-poroshenko|Petro Poroshenko]] describing the Russian actions as 'unprovoked and crazy.'",
+        "The Russian government characterized the incident as a provocation orchestrated by Ukraine, claiming that the Ukrainian vessels had not followed the required procedures for passage through the strait. In response to the incident, Poroshenko convened the Ukrainian National Security and Defence Council and declared martial law in regions bordering Russia and along the Black Sea coast, which lasted until 26 December 2018."
+      ]
+    },
+    {
+      "heading": "International Context",
+      "paragraphs": [
+        "The incident occurred just days before the 2018 G20 summit in Buenos Aires, where Western leaders referenced it in discussions about potential sanctions against Russia. The ongoing tensions in the Kerch Strait reflect broader geopolitical struggles related to Ukraine's sovereignty and territorial integrity in the face of Russian aggression."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "full-scale-russo-ukrainian-war",
+    "mariupol",
+    "odesa",
+    "petro-poroshenko",
+    "russian-annexation-of-crimea",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Kerch Strait incident — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kerch_Strait_incident",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

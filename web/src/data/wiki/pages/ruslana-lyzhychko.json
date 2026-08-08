@@ -1,0 +1,84 @@
+{
+  "qid": "Q129119",
+  "slug": "ruslana-lyzhychko",
+  "title": "Ruslana Lyzhychko",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Ruslana",
+    "Ruslana Stepanivna Lyzhychko"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1973-05-24",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Lviv",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "People's Deputy of Ukraine, UNICEF Goodwill Ambassador",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Ruslana Stepanivna Lyzhychko, born on 24 May 1973 in Lviv, Ukraine, is a prominent Ukrainian singer, songwriter, producer, activist, and former politician. She gained international fame after winning the Eurovision Song Contest in 2004 and is recognized as one of the most successful Ukrainian female artists globally.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Ruslana Stepanivna Lyzhychko was born in [[lviv|Lviv]], then part of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] in the Soviet Union. Her father, Stepan Lyzhychko, is of Hutsul [[ukrainian|Ukrainian]] descent, while her mother, Nina Sapegina, has Russian and Polish-Lithuanian roots. Encouraged by her mother, Ruslana began her musical education at the age of four and performed in various bands, including the vocal-instrumental band Horizon and the children's ensemble Usmishka.",
+        "In 1989, Ruslana showcased her talent at a concert in the Druzhba Stadium, where she was recognized by Vasyl Zinkevych, a notable artist, who predicted her future success. After her parents divorced in 1991, she completed secondary school and enrolled at the Lviv Conservatory, graduating as a classical pianist and symphonic orchestra conductor in 1995."
+      ]
+    },
+    {
+      "heading": "Musical Career",
+      "paragraphs": [
+        "Ruslana's professional music career began with her victory at the Slavianski Bazaar song competition in 1996. She gained further recognition with her song 'Svitanok' and the album 'Myt Vesny – Dzvinkyi Viter Live' in 1998, which won multiple awards, including Person of the Year. In the same year, she organized a charity tour to restore historical castles in Western [[ukraine|Ukraine]], notably contributing to the restoration of Zolochiv Castle.",
+        "Her album 'Dyki Tantsi' (Wild Dances), released in June 2003, became the best-selling Ukrainian album, achieving over 500,000 sales. The album's success was bolstered by her performance of 'Wild Dances' at the Eurovision Song Contest 2004, where she won with a record 280 points."
+      ]
+    },
+    {
+      "heading": "Eurovision Success and Recognition",
+      "paragraphs": [
+        "Ruslana's victory at the Eurovision Song Contest 2004 marked a significant milestone in her career, elevating her status as a pop star in Europe. The song 'Wild Dances' dominated European charts for 97 weeks and was certified gold in several countries. Following her win, she received numerous accolades, including the title of People's Artist of Ukraine and the International Women of Courage Award from the U.S. Secretary of State in March 2014.",
+        "In addition to her musical achievements, Ruslana has served as a UNICEF Goodwill Ambassador in Ukraine and was a Member of Parliament for the Our Ukraine Party."
+      ]
+    },
+    {
+      "heading": "Continued Influence and Projects",
+      "paragraphs": [
+        "Following her Eurovision success, Ruslana continued to engage in various projects, including hosting events and participating in charity concerts. In 2005, she performed at the Eurovision Song Contest and was involved in promoting awareness for [[chernobyl-disaster|Chernobyl disaster]] victims.",
+        "Her artistic endeavors include the 'Wild Energy' project, which combines music, literature, and social themes, and her involvement in the video game Grand Theft Auto IV, where her song 'Wild Dances' features prominently."
+      ]
+    },
+    {
+      "heading": "Personal Life",
+      "paragraphs": [
+        "Ruslana has been married to Oleksandr Ksenofontov, a Ukrainian record producer, since 28 December 1995. They co-founded Luxen Studio in 1993, producing various media projects together."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernobyl-disaster",
+    "lviv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Ruslana — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ruslana",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,87 @@
+{
+  "qid": "Q155858",
+  "slug": "music-of-ukraine",
+  "title": "music of Ukraine",
+  "type": "music by country or region",
+  "category": "culture",
+  "aliases": [
+    "Ukraine music",
+    "Ukrainian music",
+    "music in Ukraine"
+  ],
+  "infobox": {
+    "label": "music by country or region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The music of Ukraine encompasses a rich tapestry of influences from both Western and Eastern European traditions, deeply rooted in indigenous Slavic and Christian elements. It reflects the country's historical significance as a cultural hub within the former Russian Empire and showcases a diverse array of folk and classical music forms.",
+  "sections": [
+    {
+      "heading": "Folk Music",
+      "paragraphs": [
+        "[[ukrainian|Ukrainian]] folk music is characterized by its unique blend of exotic melismatic singing and harmonies that often diverge from traditional Western European rules. A notable feature is the frequent use of minor keys with augmented seconds, indicating a distinct tonal development.",
+        "The music typically avoids unusual time signatures, though compound meters are present. Authentic folk music is often harmonically intricate, with three- and four-part harmonies originating from central [[ukraine|Ukraine]], becoming less common in mountainous regions by the late 19th century.",
+        "Ritual songs are particularly well-preserved and often feature a recitative style. An example is the Shchedrivka 'Shchedryk', widely known in the West as 'Carol of the Bells'. Many ritual melodies are structured around a perfect fourth, with Easter melodies known as Haivky fitting this pattern."
+      ]
+    },
+    {
+      "heading": "Vocal Folk Music",
+      "paragraphs": [
+        "Ukrainian folk singing includes various styles, with unaccompanied solo songs primarily of a ritual nature. Professional itinerant musicians, known as kobzars or lirnyky, performed solo singing with instrumental accompaniment, often featuring dumy folk epics.",
+        "These traditions date back to antiquity but were solidified in the 17th century, highlighting conflicts between [[cossacks|Cossacks]] and foreign oppressors. The Kobzars'kyj Tsekh, a guild-like structure, was established for these musicians, although many were lost during the Soviet purges of the 1930s.",
+        "In 1991, a Kobzar Guild was re-established in [[kyiv|Kyiv]] to revive these traditions, uniting many musicians in Ukraine and the diaspora. Other vocal forms include modal a cappella styles, characterized by call-and-response patterns, which have medieval roots."
+      ]
+    },
+    {
+      "heading": "Traditional Instruments",
+      "paragraphs": [
+        "Traditional Ukrainian instruments include the kobza, [[bandura|bandura]], torban, violin, and cimbalom, among others. Instrumental ensembles, referred to as troïstï muzyki, typically consist of three musicians and often feature improvisation.",
+        "Ukrainian traditional dances, such as the kozachok and [[hopak|hopak]], are integral to the music culture, with influences extending to Romani and Jewish music, which have incorporated Ukrainian melodies into their repertoires."
+      ]
+    },
+    {
+      "heading": "Soviet-Inspired Folk Music",
+      "paragraphs": [
+        "The Soviet regime in the 1920s imposed state atheism, leading to the suppression of religious music and classical forms deemed bourgeois. This era saw the rise of 'proletarian songs' and the creation of 'fakeloric' ensembles to cater to rural populations.",
+        "Post-World War II, numerous folk choirs and stylized dance troupes emerged, blending ethnographic dance with ballet. These forms gained popularity, especially within the [[ukrainian-diaspora|Ukrainian diaspora]] in North America, where they contributed to the definition of Ukrainian ethnicity."
+      ]
+    },
+    {
+      "heading": "Ukrainian Classical Music",
+      "paragraphs": [
+        "Ukrainian classical music has been significantly influenced by folk traditions, particularly during the 19th century. Composers such as Mykola Lysenko played a pivotal role in this movement, integrating folk melodies into classical compositions.",
+        "The Ukrainian Baroque period saw music as a vital discipline in higher education, with notable figures such as Timofiy Bilohradsky contributing to the development of Ukrainian music. The first professional music academy in the Russian Empire was established in Hlukhiv in 1738, marking a significant milestone in Ukrainian musical education."
+      ]
+    },
+    {
+      "heading": "Music of Non-Ukrainian Ethnic Minorities",
+      "paragraphs": [
+        "The Jewish musical heritage in Ukraine, including Klezmer and Yiddish songs, has deep roots in the region, particularly in the Jewish Pale of Settlement. By the early 19th century, a significant portion of Europe's Jewish population resided in Ukrainian territories.",
+        "Notable folklorists documented Jewish music in Ukraine, preserving its rich history. Additionally, early performers of Russian folk instruments often included Ukrainian melodies, illustrating the interconnectedness of musical traditions in the region."
+      ]
+    }
+  ],
+  "links_out": [
+    "bandura",
+    "cossacks",
+    "hopak",
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-diaspora"
+  ],
+  "sources": [
+    {
+      "title": "Music of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,87 @@
+{
+  "qid": "Q2288463",
+  "slug": "kyivstar",
+  "title": "Kyivstar",
+  "type": "business",
+  "category": "economy",
+  "aliases": [
+    "KYIVSTAR JSC"
+  ],
+  "infobox": {
+    "label": "business",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1994",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Kyivstar is a prominent Ukrainian telecommunications operator providing a range of voice and data services, including 4G LTE, across Ukraine. As of 2024, it serves approximately 24 million mobile subscribers and has expanded its services to include partnerships with international entities such as Starlink.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Kyivstar ([[ukrainian|Ukrainian]]: Київстар) is a Ukrainian telecommunications operator that delivers both fixed and mobile voice and data services throughout [[ukraine|Ukraine]]. The mobile network encompasses all cities and over 28,000 rural settlements, covering major national routes and coastal areas."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Founded in 1994 and commencing mobile operations in 1997, PJSC Kyivstar is headquartered in [[kyiv|Kyiv]] and is part of the international telecom group VEON. Oleksandr Komarov has served as President since December 2018. In 2022, Kyivstar collaborated with other mobile operators and government bodies to launch national roaming.",
+        "In December 2024, Kyivstar signed an agreement with Starlink to provide direct-to-cell satellite connectivity in Ukraine, with plans for over-the-top messaging by the end of 2025 and mobile satellite services by mid-2026. This initiative positions Ukraine among the first countries to utilize Starlink's direct-to-cell technology."
+      ]
+    },
+    {
+      "heading": "Impact During the Russian Invasion",
+      "paragraphs": [
+        "In response to Russia's full-scale invasion on February 24, 2022, Kyivstar implemented measures to support its customers. The company sent over 150 million SMS alerts regarding air-raid procedures and invested UAH 659 million in communication development during the first quarter of 2022.",
+        "Kyivstar built numerous mobile facilities and connected 1,150 bomb shelters to free Internet. The company ensured that 95% of its base stations remained operational and provided emergency credits and free services to customers, including refugees."
+      ]
+    },
+    {
+      "heading": "Charity and Fundraising",
+      "paragraphs": [
+        "Kyivstar allocated at least UAH 15 million for charitable purposes and paid over UAH 1 billion in taxes ahead of schedule. It contributed UAH 10 million to the Come Back Alive charity fund and UAH 5 million to the NGO 'Your Support.' The company also established a fundraising platform for the [[armed-forces-of-ukraine|Armed Forces of Ukraine]], which raised over UAH 1.2 million within two weeks."
+      ]
+    },
+    {
+      "heading": "Technological Advancements",
+      "paragraphs": [
+        "On June 17, 2025, Kyivstar and the Ministry of Digital Transformation of Ukraine signed a memorandum to develop the first Ukrainian-language large language model (LLM), set for release in December 2025. This initiative aims to capture diverse Ukrainian dialects and ensure secure processing of sensitive national data."
+      ]
+    },
+    {
+      "heading": "Awards and Recognition",
+      "paragraphs": [
+        "Kyivstar has received various accolades, including being named among the 500 largest companies in Central and Eastern Europe by Deloitte in 2016. In 2020, it was recognized as the most valuable brand in Ukraine by Korrespondent magazine, with an estimated value of US $225.48 million. The company was also the largest taxpayer in Ukraine's communications sector for 2020 and 2021, contributing over UAH 90 billion.",
+        "In 2024, Kyivstar won the Global Mobile Award for 'Best Mobile Innovation Supporting Emergency or Humanitarian Situations' for its Network Resilience Project at the Mobile World Congress in Barcelona."
+      ]
+    }
+  ],
+  "links_out": [
+    "armed-forces-of-ukraine",
+    "kyiv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Kyivstar — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kyivstar",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

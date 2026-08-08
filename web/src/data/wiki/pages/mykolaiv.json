@@ -1,0 +1,107 @@
+{
+  "qid": "Q41572",
+  "slug": "mykolaiv",
+  "title": "Mykolaiv",
+  "type": "centre of oblast",
+  "category": "geography",
+  "aliases": [
+    "Mykolayiv",
+    "Nikolaev",
+    "Nikolajew",
+    "Nikolayev"
+  ],
+  "infobox": {
+    "label": "centre of oblast",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1789",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Russian Empire, Russian Republic",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "498,748",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "253",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "53",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Anatolii Oliinyk, Mykola Balakiriev",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "46.9750, 31.9950",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Mykolaiv is a significant port city and administrative center in southern Ukraine, known for its strategic location at the confluence of the Inhul and Southern Bug rivers. It is recognized as a key shipbuilding hub and has been impacted by historical events, including the Russian invasion of Ukraine.",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Significance",
+      "paragraphs": [
+        "Mykolaiv is a port city and a hromada in southern [[ukraine|Ukraine]], serving as the administrative center of Mykolaiv Raion and Mykolaiv Oblast. The city is strategically located at the meeting point of the Inhul and Southern Bug rivers, approximately 65 km from the Black Sea, making it an important transportation hub with a sea port, commercial port, river port, highway and railway junctions, and an airport."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Founded during the Russian conquests of the Second Russo-Turkish War between 1787 and 1792, Mykolaiv was established by Prince Grigory Potemkin and named after Saint Nicholas. The city developed rapidly, becoming a significant shipbuilding center with multiple shipyards and research institutions.",
+        "Mykolaiv's port became the third largest in the Russian Empire by the late 19th century, playing a crucial role in trade and military logistics. The city also had a notable Jewish community, which faced persecution during the late 19th century."
+      ]
+    },
+    {
+      "heading": "20th Century Developments",
+      "paragraphs": [
+        "Throughout the [[ukrainian-war-of-independence|Ukrainian War of Independence]], Mykolaiv experienced multiple occupations and changes in governance, ultimately becoming part of [[ukrainian-soviet-socialist-republic|Soviet Ukraine]] in 1920. The city was heavily affected during World War II, suffering significant civilian casualties and destruction before being liberated in 1944.",
+        "Post-war, Mykolaiv emerged as a prominent shipbuilding center within the USSR, housing three major shipyards."
+      ]
+    },
+    {
+      "heading": "Recent History and Current Issues",
+      "paragraphs": [
+        "In the 21st century, Mykolaiv gained attention for various social issues, including a high-profile murder case in 2012 that highlighted law enforcement corruption. The city was also a site of protests during the [[euromaidan|Euromaidan]] movement in 2013-2014.",
+        "During the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in 2022, Mykolaiv faced significant military attacks, leading to widespread destruction and a dramatic reduction in its population. International aid has been directed to the city for reconstruction and support."
+      ]
+    },
+    {
+      "heading": "Ecological and Climatic Context",
+      "paragraphs": [
+        "Mykolaiv is situated in a flat terrain area characterized by fertile steppe, with environmental challenges common to urban [[administrative-territorial-entity-of-ukraine|areas in Ukraine]], such as pollution and waste management. The city has several preserved sites and parks, contributing to its ecological landscape.",
+        "The climate in Mykolaiv is classified as moderately continental, with cold winters and warm to hot summers, influencing the living conditions and agricultural practices in the region."
+      ]
+    }
+  ],
+  "links_out": [
+    "administrative-territorial-entity-of-ukraine",
+    "euromaidan",
+    "full-scale-russo-ukrainian-war",
+    "ukraine",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainian-war-of-independence"
+  ],
+  "sources": [
+    {
+      "title": "Mykolaiv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mykolaiv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

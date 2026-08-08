@@ -1,0 +1,76 @@
+{
+  "qid": "Q81893",
+  "slug": "hryvnia",
+  "title": "hryvnia",
+  "type": "currency",
+  "category": "economy",
+  "aliases": [
+    "UAH",
+    "Ukrainian hryvnia",
+    "hryvnya"
+  ],
+  "infobox": {
+    "label": "currency",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The hryvnia is the official currency of Ukraine, introduced on 2 September 1996. It is subdivided into 100 kopiyka and is named after a historical measure of weight from Kievan Rus'.",
+  "sections": [
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "The term 'hryvnia' is derived from the historical currency 'grivna' used in [[kievan-rus|Kievan Rus]]' during the 11th century. The word is believed to originate from the Slavic term 'griva', which means 'mane', and may have referred to valuable items worn around the neck, typically made of precious metals.",
+        "Following [[ukraine|Ukraine]]'s declaration of independence from Russia in 1917, the [[ukrainian-peoples-republic|Ukrainian People's Republic]] adopted the name 'hryvnia' for its currency, inspired by the historical grivna. The currency was designed by Heorhiy Narbut."
+      ]
+    },
+    {
+      "heading": "Currency Sign and Symbolism",
+      "paragraphs": [
+        "The symbol for the hryvnia is a stylized cursive letter He (г) with a double horizontal stroke (₴), representing stability. This design is analogous to symbols used for other currencies, such as the yen (¥) and euro (€).",
+        "The hryvnia sign was encoded in Unicode 4.1 in 2005, and it is commonly used in digital formats. In instances where the symbol is unavailable, the abbreviation 'грн' is utilized."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "Ukraine's first state bank was established on 22 December 1917, which issued the karbovanets as the initial currency of the Ukrainian People's Republic. The hryvnia was introduced on 1 March 1918, valued at 1/2 of the karbovanets.",
+        "The karbovanets was reintroduced as the main currency in April 1918 but faced hyperinflation in the early 1990s following the Soviet Union's dissolution. The hryvnia replaced the karbovanets on 2 September 1996 at a rate of 1 hryvnia to 100,000 karbovanets."
+      ]
+    },
+    {
+      "heading": "Coinage and Banknotes",
+      "paragraphs": [
+        "Coins for the hryvnia were first minted in 1992 but were officially introduced in September 1996, starting with denominations of 1 to 50 kopiyky. Higher denominations, including ₴1 coins, were added in 1997.",
+        "The first series of hryvnia banknotes was released in 1996, featuring denominations of 1, 2, 5, 10, and 20 hryvnias, designed by [[ukrainian|Ukrainian]] artists. Subsequent series introduced higher denominations, with a 1,000 hryvnia banknote added in 2019."
+      ]
+    },
+    {
+      "heading": "Exchange Rates and Economic Impact",
+      "paragraphs": [
+        "The hryvnia's initial exchange rate was set at UAH 1.76 per US dollar. Following various economic crises, the currency experienced significant devaluation, particularly during the 2008 financial crisis and again after the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]].",
+        "As of 21 July 2022, the official exchange rate was set at ₴36.5686 per US dollar, reflecting adjustments made to align with the black market."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "kievan-rus",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian hryvnia — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_hryvnia",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

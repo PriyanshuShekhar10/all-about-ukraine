@@ -1,0 +1,76 @@
+{
+  "qid": "Q1162419",
+  "slug": "cucutenitrypillia-culture",
+  "title": "Cucuteni–Trypillia culture",
+  "type": "archaeological culture",
+  "category": "history",
+  "aliases": [
+    "Cucuteni-Trypillian culture",
+    "Trypillian culture"
+  ],
+  "infobox": {
+    "label": "archaeological culture",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Romania, Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Cucuteni–Trypillia culture is a Neolithic–Chalcolithic archaeological culture that thrived from approximately 5050 to 2950 BC in Southeast Europe, particularly in regions of modern-day Ukraine. It is notable for its large settlements, advanced agricultural practices, and significant contributions to early urban development.",
+  "sections": [
+    {
+      "heading": "Geographical Extent",
+      "paragraphs": [
+        "The Cucuteni–Trypillia culture spanned a vast area of approximately 350,000 km2 (140,000 sq mi), extending from the Carpathian Mountains to the [[dniester|Dniester]] and [[dnieper|Dnieper]] regions, primarily in modern-day Moldova and substantial parts of western [[ukraine|Ukraine]] and northeastern Romania. This cultural complex is characterized by its concentration in river valleys such as the Siret, Prut, and Dniester."
+      ]
+    },
+    {
+      "heading": "Settlement Patterns and Population",
+      "paragraphs": [
+        "Most Cucuteni–Trypillia settlements were small and densely populated, typically spaced 3 to 4 kilometers apart. During its middle phase (c. 4100 to 3500 BC), the culture saw the emergence of some of the largest settlements in Eurasia, with sites housing up to 46,000 inhabitants and containing thousands of structures. These 'mega-sites' are considered among the earliest forms of cities, and at its peak, the culture's population may have exceeded one million."
+      ]
+    },
+    {
+      "heading": "Cultural Achievements",
+      "paragraphs": [
+        "The Cucuteni–Trypillia culture is renowned for its sophisticated pottery, advanced architectural techniques, and agricultural innovations. The economy was primarily based on agriculture and animal husbandry, with inhabitants cultivating resilient crops suited to their environment. Additionally, the culture is credited with the earliest known potter's wheel and miniature wheeled vehicle models, predating similar artifacts from Mesopotamia."
+      ]
+    },
+    {
+      "heading": "Historical Context and Nomenclature",
+      "paragraphs": [
+        "The culture was first identified in 1884 by Teodor T. Burada, after discovering ceramic fragments in Cucuteni, Romania. The first [[ukrainian|Ukrainian]] sites were uncovered by Vincenc Chvojka in [[kyiv|Kyiv]], with significant findings presented in 1897, marking the official recognition of the Trypillia culture in Ukraine. The culture is referred to as Cucuteni in Romania and Trypillia in Ukraine, with the term 'Cucuteni–Trypillia culture' commonly used in English."
+      ]
+    },
+    {
+      "heading": "Chronology and Periodization",
+      "paragraphs": [
+        "The Cucuteni–Trypillia culture is generally divided into Early, Middle, and Late periods. The Early period (5800–5000 BC) reflects influences from neighboring cultures, while the Middle period (5000–3500 BC) saw significant population growth and settlement expansion into present-day Ukraine. The periodization schemes for the culture have evolved over time, incorporating new archaeological data and methodologies."
+      ]
+    },
+    {
+      "heading": "Destruction and Reconstruction of Settlements",
+      "paragraphs": [
+        "A notable characteristic of the Cucuteni–Trypillia culture was the periodic destruction of settlements, with each habitation site typically lasting 60 to 80 years. The reasons for these destructive events remain debated among scholars, as many settlements were rebuilt on previous sites, preserving their original layout and orientation."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnieper",
+    "dniester",
+    "kyiv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Cucuteni–Trypillia culture — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cucuteni–Trypillia_culture",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

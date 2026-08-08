@@ -1,0 +1,116 @@
+{
+  "qid": "Q157835",
+  "slug": "zaporizhzhia",
+  "title": "Zaporizhzhia",
+  "type": "big city",
+  "category": "geography",
+  "aliases": [
+    "Aleksandrovsk",
+    "Oleksandrivsk",
+    "Zaporizhia",
+    "Zaporizhzhya"
+  ],
+  "infobox": {
+    "label": "big city",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "0952",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "1,230",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "330,990,000",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "86",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Felix Movchanovskiy, Felix Movchanovskiy",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "47.8500, 35.1175",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Zaporizhzhia is a significant city in southeast Ukraine, located on the banks of the Dnieper River and serving as the administrative center of Zaporizhzhia Oblast. With a population of 710,052 as of 2022, it is known for its industrial capabilities, historical significance, and the island of Khortytsia.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Zaporizhzhia is situated in southeastern [[ukraine|Ukraine]], with the [[dnieper|Dnieper River]] dividing the city and Khortytsia Island located within its bounds. The city spans an area of 334 km² (129 sq mi) and is positioned at an elevation of 50 m (160 ft) above sea level.",
+        "As of the 2001 census, the population of Zaporizhzhia was 815,300, with [[ukrainians|Ukrainians]] making up 70.28% and Russians 25.39%. The population has been declining since Ukraine's independence, with a reduction of approximately 146,000 residents noted since that time."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Founded in 1770, Zaporizhzhia originated with the construction of the Aleksandrovskaya Fortress as part of the Dnieper Defence Line to protect against Crimean Tatar invasions. Following the Treaty of Küçük Kaynarca in 1775, the region became part of the Russian Empire, leading to the fortress's decline in military importance and the city's evolution into a rural settlement.",
+        "The city gained industrial significance in the early 20th century, particularly during World War I when aircraft engine manufacturing was established. Zaporizhzhia also played a crucial role during the [[ukrainian-war-of-independence|Ukrainian War of Independence]] and the Russian Civil War (1917–1921), serving as a battleground for various military factions."
+      ]
+    },
+    {
+      "heading": "World War II and Aftermath",
+      "paragraphs": [
+        "During World War II, Zaporizhzhia was occupied by German forces from October 3, 1941, until the Red Army reclaimed it in October 1943. The occupation was marked by severe atrocities, including the execution of over 35,000 residents and the forced labor of 58,000 individuals.",
+        "Post-war, the city underwent significant industrialization, with the establishment of major plants including the Dnieper Hydroelectric Station and the Zaporizhzhia Steel Plant, contributing to its status as an industrial hub."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "In recent years, Zaporizhzhia has been affected by various political events, including the 2014 [[euromaidan|Euromaidan]] protests, which saw significant public demonstrations against the government. The city has also experienced the impacts of the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]], with ongoing military actions reported since the beginning of the 2022 Russian invasion of Ukraine.",
+        "Despite attempts to modernize infrastructure, such as the halted construction of the New Zaporizhzhia Dniper Bridge in 2004, the city continues to face challenges amid the ongoing conflict."
+      ]
+    },
+    {
+      "heading": "Economy and Industry",
+      "paragraphs": [
+        "Zaporizhzhia is recognized as a key industrial center in Ukraine, housing the country's main automobile manufacturing facility, the Zaporizhzhia Automobile Factory (ZAZ), and the [[motor-sich|Motor-Sich]] aircraft engine manufacturer. The city benefits from its proximity to essential resources such as coal, iron ore, and manganese.",
+        "The local economy is bolstered by significant electricity generation capabilities, including the DniproHES and the Zaporizhzhia Nuclear Power Plant, which prior to the 2022 invasion, provided approximately 25% of Ukraine's electricity supply."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Culturally, Zaporizhzhia is home to various institutions, including orchestras, museums, and theaters. Notable cultural sites include the Magara Academic Drama Theatre, the National Museum of the History of the Zaporizhzhian [[cossacks|Cossacks]], and the Zaporizhzhia Regional Art Museum, reflecting the city's rich historical and artistic heritage."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossacks",
+    "dnieper",
+    "euromaidan",
+    "full-scale-russo-ukrainian-war",
+    "motor-sich",
+    "ukraine",
+    "ukrainian-war-of-independence",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Zaporizhzhia — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zaporizhzhia",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

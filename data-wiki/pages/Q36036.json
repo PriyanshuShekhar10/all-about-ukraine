@@ -1,0 +1,96 @@
+{
+  "qid": "Q36036",
+  "slug": "lviv",
+  "title": "Lviv",
+  "type": "city in Ukraine",
+  "category": "geography",
+  "aliases": [
+    "L'vov",
+    "Lemberik",
+    "Leopol"
+  ],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1256",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, West Ukrainian People's Republic",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "758,400",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "182",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "296",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Andriy Sadovyi",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.8425, 24.0322",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Lviv is the fifth-largest city in Ukraine and the largest in the western region, with an estimated population of 723,403 in 2025. It serves as the administrative center of Lviv Oblast and is recognized as a key cultural hub in Ukraine.",
+  "sections": [
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Lviv emerged as a significant center in the historical regions of Red Ruthenia and Galicia during the 14th century, replacing Halych, Chełm, Belz, and Przemyśl. It served as the capital of the [[kingdom-of-galiciavolhynia|Kingdom of Galicia–Volhynia]] from 1272 until 1340, when it came under the control of King Casimir III the Great of Poland due to a succession conflict. The city was granted town rights in 1356 and became the regional capital of the Ruthenian Voivodeship within the Kingdom of Poland from 1434.",
+        "Following the First Partition of Poland in 1772, Lviv became the capital of the Habsburg semi-autonomous Kingdom of Galicia and Lodomeria. Between 1918 and 1939, it was the center of the Lwów Voivodeship in the Second Polish Republic, during which the city experienced significant cultural and industrial growth."
+      ]
+    },
+    {
+      "heading": "Cultural Heritage",
+      "paragraphs": [
+        "The city features a historical center characterized by cobblestone streets and a variety of architectural styles, including Renaissance, Baroque, Neo-classicist, and Art Nouveau. Lviv's historic city center is recognized as a UNESCO World Heritage Site and is currently listed as endangered due to the ongoing Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]].",
+        "Lviv is home to numerous cultural institutions, such as the Academic Symphony Orchestra of the Lviv Philharmonic and the Lviv Theatre of Opera and Ballet, as well as prominent educational establishments like Lviv University and Lviv Polytechnic."
+      ]
+    },
+    {
+      "heading": "Demographics and Names",
+      "paragraphs": [
+        "As of 2025, Lviv has an estimated population of 723,403, making it the largest city in western [[ukraine|Ukraine]]. The city has been known by various names throughout its history, including [[ukrainian|Ukrainian]]: Львів (Lʹviv), Polish: Lwów, German: Lwiw and Lemberg, Yiddish: לעמבעריק (Lemberik), Russian: Львов (Lʹvov), and Latin: Leopolis."
+      ]
+    },
+    {
+      "heading": "Modern Developments",
+      "paragraphs": [
+        "After the dissolution of the Soviet Union in 1991, Lviv remained part of Ukraine. The city continues to play a vital role in the cultural and educational landscape of the country, reflecting its historical significance and ongoing relevance in contemporary Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "kingdom-of-galiciavolhynia",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Lviv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lviv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

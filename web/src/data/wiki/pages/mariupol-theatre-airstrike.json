@@ -1,0 +1,105 @@
+{
+  "qid": "Q111269621",
+  "slug": "mariupol-theatre-airstrike",
+  "title": "Mariupol theatre airstrike",
+  "type": "war crime",
+  "category": "war",
+  "aliases": [
+    "Bombardment of theater in Mariupol",
+    "Bombing of the Mariupol theatre",
+    "Mariupol theater airstrike",
+    "Mariupol theater bombing",
+    "Mariupol theatre bombing"
+  ],
+  "infobox": {
+    "label": "war crime",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2022-03-16",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Mariupol",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "47.0961, 37.5486",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Mariupol theatre airstrike occurred on 16 March 2022 during the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], targeting a building used as an air raid shelter for civilians. This attack has been classified as a war crime by various organizations due to the high number of civilian casualties and the deliberate nature of the bombing.",
+  "sections": [
+    {
+      "heading": "Background",
+      "paragraphs": [
+        "On 24 February 2022, the Russian Armed Forces, in collaboration with pro-Russian militias, initiated a [[siege-of-mariupol|siege of Mariupol]], a port city in [[ukraine|Ukraine]], resulting in significant casualties and the disruption of essential supplies such as food, gas, and electricity. By 17 March, [[mariupol|Mariupol]]'s mayor, Serhiy Orlov, reported that 80–90 percent of the city had been devastated by shelling.",
+        "The Mariupol theatre was recognized as the largest air raid shelter in the city, providing refuge for between 500 to 1,200 civilians, including women and children, during the siege. Satellite images taken on 14 March displayed the word 'children' (Russian: 'дети') marked in two locations outside the theatre, indicating its status as a civilian shelter."
+      ]
+    },
+    {
+      "heading": "Attack Details",
+      "paragraphs": [
+        "On 16 March 2022, [[ukrainian|Ukrainian]] officials accused Russian forces of shelling civilian areas in Mariupol, with artillery strikes impacting various locations, including the theatre. The attack occurred shortly after 10 am, resulting in the destruction of the [[donetsk|Donetsk]] Regional Academic Drama Theatre.",
+        "Although the bomb shelter in the theatre's basement survived, many individuals remained trapped under the debris. Dmytro Gurin, a member of the [[verkhovna-rada|Ukrainian parliament]] from Mariupol, noted that ongoing attacks by Russian forces hindered rescue operations."
+      ]
+    },
+    {
+      "heading": "Casualties and Victims",
+      "paragraphs": [
+        "Initial reports on 17 March regarding casualties were unclear, with some survivors emerging. By 18 March, approximately 130 survivors had been rescued, and the Mariupol City Council initially reported no fatalities, although one individual was critically injured.",
+        "On 25 March, estimates from the Mariupol City Council indicated that around 300 individuals had died due to the airstrike. An investigation by The Washington Post on the same day suggested that families sheltering in the theatre had evacuated prior to the bombing.",
+        "Further investigations by the Associated Press on 4 May raised the death toll to an estimated 600, with many survivors suggesting that around 200 individuals had escaped through exits before the building was destroyed."
+      ]
+    },
+    {
+      "heading": "Reactions and Accusations",
+      "paragraphs": [
+        "[[president-of-ukraine|Ukrainian President]] [[volodymyr-zelenskyy|Volodymyr Zelenskyy]] condemned the attack, labeling it a war crime. In contrast, Russian media reported that the Russian Ministry of Defence denied responsibility, instead accusing the Azov Regiment of orchestrating the bombing.",
+        "Italy's Minister of Culture, Dario Franceschini, expressed willingness to assist in the reconstruction of the theatre."
+      ]
+    },
+    {
+      "heading": "Independent Investigations",
+      "paragraphs": [
+        "On 13 April, the Organization for Security and Co-operation in Europe (OSCE) released a report on the airstrike, indicating that it likely constituted a serious violation of international humanitarian law. The report found no evidence supporting Russian claims that the theatre was targeted by Ukrainian forces.",
+        "Amnesty International, on 30 June 2022, confirmed that the airstrike was executed by Russian forces using two 500-kilogram bombs, reiterating that it was a war crime due to the deliberate targeting of civilians."
+      ]
+    },
+    {
+      "heading": "Aftermath",
+      "paragraphs": [
+        "On 11 July 2022, reports emerged that Russian forces had cleared the rubble of the theatre and allegedly removed victims' bodies to an undisclosed location. A façade was constructed around the ruins.",
+        "The theatre was reopened in 2025 following reconstruction efforts. In February 2023, Russian journalist Maria Ponomarenko was sentenced to six years in prison for reporting on the airstrike, underscoring the suppression of information regarding the incident."
+      ]
+    }
+  ],
+  "links_out": [
+    "donetsk",
+    "full-scale-russo-ukrainian-war",
+    "mariupol",
+    "president-of-ukraine",
+    "siege-of-mariupol",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "Mariupol theatre airstrike — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mariupol_theatre_airstrike",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

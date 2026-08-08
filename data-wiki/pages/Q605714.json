@@ -1,0 +1,84 @@
+{
+  "qid": "Q605714",
+  "slug": "donbas",
+  "title": "Donbas",
+  "type": "industrial region",
+  "category": "geography",
+  "aliases": [
+    "Donbass",
+    "Donets Basin",
+    "Donetsia"
+  ],
+  "infobox": {
+    "label": "industrial region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Donets Ridge",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.0000, 37.8000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Donbas is a historically significant industrial region located on the border between Russia and Ukraine, primarily within Ukraine itself. It has been a crucial coal mining area since the late 19th century and has been impacted by ongoing geopolitical conflicts, particularly the Russo-Ukrainian war.",
+  "sections": [
+    {
+      "heading": "Geographical Overview",
+      "paragraphs": [
+        "The Donbas is situated in the southeastern part of [[ukraine|Ukraine]], bordered by the Donets River to the north and the Azov Upland and Lowland to the south. The region covers approximately 23,000 square kilometers and is characterized by the Donets Ridge, where coal deposits are easily accessible. This area is often referred to as 'Old Donbas', while the surrounding regions, known as 'New Donbas', developed as coal-producing areas after World War II."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "The Donbas has been inhabited for centuries by various nomadic tribes and was largely unpopulated until the late 17th century when the Don [[cossacks|Cossacks]] established permanent settlements. The first town, Solanoye (now Soledar), was founded in 1676 for rock-salt exploitation. The region became part of the Russian Empire in the 18th century, which led to significant migration and agricultural development."
+      ]
+    },
+    {
+      "heading": "Industrial Development",
+      "paragraphs": [
+        "The exploitation of coal resources in the Donbas began in the mid-late 19th century, coinciding with the Industrial Revolution. The name 'Donbas' originated from 'Donets Coal Basin', and the region experienced rapid industrial growth, particularly after the establishment of steel mills and the construction of railways. By 1900, coal production had surged from 1.4 to 11 million tons, making Donbas a leading industrial area in the Russian Empire."
+      ]
+    },
+    {
+      "heading": "Demographics and Ethnic Composition",
+      "paragraphs": [
+        "According to the 1897 Russian Imperial Census, [[ukrainians|Ukrainians]] made up 52.4% of the Donbas population, while ethnic Russians accounted for 28.7%. The region also had significant communities of Greeks, Germans, Jews, and Tatars, particularly in [[mariupol|Mariupol]]. Despite the diverse ethnic makeup, the industrial workforce was predominantly Russian, leading to a high degree of Russification in urban areas."
+      ]
+    },
+    {
+      "heading": "Conflict and Modern Developments",
+      "paragraphs": [
+        "In March 2014, unrest in the Donbas escalated into conflict between [[ukrainian|Ukrainian]] forces and pro-Russian separatists, resulting in a division of the region into Ukrainian-held and separatist-held territories. Following Russia's full-scale [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in 2022, the Russian government declared the annexation of Donbas on September 30, 2022, alongside [[kherson|Kherson]] and [[zaporizhzhia|Zaporizhzhia]], further complicating the geopolitical landscape."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossacks",
+    "full-scale-russo-ukrainian-war",
+    "kherson",
+    "mariupol",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "zaporizhzhia"
+  ],
+  "sources": [
+    {
+      "title": "Donbas — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Donbas",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

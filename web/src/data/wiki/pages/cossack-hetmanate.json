@@ -1,0 +1,90 @@
+{
+  "qid": "Q212439",
+  "slug": "cossack-hetmanate",
+  "title": "Cossack Hetmanate",
+  "type": "vassal and tributary state of the Ottoman Empire",
+  "category": "history",
+  "aliases": [
+    "Zaporozhian Host"
+  ],
+  "infobox": {
+    "label": "vassal and tributary state of the Ottoman Empire",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1648-01-30",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Cossack Hetmanate",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Chyhyryn, Baturyn",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "1,500,000",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "200,000",
+        "source": "wikidata:P2046"
+      }
+    ]
+  },
+  "summary": "The Cossack Hetmanate, officially known as the Zaporozhian Host, was a stratocratic state established by Registered [[cossacks|Cossacks]] in Dnieper Ukraine, existing from 1648 to 1764. It played a significant role in Ukrainian history, particularly through its interactions with the Polish-Lithuanian Commonwealth and the Tsardom of Moscow.",
+  "sections": [
+    {
+      "heading": "Establishment and Recognition",
+      "paragraphs": [
+        "The Cossack Hetmanate emerged from a major Cossack uprising in the Polish–Lithuanian Commonwealth, led by [[bohdan-khmelnytsky|Bohdan Khmelnytsky]] in 1648. The uprising was fueled by various factors, including corruption, social disenfranchisement, and the growing Cossack population.",
+        "The Hetmanate was legally recognized by the Treaty of Zboriv on August 18, 1649, which was signed by Bohdan Khmelnytsky and Adam Kysil, marking a significant outcome of the [[khmelnytsky-uprising|Khmelnytsky Uprising]]."
+      ]
+    },
+    {
+      "heading": "Relations with Moscow",
+      "paragraphs": [
+        "The establishment of vassal relations with the Tsardom of Moscow was formalized in the Treaty of Pereiaslav in 1654, which is regarded as a pivotal moment in the history of the Cossack Hetmanate. However, subsequent agreements, particularly the second Pereiaslav Council in 1659, limited the Hetmanate's independence.",
+        "The Treaty of Andrusovo in 1667, conducted without Cossack representation, divided the Hetmanate along the [[dnieper|Dnieper River]], placing the [[zaporizhian-sich|Zaporozhian Sich]] under joint Russian-Polish administration."
+      ]
+    },
+    {
+      "heading": "Decline and Abolishment",
+      "paragraphs": [
+        "The Hetmanate faced significant challenges following a failed attempt to sever ties with Russia by Ivan Mazepa in 1708, which led to its incorporation into the Kiev Governorate and restricted autonomy.",
+        "Catherine II of Russia officially abolished the position of [[hetman|Hetman]] in 1764, integrating the Cossack Hetmanate into the Little Russia Governorate, with the last remnants of its administrative system dissolved by 1781."
+      ]
+    },
+    {
+      "heading": "Cultural and Historical Legacy",
+      "paragraphs": [
+        "Despite its eventual disbandment, the Cossack Hetmanate left a lasting legacy, particularly through its ruling class, which played a crucial role in the [[ukrainian|Ukrainian]] national revival during the 19th century.",
+        "The term '[[ukraine|Ukraine]]' was increasingly used to refer to the lands of the Hetmanate, reflecting a growing sense of national identity among its inhabitants, who were often referred to as the 'Ruthenian nation.'"
+      ]
+    }
+  ],
+  "links_out": [
+    "bohdan-khmelnytsky",
+    "cossacks",
+    "dnieper",
+    "hetman",
+    "khmelnytsky-uprising",
+    "ukraine",
+    "ukrainian",
+    "zaporizhian-sich"
+  ],
+  "sources": [
+    {
+      "title": "Cossack Hetmanate — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cossack_Hetmanate",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

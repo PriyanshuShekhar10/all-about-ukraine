@@ -1,0 +1,94 @@
+{
+  "qid": "Q457167",
+  "slug": "west-ukrainian-peoples-republic",
+  "title": "West Ukrainian People's Republic",
+  "type": "historical country",
+  "category": "history",
+  "aliases": [
+    "Western Ukrainian National Republic",
+    "ZUNR",
+    "Zakhidno-Ukrainska Narodnia Respublika",
+    "Zakhidnoukrayins’ka Narodna Respublyka"
+  ],
+  "infobox": {
+    "label": "historical country",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1918-10-19",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "West Ukrainian People's Republic",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Lviv, Ivano-Frankivsk",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Head of government",
+        "value": "Yevhen Petrushevych, Sydir Holubovych",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.8425, 24.0322",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The West Ukrainian People's Republic (ZUNR) was a short-lived state that existed from November 1918 to July 1919, primarily in the region of Galicia. It emerged during the disintegration of Austria-Hungary and sought to establish Ukrainian autonomy amid competing claims from Poland.",
+  "sections": [
+    {
+      "heading": "Formation and Territory",
+      "paragraphs": [
+        "The West Ukrainian People's Republic ([[ukrainian|Ukrainian]]: Західноукраїнська Народна Республіка, romanized: Zakhidnoukrainska Narodna Respublika) was proclaimed on November 1, 1918. It controlled most of the Kingdom of Galicia and Lodomeria and included major cities such as [[lviv|Lviv]], [[ternopil|Ternopil]], Kolomyia, Drohobych, Boryslav, [[ivano-frankivsk|Stanyslaviv]], and parts of Peremyshl.",
+        "In addition to Eastern Galicia, the ZUNR claimed the northern part of Bukovina and Carpathian Ruthenia. The Ukrainian National Democratic Party was the dominant political force within the legislative assembly, alongside other parties like the Ukrainian Radical Party and the Christian Social Party."
+      ]
+    },
+    {
+      "heading": "Political Context and Challenges",
+      "paragraphs": [
+        "The establishment of the ZUNR occurred against the backdrop of the dissolution of Austria-Hungary. In January 1919, the ZUNR nominally united with the [[ukrainian-peoples-republic|Ukrainian People's Republic]] (UPR) as its autonomous Western Oblast. However, this union faced challenges as Poland laid claim to the territory, leading to Polish occupation by July 1919 and forcing the West [[cabinet-of-ministers-of-ukraine|Ukrainian government]] into exile.",
+        "The population of the region, according to the Austro-Hungarian census of 1910, was approximately 5.4 million, with [[ukrainians|Ukrainians]] constituting around 60%. The Polish population was concentrated in urban areas, particularly Lviv, which complicated the ZUNR's governance and led to uprisings against Ukrainian rule."
+      ]
+    },
+    {
+      "heading": "Military Engagements and Exile",
+      "paragraphs": [
+        "During the Polish-[[full-scale-russo-ukrainian-war|Ukrainian War]], the West Ukrainian army managed to resist Polish advances for about nine months. However, by July 1919, Polish forces had taken control of most of the territory claimed by the ZUNR. Following the defeat, part of the Ukrainian Galician Army found refuge in Czechoslovakia, while others crossed into the Ukrainian People's Republic.",
+        "The exiled government established itself in Kamianets-Podilskyi and faced deteriorating relations with the [[kyiv|Kyiv]]-based UPR, primarily due to differing views on alliances and the ongoing conflict with Poland. The exiled government continued to assert its claims until its dissolution in 1923."
+      ]
+    },
+    {
+      "heading": "Diplomatic Efforts and Legacy",
+      "paragraphs": [
+        "The West Ukrainian government sought various alliances during its existence, including potential agreements with the White Russian forces against Soviet Russia. However, internal disagreements with the UPR and external pressures led to the rejection of these alliances.",
+        "In December 1919, the exiled government unilaterally repealed the Unification Act with the UPR and resumed its original name, the West Ukrainian People's Republic. The legacy of the ZUNR is significant in the context of Ukrainian nationalism and the struggle for autonomy in the early 20th century."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "ivano-frankivsk",
+    "kyiv",
+    "lviv",
+    "ternopil",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "West Ukrainian People's Republic — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/West_Ukrainian_People's_Republic",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

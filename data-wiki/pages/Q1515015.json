@@ -1,0 +1,80 @@
+{
+  "qid": "Q1515015",
+  "slug": "privatbank",
+  "title": "PrivatBank",
+  "type": "bank",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "bank",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1992-03-19",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Dnipro, Naberezhna Peremohy",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "PrivatBank is the largest bank in Ukraine by assets, established on 19 March 1992. It has been state-owned since its nationalization in 2016 and is recognized as one of the country's systemically important banks.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "JSC PrivatBank ([[ukrainian|Ukrainian]]: АТ КБ ПриватБанк) is the largest bank in [[ukraine|Ukraine]] by assets. It was formed on 19 March 1992 and has been owned by the [[cabinet-of-ministers-of-ukraine|Government of Ukraine]] since 2016, after its nationalisation. In early 2024, it was confirmed by the [[national-bank-of-ukraine|National Bank of Ukraine]] as one of the country's systemically important banks.",
+        "PrivatBank has the second-largest network of branches and the largest network of ATMs and terminals among Ukrainian banks. As of July 2022, more than 7,000 ATMs, 11,000 payment terminals, and over 250,000 POS terminals are operational within its network. The bank operates approximately 1,200 branches across Ukraine and is the largest issuer and acquirer of electronic payment means in the country."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "PrivatBank is a private commercial bank established in Ukraine, with the decision to create it made at a meeting of its founders on 7 February 1992.",
+        "On 18 December 2016, the Deposit Guarantee Fund (DGF) appointed a temporary administrator to manage PrivatBank following a decision by the National Bank of Ukraine to classify the bank as insolvent. From 19 to 21 December 2016, the DGF took control of the bank's activities, recognizing significant impairments in loans and converting various customer funds and debts into authorized capital. On 21 December 2016, after this 'bail in', the bank's shares were sold for UAH 1 to the Ministry of Finance of Ukraine."
+      ]
+    },
+    {
+      "heading": "Financial Performance",
+      "paragraphs": [
+        "In December 2016, the Ministry of Finance decided to increase the bank's authorized capital by UAH 116,800 million, with an additional UAH 38,565 million added in June 2017. As of 2024, PrivatBank has over 19 million active customers.",
+        "According to official data from the National Bank of Ukraine, PrivatBank reported a profit of ₴35.050 billion in 2021. Detailed financial indicators over the past 15 years can be found in the bank's financial reporting."
+      ]
+    },
+    {
+      "heading": "Corporate Social Responsibility",
+      "paragraphs": [
+        "In its integrated annual reports for 2022-2024, PrivatBank has emphasized not only its financial results but also its commitment to sustainable development and corporate social responsibility. These reports highlight various projects aimed at supporting communities and society, showcasing the bank's role as a socially responsible entity.",
+        "The reports also provide insights into PrivatBank's corporate governance practices, risk management, and adherence to ethical standards, as well as its efforts in environmental initiatives and sustainable development programs."
+      ]
+    },
+    {
+      "heading": "Recognition",
+      "paragraphs": [
+        "PrivatBank was ranked 16th among the largest banks in Central and Eastern Europe and 627th among the top 1000 global banks by the British magazine The Banker in 2016."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "national-bank-of-ukraine",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "PrivatBank — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/PrivatBank",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

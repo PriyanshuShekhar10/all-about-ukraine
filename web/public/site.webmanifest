@@ -1,0 +1,19 @@
+{
+  "name": "Ukraine Encyclopedia",
+  "short_name": "Ukraine",
+  "description": "No fantasies. Just centuries of Ukraine's story, uncensored.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fbfaf7",
+  "theme_color": "#fbfaf7",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+---
+import Base from "@/layouts/Base.astro";
+
+const description =
+  "Contact us — send corrections, questions, or feedback about the Ukraine encyclopedia.";
+const contactEmail = "contact@ukraineporn.com";
+
+const contactUrl = new URL("/contact", Astro.site).href;
+const homeUrl = new URL("/", Astro.site).href;
+const jsonLd = [
+  {
+    "@context": "https://schema.org",
+    "@type": "ContactPage",
+    name: "Contact",
+    url: contactUrl,
+    description,
+    inLanguage: "en",
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: homeUrl },
+      { "@type": "ListItem", position: 2, name: "Contact", item: contactUrl },
+    ],
+  },
+];
+
+const fieldClass =
+  "ui mt-1 w-full border border-hairline bg-canvas px-3 py-2 text-[15px] text-ink placeholder:text-mute focus-visible:border-link";
+---
+
+<Base title="Contact" description={description} jsonLd={jsonLd}>
+  <div class="doc mx-auto max-w-[820px] px-5 py-8 sm:py-10">
+    <nav aria-label="Breadcrumb" class="ui mb-4 text-sm text-mute">
+      <a href="/" class="hover:underline">Home</a>
+      <span aria-hidden="true"> › </span>
+      <span>Contact</span>
+    </nav>
+
+    <header class="border-b border-hairline pb-4">
+      <h1 class="text-3xl font-bold leading-tight text-ink sm:text-4xl">
+        Contact
+      </h1>
+      <p class="mt-2 max-w-prose text-body">
+        Corrections, questions, and feedback are welcome. The fastest way to reach
+        us is by email.
+      </p>
+    </header>
+
+    <div class="mt-6 max-w-prose">
+      <p class="text-body">
+        Email us directly at
+        <a href={`mailto:${contactEmail}`} class="doclink">{contactEmail}</a>, or
+        use the form below — it will open your email app with the message
+        pre-filled.
+      </p>
+
+      <form id="contact-form" class="mt-6 flex flex-col gap-4">
+        <div>
+          <label for="cf-name" class="ui text-sm font-semibold text-ink"
+            >Name</label
+          >
+          <input
+            id="cf-name"
+            name="name"
+            type="text"
+            autocomplete="name"
+            required
+            class={fieldClass}
+            placeholder="Your name"
+          />
+        </div>
+
+        <div>
+          <label for="cf-email" class="ui text-sm font-semibold text-ink"
+            >Email</label
+          >
+          <input
+            id="cf-email"
+            name="email"
+            type="email"
+            autocomplete="email"
+            required
+            class={fieldClass}
+            placeholder="you@example.com"
+          />
+        </div>
+
+        <div>
+          <label for="cf-message" class="ui text-sm font-semibold text-ink"
+            >Message</label
+          >
+          <textarea
+            id="cf-message"
+            name="message"
+            rows="6"
+            required
+            class={fieldClass}
+            placeholder="How can we help? Include a page link if you're reporting a correction."
+          ></textarea>
+        </div>
+
+        <div class="flex items-center gap-4">
+          <button
+            type="submit"
+            class="ui inline-flex items-center border border-ink px-4 py-2 text-sm font-semibold text-ink hover:bg-ink hover:text-canvas"
+          >
+            Send message
+          </button>
+          <span id="cf-status" role="status" aria-live="polite" class="ui text-sm text-mute"></span>
+        </div>
+      </form>
+
+      <noscript>
+        <p class="ui mt-4 text-sm text-mute">
+          The form needs JavaScript. You can email us directly at
+          <a href={`mailto:${contactEmail}`} class="doclink">{contactEmail}</a>.
+        </p>
+      </noscript>
+    </div>
+  </div>
+
+  <script is:inline define:vars={{ contactEmail }}>
+    (function () {
+      var form = document.getElementById("contact-form");
+      if (!form) return;
+      form.addEventListener("submit", function (e) {
+        e.preventDefault();
+        var name = (document.getElementById("cf-name").value || "").trim();
+        var email = (document.getElementById("cf-email").value || "").trim();
+        var message = (document.getElementById("cf-message").value || "").trim();
+        var subject = encodeURIComponent("Website contact from " + (name || "visitor"));
+        var body = encodeURIComponent(
+          message + "\n\n— " + name + (email ? " <" + email + ">" : ""),
+        );
+        var status = document.getElementById("cf-status");
+        if (status) status.textContent = "Opening your email app…";
+        window.location.href =
+          "mailto:" + contactEmail + "?subject=" + subject + "&body=" + body;
+      });
+    })();
+  </script>
+</Base>

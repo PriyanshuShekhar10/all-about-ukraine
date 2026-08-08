@@ -1,0 +1,60 @@
+{
+  "qid": "Q6499669",
+  "slug": "cabbage-roll",
+  "title": "cabbage roll",
+  "type": "topic",
+  "category": "culture",
+  "aliases": [
+    "cabbage rolls",
+    "stuffed cabbage"
+  ],
+  "infobox": {
+    "label": "topic",
+    "fields": []
+  },
+  "summary": "Cabbage rolls, known as holubtsi in Ukraine, are a traditional dish that consists of cooked cabbage leaves filled with various ingredients, reflecting the culinary heritage of Central and Eastern Europe, including Ukraine.",
+  "sections": [
+    {
+      "heading": "Description and Preparation",
+      "paragraphs": [
+        "Cabbage rolls are made by wrapping cooked cabbage leaves around a variety of fillings, which can include meats, grains, and vegetables. The dish is prevalent in the cuisines of Central, Eastern, and Southeastern Europe, as well as parts of Western Asia and North Africa.",
+        "In [[ukraine|Ukraine]], the filling for holubtsi varies by region, often incorporating ingredients such as corn grits in the Carpathians or buckwheat groats in [[poltava|Poltava]]. The filling is typically mixed with fried onions, pork cracklings, or minced meat, seasoned with various spices. Holubtsi are usually prepared using fresh or pickled cabbage leaves and can be served with a variety of sauces."
+      ]
+    },
+    {
+      "heading": "Cultural Significance in Ukraine",
+      "paragraphs": [
+        "Holubtsi hold a special place in [[ukrainian|Ukrainian]] culinary traditions, often served during significant occasions such as Sviata Vecheria, the Christmas Eve supper, where they are one of the twelve traditional dishes. In many regions, only Lenten ingredients are used for this dish during the holiday.",
+        "The preparation of holubtsi has been recognized as part of Ukraine's intangible cultural heritage, with its inclusion in the National Inventory of Elements of the Intangible Cultural Heritage of Ukraine on May 4, 2023."
+      ]
+    },
+    {
+      "heading": "Regional Variations",
+      "paragraphs": [
+        "In Left Bank Ukraine and the southern regions, holubtsi are typically large, made from whole cabbage leaves, while in the [[dniester|Dniester]] region and the Carpathians, smaller pieces are often used. The size and method of preparation can vary significantly, with Poltava cooks favoring larger, juicier rolls, while other regions may prefer smaller versions.",
+        "During the 1920s, a shift occurred in the preparation of holubtsi, with many cooks beginning to use a rice-meat mixture and cooking them in tomato juice or sauce, which has become the most common method today."
+      ]
+    },
+    {
+      "heading": "Comparison with Other Cuisines",
+      "paragraphs": [
+        "Cabbage rolls are also found in various forms across other cultures, such as in Poland (gołąbki), Hungary (töltött káposzta), and Romania (sarmale), each with its own regional variations in ingredients and preparation methods. In Ukraine, the distinctive use of local ingredients and traditional cooking methods sets holubtsi apart from similar dishes in neighboring countries."
+      ]
+    }
+  ],
+  "links_out": [
+    "dniester",
+    "poltava",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Cabbage roll — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cabbage_roll",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

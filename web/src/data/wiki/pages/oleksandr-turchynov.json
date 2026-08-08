@@ -1,0 +1,95 @@
+{
+  "qid": "Q15850",
+  "slug": "oleksandr-turchynov",
+  "title": "Oleksandr Turchynov",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Oleksandr Valentynovych Turchynov"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1964-03-31",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Dnipro",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "President of Ukraine, People's Deputy of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Oleksandr Turchynov is a prominent Ukrainian politician, economist, and Baptist minister, known for his roles in the [[cabinet-of-ministers-of-ukraine|Ukrainian government]], including serving as acting President and Secretary of the National Security and Defence Council. His political career has been significantly intertwined with key events in Ukraine's recent history, particularly during the 2014 political crisis and the ongoing conflict with Russia.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Oleksandr Valentynovych Turchynov was born on 31 March 1964 in [[dnipro|Dnipropetrovsk]], now known as [[dnieper|Dnipro]]. He graduated from the Dnipropetrovsk Metallurgical Institute in 1986, subsequently working at [[arcelormittal-kryvyi-rih|Kryvorizhstal]], a major [[ukrainian|Ukrainian]] steel producer.",
+        "From 1987 to 1990, Turchynov led the agitation and propaganda division of the Dnipropetrovsk Oblast Komsomol Committee. He became a political adviser to [[leonid-kuchma|Leonid Kuchma]], who was then the head of the Pivdenmash missile manufacturer, after Kuchma's appointment as Prime Minister in 1992."
+      ]
+    },
+    {
+      "heading": "Political Career",
+      "paragraphs": [
+        "Turchynov's political career began in earnest when he was elected to the [[verkhovna-rada|Verkhovna Rada]] in 1998 as a member of the Hromada party. He later joined [[yulia-tymoshenko|Yulia Tymoshenko]]'s All-Ukrainian Union 'Fatherland' and was re-elected to parliament in 2002 and 2006 as part of the BYuT.",
+        "He served as the first civilian head of the [[security-service-of-ukraine|Security Service of Ukraine]] (SBU) starting on 4 February 2005 and was involved in significant investigations during his tenure.",
+        "In March 2010, Turchynov acted as [[prime-minister-of-ukraine|Prime Minister of Ukraine]] following the dismissal of Yulia Tymoshenko's government until a new government was appointed."
+      ]
+    },
+    {
+      "heading": "Acting Presidency and National Security",
+      "paragraphs": [
+        "Following the removal of President [[viktor-yanukovych|Viktor Yanukovych]] on 21 February 2014, Turchynov was elected as the speaker of the Verkhovna Rada and subsequently designated as interim [[president-of-ukraine|President of Ukraine]] on 23 February 2014. He commanded the [[armed-forces-of-ukraine|Ukrainian Armed Forces]] starting 25 February 2014.",
+        "During his presidency, he faced the challenges of the Russian military intervention in [[ukraine|Ukraine]] and initiated anti-terrorist operations against pro-Russian insurgents."
+      ]
+    },
+    {
+      "heading": "Post-Presidency Activities",
+      "paragraphs": [
+        "After his presidential powers ended with the election of [[petro-poroshenko|Petro Poroshenko]] on 7 June 2014, Turchynov became a founding member of the People's Front party in September 2014.",
+        "He was appointed Secretary of the National Security and Defence Council of Ukraine on 16 December 2014, continuing to influence Ukraine's security policies amidst ongoing conflict with Russia."
+      ]
+    },
+    {
+      "heading": "Controversies and Public Perception",
+      "paragraphs": [
+        "Turchynov has faced scrutiny for various statements and actions throughout his career. In June 2017, public trust in him was notably low, with only 0.9% of respondents expressing complete trust according to a social poll.",
+        "He has also been included in the Russian sanctions list as of 1 November 2018 due to his role in Ukraine's actions against Russian entities."
+      ]
+    }
+  ],
+  "links_out": [
+    "arcelormittal-kryvyi-rih",
+    "armed-forces-of-ukraine",
+    "cabinet-of-ministers-of-ukraine",
+    "dnieper",
+    "dnipro",
+    "leonid-kuchma",
+    "petro-poroshenko",
+    "president-of-ukraine",
+    "prime-minister-of-ukraine",
+    "security-service-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada",
+    "viktor-yanukovych",
+    "yulia-tymoshenko"
+  ],
+  "sources": [
+    {
+      "title": "Oleksandr Turchynov — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oleksandr_Turchynov",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

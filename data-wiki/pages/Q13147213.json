@@ -1,0 +1,73 @@
+{
+  "qid": "Q13147213",
+  "slug": "varenyky",
+  "title": "varenyky",
+  "type": "type of pasta",
+  "category": "culture",
+  "aliases": [
+    "pyrohy"
+  ],
+  "infobox": {
+    "label": "type of pasta",
+    "fields": [
+      {
+        "label": "Location",
+        "value": "Ukraine, Russia",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "Varenyky are traditional Ukrainian dumplings made from unleavened dough filled with various ingredients, making them a significant part of Ukrainian cuisine and culture.",
+  "sections": [
+    {
+      "heading": "Definition and Characteristics",
+      "paragraphs": [
+        "Varenyky ([[ukrainian|Ukrainian]]: вареники, sing.: varenyk) are traditional Ukrainian dumplings crafted from unleavened dough and filled with either sweet or savory ingredients. They are considered one of the most iconic dishes in [[ukrainian-cuisine|Ukrainian cuisine]] and share similarities with other East European dumplings, such as Polish pierogi. A notable difference between Ukrainian varenyky and Polish pierogi is that varenyky typically feature thinner, softer dough and simpler fillings, most commonly consisting of potato."
+      ]
+    },
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "The name вареники (varenyky) originates from the Ukrainian verb варити (varyty), which means 'to boil', reflecting the primary cooking method used for these dumplings."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Varenyky have been a part of Ukrainian culinary traditions for centuries, appearing in folklore, rituals, and literature. They are often prepared for festive occasions, harvest celebrations, and religious holidays. The dish is referenced in Ukrainian folk songs and humor, symbolizing abundance, warmth, and hospitality."
+      ]
+    },
+    {
+      "heading": "Preparation Methods",
+      "paragraphs": [
+        "In addition to the commonly boiled variety, some regional traditions include steamed varenyky, known as pareni varenyky or pyrohy na parí. In western Ukrainian regions, particularly in Hutsul areas, these dumplings are prepared by steaming them on a cloth stretched over a pot of boiling water, resulting in a delicate texture often filled with potato and cheese. Ukrainian cookbooks mention steaming as a traditional technique in certain high-altitude and festive culinary practices."
+      ]
+    },
+    {
+      "heading": "Serving Suggestions",
+      "paragraphs": [
+        "Varenyky are typically served with various accompaniments, including sour cream (smetana), melted butter, fried onions, fried pieces of [[salo|salo]] (shkvarky), and sugar for sweet versions. The customary pairing of sour cream and onions is documented in ethnographic studies of Ukrainian foodways."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Varenyky carry symbolic importance in Ukrainian culture, appearing in folk art, songs, and humor. They are often linked to prosperity and family traditions. A monument dedicated to varenyky has been erected in Cherkasy Oblast, underscoring the dish's cultural significance. In Ukrainian tradition, varenyky were associated with the young moon due to their shape and were used in pagan and sacrificial rituals. For instance, cheese varenyky were offered near water springs, and farmers believed that taking homemade dumplings to the fields would ensure a bountiful harvest."
+      ]
+    }
+  ],
+  "links_out": [
+    "salo",
+    "ukrainian",
+    "ukrainian-cuisine"
+  ],
+  "sources": [
+    {
+      "title": "Varenyky — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Varenyky",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}
