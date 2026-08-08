@@ -6,6 +6,8 @@
 # AI crawlers are explicitly welcome. Because a named User-agent group overrides
 # the "*" group for that bot, each AI crawler below repeats "Allow: /".
 
+Sitemap: https://ukraineporn.com/sitemap-index.xml
+
 User-agent: *
 Allow: /
 
