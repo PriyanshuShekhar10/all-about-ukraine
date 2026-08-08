@@ -1,0 +1,66 @@
+{
+  "qid": "Q914114",
+  "slug": "rus-people",
+  "title": "Rus' people",
+  "type": "ethnic group",
+  "category": "history",
+  "aliases": [
+    "Ruci",
+    "Ruzzi"
+  ],
+  "infobox": {
+    "label": "ethnic group",
+    "fields": []
+  },
+  "summary": "The Rus', also referred to as Russes, were an early medieval ethnic group in Eastern Europe, primarily of Norse origin, who played a significant role in the formation of Kievan Rus' and the cultural development of Ukraine and its neighboring regions.",
+  "sections": [
+    {
+      "heading": "Origins and Settlement",
+      "paragraphs": [
+        "The Rus' people are believed to have originated from Norsemen, mainly from present-day Sweden, who settled along river routes between the Baltic and the Black Sea from approximately the 8th to the 11th centuries AD.",
+        "The two principal centers of the Rus' were Ladoga (Aldeigja), established in the mid-8th century, and Rurikovo Gorodische (Holmr), founded in the mid-9th century. These settlements were located along the Volkhov River, between Lake Ilmen and Lake Ladoga."
+      ]
+    },
+    {
+      "heading": "Cultural Integration and Language",
+      "paragraphs": [
+        "As the Rus' expanded, they assimilated with local Finnic and Slavic populations, leading to the establishment of a common language. By the second half of the 11th century, Old Norse had largely faded from everyday use, although elements of Norse culture persisted in rural areas until the 14th and early 15th centuries."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "The history of the Rus' is crucial for understanding the state formation and national origins in Eastern Europe during the 9th and 10th centuries. Their legacy is foundational to the histories of Russia, [[ukraine|Ukraine]], and Belarus.",
+        "The term Rus' became associated with the elite of [[kievan-rus|Kievan Rus]]', transitioning from a designation for Scandinavians to a broader identification of the Slavicized ruling class."
+      ]
+    },
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "The name Rus' is thought to be derived from the Finnic word Ruotsi, meaning 'Sweden'. It is linked to terms in Old Norse that refer to rowing and fleets, suggesting a maritime connection to the Norse heritage of the Rus'.",
+        "The name has been preserved in various place names across regions that were historically part of Rus', including modern Russia and Belarus."
+      ]
+    },
+    {
+      "heading": "Scandinavian Connections",
+      "paragraphs": [
+        "Scandinavian sources refer to the region of Kievan Rus' as Austr (the 'East') and Garðaríki (the 'realm of cities'), indicating a perception of the area as a significant cultural and political entity established by the Swedes.",
+        "The historical ties between the Kievan Rus' and Scandinavian rulers are evidenced by intermarriages and military alliances, highlighting the influence of Norse culture in the development of early [[ukrainian|Ukrainian]] statehood."
+      ]
+    }
+  ],
+  "links_out": [
+    "kievan-rus",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Rus' people — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rus'_people",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-08",
+  "status": "published"
+}

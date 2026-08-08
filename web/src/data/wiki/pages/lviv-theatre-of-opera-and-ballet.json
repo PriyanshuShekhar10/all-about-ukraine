@@ -1,0 +1,84 @@
+{
+  "qid": "Q1246092",
+  "slug": "lviv-theatre-of-opera-and-ballet",
+  "title": "Lviv Theatre of Opera and Ballet",
+  "type": "opera house",
+  "category": "culture",
+  "aliases": [
+    "Lviv Opera",
+    "Solomiya Krushelnytska Lviv State Academic Theatre of Opera and Ballet"
+  ],
+  "infobox": {
+    "label": "opera house",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1897",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.8440, 24.0262",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Solomiya Krushelnytska Lviv State Academic Theatre of Opera and Ballet, commonly known as Lviv Opera, is a prominent opera house in Lviv, Ukraine. Designed by Polish architect Zygmunt Gorgolewski, it serves as a significant cultural institution in the region, reflecting the historical and artistic heritage of Ukraine.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Solomiya Krushelnytska Lviv State Academic Theatre of Opera and Ballet, referred to as Lviv Opera, is situated in [[lviv|Lviv]], [[ukraine|Ukraine]]. The theatre is located on Freedom Avenue in the historic Old City, a UNESCO World Heritage Site, and was designed by Zygmunt Gorgolewski.",
+        "The opera house was constructed between 1897 and 1900, during a period when Lviv was the capital of the autonomous province of Galicia within the Austro-Hungarian Empire."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Initially known as the Grand Theatre during the Second Polish Republic, the theatre underwent several name changes, including a renaming in 1956 to honor the [[ukrainian|Ukrainian]] poet [[ivan-franko|Ivan Franko]]. In 2000, it was renamed after Solomiya Krushelnytska, a celebrated soprano of the early 20th century.",
+        "The Lviv Opera has been a venue for significant cultural events, including the first performance of Ukraine's national anthem in April 1990, shortly before the dissolution of the Soviet Union."
+      ]
+    },
+    {
+      "heading": "Architectural Design",
+      "paragraphs": [
+        "The architectural style of the Lviv Theatre of Opera and Ballet incorporates elements of Renaissance Revival, Neo-Baroque, and Art Nouveau. The building features a richly decorated façade with Corinthian columns, pilasters, and sculptures that symbolize various artistic themes.",
+        "The internal decoration was executed by notable Polish artists, enhancing its status as a center for artistic achievement in Western Europe at the end of the 19th century."
+      ]
+    },
+    {
+      "heading": "Construction and Opening",
+      "paragraphs": [
+        "The construction of the theatre was initiated after a design competition in 1895, which was won by Gorgolewski. The cornerstone was laid in June 1897, and the project was notable for its innovative use of reinforced concrete as a foundation.",
+        "The grand opening took place on October 4, 1900, attended by prominent cultural figures and dignitaries, marking a significant event in Lviv's cultural history."
+      ]
+    },
+    {
+      "heading": "Later Developments",
+      "paragraphs": [
+        "Despite initial concerns regarding the building's stability due to the Poltva River running beneath it, the theatre has remained stable over the years, attributed to Gorgolewski's innovative design.",
+        "The theatre continues to be a vital cultural institution in Ukraine, showcasing a variety of performances and contributing to the country's rich artistic landscape."
+      ]
+    }
+  ],
+  "links_out": [
+    "ivan-franko",
+    "lviv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Lviv Theatre of Opera and Ballet — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lviv_Theatre_of_Opera_and_Ballet",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-08",
+  "status": "published"
+}

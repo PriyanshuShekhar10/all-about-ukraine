@@ -1,0 +1,95 @@
+{
+  "qid": "Q2704774",
+  "slug": "borys-paton",
+  "title": "Borys Paton",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "B E Paton",
+    "Boris E. Paton",
+    "Boris Yevgenyevich Paton",
+    "Borys Yevhenovych Paton"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1918-11-14",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "2020-08-19",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Kyiv",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "deputy of the Supreme Soviet of the Soviet Union, Presidium of the National Academy of Sciences of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Borys Yevhenovych Paton was a prominent Ukrainian scientist known for his significant contributions to the field of electric welding and his long tenure as chairman of the National Academy of Sciences of Ukraine from 1962 until his passing in 2020.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Borys Paton was born on 27 November 1918 in [[kyiv|Kyiv]], into a family of scientists. His father, Professor Evgeny Paton, was the founder of the Paton Institute of Electric Welding in Kyiv and was renowned for his work in electric welding.",
+        "Paton completed his education at the Kyiv Polytechnic Institute in 1941, becoming an engineer."
+      ]
+    },
+    {
+      "heading": "Career and Contributions",
+      "paragraphs": [
+        "During World War II, Paton worked at the Krasnoye Sormovo Factory No. 112 in Gorky, where he designed electric circuits that contributed to increased Soviet tank production.",
+        "He earned a doctoral degree in technical sciences in 1952 and became the head of the Paton Institute of Electric Welding later that year, succeeding his father.",
+        "Paton joined the National Academy of Sciences of [[ukraine|Ukraine]] on 18 November 1958 and was appointed chairman in 1962, a role he maintained until his death.",
+        "He was instrumental in developing automatic and semi-automatic welding technologies and was a pioneer in the field of special electrometallurgy."
+      ]
+    },
+    {
+      "heading": "Political Involvement and Recognition",
+      "paragraphs": [
+        "Paton served as a deputy of the Supreme Soviet of the Soviet Union from 1962 to 1989 and advised against the construction of the [[chernobyl-nuclear-power-plant|Chernobyl Nuclear Power Plant]] in the 1970s and 1980s.",
+        "In 1998, he became the first recipient of the title Hero of Ukraine, recognizing his contributions to science and welding.",
+        "He was involved in various political activities, including serving on the National Security and Defense Council of Ukraine and acting as a proxy for [[yulia-tymoshenko|Yulia Tymoshenko]] during the 2010 presidential election."
+      ]
+    },
+    {
+      "heading": "Awards and Honors",
+      "paragraphs": [
+        "Paton received numerous awards throughout his career, including the Order of Prince Yaroslav the Wise and the State Prize of Ukraine.",
+        "He was also honored with multiple Soviet awards, such as the Hero of Socialist Labour and the Lenin Prize, reflecting his significant impact on science both in Ukraine and the Soviet Union."
+      ]
+    },
+    {
+      "heading": "Legacy and Death",
+      "paragraphs": [
+        "Borys Paton passed away on 19 August 2020 at the age of 101 and was buried at Baikove Cemetery in Kyiv.",
+        "He authored over 1,000 publications and was responsible for more than 400 inventions, leaving a lasting legacy in the field of welding and [[ukrainian|Ukrainian]] science."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernobyl-nuclear-power-plant",
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "yulia-tymoshenko"
+  ],
+  "sources": [
+    {
+      "title": "Borys Paton — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Borys_Paton",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-08",
+  "status": "published"
+}

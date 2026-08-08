@@ -76,7 +76,7 @@
     {
       "heading": "Conflict and Current Status",
       "paragraphs": [
-        "Since April 2014, Donetsk has been a significant battleground in the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]], with pro-Russian separatists declaring the Donetsk People's Republic. The city has been administered by these separatist forces, and as of June 2026, it remains under Russian control amidst ongoing military conflict.",
+        "Since April 2014, Donetsk has been a significant battleground in the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]], with pro-Russian separatists declaring [[donetsk-peoples-republic|the Donetsk People's Republic]]. The city has been administered by these separatist forces, and as of June 2026, it remains under Russian control amidst ongoing military conflict.",
         "The city was heavily impacted by fighting, particularly around the Donetsk International Airport, which became a focal point of conflict in 2014."
       ]
     },
@@ -89,6 +89,7 @@
   ],
   "links_out": [
     "donbas",
+    "donetsk-peoples-republic",
     "full-scale-russo-ukrainian-war",
     "ukraine",
     "ukrainian-soviet-socialist-republic"

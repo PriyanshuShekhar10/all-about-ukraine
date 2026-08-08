@@ -1,0 +1,91 @@
+{
+  "qid": "Q914907",
+  "slug": "khortytsia",
+  "title": "Khortytsia",
+  "type": "island",
+  "category": "geography",
+  "aliases": [
+    "Hortitsa",
+    "Hortytsia",
+    "Hortytsya",
+    "Khortitsa",
+    "khortytsya"
+  ],
+  "infobox": {
+    "label": "island",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "23",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "30",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "47.8200, 35.1000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Khortytsia is the largest island on the Dnieper River, measuring 12.5 km in length and up to 2.5 km in width. Located within the city limits of Zaporizhzhia, [[ukraine|Ukraine]], it is a significant historical site, particularly for its connection to the Zaporozhian Cossacks and its unique biodiversity.",
+  "sections": [
+    {
+      "heading": "Geography and Location",
+      "paragraphs": [
+        "Khortytsia is situated in the [[zaporizhzhia|Zaporizhzhia]] region, which derives its name from the area beyond the [[dnieper|Dnieper River]] rapids. The construction of the Dnieper Hydroelectric Station in the 1930s resulted in the flooding of these rapids, leaving only granite cliffs that reach heights of 50 m. The Great Meadow, located south of Khortytsia, was submerged from the 1950s until 2023 due to the Kakhovka Reservoir.",
+        "The island features a prominent summit known as Savutyn, where three electrical transmission towers, referred to as the Zaporizhzhia Pylon Triple, stand at a height of 74.5 meters. These towers are part of a 150 kV powerline that crosses the Dnieper River."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "The etymology of Khortytsia may trace back to the ancient Slavic god Khors. The island has been inhabited for approximately five millennia, with archaeological evidence indicating occupation during the Proto-Indo-European and Scythian periods. Notably, the nearby Small Khortytsia island contains Scythian artifacts and remnants of a Cossack fortress.",
+        "Emperor Constantine VII referenced the island of St. George, located downstream from the rapids, in his work De Administrando Imperio around 950. The island is also mentioned in the Primary Chronicle concerning a military campaign by Sviatopolk II in 1103."
+      ]
+    },
+    {
+      "heading": "Cossack Era",
+      "paragraphs": [
+        "The earliest known stronghold on Khortytsia was the Khortytsia Castle, established by Dmytro Vyshnevetsky in the 1550s on Little Khortytsia Island. There is ongoing debate about whether this castle can be classified as a 'sich,' a term later associated with various locations in the Zaporozhia area."
+      ]
+    },
+    {
+      "heading": "Modern Developments",
+      "paragraphs": [
+        "In 1789, Mennonites from Gdańsk settled on Khortytsia, utilizing the fertile land for agriculture and engaging in lumber trade. In 1916, the island was sold to the Alexandrovsk city council.",
+        "Khortytsia was designated as a historical and cultural reserve in 1965, with the Dnieper Rapids state historical and cultural reserve established in 1974, encompassing Khortytsia and surrounding areas. The reserve was granted national status in 1993."
+      ]
+    },
+    {
+      "heading": "National Reserve and Museum",
+      "paragraphs": [
+        "The primary section of the Khortytsia National Reserve includes the Zaporizhian Cossack Museum, which features a Cossack horse show and was inaugurated in October 1983. The museum, initially approved in December 1970, covers an area of 1,600 m2 and showcases the history of Khortytsia, the Zaporizhian [[cossacks|Cossacks]], and the development of Zaporizhzhia during the socialist era.",
+        "Exhibits span from the Stone Age to the 20th century, including dioramas depicting significant historical events such as the Battle of Sviatoslav and the Uprising of impoverished Cossacks."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossacks",
+    "dnieper",
+    "ukraine",
+    "zaporizhzhia"
+  ],
+  "sources": [
+    {
+      "title": "Khortytsia — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Khortytsia",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-08",
+  "status": "published"
+}

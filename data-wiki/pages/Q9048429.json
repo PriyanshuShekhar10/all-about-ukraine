@@ -1,0 +1,74 @@
+{
+  "qid": "Q9048429",
+  "slug": "ukrainian-nationalism",
+  "title": "Ukrainian nationalism",
+  "type": "political ideology",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "political ideology",
+    "fields": []
+  },
+  "summary": "Ukrainian nationalism is a political ideology focused on the unity of [[ukrainians|Ukrainians]] as a distinct people and the promotion of the Ukrainian state. Its modern roots trace back to the mid-17th century during the Cossack uprising against Polish-Lithuanian rule, and it encompasses various cultural, ethnic, and historical elements that define Ukrainian identity.",
+  "sections": [
+    {
+      "heading": "Historical Origins",
+      "paragraphs": [
+        "Modern Ukrainian nationalism began to take shape during the Cossack uprising against the Polish–Lithuanian Commonwealth, led by [[bohdan-khmelnytsky|Bohdan Khmelnytsky]] in the mid-17th century. This movement emphasizes a unified national identity based on culture, language, ethnicity, geographic location, politics, religion, traditions, and a shared history."
+      ]
+    },
+    {
+      "heading": "Role of the Cossacks",
+      "paragraphs": [
+        "The Zaporozhian [[cossacks|Cossacks]] significantly contributed to the development of [[ukrainian|Ukrainian]] identity during the Polish–Lithuanian Commonwealth. They inhabited the Pontic–Caspian steppe and engaged in various conflicts and alliances with neighboring powers. Their resistance against Polish attempts to impose Catholicism and the Polish language fostered a sense of national identity, culminating in the [[khmelnytsky-uprising|Khmelnytsky Uprising]] led by Bohdan Khmelnytsky."
+      ]
+    },
+    {
+      "heading": "Cossack Hetmanate and Autonomy",
+      "paragraphs": [
+        "Following the Khmelnytsky Uprising, the Zaporozhian Cossacks established the autonomous [[cossack-hetmanate|Cossack Hetmanate]] from 1649 to 1764, which was under the suzerainty of the Russian Tsar. The hetmans sought to maintain the autonomy of the Hetmanate against Russian centralism, with figures like Ivan Mazepa promoting Ukrainian culture and history. However, the autonomy was progressively eroded, culminating in the abolition of the [[hetman|hetman]] office in 1764 and the destruction of the [[zaporizhian-sich|Zaporozhian Sich]] in 1775."
+      ]
+    },
+    {
+      "heading": "National Movements in the 19th Century",
+      "paragraphs": [
+        "The 19th century saw the emergence of various nationalist movements, including Ukrainophilism and West Ukrainian populism. Ukrainophilism arose in the Russian Empire, promoting national consciousness through clandestine societies. In contrast, West Ukrainian populism emerged in Austrian Galicia, aiming to educate communities and develop national identity, influenced by contacts with Ukrainophiles in the Russian Empire."
+      ]
+    },
+    {
+      "heading": "Ukrainian Independence Efforts",
+      "paragraphs": [
+        "The First World War and subsequent events led to the establishment of the [[ukrainian-peoples-republic|Ukrainian People's Republic]] (UPR) in 1917, following the abdication of Nicholas II. The Central [[verkhovna-rada|Rada]], chaired by historian [[mykhailo-hrushevskyi|Mykhailo Hrushevsky]], declared autonomy and later independence from Russia on 22 January 1918. The UPR faced challenges from both internal factions and external pressures, leading to a complex struggle for Ukrainian statehood during the tumultuous period of the Russian Civil War."
+      ]
+    },
+    {
+      "heading": "Post-War Developments",
+      "paragraphs": [
+        "In the aftermath of the Austro-Hungarian Empire's dissolution, the Ukrainian National Council declared the establishment of the [[west-ukrainian-peoples-republic|West Ukrainian People's Republic]] (ZUNR) in November 1918. This new entity faced conflict with Poland over eastern Galicia, ultimately leading to a unification with the UPR on 22 January 1919. However, Ukrainian forces lost control of eastern Galicia to Polish forces, marking another setback in the quest for a unified Ukrainian state."
+      ]
+    }
+  ],
+  "links_out": [
+    "bohdan-khmelnytsky",
+    "cossack-hetmanate",
+    "cossacks",
+    "hetman",
+    "khmelnytsky-uprising",
+    "mykhailo-hrushevskyi",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "ukrainians",
+    "verkhovna-rada",
+    "west-ukrainian-peoples-republic",
+    "zaporizhian-sich"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian nationalism — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_nationalism",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-08",
+  "status": "published"
+}

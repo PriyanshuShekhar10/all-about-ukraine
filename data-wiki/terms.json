@@ -2355,5 +2355,183 @@
     ],
     "notability": 35,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q914907",
+    "slug": "khortytsia",
+    "name": "Khortytsia",
+    "wp_title": "Khortytsia",
+    "type": "island",
+    "category": "geography",
+    "aliases": [
+      "Hortitsa",
+      "Hortytsia",
+      "Hortytsya",
+      "Khortitsa",
+      "khortytsya"
+    ],
+    "notability": 40,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q934628",
+    "slug": "zaliznyi-port",
+    "name": "Zaliznyi Port",
+    "wp_title": "Zaliznyi Port",
+    "type": "village of Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 15,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2704774",
+    "slug": "borys-paton",
+    "name": "Borys Paton",
+    "wp_title": "Borys Paton",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "B E Paton",
+      "Boris E. Paton",
+      "Boris Yevgenyevich Paton",
+      "Borys Yevhenovych Paton"
+    ],
+    "notability": 31,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q691471",
+    "slug": "dmytro-pavlychko",
+    "name": "Dmytro Pavlychko",
+    "wp_title": "Dmytro Pavlychko",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Dmytro Vasylovych Pavlychko"
+    ],
+    "notability": 26,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1246092",
+    "slug": "lviv-theatre-of-opera-and-ballet",
+    "name": "Lviv Theatre of Opera and Ballet",
+    "wp_title": "Lviv Theatre of Opera and Ballet",
+    "type": "opera house",
+    "category": "culture",
+    "aliases": [
+      "Lviv Opera",
+      "Solomiya Krushelnytska Lviv State Academic Theatre of Opera and Ballet"
+    ],
+    "notability": 24,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2388302",
+    "slug": "oles-honchar",
+    "name": "Oles Honchar",
+    "wp_title": "Oles Honchar",
+    "type": "human",
+    "category": "culture",
+    "aliases": [
+      "Oleksandr Terentiyovych Honchar"
+    ],
+    "notability": 28,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q3896111",
+    "slug": "black-sea-shipping-company",
+    "name": "Black Sea Shipping Company",
+    "wp_title": "Black Sea Shipping Company",
+    "type": "business",
+    "category": "economy",
+    "aliases": [],
+    "notability": 4,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q100274852",
+    "slug": "political-party-in-ukraine",
+    "name": "political party in Ukraine",
+    "wp_title": "Political parties in Ukraine",
+    "type": "topic",
+    "category": "politics",
+    "aliases": [],
+    "notability": 8,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q9048429",
+    "slug": "ukrainian-nationalism",
+    "name": "Ukrainian nationalism",
+    "wp_title": "Ukrainian nationalism",
+    "type": "political ideology",
+    "category": "politics",
+    "aliases": [],
+    "notability": 27,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q162284",
+    "slug": "battle-of-kiev",
+    "name": "Battle of Kiev",
+    "wp_title": "Battle of Kiev (1941)",
+    "type": "battle",
+    "category": "history",
+    "aliases": [
+      "First Battle of Kiev",
+      "Kiev Defensive Operation",
+      "Kiev Strategic Defensive Operation"
+    ],
+    "notability": 42,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q914114",
+    "slug": "rus-people",
+    "name": "Rus' people",
+    "wp_title": "Rus' people",
+    "type": "ethnic group",
+    "category": "history",
+    "aliases": [
+      "Ruci",
+      "Ruzzi"
+    ],
+    "notability": 41,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q16150196",
+    "slug": "donetsk-peoples-republic",
+    "name": "Donetsk People's Republic",
+    "wp_title": "Donetsk People's Republic",
+    "type": "disputed territory",
+    "category": "war",
+    "aliases": [
+      "DPR",
+      "Donetsk Republic",
+      "the Donetsk People's Republic"
+    ],
+    "notability": 112,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q16746854",
+    "slug": "luhansk-peoples-republic",
+    "name": "Luhansk People's Republic",
+    "wp_title": "Luhansk People's Republic",
+    "type": "disputed territory",
+    "category": "war",
+    "aliases": [
+      "LNR",
+      "LPR",
+      "Lugansk People's Republic",
+      "Lugansk Republic",
+      "Luhansk Republic"
+    ],
+    "notability": 105,
+    "status": "synthesized"
   }
 ]

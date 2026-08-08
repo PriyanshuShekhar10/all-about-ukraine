@@ -1,0 +1,98 @@
+{
+  "qid": "Q934628",
+  "slug": "zaliznyi-port",
+  "title": "Zaliznyi Port",
+  "type": "village of Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "village of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1922",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "1,528",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "2",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "1",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "46.1222, 32.2983",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Zaliznyi Port is a resort village located along the Black Sea coast in Kherson Oblast, Ukraine. Known for its historical significance and recent challenges during the Russo-Ukrainian war, it serves as a notable example of the region's cultural and geopolitical dynamics.",
+  "sections": [
+    {
+      "heading": "Geographical Location",
+      "paragraphs": [
+        "Zaliznyi Port ([[ukrainian|Ukrainian]]: Залізний Порт, lit. 'Iron Port'; Russian: Зализный Порт) is situated in the Bekhtery rural hromada of Skadovsk Raion in [[kherson|Kherson]] Oblast, [[ukraine|Ukraine]]. The village is located approximately 45 kilometers from Skadovsk and 60 kilometers from the city of Kherson, near the Black Sea Biosphere Reserve."
+      ]
+    },
+    {
+      "heading": "Administrative Status",
+      "paragraphs": [
+        "Following Ukraine's independence, Zaliznyi Port was administratively part of the Novofedorivka Village Council within the Bekhtery rural hromada of Hola Prystan Raion in Kherson Oblast. In December 1997, the Ukrainian [[verkhovna-rada|Verkhovna Rada]] officially designated the village as a resort. After the 2020 Administrative reform, it became part of Skadovsk Raion, while the Russian occupation reverted its administrative status back to Hola Prystan Raion."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The name 'Zaliznyi Port' translates to 'Iron Port', with two main theories regarding its origin. The first theory suggests that it was named for a pier connected to an iron bridge that extended over 100 meters into the sea. The second theory posits that sailors used the reflection of an iron roof on a barn as a navigational point. The village's origins trace back to the late 19th century under the Russian Empire, with formal establishment occurring in 1922 during the Soviet Union. Initially populated by peasants from Hladkivka, Zaliznyi Port engaged in agricultural exports via the Black Sea. By the 1940s, the village consisted of a single street along the seashore."
+      ]
+    },
+    {
+      "heading": "Impact of the Russo-Ukrainian War",
+      "paragraphs": [
+        "During the 2022 Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], Zaliznyi Port was fully occupied by Russian forces, leading to a significant downturn in tourism and local protests against the invasion. Protesters expressed their allegiance to Ukraine by chanting 'Zaliznyi Port is Ukraine' and displaying national symbols. Notable events during the occupation included the alleged kidnapping of Mykhailo Burak, head of the Bekhtery rural hromada, on 4 April 2022, and the assassination of Aleksey Kovalyov, a Russian-collaborationist politician, on 28 August 2022. Reports of military activity in the area included claims of Iranian military instructors training Russian forces in drone operations."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "As per the 1989 USSR census, Zaliznyi Port had a population of 1,506, comprising 756 men and 750 women. The 2001 Ukrainian census recorded a slightly lower population of 1,495."
+      ]
+    },
+    {
+      "heading": "Language",
+      "paragraphs": [
+        "The distribution of native languages within the village population was documented in the 2001 Ukrainian census, reflecting the linguistic diversity of the area."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "kherson",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Zaliznyi Port — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zaliznyi_Port",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-08",
+  "status": "published"
+}

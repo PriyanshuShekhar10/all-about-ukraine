@@ -1,0 +1,103 @@
+{
+  "qid": "Q16150196",
+  "slug": "donetsk-peoples-republic",
+  "title": "Donetsk People's Republic",
+  "type": "disputed territory",
+  "category": "war",
+  "aliases": [
+    "DPR",
+    "Donetsk Republic",
+    "the Donetsk People's Republic"
+  ],
+  "infobox": {
+    "label": "disputed territory",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2022-09-30",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Russia, Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Donetsk",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "2,306,263",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "26,517",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Head of government",
+        "value": "Denis Pushilin",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.0089, 37.8042",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Donetsk People's Republic (DPR) is a self-proclaimed republic in eastern Ukraine, established in 2014 amid conflict and backed by Russia. It is considered a disputed territory and has been subject to international condemnation and lack of recognition.",
+  "sections": [
+    {
+      "heading": "Establishment and Conflict",
+      "paragraphs": [
+        "The Donetsk People's Republic (DPR) was established in 2014 when Russian-backed paramilitaries took control of parts of [[donetsk|Donetsk]] Oblast in eastern [[ukraine|Ukraine]], marking the beginning of an eight-year conflict against Ukraine. The DPR declared independence, but it is often viewed as a puppet state of Russia, which illegally annexed it in 2022."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The DPR is located in the historical [[donbas|Donbas]] region of eastern Ukraine, where the last census indicated a population of 57% ethnic [[ukrainian|Ukrainian]] and 38% ethnic Russian. Following Ukraine's 2014 [[revolution-of-dignity|Revolution of Dignity]], pro-Russian protests began in southeastern Ukraine, leading to the declaration of the DPR and the [[luhansk-peoples-republic|Luhansk People's Republic]] (LPR) as independent states."
+      ]
+    },
+    {
+      "heading": "Russian Involvement and Annexation",
+      "paragraphs": [
+        "Russia recognized the DPR and LPR as sovereign states on 21 February 2022, shortly before launching a full-scale [[full-scale-russo-ukrainian-war|invasion of Ukraine]]. Following referendums deemed fraudulent by the international community, Russia proclaimed the annexation of the DPR in September 2022, which was condemned by the United Nations General Assembly."
+      ]
+    },
+    {
+      "heading": "Leadership and Ideology",
+      "paragraphs": [
+        "Denis Pushilin serves as the Head of the DPR, with its legislative body known as the People's Council. The DPR's ideology is influenced by Russian imperialist nationalism, Orthodox fundamentalism, and neo-Sovietism, with significant involvement from Russian far-right groups."
+      ]
+    },
+    {
+      "heading": "Human Rights Violations",
+      "paragraphs": [
+        "Organizations such as the UN Human Rights Office and Human Rights Watch have reported numerous human rights abuses within the DPR, including internment, torture, extrajudicial killings, and forced conscription. The DPR's People's Militia has been implicated in war crimes, notably the downing of Malaysia Airlines Flight 17, resulting in the deaths of 298 civilians."
+      ]
+    }
+  ],
+  "links_out": [
+    "donbas",
+    "donetsk",
+    "full-scale-russo-ukrainian-war",
+    "luhansk-peoples-republic",
+    "revolution-of-dignity",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Donetsk People's Republic — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Donetsk_People's_Republic",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-08",
+  "status": "published"
+}

@@ -1,0 +1,94 @@
+{
+  "qid": "Q691471",
+  "slug": "dmytro-pavlychko",
+  "title": "Dmytro Pavlychko",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Dmytro Vasylovych Pavlychko"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1929-09-28",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "2023-01-29",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Stopchativ",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "People's Deputy of Ukraine, People's Deputy of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Dmytro Vasylyovych Pavlychko was a prominent Ukrainian poet, translator, scriptwriter, culturologist, and politician, whose contributions significantly influenced [[ukrainian-literature|Ukrainian literature]] and statehood. He played a vital role in the political landscape of Ukraine during its transition from Soviet rule to independence.",
+  "sections": [
+    {
+      "heading": "Biography",
+      "paragraphs": [
+        "Dmytro Pavlychko was born on 28 September 1929 in a family of lumber workers in the village of Stopchativ, located near the [[carpathians|Carpathian Mountains]], in what is now [[ivano-frankivsk|Ivano-Frankivsk]] Oblast, [[ukraine|Ukraine]]. He received his early education in Polish at a school in Yabluniv and later attended a gymnasium in Kolomyia."
+      ]
+    },
+    {
+      "heading": "War and Imprisonment",
+      "paragraphs": [
+        "In April 1945, Pavlychko joined the [[ukrainian-insurgent-army|Ukrainian Insurgent Army]] (UPA) under the pseudonym 'Doroshenko' and served for three months. After the disbandment of his unit, he was arrested in October 1945 at the age of 16 due to his UPA membership. He was released from imprisonment in the summer of 1946. His experiences during this period would later inform his literary work, including references in his poetry collection 'Poems from Maidan.'"
+      ]
+    },
+    {
+      "heading": "Education and Career",
+      "paragraphs": [
+        "Pavlychko graduated from [[lviv|Lviv]] University in 1953 with a degree in Philology and began his career in literature. He worked as head of the poetry department at Zhovten magazine starting in 1956 and later as a screenwriter at Dovzhenko Film Studios. He served as chief editor of Vsesvit magazine from 1970 to 1978 and became secretary of the Writers' Union of the USSR in 1986, later leading the Writers' Union of Ukraine."
+      ]
+    },
+    {
+      "heading": "Political Career",
+      "paragraphs": [
+        "Pavlychko was an active member of the Communist Party of the Soviet Union until 1990 and played a significant role in the founding of the People's Movement of Ukraine (Rukh) in the late 1980s. He was a co-author of the 'Declaration of State Sovereignty of Ukraine' in 1990 and served in the [[verkhovna-rada|Verkhovna Rada]] for multiple terms throughout the 1990s. His political efforts included advocating for [[ukrainian|Ukrainian]] independence, which was solidified by the Act on Independence of Ukraine approved on 24 August 1991."
+      ]
+    },
+    {
+      "heading": "Artistic Impact",
+      "paragraphs": [
+        "Pavlychko's literary contributions began in the 1950s, with his first poetry collection 'Love and Hatred' published in 1953. His works often explored themes of love and history using direct language and paradoxes. Notably, his poetry collection 'Pravda klyche' was banned for its political content, marking him as a key figure in the Ukrainian dissident movement. He received the Shevchenko National Prize in 1977 for his literary achievements."
+      ]
+    },
+    {
+      "heading": "Death and Legacy",
+      "paragraphs": [
+        "Dmytro Pavlychko passed away on 29 January 2023 in [[kyiv|Kyiv]] at the age of 93 and was buried in his native village of Stopchativ. His legacy as a poet, politician, and cultural figure remains influential in contemporary Ukrainian society."
+      ]
+    }
+  ],
+  "links_out": [
+    "carpathians",
+    "ivano-frankivsk",
+    "kyiv",
+    "lviv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-insurgent-army",
+    "ukrainian-literature",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Dmytro Pavlychko — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dmytro_Pavlychko",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-08",
+  "status": "published"
+}

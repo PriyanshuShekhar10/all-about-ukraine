@@ -1,0 +1,115 @@
+{
+  "qid": "Q16746854",
+  "slug": "luhansk-peoples-republic",
+  "title": "Luhansk People's Republic",
+  "type": "disputed territory",
+  "category": "war",
+  "aliases": [
+    "LNR",
+    "LPR",
+    "Lugansk People's Republic",
+    "Lugansk Republic",
+    "Luhansk Republic"
+  ],
+  "infobox": {
+    "label": "disputed territory",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2022-09-30",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Russia, Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Luhansk",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "1,497,170",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "8,377",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Head of government",
+        "value": "Leonid Pasechnik",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.0000, 39.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Luhansk People's Republic (LPR) is a self-proclaimed republic in eastern Ukraine, established in 2014 amid pro-Russian unrest and conflict. It has been characterized as a disputed territory, often regarded as a puppet state of Russia, and was unilaterally annexed by Russia in 2022.",
+  "sections": [
+    {
+      "heading": "Establishment and Conflict",
+      "paragraphs": [
+        "The Luhansk People's Republic (LPR) was created in 2014 when Russian-backed paramilitaries took control of parts of [[luhansk|Luhansk]] Oblast, leading to an ongoing conflict with [[ukraine|Ukraine]] that has lasted for eight years. The LPR declared independence but was frequently described as a puppet state of Russia during the conflict.",
+        "The unrest in eastern Ukraine followed the 2014 [[revolution-of-dignity|Revolution of Dignity]], which resulted in Russia's [[russian-annexation-of-crimea|annexation of Crimea]]. Pro-Russian armed separatists seized government buildings and proclaimed the LPR and [[donetsk-peoples-republic|the Donetsk People's Republic]] (DPR) as independent states, igniting the [[war-in-donbas|war in Donbas]], a key front in the broader [[full-scale-russo-ukrainian-war|Russo-Ukrainian war]]."
+      ]
+    },
+    {
+      "heading": "International Recognition and Annexation",
+      "paragraphs": [
+        "On 21 February 2022, Russia recognized the LPR and DPR as sovereign states. Shortly thereafter, on 24 February 2022, Russia launched a full-scale invasion of Ukraine, using the protection of the two republics as one of its justifications. Russian forces subsequently captured significant portions of Luhansk Oblast, which became integrated into the LPR.",
+        "In September 2022, Russia announced the annexation of the LPR following referendums deemed illegal by most of the international community. The United Nations General Assembly passed a resolution urging member states not to recognize this attempted annexation and called for Russia's immediate withdrawal from the territories."
+      ]
+    },
+    {
+      "heading": "Geography and Administrative Divisions",
+      "paragraphs": [
+        "The LPR's 2014 constitution did not clearly define its borders. From 2015 until early 2022, its de facto territory was limited by the Russia–Ukraine border, adjacent [[ukrainian|Ukrainian]] regions, and the contact line established by the [[minsk-agreements|Minsk agreements]]. In February 2022, Russia claimed recognition of the LPR based on assertions to the entire Luhansk region as it was defined within Ukraine.",
+        "On 14 March 2023, the LPR authorities enacted Law No. 527-III, which established 14 cities of republic significance and 17 districts, mirroring the administrative divisions of Luhansk Oblast prior to 2020, with the exception of the abolition of Popasna Raion."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Luhansk and [[donetsk|Donetsk]] People's Republics are situated in the historical region of [[donbas|Donbas]], which became part of Ukraine in 1922. The population predominantly speaks Russian as their first language. Political tensions have arisen from attempts by various Ukrainian governments to challenge the legitimacy of Russian culture in Ukraine, leading to conflicts since Ukraine's Declaration of Independence.",
+        "By 2011, the combined population of Luhansk and Donetsk oblasts was approximately 6.1 million. Due to Russian military actions beginning in 2014, around 2 million people fled the region as refugees. Following the full-scale invasion in 2022, an estimated additional 3 million either fled or were killed, resulting in an 80% decrease in the population of Donbas, a situation described by political scientist Taras Kuzio as 'destruction, depopulation, and genocide.'"
+      ]
+    },
+    {
+      "heading": "Formation and Governance",
+      "paragraphs": [
+        "The LPR was proclaimed on 27 April 2014, following a series of protests and occupations of government buildings by pro-Russian activists. The activists demanded autonomy or incorporation into Russia, leading to armed insurrections.",
+        "On 11 May 2014, a controversial referendum was held, claiming 96.2% support for self-rule, although it lacked international validation. Following the referendum, the LPR declared itself an independent state, despite opposition from the Luhansk Oblast Council, which called for federalization of Ukraine.",
+        "Valery Bolotov was initially the head of the Republic, and the LPR sought to align its legislation with Russian law, asserting that Ukrainian law was unsuitable. The LPR has since been led by Leonid Pasechnik."
+      ]
+    }
+  ],
+  "links_out": [
+    "donbas",
+    "donetsk",
+    "donetsk-peoples-republic",
+    "full-scale-russo-ukrainian-war",
+    "luhansk",
+    "minsk-agreements",
+    "revolution-of-dignity",
+    "russian-annexation-of-crimea",
+    "ukraine",
+    "ukrainian",
+    "war-in-donbas"
+  ],
+  "sources": [
+    {
+      "title": "Luhansk People's Republic — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Luhansk_People's_Republic",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-08",
+  "status": "published"
+}

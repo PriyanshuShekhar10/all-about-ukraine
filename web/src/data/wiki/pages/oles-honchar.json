@@ -1,0 +1,92 @@
+{
+  "qid": "Q2388302",
+  "slug": "oles-honchar",
+  "title": "Oles Honchar",
+  "type": "human",
+  "category": "culture",
+  "aliases": [
+    "Oleksandr Terentiyovych Honchar"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1918-04-03",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1995-07-14",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Lomivka",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "deputy of the Supreme Soviet of the Soviet Union",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Oleksandr 'Oles' Terentiiovych Honchar was a prominent Soviet and Ukrainian writer, public figure, and World War II veteran, known for his significant contributions to [[ukrainian-literature|Ukrainian literature]] and his involvement in political life. He was born on April 3, 1918, and passed away on July 14, 1995.",
+  "sections": [
+    {
+      "heading": "Biography",
+      "paragraphs": [
+        "Oles Honchar was born in Sukha sloboda, now known as Sukhe village, in the Kobelyaky uyezd of the [[poltava|Poltava]] Governorate of the Russian Empire, to factory workers Terentiy Sydorovych and Tetiana Havrylivna Bilychenko. Recent archival findings indicate he was actually born in Lomivka, which became part of [[dnipro|Dnipropetrovsk]] before World War II. After losing his mother at the age of three and his father in 1941, he was raised by his maternal grandparents in Sukhe, adopting their surname and becoming known as Oles Honchar.",
+        "Honchar began his education in Sukhe and later in Khorishky, completing a seven-year school in Breusivka in 1933. He worked for the local newspaper 'Expanded front' and studied journalism at the [[kharkiv|Kharkiv]] vocational school from 1933 to 1937. His early writing career began with the publication of short stories in various republican newspapers."
+      ]
+    },
+    {
+      "heading": "World War II and Early Recognition",
+      "paragraphs": [
+        "In 1938, Honchar enrolled in the Department of Philology at Kharkiv University, where he began writing novellas and stories. His studies were interrupted by World War II, and he volunteered for the Red Army in June 1941, serving as a staff sergeant in a mortar battery. Honchar was wounded twice and received multiple awards, including the Soviet Order of Glory. During the war, he wrote poetry and began working on his future novel trilogy, 'The Flag-Bearers.'",
+        "After the war, he resumed his studies at Dnipropetrovsk University and published the first part of 'The Flag-Bearers: Alps' in 1946, which garnered attention from literary figures such as Yuri Yanovsky. Honchar was invited to [[kyiv|Kyiv]] and began an aspirantura at the Shevchenko Institute of Literature. His subsequent works, including 'Earth is Rumbling' and 'Blue Danube,' earned him the [[donetsk|Stalin]] Prize in 1948."
+      ]
+    },
+    {
+      "heading": "Literary Career and Acclaim",
+      "paragraphs": [
+        "Throughout the 1940s and 1950s, Honchar continued to explore themes of war and peace in his writings. He published the final book of 'The Flag-Bearers' trilogy, 'Golden Prague,' and began to address the moral aspects of human relationships in his works. His novel 'Person and Weapon,' published in 1960, marked a significant shift in his artistic direction and won the Shevchenko Prize in 1962. The second part of the dilogy, 'Cyclone,' was released in 1970.",
+        "Honchar's collection 'Tronka' (1963) was notable for its depiction of contemporary life and the challenges of Stalinism, earning the Lenin Prize in 1964. His novel 'The Cathedral,' published in 1968, focused on the revival of spirituality and historical memory, although it faced censorship due to its critical portrayal of Soviet officials."
+      ]
+    },
+    {
+      "heading": "Later Works and Political Involvement",
+      "paragraphs": [
+        "In his later years, Honchar continued to address moral and ethical issues in works such as 'Your Dawn' (1980) and 'Brigantina' (1973). He served as a People's Deputy in the Supreme Council of the Soviet Union from 1962 to 1990 and was recognized as an Academician by the [[ukrainian|Ukrainian]] Academy of Sciences in 1978. Following the dissolution of the Soviet Union, he played a role in founding the Society of Ukrainian Language and the People's Movement of [[ukraine|Ukraine]].",
+        "Honchar publicly advocated for the restoration of the St Michael's Golden-Domed Cathedral in Kyiv and published 'By That We Live. On the Path of Ukrainian Revival' in 1991. He received an honorary doctorate from the University of Alberta in 1992 and was posthumously awarded the title of Hero of Ukraine in 2005."
+      ]
+    },
+    {
+      "heading": "Awards and Honors",
+      "paragraphs": [
+        "Honchar received numerous accolades throughout his career, including the Stalin Prize in 1948 and 1949 for 'The Flag-Bearers,' the National Shevchenko Prize in 1962 for 'Person and Weapon,' and the Lenin Prize in 1964 for 'Tronka.' He was awarded the Order of Lenin three times and received the Hero of Socialist Labor title in 1978. His military honors include the Order of Red Star and the Order of Glory, III degree.",
+        "In addition to his literary achievements, Honchar's contributions to Ukrainian culture and literature were recognized with various medals and prizes, solidifying his legacy as a significant figure in Ukrainian history."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnipro",
+    "donetsk",
+    "kharkiv",
+    "kyiv",
+    "poltava",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-literature"
+  ],
+  "sources": [
+    {
+      "title": "Oles Honchar — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oles_Honchar",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-08",
+  "status": "published"
+}

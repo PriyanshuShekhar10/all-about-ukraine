@@ -1,0 +1,69 @@
+{
+  "qid": "Q100274852",
+  "slug": "political-party-in-ukraine",
+  "title": "political party in Ukraine",
+  "type": "topic",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "topic",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Political parties in Ukraine play a crucial role in the country's multi-party system, which has evolved significantly since independence in 1991. The landscape is characterized by a variety of parties, often influenced by oligarchs, and a low level of public trust in these political entities.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "[[ukraine|Ukraine]] operates under a multi-party system where no single party typically holds enough power to govern independently, necessitating coalition governments. In the October 2014 parliamentary elections, 52 political parties presented candidates, which increased to 132 in the local elections of October 2015. Many parties have limited membership and are relatively unknown, with party membership representing less than 1% of the eligible voting population, compared to an average of 4.7% in the European Union. Although national parties not represented in the [[verkhovna-rada|Verkhovna Rada]] may have a presence in municipal councils, public trust in political parties is notably low, with a Razumkov Centre poll in April 2014 showing only 14.7% trust, and over 70% of respondents in February 2020 expressing distrust."
+      ]
+    },
+    {
+      "heading": "Legal Framework",
+      "paragraphs": [
+        "Political parties in Ukraine must register with the Ministry of Justice by demonstrating support in two-thirds of the country's 24 Oblasts and in two-thirds of the raions of [[crimea|Crimea]], requiring 10,000 signatures from residents. Despite Ukraine losing control of Crimea in 2014, parties can still collect signatures from [[ukrainian|Ukrainian]] citizens with Crimean residency. Within six months of registration, parties are required to establish regional offices in a majority of the oblasts, though these offices often become inactive between elections. The practice of renaming existing parties is common due to the challenges of registration. A party can be dissolved if it does not nominate candidates for national elections for ten consecutive years."
+      ]
+    },
+    {
+      "heading": "Major Parties and Political Camps",
+      "paragraphs": [
+        "Since gaining independence, two major political movements have emerged in Ukraine's parliament. The first is a pro-Western and pro-European coalition, which includes liberal national democrats and has been represented by parties such as Our Ukraine and the Bloc [[yulia-tymoshenko|Yulia Tymoshenko]] (now known as Fatherland). The second movement is pro-Russian, often Eurosceptic, and was historically dominated by the Communist Party of Ukraine and later by the Party of Regions until its disintegration post-[[revolution-of-dignity|Revolution of Dignity]]. The pro-Western movement primarily attracts voters from Western and Central Ukraine, while the pro-Russian movement draws support from Eastern and Southern Ukraine."
+      ]
+    },
+    {
+      "heading": "Ideology",
+      "paragraphs": [
+        "Ukrainian political parties often lack a distinct ideology, encompassing various political groups with differing ideological perspectives. In contrast to Western political systems, civilizational and geostrategic orientations are more significant than economic or socio-political agendas. For instance, the social-democratic Batkivshchyna party is a member of the economically liberal European People's Party, leading to coalition governments that may appear unconventional from a Western standpoint."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Political parties in Ukraine began forming in the early 1990s around intellectuals and former dissidents, who opposed the ruling Communist Party. The People's Movement of Ukraine and the Ukrainian Republican Party were notable opposition parties. Following Ukraine's independence in August 1991, a process to ban communist parties was initiated but was later challenged. The 1994 parliamentary elections saw the Communist Party achieve significant representation, while the Movement failed to secure a substantial number of seats. The Kuchma presidency (1994-2004) marked the emergence of parties closely associated with oligarchs, leading to the establishment of political clans. The [[orange-revolution|Orange Revolution]] catalyzed the formation of distinct political camps. In recent years, election laws have prompted mergers among parties, with several parties merging into larger entities or being banned, particularly those with alleged ties to Russia."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "orange-revolution",
+    "revolution-of-dignity",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada",
+    "yulia-tymoshenko"
+  ],
+  "sources": [
+    {
+      "title": "Political parties in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Political_parties_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-08",
+  "status": "published"
+}

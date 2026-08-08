@@ -1,46 +1,50 @@
 {
   "backlinks": {
-    "carpathians": [
-      "cabbage-roll",
-      "cucutenitrypillia-culture",
-      "ivano-frankivsk",
-      "kievan-rus",
-      "trembita",
-      "ukrainian-carpathians"
+    "crimea": [
+      "administrative-territorial-entity-of-ukraine",
+      "agriculture-in-ukraine",
+      "constitution-of-ukraine",
+      "crimean-tatars",
+      "crimean-war",
+      "dtek",
+      "full-scale-russo-ukrainian-war",
+      "jamala",
+      "kerch-strait-incident",
+      "kherson",
+      "lesya-ukrainka",
+      "naftogaz-of-ukraine",
+      "oschadbank",
+      "political-party-in-ukraine",
+      "russian-annexation-of-crimea",
+      "russo-ukrainian-war",
+      "sevastopol",
+      "siege-of-mariupol",
+      "verkhovna-rada",
+      "war-in-donbas"
     ],
-    "chernivtsi": [
-      "sofia-rotaru",
-      "ukrainian-carpathians",
-      "vyshyvanka",
-      "western-ukraine"
-    ],
-    "ivano-frankivsk": [
-      "denys-shmyhal",
-      "ukrainian-carpathians",
-      "ukrnafta",
-      "west-ukrainian-peoples-republic",
-      "western-ukraine"
-    ],
-    "lviv": [
-      "bohdan-khmelnytsky",
-      "denys-shmyhal",
-      "ivan-franko",
-      "kingdom-of-galiciavolhynia",
+    "orange-revolution": [
+      "leonid-kuchma",
+      "maidan-nezalezhnosti",
       "modern-history-of-ukraine",
-      "mykhailo-hrushevskyi",
-      "pysanka",
-      "ruslana-lyzhychko",
-      "salo",
-      "taras-shevchenko-national-university-of-kyiv",
-      "ukrainian-carpathians",
-      "ukrainian-ground-forces",
-      "ukrainian-literature",
-      "ukrainian-railways",
-      "ukrainian-war-of-independence",
-      "vinnytsia",
-      "vyshyvanka",
-      "west-ukrainian-peoples-republic",
-      "western-ukraine"
+      "political-party-in-ukraine",
+      "president-of-ukraine",
+      "ukraine",
+      "viktor-yanukovych",
+      "viktor-yushchenko",
+      "yulia-tymoshenko"
+    ],
+    "revolution-of-dignity": [
+      "donetsk-peoples-republic",
+      "euromaidan",
+      "luhansk-peoples-republic",
+      "political-party-in-ukraine",
+      "president-of-ukraine",
+      "russo-ukrainian-war",
+      "security-service-of-ukraine",
+      "ukraineeuropean-union-relations",
+      "viktor-yanukovych",
+      "war-in-donbas",
+      "yulia-tymoshenko"
     ],
     "ukraine": [
       "2022-kharkiv-counteroffensive",
@@ -54,10 +58,13 @@
       "armed-forces-of-ukraine",
       "battle-of-bakhmut",
       "battle-of-ilovaisk",
+      "battle-of-kiev",
       "battle-of-kyiv",
       "battle-of-sievierodonetsk",
+      "black-sea-shipping-company",
       "bohdan-khmelnytsky",
       "borscht",
+      "borys-paton",
       "bucha-massacre",
       "cabbage-roll",
       "cabinet-of-ministers-of-ukraine",
@@ -76,11 +83,13 @@
       "cucutenitrypillia-culture",
       "culture-of-ukraine",
       "denys-shmyhal",
+      "dmytro-pavlychko",
       "dnieper",
       "dniester",
       "dnipro",
       "donbas",
       "donetsk",
+      "donetsk-peoples-republic",
       "dtek",
       "economy-of-ukraine",
       "energoatom",
@@ -99,6 +108,7 @@
       "kharkiv",
       "kherson",
       "khmelnytsky-uprising",
+      "khortytsia",
       "kievan-rus",
       "kingdom-of-galiciavolhynia",
       "kolomyjka",
@@ -113,7 +123,9 @@
       "leonid-kuchma",
       "lesya-ukrainka",
       "luhansk",
+      "luhansk-peoples-republic",
       "lviv",
+      "lviv-theatre-of-opera-and-ballet",
       "maidan-nezalezhnosti",
       "mariupol",
       "mariupol-theatre-airstrike",
@@ -131,12 +143,14 @@
       "odesa",
       "oleh-blokhin",
       "oleksandr-turchynov",
+      "oles-honchar",
       "olga-kurylenko",
       "orange-revolution",
       "oschadbank",
       "paska",
       "petro-poroshenko",
       "petrykivka-painting",
+      "political-party-in-ukraine",
       "poltava",
       "potato-pancake",
       "president-of-ukraine",
@@ -146,6 +160,7 @@
       "rag-doll",
       "revolution-of-dignity",
       "roshen",
+      "rus-people",
       "rushnyk",
       "ruslana-lyzhychko",
       "russian-annexation-of-crimea",
@@ -153,7 +168,6 @@
       "salo",
       "security-service-of-ukraine",
       "sergei-bubka",
-      "servant-of-the-people",
       "sevastopol",
       "sich-riflemen",
       "siege-of-mariupol",
@@ -193,6 +207,7 @@
       "war-in-donbas",
       "western-ukraine",
       "yulia-tymoshenko",
+      "zaliznyi-port",
       "zaporizhian-sich",
       "zaporizhzhia",
       "zhytomyr"
@@ -211,8 +226,10 @@
       "battle-of-ilovaisk",
       "battle-of-kyiv",
       "battle-of-sievierodonetsk",
+      "black-sea-shipping-company",
       "bohdan-khmelnytsky",
       "borscht",
+      "borys-paton",
       "bucha-massacre",
       "cabbage-roll",
       "cabinet-of-ministers-of-ukraine",
@@ -227,10 +244,12 @@
       "cucutenitrypillia-culture",
       "culture-of-ukraine",
       "denys-shmyhal",
+      "dmytro-pavlychko",
       "dnieper",
       "dniester",
       "dnipro",
       "donbas",
+      "donetsk-peoples-republic",
       "dtek",
       "economy-of-ukraine",
       "euromaidan",
@@ -259,7 +278,9 @@
       "leonid-kuchma",
       "lesya-ukrainka",
       "luhansk",
+      "luhansk-peoples-republic",
       "lviv",
+      "lviv-theatre-of-opera-and-ballet",
       "maidan-nezalezhnosti",
       "mariupol",
       "mariupol-theatre-airstrike",
@@ -276,11 +297,13 @@
       "odesa",
       "oleh-blokhin",
       "oleksandr-turchynov",
+      "oles-honchar",
       "olga-kurylenko",
       "oschadbank",
       "paska",
       "petro-poroshenko",
       "petrykivka-painting",
+      "political-party-in-ukraine",
       "poltava",
       "potato-pancake",
       "president-of-ukraine",
@@ -290,6 +313,7 @@
       "rag-doll",
       "revolution-of-dignity",
       "roshen",
+      "rus-people",
       "rushnyk",
       "ruslana-lyzhychko",
       "russo-ukrainian-war",
@@ -318,6 +342,7 @@
       "ukrainian-ground-forces",
       "ukrainian-insurgent-army",
       "ukrainian-literature",
+      "ukrainian-nationalism",
       "ukrainian-orthodox-church",
       "ukrainian-peoples-republic",
       "ukrainian-railways",
@@ -336,7 +361,92 @@
       "west-ukrainian-peoples-republic",
       "western-ukraine",
       "yulia-tymoshenko",
+      "zaliznyi-port",
       "zaporizhian-sich"
+    ],
+    "verkhovna-rada": [
+      "andriy-shevchenko",
+      "cabinet-of-ministers-of-ukraine",
+      "chernihiv",
+      "constitution-of-ukraine",
+      "constitutional-court-of-ukraine",
+      "denys-shmyhal",
+      "dmytro-pavlychko",
+      "euromaidan",
+      "foreign-relations-of-ukraine",
+      "khmelnytsky-uprising",
+      "leonid-kuchma",
+      "mariupol-theatre-airstrike",
+      "mykhailo-hrushevskyi",
+      "national-bank-of-ukraine",
+      "oleh-blokhin",
+      "oleksandr-turchynov",
+      "petro-poroshenko",
+      "political-party-in-ukraine",
+      "prime-minister-of-ukraine",
+      "revolution-of-dignity",
+      "russian-annexation-of-crimea",
+      "sergei-bubka",
+      "ukrainian-nationalism",
+      "ukrainian-war-of-independence",
+      "ukrainization",
+      "viktor-yanukovych",
+      "yulia-tymoshenko",
+      "zaliznyi-port",
+      "zaporizhian-sich"
+    ],
+    "yulia-tymoshenko": [
+      "borys-paton",
+      "oleksandr-turchynov",
+      "political-party-in-ukraine",
+      "prime-minister-of-ukraine",
+      "viktor-yanukovych"
+    ],
+    "carpathians": [
+      "cabbage-roll",
+      "cucutenitrypillia-culture",
+      "dmytro-pavlychko",
+      "ivano-frankivsk",
+      "kievan-rus",
+      "trembita",
+      "ukrainian-carpathians"
+    ],
+    "chernivtsi": [
+      "sofia-rotaru",
+      "ukrainian-carpathians",
+      "vyshyvanka",
+      "western-ukraine"
+    ],
+    "ivano-frankivsk": [
+      "denys-shmyhal",
+      "dmytro-pavlychko",
+      "ukrainian-carpathians",
+      "ukrnafta",
+      "west-ukrainian-peoples-republic",
+      "western-ukraine"
+    ],
+    "lviv": [
+      "bohdan-khmelnytsky",
+      "denys-shmyhal",
+      "dmytro-pavlychko",
+      "ivan-franko",
+      "kingdom-of-galiciavolhynia",
+      "lviv-theatre-of-opera-and-ballet",
+      "modern-history-of-ukraine",
+      "mykhailo-hrushevskyi",
+      "pysanka",
+      "ruslana-lyzhychko",
+      "salo",
+      "taras-shevchenko-national-university-of-kyiv",
+      "ukrainian-carpathians",
+      "ukrainian-ground-forces",
+      "ukrainian-literature",
+      "ukrainian-railways",
+      "ukrainian-war-of-independence",
+      "vinnytsia",
+      "vyshyvanka",
+      "west-ukrainian-peoples-republic",
+      "western-ukraine"
     ],
     "western-ukraine": [
       "administrative-territorial-entity-of-ukraine",
@@ -404,6 +514,7 @@
       "security-service-of-ukraine",
       "ukraine",
       "ukrainian-ground-forces",
+      "ukrainian-nationalism",
       "ukrainian-soviet-socialist-republic",
       "ukrainian-war-of-independence",
       "vinnytsia",
@@ -411,6 +522,7 @@
     ],
     "ukrainian-soviet-socialist-republic": [
       "andriy-shevchenko",
+      "battle-of-kiev",
       "cabinet-of-ministers-of-ukraine",
       "chernihiv",
       "chernivtsi",
@@ -454,34 +566,8 @@
       "vinnytsia",
       "zaporizhzhia"
     ],
-    "verkhovna-rada": [
-      "andriy-shevchenko",
-      "cabinet-of-ministers-of-ukraine",
-      "chernihiv",
-      "constitution-of-ukraine",
-      "constitutional-court-of-ukraine",
-      "denys-shmyhal",
-      "euromaidan",
-      "foreign-relations-of-ukraine",
-      "khmelnytsky-uprising",
-      "leonid-kuchma",
-      "mariupol-theatre-airstrike",
-      "mykhailo-hrushevskyi",
-      "national-bank-of-ukraine",
-      "oleh-blokhin",
-      "oleksandr-turchynov",
-      "petro-poroshenko",
-      "prime-minister-of-ukraine",
-      "revolution-of-dignity",
-      "russian-annexation-of-crimea",
-      "sergei-bubka",
-      "ukrainian-war-of-independence",
-      "ukrainization",
-      "viktor-yanukovych",
-      "yulia-tymoshenko",
-      "zaporizhian-sich"
-    ],
     "dnieper": [
+      "battle-of-kiev",
       "bohdan-khmelnytsky",
       "chernihiv",
       "chernobyl-nuclear-power-plant",
@@ -494,6 +580,7 @@
       "interpipe-group",
       "kherson",
       "khmelnytsky-uprising",
+      "khortytsia",
       "kievan-rus",
       "kyiv",
       "kyiv-pechersk-lavra",
@@ -504,34 +591,15 @@
       "zaporizhian-sich",
       "zaporizhzhia"
     ],
-    "crimea": [
-      "administrative-territorial-entity-of-ukraine",
-      "agriculture-in-ukraine",
-      "constitution-of-ukraine",
-      "crimean-tatars",
-      "crimean-war",
-      "dtek",
-      "full-scale-russo-ukrainian-war",
-      "jamala",
-      "kerch-strait-incident",
-      "kherson",
-      "lesya-ukrainka",
-      "naftogaz-of-ukraine",
-      "oschadbank",
-      "russian-annexation-of-crimea",
-      "russo-ukrainian-war",
-      "sevastopol",
-      "siege-of-mariupol",
-      "verkhovna-rada",
-      "war-in-donbas"
-    ],
     "donetsk": [
       "anatoliy-solovyanenko",
       "battle-of-bakhmut",
       "battle-of-debaltseve",
       "battle-of-ilovaisk",
+      "battle-of-kiev",
       "crimea",
       "culture-of-ukraine",
+      "donetsk-peoples-republic",
       "executed-renaissance",
       "full-scale-russo-ukrainian-war",
       "holodomor",
@@ -540,16 +608,15 @@
       "kramatorsk-railway-station-attack",
       "kryvyi-rih",
       "kyiv-zhuliany-international-airport",
+      "luhansk-peoples-republic",
       "mariupol",
       "mariupol-theatre-airstrike",
-      "minsk-agreements",
+      "oles-honchar",
       "olga-kurylenko",
-      "russo-ukrainian-war",
       "siege-of-mariupol",
       "ukrainian-railways",
       "ukrainian-war-of-independence",
-      "viktor-yanukovych",
-      "war-in-donbas"
+      "viktor-yanukovych"
     ],
     "euromaidan": [
       "constitution-of-ukraine",
@@ -575,13 +642,17 @@
       "antonov",
       "bandura",
       "battle-of-ilovaisk",
+      "battle-of-kiev",
       "battle-of-kyiv",
+      "black-sea-shipping-company",
       "borscht",
+      "borys-paton",
       "bucha-massacre",
       "chernihiv",
       "chernobyl-nuclear-power-plant",
       "cucutenitrypillia-culture",
       "culture-of-ukraine",
+      "dmytro-pavlychko",
       "dnieper",
       "dnipro",
       "dtek",
@@ -596,6 +667,7 @@
       "music-of-ukraine",
       "nova-post",
       "oleh-blokhin",
+      "oles-honchar",
       "orange-revolution",
       "petrykivka-painting",
       "prime-minister-of-ukraine",
@@ -626,15 +698,12 @@
     ],
     "luhansk": [
       "battle-of-bakhmut",
-      "battle-of-debaltseve",
       "battle-of-ilovaisk",
       "battle-of-sievierodonetsk",
       "full-scale-russo-ukrainian-war",
       "kramatorsk-railway-station-attack",
-      "minsk-agreements",
-      "russo-ukrainian-war",
-      "sergei-bubka",
-      "war-in-donbas"
+      "luhansk-peoples-republic",
+      "sergei-bubka"
     ],
     "ukrainians": [
       "bandura",
@@ -657,6 +726,7 @@
       "ukrainian",
       "ukrainian-diaspora",
       "ukrainian-insurgent-army",
+      "ukrainian-nationalism",
       "ukrainian-peoples-republic",
       "ukrainization",
       "vinnytsia",
@@ -669,6 +739,7 @@
     "war-in-donbas": [
       "battle-of-sievierodonetsk",
       "full-scale-russo-ukrainian-war",
+      "luhansk-peoples-republic",
       "minsk-agreements",
       "petro-poroshenko",
       "russo-ukrainian-war",
@@ -692,6 +763,7 @@
       "dnipro",
       "donbas",
       "donetsk",
+      "donetsk-peoples-republic",
       "euromaidan",
       "foreign-relations-of-ukraine",
       "hryvnia",
@@ -704,6 +776,7 @@
       "kramatorsk-railway-station-attack",
       "kryvyi-rih",
       "kyiv-zhuliany-international-airport",
+      "luhansk-peoples-republic",
       "lviv",
       "maidan-nezalezhnosti",
       "mariupol",
@@ -736,6 +809,7 @@
       "war-in-donbas",
       "west-ukrainian-peoples-republic",
       "western-ukraine",
+      "zaliznyi-port",
       "zaporizhzhia",
       "zhytomyr"
     ],
@@ -745,6 +819,7 @@
     "odesa": [
       "2022-kherson-counteroffensive",
       "agriculture-in-ukraine",
+      "black-sea-shipping-company",
       "foreign-relations-of-ukraine",
       "kerch-strait-incident",
       "kyiv-zhuliany-international-airport",
@@ -788,6 +863,16 @@
     "vitali-klitschko": [
       "battle-of-kyiv"
     ],
+    "donetsk-peoples-republic": [
+      "battle-of-bakhmut",
+      "battle-of-debaltseve",
+      "donetsk",
+      "luhansk-peoples-republic",
+      "minsk-agreements",
+      "russo-ukrainian-war",
+      "siege-of-mariupol",
+      "war-in-donbas"
+    ],
     "mariupol": [
       "donbas",
       "kerch-strait-incident",
@@ -802,15 +887,26 @@
       "battle-of-ilovaisk",
       "battle-of-sievierodonetsk",
       "donetsk",
+      "donetsk-peoples-republic",
       "economy-of-ukraine",
       "jamala",
       "leonid-kravchuk",
       "leonid-kuchma",
       "luhansk",
+      "luhansk-peoples-republic",
       "minsk-agreements",
       "russo-ukrainian-war",
       "ukraine",
       "verkhovna-rada",
+      "war-in-donbas"
+    ],
+    "luhansk-peoples-republic": [
+      "battle-of-debaltseve",
+      "battle-of-sievierodonetsk",
+      "donetsk-peoples-republic",
+      "luhansk",
+      "minsk-agreements",
+      "russo-ukrainian-war",
       "war-in-donbas"
     ],
     "siege-of-mariupol": [
@@ -826,11 +922,14 @@
     "kherson": [
       "2022-kharkiv-counteroffensive",
       "2022-kherson-counteroffensive",
+      "black-sea-shipping-company",
       "donbas",
-      "ukrainian-peoples-republic"
+      "ukrainian-peoples-republic",
+      "zaliznyi-port"
     ],
     "mykolaiv": [
       "2022-kherson-counteroffensive",
+      "black-sea-shipping-company",
       "dtek",
       "moskva"
     ],
@@ -838,6 +937,7 @@
       "2022-kherson-counteroffensive",
       "donbas",
       "energoatom",
+      "khortytsia",
       "luhansk",
       "motor-sich",
       "olga-kurylenko"
@@ -847,6 +947,7 @@
       "antonov",
       "battle-of-ilovaisk",
       "nova-post",
+      "oles-honchar",
       "taras-shevchenko-national-university-of-kyiv",
       "ukraine",
       "ukrainian-peoples-republic",
@@ -867,12 +968,14 @@
       "hetman",
       "hopak",
       "khmelnytsky-uprising",
+      "khortytsia",
       "kryvyi-rih",
       "music-of-ukraine",
       "sumy",
       "ternopil",
       "treaty-of-pereyaslav",
       "ukrainian-diaspora",
+      "ukrainian-nationalism",
       "ukrainians",
       "zaporizhian-sich",
       "zaporizhzhia"
@@ -889,7 +992,8 @@
     "zaporizhian-sich": [
       "cossack-hetmanate",
       "hopak",
-      "ukrainian-diaspora"
+      "ukrainian-diaspora",
+      "ukrainian-nationalism"
     ],
     "denys-shmyhal": [
       "prime-minister-of-ukraine"
@@ -934,20 +1038,17 @@
       "ukraine-nato-relations",
       "viktor-yanukovych"
     ],
-    "yulia-tymoshenko": [
-      "oleksandr-turchynov",
-      "prime-minister-of-ukraine",
-      "viktor-yanukovych"
-    ],
     "dniester": [
       "cabbage-roll",
       "cucutenitrypillia-culture"
     ],
     "dnipro": [
+      "black-sea-shipping-company",
       "kryvyi-rih",
       "leonid-kuchma",
       "nova-post",
       "oleksandr-turchynov",
+      "oles-honchar",
       "petrykivka-painting",
       "ukrainian-peoples-republic",
       "volodymyr-zelenskyy",
@@ -957,6 +1058,7 @@
       "borscht",
       "cabbage-roll",
       "nova-post",
+      "oles-honchar",
       "ukrainian-diaspora",
       "ukrainian-peoples-republic",
       "ukrnafta"
@@ -966,12 +1068,14 @@
     ],
     "ivan-franko": [
       "ivano-frankivsk",
+      "lviv-theatre-of-opera-and-ballet",
       "mykhailo-hrushevskyi",
       "ukrainian-literature"
     ],
     "mykhailo-hrushevskyi": [
       "culture-of-ukraine",
       "ukrainian-literature",
+      "ukrainian-nationalism",
       "ukrainian-war-of-independence"
     ],
     "ukrainian-carpathians": [
@@ -999,21 +1103,13 @@
     ],
     "ukrainian-literature": [
       "culture-of-ukraine",
+      "dmytro-pavlychko",
       "executed-renaissance",
       "ivan-franko",
       "lesya-ukrainka",
       "mykhailo-hrushevskyi",
+      "oles-honchar",
       "taras-shevchenko"
-    ],
-    "orange-revolution": [
-      "leonid-kuchma",
-      "maidan-nezalezhnosti",
-      "modern-history-of-ukraine",
-      "president-of-ukraine",
-      "ukraine",
-      "viktor-yanukovych",
-      "viktor-yushchenko",
-      "yulia-tymoshenko"
     ],
     "prime-minister-of-ukraine": [
       "cabinet-of-ministers-of-ukraine",
@@ -1021,16 +1117,6 @@
       "leonid-kuchma",
       "oleksandr-turchynov",
       "viktor-yanukovych",
-      "yulia-tymoshenko"
-    ],
-    "revolution-of-dignity": [
-      "euromaidan",
-      "president-of-ukraine",
-      "russo-ukrainian-war",
-      "security-service-of-ukraine",
-      "ukraineeuropean-union-relations",
-      "viktor-yanukovych",
-      "war-in-donbas",
       "yulia-tymoshenko"
     ],
     "national-bank-of-ukraine": [
@@ -1055,6 +1141,7 @@
       "ternopil",
       "treaty-of-pereyaslav",
       "ukrainian-ground-forces",
+      "ukrainian-nationalism",
       "ukrainian-peoples-republic",
       "ukrainian-war-of-independence"
     ],
@@ -1103,6 +1190,7 @@
       "foreign-relations-of-ukraine",
       "jamala",
       "kerch-strait-incident",
+      "luhansk-peoples-republic",
       "minsk-agreements",
       "moskva",
       "oschadbank",
@@ -1146,6 +1234,7 @@
       "kingdom-of-galiciavolhynia",
       "kyiv",
       "pysanka",
+      "rus-people",
       "ukraine",
       "ukrainian-greek-catholic-church",
       "ukrainians",
@@ -1154,6 +1243,7 @@
     ],
     "west-ukrainian-peoples-republic": [
       "ivano-frankivsk",
+      "ukrainian-nationalism",
       "ukrainian-peoples-republic"
     ],
     "cossack-hetmanate": [
@@ -1165,6 +1255,7 @@
       "poltava",
       "treaty-of-pereyaslav",
       "ukraine",
+      "ukrainian-nationalism",
       "ukrainians",
       "zaporizhian-sich"
     ],
@@ -1175,16 +1266,21 @@
       "kryvyi-rih",
       "oleksandr-turchynov"
     ],
+    "khortytsia": [
+      "zaporizhzhia"
+    ],
     "motor-sich": [
       "zaporizhzhia"
     ],
     "sevastopol": [
       "administrative-territorial-entity-of-ukraine",
+      "black-sea-shipping-company",
       "crimea",
       "crimean-war",
       "russian-annexation-of-crimea"
     ],
     "minsk-agreements": [
+      "luhansk-peoples-republic",
       "petro-poroshenko",
       "war-in-donbas"
     ],
@@ -1195,6 +1291,7 @@
       "modern-history-of-ukraine"
     ],
     "ukrainian-insurgent-army": [
+      "dmytro-pavlychko",
       "leonid-kravchuk",
       "modern-history-of-ukraine"
     ],
@@ -1208,6 +1305,12 @@
       "petro-poroshenko",
       "vitali-klitschko"
     ],
+    "ukrainian-nationalism": [
+      "bohdan-khmelnytsky",
+      "leonid-kravchuk",
+      "ukraine",
+      "west-ukrainian-peoples-republic"
+    ],
     "music-of-ukraine": [
       "bandura",
       "kolomyjka"
@@ -1216,12 +1319,14 @@
       "cossack-hetmanate",
       "hetman",
       "khmelnytsky-uprising",
-      "treaty-of-pereyaslav"
+      "treaty-of-pereyaslav",
+      "ukrainian-nationalism"
     ],
     "khmelnytsky-uprising": [
       "cossack-hetmanate",
       "hetman",
       "treaty-of-pereyaslav",
+      "ukrainian-nationalism",
       "zaporizhian-sich"
     ],
     "ukrainian-orthodox-church": [
@@ -1246,9 +1351,18 @@
       "crimea",
       "jamala"
     ],
+    "chernobyl-nuclear-power-plant": [
+      "borys-paton",
+      "chernobyl-disaster",
+      "dnieper",
+      "energoatom"
+    ],
     "sich-riflemen": [
       "armed-forces-of-ukraine",
       "ivan-franko"
+    ],
+    "lviv-theatre-of-opera-and-ballet": [
+      "lviv"
     ],
     "zhytomyr": [
       "ukrainian-defense-industry"
@@ -1256,10 +1370,15 @@
     "servant-of-the-people": [
       "volodymyr-zelenskyy"
     ],
-    "chernobyl-nuclear-power-plant": [
-      "chernobyl-disaster",
-      "dnieper",
-      "energoatom"
+    "crimean-war": [
+      "black-sea-shipping-company",
+      "crimea",
+      "sevastopol"
+    ],
+    "leonid-kravchuk": [
+      "black-sea-shipping-company",
+      "leonid-kuchma",
+      "president-of-ukraine"
     ],
     "administrative-territorial-entity-of-ukraine": [
       "cossacks",
@@ -1274,9 +1393,8 @@
     "economy-of-ukraine": [
       "arcelormittal-kryvyi-rih"
     ],
-    "leonid-kravchuk": [
-      "leonid-kuchma",
-      "president-of-ukraine"
+    "political-party-in-ukraine": [
+      "servant-of-the-people"
     ],
     "oleksandr-turchynov": [
       "president-of-ukraine"
@@ -1286,10 +1404,6 @@
     ],
     "dtek": [
       "metinvest"
-    ],
-    "crimean-war": [
-      "crimea",
-      "sevastopol"
     ],
     "antonov": [
       "motor-sich"
@@ -1302,6 +1416,27 @@
     ]
   },
   "categories": {
+    "politics": [
+      "administrative-territorial-entity-of-ukraine",
+      "armed-forces-of-ukraine",
+      "cabinet-of-ministers-of-ukraine",
+      "constitution-of-ukraine",
+      "constitutional-court-of-ukraine",
+      "foreign-relations-of-ukraine",
+      "petro-poroshenko",
+      "political-party-in-ukraine",
+      "president-of-ukraine",
+      "prime-minister-of-ukraine",
+      "security-service-of-ukraine",
+      "servant-of-the-people",
+      "ukraine-nato-relations",
+      "ukraineeuropean-union-relations",
+      "ukrainian-insurgent-army",
+      "ukrainian-nationalism",
+      "verkhovna-rada",
+      "viktor-yanukovych",
+      "volodymyr-zelenskyy"
+    ],
     "geography": [
       "carpathians",
       "chernihiv",
@@ -1315,6 +1450,7 @@
       "ivano-frankivsk",
       "kharkiv",
       "kherson",
+      "khortytsia",
       "kryvyi-rih",
       "kyiv",
       "kyiv-pechersk-lavra",
@@ -1330,6 +1466,7 @@
       "ukraine",
       "ukrainian-carpathians",
       "vinnytsia",
+      "zaliznyi-port",
       "zaporizhzhia",
       "zhytomyr"
     ],
@@ -1337,6 +1474,7 @@
       "agriculture-in-ukraine",
       "antonov",
       "arcelormittal-kryvyi-rih",
+      "black-sea-shipping-company",
       "chernobyl-nuclear-power-plant",
       "dtek",
       "economy-of-ukraine",
@@ -1358,6 +1496,7 @@
       "ukrnafta"
     ],
     "history": [
+      "battle-of-kiev",
       "bohdan-khmelnytsky",
       "chernobyl-disaster",
       "cossack-hetmanate",
@@ -1374,6 +1513,7 @@
       "modern-history-of-ukraine",
       "orange-revolution",
       "revolution-of-dignity",
+      "rus-people",
       "sich-riflemen",
       "treaty-of-pereyaslav",
       "ukrainian-peoples-republic",
@@ -1393,9 +1533,11 @@
       "battle-of-sievierodonetsk",
       "bucha-massacre",
       "crimean-tatars",
+      "donetsk-peoples-republic",
       "full-scale-russo-ukrainian-war",
       "kerch-strait-incident",
       "kramatorsk-railway-station-attack",
+      "luhansk-peoples-republic",
       "mariupol-theatre-airstrike",
       "minsk-agreements",
       "moskva",
@@ -1414,7 +1556,9 @@
       "hopak",
       "kolomyjka",
       "kutia",
+      "lviv-theatre-of-opera-and-ballet",
       "music-of-ukraine",
+      "oles-honchar",
       "paska",
       "petrykivka-painting",
       "potato-pancake",
@@ -1430,29 +1574,12 @@
       "varenyky",
       "vyshyvanka"
     ],
-    "politics": [
-      "administrative-territorial-entity-of-ukraine",
-      "armed-forces-of-ukraine",
-      "cabinet-of-ministers-of-ukraine",
-      "constitution-of-ukraine",
-      "constitutional-court-of-ukraine",
-      "foreign-relations-of-ukraine",
-      "petro-poroshenko",
-      "president-of-ukraine",
-      "prime-minister-of-ukraine",
-      "security-service-of-ukraine",
-      "servant-of-the-people",
-      "ukraine-nato-relations",
-      "ukraineeuropean-union-relations",
-      "ukrainian-insurgent-army",
-      "verkhovna-rada",
-      "viktor-yanukovych",
-      "volodymyr-zelenskyy"
-    ],
     "people": [
       "anatoliy-solovyanenko",
       "andriy-shevchenko",
+      "borys-paton",
       "denys-shmyhal",
+      "dmytro-pavlychko",
       "ivan-franko",
       "jamala",
       "leonid-kravchuk",

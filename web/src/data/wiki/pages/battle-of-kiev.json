@@ -1,0 +1,87 @@
+{
+  "qid": "Q162284",
+  "slug": "battle-of-kiev",
+  "title": "Battle of Kiev",
+  "type": "battle",
+  "category": "history",
+  "aliases": [
+    "First Battle of Kiev",
+    "Kiev Defensive Operation",
+    "Kiev Strategic Defensive Operation"
+  ],
+  "infobox": {
+    "label": "battle",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "1941",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Kyiv",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4536, 30.5164",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The First Battle of Kiev, also referred to as the Kiev operation, was a significant military engagement during World War II that resulted in the encirclement of Soviet troops near Kiev, the capital of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]]. The battle, which lasted from 7 July to 26 September 1941, marked one of the largest encirclements in military history and had profound implications for the Soviet forces in Ukraine.",
+  "sections": [
+    {
+      "heading": "Overview of the Battle",
+      "paragraphs": [
+        "The First Battle of Kiev, known as the Battle of Kiev on the German side (German: Schlacht bei [[kyiv|Kiew]]), was a major confrontation during World War II that led to the encirclement of Soviet forces in the vicinity of Kiev. The battle occurred from 7 July to 26 September 1941 as part of Operation Barbarossa, the Axis invasion of the Soviet Union. Although Kiev was the focal point of the Soviet defenses, the city itself played a peripheral role in the overall battle, which was primarily a strategic defensive operation for the Soviets."
+      ]
+    },
+    {
+      "heading": "Military Context and Strategy",
+      "paragraphs": [
+        "The battle involved the Southwestern Front of the Red Army, commanded by Mikhail Kirponos, which was encircled by German forces. Despite the encirclement, small groups of Red Army troops, including those led by notable figures such as Marshal Semyon Budyonny and Commissar Nikita Khrushchev, managed to escape. Kirponos, however, was trapped behind enemy lines and was killed during an attempted breakout.",
+        "The encirclement resulted in the capture of 452,700 Soviet soldiers, along with significant military equipment, including 2,642 guns and mortars, and 64 tanks. By 2 October, only 15,000 soldiers had escaped the encirclement."
+      ]
+    },
+    {
+      "heading": "Casualties and Consequences",
+      "paragraphs": [
+        "The battle represented an unprecedented defeat for the Red Army, inflicting more damage than the earlier Battle of Białystok–Minsk. The Southwestern Front suffered a staggering total of 700,544 casualties, with 616,304 killed, captured, or missing. The majority of the 5th, 37th, 26th, 21st, and 38th armies, comprising 43 divisions, were nearly annihilated, necessitating a near-total reconstruction of the Southwestern Front."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Adolf Hitler characterized the Battle of Kiev as 'the biggest battle in the history of the world,' while Joseph Goebbels referred to it as 'the greatest battle of annihilation of all time.' Historians have described the battle as the Ostheer's 'greatest triumph of the war in the East' and the Red Army’s 'greatest single disaster.' Michael Jones labeled it as 'the Wehrmacht’s greatest victory of the war.'"
+      ]
+    },
+    {
+      "heading": "Prelude and Initial Strategies",
+      "paragraphs": [
+        "Prior to the battle, the operational plan of Operation Barbarossa aimed for Army Group South, under Field Marshal Gerd von Rundstedt, to dominate [[ukraine|Ukraine]] and encircle the main Soviet forces west of the [[dnieper|Dnieper River]]. Despite Soviet High Command's awareness of the German focus, Joseph [[donetsk|Stalin]] insisted on prioritizing the southern front, leading to the formation of a strong Southwestern Front under General Kirponos."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnieper",
+    "donetsk",
+    "kyiv",
+    "ukraine",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Battle of Kiev (1941) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Kiev_(1941)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-08",
+  "status": "published"
+}

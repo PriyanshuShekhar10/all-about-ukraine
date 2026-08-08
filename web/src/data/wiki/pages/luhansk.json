@@ -65,7 +65,7 @@
     {
       "heading": "Impact of the Russo-Ukrainian War",
       "paragraphs": [
-        "In 2014, pro-Russian separatists seized control of Luhansk, declaring it the capital of the self-proclaimed Luhansk People's Republic. The city has since been a focal point of the ongoing conflict in the [[donbas|Donbas]] region, leading to significant military and civilian casualties, and resulting in the temporary relocation of the [[ukrainian|Ukrainian]] administrative center to Sievierodonetsk."
+        "In 2014, pro-Russian separatists seized control of Luhansk, declaring it the capital of the self-proclaimed [[luhansk-peoples-republic|Luhansk People's Republic]]. The city has since been a focal point of the ongoing conflict in the [[donbas|Donbas]] region, leading to significant military and civilian casualties, and resulting in the temporary relocation of the [[ukrainian|Ukrainian]] administrative center to Sievierodonetsk."
       ]
     },
     {
@@ -84,6 +84,7 @@
   ],
   "links_out": [
     "donbas",
+    "luhansk-peoples-republic",
     "taras-shevchenko",
     "ukraine",
     "ukrainian",
