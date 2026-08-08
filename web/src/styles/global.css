@@ -6,13 +6,13 @@
 @theme {
   /* Calm, low-glare "reference book" palette: warm paper surfaces, softened
      ink, and a muted slate-blue link instead of a saturated brand blue. */
-  --color-ink: #26282b;
-  --color-body: #575a5f;
-  --color-mute: #8b8e92;
-  --color-hairline: #e7e4dd;
-  --color-canvas: #fbfaf7;
-  --color-canvas-soft: #f4f2ec;
-  --color-canvas-soft-2: #ece9e1;
+  --color-ink: #24262a;
+  --color-body: #545860;
+  --color-mute: #85888e;
+  --color-hairline: #dcdcdd;
+  --color-canvas: #f1f1f0;
+  --color-canvas-soft: #e8e8e8;
+  --color-canvas-soft-2: #dfdfe0;
   --color-link: #2b4a8b;
   --color-visited: #55417a;
   --color-success: #3f6b4a;

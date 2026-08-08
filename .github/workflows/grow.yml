@@ -1,8 +1,14 @@
 name: Grow wiki (hourly)
 
-# Adds new encyclopedia entries every hour — evenly across all sections — then
-# rebuilds and redeploys the site to Cloudflare Pages. It only ADDS to the
-# existing corpus; it never replaces what is already there.
+# Adds new encyclopedia entries every hour — evenly across all sections — and
+# commits them to the repo. It only ADDS to the existing corpus; it never
+# replaces what is already there.
+#
+# Deployment:
+#   * If the repo is connected to Cloudflare Pages via Git integration,
+#     Cloudflare auto-builds and deploys on the push below — no token needed.
+#   * As a fallback (e.g. direct-upload projects), if a CLOUDFLARE_API_TOKEN
+#     secret is present, the site is built here and deployed with wrangler.
 
 on:
   schedule:
@@ -11,7 +17,7 @@ on:
     inputs:
       per_category:
         description: "New entries to add per section"
-        default: "1"
+        default: "10"
 
 concurrency:
   group: grow-wiki
@@ -26,7 +32,8 @@ jobs:
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4o-mini' }}
-      PER_CATEGORY: ${{ github.event.inputs.per_category || '1' }}
+      PER_CATEGORY: ${{ github.event.inputs.per_category || '10' }}
+      CF_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
       CF_ACCOUNT_ID: "7c486fb2ca6b72301939bdbc6e836332"
     steps:
       - name: Checkout
@@ -46,7 +53,7 @@ jobs:
         run: python wiki/grow.py --per-category "$PER_CATEGORY"
 
       - name: Build pages (gather -> synthesize -> resolve -> export)
-        run: python wiki/run.py --limit 100
+        run: python wiki/run.py --limit 300
 
       - name: Commit new content
         id: commit
@@ -63,23 +70,24 @@ jobs:
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
+      # --- Fallback deploy (only if a Cloudflare API token secret is set) ---
       - name: Set up Node
-        if: steps.commit.outputs.changed == 'true'
+        if: steps.commit.outputs.changed == 'true' && env.CF_API_TOKEN != ''
         uses: actions/setup-node@v4
         with:
           node-version: "20"
 
       - name: Build site
-        if: steps.commit.outputs.changed == 'true'
+        if: steps.commit.outputs.changed == 'true' && env.CF_API_TOKEN != ''
         working-directory: web
         run: |
           npm ci
           npm run build
 
       - name: Deploy to Cloudflare Pages
-        if: steps.commit.outputs.changed == 'true'
+        if: steps.commit.outputs.changed == 'true' && env.CF_API_TOKEN != ''
         uses: cloudflare/wrangler-action@v3
         with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          apiToken: ${{ env.CF_API_TOKEN }}
           accountId: ${{ env.CF_ACCOUNT_ID }}
           command: pages deploy web/dist --project-name=all-about-ukraine --branch=main
