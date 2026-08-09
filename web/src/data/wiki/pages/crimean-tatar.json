@@ -1,0 +1,42 @@
+{
+  "qid": "Q5185452",
+  "slug": "crimean-tatar",
+  "title": "Crimean Tatar",
+  "type": "Wikimedia disambiguation page",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "Crimean Tatar refers to both an ethnic group and a language associated with the Crimean Tatars, who are a significant minority in Ukraine, particularly in the Crimean Peninsula.",
+  "sections": [
+    {
+      "heading": "Crimean Tatars",
+      "paragraphs": [
+        "The [[crimean-tatars|Crimean Tatars]] are an ethnic group native to [[crimea|Crimea]], with a rich cultural heritage and a history that is closely tied to [[administrative-territorial-entity-of-ukraine|the region of Ukraine]]. They have faced various challenges throughout history, including periods of repression and forced displacement."
+      ]
+    },
+    {
+      "heading": "Crimean Tatar Language",
+      "paragraphs": [
+        "The Crimean Tatar language is the language spoken by the Crimean Tatars. It is a Turkic language that holds cultural significance for the community and is an important aspect of their identity within [[ukraine|Ukraine]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "administrative-territorial-entity-of-ukraine",
+    "crimea",
+    "crimean-tatars",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Crimean Tatar — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Crimean_Tatar",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

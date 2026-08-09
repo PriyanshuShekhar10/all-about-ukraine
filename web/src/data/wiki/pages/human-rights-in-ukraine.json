@@ -1,0 +1,75 @@
+{
+  "qid": "Q4375762",
+  "slug": "human-rights-in-ukraine",
+  "title": "human rights in Ukraine",
+  "type": "human rights by country or territory",
+  "category": "politics",
+  "aliases": [
+    "human rights in Ukraine"
+  ],
+  "infobox": {
+    "label": "human rights by country or territory",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Human rights in Ukraine encompass the fundamental rights of individuals within the country, reflecting a complex historical and contemporary landscape influenced by political, social, and military factors. Recent developments, particularly due to the ongoing conflict with Russia, have significantly impacted the state of human rights in Ukraine.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Under Soviet rule, human rights in Ukraine were severely restricted, with a totalitarian regime suppressing freedom of speech and independent political activities. The Soviet Union was a one-party state until 1990, where dissent was met with punishment and movement was heavily controlled."
+      ]
+    },
+    {
+      "heading": "Post-Independence Developments",
+      "paragraphs": [
+        "Following [[ukraine|Ukraine]]'s declaration of independence in 1991, marked by a referendum on December 1, 1991, which saw 92.3% approval, the country began to establish its own legal framework for human rights. The first constitution was adopted on June 28, 1996, enshrining human rights obligations in law.",
+        "By 2009, Ukraine was rated as 'free' by Freedom House, recognizing its vibrant civil society and the absence of restrictions on NGO activities. However, subsequent political developments, particularly under President [[viktor-yanukovych|Viktor Yanukovych]], led to a decline in democratic standards and a downgrade to 'partly free' by 2011."
+      ]
+    },
+    {
+      "heading": "Current Human Rights Situation",
+      "paragraphs": [
+        "The ongoing Russian invasion, which began in 2022, has resulted in a significant decline in human rights conditions, including the imposition of martial law and restrictions on labor rights and media. Reports of war crimes against civilians and a humanitarian crisis have emerged as critical issues.",
+        "Attacks on journalists and civil society activists are frequent, with inadequate police responses. Investigations into crimes against journalists and activists often fail to yield convictions, and torture remains prevalent."
+      ]
+    },
+    {
+      "heading": "Electoral Rights and Judicial Fairness",
+      "paragraphs": [
+        "Elections in Ukraine, such as the local elections in 2015 and the presidential elections in 2019, have generally been peaceful and competitive, although issues like vote-buying and media bias persist. The right to a fair trial has been compromised by constitutional amendments that reintroduced general supervision by the prosecutor's office, leading to concerns about judicial independence and corruption."
+      ]
+    },
+    {
+      "heading": "Language Rights and Minority Protections",
+      "paragraphs": [
+        "Ukraine's linguistic landscape is complex, with a history of conflict over language rights. The 1996 Constitution established [[ukrainian|Ukrainian]] as the state language while allowing for the use of minority languages. However, recent legislation, particularly the 2019 Law on the Ukrainian Language, has raised concerns about the treatment of non-Ukrainian languages, with restrictions on their use in public life."
+      ]
+    },
+    {
+      "heading": "International Commitments",
+      "paragraphs": [
+        "Ukraine is a party to several international human rights treaties, including the International Covenant on Civil and Political Rights and the European Convention on Human Rights. Despite these commitments, the enforcement of human rights protections remains a challenge, particularly in the context of ongoing conflict and political instability."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine",
+    "ukrainian",
+    "viktor-yanukovych"
+  ],
+  "sources": [
+    {
+      "title": "Human rights in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Human_rights_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

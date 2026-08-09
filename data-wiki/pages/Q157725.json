@@ -75,7 +75,7 @@
     {
       "heading": "Historical Overview",
       "paragraphs": [
-        "The earliest mention of Chernivtsi dates back to 1408 when it was part of Moldavia. Initially established as a defensive fortification, it became the center of Bukovina in 1488. The city changed hands multiple times, coming under Polish, Ottoman, and Austrian control before becoming part of Romania in 1918. Following World War II, Chernivtsi became part of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] and later independent Ukraine."
+        "The earliest mention of Chernivtsi dates back to 1408 when it was part of Moldavia. Initially established as a defensive fortification, it became the center of [[bukovina|Bukovina]] in 1488. The city changed hands multiple times, coming under Polish, Ottoman, and Austrian control before becoming part of Romania in 1918. Following World War II, Chernivtsi became part of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] and later independent Ukraine."
       ]
     },
     {
@@ -98,6 +98,7 @@
     }
   ],
   "links_out": [
+    "bukovina",
     "ukraine",
     "ukrainian",
     "ukrainian-soviet-socialist-republic",

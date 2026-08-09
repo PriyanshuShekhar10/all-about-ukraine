@@ -9,7 +9,7 @@
     "label": "social class",
     "fields": []
   },
-  "summary": "The Cossacks are a significant social class in [[ukrainian|Ukrainian]] history, primarily composed of East Slavic, Eastern Orthodox Christian individuals who originated from the Pontic–Caspian steppe. They played a crucial role in military defense and the development of the southern [[administrative-territorial-entity-of-ukraine|regions of Ukraine]] and surrounding areas.",
+  "summary": "The Cossacks are a significant social class in [[history-of-ukraine|Ukrainian history]], primarily composed of East Slavic, Eastern Orthodox Christian individuals who originated from the Pontic–Caspian steppe. They played a crucial role in military defense and the development of the southern [[administrative-territorial-entity-of-ukraine|regions of Ukraine]] and surrounding areas.",
   "sections": [
     {
       "heading": "Origins and Etymology",
@@ -21,7 +21,7 @@
       "heading": "Historical Development",
       "paragraphs": [
         "Cossacks were historically a semi-nomadic, semi-militarized people who provided military service in exchange for autonomy under various Eastern European states. By the end of the 15th century, Slavic peasants fleeing to the lower [[dnieper|Dnieper]] and Don Rivers established self-governing communities, becoming known as Cossacks.",
-        "Major Cossack hosts included the Zaporozhian Cossacks near the Dnieper and the Don Cossacks along the River Don. These groups played a vital role in the development of mounted horsemanship and cavalry tactics, significantly impacting the cultural landscape of Ukraine."
+        "Major Cossack hosts included the [[zaporozhian-cossacks|Zaporozhian Cossacks]] near the Dnieper and the Don Cossacks along the River Don. These groups played a vital role in the development of mounted horsemanship and cavalry tactics, significantly impacting the cultural landscape of Ukraine."
       ]
     },
     {
@@ -48,8 +48,9 @@
   "links_out": [
     "administrative-territorial-entity-of-ukraine",
     "dnieper",
+    "history-of-ukraine",
     "ukraine",
-    "ukrainian"
+    "zaporozhian-cossacks"
   ],
   "sources": [
     {

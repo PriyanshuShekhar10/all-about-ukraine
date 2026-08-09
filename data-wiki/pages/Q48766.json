@@ -1,0 +1,86 @@
+{
+  "qid": "Q48766",
+  "slug": "babi-yar",
+  "title": "Babi Yar",
+  "type": "place of mass murder",
+  "category": "people",
+  "aliases": [
+    "Babin Yar",
+    "Babiy Yar",
+    "Babyn Yar"
+  ],
+  "infobox": {
+    "label": "place of mass murder",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "1941-09-30",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "41",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4714, 30.4489",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Babi Yar, located in Kyiv, [[ukraine|Ukraine]], is a ravine that became a notorious site of mass executions during World War II, where Nazi forces killed tens of thousands of Jews and other victims. The most significant massacre occurred on September 29-30, 1941, resulting in the deaths of approximately 33,771 Jewish individuals.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Babi Yar, or Babyn Yar, was first recorded in historical texts in 1401, associated with a sale by an elderly woman who acted as a cantiniere in the Dominican Monastery. The term 'yar' is derived from Turkic, meaning 'gully' or 'ravine'. Over the centuries, the area served various purposes, including military camps and housing at least two cemeteries, one of which was a Jewish cemetery that was officially closed in 1937."
+      ]
+    },
+    {
+      "heading": "Massacres of September 1941",
+      "paragraphs": [
+        "[[kyiv|Kyiv]] was occupied by Axis forces, primarily German, on September 19, 1941. Following the occupation, a series of explosions attributed to the Soviet NKVD led to a decision by German military leaders, including Generalmajor Kurt Eberhard and SS-Obergruppenführer Friedrich Jeckeln, to exterminate the Jewish population of Kyiv as retaliation. This decision was made during a meeting on September 26, 1941, where plans were laid out for the mass murder.",
+        "On September 29 and 30, 1941, approximately 33,771 Jewish civilians were systematically murdered at Babi Yar by Sonderkommando 4a of Einsatzgruppe C, supported by various police battalions and local collaborators. Victims were deceived into believing they were being resettled and were forced to undress before being shot in the ravine."
+      ]
+    },
+    {
+      "heading": "Further Massacres",
+      "paragraphs": [
+        "In the subsequent months, thousands more individuals, including Soviet prisoners of war, communists, Romani people, and other civilians, were executed at Babi Yar. The total number of victims is estimated to exceed 100,000. The site also became infamous for the cruelty of the Syrets concentration camp, where numerous executions occurred.",
+        "Notable figures, such as [[ukrainian|Ukrainian]] poet and activist Olena Teliha and her husband, as well as writer Ivan Rohach, were among those murdered at Babi Yar. Mass executions continued until the Nazis evacuated Kyiv, with the last known execution occurring on January 10, 1942."
+      ]
+    },
+    {
+      "heading": "Number of Victims",
+      "paragraphs": [
+        "Estimates regarding the total number of victims at Babi Yar vary widely. At the Nuremberg trials in 1946, Soviet prosecutor Lev Smirnov estimated that approximately 100,000 corpses were found in the ravine. Recent research has added names to the list of victims, with the Babyn Yar Holocaust Memorial Center identifying 33,771 Jewish victims. The site is recognized as a grave for individuals of various nationalities, reflecting the diverse communities affected by the atrocities."
+      ]
+    },
+    {
+      "heading": "Survivors",
+      "paragraphs": [
+        "One of the most notable survivor accounts comes from Dina Pronicheva, an actress from the Kyiv Puppet Theatre. She survived the massacre by pretending to be dead after being shot at Babi Yar. Her testimony, along with others, has contributed to the historical understanding of the events that transpired at this tragic site."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Babi Yar — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Babi_Yar",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,105 @@
+{
+  "qid": "Q156711",
+  "slug": "uzhhorod",
+  "title": "Uzhhorod",
+  "type": "city of regional significance of Ukraine",
+  "category": "history",
+  "aliases": [
+    "Ugohrad",
+    "Ungvár",
+    "Ungwar",
+    "Uzhgorod",
+    "Užhorod"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Kingdom of Hungary, Habsburg monarchy",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "16,919",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "40",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "169",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Bohdan Andriiv",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.6239, 22.2950",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Uzhhorod is a city located on the Uzh River in [[western-ukraine|western Ukraine]], serving as the administrative center of [[transcarpathia|Zakarpattia]] Oblast. With a population of 115,449 as of 2022, it is notable for its geographical significance and rich historical background.",
+  "sections": [
+    {
+      "heading": "Geographical Significance",
+      "paragraphs": [
+        "Uzhhorod is situated on the Uzh River, near the borders of Slovakia and Hungary, making it the most inland city in this part of Europe. It is approximately equidistant from the Baltic, Adriatic, and Black Seas, each located between 650 and 690 kilometers away."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The city was originally known as Ungvár, derived from the Hungarian word for the Uzh River and 'vár' meaning castle or fortress, likely referring to Nevytske Castle. The name Uzhhorod was introduced in the early 19th century by Slavophile groups and was officially adopted after 1920 under Czechoslovak administration.",
+        "Uzhhorod's early history includes its founding by the White Croats around 677 AD, evolving into a fortified settlement. The Magyar conquest in 895 AD marked its incorporation into the Kingdom of Hungary, where it became a center of military and administrative activity.",
+        "During the Habsburg rule in the 16th and 17th centuries, Uzhhorod was involved in religious and political conflicts, leading to the establishment of the Greek-Catholic church in 1646. The city also played a role in the Hungarian Revolution of 1848-1849.",
+        "After World War I, Uzhhorod became part of Czechoslovakia, developing into a modern city. However, following the First Vienna Award in 1938, it was returned to Hungary until World War II, when the Jewish population faced severe persecution."
+      ]
+    },
+    {
+      "heading": "Soviet Era and Independence",
+      "paragraphs": [
+        "Uzhhorod was captured by the Red Army on 27 October 1944 and subsequently became part of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] after Subcarpathian [[ukraine|Ukraine]] was annexed by the Soviet Union in 1945. The establishment of Uzhhorod State University in the same year marked significant educational progress.",
+        "Since Ukraine's independence in 1991, Uzhhorod has served as one of the regional capitals, being the smallest and westernmost among them. The city has seen cultural and infrastructural developments, including the unveiling of a bust of Tomáš Masaryk in 2002."
+      ]
+    },
+    {
+      "heading": "Demographics and Language",
+      "paragraphs": [
+        "According to the 2001 [[ukrainian|Ukrainian]] census, Uzhhorod's population was predominantly Ukrainian (including Rusyns) at 77.8%, with notable minorities including Russians (9.6%) and Hungarians (6.9%). A 2023 survey indicated that 85% of residents spoke Ukrainian at home.",
+        "The city's diverse linguistic landscape reflects its historical ties and cultural influences, with multiple languages represented among its inhabitants."
+      ]
+    },
+    {
+      "heading": "Transportation and Sports",
+      "paragraphs": [
+        "Uzhhorod is well-connected by rail, with the Uzhhorod railway station linking it to Chop and [[lviv|Lviv]], and is served by Uzhhorod International Airport located near the Slovakia border.",
+        "The city has a rich sports culture, historically hosting the SC Rusj Užhorod football club since 1925. The contemporary FC Uzhhorod competes in the Ukrainian Second League, while FC Mynai has also played in the top tiers of Ukrainian football."
+      ]
+    }
+  ],
+  "links_out": [
+    "lviv",
+    "transcarpathia",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Uzhhorod — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Uzhhorod",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

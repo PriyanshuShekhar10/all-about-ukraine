@@ -1,0 +1,91 @@
+{
+  "qid": "Q6672159",
+  "slug": "kherson-art-museum",
+  "title": "Kherson Art Museum",
+  "type": "art museum",
+  "category": "culture",
+  "aliases": [
+    "Kherson Art Museum named after Oleksey Shovkunenko"
+  ],
+  "infobox": {
+    "label": "art museum",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1978",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Kherson",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "46.6297, 32.6094",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Kherson Art Museum, officially known as the Oleksii Shovkunenko Kherson Regional Art Museum, is an art institution located in Kherson, Ukraine, established on May 27, 1978. The museum has faced significant challenges, including looting during the 2022 Russian invasion of Ukraine, which underscores its importance to Ukrainian cultural heritage.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The origins of the museum trace back to 1890 when archaeologist Victor Ivanovich Goshkevich founded an archaeological museum in [[kherson|Kherson]]. In 1909, Goshkevich donated the museum to the city, which included both the original building and a diverse collection of numismatic, archaeological finds, paintings, and icons.",
+        "In 1912, under the initiative of local patron Prince Mykola Antonovych Gedroits, a fine arts museum was established on the lower floor of the Goshkevych museum, expanding its collections to include paintings, sculpture, porcelain, crystal, and engraving. Notable artists represented during this period included Oleksy P. Bogolyubov and I. F. Kolesnikov.",
+        "The museum's collection grew further in the 1920s and 1930s, incorporating works from Russian and Western European masters, reaching around 700 exhibits before World War II. During the Nazi occupation, many of its valuables were taken to Germany and Romania. After the city was liberated in March 1944, efforts to repatriate lost items began, culminating in the establishment of the art department in 1966."
+      ]
+    },
+    {
+      "heading": "Modern Development",
+      "paragraphs": [
+        "In 1976, the museum received a significant collection from Leningrad native M.I. Kornilovskaya, which included 500 fine art works and a unique collection of books. The Kherson Art Museum was officially established in 1978, integrating the art department of the Museum of Local History and the Leningrad collection. Initial exhibits were supplemented by transfers from various cultural institutions in the USSR and [[ukraine|Ukraine]].",
+        "In 1981, O. V. Shovkunenko, the wife of renowned [[ukrainians|Ukrainian People]]'s Artist Oleksii O. Shovkunenko, contributed over 100 of her husband's works to the museum, further enriching its collection."
+      ]
+    },
+    {
+      "heading": "Museum Building",
+      "paragraphs": [
+        "The museum is situated in Kherson's former city hall, a building constructed between 1905 and 1906 specifically for municipal administrative functions. The design, selected from a competition, was created by architect Adolf Borisovich Minkus. The building is recognized as a significant symbol of Kherson and is noted for its architectural blend of styles, offering views of the [[dnieper|Dnipro River]]."
+      ]
+    },
+    {
+      "heading": "Collection",
+      "paragraphs": [
+        "As of 2022, the Kherson Art Museum's collection comprised over 14,000 works of art, featuring both [[ukrainian|Ukrainian]] and international artists across various mediums, including painting, graphics, sculpture, and decorative arts. The collection spans from 17th-century Russian icon painting to contemporary works by Kherson artists.",
+        "Key highlights of the collection include significant pieces such as 'Yuri Zmieborets with the holy apostles Peter and Paul' (18th – early 19th century), 'Mother of God Quell my sorrows' (19th century), and works by notable artists like Ivan K. Aivazovsky and Oleksii O. Shovkunenko."
+      ]
+    },
+    {
+      "heading": "Current Status",
+      "paragraphs": [
+        "During the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], the museum was looted by occupying Russian forces. On October 31, 2022, just before Kherson's liberation by Ukrainian troops, Russian soldiers, along with officials from the Russian Ministry of Culture and FSB, removed nearly 15,000 works of art from the museum, transporting them to the Central Museum of Taurida in Simferopol, [[crimea|Crimea]].",
+        "The Kherson police have initiated an investigation into this incident, which has been characterized as a war crime. The looting of the museum is part of a broader pattern of cultural destruction, with Ukraine's Minister of Culture Oleksandr Tkachenko describing it as cultural genocide."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "crimea",
+    "dnieper",
+    "kherson",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Kherson Art Museum — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kherson_Art_Museum",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

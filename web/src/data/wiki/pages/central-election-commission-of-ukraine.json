@@ -1,0 +1,77 @@
+{
+  "qid": "Q913899",
+  "slug": "central-election-commission-of-ukraine",
+  "title": "Central Election Commission of Ukraine",
+  "type": "election commission",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "election commission",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1997",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4278, 30.5411",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Central Election Commission of Ukraine (TsVK) is an independent body responsible for organizing and conducting presidential, parliamentary, and local elections in Ukraine, as well as managing referendums. Established in November 1997, it operates under the Constitution and laws of Ukraine, ensuring the electoral process's legality and transparency.",
+  "sections": [
+    {
+      "heading": "Legislative Status",
+      "paragraphs": [
+        "The Central Election Commission manages the election and referendum commissions established for presidential and parliamentary elections in [[ukraine|Ukraine]], as well as all-[[ukrainian|Ukrainian]] referendums. It provides supervisory, advisory, and methodological support to local election commissions and local referendums, operating independently from other governmental authorities."
+      ]
+    },
+    {
+      "heading": "General Information and Composition",
+      "paragraphs": [
+        "The Central Election Commission was established in November 1997 as a permanent state institution in accordance with the Constitution. It ensures the organization and conduct of presidential, parliamentary, and all-Ukrainian referendums, while also offering support to local councils and mayors for local elections.",
+        "The Commission consists of 17 members, appointed by the [[verkhovna-rada|Verkhovna Rada]] (parliament) of Ukraine for seven-year terms. Members must be Ukrainian citizens, at least 25 years old, and have lived in Ukraine for the past five years. The Chairperson, Deputy Chair, Secretary, and at least five other members must possess higher education in law."
+      ]
+    },
+    {
+      "heading": "Secretariat and Departments",
+      "paragraphs": [
+        "The Central Election Commission's Secretariat includes various departments such as the Operation-Methodical Department, Legal Department, Informational Department, and more, which support its functions and operations."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The first election commission in Ukraine was formed in 1917 as the Electoral Bureau of the General Secretary of Internal Affairs, led by Mykhailo Kovenko. This body prepared elections for the Ukrainian Constituent Assembly, which were disrupted by the Ukrainian-Soviet War. A modern election commission was established in 1989 under the [[cabinet-of-ministers-of-ukraine|Cabinet of Ukraine]] and became an independent entity in 1997."
+      ]
+    },
+    {
+      "heading": "Current Composition and Members",
+      "paragraphs": [
+        "As of 4 October 2019, the Central Election Commission comprises 17 members, including Chairman Oleh Didenko and other members such as Oksana Boyarchuk and Yuriy Buhlaka. Previous members have included notable figures such as Tetiana Slipachuk and Mykhailo Okhendovsky."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Central Election Commission (Ukraine) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Central_Election_Commission_(Ukraine)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

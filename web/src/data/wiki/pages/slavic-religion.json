@@ -1,0 +1,70 @@
+{
+  "qid": "Q838267",
+  "slug": "slavic-religion",
+  "title": "Slavic religion",
+  "type": "ethnic religion",
+  "category": "people",
+  "aliases": [
+    "Old Slavic religion",
+    "Slavic cults",
+    "Slavic paganism",
+    "Slavic polytheism"
+  ],
+  "infobox": {
+    "label": "ethnic religion",
+    "fields": []
+  },
+  "summary": "Slavic religion refers to the pre-Christian spiritual beliefs, mythologies, and rituals of the Slavic peoples, which were practiced until their gradual Christianization from the 8th to the 13th centuries. This polytheistic and animistic faith, with deep ties to nature and agricultural cycles, played a significant role in the cultural [[history-of-ukraine|history of Ukraine]] and the broader Slavic world.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Slavic paganism, as practiced by the Slavic peoples, was characterized by a polytheistic and animistic belief system. The South Slavs, who settled in the Balkans during the 6th–7th centuries AD, were among the first to come under Eastern Christianity's influence, beginning with the establishment of writing systems for Slavic languages by Saints Cyril and Methodius in 855. The East Slavs, including those in present-day [[ukraine|Ukraine]], officially adopted Christianity in 988 under Vladimir the Great of [[kievan-rus|Kievan Rus]]'.",
+        "The Christianization process was more complex for the West Slavs, with early acceptance of Christianity in Moravia in 831 and later by the Bohemian dukes in 845. The Polish ruler Mieszko I accepted Christianity in 966, while the Sorbs and Polabian Slavs experienced significant Catholic influence from the 12th century onward."
+      ]
+    },
+    {
+      "heading": "Resistance to Christianity",
+      "paragraphs": [
+        "Despite the spread of Christianity, the transition was often met with resistance, particularly in regions that are now part of Ukraine. Popular opposition, led by pagan priests known as volkhvs, persisted for centuries. In early Poland, similar resistance culminated in a pagan reaction, while the West Slavs of the Baltic resisted Christianity until it was forcibly imposed during the Northern Crusades.",
+        "Reports from Christian chroniclers indicate that the Slavs frequently reverted to their original pagan beliefs, a phenomenon described as relapsi sunt denuo ad paganismus."
+      ]
+    },
+    {
+      "heading": "Integration into Slavic Christianity",
+      "paragraphs": [
+        "Elements of the indigenous Slavic religion were incorporated into Slavic Christianity, influencing church architecture, icon painting, and folk practices. This blending of beliefs led to a phenomenon known as dvoeverie, or 'double faith', where both pagan and Christian elements coexisted.",
+        "The persistence of Slavic gods in unofficial folk religion demonstrates the enduring legacy of Slavic paganism, which has seen a revival in the 20th century through movements like Slavic Native Faith (Rodnovery)."
+      ]
+    },
+    {
+      "heading": "Sources and Documentation",
+      "paragraphs": [
+        "The understanding of Slavic paganism is primarily derived from historical documents, archaeological findings, and non-Slavic historical texts. Byzantine historian Procopius of Caesarea provided early descriptions of Slavic religious practices, while later sources from the 11th and 12th centuries detail the sanctuaries and cults of Slavic deities.",
+        "The Primary Chronicle, compiled in Kiev around 1111, and the Novgorod First Chronicle document the decline of the official Slavic religion and the emergence of 'double faith'. Scholars in the 20th century, including Vyacheslav Ivanov and Boris Rybakov, contributed significantly to the reconstruction of Slavic pagan beliefs through comparative mythology and ethnography."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Slavic religion is recognized as a fundamental aspect of the cultural identity of the Slavic peoples, including [[ukrainians|Ukrainians]]. The early Slavs' religious beliefs were closely tied to their sense of identity, with the notion that one's status as a Slav was largely determined by adherence to these spiritual practices.",
+        "The rich tapestry of Slavic mythology and rituals continues to influence contemporary cultural expressions in Ukraine, highlighting the enduring legacy of pre-Christian beliefs in the region."
+      ]
+    }
+  ],
+  "links_out": [
+    "history-of-ukraine",
+    "kievan-rus",
+    "ukraine",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Slavic paganism — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Slavic_paganism",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

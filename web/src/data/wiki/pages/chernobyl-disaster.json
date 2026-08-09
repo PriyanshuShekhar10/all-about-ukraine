@@ -63,7 +63,7 @@
     {
       "heading": "Long-term Consequences and Cleanup Efforts",
       "paragraphs": [
-        "Pripyat was abandoned and replaced by the newly constructed city of Slavutych. A sarcophagus was completed around the Chernobyl Nuclear Power Plant in December 1986 to contain radioactive contamination and protect crews working at the site. Between 2016 and 2018, the Chernobyl New Safe Confinement was built around the original sarcophagus to facilitate the removal of reactor debris, with cleanup efforts projected to be completed by 2065."
+        "Pripyat was abandoned and replaced by the newly constructed city of Slavutych. A sarcophagus was completed around the Chernobyl Nuclear Power Plant in December 1986 to contain radioactive contamination and protect crews working at the site. Between 2016 and 2018, the [[chernobyl|Chernobyl]] New Safe Confinement was built around the original sarcophagus to facilitate the removal of reactor debris, with cleanup efforts projected to be completed by 2065."
       ]
     },
     {
@@ -74,6 +74,7 @@
     }
   ],
   "links_out": [
+    "chernobyl",
     "chernobyl-nuclear-power-plant",
     "ukraine"
   ],

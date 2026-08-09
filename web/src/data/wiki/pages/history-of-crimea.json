@@ -1,0 +1,67 @@
+{
+  "qid": "Q2629621",
+  "slug": "history-of-crimea",
+  "title": "history of Crimea",
+  "type": "aspect of history",
+  "category": "history",
+  "aliases": [
+    "Crimea history"
+  ],
+  "infobox": {
+    "label": "aspect of history",
+    "fields": []
+  },
+  "summary": "The history of Crimea is marked by its strategic location and diverse cultural influences, particularly its connections to Ukraine. From ancient Greek colonies to the establishment of the Crimean Khanate and later incorporation into the Russian Empire, Crimea has played a significant role in regional dynamics and [[history-of-ukraine|Ukrainian history]].",
+  "sections": [
+    {
+      "heading": "Ancient and Medieval History",
+      "paragraphs": [
+        "The recorded history of the [[crimea|Crimean Peninsula]], known as Tauris and Taurica, begins around the 5th century BCE with the establishment of Greek colonies along its coast, notably Chersonesos near modern-day [[sevastopol|Sevastopol]]. The region saw the influence of Scythians and Tauri, and by the 13th century, it was partially controlled by the Venetians and Genovese.",
+        "In the medieval period, parts of Crimea were conquered by [[kievan-rus|Kievan Rus]]', with Prince Vladimir the Great being baptized at Chersonesus Cathedral, marking the Christianization of Kievan Rus'. The Mongol invasion led to the region falling under the control of the Mongol Golden Horde, which later gave rise to the Crimean Khanate in the 1440s."
+      ]
+    },
+    {
+      "heading": "Ottoman and Russian Control",
+      "paragraphs": [
+        "Following the defeat of the Ottoman Empire in 1774, the Treaty of Küçük Kaynarca recognized the political independence of the [[crimean-tatars|Crimean Tatars]]. Catherine the Great incorporated Crimea into the Russian Empire in 1783, marking the first Muslim territory to leave Ottoman control. This incorporation increased Russian influence in the Black Sea region.",
+        "The strategic significance of Crimea was highlighted during the [[crimean-war|Crimean War]] (1853-1856), where it became the site of major engagements, ultimately resulting in a Russian defeat."
+      ]
+    },
+    {
+      "heading": "Soviet Era and Transfer to Ukraine",
+      "paragraphs": [
+        "During the Russian Civil War, Crimea changed hands multiple times and was the site of significant violence against the remaining population. In 1921, the Crimean Autonomous Soviet Socialist Republic was established, later downgraded to an oblast in 1945 after the ethnic cleansing of the Crimean Tatars.",
+        "In 1954, Crimea was transferred to the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]], coinciding with celebrations of the 300th anniversary of the [[treaty-of-pereyaslav|Treaty of Pereyaslav]], which was framed as the 'reunification of [[ukraine|Ukraine]] with Russia' in Soviet narratives."
+      ]
+    },
+    {
+      "heading": "Post-Soviet Developments",
+      "paragraphs": [
+        "Following the dissolution of the Soviet Union, the Republic of Crimea was formed in 1992, though it was abolished in 1995, leading to the establishment of the Autonomous Republic of Crimea under [[ukrainian|Ukrainian]] authority. A treaty in 1997 resolved the Black Sea Fleet dispute, allowing Russia to maintain a naval presence in Sevastopol.",
+        "In 2014, Crimea experienced significant unrest leading to the declaration of independence from Ukraine following a disputed referendum. This action was followed by Russia's formal [[russian-annexation-of-crimea|annexation of Crimea]], a move that remains unrecognized by most countries and continues to be a contentious issue in Ukrainian and international politics."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "crimean-tatars",
+    "crimean-war",
+    "history-of-ukraine",
+    "kievan-rus",
+    "russian-annexation-of-crimea",
+    "sevastopol",
+    "treaty-of-pereyaslav",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "History of Crimea — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Crimea",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

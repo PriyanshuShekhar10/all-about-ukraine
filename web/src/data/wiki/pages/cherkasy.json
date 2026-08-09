@@ -1,0 +1,107 @@
+{
+  "qid": "Q157055",
+  "slug": "cherkasy",
+  "title": "Cherkasy",
+  "type": "city of regional significance of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Cherkassy"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1284",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "281,549",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "78",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "110",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Anatolii Bondarenko",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.4444, 32.0597",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Cherkasy is a city of regional significance located in central Ukraine, serving as the administrative center of Cherkasy Oblast and Cherkasy Raion. With a population of 269,836 as of 2022, it has historical roots dating back to the 13th century and has played a significant role in Ukraine's cultural and political history.",
+  "sections": [
+    {
+      "heading": "Geographical Location",
+      "paragraphs": [
+        "Cherkasy is positioned on the high right bank of the [[dnieper|Dnipro River]], situated in the Kremenchuk Reservoir. The city covers an area of 69 km² (26.6 sq mi) and extends 17 km (10.56 mi) along the reservoir, with its widest point measuring 8 km (4.97 mi). The northern-western side of the city is bordered by Cherkasy Forest, the largest natural pine forest in [[ukraine|Ukraine]], spanning 28,500 hectares (70,400 acres)."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Cherkasy's history is believed to have begun in 1286, with its first documentation occurring in the 1305 Hustyn Chronicle. The city became part of the Grand Duchy of Lithuania in the 1360s and served as a fortified town, playing a crucial role in defending against [[crimean-tatars|Crimean Tatars]]. During the 15th and 16th centuries, Cherkasy was a significant center for Cossack activity, participating in various military campaigns and uprisings."
+      ]
+    },
+    {
+      "heading": "Political Changes",
+      "paragraphs": [
+        "Following the Union of Lublin in 1569, Cherkasy became part of Poland, where it was involved in the Cossack movement and the [[khmelnytsky-uprising|Khmelnytsky Uprising]] from 1648 to 1657. After a series of political shifts, including annexation by the Russian Empire in 1793, Cherkasy underwent multiple changes in governance during the [[ukrainian-war-of-independence|Ukrainian War of Independence]] and later fell under Soviet control in 1920."
+      ]
+    },
+    {
+      "heading": "Economic Development",
+      "paragraphs": [
+        "In the 19th century, Cherkasy experienced significant economic growth, particularly with the establishment of various industries, including sugar and tobacco production. Post-World War II, the city developed into a chemical industry hub within the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]], with major plants such as 'Azot' and 'Khimvolokno' being established."
+      ]
+    },
+    {
+      "heading": "Modern Era",
+      "paragraphs": [
+        "Since Ukraine's independence in 1991, Cherkasy has faced industrial decline, leading to a decrease in population and living standards. However, some enterprises, like 'Azot', have remained operational and successful. The city has also been impacted by the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], experiencing air strikes and missile attacks."
+      ]
+    },
+    {
+      "heading": "Cultural and Administrative Role",
+      "paragraphs": [
+        "Cherkasy serves as a cultural, educational, and industrial center within Cherkasy Oblast and the Central Economic Region of Ukraine. In 1954, it became the administrative center of Cherkasy Oblast, which is the youngest oblast in Ukraine. The city has also undergone administrative changes, merging into Cherkasy Raion as part of Ukraine's administrative reform in 2020."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimean-tatars",
+    "dnieper",
+    "full-scale-russo-ukrainian-war",
+    "khmelnytsky-uprising",
+    "ukraine",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainian-war-of-independence"
+  ],
+  "sources": [
+    {
+      "title": "Cherkasy — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cherkasy",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

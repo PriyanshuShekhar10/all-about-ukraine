@@ -49,12 +49,12 @@
       }
     ]
   },
-  "summary": "Lviv is the fifth-largest city in Ukraine and the largest in the western region, with an estimated population of 723,403 in 2025. It serves as the administrative center of Lviv Oblast and is recognized as a key cultural hub in Ukraine.",
+  "summary": "Lviv is the fifth-largest city in Ukraine and the largest in the western region, with an estimated population of 723,403 in 2025. It serves as the administrative center of [[lviv-oblast|Lviv Oblast]] and is recognized as a key cultural hub in Ukraine.",
   "sections": [
     {
       "heading": "Historical Significance",
       "paragraphs": [
-        "Lviv emerged as a significant center in the historical regions of Red Ruthenia and Galicia during the 14th century, replacing Halych, Chełm, Belz, and Przemyśl. It served as the capital of the [[kingdom-of-galiciavolhynia|Kingdom of Galicia–Volhynia]] from 1272 until 1340, when it came under the control of King Casimir III the Great of Poland due to a succession conflict. The city was granted town rights in 1356 and became the regional capital of the Ruthenian Voivodeship within the Kingdom of Poland from 1434.",
+        "Lviv emerged as a significant center in the historical regions of Red Ruthenia and Galicia during the 14th century, replacing [[halych|Halych]], Chełm, Belz, and Przemyśl. It served as the capital of the [[kingdom-of-galiciavolhynia|Kingdom of Galicia–Volhynia]] from 1272 until 1340, when it came under the control of King Casimir III the Great of Poland due to a succession conflict. The city was granted town rights in 1356 and became the regional capital of the Ruthenian Voivodeship within the Kingdom of Poland from 1434.",
         "Following the First Partition of Poland in 1772, Lviv became the capital of the Habsburg semi-autonomous Kingdom of Galicia and Lodomeria. Between 1918 and 1939, it was the center of the Lwów Voivodeship in the Second Polish Republic, during which the city experienced significant cultural and industrial growth."
       ]
     },
@@ -80,7 +80,9 @@
   ],
   "links_out": [
     "full-scale-russo-ukrainian-war",
+    "halych",
     "kingdom-of-galiciavolhynia",
+    "lviv-oblast",
     "lviv-theatre-of-opera-and-ballet",
     "ukraine",
     "ukrainian",

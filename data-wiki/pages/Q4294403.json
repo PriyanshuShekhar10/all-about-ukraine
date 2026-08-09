@@ -1,0 +1,83 @@
+{
+  "qid": "Q4294403",
+  "slug": "ministry-of-foreign-affairs-of-ukraine",
+  "title": "Ministry of Foreign Affairs of Ukraine",
+  "type": "foreign affairs ministry",
+  "category": "politics",
+  "aliases": [
+    "MFA of Ukraine"
+  ],
+  "infobox": {
+    "label": "foreign affairs ministry",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1917-11-12",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Foreign affairs ministry building in Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Ministry of Foreign Affairs of Ukraine is the governmental body responsible for managing Ukraine's foreign relations. It plays a crucial role in shaping Ukraine's diplomatic policies and international presence.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The Ministry of Foreign Affairs of Ukraine was initially established as the General Secretariat of Nationalities within the General Secretariat of [[ukraine|Ukraine]] and was led by Serhiy Yefremov. Following Soviet intervention, the office was transformed into a ministry on December 22, 1917. Concurrently, the Soviet government was formed, labeling the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] as counter-revolutionary. The [[ukrainian|Ukrainian]] Soviet government reorganized its office on March 1, 1918. The ministry was dissolved by the Soviet Union in 1923 but was reinstated in 1944. The ministry continued to function after Ukraine regained independence in 1991.",
+        "On March 28, 2022, amid the ongoing [[full-scale-russo-ukrainian-war|Russo-Ukrainian war]], the ministry, in collaboration with One Philosophy, initiated the 'Ukraine Street' campaign. This campaign aimed to encourage citizens in 34 countries across 53 cities to petition for the renaming of streets adjacent to Russian embassies, reflecting an effort to isolate Russia and show solidarity with Ukraine. By December 2022, streets in 20 cities across 17 countries had been renamed as part of this initiative."
+      ]
+    },
+    {
+      "heading": "Location and Structure",
+      "paragraphs": [
+        "The Ministry of Foreign Affairs is situated in [[kyiv|Kyiv]], Ukraine's capital, specifically in the historic uppertown district near the recently reconstructed St. Michael's Golden-Domed Monastery. The ministry's building is located on Mykhailivska Square, adjacent to Volodymyrska Hill park.",
+        "The appointment of the Foreign Minister is conducted by the [[president-of-ukraine|President of Ukraine]], which differs from the process for most Cabinet Minister nominations that are typically made by the Prime Minister. All ministerial appointments must receive approval from the [[verkhovna-rada|Ukrainian Parliament]]."
+      ]
+    },
+    {
+      "heading": "UNESCO Representation",
+      "paragraphs": [
+        "Ukraine has been a member of UNESCO since May 12, 1954, and established its permanent representation in the organization in December 1962, currently held by the Ambassador of Ukraine to France. The National Commission of Ukraine for UNESCO was formed as part of the Ministry of Foreign Affairs through Presidential decree #212/1996 on March 26, 1996. The commission is chaired by Sergiy Kyslytsya, and the permanent representative to UNESCO is Kostiantyn Tymoshenko. Ukraine collaborates with 14 academic departments and has 63 schools associated with UNESCO."
+      ]
+    },
+    {
+      "heading": "List of Ministers",
+      "paragraphs": [
+        "The Ministry of Foreign Affairs has had various officials since its inception, including the General Secretary of Nationalities, Serhiy Yefremov, and subsequent ministers such as Oleksandr Shulhin and Christian Rakovsky during the early years. Post-World War II, notable ministers included Dmitry Manuilsky, Anatoliy Zlenko, and Hennadiy Udovenko. In the post-Soviet era, the ministry has seen leadership from figures such as Pavlo Klimkin and Dmytro Kuleba, with Kuleba serving from March 4, 2020, to September 5, 2024, followed by Andrii Sybiha."
+      ]
+    },
+    {
+      "heading": "Spokespersons",
+      "paragraphs": [
+        "The Ministry of Foreign Affairs has had several spokespersons over the years, including Ihor Dolhov (2001–2002), Markiyan Lubkivsky (2003–2005), and Mariana Betsa (2015–2018). The current spokesperson is Oleh Nikolenko, who has held the position since 2020."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "president-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Ministry of Foreign Affairs of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ministry_of_Foreign_Affairs_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

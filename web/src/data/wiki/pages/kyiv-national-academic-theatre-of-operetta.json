@@ -1,0 +1,62 @@
+{
+  "qid": "Q2348212",
+  "slug": "kyiv-national-academic-theatre-of-operetta",
+  "title": "Kyiv National Academic Theatre of Operetta",
+  "type": "opera house",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "opera house",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1934",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4335, 30.5163",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Kyiv National Academic Theatre of Operetta is a prominent theatre located in Kyiv, Ukraine, established in 1934. It plays a significant role in the cultural landscape of Ukraine, particularly in the genre of operetta.",
+  "sections": [
+    {
+      "heading": "Foundation and History",
+      "paragraphs": [
+        "The Kyiv National Academic Theatre of Operetta was founded in 1934, marking its establishment as a key institution for performing arts in [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "As a national theatre, it contributes to the rich cultural heritage of Ukraine, focusing on the operetta genre, which combines elements of opera and musical theatre."
+      ]
+    },
+    {
+      "heading": "Location",
+      "paragraphs": [
+        "The theatre is situated in [[kyiv|Kyiv]], the capital city of Ukraine, serving as a central hub for theatrical performances and cultural events."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Kyiv National Academic Theatre of Operetta — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kyiv_National_Academic_Theatre_of_Operetta",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

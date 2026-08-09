@@ -1,0 +1,87 @@
+{
+  "qid": "Q165419",
+  "slug": "ivan-mazepa",
+  "title": "Ivan Mazepa",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Ivan Mazeppa",
+    "Ivan Stepanovych Mazepa"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1639-03-20",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1709-09-21",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Bila Tserkva, Mazepintsi",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "Prince of the Holy Roman Empire, Hetman of Zaporizhian Host",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Ivan Stepanovych Mazepa (30 March [O.S. 20 March] 1639 – 2 October [O.S. 21 September] 1709) was a prominent Ukrainian military and political leader who served as hetman of the [[cossack-hetmanate|Cossack Hetmanate]] from 1687 to 1709, known for his efforts in restoring Ukraine's political and economic stability following the Ruin.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Mazepa was born on 30 March [O.S. 20 March] 1639 in the village of Mazepyntsi, located near [[bila-tserkva|Bila Tserkva]], which was then part of the Kiev Voivodeship of the Polish–Lithuanian Commonwealth. He belonged to the noble Mazepa family, with his father, Stepan Adam Mazepa-Kaledynsky, serving as the town otaman of Bila Tserkva during the [[khmelnytsky-uprising|Khmelnytsky Uprising]]. His mother, Maryna Mokiievska, was of Cossack descent and later became the hegumene of the Pechersk Ascension Monastery in [[kyiv|Kyiv]].",
+        "Mazepa's coat of arms, the Kurcz, was likely inherited from the Bulyha-Kurcewicz family, who had historical ties to Bila Tserkva. In 1707, the Holy Roman Emperor Joseph I confirmed Mazepa's coat of arms and granted him the title of Prince of the Holy Roman Empire."
+      ]
+    },
+    {
+      "heading": "Career in Polish Service",
+      "paragraphs": [
+        "Mazepa began his career in 1657 under [[hetman|Hetman]] Ivan Vyhovsky, who favored a pro-Polish stance. He was sent to the royal court of John II Casimir Vasa, where he gained a reputation for his diplomatic missions to [[ukraine|Ukraine]]. His time at the Polish court was marked by a controversial reputation, which the Russian Imperial government later exploited to discredit him.",
+        "Despite various incidents, including a scandal involving an affair that led to his temporary disgrace, Mazepa remained in royal service until the abdication of John II Casimir in 1668."
+      ]
+    },
+    {
+      "heading": "Rise to Hetmanate Leadership",
+      "paragraphs": [
+        "After inheriting the title of [[chernihiv|Chernihiv]] cupbearer following his father's death, Mazepa served under Hetman Petro Doroshenko from 1669 to 1673. He participated in military campaigns and diplomatic missions, quickly ascending the ranks within the Cossack leadership. In 1687, Mazepa accused Ivan Samoylovych of treason and secured his removal, subsequently being elected as hetman of Left-bank Ukraine.",
+        "Mazepa's rule began with the signing of the Kolomak Articles, which established his authority. He initially maintained a close relationship with Tsar Peter I, assisting in military strategies against the Tatars and earning significant honors, including the Order of St. Andrew."
+      ]
+    },
+    {
+      "heading": "Conflict with Russia and Legacy",
+      "paragraphs": [
+        "Mazepa's relationship with Peter I soured due to administrative reforms that undermined the autonomy of the Hetmanate. In 1708, he shifted his allegiance to Charles XII of Sweden after Peter I ordered the destruction of [[ukrainian|Ukrainian]] resources to thwart Swedish advances. Following the defeat of the Swedes at the Battle of [[poltava|Poltava]] in 1709, Mazepa fled to Moldavia, where he died later that year.",
+        "The consequences of his defection have had lasting impacts on Ukrainian and Russian historical narratives. His legacy has been a subject of artistic and literary inspiration, and his reputation has undergone rehabilitation in post-1991 Ukraine, contrasting with the anathema pronounced by the Russian Orthodox Church in 1708."
+      ]
+    }
+  ],
+  "links_out": [
+    "bila-tserkva",
+    "chernihiv",
+    "cossack-hetmanate",
+    "hetman",
+    "khmelnytsky-uprising",
+    "kyiv",
+    "poltava",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ivan Mazepa — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ivan_Mazepa",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

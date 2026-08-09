@@ -1,0 +1,68 @@
+{
+  "qid": "Q832656",
+  "slug": "uzhhorod-castle",
+  "title": "Uzhhorod Castle",
+  "type": "castle",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "castle",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.6217, 22.3067",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Uzhhorod Castle is a significant historical citadel located in Uzhhorod, Ukraine, known for its diverse architectural styles and rich history dating back to the 13th century. The castle played an important role in the historical narrative of Hungary and the region.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Uzhhorod Castle, also known as Ужгородський замок in [[ukrainian|Ukrainian]] and Ungvári vár in Hungarian, is situated on a hill in [[uzhhorod|Uzhhorod]], [[ukraine|Ukraine]]. The castle's name, Uzhhorod/Ungvár, translates to 'the Uzh castle' and reflects its historical significance.",
+        "The earliest stone structures at the castle site date back to the 13th century when Charles I of Hungary granted the grounds to his Italian supporters from the Drugeth family."
+      ]
+    },
+    {
+      "heading": "Architectural Features",
+      "paragraphs": [
+        "The castle was constructed using a variety of architectural styles and materials between the 13th and 18th centuries. The initial rectangular defensive structure featured rhomboid bastions, reminiscent of castles found in Southern Italy.",
+        "In the 16th and 17th centuries, the fortification was enhanced and endured several sieges, the last of which occurred during 1703-04 under the command of Francis II Rákóczi, yet it was never captured."
+      ]
+    },
+    {
+      "heading": "Significant Figures",
+      "paragraphs": [
+        "In the 18th century, the castle underwent modernization led by Lemaire, a French military engineer. Following the death of the male line of the Drugeth family in 1691, Kristina Drugeth married Count Miklós Bercsényi, who became a prominent figure in Rákóczi's War of Independence and resided in the castle.",
+        "Bercsényi was known for negotiating with ambassadors from Peter the Great and Louis XIV regarding the formation of an anti-Habsburg alliance. However, in 1711, he fled Hungary, resulting in the confiscation of his estates by the Austrian crown."
+      ]
+    },
+    {
+      "heading": "Later Developments",
+      "paragraphs": [
+        "As the strategic military importance of the castle diminished due to the expansion of Habsburg territories, it was transferred to the Ruthenian Greek-Catholic Church, which established a school on the premises.",
+        "The castle grounds suffered from significant fires in 1728 and 1879, which caused extensive damage."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine",
+    "ukrainian",
+    "uzhhorod"
+  ],
+  "sources": [
+    {
+      "title": "Uzhhorod Castle — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Uzhhorod_Castle",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

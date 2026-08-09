@@ -1,0 +1,91 @@
+{
+  "qid": "Q894312",
+  "slug": "borys-tarasyuk",
+  "title": "Borys Tarasyuk",
+  "type": "human",
+  "category": "politics",
+  "aliases": [
+    "Boris Ivanovich Tarasyuk",
+    "Boris Tarasyuk",
+    "Borys Ivanovych Tarasiuk",
+    "Borys Ivanovych Tarasyuk",
+    "Borys Tarasiuk"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1949-01-01",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Romaniv",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "Ukrainian Minister of Foreign Affairs, Ukrainian Minister of Foreign Affairs",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Borys Ivanovych Tarasyuk is a prominent Ukrainian politician who has held the position of Minister for Foreign Affairs of Ukraine on two occasions and currently serves as Ukraine's permanent representative to the Council of Europe since December 2019.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Borys Tarasyuk was born on 1 January 1949. He pursued his studies in international relations and international law at the National [[taras-shevchenko-national-university-of-kyiv|Taras Shevchenko University]] of [[kyiv|Kyiv]], graduating in 1975. In addition to his native [[ukrainian|Ukrainian]], he is proficient in English, French, and Russian. As of 2012, he is a member of the International Honorary Council of the European Academy of Diplomacy and serves as a Senior Network Member at the European Leadership Network (ELN)."
+      ]
+    },
+    {
+      "heading": "Career as Foreign Minister",
+      "paragraphs": [
+        "Tarasyuk began his diplomatic career as deputy foreign minister from 9 March 1992 until 16 September 1995. He served as ambassador to Belgium, Luxembourg, and the Netherlands, as well as [[ukraine|Ukraine]]'s representative to NATO from 1995 to 1998. His first term as foreign minister lasted from 17 April 1998 to 29 September 2000. After a political split with President [[leonid-kuchma|Leonid Kuchma]], he became an advisor to [[viktor-yushchenko|Viktor Yushchenko]] during the 2004 presidential elections. Following the [[orange-revolution|Orange Revolution]], he resumed the role of foreign minister on 4 February 2005, serving under Prime Ministers [[yulia-tymoshenko|Yulia Tymoshenko]], Yuriy Yekhanurov, and [[viktor-yanukovych|Viktor Yanukovych]], advocating for Ukraine's integration with the European Union. Tarasyuk was dismissed by the [[verkhovna-rada|Verkhovna Rada]] on 1 December 2006, but a court ruling on 5 December reversed this decision, allowing him to retain his position, although he faced political conflicts that led to his resignation on 30 January 2007. In 2009, he chaired the Committee of the Verkhovna Rada on issues of European integration."
+      ]
+    },
+    {
+      "heading": "Political Career After Ministerial Role",
+      "paragraphs": [
+        "Tarasyuk was ranked seventh on the electoral list of the Batkivshchina party during the 2012 Ukrainian parliamentary election and was elected to parliament. He was part of the People's Movement of Ukraine, which merged into Batkivshchina on 15 June 2013. He was re-elected in the 2014 parliamentary elections, placing 12th on the Batkivshchina list. Tarasyuk did not participate in the 2019 parliamentary elections. On 24 December 2019, he was appointed by President Volodymyr Zelensky as Ukraine's permanent representative to the Council of Europe."
+      ]
+    },
+    {
+      "heading": "Institute for Euro-Atlantic Cooperation",
+      "paragraphs": [
+        "Borys Tarasyuk is the founder of the Institute for Euro-Atlantic Cooperation (IEAC), a political action committee advocating for Ukraine's membership in NATO and the European Union. The IEAC is funded by Western donations and prominently features the [[flag-of-ukraine|Ukrainian flag]] alongside the logos of NATO and the European Union. Polls indicated that support for NATO membership in Ukraine rose from 18% to 22% in 2007 to 47% by 2014. The IEAC has influenced Ukrainian state policy, exemplified by its report titled Trilateral Plan for Solving the Transnistrian Issue, which led to legislative changes shortly after its publication, backed by the OSCE, the European Union, and the United States."
+      ]
+    },
+    {
+      "heading": "Academic Degrees and Awards",
+      "paragraphs": [
+        "Borys Tarasyuk has received several honors, including the State Order 'For Merits' of I Grade in 2005, Doctor Honoris Causa from the [[ivan-franko|Ivan Franko]] National University of [[lviv|Lviv]] in 2002, and State Orders 'For Merits' of II and III Grades in 1999 and 1996, respectively. He holds the diplomatic rank of Ambassador Extraordinary and Plenipotentiary and has been awarded the highest state honors from Argentina, Brazil, France, Lithuania, Portugal, Sweden, and Venezuela."
+      ]
+    }
+  ],
+  "links_out": [
+    "flag-of-ukraine",
+    "ivan-franko",
+    "kyiv",
+    "leonid-kuchma",
+    "lviv",
+    "orange-revolution",
+    "taras-shevchenko-national-university-of-kyiv",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada",
+    "viktor-yanukovych",
+    "viktor-yushchenko",
+    "yulia-tymoshenko"
+  ],
+  "sources": [
+    {
+      "title": "Borys Tarasyuk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Borys_Tarasyuk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

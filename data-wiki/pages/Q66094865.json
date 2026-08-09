@@ -27,7 +27,7 @@
       }
     ]
   },
-  "summary": "Denys Anatoliiovych Shmyhal, born on 15 October 1975, is a prominent Ukrainian politician and entrepreneur who served as the 18th Prime Minister of Ukraine from 2020 to 2025. His political career includes significant roles in managing Ukraine's response to the COVID-19 pandemic and the defense during the 2022 Russian invasion.",
+  "summary": "Denys Anatoliiovych Shmyhal, born on 15 October 1975, is a prominent [[ukrainian|Ukrainian]] politician and entrepreneur who served as the 18th Prime Minister of Ukraine from 2020 to 2025. His political career includes significant roles in managing Ukraine's response to the COVID-19 pandemic and the defense during the 2022 Russian invasion.",
   "sections": [
     {
       "heading": "Early Life",
@@ -44,9 +44,9 @@
     {
       "heading": "Political Career",
       "paragraphs": [
-        "Shmyhal's political career began in Lviv Oblast, where he held various leading roles from 2009 until December 2013. He served as the Head of the Department of Economics at the Lviv Oblast Administration from 2009 to 2011, and later as Head of the Department of Economic Development, Investment, Trade and Industry in 2013. He was a consultant for a People's Deputy of [[ukraine|Ukraine]] in early 2014 and worked as Deputy Head of the Lviv Oblast regional office of the Ministry of Revenues and Duties from May to December 2014. In the 2014 parliamentary election, he ran as an independent candidate but received only 188 votes. He was also a candidate for the Lviv Oblast Council in the 2015 local elections but was not elected. From 2015 to 2017, he served as Vice President of TVK Lvivkholod and was the Director of Burshtyn TES from 2018 to 2019. He became the Governor of [[ivano-frankivsk|Ivano-Frankivsk]] Oblast on 1 August 2019 and was appointed Minister of Regional Development on 4 February 2020.",
+        "Shmyhal's political career began in [[lviv-oblast|Lviv Oblast]], where he held various leading roles from 2009 until December 2013. He served as the Head of the Department of Economics at the Lviv Oblast Administration from 2009 to 2011, and later as Head of the Department of Economic Development, Investment, Trade and Industry in 2013. He was a consultant for a People's Deputy of [[ukraine|Ukraine]] in early 2014 and worked as Deputy Head of the Lviv Oblast regional office of the Ministry of Revenues and Duties from May to December 2014. In the 2014 parliamentary election, he ran as an independent candidate but received only 188 votes. He was also a candidate for the Lviv Oblast Council in the 2015 local elections but was not elected. From 2015 to 2017, he served as Vice President of TVK Lvivkholod and was the Director of Burshtyn TES from 2018 to 2019. He became the Governor of [[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]] on 1 August 2019 and was appointed Minister of Regional Development on 4 February 2020.",
         "Shmyhal became [[prime-minister-of-ukraine|Prime Minister of Ukraine]] in March 2020, succeeding Oleksiy Honcharuk. His tenure included managing the COVID-19 pandemic response and the defense efforts during the 2022 Russian invasion. He was recognized as one of the 100 most influential [[ukrainians|Ukrainians]] in 2021, ranking 7th on the list.",
-        "On 15 July 2025, he announced his resignation following [[volodymyr-zelenskyy|President Volodymyr Zelenskyy]]'s proposal for a government reshuffle, which included replacing him with Yulia Svyrydenko. His prime ministership lasted over five years, marking the longest tenure in [[ukrainian|Ukrainian]] history."
+        "On 15 July 2025, he announced his resignation following [[volodymyr-zelenskyy|President Volodymyr Zelenskyy]]'s proposal for a government reshuffle, which included replacing him with Yulia Svyrydenko. His prime ministership lasted over five years, marking the longest tenure in [[history-of-ukraine|Ukrainian history]]."
       ]
     },
     {
@@ -63,8 +63,10 @@
     }
   ],
   "links_out": [
-    "ivano-frankivsk",
+    "history-of-ukraine",
+    "ivano-frankivsk-oblast",
     "lviv",
+    "lviv-oblast",
     "prime-minister-of-ukraine",
     "ukraine",
     "ukrainian",

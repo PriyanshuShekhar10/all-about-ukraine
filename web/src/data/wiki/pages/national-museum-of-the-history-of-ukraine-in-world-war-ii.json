@@ -1,0 +1,88 @@
+{
+  "qid": "Q2457600",
+  "slug": "national-museum-of-the-history-of-ukraine-in-world-war-ii",
+  "title": "National Museum of the History of Ukraine in World War II",
+  "type": "architectural structure",
+  "category": "culture",
+  "aliases": [
+    "Museum of The History of Ukraine in World War II",
+    "Museum of the history of Ukraine in the Second World War",
+    "National Museum of the History of Ukraine in the Second World War"
+  ],
+  "infobox": {
+    "label": "architectural structure",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1974-10-17",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Kyiv",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4269, 30.5637",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The National Museum of the History of Ukraine in World War II is a significant memorial complex located in Kyiv, dedicated to commemorating the German-Soviet War. It is notable for its extensive collection and the iconic Mother Ukraine monument, reflecting Ukraine's historical narrative and evolving identity.",
+  "sections": [
+    {
+      "heading": "Location and Establishment",
+      "paragraphs": [
+        "The National Museum of the History of Ukraine in the Second World War is situated in the southern outskirts of the Pecherskyi District of [[kyiv|Kyiv]], on the scenic hills overlooking the [[dnieper|Dnipro River]]. The museum has undergone two relocations before settling in its current site, where it was officially inaugurated on May 9, 1981, by Soviet leader Leonid Brezhnev. On June 21, 1996, it was designated as the National Museum by a decree from [[leonid-kuchma|Leonid Kuchma]], the then-[[president-of-ukraine|President of Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Exhibits and Memorial Complex",
+      "paragraphs": [
+        "The museum is one of the largest in [[ukraine|Ukraine]], housing over 300,000 exhibits, and is centered around the 62-meter tall Mother Ukraine statue, which is a prominent landmark in Kyiv. The memorial complex spans an area of 10 hectares (approximately 24.7 acres) and features several significant elements, including the 'Flame of Glory' bowl, a display of World War II military equipment, and the 'Alley of the Hero Cities', which honors cities recognized for their heroism during the war. The museum's exhibits also include armaments used by the Soviet army after World War II."
+      ]
+    },
+    {
+      "heading": "Mother Ukraine Monument",
+      "paragraphs": [
+        "The Mother Ukraine monument, designed by Yevgeny Vuchetich and Vasyl Borodai, stands at 62 meters tall atop the museum building, with the entire structure reaching 102 meters and weighing 530 tons. The statue features a sword measuring 16 meters in length and weighing 9 tons in its right hand, while the left hand holds a shield measuring 13 by 8 meters, adorned with the coat of arms of Ukraine. Inside the museum, marble plaques honor over 11,600 soldiers and more than 200 home-front workers who were awarded the titles of Hero of the Soviet Union and Hero of Socialist Labor."
+      ]
+    },
+    {
+      "heading": "Name Change and Historical Context",
+      "paragraphs": [
+        "Until July 2015, the museum was officially named the National Museum of the History of the 1941–1945 Great Patriotic War. Following a decree from the [[verkhovna-rada|Verkhovna Rada]] in April 2015, which prohibited the use of the term 'Great Patriotic War' along with Nazi and communist symbols, the museum's name was officially changed on July 16, 2015, as announced by Minister of Culture Vyacheslav Kyrylenko."
+      ]
+    },
+    {
+      "heading": "Recent Developments and Recognition",
+      "paragraphs": [
+        "In the wake of the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], the museum has undergone thematic changes to reflect a new narrative, distancing itself from the Soviet interpretation of the war. In May 2023, the museum was awarded the Judges' Special Recognition Prize at the Museum + Heritage Awards in London for the exhibition project 'Ukraine — Crucifixion', curated by Dr. Jurii Savchuk and featuring artist Anton Logov, recognizing its resilience during ongoing warfare."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "dnieper",
+    "kyiv",
+    "leonid-kuchma",
+    "president-of-ukraine",
+    "ukraine",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "National Museum of the History of Ukraine in the Second World War — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_Museum_of_the_History_of_Ukraine_in_the_Second_World_War",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

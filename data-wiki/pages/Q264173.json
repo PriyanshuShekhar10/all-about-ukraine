@@ -1,0 +1,87 @@
+{
+  "qid": "Q264173",
+  "slug": "yevhen-konovalets",
+  "title": "Yevhen Konovalets",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Yevhen Mykhailovych Konovalets"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1891-06-14",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1938-05-23",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Zashkiv",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Yevhen Mykhailovych Konovalets was a prominent Ukrainian military commander and political leader, instrumental in the Ukrainian nationalist movement during the early 20th century. He is recognized for his leadership in the Ukrainian War of Independence and as the founding leader of the Organisation of Ukrainian Nationalists (OUN).",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Yevhen Konovalets was born on 14 June 1891 in the village of Zashkiv, located in Austro-Hungarian Galicia, which is now part of [[lviv|Lviv]] Raion, [[lviv-oblast|Lviv Oblast]], [[ukraine|Ukraine]]. He attended the Lviv Academic Gymnasium from 1901 to 1909 and later enrolled at the University of Lviv to study law. In 1910, he was involved in a protest advocating for a [[ukrainian|Ukrainian]] university in Lviv, which led to his arrest.",
+        "Konovalets became an active member of the Prosvita society, a Ukrainian cultural-educational organization, and served on the executive committee of the Ukrainian National-Democratic Party. He played a significant role in promoting Ukrainian language education and national consciousness among the populace."
+      ]
+    },
+    {
+      "heading": "First World War (1914-1917)",
+      "paragraphs": [
+        "Konovalets was mobilized in the summer of 1914 and served in the 19th Regiment of the Lviv Regional Defense. He was captured by Russian forces in June 1915 and interned in a prisoner-of-war camp. During his internment, he established the 'Tsaritsyn Ukrainian Council' to engage in social work and organize cultural activities.",
+        "He escaped the camp and returned to [[kyiv|Kyiv]] in July 1917, where he began to build connections with nationalist organizations and advocated for Ukrainian military units."
+      ]
+    },
+    {
+      "heading": "Ukrainian War of Independence (1917-1920)",
+      "paragraphs": [
+        "Konovalets played a crucial role in the [[ukrainian-war-of-independence|Ukrainian War of Independence]], helping to organize the Galician-Bukovinian Kurin of the [[sich-riflemen|Sich Riflemen]]. He assumed command of this unit in late 1917 and led it during significant military engagements, including the liberation of Kyiv.",
+        "He was appointed as the Commander of the Front in January 1919 and faced challenges from various factions, including Bolsheviks and Polish forces. After the dissolution of the Austro-Hungarian Empire, he demobilized his forces and was later captured and interned in a Polish prisoner-of-war camp."
+      ]
+    },
+    {
+      "heading": "Leader of the UVO and Exile (1920-1929)",
+      "paragraphs": [
+        "Following the loss of the independence struggle, Konovalets co-founded the Ukrainian Military Organisation (UVO) in August 1920 in Prague, aimed at armed resistance against Polish and Soviet control. He became the leader of the UVO and was involved in clandestine operations throughout Eastern Europe.",
+        "During his time in exile, he lived in various countries, including Czechoslovakia, Germany, and Italy, while continuing to advocate for Ukrainian independence and military training for youth."
+      ]
+    },
+    {
+      "heading": "Leader of the OUN (1929-1938)",
+      "paragraphs": [
+        "In February 1929, Konovalets became the leader of the Organisation of Ukrainian Nationalists (OUN) following its formation from the consolidation of the UVO and other nationalist groups. He worked to expand the organization's influence among Ukrainian émigrés in Europe and America, focusing on promoting [[ukrainian-nationalism|Ukrainian nationalism]] and independence.",
+        "Konovalets' leadership continued until his assassination by the NKVD in 1938, marking a significant moment in the history of Ukrainian nationalism."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "lviv",
+    "lviv-oblast",
+    "sich-riflemen",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-nationalism",
+    "ukrainian-war-of-independence"
+  ],
+  "sources": [
+    {
+      "title": "Yevhen Konovalets — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yevhen_Konovalets",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

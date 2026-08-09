@@ -1,0 +1,90 @@
+{
+  "qid": "Q1148511",
+  "slug": "transcarpathia",
+  "title": "Transcarpathia",
+  "type": "historical region",
+  "category": "history",
+  "aliases": [
+    "Carpathian Rus'",
+    "Carpathian Ruthenia",
+    "Transcarpathian Ukraine",
+    "Zakarpattia"
+  ],
+  "infobox": {
+    "label": "historical region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Slovakia",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Uzhhorod",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.3333, 23.2333",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Transcarpathia is a historical region primarily located in [[western-ukraine|western Ukraine]]'s Zakarpattia Oblast, characterized by its diverse ethnic composition and complex historical affiliations. It has been part of various states throughout history, including the Kingdom of Hungary, Czechoslovakia, and the Soviet Union, before becoming an integral part of independent Ukraine.",
+  "sections": [
+    {
+      "heading": "Historical Overview",
+      "paragraphs": [
+        "Transcarpathia was predominantly part of the Kingdom of Hungary from the Hungarian conquest of the Carpathian Basin in the late 9th century until the end of World War I, marked by the Treaty of Trianon in 1920. In the interwar years, it became part of the First and Second Czechoslovak Republics, before being annexed again by Hungary prior to World War II.",
+        "After World War II, Transcarpathia was annexed by the Soviet Union and became part of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]]. Following the dissolution of the Soviet Union in 1991, it remained a part of [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Ethnic Composition",
+      "paragraphs": [
+        "The region is known for its ethnic diversity, with inhabitants identifying as ethnic [[ukrainians|Ukrainians]], Rusyns, Hungarians, Romanians, Slovaks, and Poles. Additionally, there are small communities of Jewish and Romani minorities. In 1930, Jews constituted over 13% of the region's population prior to World War II, highlighting its historical demographic richness.",
+        "The primary languages spoken in Transcarpathia include Rusyn, [[ukrainian|Ukrainian]], Hungarian, Romanian, Slovak, and Polish."
+      ]
+    },
+    {
+      "heading": "Toponymy and Regional Identity",
+      "paragraphs": [
+        "The term 'Carpathian Ruthenia' is sometimes used to describe the contiguous area of Ukraine, Slovakia, and Poland inhabited by Ruthenians. The local population identifies in various ways, with some considering themselves Rusyns and others identifying as both Rusyns and Ukrainians. The name Zakarpattia, meaning 'beyond the [[carpathians|Carpathian mountains]],' is commonly used by the residents.",
+        "During the Hungarian administration, the region was referred to as Kárpátalja, while under Czechoslovak rule, it was known as Subcarpathian Rus or Subcarpathian Ukraine."
+      ]
+    },
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Transcarpathia is situated on the southern slopes of the eastern Carpathian Mountains, bordered by the Tisza River to the east and south, and the Hornád and Poprad Rivers to the west. It shares borders with Poland, Slovakia, Hungary, and Romania, and is part of the Pannonian Plain.",
+        "The region is predominantly rural and characterized by mountainous landscapes, with major urban centers including [[uzhhorod|Uzhhorod]] and Mukachevo, each with populations around 100,000."
+      ]
+    },
+    {
+      "heading": "Historical Cultures and Settlement",
+      "paragraphs": [
+        "The region has a rich prehistoric heritage, with evidence of the Stanove culture in the Late Bronze Age and subsequent influences from Thracians and Celts. Slavic settlement began in the 2nd century BCE, with the White Croats establishing a presence by the 8th and 9th centuries.",
+        "The arrival of the Hungarians in 896 marked a significant shift, as they established control over the area, which became a borderland between the Kingdom of Hungary and [[kievan-rus|Kievan Rus]]'."
+      ]
+    }
+  ],
+  "links_out": [
+    "carpathians",
+    "kievan-rus",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainians",
+    "uzhhorod",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Transcarpathia — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Transcarpathia",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

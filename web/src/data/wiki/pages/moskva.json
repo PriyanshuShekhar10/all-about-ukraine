@@ -20,7 +20,7 @@
       }
     ]
   },
-  "summary": "Moskva, previously known as Slava, was a guided missile cruiser of the Russian Navy, commissioned in 1983 and serving as the flagship of the Black Sea Fleet. Its involvement in the Russo-Ukrainian War, particularly during the 2022 invasion of Ukraine, marked a significant chapter in its operational history.",
+  "summary": "Moskva, previously known as Slava, was a guided missile cruiser of the Russian Navy, commissioned in 1983 and serving as the flagship of the Black Sea Fleet. Its involvement in the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]], particularly during the 2022 invasion of Ukraine, marked a significant chapter in its operational history.",
   "sections": [
     {
       "heading": "Construction and Early History",
@@ -37,7 +37,7 @@
     {
       "heading": "Role in the Russo-Ukrainian War",
       "paragraphs": [
-        "During the 2022 Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], Moskva played a critical role in the naval assault from February until April 2022. It was involved in the attack on Snake Island, where it demanded the surrender of the Ukrainian garrison, which famously responded with a defiant message. Moskva provided air cover for Russian naval operations in the Black Sea."
+        "During the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], Moskva played a critical role in the naval assault from February until April 2022. It was involved in the attack on [[snake-island|Snake Island]], where it demanded the surrender of the Ukrainian garrison, which famously responded with a defiant message. Moskva provided air cover for Russian naval operations in the Black Sea."
       ]
     },
     {
@@ -54,9 +54,11 @@
     }
   ],
   "links_out": [
+    "2022-russian-invasion-of-ukraine",
     "full-scale-russo-ukrainian-war",
     "mykolaiv",
     "russian-annexation-of-crimea",
+    "snake-island",
     "ukraine",
     "ukrainian",
     "ukrainian-soviet-socialist-republic"

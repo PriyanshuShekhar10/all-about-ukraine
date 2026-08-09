@@ -1,0 +1,79 @@
+{
+  "qid": "Q16942189",
+  "slug": "azov-brigade",
+  "title": "Azov Brigade",
+  "type": "paramilitary organization",
+  "category": "war",
+  "aliases": [
+    "Azov Battalion",
+    "Azov Special Operations Detachment",
+    "Azov movement",
+    "azov.org.ua"
+  ],
+  "infobox": {
+    "label": "paramilitary organization",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2014-05-05",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The 12th Special Forces Brigade 'Azov' is a unit of the National Guard of Ukraine, originally established as the Azov Battalion in May 2014 to combat Russian-backed forces in the Donbas region. It has been involved in significant military engagements, particularly during the siege of Mariupol, and has drawn attention for its controversial associations and ideological background.",
+  "sections": [
+    {
+      "heading": "Formation and Early History",
+      "paragraphs": [
+        "The 12th Special Forces Brigade 'Azov', known as the Azov Battalion at its inception, was founded in May 2014 by Andriy Biletsky and a group of activists from various far-right organizations, including the Patriot of [[ukraine|Ukraine]] and the Social-National Assembly. The unit was established to counter the pro-Russian separatist movement in the [[donbas|Donbas]] region amid the ongoing conflict in Ukraine.",
+        "Initially a self-funded militia, the Azov Battalion was officially integrated into the [[national-guard-of-ukraine|National Guard of Ukraine]] on 11 November 2014, becoming the Special Operations Detachment 'Azov'. In February 2023, the [[ukrainian|Ukrainian]] [[ministry-of-internal-affairs-of-ukraine|Ministry of Internal Affairs]] announced plans to expand the unit into a brigade as part of the new Offensive Guard."
+      ]
+    },
+    {
+      "heading": "Military Engagements",
+      "paragraphs": [
+        "The Azov Battalion first saw combat during the First Battle of [[mariupol|Mariupol]] in May 2014, where it played a crucial role in retaking the city from separatist forces. The battalion was involved in subsequent battles, including the [[battle-of-ilovaisk|Battle of Ilovaisk]] and the Second Battle of Mariupol, where it faced significant challenges and heavy losses.",
+        "During the [[siege-of-mariupol|siege of Mariupol]] in 2022, the Azov regiment gained renewed attention as it made its final stand at the Azovstal steel plant, eventually surrendering to Russian forces under orders from the Ukrainian high command."
+      ]
+    },
+    {
+      "heading": "Controversies and Ideological Associations",
+      "paragraphs": [
+        "The Azov Brigade has been a subject of controversy due to its early associations with far-right groups and alleged neo-Nazi ideology. Observers have noted a government strategy to integrate such militias into the regular military while attempting to mitigate their ideological influence.",
+        "Since its incorporation into the National Guard, opinions vary on whether the unit has distanced itself from its far-right roots. Some experts argue that it has depoliticized, while others maintain that it retains connections to extremist ideologies."
+      ]
+    },
+    {
+      "heading": "Current Status and Structure",
+      "paragraphs": [
+        "As of April 2025, the Azov Brigade is part of the newly formed 1st Azov Corps, led by Denys Prokopenko, a former commander of the Azov Brigade. The unit's size was estimated at approximately 2,500 combatants in 2017, decreasing to around 900 by 2022, with a majority of its members being Russian speakers from various [[administrative-territorial-entity-of-ukraine|regions of Ukraine]].",
+        "The brigade has been designated as a terrorist group by Russia since August 2022, following which Russian authorities initiated trials against captured Azov fighters."
+      ]
+    }
+  ],
+  "links_out": [
+    "administrative-territorial-entity-of-ukraine",
+    "battle-of-ilovaisk",
+    "donbas",
+    "mariupol",
+    "ministry-of-internal-affairs-of-ukraine",
+    "national-guard-of-ukraine",
+    "siege-of-mariupol",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Azov Brigade — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Azov_Brigade",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

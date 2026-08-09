@@ -1,0 +1,92 @@
+{
+  "qid": "Q315518",
+  "slug": "nikolay-aleksandrovich-tikhonov",
+  "title": "Nikolay Aleksandrovich Tikhonov",
+  "type": "human",
+  "category": "politics",
+  "aliases": [
+    "Nikolai Aleksandrovich Tikhonov",
+    "Nikolai Tikhonov"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1905-05-01",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1997-06-01",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Kharkiv",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "Chairman of the Council of Ministers of the USSR, First Deputy Chairman of the Council of Ministers of the USSR",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Nikolay Aleksandrovich Tikhonov was a prominent Soviet Russian-Ukrainian statesman who played a significant role during the Cold War, particularly as Chairman of the Council of Ministers from 1980 to 1985. His political career began in Ukraine, and he was influential in the economic and cultural administration of the Soviet Union during a period of stagnation.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Nikolay Aleksandrovich Tikhonov was born on 14 May 1905 in the city of [[kharkiv|Kharkiv]], [[ukraine|Ukraine]], into a Russian-[[ukrainian|Ukrainian]] working-class family. He graduated from the St. Catherine Institute of Communications in 1924 and worked as an assistant engineer from 1924 to 1926. In 1930, he earned an engineering degree from the [[dnipro|Dnipropetrovsk]] Metallurgical Institute and subsequently worked at the Lenin Metallurgical Plant in Dnipropetrovsk, where he became the chief engineer in January 1941."
+      ]
+    },
+    {
+      "heading": "Political Career",
+      "paragraphs": [
+        "Tikhonov began his political career in local industry and ascended through the ranks of Soviet industrial ministries. He joined the All-Union Communist Party (bolsheviks) in 1940 and became a plant director by the end of the decade. He was appointed deputy chairman of the Gosplan in 1963 and later became First Deputy Chairman of the Council of Ministers from 1976 to 1980. In 1980, he was elected Chairman of the Council of Ministers, a position he held until 1985."
+      ]
+    },
+    {
+      "heading": "Premiership (1980–1985)",
+      "paragraphs": [
+        "During his tenure as Chairman, Tikhonov did not implement significant reforms to address the stagnating Soviet economy. He presented the Eleventh Five-Year Plan at the 26th Party Congress, acknowledging issues such as insufficient agricultural output and demographic challenges. Despite his admission of economic shortcomings, he maintained a stance that dismissed the notion of a crisis."
+      ]
+    },
+    {
+      "heading": "Later Political Developments",
+      "paragraphs": [
+        "Following the death of Leonid Brezhnev and the rise of Yuri Andropov and Konstantin Chernenko, Tikhonov remained a key figure in Soviet politics. However, he faced challenges, including speculation about his replacement. With the ascension of Mikhail Gorbachev, Tikhonov's influence waned, and he was compelled to retire from active politics in 1989."
+      ]
+    },
+    {
+      "heading": "Later Life and Legacy",
+      "paragraphs": [
+        "After retiring, Tikhonov lived a secluded life and expressed regret for supporting Gorbachev's leadership. He passed away on 1 June 1997 and was buried at Novodevichy Cemetery. Although he received numerous awards during his lifetime, including the Hero of Socialist Labour and multiple Orders of Lenin, his legacy is not widely remembered today. A bust in his honor was erected in Kharkiv but was dismantled following the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Awards and Honors",
+      "paragraphs": [
+        "Tikhonov received several accolades throughout his career, including the Hero of Socialist Labour in 1975 and 1982, nine Orders of Lenin, the Order of the October Revolution, two Orders of the Red Banner, the Order of the Red Star, and two [[donetsk|Stalin]] Prizes for his contributions to Soviet industry."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnipro",
+    "donetsk",
+    "full-scale-russo-ukrainian-war",
+    "kharkiv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Nikolai Tikhonov — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nikolai_Tikhonov",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

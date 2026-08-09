@@ -1,0 +1,106 @@
+{
+  "qid": "Q43718",
+  "slug": "nikolai-gogol",
+  "title": "Nikolai Gogol",
+  "type": "human",
+  "category": "history",
+  "aliases": [
+    "En Gogolli",
+    "Geguoli",
+    "Gogolʹ",
+    "Guogeli",
+    "Ko-kuo-li",
+    "Kuo-ko-li",
+    "Mikołaj Gogol",
+    "Mykola Vasylʹovych Hoholʹ",
+    "N. Gogolis",
+    "N. V. Gogolj",
+    "N. V. Gogolʹ",
+    "N. V. Hohalʹ",
+    "Nicholai V. Gogol",
+    "Nicolai Gogol",
+    "Nicolai Vasilievitch Gogol",
+    "Nicolas Gogol",
+    "Nicolaus Gogol",
+    "Nikolai Vasil'evich Gogol",
+    "Nikolai Vasilyevich Gogol",
+    "Nikolai Vasil´evich Gogol´",
+    "Nikolaj Gogolj",
+    "Nikolaj Gogolʹ",
+    "Nikolaus Gogol",
+    "Nikolay Gogol",
+    "Nikolay Gogol'",
+    "Nikolay Vasil'yevich Gogol",
+    "Nikolay Vasil'yevich Gogol'",
+    "Nikolay Vasilyevich Gogol",
+    "Nikolaĭ Vasilʹevich Gogolʹ"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1809-03-19",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1852-02-21",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Velyki Sorochyntsi",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Nikolai Vasilyevich Gogol (1 April [O.S. 20 March] 1809 – 4 March [O.S. 21 February] 1852) was a prominent novelist, short-story writer, and playwright with Ukrainian roots, whose works have significantly influenced both Russian and [[ukrainian-literature|Ukrainian literature]].",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Nikolai Gogol was born in the [[ukrainian|Ukrainian]] Cossack town of Sorochyntsi, located in the [[poltava|Poltava]] Governorate of the Russian Empire. His maternal lineage traced back to Leonty Kosyarovsky, an officer in the Lubny Regiment from 1710, while his father, Vasily Gogol-Yanovsky, who passed away when Gogol was 15, was believed to descend from [[zaporozhian-cossacks|Ukrainian Cossacks]] and owned the village of Vasylivka, now known as Hoholeve.",
+        "Gogol's family was trilingual, speaking Ukrainian, Russian, and Polish, the latter primarily for reading. His mother called him Nikola, a blend of the Russian Nikolai and the Ukrainian Mykola. As a child, Gogol participated in staging plays in his uncle's home theater.",
+        "In 1820, Gogol attended a higher art school in Nezhin (now Nizhyn Gogol State University), where he began his writing career. Although he was not well-liked by his classmates, he formed a few lasting friendships. His early years were marked by a secretive nature and a strong ambition."
+      ]
+    },
+    {
+      "heading": "Literary Development",
+      "paragraphs": [
+        "Gogol's time in St. Petersburg prompted him to reassess his identity amid rising Russian nationalism. Initially using the surname Gogol-Ianovskii, he eventually simplified it to Gogol. In 1831, his first volume of Ukrainian stories, Evenings on a Farm Near Dikanka, was published under the pseudonym 'Rudy Panko' and achieved immediate success.",
+        "Despite writing in Russian, Gogol's works reflected Ukrainian themes and characteristics, leading critics to classify him as a regional Ukrainian writer. His passion for Ukrainian Cossack history culminated in the fictional story Taras Bulba. Gogol's early prose shared similarities with the works of contemporary Ukrainian writers, yet his satire was more sophisticated.",
+        "In 1834, Gogol was appointed Professor of Medieval History at the University of St. Petersburg, a role he was ill-prepared for, leading to a disastrous performance. His literary breakthrough came with the premiere of The Government Inspector on 19 April 1836, which established his reputation as a significant satirist."
+      ]
+    },
+    {
+      "heading": "Later Life",
+      "paragraphs": [
+        "From 1836 to 1848, Gogol lived abroad, particularly in Italy, where he developed a love for art and opera. The death of his friend Alexander Pushkin deeply affected him, and he focused on his major work, Dead Souls, during this period.",
+        "After returning to Russia in April 1848, Gogol spent his final years in a state of restlessness, visiting friends and maintaining connections with his Ukrainian heritage. His spiritual relationship with Matvey Konstantinovsky intensified during this time, contributing to his declining mental health."
+      ]
+    },
+    {
+      "heading": "Death and Legacy",
+      "paragraphs": [
+        "Gogol's health deteriorated due to extreme ascetic practices, leading to depression. He burned several manuscripts, including parts of Dead Souls, believing he was tricked by the Devil. He passed away on 4 March 1852, after a period of refusing food.",
+        "Initially buried at the Danilov Monastery, Gogol's remains were later transferred to Novodevichy Cemetery in 1931. His grave became the subject of conspiracy theories due to the manner of his burial. In 2009, to commemorate the bicentennial of his birth, his original grave marker was restored, and his contributions to literature were recognized internationally."
+      ]
+    }
+  ],
+  "links_out": [
+    "poltava",
+    "ukrainian",
+    "ukrainian-literature",
+    "zaporozhian-cossacks"
+  ],
+  "sources": [
+    {
+      "title": "Nikolai Gogol — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nikolai_Gogol",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

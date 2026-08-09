@@ -50,7 +50,7 @@
       }
     ]
   },
-  "summary": "Kryvyi Rih is a significant city located in central Ukraine, serving as the administrative center of Kryvyi Rih Raion in [[dnipro|Dnipropetrovsk]] Oblast. With a population of approximately 603,904 as of 2022, it ranks as the seventh-most populous city in Ukraine and is notable for its extensive industrial history and geographical features.",
+  "summary": "Kryvyi Rih is a significant city located in central Ukraine, serving as the administrative center of Kryvyi Rih Raion in [[dnipropetrovsk-oblast|Dnipropetrovsk Oblast]]. With a population of approximately 603,904 as of 2022, it ranks as the seventh-most populous city in Ukraine and is notable for its extensive industrial history and geographical features.",
   "sections": [
     {
       "heading": "Geography and Demographics",
@@ -62,7 +62,7 @@
     {
       "heading": "Historical Background",
       "paragraphs": [
-        "Founded in 1775 as a military staging post, Kryvyi Rih's early history is closely tied to the Zaporozhian [[cossacks|Cossacks]], who named the area 'Kryvyi Rih', meaning 'crooked horn' or 'curved cape'.",
+        "Founded in 1775 as a military staging post, Kryvyi Rih's early history is closely tied to the [[zaporozhian-cossacks|Zaporozhian Cossacks]], who named the area 'Kryvyi Rih', meaning 'crooked horn' or 'curved cape'.",
         "The city gained its official status in 1919 and underwent significant urban-industrial growth in the late 19th century due to investments from Belgium, France, and Britain in the local iron-ore deposits known as Kryvbas."
       ]
     },
@@ -90,11 +90,11 @@
   ],
   "links_out": [
     "arcelormittal-kryvyi-rih",
-    "cossacks",
-    "dnipro",
+    "dnipropetrovsk-oblast",
     "donetsk",
     "full-scale-russo-ukrainian-war",
-    "ukraine"
+    "ukraine",
+    "zaporozhian-cossacks"
   ],
   "sources": [
     {

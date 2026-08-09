@@ -1,0 +1,84 @@
+{
+  "qid": "Q363846",
+  "slug": "boris-nemtsov",
+  "title": "Boris Nemtsov",
+  "type": "human",
+  "category": "politics",
+  "aliases": [
+    "Boris Nemcov",
+    "Boris Yefimovich Nemtsov"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1959-10-09",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "2015-02-27",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Sochi",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "First Deputy Chairman of the Government of the Russian Federation, Governor of Nizhny Novgorod Oblast",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Boris Yefimovich Nemtsov was a prominent Russian physicist and politician, known for his liberal stance and opposition to Vladimir Putin. His political activities and criticisms extended to issues affecting Ukraine, particularly during the Russian military intervention.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Boris Yefimovich Nemtsov was born on 9 October 1959 in Sochi, to Yefim Davidovich Nemtsov and Dina Yakovlevna Nemtsova. Raised in Gorky, now Nizhny Novgorod, he experienced his parents' divorce at a young age. His mother was a physician and he was baptized as an Orthodox Christian, although he discovered this later in life."
+      ]
+    },
+    {
+      "heading": "Academic Background",
+      "paragraphs": [
+        "Nemtsov studied physics at State University of Gorky from 1976 to 1981, earning his degree in 1981. He completed his PhD in Physics and Mathematics in 1985 and worked as a research fellow until 1990, publishing over 60 academic works in fields such as quantum physics and thermodynamics."
+      ]
+    },
+    {
+      "heading": "Political Career",
+      "paragraphs": [
+        "Nemtsov began his political career in the late 1980s, organizing protests against nuclear projects following the [[chernobyl-disaster|Chernobyl disaster]]. He became the first governor of Nizhny Novgorod Oblast from 1991 to 1997, implementing significant economic reforms that earned him recognition from international leaders, including former British Prime Minister Margaret Thatcher. He was a key figure in various political movements, co-founding the Young Russia movement and the Union of Right Forces.",
+        "Throughout the 1990s and early 2000s, Nemtsov was a vocal critic of Vladimir Putin's government, highlighting issues such as corruption and the erosion of democratic principles. His opposition included vocal criticism of Russia's military actions in [[ukraine|Ukraine]], which he condemned as part of a broader authoritarian trend."
+      ]
+    },
+    {
+      "heading": "Assassination and Legacy",
+      "paragraphs": [
+        "On 27 February 2015, Nemtsov was assassinated near the Kremlin in Moscow, shortly after he had been organizing a rally against Russia's military involvement in Ukraine. He was compiling evidence of Russian troops fighting alongside pro-Russian rebels in eastern Ukraine at the time of his death. His assassination raised international concern and highlighted the dangers faced by political dissidents in Russia."
+      ]
+    },
+    {
+      "heading": "Connection to Ukraine",
+      "paragraphs": [
+        "Nemtsov's political activities included significant engagement with [[ukrainian|Ukrainian]] politics, particularly during the 2004 Ukrainian presidential elections, where he expressed strong support for democratic movements. His critiques of Russian military actions in Ukraine underscored his commitment to democratic values and human rights in the region."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernobyl-disaster",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Boris Nemtsov — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boris_Nemtsov",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

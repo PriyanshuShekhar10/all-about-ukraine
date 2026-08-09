@@ -1,0 +1,94 @@
+{
+  "qid": "Q155868",
+  "slug": "snake-island",
+  "title": "Snake Island",
+  "type": "island",
+  "category": "war",
+  "aliases": [
+    "Island of Achilles",
+    "Leuce",
+    "Serpent Island",
+    "Snake Island, Romania",
+    "White Island",
+    "Zmiinyi Island"
+  ],
+  "infobox": {
+    "label": "island",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "0",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "0",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "41",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "45.2550, 30.2042",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Snake Island, also referred to as Serpent Island, is a Ukrainian island in the Black Sea that plays a significant role in defining Ukraine's territorial waters. Historically significant and strategically important, the island has been involved in various geopolitical disputes and conflicts, particularly between Ukraine and Romania.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Snake Island is situated 35 kilometers from the coast, east of the Danube River's mouth. The island covers an area of 0.205 square kilometers and has a maximum diameter of approximately 700 meters, with its highest point reaching 41 meters above sea level.",
+        "The geological composition includes Silurian and Devonian sedimentary rocks, primarily consisting of metamorphosed quartzite conglomerate-breccias. The island features cliffs that rise up to 25 meters high and is characterized by a wavy monocline structure oriented northeast.",
+        "The nearest [[ukrainian|Ukrainian]] coastal location is Kubanskyi Island, located 35 kilometers away, while the closest Romanian coastal city is Sulina, situated 45 kilometers from the island. The Ukrainian city of Vylkove lies 50 kilometers away, with Ust-Dunaisk being closer at 44 kilometers.",
+        "The waters surrounding Snake Island are home to 58 fish species, including 12 listed in the Red Data Book of [[ukraine|Ukraine]], as well as six crab species. A presidential decree on December 9, 1998, designated the island and its coastal waters as a state-protected area, covering a total of 232 hectares."
+      ]
+    },
+    {
+      "heading": "Population and Infrastructure",
+      "paragraphs": [
+        "The island's only settlement, Bile, is home to around 100 residents, primarily consisting of frontier guard servicemen and their families. In 2003, the [[odesa|Odesa]] I. I. Mechnikov National University established a marine research station on the island, where research on local fauna, flora, geology, and meteorology is conducted.",
+        "Under a 1997 treaty between Romania and Ukraine, military infrastructure on the island was dismantled and transferred to civilian use. In February 2007, the [[verkhovna-rada|Verkhovna Rada]] approved the establishment of a rural settlement to enhance the island's status.",
+        "Infrastructure improvements include a pier for ships, a helicopter platform, and a dual solar/diesel power station. The island is equipped with a lighthouse, a post office, a bank branch, a first-aid station, and communication facilities, although it lacks a fresh water source."
+      ]
+    },
+    {
+      "heading": "Lighthouse",
+      "paragraphs": [
+        "The Snake Island Lighthouse, constructed in the autumn of 1842 by the Russian Empire's Black Sea Fleet, stands 12 meters tall and is located near the island's highest point. The lighthouse replaced a previously existing temple dedicated to Achilles, remnants of which were discovered in 1823.",
+        "The lighthouse has undergone several upgrades over the years, including the installation of new lamps and a radio beacon in 2004, enhancing its navigational capabilities."
+      ]
+    },
+    {
+      "heading": "History and Mythology",
+      "paragraphs": [
+        "Historically, Snake Island was known as Leuke by the Greeks and was associated with the hero Achilles, who was said to have a temple on the island. Various ancient texts reference the island's significance in Greek mythology, including its connection to Achilles and the offerings made in his honor.",
+        "During the Ottoman Empire, the island was renamed Fidonisi and was the site of the naval Battle of Fidonisi in 1788. Following the Russo-Turkish War of 1828–1829, the island became part of the Russian Empire."
+      ]
+    }
+  ],
+  "links_out": [
+    "odesa",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Snake Island (Ukraine) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Snake_Island_(Ukraine)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

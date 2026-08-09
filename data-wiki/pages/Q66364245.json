@@ -1,0 +1,66 @@
+{
+  "qid": "Q66364245",
+  "slug": "ukrainian-folk-music",
+  "title": "Ukrainian folk music",
+  "type": "music by ethnic group",
+  "category": "people",
+  "aliases": [
+    "Ukrainian traditional music"
+  ],
+  "infobox": {
+    "label": "music by ethnic group",
+    "fields": []
+  },
+  "summary": "Ukrainian folk music encompasses various forms of traditional, folkloric, and folk-inspired popular music, as well as European classical music traditions. It has played a significant role in the cultural identity of Ukraine, particularly through its vocal and instrumental practices.",
+  "sections": [
+    {
+      "heading": "Overview of Ukrainian Folk Music",
+      "paragraphs": [
+        "Ukrainian folk music includes a range of traditional, folkloric, folk-inspired popular music, and folk-inspired European classical music traditions. In the 20th century, numerous ethnographic and folkloric musical ensembles were established in [[ukraine|Ukraine]], gaining popularity despite the restrictions imposed during the Soviet era."
+      ]
+    },
+    {
+      "heading": "Vocal Music",
+      "paragraphs": [
+        "A distinctive style of singing known as The White voice ([[ukrainian|Ukrainian]]: Білий голос) has been developed, particularly in Eastern Ukraine. This style utilizes the chest register and resembles controlled yelling, characterized by a limited vocal range.",
+        "Ensemble singing, often in three or four-part harmony, was a hallmark of traditional village [[music-of-ukraine|music in Ukraine]], especially in Central Ukraine, where it was unique at the turn of the 19th century. Post-1980s, there has been a revival of authentic ensemble singing in Eastern Ukraine, with notable groups such as Dyke Pole and Bozhychi.",
+        "The Okhmatynsky Village Folk Choir, established in 1889 by Dr. Mykola Demutsky, was the first folkloric ensemble in Ukraine. Prominent professional groups include the State Academic Merited Ukrainian Folk Choir named after Hryhoriy Veryovka (established 1943) and regional ensembles such as Veselka (est. 1987, [[poltava|Poltava]]) and [[donbas|Donbas]] (est. 1937, [[donetsk|Donetsk]])."
+      ]
+    },
+    {
+      "heading": "Traditional Instrumental Music",
+      "paragraphs": [
+        "Ukraine boasts a rich tradition of instrumental music and a diverse array of folk instruments. The Soviet regime's discouragement of religious music led to the promotion of traditional village music.",
+        "Scholarship on Ukrainian folk instrumental music began with composer [[mykola-lysenko|Mykola Lysenko]] in 1874 and continued with ethnomusicologists like Filaret Kolessa and Klyment Kvitka. The study of folk instruments faced challenges under Soviet authority, particularly with Hnat Khotkevych's banned 1930 monograph.",
+        "Ukrainian folk instruments include idiophones such as briazalnytsia and bubon, membranophones like lytavry and baraban, string instruments such as [[bandura|bandura]] and kobza, and wind instruments like sopilka and [[trembita|trembita]]."
+      ]
+    },
+    {
+      "heading": "Influence and Legacy",
+      "paragraphs": [
+        "Ukrainian folk music has significantly influenced the music of neighboring countries, with many melodies becoming popular in Poland, Slovakia, and Romania. The interaction with Eastern European Jewish communities has also led to the introduction of Ukrainian folk songs into North American culture.",
+        "Ukrainian composers like Lysenko and Myroslav Skoryk have incorporated folk themes into their works. In the late 1960s and early 1970s, elements of Ukrainian folk music began to appear in pop and rock genres, leading to the emergence of folk-inspired pop music."
+      ]
+    }
+  ],
+  "links_out": [
+    "bandura",
+    "donbas",
+    "donetsk",
+    "music-of-ukraine",
+    "mykola-lysenko",
+    "poltava",
+    "trembita",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian folk music — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_folk_music",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

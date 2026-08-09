@@ -1,0 +1,90 @@
+{
+  "qid": "Q2628487",
+  "slug": "odesa-film-studio",
+  "title": "Odesa Film Studio",
+  "type": "business",
+  "category": "culture",
+  "aliases": [
+    "Odessa Film Studio"
+  ],
+  "infobox": {
+    "label": "business",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1919",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Russian Empire, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Odesa",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Odesa",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "46.4595, 30.7571",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Odesa Film Studio is a prominent Ukrainian film studio located in Odesa, [[odesa-oblast|Odesa Oblast]], with a history dating back to its founding in 1919. It is one of the oldest film studios in the region and plays a significant role in the Ukrainian film industry.",
+  "sections": [
+    {
+      "heading": "History and Reorganization",
+      "paragraphs": [
+        "Odesa Film Studio was established on May 23, 1919, by the [[odesa|Odesa]] Governorate's Executive Committee from the remnants of earlier cinema studios owned by [[ivan-franko|Myron]] Grossman, Dmitriy Kharitonov, and Borisov. Initially, it operated under the name 'Political film section of political department and of 41st Division of the Red Army', with its first feature film being 'Spiders and flies.' Following the Russian Civil War and the [[ukrainian-war-of-independence|Ukrainian War of Independence]], the studio faced decline as its owners emigrated to escape political persecution. Grossman's studio 'Myrograph' was the oldest film studio in [[ukraine|Ukraine]], having been operational since 1907.",
+        "In 1922, the studio was reorganized into the 'Odesa Film Factory of the All-[[ukrainian|Ukrainian]] Photo Cinema Administration (VUFKU)', becoming the main production facility of VUFKU. An animation studio was created in 1926 by Vyacheslav Levandovskyi and Deviatkin. By 1930, VUFKU was restructured into 'Ukrainafilm' under 'Soyuzkino'. During World War II, the studio was integrated into the Tashkent Film Studio, returning to Odesa by 1954.",
+        "The studio resumed independent film production in 1955, facilitated by Director Alexander Gorky, who invited VGIK graduates to work at the studio. The release of 'Spring on Zarechnaya Street' on November 26, 1956, marked a significant milestone for both the studio and Soviet cinema. In 1979, the studio produced 'The Meeting Place Cannot Be Changed', which became its highest-grossing film and gained popularity across the Soviet Union.",
+        "In 2005, Odesa Film Studio was restructured as a Closed Joint Stock Company, with the government retaining the majority of shares. In 2019, the [[national-bank-of-ukraine|National Bank of Ukraine]] issued a commemorative coin celebrating the studio's 100 years of existence, and a special anniversary stamp was released by the Ukrainian postal service."
+      ]
+    },
+    {
+      "heading": "Description and Facilities",
+      "paragraphs": [
+        "Odesa Film Studio is situated on approximately 7 hectares (17 acres) near the Black Sea in downtown Odesa. The studio comprises three pavilions, measuring 600 square meters (6,500 sq ft), 432 square meters (4,650 sq ft), and 240 square meters (2,600 sq ft). Within the studio complex, there is the Vira Kholodna Film Studio and the Odesa Film School, as well as a movie theater named U-Cinema.",
+        "Adjacent to the studio is the Museum of Cinema, which houses a collection related to the history and production of films at Odesa Film Studio."
+      ]
+    },
+    {
+      "heading": "Cinema Museum",
+      "paragraphs": [
+        "The cinema museum located on the premises of Odesa Film Studio is part of the Odesa branch of the National Union of Cinematographers of Ukraine. The museum's collection includes materials accumulated throughout the studio's history, such as film catalogs, acting test photo albums, information on directors and producers, film equipment, books, newspapers, and film magazines, totaling over twelve thousand storage units."
+      ]
+    },
+    {
+      "heading": "Notable Productions and Directors",
+      "paragraphs": [
+        "Odesa Film Studio has produced numerous films throughout its history, including notable works from the Soviet era such as 'Love's Berries' (1926) and 'The Meeting Place Cannot Be Changed' (1979). Directors associated with the studio include prominent figures like Oleksandr Dovzhenko and Kira Muratova, who have significantly contributed to the Ukrainian and Soviet film landscape.",
+        "In recent years, the studio has continued to produce films relevant to contemporary Ukrainian culture, with notable titles including 'Miracle in the Land of Oblivion' (1991) and 'At the River' (2007)."
+      ]
+    }
+  ],
+  "links_out": [
+    "ivan-franko",
+    "national-bank-of-ukraine",
+    "odesa",
+    "odesa-oblast",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-war-of-independence"
+  ],
+  "sources": [
+    {
+      "title": "Odesa Film Studio — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Odesa_Film_Studio",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

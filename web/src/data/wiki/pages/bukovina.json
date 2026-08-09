@@ -1,0 +1,84 @@
+{
+  "qid": "Q105206",
+  "slug": "bukovina",
+  "title": "Bukovina",
+  "type": "region",
+  "category": "history",
+  "aliases": [
+    "Bukovyna",
+    "Bukowina"
+  ],
+  "infobox": {
+    "label": "region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Chernivtsi",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "6,870",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.0000, 26.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Bukovina is a historical region located at the intersection of Central and Eastern Europe, primarily divided between Romania and Ukraine. The region has a rich cultural heritage influenced by various peoples and has significant historical ties to Ukraine.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Bukovina is situated on the northern slopes of the central Eastern [[carpathians|Carpathians]] and the adjacent plains. The region is predominantly inhabited by Romanians in the southern areas and [[ukrainians|Ukrainians]] in the northern parts.",
+        "The first census recording ethnicity was conducted in 1851, showing a population of 184,718, of which 48.5% were Romanians, 38.1% were Ukrainians, and 13.4% belonged to other ethnic groups. By 1910, the ethnic composition shifted, with Romanians constituting 34% and Ukrainians 42%. In 1930, following the annexation by the Kingdom of Romania, the population reached 839,500, with 43% Romanian and 28% [[ukrainian|Ukrainian]]."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Bukovina's history traces back to its incorporation into [[kievan-rus|Kievan Rus]]' in the 10th century, later becoming part of the Principality of Galicia and then Moldavia in the 14th century. The region was influenced by various cultures, including Turkic, Slavic, and Romance peoples.",
+        "In 1774, after the Russo-Ottoman Treaty of Küçük Kaynarca, Bukovina was captured by the Habsburg Monarchy and officially ceded in 1775. It was organized as a distinct Bukovina District and later became the Duchy of Bukovina from 1849 to 1918."
+      ]
+    },
+    {
+      "heading": "Cultural Heritage",
+      "paragraphs": [
+        "Bukovina is recognized for its ethnic diversity and cultural richness, often referred to as the 'Switzerland of the East'. The region is home to notable painted monasteries, constructed during the reign of Stephen the Great of Moldavia, which are recognized as World Heritage Sites.",
+        "The name 'Bukovina' first appeared in a document from 1392, and its official use began in 1775. The term is derived from the Slavic word for beech tree, reflecting the region's natural landscape."
+      ]
+    },
+    {
+      "heading": "20th Century and Modern Era",
+      "paragraphs": [
+        "In the summer of 1940, the northern part of Bukovina was annexed by the Soviet Union, which led to significant geopolitical changes. The region was briefly recovered by Romania during World War II but was retaken by the Soviet army in 1944.",
+        "Today, the northern half of Bukovina is part of the [[chernivtsi|Chernivtsi]] Oblast in [[ukraine|Ukraine]], while the southern half is in Suceava County, Romania. The historical and cultural connections between Bukovina and Ukraine remain significant."
+      ]
+    }
+  ],
+  "links_out": [
+    "carpathians",
+    "chernivtsi",
+    "kievan-rus",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Bukovina — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bukovina",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

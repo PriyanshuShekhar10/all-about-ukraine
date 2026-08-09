@@ -1,0 +1,92 @@
+{
+  "qid": "Q2381039",
+  "slug": "sviatoshynskyi-district",
+  "title": "Sviatoshynskyi District",
+  "type": "raion of city in Ukraine",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "raion of city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2001-04-27",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "318,400",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "110",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4689, 30.3350",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Sviatoshynskyi District is an urban district located in the western part of Kyiv, [[ukraine|Ukraine]]. Established in 2001, it was formerly known as Leningrad District and is named after the historical neighborhood of Sviatoshyn, which honors the 12th-century Prince Mykola Sviatosha.",
+  "sections": [
+    {
+      "heading": "Geographical Context",
+      "paragraphs": [
+        "Sviatoshynskyi District is situated in the western region of [[kyiv|Kyiv]] and shares borders with four other districts: Podilskyi, Obolonskyi, Solomianskyi, and Shevchenkivskyi. Additionally, it is adjacent to Bucha Raion, which is administratively part of Kyiv Oblast."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The district was formed in 2001, following the renaming of the previous Leningrad District on April 27, 2001. The name Sviatoshyn reflects the historical neighborhood that commemorates Prince Mykola Sviatosha from the 12th century."
+      ]
+    },
+    {
+      "heading": "Neighborhoods",
+      "paragraphs": [
+        "Sviatoshynskyi District encompasses several neighborhoods, including Sviatoshyn, Borshchahivka, Akademmistechko, Aviamistechko, Bilychi, Bratska Borshchahivka, Berkovets, Nyvky 4, Novobilichi, Katerynivka, Zhovtneve, Mykilska Borshchahivka, Pivdenna Borshchahivka, Mykhailivska Borshchahivka, Peremoha, and Galagany."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "The population of Sviatoshynskyi District has shown growth over the years, with recorded figures of 315,410 in 2001, increasing to 327,970 in 2008, and reaching 342,544 by 2020."
+      ]
+    },
+    {
+      "heading": "Healthcare and Sports Facilities",
+      "paragraphs": [
+        "The district is equipped with a variety of healthcare services, including 5 adult and 5 children's polyclinics, a children's clinical hospital, a maternity hospital, and 5 hospitals and dispensaries. For sports, residents have access to 5 stadiums, the Nauka sports complex, 4 children's sports schools, and numerous sports clubs. The TEMP Stadium Sports Complex serves as the main sports center, with reconstruction efforts initiated in 2017 and additional fields completed by June 2019."
+      ]
+    },
+    {
+      "heading": "Unique Administrative Features",
+      "paragraphs": [
+        "Sviatoshynskyi District is notable for being the only [[administrative-territorial-entity-of-ukraine|administrative-territorial]] unit within Kyiv that includes the village of Kotsiubynske, which is an enclave of the city of [[irpin|Irpin]], located in Kyiv Oblast."
+      ]
+    }
+  ],
+  "links_out": [
+    "administrative-territorial-entity-of-ukraine",
+    "irpin",
+    "kyiv",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Sviatoshynskyi District — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sviatoshynskyi_District",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

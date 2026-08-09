@@ -56,7 +56,7 @@
     {
       "heading": "Establishment and Conflict",
       "paragraphs": [
-        "The Luhansk People's Republic (LPR) was created in 2014 when Russian-backed paramilitaries took control of parts of [[luhansk|Luhansk]] Oblast, leading to an ongoing conflict with [[ukraine|Ukraine]] that has lasted for eight years. The LPR declared independence but was frequently described as a puppet state of Russia during the conflict.",
+        "The Luhansk People's Republic (LPR) was created in 2014 when Russian-backed paramilitaries took control of parts of [[luhansk-oblast|Luhansk Oblast]], leading to an ongoing conflict with [[ukraine|Ukraine]] that has lasted for eight years. The LPR declared independence but was frequently described as a puppet state of Russia during the conflict.",
         "The unrest in eastern Ukraine followed the 2014 [[revolution-of-dignity|Revolution of Dignity]], which resulted in Russia's [[russian-annexation-of-crimea|annexation of Crimea]]. Pro-Russian armed separatists seized government buildings and proclaimed the LPR and [[donetsk-peoples-republic|the Donetsk People's Republic]] (DPR) as independent states, igniting the [[war-in-donbas|war in Donbas]], a key front in the broader [[full-scale-russo-ukrainian-war|Russo-Ukrainian war]]."
       ]
     },
@@ -70,7 +70,7 @@
     {
       "heading": "Geography and Administrative Divisions",
       "paragraphs": [
-        "The LPR's 2014 constitution did not clearly define its borders. From 2015 until early 2022, its de facto territory was limited by the Russia–Ukraine border, adjacent [[ukrainian|Ukrainian]] regions, and the contact line established by the [[minsk-agreements|Minsk agreements]]. In February 2022, Russia claimed recognition of the LPR based on assertions to the entire Luhansk region as it was defined within Ukraine.",
+        "The LPR's 2014 constitution did not clearly define its borders. From 2015 until early 2022, its de facto territory was limited by the Russia–Ukraine border, adjacent [[ukrainian|Ukrainian]] regions, and the contact line established by the [[minsk-agreements|Minsk agreements]]. In February 2022, Russia claimed recognition of the LPR based on assertions to the entire [[luhansk|Luhansk]] region as it was defined within Ukraine.",
         "On 14 March 2023, the LPR authorities enacted Law No. 527-III, which established 14 cities of republic significance and 17 districts, mirroring the administrative divisions of Luhansk Oblast prior to 2020, with the exception of the abolition of Popasna Raion."
       ]
     },
@@ -96,6 +96,7 @@
     "donetsk-peoples-republic",
     "full-scale-russo-ukrainian-war",
     "luhansk",
+    "luhansk-oblast",
     "minsk-agreements",
     "revolution-of-dignity",
     "russian-annexation-of-crimea",

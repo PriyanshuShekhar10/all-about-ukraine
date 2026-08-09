@@ -1,0 +1,82 @@
+{
+  "qid": "Q199433",
+  "slug": "coat-of-arms-of-ukrainiae",
+  "title": "Coat of arms of Ukrainiae",
+  "type": "national coat of arms",
+  "category": "people",
+  "aliases": [
+    "Tryzub"
+  ],
+  "infobox": {
+    "label": "national coat of arms",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1992-02-19",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The coat of arms of Ukraine, known as the tryzub, features a blue shield with a golden trident and serves as a significant national symbol. Officially adopted on 19 February 1992, it reflects Ukraine's historical and cultural heritage.",
+  "sections": [
+    {
+      "heading": "Design and Adoption",
+      "paragraphs": [
+        "The coat of arms of [[ukraine|Ukraine]] is characterized by a blue shield adorned with a golden trident, commonly referred to as the tryzub ([[ukrainian|Ukrainian]]: тризуб). This symbol was officially adopted as the small coat of arms on 19 February 1992, while provisions for a greater coat of arms remain unadopted as of May 2026. The small coat of arms was designed by Andriy Grechylo, Oleksii Kokhan, and Ivan Turetskyi, and it is featured on the presidential standard.",
+        "The Ukrainian Heraldry Society considers blue-colored tridents to be an irregular representation. The proposed greater coat of arms combines the small coat of arms with the coat of arms of the Zaporizhian Host, as outlined in Article 20 of the [[constitution-of-ukraine|Constitution of Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "The trident was not recognized as a national symbol until 1917, when prominent historian [[mykhailo-hrushevskyi|Mykhailo Hrushevskyi]] suggested its adoption alongside other historical symbols. On 25 February 1918, the Central [[verkhovna-rada|Rada]] adopted it as the coat of arms of the [[ukrainian-peoples-republic|Ukrainian People's Republic]].",
+        "During the Soviet era from 1919 to 1991, state symbols were aligned with those of the Russian SFSR and the Soviet Union, featuring a hammer and sickle over a rising sun."
+      ]
+    },
+    {
+      "heading": "Cultural Origins",
+      "paragraphs": [
+        "The modern trident symbol was designed in February 1918 by artist Vasyl Krychevsky and has roots in the seals of [[kievan-rus|Kievan Rus]]'. Archaeological evidence of the trident can be traced back to the seals of the Rurik dynasty. It was used on coins issued by Vladimir the Great (r. 980–1015) and appears in various historical artifacts, including church bricks and ceramics.",
+        "Historians have proposed multiple interpretations of the symbol's origin, suggesting it may represent a falcon, an arched bow, the Holy Trinity, or an anchor. Notably, depictions of a falcon with a Christian cross have been found in Old Ladoga, linking the symbol to early Kievan history."
+      ]
+    },
+    {
+      "heading": "Historical Variations and Emblems",
+      "paragraphs": [
+        "The coat of arms has evolved through various historical contexts, including the Principality of Galicia–Volhynia, which featured a lion, and the [[cossack-hetmanate|Cossack Hetmanate]], which used a Cossack with a musket as its emblem. The tryzub gained popularity in the Ukrainian People's Republic and was depicted on currency.",
+        "In the context of military heraldry, the Tryzub commemorates participation on the Eastern Front during World War II, with over 36 units of the Italian Army incorporating it into their coats of arms due to valorous service in Ukraine."
+      ]
+    },
+    {
+      "heading": "Contemporary Usage",
+      "paragraphs": [
+        "The Tryzub is not only a national emblem but also serves as a symbol of Ukrainian identity and heritage. It has been adopted in various forms, including a three-fingered hand salute used in pro-independence demonstrations and by political parties such as Svoboda.",
+        "The coat of arms continues to represent Ukraine's aspirations for sovereignty and cultural identity in the modern era."
+      ]
+    }
+  ],
+  "links_out": [
+    "constitution-of-ukraine",
+    "cossack-hetmanate",
+    "kievan-rus",
+    "mykhailo-hrushevskyi",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Coat of arms of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Coat_of_arms_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

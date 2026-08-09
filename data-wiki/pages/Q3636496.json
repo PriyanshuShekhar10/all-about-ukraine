@@ -1,0 +1,62 @@
+{
+  "qid": "Q3636496",
+  "slug": "battle-of-lwów",
+  "title": "Battle of Lwów",
+  "type": "Wikimedia disambiguation page",
+  "category": "history",
+  "aliases": [
+    "Battle of Lwow"
+  ],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "The term 'Battle of Lwów' refers to several significant military engagements that occurred in and around the city of Lwów (now Lviv, [[ukraine|Ukraine]]), highlighting its strategic importance throughout various historical conflicts.",
+  "sections": [
+    {
+      "heading": "Early Conflicts",
+      "paragraphs": [
+        "The Battle of Lwów in 1675 marked a confrontation where Ottoman forces were defeated by Polish troops led by John III Sobieski.",
+        "Another notable engagement, the Battle of Lwów in 1695, saw Ottoman armies again defeated, this time by Hussars under the command of [[hetman|hetman]] Stanisław Jan Jabłonowski."
+      ]
+    },
+    {
+      "heading": "Great Northern War and World War I",
+      "paragraphs": [
+        "During the Great Northern War, the Storming of Lemberg in 1704 resulted in the capture and looting of Lwów by Swedish forces.",
+        "In World War I, the Battle of Lemberg in 1914, also known as the Battle of Galicia, led to the capture of Lemberg by Russian troops at the war's outset.",
+        "The following year, in 1915, [[lviv|Lviv]] was recaptured by Austria-Hungary during another battle involving the 4th Division."
+      ]
+    },
+    {
+      "heading": "Post-World War I Conflicts",
+      "paragraphs": [
+        "The Battle of Lemberg in 1918 involved urban combat between local Polish residents and the forces of the [[west-ukrainian-peoples-republic|West Ukrainian People's Republic]], reflecting the region's complex national dynamics.",
+        "In 1920, the Battle of Lwów consisted of several weeks of fighting at the city's outskirts between the Polish Army and the Red Army during the Polish–Bolshevik War."
+      ]
+    },
+    {
+      "heading": "World War II Engagements",
+      "paragraphs": [
+        "The Battle of Lwów in 1939 was characterized by a siege of the city by German forces during the Invasion of Poland, leading to its capitulation to the Soviet Union.",
+        "In 1941, Lwów fell to German troops in another significant engagement during World War II.",
+        "The Lvov-Sandomierz Offensive in 1944 represented a Soviet campaign against German forces, while the Lwów Uprising later that year involved the Polish Home Army and Soviet forces capturing the city."
+      ]
+    }
+  ],
+  "links_out": [
+    "hetman",
+    "lviv",
+    "ukraine",
+    "west-ukrainian-peoples-republic"
+  ],
+  "sources": [
+    {
+      "title": "Battle of Lwów — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Lwów",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

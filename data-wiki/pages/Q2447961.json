@@ -42,13 +42,13 @@
     {
       "heading": "Corporate Structure and Operations",
       "paragraphs": [
-        "Ukrnafta operates as a unified production and economic complex, consisting of six oil and gas production departments located in Okhtyrka, [[chernihiv|Chernihiv]], [[poltava|Poltava]], Dolyna, Nadvirna, and Boryslav. The company also has three drilling departments, one oil refinery, and three gas processing factories situated in Hnidyn (Chernihiv Oblast), Kachanivka ([[sumy|Sumy]] Oblast), and Dolyna ([[ivano-frankivsk|Ivano-Frankivsk]] Oblast). As of the end of 2020, Ukrnafta operated 1,813 oil wells and 155 gas wells."
+        "Ukrnafta operates as a unified production and economic complex, consisting of six oil and gas production departments located in Okhtyrka, [[chernihiv|Chernihiv]], [[poltava|Poltava]], Dolyna, Nadvirna, and Boryslav. The company also has three drilling departments, one oil refinery, and three gas processing factories situated in Hnidyn (Chernihiv Oblast), Kachanivka ([[sumy|Sumy]] Oblast), and Dolyna ([[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]]). As of the end of 2020, Ukrnafta operated 1,813 oil wells and 155 gas wells."
       ]
     },
     {
       "heading": "Gas Filling Stations and Educational Initiatives",
       "paragraphs": [
-        "Ukrnafta possesses one of the largest networks of gas filling stations in Ukraine, with 537 stations reported as of December 31, 2014. The company has established 28 regional administrations to enhance the management of these stations. Additionally, it supports several educational institutions, including the Ivano-Frankivsk National Technical University of Oil and Gas and the Drohobych Petroleum Technical School, providing training for future professionals in the oil and gas sector."
+        "Ukrnafta possesses one of the largest networks of gas filling stations in Ukraine, with 537 stations reported as of December 31, 2014. The company has established 28 regional administrations to enhance the management of these stations. Additionally, it supports several educational institutions, including the [[ivano-frankivsk|Ivano-Frankivsk]] National Technical University of Oil and Gas and the Drohobych Petroleum Technical School, providing training for future professionals in the oil and gas sector."
       ]
     },
     {
@@ -69,6 +69,7 @@
     "chernihiv",
     "dnieper",
     "ivano-frankivsk",
+    "ivano-frankivsk-oblast",
     "poltava",
     "sumy",
     "ukraine",

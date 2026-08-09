@@ -1,0 +1,65 @@
+{
+  "qid": "Q4163247",
+  "slug": "dnipro-art-museum",
+  "title": "Dnipro Art Museum",
+  "type": "museum",
+  "category": "culture",
+  "aliases": [
+    "Dnepropetrovsk Art Museum",
+    "Dnipropetrovsk Art Museum"
+  ],
+  "infobox": {
+    "label": "museum",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1914",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.4571, 35.0552",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Dnipro Art Museum, located in [[dnieper|Dnipro]], [[ukraine|Ukraine]], is one of the oldest fine arts museums in the country, housing a diverse collection of approximately 8,500 artworks ranging from the 16th to the 21st centuries.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The establishment of the Dnipro Art Museum was initiated by the [[dnipro|Katerynoslav]] Scientific Society in 1906, with support from artists, art collectors, and various institutions, including the Saint Petersburg Academy of Arts. The museum officially opened in April 1914, coinciding with the centenary of [[taras-shevchenko|Taras Shevchenko]], and aimed to serve as a cultural and educational center for the urban community.",
+        "Initially housed in the City Park area (now Lazar Hloba Park), the museum underwent several relocations, including a period from 1922 to 1936 in Khrinnikov's residence. In 1937, it moved to a four-story building on 21 Shevchenko Street, where it remains today. The museum faced closures during World War II, with some collections surviving despite damage from bombings.",
+        "After the city was liberated from Nazi occupation, the museum reopened in 1947 and began hosting events. In the early 1960s, the Dnipropetrovsk Art School occupied the building until an accidental fire in August 1974 necessitated major renovations, leading to the museum's reopening in July 1978."
+      ]
+    },
+    {
+      "heading": "Collections",
+      "paragraphs": [
+        "The Dnipro Art Museum's collection is organized into two main sections: Russian and [[ukrainian|Ukrainian]] art from the 17th and 18th centuries, and art from the 19th and 20th centuries. Notable works include landscape paintings by artists such as Konstantin Trutovsky, Ivan Aivazovsky, and Ilya Repin, along with sculptures by Vladimir Beklemishev.",
+        "The museum also features Soviet-era artworks by Russian painters and a significant collection of contemporary Ukrainian art. Among its highlights is the work of Mikhail Sapozhnikov, a symbolist artist from Yekaterinoslav. The collection includes nationalized pieces from private collections and displays both decorative and visual arts."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnieper",
+    "dnipro",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Dnipro Art Museum — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dnipro_Art_Museum",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

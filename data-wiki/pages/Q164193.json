@@ -1,0 +1,114 @@
+{
+  "qid": "Q164193",
+  "slug": "lviv-oblast",
+  "title": "Lviv Oblast",
+  "type": "oblast of Ukraine",
+  "category": "politics",
+  "aliases": [
+    "L’vivshchyna",
+    "L’vivs’ka oblast’"
+  ],
+  "infobox": {
+    "label": "oblast of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1939-12-04",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Lviv",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "2,533,384",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "21,833",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Head of government",
+        "value": "Oleh Synyutka, Q65199253",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.7175, 23.9503",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Lviv Oblast is an administrative region in [[western-ukraine|western Ukraine]], centered around the city of Lviv, with a population estimated at 2,478,133 in 2022. The oblast is significant for its rich history, diverse geography, and cultural heritage, reflecting the region's complex past and its role in contemporary Ukraine.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Lviv Oblast derives its name from the city of [[lviv|Lviv]], established in the 13th century by Daniel of Galicia, who named it after his son, Leo. This city became the capital of the historical region of Galicia-Volhynia, which was a prominent kingdom in Eastern Europe during that era.",
+        "The oblast's strategic location has led to its frequent change of governance throughout history. Initially inhabited by the Lendians, it experienced rule by various entities including Great Moravia, Poland, [[kievan-rus|Kievan Rus]]', and the Kingdom of Galicia-Volhynia. From 1340 to 1772, it was under the control of the Kingdom of Poland and the Polish–Lithuanian Commonwealth. After the First Partition of Poland in 1772, it became part of the Austro-Hungarian Empire until 1918, followed by a brief period under the [[west-ukrainian-peoples-republic|West Ukrainian People's Republic]] and Poland until 1939.",
+        "On December 4, 1939, Lviv Oblast was established as part of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]] after the Soviet invasion of eastern Poland. The region experienced significant turmoil during World War II, including occupation by Nazi Germany from 1941 to 1944, which resulted in the deaths of a large portion of the Jewish population."
+      ]
+    },
+    {
+      "heading": "Geography and Climate",
+      "paragraphs": [
+        "Lviv Oblast features a diverse landscape, with the southern region characterized by the Beskids mountain range, which is part of the Eastern [[carpathians|Carpathians]] and includes the highest point, Pikui, at 1,408 meters. The northern areas consist of the upper [[dniester|Dniester]] and San River valleys, which are prone to flooding due to their flat alluvial plains.",
+        "The climate in Lviv Oblast is moderately cool and humid, with average January temperatures ranging from −7 °C in the Carpathians to −3 °C in the river valleys. July temperatures vary from 14–15 °C in the Carpathians to 19 °C in the lower Dniester valley. The region receives significant precipitation, particularly in the summer, making it suitable for agriculture, especially for crops like sugar beets and winter wheat."
+      ]
+    },
+    {
+      "heading": "Demographics and Language",
+      "paragraphs": [
+        "As of the 2001 [[ukrainian|Ukrainian]] census, ethnic [[ukrainians|Ukrainians]] comprised 94.8% of Lviv Oblast's population, with ethnic Russians at 3.6% and ethnic Poles at 0.7%. The region has seen a decline in the Polish population, attributed to the [[ukrainization|Ukrainization]] processes following [[ukraine|Ukraine]]'s independence in 1991.",
+        "Lviv Oblast is notable for its increasing use of the Ukrainian language, with Ukrainian being the only official language. A 2018 poll indicated that 90% of residents supported Ukrainian as the sole state language. The oblast has also implemented initiatives to strengthen the Ukrainian language in public life and education."
+      ]
+    },
+    {
+      "heading": "Political Structure and Administration",
+      "paragraphs": [
+        "Lviv Oblast was historically divided into 20 raions until a significant administrative reform on July 18, 2020, which reduced the number of districts to seven: Drohobych, Lviv, Sambir, [[sheptytskyi|Sheptytskyi]], Stryi, Yavoriv, and Zolochiv. The city of Lviv serves as the administrative center.",
+        "The governance of Lviv Oblast has seen various leadership structures, including chairmen of the executive committee and representatives of the president, reflecting the region's political evolution over time."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Lviv Oblast is rich in cultural heritage, with a significant presence of the [[ukrainian-greek-catholic-church|Ukrainian Greek Catholic Church]], which represents 59% of the religious organizations in the region. Other religious communities include the Ukrainian Autocephalous Orthodox Church and the Latin Church, predominantly among the Polish and Russian minorities.",
+        "The city of Lviv is recognized for its historical and cultural sites, which contribute to the region's identity and tourism, showcasing its blend of Ukrainian and European influences."
+      ]
+    }
+  ],
+  "links_out": [
+    "carpathians",
+    "dniester",
+    "kievan-rus",
+    "lviv",
+    "sheptytskyi",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-greek-catholic-church",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainians",
+    "ukrainization",
+    "west-ukrainian-peoples-republic",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Lviv Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lviv_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

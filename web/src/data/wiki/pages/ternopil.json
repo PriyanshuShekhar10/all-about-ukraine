@@ -56,12 +56,12 @@
       }
     ]
   },
-  "summary": "Ternopil, formerly known as Tarnopol until 1944, is a significant city in western Ukraine, situated along the Seret River. As a key urban center in the historical regions of Galicia and Podolia, Ternopil plays an important role in the cultural and administrative landscape of Ukraine.",
+  "summary": "Ternopil, formerly known as Tarnopol until 1944, is a significant city in western Ukraine, situated along the Seret River. As a key urban center in the historical regions of Galicia and [[podolia|Podolia]], Ternopil plays an important role in the cultural and administrative landscape of Ukraine.",
   "sections": [
     {
       "heading": "Historical Overview",
       "paragraphs": [
-        "Ternopil was founded in 1540 by Polish commander and [[hetman|Hetman]] Jan Amor Tarnowski as a border fortress for the Kingdom of Poland. The name Tarnopol translates to 'Tarnowski's city', derived from the founder's family name and the Greek word 'polis'. Initially serving as a military stronghold, the city faced numerous attacks from Turks, Tatars, and Zaporozhian [[cossacks|Cossacks]].",
+        "Ternopil was founded in 1540 by Polish commander and [[hetman|Hetman]] Jan Amor Tarnowski as a border fortress for the Kingdom of Poland. The name Tarnopol translates to 'Tarnowski's city', derived from the founder's family name and the Greek word 'polis'. Initially serving as a military stronghold, the city faced numerous attacks from Turks, Tatars, and [[zaporozhian-cossacks|Zaporozhian Cossacks]].",
         "The city experienced a decline but regained significance in the 19th century, becoming a transit point between the Austrian monarchy and the Russian Empire. During the early 20th century, Ternopil was notable for having a [[ukrainian|Ukrainian]] majority among its population. It underwent various political changes, including periods of Russian, Ukrainian, and Soviet rule, before becoming part of Interwar Poland.",
         "During World War II, Ternopil was occupied by both Soviet and German forces, suffering extensive damage. After the war, it was incorporated into the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]] and has been part of independent [[ukraine|Ukraine]] since 1991."
       ]
@@ -95,12 +95,13 @@
     }
   ],
   "links_out": [
-    "cossacks",
     "hetman",
+    "podolia",
     "ukraine",
     "ukrainian",
     "ukrainian-soviet-socialist-republic",
-    "western-ukraine"
+    "western-ukraine",
+    "zaporozhian-cossacks"
   ],
   "sources": [
     {

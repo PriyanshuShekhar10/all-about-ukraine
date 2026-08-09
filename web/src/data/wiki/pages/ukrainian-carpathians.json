@@ -30,7 +30,7 @@
     {
       "heading": "Geographical Location",
       "paragraphs": [
-        "The Ukrainian Carpathians are situated in the southwestern corner of [[western-ukraine|Western Ukraine]], encompassing parts of four [[ukrainian|Ukrainian]] regions: northeastern Zakarpattia Oblast, southwestern [[lviv|Lviv]] Oblast, southern [[ivano-frankivsk|Ivano-Frankivsk]] Oblast, and western [[chernivtsi|Chernivtsi]] Oblast.",
+        "The Ukrainian Carpathians are situated in the southwestern corner of [[western-ukraine|Western Ukraine]], encompassing parts of four [[ukrainian|Ukrainian]] regions: northeastern [[transcarpathia|Zakarpattia]] Oblast, southwestern [[lviv-oblast|Lviv Oblast]], southern [[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]], and western [[chernivtsi|Chernivtsi]] Oblast.",
         "This mountain range extends in a general northwest-southeast direction, beginning at the tripartite border of [[ukraine|Ukraine]] with Poland and Slovakia, and continuing towards the border with Romania."
       ]
     },
@@ -58,8 +58,9 @@
   "links_out": [
     "carpathians",
     "chernivtsi",
-    "ivano-frankivsk",
-    "lviv",
+    "ivano-frankivsk-oblast",
+    "lviv-oblast",
+    "transcarpathia",
     "ukraine",
     "ukrainian",
     "western-ukraine"

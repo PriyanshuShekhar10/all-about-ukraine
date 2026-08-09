@@ -1,0 +1,119 @@
+{
+  "qid": "Q171852",
+  "slug": "odesa-oblast",
+  "title": "Odesa Oblast",
+  "type": "oblast of Ukraine",
+  "category": "politics",
+  "aliases": [
+    "Odesa Region",
+    "Odeshchyna",
+    "Odeska Oblast",
+    "Odessa Oblast",
+    "Odessa Region"
+  ],
+  "infobox": {
+    "label": "oblast of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1932-02-27",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Odesa",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "2,386,500",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "33,310",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "281",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Maksym Stepanov, Mikheil Saakashvili",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "47.0000, 30.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Odesa Oblast is a province in southwestern Ukraine, situated along the northern coast of the Black Sea, with Odesa as its administrative center. As of 2022, the population is estimated at 2,351,382, and the region is notable for its extensive coastline, significant agricultural production, and rich historical heritage.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Odesa Oblast is the largest oblast in [[ukraine|Ukraine]] by area, covering approximately 33,314 square kilometers (12,863 sq mi). The region features predominantly flat steppes, part of the Black Sea Lowland, and is bordered to the south by the Danube River. It boasts a coastline of about 300 km (190 mi), characterized by sandy beaches, estuaries, and lagoons.",
+        "The fertile soils, particularly chernozems, support intensive agriculture, with vineyards and orchards prevalent in the southwest and arable crops cultivated throughout the region."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The history of Odesa Oblast dates back to ancient times, with evidence of Neolithic cultures and Greek colonies established along the Black Sea coast. The region has seen various dominions, including the Republic of Genoa in the 14th century, the Grand Duchy of Lithuania in the 15th century, and later the Ottoman Empire.",
+        "In the late 18th century, the area came under Russian control, and it was officially designated as Odesa Oblast on 27 February 1932. The region experienced significant turmoil during the 20th century, including [[holodomor|the Holodomor]] and World War II, before becoming part of independent Ukraine following the 1991 referendum."
+      ]
+    },
+    {
+      "heading": "Economy",
+      "paragraphs": [
+        "Odesa Oblast's economy is diverse, with key sectors including oil refining, chemical processing, and agriculture. The region is a major producer of wine, wheat, maize, barley, sunflowers, and sugar beets, with much of the industrial activity concentrated around the city of [[odesa|Odesa]].",
+        "The presence of important sea and river ports facilitates transportation and trade, contributing significantly to the local economy."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "As of early 2021, the population of Odesa Oblast was approximately 2,368,107, with nearly 43% residing in the city of Odesa. Ethnic [[ukrainians|Ukrainians]] constitute the largest group at 62.8%, followed by Russians at 20.7%, and notable minorities including Bulgarians and Moldovans.",
+        "The linguistic landscape reflects a mix of [[ukrainian|Ukrainian]] and Russian speakers, with a notable increase in the use of Ukrainian in recent years."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Odesa Oblast is home to several points of interest, including the historic center of Odesa, which is recognized as a UNESCO World Heritage Site, along with landmarks such as the Odesa Opera, Akkerman fortress, and Potemkin Stairs.",
+        "The region's rich cultural heritage is a testament to its historical significance and diversity, contributing to its identity within Ukraine."
+      ]
+    },
+    {
+      "heading": "Administrative Structure",
+      "paragraphs": [
+        "Historically, Odesa Oblast was divided into 26 raions (districts) and 7 municipalities until 2020. Following administrative reforms on 18 July 2020, the number of districts was reduced to seven, which now encompass 91 municipalities."
+      ]
+    }
+  ],
+  "links_out": [
+    "holodomor",
+    "odesa",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Odesa Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Odesa_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

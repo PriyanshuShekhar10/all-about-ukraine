@@ -36,7 +36,7 @@
     {
       "heading": "Early Life",
       "paragraphs": [
-        "Volodymyr Zelenskyy was born on 25 January 1978 in [[kryvyi-rih|Kryvyi Rih]], located in the [[dnipro|Dnipropetrovsk]] Oblast of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]. He was raised in a Russian-speaking Jewish family, with his mother, Rymma, being a retired engineer, and his father, Oleksandr, a professor and head of the Department of Cybernetics and Computing Hardware at Kryvyi Rih State University of Economics and Technology. His paternal grandfather, Semyon, served as an infantryman in the Red Army during World War II, and both of his grandparents were victims of the Holocaust.",
+        "Volodymyr Zelenskyy was born on 25 January 1978 in [[kryvyi-rih|Kryvyi Rih]], located in the [[dnipropetrovsk-oblast|Dnipropetrovsk Oblast]] of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]. He was raised in a Russian-speaking Jewish family, with his mother, Rymma, being a retired engineer, and his father, Oleksandr, a professor and head of the Department of Cybernetics and Computing Hardware at Kryvyi Rih State University of Economics and Technology. His paternal grandfather, Semyon, served as an infantryman in the Red Army during World War II, and both of his grandparents were victims of the Holocaust.",
         "Zelenskyy spent part of his childhood in Erdenet, Mongolia, where his father worked as a mining engineer. He later earned a law degree from the Kryvyi Rih Institute of Economics but did not pursue a career in law."
       ]
     },
@@ -50,7 +50,7 @@
     {
       "heading": "Political Career",
       "paragraphs": [
-        "In March 2018, Zelenskyy co-founded a political party named after his television series, [[servant-of-the-people|Servant of the People]]. He ran for president in the 2019 election, positioning himself as an anti-establishment candidate and winning with 73.23 percent of the vote, marking the largest electoral victory in Ukrainian history. His party also achieved significant success in the subsequent parliamentary elections.",
+        "In March 2018, Zelenskyy co-founded a political party named after his television series, [[servant-of-the-people|Servant of the People]]. He ran for president in the 2019 election, positioning himself as an anti-establishment candidate and winning with 73.23 percent of the vote, marking the largest electoral victory in [[history-of-ukraine|Ukrainian history]]. His party also achieved significant success in the subsequent parliamentary elections.",
         "As president, Zelenskyy has advocated for e-government and unity among Ukraine's diverse linguistic communities. He has faced significant challenges, including the full-scale Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] that began on 24 February 2022, during which he remained in [[kyiv|Kyiv]] and declared martial law."
       ]
     },
@@ -69,8 +69,9 @@
     }
   ],
   "links_out": [
-    "dnipro",
+    "dnipropetrovsk-oblast",
     "full-scale-russo-ukrainian-war",
+    "history-of-ukraine",
     "kryvyi-rih",
     "kyiv",
     "leonid-kuchma",

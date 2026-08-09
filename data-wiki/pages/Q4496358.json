@@ -1,0 +1,82 @@
+{
+  "qid": "Q4496358",
+  "slug": "fine-arts-museum-kharkiv",
+  "title": "Fine Arts Museum Kharkiv",
+  "type": "art museum",
+  "category": "culture",
+  "aliases": [
+    "Kharkiv Art Museum"
+  ],
+  "infobox": {
+    "label": "art museum",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1920",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Kharkiv",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.9991, 36.2385",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Kharkiv Art Museum, located in [[kharkiv|Kharkiv]], Ukraine, is one of the largest state collections of fine and applied arts in the country. Established in 1905, the museum has a rich history and a diverse collection that reflects the artistic heritage of Ukraine and beyond.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Founded in 1905 as the City Art and Industry Museum, the Kharkiv Art Museum was spearheaded by historian Dmytro Bahalii. In 1907, Ilya Repin contributed a portrait of General Mikhail Dragomirov at Bahalii's request.",
+        "The museum underwent several name changes, becoming the Church-Historical Museum in 1920 and later the Museum of [[ukrainian|Ukrainian]] Art in 1922, which was organized into three departments: painting, sculpture, and architecture. The painting department included a variety of works, such as book graphics and icons from the 16th to 19th centuries.",
+        "After being closed to the public in the 1930s, the museum reopened in 1944 as the Museum of Ukrainian Art. It was renamed the State Museum of Fine Arts from 1949 to 1965, before adopting its current name."
+      ]
+    },
+    {
+      "heading": "Building",
+      "paragraphs": [
+        "The museum is situated at 11 Zhon Myronosyts Street, in a mansion built in 1912 for industrialist I. E. Ignatishchev, designed by Ukrainian architect Oleksiy Beketov. The architectural style combines Neoclassicism with Baroque and Art Nouveau elements.",
+        "Following the October Revolution, the building was nationalized and served as the headquarters for the Council of People's Commissars of [[ukraine|Ukraine]] from 1922 to 1928. After this period, it housed the [[taras-shevchenko|Taras Shevchenko]] Institute until the post-war era when it became the Kharkiv Art Museum."
+      ]
+    },
+    {
+      "heading": "Collection",
+      "paragraphs": [
+        "The Kharkiv Art Museum boasts a collection of approximately 25,000 items, including pre-revolutionary Russian and Ukrainian art, Soviet-era works, and Western European art spanning from the 16th to the 20th centuries. The museum features notable pieces from prominent Russian artists such as Karl Bryullov, Ivan Aivazovsky, and Ilya Repin.",
+        "The museum is particularly recognized for housing the largest collection of Ilya Repin's works in Ukraine, which includes 11 paintings and 8 graphic sheets. Additionally, it showcases significant contributions from Ukrainian artists like Taras Shevchenko and Serhii Vasylkivsky."
+      ]
+    },
+    {
+      "heading": "Recent Events",
+      "paragraphs": [
+        "The museum has faced significant challenges due to the ongoing conflict in Ukraine. On 2 and 8 March 2022, Russian missile strikes damaged the museum's building, affecting its façade and valuable exhibits, which were subsequently evacuated.",
+        "On 31 December 2023, the museum was again impacted by a blast wave from another Russian attack. Most notably, on 14 June 2026, a direct strike by the Russian army using a Shahed-type unmanned aerial vehicle caused severe damage, including a fire that affected the roof and ceilings of the historic building, although no injuries were reported during these incidents."
+      ]
+    }
+  ],
+  "links_out": [
+    "kharkiv",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Kharkiv Art Museum — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kharkiv_Art_Museum",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

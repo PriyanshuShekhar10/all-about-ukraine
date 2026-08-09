@@ -37,7 +37,7 @@
       }
     ]
   },
-  "summary": "The Cossack Hetmanate, officially known as the Zaporozhian Host, was a stratocratic state established by Registered [[cossacks|Cossacks]] in Dnieper Ukraine, existing from 1648 to 1764. It played a significant role in Ukrainian history, particularly through its interactions with the Polish-Lithuanian Commonwealth and the Tsardom of Moscow.",
+  "summary": "The Cossack Hetmanate, officially known as the Zaporozhian Host, was a stratocratic state established by Registered [[cossacks|Cossacks]] in Dnieper Ukraine, existing from 1648 to 1764. It played a significant role in [[history-of-ukraine|Ukrainian history]], particularly through its interactions with the Polish-Lithuanian Commonwealth and the Tsardom of Moscow.",
   "sections": [
     {
       "heading": "Establishment and Recognition",
@@ -56,14 +56,14 @@
     {
       "heading": "Decline and Abolishment",
       "paragraphs": [
-        "The Hetmanate faced significant challenges following a failed attempt to sever ties with Russia by Ivan Mazepa in 1708, which led to its incorporation into the Kiev Governorate and restricted autonomy.",
+        "The Hetmanate faced significant challenges following a failed attempt to sever ties with Russia by [[ivan-mazepa|Ivan Mazepa]] in 1708, which led to its incorporation into the Kiev Governorate and restricted autonomy.",
         "Catherine II of Russia officially abolished the position of [[hetman|Hetman]] in 1764, integrating the Cossack Hetmanate into the Little Russia Governorate, with the last remnants of its administrative system dissolved by 1781."
       ]
     },
     {
       "heading": "Cultural and Historical Legacy",
       "paragraphs": [
-        "Despite its eventual disbandment, the Cossack Hetmanate left a lasting legacy, particularly through its ruling class, which played a crucial role in the [[ukrainian|Ukrainian]] national revival during the 19th century.",
+        "Despite its eventual disbandment, the Cossack Hetmanate left a lasting legacy, particularly through its ruling class, which played a crucial role in the [[ukrainian-national-revival|Ukrainian national revival]] during the 19th century.",
         "The term '[[ukraine|Ukraine]]' was increasingly used to refer to the lands of the Hetmanate, reflecting a growing sense of national identity among its inhabitants, who were often referred to as the 'Ruthenian nation.'"
       ]
     }
@@ -73,9 +73,11 @@
     "cossacks",
     "dnieper",
     "hetman",
+    "history-of-ukraine",
+    "ivan-mazepa",
     "khmelnytsky-uprising",
     "ukraine",
-    "ukrainian",
+    "ukrainian-national-revival",
     "zaporizhian-sich"
   ],
   "sources": [

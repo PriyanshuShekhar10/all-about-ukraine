@@ -53,7 +53,7 @@
     {
       "heading": "Geographical and Demographic Overview",
       "paragraphs": [
-        "Odesa, also known as Odessa, is situated in the southwestern part of [[ukraine|Ukraine]] on the northwestern shore of the Black Sea. As of January 2021, the city had a population of approximately 1,010,537, making it the third-most populous city in Ukraine. It serves as the administrative center of both Odesa Raion and Odesa Oblast."
+        "Odesa, also known as Odessa, is situated in the southwestern part of [[ukraine|Ukraine]] on the northwestern shore of the Black Sea. As of January 2021, the city had a population of approximately 1,010,537, making it the third-most populous city in Ukraine. It serves as the administrative center of both Odesa Raion and [[odesa-oblast|Odesa Oblast]]."
       ]
     },
     {
@@ -84,6 +84,7 @@
   ],
   "links_out": [
     "full-scale-russo-ukrainian-war",
+    "odesa-oblast",
     "ukraine",
     "ukrainian"
   ],

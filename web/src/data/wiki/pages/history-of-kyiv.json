@@ -1,0 +1,73 @@
+{
+  "qid": "Q393203",
+  "slug": "history-of-kyiv",
+  "title": "history of Kyiv",
+  "type": "history of a city",
+  "category": "history",
+  "aliases": [
+    "Kyiv history"
+  ],
+  "infobox": {
+    "label": "history of a city",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The history of Kyiv, the capital of Ukraine, spans over a millennium and is marked by its significance as a political, cultural, and economic center throughout various historical periods. The city's origins are debated, with archaeological evidence suggesting settlements dating back to 25,000 BC and its official founding recognized in 482 AD.",
+  "sections": [
+    {
+      "heading": "Origins",
+      "paragraphs": [
+        "The history of Kyiv, known as Kiev prior to 1991, is rooted in ancient legends and archaeological findings. According to the Primary Chronicle, early Slavic settlers called the Polyanians established the city, reportedly founded by the siblings Kyi, Shchek, Khoryv, and their sister Lybid, who named it [[kyiv|Kyiv]] after Kyi. This legend, alongside archaeological evidence, suggests that settlements existed in the area as far back as the end of the 5th century.",
+        "Archaeological studies indicate commercial activities in Kyiv's Podil district during the seventh or eighth centuries, although the city is believed to have developed into a significant urban center by the last quarter of the ninth century. Linguistic studies propose various origins for the name Kyiv, with connections to both Turkic and Proto-Slavic roots."
+      ]
+    },
+    {
+      "heading": "Kyivan Rus'",
+      "paragraphs": [
+        "Kyiv became the capital of [[kievan-rus|Kyivan Rus]]' following its conquest by Oleg the Wise around 881/2. Under the Varangian Rurikid dynasty, the city flourished politically and culturally, especially during the reign of Prince Volodymyr I, who converted the populace to Christianity in 988. The city reached its zenith in the mid-11th century under Yaroslav the Wise, who established the first native-born metropolitan bishop of Rus' and maintained relations with Rome.",
+        "Despite its prominence, Kyiv faced challenges from rival princes and invasions, suffering significant destruction during the Mongol invasion in 1240, which marked a severe decline in its political importance."
+      ]
+    },
+    {
+      "heading": "Golden Horde and Grand Duchy of Lithuania",
+      "paragraphs": [
+        "Following the Mongol invasion, Kyiv became part of the Golden Horde's territory before being integrated into the Grand Duchy of Lithuania after the Battle at Blue Waters in 1362. The city was governed by Lithuanian princes until 1471 when the Principality of Kyiv was dissolved and replaced by the Kyiv Voivodeship. Despite frequent attacks from the [[crimean-tatars|Crimean Tatars]], Kyiv maintained its role as an Orthodox metropolitan seat during this period.",
+        "Under Lithuanian rule, Kyiv experienced a gradual increase in local autonomy, culminating in the granting of Magdeburg rights in 1516, which allowed for greater self-governance."
+      ]
+    },
+    {
+      "heading": "Kingdom of Poland",
+      "paragraphs": [
+        "In 1569, Kyiv was transferred to the Crown of the Kingdom of Poland as part of the Union of Lublin, becoming the capital of the Kijów Voivodeship. This period saw a strengthening of its role as an Orthodox center amidst the growing tensions between Orthodox and Catholic communities, exacerbated by the influx of Jewish settlers and the expansion of religious influences."
+      ]
+    },
+    {
+      "heading": "Modern Era",
+      "paragraphs": [
+        "Kyiv underwent significant changes during the late 19th century, prospering amid the Russian industrial revolution. Following the October Revolution of 1917, it served as the capital for several short-lived [[ukrainian|Ukrainian]] states. From December 1922, Kyiv became part of the Soviet Union and was established as the capital of [[ukrainian-soviet-socialist-republic|Soviet Ukraine]] in 1934. The city was devastated during World War II but quickly recovered, becoming the third-most important city in the Soviet Union and the capital of the second-most populous Soviet republic. Since [[ukraine|Ukraine]]'s independence in 1991, Kyiv has remained the capital of the sovereign nation."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimean-tatars",
+    "kievan-rus",
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "History of Kyiv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Kyiv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

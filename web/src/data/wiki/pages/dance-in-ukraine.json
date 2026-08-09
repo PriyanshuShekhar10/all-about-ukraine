@@ -1,0 +1,72 @@
+{
+  "qid": "Q7878536",
+  "slug": "dance-in-ukraine",
+  "title": "dance in Ukraine",
+  "type": "type of dance",
+  "category": "culture",
+  "aliases": [
+    "Ukrainian dance"
+  ],
+  "infobox": {
+    "label": "type of dance",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Ukrainian dance encompasses the traditional folk dances of the Ukrainian ethnic group and those from various other ethnic groups within Ukraine. It includes household folk dances, folk-stage dances, and notable genres such as circle dances and thematic story dances, reflecting the rich cultural heritage of Ukraine.",
+  "sections": [
+    {
+      "heading": "Types of Ukrainian Dance",
+      "paragraphs": [
+        "Ukrainian dance primarily refers to traditional folk dances, which can be categorized into household folk dances, performed during events like weddings and festivals, and folk-stage dances, choreographed for performance. The main genres include circle dances associated with calendar rites and everyday dances such as metelitsa, [[hopak|hopak]], kozachok, hutsulka, kolomyika, square dance, and polka."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Dance has been a part of the cultural landscape in the territory of present-day [[ukraine|Ukraine]] since at least the third millennium BC, as evidenced by figures on Trypillian clay vessels. Before the arrival of Christianity in [[kievan-rus|Kyivan Rus]] in 988, dance played a significant ritual role, often combined with music and poetry. Some remnants of these rituals, such as the Spring Dances (Vesnianky), continue to exist today, while the Kupalo festival remains a popular theme for choreographers."
+      ]
+    },
+    {
+      "heading": "Evolution of Dance",
+      "paragraphs": [
+        "During the time of the Kozak uprisings, social dances gained popularity, characterized by musical accompaniment without song and improvisation. Dances like Hopak and Kozachok emerged around the River [[dnieper|Dnieper]], while Hutsulka and [[kolomyjka|Kolomyjka]] developed in the [[carpathians|Carpathian Mountains]]. Thematic story dances, which included performances that mimicked the work of specific groups, also evolved during this period."
+      ]
+    },
+    {
+      "heading": "Modern Developments in Ukraine",
+      "paragraphs": [
+        "The transformation of [[ukrainian|Ukrainian]] folk-stage dance was significantly influenced by Vasyl Verkhovynets, who published 'Theory of Ukrainian Folk Dance' in 1919, standardizing dance steps and terminology. This work laid the foundation for the staging of folk dances. In 1937, Pavlo Virsky and Mykola Bolotov established the State Folk Dance Ensemble of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]], which aimed to elevate folk-stage dance as an art form. The ensemble was revived in 1951 and continued to flourish under the direction of notable choreographers."
+      ]
+    },
+    {
+      "heading": "Ukrainian Dance in the Diaspora",
+      "paragraphs": [
+        "Ukrainian immigrants brought their dance traditions to North America, where they were preserved in community gatherings. Vasyl Avramenko played a crucial role in establishing Ukrainian dance in the West, creating numerous dance schools and groups across Canada and the United States. His efforts led to the formation of various Ukrainian dance companies, and he is often referred to as the 'Father of Ukrainian Dance' for his contributions to spreading this art form globally."
+      ]
+    }
+  ],
+  "links_out": [
+    "carpathians",
+    "dnieper",
+    "hopak",
+    "kievan-rus",
+    "kolomyjka",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian dance — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_dance",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

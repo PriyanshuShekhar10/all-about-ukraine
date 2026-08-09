@@ -1,0 +1,90 @@
+{
+  "qid": "Q2391444",
+  "slug": "borys-voznytskyi-lviv-national-art-gallery",
+  "title": "Borys Voznytskyi Lviv National Art Gallery",
+  "type": "art museum",
+  "category": "people",
+  "aliases": [
+    "B Voznystskyi Lviv National Art Gallery",
+    "Lviv Art Gallery",
+    "Lviv National Art Gallery",
+    "Lviv municipal museum of art",
+    "National gallery of arts. Boris Voznytsky, L'viv"
+  ],
+  "infobox": {
+    "label": "art museum",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1907",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Lviv",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Stefanyka Street",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.8370, 24.0253",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Borys Voznytsky Lviv National Art Gallery is the largest art museum in Ukraine, housing over 62,000 artworks from various European artists. Established in 1907, the gallery has become a significant cultural institution in Lviv, reflecting the artistic heritage and history of Ukraine.",
+  "sections": [
+    {
+      "heading": "History and Development",
+      "paragraphs": [
+        "The initiative to establish a municipal art gallery was undertaken in 1897, leading to the formal opening of the Lviv Art Gallery in 1907. The museum faced significant challenges during the early Soviet period and World War II, as the Soviet regime was hostile toward nationally-oriented collections. A notable incident involved the execution of the museum's wartime director, Ivan Ivanets, by SMERSH in 1946.",
+        "Under the leadership of art historian Borys Voznytsky from the 1960s to the 1990s, the gallery expanded its influence and established multiple branches. In recognition of its extensive and high-quality collection, it was designated as the National Art Gallery of [[ukraine|Ukraine]] in October 2009, and was renamed the Borys Voznytsky Lviv National Art Gallery on April 12, 2013, honoring Voznytsky's over 40 years of service."
+      ]
+    },
+    {
+      "heading": "Collections and Exhibitions",
+      "paragraphs": [
+        "The gallery's extensive collections are distributed across several locations in and around [[lviv|Lviv]], primarily housed in the Łoziński and Potocki Palaces. The Łoziński Palace, established in 1872-1874, showcases contemporary art, while the Potocki Palace, completed in 1890, features European art from the 14th to the 18th centuries.",
+        "The collection includes significant works from various European art movements, with a strong emphasis on Eastern European art from the 19th and early 20th centuries. Noteworthy pieces include Wilhelm Leopolski's The Death of Acerna and Wojciech Kossak's Spring, 1813, which reflect the political and social turmoil of the time."
+      ]
+    },
+    {
+      "heading": "Notable Artists and Works",
+      "paragraphs": [
+        "The gallery holds the largest collection of works by Jan Matejko outside of Poland, showcasing his historical themes and family portraits. Other significant artists represented include Paul Merwart, Jacek Malczewski, and Olga Boznańska, reflecting the diversity of Polish art.",
+        "The collection also features important pieces from the Dutch and Flemish schools, including works by Jan van Kessel and Pieter Neefs I, as well as Italian art from the Renaissance period, with notable pieces attributed to Leonardo da Vinci's student Andrea Solario."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "The Borys Voznytsky Lviv National Art Gallery serves as a vital cultural institution in Ukraine, preserving and showcasing the country's rich artistic heritage. The gallery's collections not only reflect the [[history-of-ukraine|history of Ukraine]] but also highlight the broader European artistic movements that have influenced [[ukrainian|Ukrainian]] art.",
+        "In 2012, the gallery expanded its Italian art collection through a donation of contemporary works, further enhancing its role as a center for cultural exchange and artistic dialogue between Ukraine and Italy."
+      ]
+    }
+  ],
+  "links_out": [
+    "history-of-ukraine",
+    "lviv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Borys Voznytsky Lviv National Art Gallery — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Borys_Voznytsky_Lviv_National_Art_Gallery",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

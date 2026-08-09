@@ -1,0 +1,82 @@
+{
+  "qid": "Q111013514",
+  "slug": "battle-of-sumy",
+  "title": "Battle of Sumy",
+  "type": "siege",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "siege",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Sumy",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.9067, 34.7992",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Battle of Sumy, which began on 24 February 2022, was a significant military engagement during the Russian invasion of Ukraine, characterized by intense urban combat between Ukrainian defenders and Russian forces. The battle highlighted the resilience of local volunteers and the strategic importance of Sumy, a city near the Russia–Ukraine border.",
+  "sections": [
+    {
+      "heading": "Initial Engagement",
+      "paragraphs": [
+        "On 24 February 2022, the first day of the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], military actions commenced in the city of [[sumy|Sumy]], situated close to the Russia–[[ukraine|Ukraine]] border. [[ukrainian|Ukrainian]] paratroopers and territorial defense units engaged Russian forces within the city, leading to severe urban combat and the destruction of a Russian tank column. That evening, Ukrainian paratroopers were ordered to withdraw, leaving the defense of Sumy to a few thousand local volunteers who were armed with rifles and limited anti-tank weaponry."
+      ]
+    },
+    {
+      "heading": "Urban Warfare",
+      "paragraphs": [
+        "Russian military units began their advance into Sumy Oblast on 24 February 2022. By 13:35, Russian vehicles were observed near the villages of Bezdryk, Holovashivka, and Postolne, and an official announcement of combat in the city was made shortly thereafter. The initial clashes occurred at the northern and western entrances of Sumy, particularly on the Kursk and Bilopillia highways. The most intense fighting took place on Kondratieva Street, where the Ukrainian 27th Artillery Brigade was stationed. Following a series of confrontations, Russian forces retreated from the area by 01:39 on 25 February."
+      ]
+    },
+    {
+      "heading": "Continued Conflict and Civilian Impact",
+      "paragraphs": [
+        "On 26 February, hostilities resumed in Sumy, with Ukrainian territorial defense forces capturing a Russian vehicle on the Kursk highway. Mayor Oleksandr Lysenko reported three civilian fatalities due to Russian missile strikes on residential areas. The situation escalated on 27 February when Russian forces advanced into Sumy, resulting in civilian casualties and ongoing fighting. Territorial defense units captured several Russian soldiers during this period."
+      ]
+    },
+    {
+      "heading": "Bombardment and Humanitarian Crisis",
+      "paragraphs": [
+        "On 3 March, Governor Dmytro Zhyvytskyi reported injuries from shelling targeting military facilities in Sumy. By 8 March, the situation worsened, with 22 civilian deaths reported due to a Russian airstrike. A humanitarian corridor was established, allowing for the evacuation of approximately 5,000 civilians. Throughout March, Sumy experienced extensive shelling, resulting in damage to infrastructure and ongoing threats to civilian safety."
+      ]
+    },
+    {
+      "heading": "Russian Withdrawal",
+      "paragraphs": [
+        "The Ukrainian recapture of Trostianets on 26 March 2022 was anticipated to relieve the siege of Sumy. By 27 March, Russian forces had begun to withdraw from several villages near Sumy. On 4 April 2022, Governor Zhyvytskyi announced that Russian troops had completely vacated Sumy Oblast, although the area remained hazardous due to unexploded ordnance left behind."
+      ]
+    },
+    {
+      "heading": "Aftermath",
+      "paragraphs": [
+        "Despite the withdrawal of Russian forces from Sumy Oblast by early April, airstrikes persisted throughout April and May. In mid-May, Russian troops attempted multiple border crossings in the Sumy region, and shelling from Russia continued for the remainder of the year."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "sumy",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Battle of Sumy — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Sumy",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

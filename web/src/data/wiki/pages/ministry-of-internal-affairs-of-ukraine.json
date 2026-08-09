@@ -1,0 +1,90 @@
+{
+  "qid": "Q2445140",
+  "slug": "ministry-of-internal-affairs-of-ukraine",
+  "title": "Ministry of Internal Affairs of Ukraine",
+  "type": "interior ministry",
+  "category": "politics",
+  "aliases": [
+    "Ministry of Internal Affairs",
+    "Ministry of the Interior of Ukraine"
+  ],
+  "infobox": {
+    "label": "interior ministry",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1991-08-24",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Ministry of Internal Affairs of Ukraine is a governmental body responsible for overseeing the country's internal affairs, including law enforcement and civil security. Established in its current form in 1991, it has undergone significant reforms, particularly following the Euromaidan protests in 2015.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The Ministry of Internal Affairs of Ukraine has evolved through various names and structures since its inception. Initially known as the People's Committee of Internal Affairs of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] from 1919 to 1930, it was later part of the State Political Directorate of the Ukrainian SSR from 1930 to 1934, before reverting to the People's Committee of Internal Affairs until 1946. It was designated the Ministry of Internal Affairs of the Ukrainian SSR from 1946 until [[ukraine|Ukraine]]'s independence in 1991, when it became the Ministry of Internal Affairs of Ukraine."
+      ]
+    },
+    {
+      "heading": "Reforms and Militsiya",
+      "paragraphs": [
+        "The ministry previously managed the national law enforcement agency known as the militsiya, which faced widespread criticism for corruption and human rights abuses. Following the [[euromaidan|Euromaidan]] protests, significant reforms were initiated by President [[petro-poroshenko|Petro Poroshenko]] in July 2015, leading to the dissolution of the militsiya and the establishment of the National Police. Additionally, the State Emergency Service was placed under the ministry's jurisdiction in 2014."
+      ]
+    },
+    {
+      "heading": "Duties and Responsibilities",
+      "paragraphs": [
+        "The Ministry of Internal Affairs is tasked with implementing state policies aimed at protecting the rights and freedoms of citizens. Its responsibilities include investigating unlawful acts, combating crime, maintaining public order, ensuring civil security and traffic safety, and safeguarding important individuals."
+      ]
+    },
+    {
+      "heading": "Organizational Structure",
+      "paragraphs": [
+        "The ministry operates as a centralized agency led by the Minister of Internal Affairs and collaborates closely with the General Prosecutor's Office of Ukraine. It oversees several key agencies, including the National Police of Ukraine, the [[national-guard-of-ukraine|National Guard of Ukraine]], the State Emergency Service of Ukraine, the State Border Guard Service of Ukraine, and the State Migration Service."
+      ]
+    },
+    {
+      "heading": "Ministerial Institutions",
+      "paragraphs": [
+        "The central office of the Ministry of Internal Affairs is located in [[kyiv|Kyiv]]. It includes various sub-departments such as the National Guard, National Police, Special Tasks Patrol Police, State Border Guard Service, [[ukrainian|Ukrainian]] Sea Guard, State Emergency Service, and State Migration Service. Supporting institutions encompass medical facilities like the central hospital and educational institutions including the National Academy of Internal Affairs and several state universities dedicated to internal affairs."
+      ]
+    },
+    {
+      "heading": "Leadership",
+      "paragraphs": [
+        "The Minister of Internal Affairs is responsible for the ministry and reports directly to the Prime Minister, the [[verkhovna-rada|Verkhovna Rada]], and ultimately the [[president-of-ukraine|President of Ukraine]]. Historically, many ministers have had prior experience in law enforcement, often holding the rank of Colonel-General upon their appointment. Notably, Yuriy Lutsenko and Vasyl Tsushko are the only ministers who did not have a background in law enforcement."
+      ]
+    }
+  ],
+  "links_out": [
+    "euromaidan",
+    "kyiv",
+    "national-guard-of-ukraine",
+    "petro-poroshenko",
+    "president-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Ministry of Internal Affairs (Ukraine) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ministry_of_Internal_Affairs_(Ukraine)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

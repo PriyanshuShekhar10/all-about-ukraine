@@ -53,7 +53,7 @@
       }
     ]
   },
-  "summary": "Vinnytsia is a city in west-central Ukraine, serving as the administrative center of Vinnytsia Oblast and Vinnytsia Raion. With a population of 431,319 as of July 2026, it is the largest city in the historic region of Podillia and has a rich history dating back to the Middle Ages.",
+  "summary": "Vinnytsia is a city in west-central Ukraine, serving as the administrative center of Vinnytsia Oblast and Vinnytsia Raion. With a population of 431,319 as of July 2026, it is the largest city in the historic region of [[podolia|Podillia]] and has a rich history dating back to the Middle Ages.",
   "sections": [
     {
       "heading": "Geographical Context",
@@ -92,6 +92,7 @@
     "lviv",
     "odesa",
     "petro-poroshenko",
+    "podolia",
     "ukraine",
     "ukrainian-peoples-republic",
     "ukrainian-war-of-independence",

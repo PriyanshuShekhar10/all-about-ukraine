@@ -1,0 +1,90 @@
+{
+  "qid": "Q958923",
+  "slug": "lgbt-rights-in-ukraine",
+  "title": "LGBT rights in Ukraine",
+  "type": "LGBT rights by country or territory",
+  "category": "people",
+  "aliases": [
+    "LGBT rights of Ukraine",
+    "LGBT+ rights in Ukraine",
+    "LGBT+ rights of Ukraine",
+    "LGBTQ rights in Ukraine",
+    "LGBTQ rights of Ukraine",
+    "LGBTQ+ rights in Ukraine",
+    "LGBTQ+ rights of Ukraine",
+    "LGBTQIA+ rights in Ukraine",
+    "LGBTQIA+ rights of Ukraine",
+    "Ukraine LGBT rights"
+  ],
+  "infobox": {
+    "label": "LGBT rights by country or territory",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "LGBT rights in Ukraine have evolved significantly since the country's independence in 1991, with gradual increases in visibility and political organization within the LGBTQ community. Despite some legislative advancements, challenges remain, particularly regarding the recognition of same-sex relationships and protections against discrimination.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "From the early medieval period to the late medieval era, there were no recorded executions for homosexuality in the territories of [[modern-history-of-ukraine|modern Ukraine]], contrasting with practices in other regions. Punishments during the high medieval period included church fasting and excommunication.",
+        "In the 16th to 18th centuries, varying laws applied across regions, with severe penalties for homosexuality in [[western-ukraine|western Ukraine]] under Polish-Lithuanian rule, while the eastern regions under Russian control imposed harsh punishments such as impalement and forced labor.",
+        "The [[ukrainian-peoples-republic|Ukrainian People's Republic]] (UPR) allowed homosexual relations following the repeal of Russian Empire laws in 1917, but the topic was not publicly addressed due to ongoing conflict.",
+        "Under Soviet rule, homosexuality was criminalized in 1933, with significant repression and imprisonment of LGBTQ individuals, particularly during [[donetsk|Stalin]]'s regime. The German occupation during World War II also led to the deaths of thousands of homosexuals."
+      ]
+    },
+    {
+      "heading": "Legal Framework and Same-Sex Relationships",
+      "paragraphs": [
+        "Male homosexual activity was legalized in [[ukraine|Ukraine]] in 1991, while female homosexual activity had never been criminalized. As of 2018, the law addresses same-sex sexual activity primarily in the context of prostitution involving minors or public decency violations.",
+        "The [[constitution-of-ukraine|Constitution of Ukraine]], adopted in 1996, defines marriage strictly as a union between a man and a woman, with no legal recognition for same-sex marriages or partnerships. Efforts to introduce civil partnerships have faced significant political and societal resistance.",
+        "In July 2022, a petition advocating for the legalization of same-sex marriage garnered over 28,000 signatures, prompting President Zelensky to request a study on the issue, although he noted constitutional changes could not occur during wartime."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "In late 2022, the [[verkhovna-rada|Ukrainian parliament]] passed a media regulation bill prohibiting hate speech based on sexual orientation or gender identity. A parliamentary bill for civil unions was introduced in March 2023.",
+        "As of 2023, Ukraine ranked 39th out of 49 European countries in LGBTQ rights legislation, similar to Lithuania and Romania. The war has influenced discussions around legalizing same-sex marriage to ensure rights for LGBTQ military personnel.",
+        "On 14 May 2025, the government approved a roadmap for EU integration, which includes plans for LGBTQ-inclusive legislation."
+      ]
+    },
+    {
+      "heading": "Discrimination and Hate Crime Laws",
+      "paragraphs": [
+        "In 2015, the Ukrainian Parliament enacted an amendment to the Labor Code that prohibits discrimination based on sexual orientation and gender identity, a requirement for EU visa-free travel.",
+        "Although the Criminal Code includes provisions for hate crimes based on race, nationality, or religion, there are currently no specific protections against hate crimes motivated by sexual orientation or gender identity. A proposed amendment to address this was withdrawn in 2020."
+      ]
+    },
+    {
+      "heading": "Adoption and Parenting Rights",
+      "paragraphs": [
+        "[[ukrainian|Ukrainian]] law permits single individuals, regardless of sexual orientation, to adopt children, but explicitly prohibits same-sex couples from adopting. Legal provisions exist that may restrict potential adopters based on their interests conflicting with those of the child.",
+        "Lesbian couples have access to assisted reproductive technologies, while male same-sex couples do not have similar rights."
+      ]
+    }
+  ],
+  "links_out": [
+    "constitution-of-ukraine",
+    "donetsk",
+    "modern-history-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "verkhovna-rada",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "LGBTQ rights in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

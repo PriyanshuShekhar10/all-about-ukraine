@@ -1,0 +1,107 @@
+{
+  "qid": "Q157134",
+  "slug": "makiivka",
+  "title": "Makiivka",
+  "type": "city of regional significance of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Dmytriivsk",
+    "Dmytriyevskyi",
+    "Makeyevka",
+    "Makiyivka",
+    "Makéjevka",
+    "Makíjivka"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1690",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "347,376",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "426",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "169",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.0556, 37.9611",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Makiivka is an industrial city located in Donetsk Oblast, eastern Ukraine, with a significant history of coal mining and metallurgy. As of 2022, it has an estimated population of 338,968 and is currently under Russian occupation following the conflict in the Donbas region.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Makiivka, known in [[ukrainian|Ukrainian]] as Макіївка and in Russian as Макеевка, is situated approximately 15 kilometers (9.3 miles) east of [[donetsk|Donetsk]], forming part of a conurbation with the city. The city has a diverse population, with an estimated 338,968 residents as of 2022.",
+        "According to the 2001 Ukrainian census, the ethnic composition of Makiivka included 50.8% Russians, 45% [[ukrainians|Ukrainians]], 1.1% Tatars, 0.3% Georgians, and 0.3% Greeks."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The area of Makiivka has been inhabited for thousands of years, with archaeological findings indicating settlements from the Bronze Age and Scythian civilization. Makiivka was established in 1690 as a Cossack settlement named Yasinovka and was reorganized into a military settlement in 1777.",
+        "The city experienced significant industrial growth in the 1930s, with its population increasing from 79,000 in 1926 to 242,000 by 1939. During World War II, Makiivka was occupied by German forces from October 22, 1941, until September 6, 1943, during which many local residents, particularly Jews, were executed.",
+        "Following the war, Makiivka was rebuilt and continued to grow, reaching a population of 381,000 by 1959. The city was renamed from Dmytriivsk to Makiivka in 1931."
+      ]
+    },
+    {
+      "heading": "Industry and Economy",
+      "paragraphs": [
+        "Makiivka is a key industrial center in the [[donbas|Donets Basin]], primarily known for its coal mining and metallurgical industries. The city hosts one of the largest integrated iron and steel works in [[ukraine|Ukraine]], alongside various metalworking and coke-chemical plants.",
+        "Major enterprises in Makiivka include the State enterprise 'Makeyevugol', 'Makeyevsky Metallurgical Works', and the 'Yasinovsky Coke-chemical Plant'. In 2005, the Makiivka metallurgical plant produced 1.029 million tons of steel and 825,000 tons of pig iron."
+      ]
+    },
+    {
+      "heading": "Current Status and Conflict",
+      "paragraphs": [
+        "Since April 13, 2014, Makiivka has been under the control of pro-Russian separatists following the outbreak of the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]]. The city has been subject to military actions, including a significant strike on January 1, 2023, which reportedly resulted in substantial casualties among Russian forces stationed there.",
+        "Makiivka remains a focal point in the ongoing conflict, with its administration currently aligned with the self-proclaimed [[donetsk-peoples-republic|Donetsk People's Republic]]."
+      ]
+    },
+    {
+      "heading": "Culture and Community",
+      "paragraphs": [
+        "Makiivka has a rich cultural landscape with 22 churches and 73 religious organizations, reflecting a diverse religious community that includes Ukrainian Orthodox, Armenian Apostolic, Roman Catholic, Islamic, Jewish, and various Protestant denominations.",
+        "The city also promotes sports, featuring five stadiums, four swimming pools, and numerous sports facilities, supporting a wide range of athletic activities."
+      ]
+    }
+  ],
+  "links_out": [
+    "donbas",
+    "donetsk",
+    "donetsk-peoples-republic",
+    "full-scale-russo-ukrainian-war",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Makiivka — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Makiivka",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

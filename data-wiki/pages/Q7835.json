@@ -65,7 +65,7 @@
     {
       "heading": "Cultural and Demographic Aspects",
       "paragraphs": [
-        "Crimea has a population of approximately 2.4 million, with [[sevastopol|Sevastopol]] being its largest city. The region is home to a diverse cultural heritage, influenced by its historical rulers, including Greeks, Tatars, and Russians. The Crimean Tatar name for the peninsula is Qırım, while it is known as Крым (Krym) in both Russian and [[ukrainian|Ukrainian]]."
+        "Crimea has a population of approximately 2.4 million, with [[sevastopol|Sevastopol]] being its largest city. The region is home to a diverse cultural heritage, influenced by its historical rulers, including Greeks, Tatars, and Russians. The [[crimean-tatar|Crimean Tatar]] name for the peninsula is Qırım, while it is known as Крым (Krym) in both Russian and [[ukrainian|Ukrainian]]."
       ]
     },
     {
@@ -76,6 +76,7 @@
     }
   ],
   "links_out": [
+    "crimean-tatar",
     "crimean-tatars",
     "crimean-war",
     "donetsk",

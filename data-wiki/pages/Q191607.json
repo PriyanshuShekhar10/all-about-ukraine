@@ -1,0 +1,78 @@
+{
+  "qid": "Q191607",
+  "slug": "podolia",
+  "title": "Podolia",
+  "type": "Ukrainian historical regions",
+  "category": "history",
+  "aliases": [
+    "Podilia",
+    "Podillia"
+  ],
+  "infobox": {
+    "label": "Ukrainian historical regions",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Moldova",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.6833, 26.5833",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Podolia, also known as Podillia, is a historic region in Eastern Europe, primarily situated in the west-central and southwestern parts of [[ukraine|Ukraine]]. It has a rich agricultural landscape and a complex history involving various empires and nations, significantly influencing Ukrainian culture and identity.",
+  "sections": [
+    {
+      "heading": "Geographical Features",
+      "paragraphs": [
+        "Podolia is characterized by its elongated plateau and fertile agricultural land, covering approximately 40,000 square kilometers (15,000 sq mi). It is traversed by the Southern Buh River and bordered by the [[dniester|Dniester]] River to the south, which serve as vital trade routes.",
+        "The region consists mainly of present-day [[ukrainian|Ukrainian]] [[vinnytsia|Vinnytsia]] Oblast and parts of southern and central Khmelnytskyi Oblast, with extensions into [[ternopil|Ternopil]] Oblast and [[kyiv|Kyiv]] Oblast. It also includes northern sections of Transnistria.",
+        "The predominant soil type is chernozem, known for its fertility, while the climate is moderate, with average temperatures recorded at Kamianets-Podilskyi being 9 °C (−4 °C in January, 20 °C in July)."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Podolia has been inhabited since the Neolithic period, with various tribes and civilizations, including the Graeco-Scythian Alazones and Dacians, occupying the area. It was later referenced by Nestor in the Primary Chronicle as home to Slavic tribes such as the Buzhans and Dulebes.",
+        "The region became part of the [[kingdom-of-galiciavolhynia|Kingdom of Galicia–Volhynia]], later falling under the control of the Golden Horde, the Kingdom of Poland, and the Grand Duchy of Lithuania. It was incorporated into the Polish–Lithuanian Commonwealth in the 16th century."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Podolian culture is distinguished by its folk icon-painting tradition, characterized by vibrant colors such as red, green, and yellow. These artistic works are preserved in institutions like the Vinnytsya Art Museum and the Museum of Ukrainian Home Icons in Radomysl Castle.",
+        "The region is also known for its agricultural products, including cherries, mulberries, melons, gourds, and cucumbers, contributing to its reputation as a fertile area."
+      ]
+    },
+    {
+      "heading": "Political Changes in the 20th Century",
+      "paragraphs": [
+        "In the 20th century, Podolia experienced numerous political transformations, including control by the Second Polish Republic and the Soviet Union. Following World War I, western Podolia was briefly part of the [[west-ukrainian-peoples-republic|West Ukrainian People's Republic]] before coming under Polish governance.",
+        "The region witnessed significant unrest, including a major uprising in 1927 against Soviet authorities, leading to severe repression. Following the Molotov–Ribbentrop Pact in 1939, Podolia was incorporated into [[ukrainian-soviet-socialist-republic|Soviet Ukraine]], with many inhabitants subjected to deportation and labor camps."
+      ]
+    }
+  ],
+  "links_out": [
+    "dniester",
+    "kingdom-of-galiciavolhynia",
+    "kyiv",
+    "ternopil",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "vinnytsia",
+    "west-ukrainian-peoples-republic"
+  ],
+  "sources": [
+    {
+      "title": "Podolia — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Podolia",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

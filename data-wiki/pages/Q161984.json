@@ -1,0 +1,106 @@
+{
+  "qid": "Q161984",
+  "slug": "fastiv",
+  "title": "Fastiv",
+  "type": "city of regional significance of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Fastov"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1390",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Crown of the Kingdom of Poland, Russian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "46,879",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "43",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "199",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Q20068802",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.0747, 29.9181",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Fastiv is a city of regional significance located in the Kyiv Oblast of central Ukraine, known for its historical importance and as a significant transport hub. With a population of approximately 44,014 as of 2022, it plays a vital role in the economic and logistical landscape of Ukraine.",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Context",
+      "paragraphs": [
+        "Fastiv, known in [[ukrainian|Ukrainian]] as Фастів, is situated in the [[kyiv|Kyiv]] Oblast of central [[ukraine|Ukraine]]. Historically referred to as Khvastiv, it serves as the administrative center of the Fastiv urban hromada. Despite this, it does not administratively belong to the Fastiv Raion, which it oversees."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "The first recorded mention of Fastiv dates back to 1390 in old Rus' chronicles, where it was noted that Prince of Kyiv Vladimir Olgerdovich granted it to the Rozhanovsky princes. Throughout its history, Fastiv has been a site of various uprisings, including the Cossack movement in the Polish-Lithuanian Commonwealth and the Koliyivshchyna uprising in the late 18th century. The city was ceded to the Russian Empire in 1793 and has been a witness to significant events, such as the signing of the Unification Act between the [[ukrainian-peoples-republic|Ukrainian People's Republic]] and the [[west-ukrainian-peoples-republic|West Ukrainian People's Republic]] on December 1, 1918."
+      ]
+    },
+    {
+      "heading": "Economic Overview",
+      "paragraphs": [
+        "Fastiv's economy is diverse, with key sectors including industry, transportation, and trade. The city is home to various industrial enterprises producing goods such as chemical equipment, furniture, and food products. Notable companies include 'Univest Marketing' LLC and 'Elopak'. The establishment of the 'FastIndustry' industrial park highlights the city's commitment to economic development."
+      ]
+    },
+    {
+      "heading": "Transport and Logistics",
+      "paragraphs": [
+        "Fastiv is a crucial transport hub, featuring a major railway station that connects to various destinations, including Kyiv and [[zhytomyr|Zhytomyr]]. The city's strategic location along important European highways enhances its logistical capabilities. Fastiv also hosts the FLK-Invest LLC logistics complex, which provides comprehensive logistics services."
+      ]
+    },
+    {
+      "heading": "International Relations and Cooperation",
+      "paragraphs": [
+        "Fastiv actively engages in international relations, fostering partnerships with twin cities such as Wałcz County and Tomaszów Lubelski in Poland, and Odunpazarı in Turkey. The city is involved in several international initiatives aimed at promoting local democracy and economic growth, collaborating with organizations like UNICEF and the United Nations Development Program."
+      ]
+    },
+    {
+      "heading": "Education and Community Services",
+      "paragraphs": [
+        "The city of Fastiv offers educational services through 11 pre-school institutions, ensuring the educational needs of its young population are met. The community also supports various banking and insurance services, contributing to the overall economic stability of the region."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "west-ukrainian-peoples-republic",
+    "zhytomyr"
+  ],
+  "sources": [
+    {
+      "title": "Fastiv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fastiv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

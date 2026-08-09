@@ -1,0 +1,83 @@
+{
+  "qid": "Q136556880",
+  "slug": "2022-russian-invasion-of-ukraine",
+  "title": "2022 Russian invasion of Ukraine",
+  "type": "invasion",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "invasion",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2022",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The 2022 Russian invasion of Ukraine, commencing on February 24, marked a significant escalation in the ongoing Russo-Ukrainian war and represents the largest military conflict in Europe since World War II. The invasion aimed to swiftly incapacitate Ukraine but resulted in prolonged resistance and international condemnation.",
+  "sections": [
+    {
+      "heading": "Initiation of the Invasion",
+      "paragraphs": [
+        "On February 24, 2022, Russia initiated a full-scale [[full-scale-russo-ukrainian-war|invasion of Ukraine]], marking the beginning of a new phase in the Russo-Ukrainian war. This military action was characterized as the largest conflict in Europe since World War II.",
+        "Russian President Vladimir Putin announced the invasion in a televised address, referring to it as a 'special military operation' intended to support the Russian-backed separatist regions of [[donetsk|Donetsk]] and [[luhansk|Luhansk]]. He made unfounded claims regarding the [[cabinet-of-ministers-of-ukraine|Ukrainian government]], alleging it consisted of neo-Nazis committing genocide against Russian speakers in the [[donbas|Donbas]]."
+      ]
+    },
+    {
+      "heading": "Military Strategy and Response",
+      "paragraphs": [
+        "Initially, Russia's strategy involved a rapid victory aimed at capturing [[kyiv|Kyiv]] and eliminating the Ukrainian government within ten days. However, by April 2022, this objective had failed as [[ukrainian|Ukrainian]] forces successfully repelled the northern invasion and prevented the capture of the capital.",
+        "In response to the invasion, [[ukraine|Ukraine]] declared martial law, initiated a general mobilization of its military, and severed diplomatic ties with Russia. The conflict transitioned to more conventional warfare in the southern and eastern [[administrative-territorial-entity-of-ukraine|regions of Ukraine]]."
+      ]
+    },
+    {
+      "heading": "International Reactions and Consequences",
+      "paragraphs": [
+        "The invasion drew widespread international condemnation. The United Nations General Assembly passed a resolution demanding a full withdrawal of Russian forces. The International Court of Justice ordered Russia to cease military operations, while the Council of Europe expelled Russia.",
+        "Numerous countries imposed sanctions against Russia and Belarus and provided humanitarian and military assistance to Ukraine. The Baltic states and Poland classified Russia as a terrorist state, and global protests erupted, with anti-war demonstrators facing repression in Russia."
+      ]
+    },
+    {
+      "heading": "Annexation and Ongoing Conflict",
+      "paragraphs": [
+        "Despite failing to achieve its primary goal, Russia maintained military control over parts of southeastern Ukraine and later unilaterally declared the annexation of four Ukrainian oblasts. The International Criminal Court initiated an investigation into potential war crimes, including the abduction of Ukrainian children and acts of genocide against [[ukrainians|Ukrainians]]."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The invasion can be traced back to earlier tensions, including the [[russian-annexation-of-crimea|2014 annexation of Crimea]] by Russia and the ongoing conflict in the Donbas region. These events were preceded by Ukraine's [[euromaidan|Euromaidan]] protests and the [[revolution-of-dignity|Revolution of Dignity]], which led to a shift in Ukraine's orientation towards the West and increased tensions with Russia."
+      ]
+    }
+  ],
+  "links_out": [
+    "administrative-territorial-entity-of-ukraine",
+    "cabinet-of-ministers-of-ukraine",
+    "donbas",
+    "donetsk",
+    "euromaidan",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "luhansk",
+    "revolution-of-dignity",
+    "russian-annexation-of-crimea",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "2022 Russian invasion of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

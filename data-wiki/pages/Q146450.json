@@ -1,0 +1,92 @@
+{
+  "qid": "Q146450",
+  "slug": "halych",
+  "title": "Halych",
+  "type": "city in Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "6,256",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "24",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "222",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.1128, 24.7217",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Halych is a historic city located on the Dniester River in western Ukraine, known for its role as the capital of the Principality of Halych and the Kingdom of Galicia–Volhynia until the early 14th century. Today, it is a small town in the Ivano-Frankivsk Oblast, retaining its historical significance and name.",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Context",
+      "paragraphs": [
+        "Halych, known in [[ukrainian|Ukrainian]] as Галич, is situated on the [[dniester|Dniester]] River in [[western-ukraine|western Ukraine]]. It is part of the [[ivano-frankivsk|Ivano-Frankivsk]] Raion within [[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]]. The town lies 26 km (16 mi) north of the regional capital, Ivano-Frankivsk, and had a population of 6,086 as of 2022."
+      ]
+    },
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "The name 'Halych' is pronounced Halych in Ukrainian and Galich in Russian, although it is spelled identically in modern East Slavic languages. The name is believed to derive from the East Slavic word for 'jackdaw' ('halka'), which is reflected in the town's old coat of arms. Local legend suggests that it originates from a mythical ruler named 'Prince Halychyna'."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Halych's history dates back to the Paleolithic period, with evidence of human occupation for over 40,000 years. The first written mention of Halych is attributed to 896 AD, although this claim is debated among scholars. The city served as the capital of the Principality of Halych and later the [[kingdom-of-galiciavolhynia|Kingdom of Galicia–Volhynia]] until the Mongol invasion in 1241, which led to its decline.",
+        "The Old Halych, also referred to as Princely Halych, is recognized as an archaeological site, where significant structures such as the Dormition Cathedral were located. Excavations have revealed the town's historical importance and architectural heritage."
+      ]
+    },
+    {
+      "heading": "Modern Development",
+      "paragraphs": [
+        "In the mid-14th century, Halych was annexed by Polish King Casimir III the Great and granted Magdeburg rights. It became an administrative center in the Ruthenian Voivodeship. The town faced numerous conflicts, including destruction during the Polish–Ottoman War and the Cossack uprising led by [[bohdan-khmelnytsky|Bohdan Khmelnytsky]].",
+        "After World War II, Halych experienced significant demographic changes, particularly with the resettlement of Polish residents. In 1994, the Ancient Halych preserve was established to protect its historical sites."
+      ]
+    },
+    {
+      "heading": "Cultural Heritage and Notable Sites",
+      "paragraphs": [
+        "Halych is home to several historical monuments, including the Church of the Nativity, originally built in the 14th century, and the remains of the Cathedral of the Dormition. The town also features the only surviving 12th-century church from Halych-Volhynia, the Church of Saint Pantaleon.",
+        "Notable residents include Ivan Popel (1850–1921), a Ukrainian Greek Catholic priest and cultural activist, who contributed to the social and cultural landscape of the region."
+      ]
+    }
+  ],
+  "links_out": [
+    "bohdan-khmelnytsky",
+    "dniester",
+    "ivano-frankivsk",
+    "ivano-frankivsk-oblast",
+    "kingdom-of-galiciavolhynia",
+    "ukrainian",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Halych — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Halych",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -32,12 +32,12 @@
       }
     ]
   },
-  "summary": "Bohdan Khmelnytsky (c. 1595 – 6 August 1657) was a prominent Ruthenian nobleman and military leader of the Zaporozhian [[cossacks|Cossacks]], serving as [[hetman|Hetman]] of the Zaporozhian Host. He is best known for leading a successful uprising against the Polish–Lithuanian Commonwealth, which resulted in the establishment of an independent Cossack state in [[dnieper|Dnieper]] Ukraine.",
+  "summary": "Bohdan Khmelnytsky (c. 1595 – 6 August 1657) was a prominent Ruthenian nobleman and military leader of the [[zaporozhian-cossacks|Zaporozhian Cossacks]], serving as [[hetman|Hetman]] of the Zaporozhian Host. He is best known for leading a successful uprising against the Polish–Lithuanian Commonwealth, which resulted in the establishment of an independent Cossack state in [[dnieper|Dnieper]] Ukraine.",
   "sections": [
     {
       "heading": "Early Life",
       "paragraphs": [
-        "Bohdan Khmelnytsky was likely born on 27 December 1595 Julian in the village of Subotiv, near Chyhyryn in the Crown of the Kingdom of Poland. His father, Mykhailo Khmelnytsky, was a Registered Cossack. There is some debate regarding Khmelnytsky's noble status, but modern historians generally agree that he belonged to the [[ukrainian|Ukrainian]] lesser nobility. His education included studies at the [[lviv|Lviv]] Jesuit collegium and possibly in Jarosław."
+        "Bohdan Khmelnytsky was likely born on 27 December 1595 Julian in the village of Subotiv, near [[chyhyryn|Chyhyryn]] in the Crown of the Kingdom of Poland. His father, Mykhailo Khmelnytsky, was a Registered Cossack. There is some debate regarding Khmelnytsky's noble status, but modern historians generally agree that he belonged to the [[ukrainian|Ukrainian]] lesser nobility. His education included studies at the [[lviv|Lviv]] Jesuit collegium and possibly in Jarosław."
       ]
     },
     {
@@ -66,15 +66,16 @@
     }
   ],
   "links_out": [
+    "chyhyryn",
     "cossack-hetmanate",
-    "cossacks",
     "dnieper",
     "hetman",
     "lviv",
     "ukraine",
     "ukrainian",
     "ukrainian-nationalism",
-    "ukrainians"
+    "ukrainians",
+    "zaporozhian-cossacks"
   ],
   "sources": [
     {

@@ -1,0 +1,89 @@
+{
+  "qid": "Q654020",
+  "slug": "ivan-franko-national-academic-drama-theater",
+  "title": "Ivan Franko National Academic Drama Theater",
+  "type": "playhouse",
+  "category": "culture",
+  "aliases": [
+    "Kyiv Ukrainian Drama Theater"
+  ],
+  "infobox": {
+    "label": "playhouse",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1920",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4456, 30.5283",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Ivan Franko National Academic Drama Theater, located in Kyiv, is a significant institution in [[ukrainian|Ukrainian]] culture, founded in 1920. It has been a platform for renowned artists and has produced a diverse repertoire of national and world classics.",
+  "sections": [
+    {
+      "heading": "Foundation and Early Years",
+      "paragraphs": [
+        "The [[ivan-franko|Ivan Franko]] Theater was established in [[vinnytsia|Vinnytsia]] in 1920 by actors from the Young Theater, led by Hnat Yura, and the New [[lviv|Lviv]] Theater, headed by Ambrosiy Buchma. The theater group was initially named the Ivan Franko New Drama Theater.",
+        "The theater opened on January 28, 1920, with the premiere of 'The Sin' by Volodymyr Vynnychenko, and had 23 premieres during its first season. The repertoire included works from the Young Theater such as 'Flooded Bell' by Gerhart Hauptmann and 'Oedipus Rex' by Sophocles."
+      ]
+    },
+    {
+      "heading": "Development and Relocation",
+      "paragraphs": [
+        "In its early years, the theater extensively toured central [[ukraine|Ukraine]]. A notable performance was the premiere of 'The Marriage of Figaro' in Vinnytsia, which was attended by representatives of the Government of the [[ukrainian-peoples-republic|Ukrainian People's Republic]]. The theater faced significant challenges but continued to produce plays.",
+        "In 1923, following its tours in [[donbas|Donbass]], the theater was designated the State Theater of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] and relocated to [[kharkiv|Kharkiv]]. By the summer of 1926, it moved to [[kyiv|Kyiv]], performing in the building of the former Solovtsov Theater."
+      ]
+    },
+    {
+      "heading": "Artistic Contributions and Challenges",
+      "paragraphs": [
+        "Throughout the 1920s and 1930s, the theater featured prominent actors such as Ambrosiy Buchma and Natalia Uzhvy and produced notable works including 'The Marriage of Figaro' and 'Boris Godunov' by Alexander Pushkin. However, in the early 1930s, the theater shifted focus to Soviet propaganda plays.",
+        "Despite the challenges, Hnat Yura revived the classic 'The Marriage of Figaro' in 1933, which became a staple production. The theater continued to produce significant works, including Chekhov's 'The Cherry Orchard' in 1946."
+      ]
+    },
+    {
+      "heading": "Modern Era and Recognition",
+      "paragraphs": [
+        "The theater was granted academic status in 1940 and continued to operate during World War II, relocating to Semipalatinsk and Tashkent. Post-war, it saw contributions from various artists and maintained a strong focus on scenography and music.",
+        "In 1994, the theater was designated as the National Theater by a presidential decree. Under the leadership of Bogdan Stupka from 2001 to 2012, the theater expanded its repertoire to include works from various cultures and established itself in the international theater community."
+      ]
+    },
+    {
+      "heading": "Current Status",
+      "paragraphs": [
+        "As of 2018, Myhailo Zakharevich serves as the general director and artistic director, with Dmutro Bogomazov as the principal director. The theater continues to host the International Theater Festival of Women's Mono Performances 'Maria' annually since 2004.",
+        "The Ivan Franko National Academic Drama Theater remains a vital part of Ukraine's cultural landscape, located in a park area near Bankova Street in Kyiv."
+      ]
+    }
+  ],
+  "links_out": [
+    "donbas",
+    "ivan-franko",
+    "kharkiv",
+    "kyiv",
+    "lviv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "ukrainian-soviet-socialist-republic",
+    "vinnytsia"
+  ],
+  "sources": [
+    {
+      "title": "Ivan Franko National Academic Drama Theater — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ivan_Franko_National_Academic_Drama_Theater",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

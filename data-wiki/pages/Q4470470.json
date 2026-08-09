@@ -1,0 +1,67 @@
+{
+  "qid": "Q4470470",
+  "slug": "ukrainian-architecture",
+  "title": "Ukrainian architecture",
+  "type": "architecture of geographic location",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "architecture of geographic location",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Ukrainian architecture reflects a rich history influenced by various cultures and styles, originating from the Eastern Slavic state of Kievan Rus' and evolving through significant historical periods. The architectural landscape of Ukraine showcases a blend of Byzantine, Gothic, Renaissance, Baroque, and modern influences, marking its unique identity within the broader context of Eastern European architecture.",
+  "sections": [
+    {
+      "heading": "Historical Roots",
+      "paragraphs": [
+        "Ukrainian architecture traces its origins to the Eastern Slavic state of [[kievan-rus|Kievan Rus]]'. Following the Mongol invasion, architectural developments continued in the principalities of Galicia–Volhynia and later in the Grand Duchy of Lithuania. During the era of the [[zaporozhian-cossacks|Zaporozhian Cossacks]], a distinctive style emerged, influenced by the Polish–Lithuanian Commonwealth."
+      ]
+    },
+    {
+      "heading": "Ancient and Medieval Architecture",
+      "paragraphs": [
+        "The earliest stone architecture in [[modern-history-of-ukraine|modern Ukraine]] dates back to the 8th century BC, with Greek colonies established along the northern Black Sea coast, including Tyras, Olbia, Chersonesus, and others. By the 5th century BC, Athenian architectural influence became prominent, leading to the spread of Hellenistic architecture in the region.",
+        "In the Early Middle Ages, the architecture of Greek colonies was revitalized during the Byzantine era, with significant constructions such as early Christian churches. The medieval state of Kievan Rus' contributed to the architectural heritage of [[ukraine|Ukraine]], with notable structures like St. Sophia Cathedral (1017–1037) and the Golden Gate (c. 1018–1037) in [[kyiv|Kyiv]]."
+      ]
+    },
+    {
+      "heading": "Late Medieval and Early Modern Architecture",
+      "paragraphs": [
+        "During the 13th and 14th centuries, Gothic architecture made limited appearances in [[western-ukraine|western Ukraine]], with notable examples including the Latin Cathedral in [[lviv|Lviv]]. The 16th century saw the rise of Renaissance architecture, with significant contributions from Italian architects, particularly in Lviv's Market Square.",
+        "The Cossack era (17th–18th centuries) introduced [[ukrainian|Ukrainian]] Baroque architecture, characterized by simpler forms and moderate ornamentation. Major examples include the [[kyiv-pechersk-lavra|Kyiv Pechersk Lavra]] and St. Nicholas Cathedral in Nizhyn."
+      ]
+    },
+    {
+      "heading": "Imperial and Modern Influences",
+      "paragraphs": [
+        "As Ukraine became integrated into the Russian Empire, architectural styles evolved further. Notable Rococo architecture is exemplified by St. Andrew's Church in Kyiv (1747–1754), designed by Bartolomeo Rastrelli. The architectural landscape of Ukraine continues to evolve, reflecting its historical context and cultural identity."
+      ]
+    }
+  ],
+  "links_out": [
+    "kievan-rus",
+    "kyiv",
+    "kyiv-pechersk-lavra",
+    "lviv",
+    "modern-history-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "western-ukraine",
+    "zaporozhian-cossacks"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian architecture — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_architecture",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

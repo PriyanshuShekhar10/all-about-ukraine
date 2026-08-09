@@ -37,7 +37,7 @@
     {
       "heading": "Founding and Structure",
       "paragraphs": [
-        "Energoatom was founded under the Ordinance of the [[cabinet-of-ministers-of-ukraine|Cabinet of Ministers of Ukraine]] 'On the establishment of the National Nuclear Energy Generating Company 'Energoatom' dated 17 October 1996 No. 1268, utilizing the assets of existing nuclear power plants, including [[zaporizhzhia|Zaporizhzhya]], Rivne, South Ukraine, Khmelnytskyi, and [[chernobyl-nuclear-power-plant|Chornobyl NPP]]. The Chornobyl NPP was removed from Energoatom's management in 2001.",
+        "Energoatom was founded under the Ordinance of the [[cabinet-of-ministers-of-ukraine|Cabinet of Ministers of Ukraine]] 'On the establishment of the National Nuclear Energy Generating Company 'Energoatom' dated 17 October 1996 No. 1268, utilizing the assets of existing nuclear power plants, including [[zaporizhzhia|Zaporizhzhya]], [[rivne|Rivne]], South Ukraine, Khmelnytskyi, and [[chernobyl-nuclear-power-plant|Chornobyl NPP]]. The Chornobyl NPP was removed from Energoatom's management in 2001.",
         "In 2021, the Cabinet of Ministers took over the management of Energoatom's unified property complex, aiming to enhance operational efficiency."
       ]
     },
@@ -66,6 +66,7 @@
   "links_out": [
     "cabinet-of-ministers-of-ukraine",
     "chernobyl-nuclear-power-plant",
+    "rivne",
     "ukraine",
     "zaporizhzhia"
   ],

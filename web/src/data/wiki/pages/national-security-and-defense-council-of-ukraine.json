@@ -1,0 +1,82 @@
+{
+  "qid": "Q1563383",
+  "slug": "national-security-and-defense-council-of-ukraine",
+  "title": "National Security and Defense Council of Ukraine",
+  "type": "government agency",
+  "category": "politics",
+  "aliases": [
+    "NSDC",
+    "National Security and Defence Council of Ukraine"
+  ],
+  "infobox": {
+    "label": "government agency",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1996-08-30",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The National Security and Defense Council of Ukraine (NSDCU) is a key governmental agency responsible for coordinating national security and defense policies under the President of Ukraine. Established in 1991, it has evolved to play a significant role in shaping Ukraine's security landscape, particularly since 2014.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The National Security and Defense Council of Ukraine (NSDCU; [[ukrainian|Ukrainian]]: Рада національної безпеки і оборони України) serves as the principal coordinating body of the executive power regarding national security and defense issues. It advises the [[president-of-ukraine|President of Ukraine]], currently [[volodymyr-zelenskyy|Volodymyr Zelenskyy]], and its sessions are held at the Presidential Administration Building."
+      ]
+    },
+    {
+      "heading": "Composition",
+      "paragraphs": [
+        "The membership of the NSDCU is determined by the President and must include the [[prime-minister-of-ukraine|Prime Minister of Ukraine]], the Minister of Defense, the Minister of Internal Affairs, and the Minister of Foreign Affairs. As of August 2026, the council is headed by Secretary Ihor Klymenko."
+      ]
+    },
+    {
+      "heading": "Expanded Powers and Sanctions",
+      "paragraphs": [
+        "Since 2014, the NSDCU has gained expanded powers, including the ability to impose sanctions. Under President Zelenskyy, the council has actively implemented sanctions against Ukrainian citizens, a practice that has drawn criticism from human rights organizations for potentially violating constitutional rights and the rule of law. Critics argue that these sanctions are often used for politically motivated purposes, targeting opposition figures and media."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The Defense Council was established on October 11, 1991, by the [[verkhovna-rada|Supreme Council of Ukraine]], aimed at safeguarding [[ukraine|Ukraine]]'s sovereignty and constitutional order. It was later reformed into the National Security Council on July 3, 1992, and subsequently merged with the Defense Council in 1996 under the provisions of the [[constitution-of-ukraine|Constitution of Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Secretaries of the Council",
+      "paragraphs": [
+        "Since its establishment, the NSDCU has had various secretaries, with Myroslav Vitovsky being the first appointed on January 23, 1992. The role of the secretary has evolved, with significant figures such as Volodymyr Horbulin serving from 1994 to 1999, and the current secretary being Ihor Klymenko since August 2026."
+      ]
+    }
+  ],
+  "links_out": [
+    "constitution-of-ukraine",
+    "president-of-ukraine",
+    "prime-minister-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "National Security and Defense Council of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_Security_and_Defense_Council_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

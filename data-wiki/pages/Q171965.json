@@ -1,0 +1,113 @@
+{
+  "qid": "Q171965",
+  "slug": "luhansk-oblast",
+  "title": "Luhansk Oblast",
+  "type": "oblast of Ukraine",
+  "category": "war",
+  "aliases": [
+    "Luganskaja oblastj",
+    "Luhanshchyna",
+    "Luhanśka oblastj",
+    "Luhanščyna",
+    "Voroshilovgrad Oblast"
+  ],
+  "infobox": {
+    "label": "oblast of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1938-06-03",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Luhansk, Siverskodonetsk",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "2,205,400",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "26,684",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Head of government",
+        "value": "Serhiy Haidai, Artem Lysohor",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.9200, 39.0200",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Luhansk Oblast is the easternmost province of Ukraine, with its administrative center in the city of [[luhansk|Luhansk]]. Established in 1938, the oblast has been significantly affected by conflict, particularly since the 2014 pro-Russian insurgency and the ongoing Russian invasion that began in 2022.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Luhansk Oblast is located in far eastern [[ukraine|Ukraine]], covering an area of 26,700 km2, which is 4.42% of Ukraine's total area. The province measures 250 km in length from north to south and 190 km in width from east to west.",
+        "The oblast has the longest segment of Ukraine's border with Russia, measuring 746 km (464 mi). It shares borders with Belgorod Oblast to the north, Voronezh Oblast to the northeast, and Rostov Oblast to the east, while [[kharkiv|Kharkiv]] Oblast lies to the west and [[donetsk|Donetsk]] Oblast to the south.",
+        "The Siversky Donets river flows through the region, dividing it approximately in half. The Donetsk Ridge elevates the southern part of the oblast, with Mohyla Mechetna being the highest point at 367 m (1,204 ft)."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Luhansk Oblast was established in 1938 as Voroshylovhrad Oblast, following the division of Donetsk Oblast. It was named after Kliment Voroshilov and was known by this name until 1958 and again from 1970 to 1991.",
+        "The region experienced significant military activity during World War II, including occupation by German forces and subsequent liberation by Soviet troops in 1943. The oblast supported Ukraine's independence in the December 1991 referendum, with 83.86% voting in favor.",
+        "In 2014, pro-Russian separatists declared the [[luhansk-peoples-republic|Luhansk People's Republic]], leading to ongoing conflict with [[ukrainian|Ukrainian]] forces. Following the 2022 Russian invasion, the oblast has been largely under Russian control, with heavy fighting reported throughout."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "As of 2004, Luhansk Oblast had a population of 2,461,506, accounting for 5.13% of Ukraine's overall population. The region is predominantly Russian-speaking, with 58.0% ethnic [[ukrainians|Ukrainians]] and 39.1% ethnic Russians.",
+        "In the 2001 Ukrainian Census, 68.8% of the population identified as Russian speakers, while 30.0% identified as Ukrainian speakers. The population density averages 90.28/km2, with approximately 87% living in urban areas."
+      ]
+    },
+    {
+      "heading": "Economy",
+      "paragraphs": [
+        "Luhansk Oblast's economy is closely tied to the [[donbas|Donets Basin]], with significant contributions from the extractive industry, including coal and anthracite mining.",
+        "Key industrial enterprises include Luhanskteplovoz in machine building, Alchevsk Metallurgy Combine in metallurgy, and Sievierodonetsk Association Azot in chemicals and oil refining.",
+        "Agriculture also plays a role in the economy, although the region has been impacted by post-industrial sites."
+      ]
+    },
+    {
+      "heading": "Transport",
+      "paragraphs": [
+        "Luhansk Oblast is serviced by two major European routes, E50 and E40, facilitating transport and connectivity within the region."
+      ]
+    }
+  ],
+  "links_out": [
+    "donbas",
+    "donetsk",
+    "kharkiv",
+    "luhansk",
+    "luhansk-peoples-republic",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Luhansk Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Luhansk_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,57 @@
+{
+  "qid": "Q479053",
+  "slug": "gromada",
+  "title": "gromada",
+  "type": "topic",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "topic",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Poland, Polish People's Republic",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Gromada is a term of Polish origin that denotes a local assembly or organization, particularly relevant to the historical governance structures in Poland and its influence on [[ukrainian|Ukrainian]] territories during various periods.",
+  "sections": [
+    {
+      "heading": "Definition and Origin",
+      "paragraphs": [
+        "The term gromada [ɡrɔˈmada] translates to 'gathering', 'group', or 'assembly' in Polish. It was used to describe a village organization within the Polish–Lithuanian Commonwealth, encompassing all village inhabitants and serving as a local authority."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The gromada system emerged between the 16th and 18th centuries and continued to exist in Congress Poland. The leaders of these organizations, known as sołtys, were elected by the local populace, thereby establishing a form of local governance."
+      ]
+    },
+    {
+      "heading": "Interwar and Post-War Period",
+      "paragraphs": [
+        "During the interwar period in Poland, gromadas remained as subdivisions of gminas. In the Polish People's Republic, from 1954 to 1972, gromadas became the lowest level of local government, replacing the role of gminas and typically comprising several villages."
+      ]
+    },
+    {
+      "heading": "Abolition and Current Status",
+      "paragraphs": [
+        "In 1973, the gromada system was abolished and gminas were reinstated as the primary local government units. Today, the smallest administrative unit in rural Poland is the sołectwo, which operates under the authority of the gmina."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Gromada — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gromada",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

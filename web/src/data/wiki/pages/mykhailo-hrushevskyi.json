@@ -40,7 +40,7 @@
       }
     ]
   },
-  "summary": "Mykhailo Hrushevskyi was a prominent Ukrainian historian, politician, and statesman, recognized as a key figure in the Ukrainian national revival of the early 20th century. His contributions to Ukrainian history and culture, particularly through his extensive writings and political activism, have left a lasting impact on Ukraine's national identity.",
+  "summary": "Mykhailo Hrushevskyi was a prominent Ukrainian historian, politician, and statesman, recognized as a key figure in the [[ukrainian-national-revival|Ukrainian national revival]] of the early 20th century. His contributions to Ukrainian history and culture, particularly through his extensive writings and political activism, have left a lasting impact on Ukraine's national identity.",
   "sections": [
     {
       "heading": "Biography",
@@ -63,7 +63,7 @@
     {
       "heading": "Later Life and Death",
       "paragraphs": [
-        "Hrushevskyi returned to Ukraine in 1924 after a period of emigration and continued his academic work, focusing on his monumental History of Ukraine-Rusʹ. Despite his contributions, he faced persecution during the Stalinist purges and was exiled to Moscow in 1931. He died on 24 November 1934 at the age of 68, under suspicious circumstances that led to his posthumous recognition as a martyr for the Ukrainian cause."
+        "Hrushevskyi returned to Ukraine in 1924 after a period of emigration and continued his academic work, focusing on his monumental [[history-of-ukraine|History of Ukraine]]-Rusʹ. Despite his contributions, he faced persecution during the Stalinist purges and was exiled to Moscow in 1931. He died on 24 November 1934 at the age of 68, under suspicious circumstances that led to his posthumous recognition as a martyr for the Ukrainian cause."
       ]
     },
     {
@@ -74,11 +74,13 @@
     }
   ],
   "links_out": [
+    "history-of-ukraine",
     "ivan-franko",
     "lviv",
     "ukraine",
     "ukrainian",
     "ukrainian-literature",
+    "ukrainian-national-revival",
     "ukrainian-peoples-republic",
     "ukrainians",
     "verkhovna-rada"

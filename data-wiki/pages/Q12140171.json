@@ -18,7 +18,7 @@
       }
     ]
   },
-  "summary": "Petrykivka painting is a traditional Ukrainian decorative art form that originated in the village of Petrykivka, Dnipropetrovsk Oblast. Recognized for its vibrant floral patterns and unique brush techniques, this style has been an integral part of Ukrainian culture since the 18th century and continues to evolve as a modern art form.",
+  "summary": "Petrykivka painting is a traditional Ukrainian decorative art form that originated in the village of Petrykivka, [[dnipropetrovsk-oblast|Dnipropetrovsk Oblast]]. Recognized for its vibrant floral patterns and unique brush techniques, this style has been an integral part of Ukrainian culture since the 18th century and continues to evolve as a modern art form.",
   "sections": [
     {
       "heading": "Origins and Historical Context",
@@ -31,7 +31,7 @@
       "heading": "Recognition and Development",
       "paragraphs": [
         "The Ministry of [[culture-of-ukraine|Culture of Ukraine]] recognized Petrykivka painting as part of the country's intangible cultural heritage in 2012. In 2013, it was included in the UNESCO Representative List of the Intangible Cultural Heritage of Humanity, further solidifying its significance in Ukrainian culture.",
-        "The early 20th century saw increased interest in Petrykivka painting, particularly from ethnographer Dmytro Yavornytsky, who conducted expeditions to document the art form. Subsequent exhibitions in [[kyiv|Kyiv]] and Leningrad in the 1930s helped popularize the style, leading to the establishment of a two-year school of decorative painting in Petrykivka."
+        "The early 20th century saw increased interest in Petrykivka painting, particularly from ethnographer [[dmytro-yavornytsky|Dmytro Yavornytsky]], who conducted expeditions to document the art form. Subsequent exhibitions in [[kyiv|Kyiv]] and Leningrad in the 1930s helped popularize the style, leading to the establishment of a two-year school of decorative painting in Petrykivka."
       ]
     },
     {
@@ -57,7 +57,9 @@
   ],
   "links_out": [
     "culture-of-ukraine",
+    "dmytro-yavornytsky",
     "dnipro",
+    "dnipropetrovsk-oblast",
     "kyiv",
     "taras-shevchenko",
     "ukraine",

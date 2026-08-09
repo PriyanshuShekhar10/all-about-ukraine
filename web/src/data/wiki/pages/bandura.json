@@ -21,7 +21,7 @@
       "heading": "Definition and Structure",
       "paragraphs": [
         "The bandura ([[ukrainian|Ukrainian]]: бандура [bɐnˈdurɐ]) is a Ukrainian plucked-string folk instrument that incorporates elements of both the zither and the lute. Historically, it was referred to as a kobza until the 1940s. Early versions of the instrument, dating back to around 1700, featured 5 to 12 strings and bore a resemblance to lutes. By the 20th century, the string count increased to 31 in 1926, and modern concert instruments typically have between 56 and 68 strings as of 1954.",
-        "Musicians who play the bandura are known as bandurists. In the 19th and early 20th centuries, traditional players, often blind, were called kobzars."
+        "Musicians who play the bandura are known as bandurists. In the 19th and early 20th centuries, traditional players, often blind, were called [[kobzar|kobzars]]."
       ]
     },
     {
@@ -42,7 +42,7 @@
       "heading": "Cultural Significance and Repertoire",
       "paragraphs": [
         "The bandura's repertoire has traditionally been an oral tradition, encompassing folk songs, chants, psalms, and epics known as dumy. The instrument gained popularity in the courts of Eastern European nobility, with numerous Ukrainian bandurists documented in Russia and Poland. Notably, Empress Elisabeth of Russia had a significant relationship with her Ukrainian bandurist, Olexii Rozumovsky.",
-        "In 1908, the Mykola Lysenko Institute of Music and Drama in Kyiv began offering bandura classes, marking a pivotal moment in the formal education of bandura musicians."
+        "In 1908, the [[mykola-lysenko|Mykola Lysenko]] Institute of Music and Drama in Kyiv began offering bandura classes, marking a pivotal moment in the formal education of bandura musicians."
       ]
     },
     {
@@ -61,8 +61,10 @@
     }
   ],
   "links_out": [
+    "kobzar",
     "kyiv",
     "music-of-ukraine",
+    "mykola-lysenko",
     "ukrainian",
     "ukrainians"
   ],

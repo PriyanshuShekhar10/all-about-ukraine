@@ -1,0 +1,101 @@
+{
+  "qid": "Q129677",
+  "slug": "chernobyl",
+  "title": "Chernobyl",
+  "type": "exclusion zone",
+  "category": "geography",
+  "aliases": [
+    "Chernobil",
+    "Chornobyl"
+  ],
+  "infobox": {
+    "label": "exclusion zone",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1193",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "13,000",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "25",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "180",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "51.2667, 30.2167",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Chernobyl, or Chornobyl, is a partially abandoned city located within the Chernobyl Exclusion Zone in Kyiv Oblast, Ukraine. It gained international notoriety following the catastrophic nuclear disaster in 1986, leading to the evacuation of its residents and the establishment of a restricted area due to radioactive contamination.",
+  "sections": [
+    {
+      "heading": "Geographical Context",
+      "paragraphs": [
+        "Chernobyl is situated in Vyshhorod Raion, [[kyiv|Kyiv]] Oblast, [[ukraine|Ukraine]], approximately 90 kilometres (60 mi) north of Kyiv and 160 kilometres (100 mi) southwest of Gomel in Belarus. The city was home to around 14,000 residents before the evacuation triggered by the [[chernobyl-disaster|Chernobyl disaster]]."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "The first recorded mention of Chernobyl dates back to 1193, when it was referred to as a ducal hunting lodge in [[kievan-rus|Kievan Rus]]'. The city evolved through various historical phases, including a significant Jewish presence in the 16th century, which was later devastated during the Holocaust.",
+        "In the 20th century, Chernobyl gained prominence with the establishment of the [[chernobyl-nuclear-power-plant|Chernobyl Nuclear Power Plant]] in 1972, which led to the construction of the nearby city of Pripyat to accommodate its workers."
+      ]
+    },
+    {
+      "heading": "Chernobyl Disaster",
+      "paragraphs": [
+        "The Chernobyl disaster occurred on 26 April 1986, when Reactor No. 4 at the nuclear power plant exploded. The Soviet government initiated the evacuation of Chernobyl and Pripyat on 5 May 1986, relocating most residents to the newly constructed city of Slavutych. While Pripyat remains entirely abandoned, Chernobyl has a small population of approximately 150 people as of 2020."
+      ]
+    },
+    {
+      "heading": "Post-Disaster Era",
+      "paragraphs": [
+        "Following the disaster, Chernobyl became part of the [[chernobyl-exclusion-zone|Chernobyl Exclusion Zone]], where living is technically illegal but has been tolerated in less contaminated areas. The city serves as a base for workers and administrative personnel overseeing the exclusion zone.",
+        "The [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]] raised international concerns regarding the safety of nuclear facilities, as Russian forces occupied the Chernobyl exclusion zone, leading to increased radiation levels."
+      ]
+    },
+    {
+      "heading": "Cultural and Etymological Aspects",
+      "paragraphs": [
+        "The name 'Chernobyl' is derived from the Old East Slavic personal name Чьрнобыль (Čǐrnobylǐ) and is linguistically linked to the [[ukrainian|Ukrainian]] and Russian words for mugwort, meaning 'black stem'.",
+        "Chernobyl has been a site of historical and cultural significance, particularly as a center of Hasidic Judaism in the 18th century, which played a crucial role in the city's identity before the devastation of World War II and the Holocaust."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "chernobyl-disaster",
+    "chernobyl-exclusion-zone",
+    "chernobyl-nuclear-power-plant",
+    "kievan-rus",
+    "kyiv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Chernobyl — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chernobyl",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

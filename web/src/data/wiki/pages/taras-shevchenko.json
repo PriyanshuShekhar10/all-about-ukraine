@@ -60,14 +60,14 @@
       "heading": "Liberation and Literary Success",
       "paragraphs": [
         "Shevchenko was liberated from serfdom on 5 May 1838, thanks to the efforts of Briullov, who raised the necessary funds. Following his emancipation, he became a student at the Imperial Academy of Arts, where he flourished both socially and artistically. His works began to gain recognition, earning him several silver medals for his paintings.",
-        "In addition to painting, Shevchenko wrote extensively, producing poetry and prose that would later be compiled in his famous collection, Kobzar. His literary works are considered the cornerstone of modern [[ukrainian-literature|Ukrainian literature]], highlighting themes of national identity and social justice."
+        "In addition to painting, Shevchenko wrote extensively, producing poetry and prose that would later be compiled in his famous collection, [[kobzar|Kobzar]]. His literary works are considered the cornerstone of modern [[ukrainian-literature|Ukrainian literature]], highlighting themes of national identity and social justice."
       ]
     },
     {
       "heading": "Cultural Impact",
       "paragraphs": [
         "Shevchenko's contributions to [[ukrainian|Ukrainian]] culture extend beyond literature and art; he is celebrated as a national hero and symbol of Ukrainian identity. His works express the struggles and aspirations of the [[ukrainians|Ukrainian people]], and his legacy continues to inspire generations.",
-        "Comparisons have been made between Shevchenko and Robert Burns, emphasizing his significance not only in Ukraine but also in the broader Slavic cultural context. His poetry and artistic endeavors have solidified his status as a pivotal figure in the history of Ukraine."
+        "Comparisons have been made between Shevchenko and Robert Burns, emphasizing his significance not only in Ukraine but also in the broader Slavic cultural context. His poetry and artistic endeavors have solidified his status as a pivotal figure in the [[history-of-ukraine|history of Ukraine]]."
       ]
     },
     {
@@ -78,6 +78,8 @@
     }
   ],
   "links_out": [
+    "history-of-ukraine",
+    "kobzar",
     "ukraine",
     "ukrainian",
     "ukrainian-literature",

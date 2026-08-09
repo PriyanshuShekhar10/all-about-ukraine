@@ -1,0 +1,102 @@
+{
+  "qid": "Q33349",
+  "slug": "melitopol",
+  "title": "Melitopol",
+  "type": "city of regional significance of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Melitopil",
+    "Melitópol’"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1784",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Russian Empire, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "154,992",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "49",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "38",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Ivan Fedorov",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "46.8489, 35.3675",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Melitopol is a significant city and municipality located in Zaporizhzhia Oblast, southeastern [[ukraine|Ukraine]], known for its strategic location and historical importance. As of January 2022, it had a population of approximately 148,851 and has been under Russian control since March 2022, although it remains internationally recognized as part of Ukraine.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Melitopol is positioned on the Molochna River, which flows into the Molochnyi Lyman estuary. It is the second-largest city in [[zaporizhzhia|Zaporizhzhia]] Oblast, following Zaporizhzhia, and serves as the administrative center of Melitopol Raion. The city is strategically located at the intersection of two major European highways: E58 and E105. According to the 2001 [[ukrainian|Ukrainian]] census, the population of Melitopol was 160,352, with [[ukrainians|Ukrainians]] constituting 55.2%, Russians 38.9%, and Bulgarians 1.8%."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The area of Melitopol has a rich history, with its origins tracing back to the establishment of a redoubt by Russian military commanders in July 1769. The settlement was officially recognized as a town on 7 January 1842 and was named Melitopol, derived from the Greek word for 'honey'. The city developed as a trade center in the late 19th century, with significant industries emerging, including iron foundries and machinery construction.",
+        "During World War II, Melitopol was occupied by German forces on 6 October 1941, leading to tragic events such as the extermination of the local Jewish population. The city was liberated by the Red Army on 23 October 1943 after intense fighting."
+      ]
+    },
+    {
+      "heading": "Recent History and Conflict",
+      "paragraphs": [
+        "In the context of the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]], Melitopol was attacked by Russian forces on 25 February 2022 and captured by 1 March 2022. The city's mayor, Ivan Fedorov, opposed the occupation, leading to his abduction by Russian military on 11 March 2022. Following the annexation of Melitopol by the Russian Federation on 30 September 2022, the city has faced significant challenges, including food and fuel shortages, and the imposition of a re-Sovietization policy by Russian authorities."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Melitopol is recognized for its cultural heritage, including monuments and memorials such as the statue of [[bohdan-khmelnytsky|Bohdan Khmelnytsky]]. The city also hosts the Melitopol Museum of Local History, which contains a significant collection related to the region's history and culture. Additionally, Melitopol has established itself as a 'city of honey', promoting local honey production and related industries."
+      ]
+    },
+    {
+      "heading": "Economic Development",
+      "paragraphs": [
+        "The economy of Melitopol is characterized by a well-developed mechanical engineering sector, which has expanded significantly since the establishment of numerous small and medium enterprises. The city is known for its production of goods for the agricultural sector and has formed a cluster called 'AgroBOOM' to enhance its engineering industries."
+      ]
+    }
+  ],
+  "links_out": [
+    "bohdan-khmelnytsky",
+    "full-scale-russo-ukrainian-war",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "zaporizhzhia"
+  ],
+  "sources": [
+    {
+      "title": "Melitopol — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Melitopol",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

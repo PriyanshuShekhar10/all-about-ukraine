@@ -1,0 +1,102 @@
+{
+  "qid": "Q71727",
+  "slug": "irpin",
+  "title": "Irpin",
+  "type": "city in Ukraine",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1899",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "83,057",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "110",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "121",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.5167, 30.2500",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Irpin is a city located on the Irpin River in Bucha Raion, Kyiv Oblast, northern Ukraine, known for its proximity to the capital Kyiv and its significant historical and cultural heritage. The city has a population of approximately 65,167 as of 2022 and has been notably impacted by the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]].",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Irpin is situated on the Irpin River in Bucha Raion, [[kyiv|Kyiv]] Oblast, northern [[ukraine|Ukraine]], adjacent to the capital city of Kyiv. As of 2022, the estimated population of Irpin was 65,167. The city administers the Irpin urban hromada, a type of administrative division in Ukraine."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "The area where Irpin is located was home to several villages, such as Romanivka and Liubka, dating back to the 17th century. The city itself was established in 1899 around a railway station built during the construction of the Kyiv–Kovel railway line.",
+        "In February 1918, Irpin witnessed battles between the [[sich-riflemen|Sich Riflemen]] and Bolshevik forces, and it was occupied by the Wehrmacht during World War II from July 1941 until November 1943. The local Jewish population suffered greatly during the Nazi occupation.",
+        "Irpin's status changed over the years, becoming a city of raion subordination in 1956 and later a city of oblast subordination in 1962, incorporating nearby urban-type settlements."
+      ]
+    },
+    {
+      "heading": "Impact of the 2022 Russian Invasion",
+      "paragraphs": [
+        "During the 2022 Russian invasion, Irpin became a significant battleground, with Russian forces capturing key locations and causing extensive damage. By March 2022, approximately 76% of the city had been affected by the conflict, leading to the destruction of cultural landmarks, including the House of Culture.",
+        "On 24 March 2022, [[ukrainian|Ukrainian]] forces recaptured 80% of the city, and Irpin was designated as a Hero City of Ukraine by President Volodymyr Zelensky on the same day. Reports indicated that over 300 civilians and 50 servicemen were killed during the occupation."
+      ]
+    },
+    {
+      "heading": "Cultural Significance and Reconstruction Efforts",
+      "paragraphs": [
+        "The Irpin Central House of Culture, established in 1954, is a notable cultural institution that faced severe damage during the invasion. It has been a center for artistic and community activities and has been featured in various media as a symbol of resilience.",
+        "Post-invasion, initiatives like the Irpin Reconstruction Summit have emerged to facilitate the city's rebuilding, with international support for restoring critical infrastructure and cultural sites."
+      ]
+    },
+    {
+      "heading": "Economy and Education",
+      "paragraphs": [
+        "Irpin is recognized as a resort area within a forest zone and serves as an industrial hub, with various manufacturers and agricultural production supporting the Kyiv region. The city is home to institutions such as the University of the State Fiscal Service of Ukraine and the School of Economy of the National Agrarian University."
+      ]
+    },
+    {
+      "heading": "Notable Residents",
+      "paragraphs": [
+        "Irpin has been the birthplace or residence of several notable individuals, including Ukrainian mixed martial artist Yaroslav Amosov, Soviet writer Nikolay Nosov, photographer Yuri Kosin, and singer LOBODA."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "kyiv",
+    "sich-riflemen",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Irpin — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Irpin",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

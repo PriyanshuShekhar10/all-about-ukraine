@@ -1,0 +1,95 @@
+{
+  "qid": "Q45883",
+  "slug": "khotyn",
+  "title": "Khotyn",
+  "type": "city in Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1002-09-22",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "9,422",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "20",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "5",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.5078, 26.4860",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Khotyn is a city located in Dnistrovskyi Raion, [[chernivtsi|Chernivtsi]] Oblast, in [[western-ukraine|western Ukraine]], known for its historical significance and architectural landmarks, including the Khotyn Fortress. It has a population of approximately 8,936 as of 2022 and serves as the administrative center of the Khotyn urban hromada.",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Context",
+      "paragraphs": [
+        "Khotyn, pronounced [xoˈtɪn] in [[ukrainian|Ukrainian]] and [hoˈtin] in Romanian, is situated on the southwestern bank of the [[dniester|Dniester]] River, southwest of Kamianets-Podilskyi. It functions as the administrative center of Khotyn urban hromada, which is one of the hromadas in [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Historical Overview",
+      "paragraphs": [
+        "The city was first documented in 1001 and has been part of various political entities throughout its history, including [[kievan-rus|Kievan Rus]]', the Galicia–Volhynia Principality, the Principality of Moldavia, and the Polish–Lithuanian Commonwealth. Khotyn was under Ottoman control from 1711 to 1812 and later became part of the Bessarabia Governorate of the Russian Empire until 1917. After a brief period under Romanian control, it was annexed by the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]] and has been part of independent Ukraine since 1991."
+      ]
+    },
+    {
+      "heading": "Architectural Landmarks",
+      "paragraphs": [
+        "Khotyn is renowned for its historical architecture, particularly the Khotyn Fortress, which was built between the 13th and 15th centuries, with significant enhancements made in 1325, the 1380s, and the 1460s. The fortress is complemented by two notable 15th-century structures: the Prince's Palace and the city's clock tower, both commissioned by Stephen the Great of Moldavia."
+      ]
+    },
+    {
+      "heading": "Battles and Military Significance",
+      "paragraphs": [
+        "Khotyn has been the site of several significant battles, particularly during the conflicts between the Ottoman Empire and the Polish–Lithuanian Commonwealth. Notable battles include the first Battle of Khotyn in 1621, where Polish and Ukrainian forces achieved a crucial victory, and the second Battle of Khotyn in 1673, which further solidified Polish military strength in the region."
+      ]
+    },
+    {
+      "heading": "Modern Developments",
+      "paragraphs": [
+        "In 2000, the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] established the historical-architectural preserve 'Khotynska Fortetsia' to protect the Khotyn Fortress. The city celebrated its millennium in September 2002. Following administrative reforms in July 2020, Khotyn was incorporated into Dnistrovskyi Raion, marking a significant change in its administrative status."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "chernivtsi",
+    "dniester",
+    "kievan-rus",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Khotyn — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Khotyn",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

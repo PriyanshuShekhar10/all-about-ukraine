@@ -1,0 +1,84 @@
+{
+  "qid": "Q4470480",
+  "slug": "ukrainian-exchange",
+  "title": "Ukrainian Exchange",
+  "type": "stock exchange",
+  "category": "economy",
+  "aliases": [
+    "UKEX",
+    "UX"
+  ],
+  "infobox": {
+    "label": "stock exchange",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2008",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Ukrainian Exchange, established on 15 May 2008, is a prominent stock exchange located in Kyiv, Ukraine. It has served as a key trading platform for equities and derivatives within the country, operating under the jurisdiction of the Ministry of Finance of Ukraine.",
+  "sections": [
+    {
+      "heading": "Foundation and Early History",
+      "paragraphs": [
+        "The Ukrainian Exchange was founded on 15 May 2008 when major participants of the [[ukrainian|Ukrainian]] securities market signed a Memorandum of Understanding with the RTS Stock Exchange to create a new exchange in [[kyiv|Kyiv]]. The ownership structure consisted of 51% held by Ukrainian broker/dealers and 49% by the RTS Stock Exchange.",
+        "The exchange was registered as a legal entity in October 2008, and by December 2008, it received its stock exchange license from the State Commission of [[ukraine|Ukraine]]. Official trading commenced on 26 March 2009, featuring over 80 of the most liquid Ukrainian stocks."
+      ]
+    },
+    {
+      "heading": "Development and Innovations",
+      "paragraphs": [
+        "On 27 April 2009, the Ukrainian stock index (UX) was launched, marking the first online index in Ukraine with an initial value of 500. The exchange introduced its repo market on 14 May 2009, followed by the implementation of Central Counterparty technology on 16 September 2009 to enhance investor anonymity during settlements.",
+        "The Ukrainian Exchange established the first derivatives market in Ukraine on 27 May 2010, with the first traded instrument being a futures contract on the UX Index. By October 2010, 160 professional brokerage companies were registered, with 23 providing direct market access."
+      ]
+    },
+    {
+      "heading": "Impact of the 2022 Invasion",
+      "paragraphs": [
+        "The operations of the Ukrainian Exchange were significantly affected by the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]]. On 24 February 2022, the exchange announced a suspension of its activities and encouraged citizens and businesses to sell Russian roubles, stocks, and bonds to support the defense against the invasion.",
+        "On 2 March 2022, the exchange resumed restricted trading, allowing transactions in military government bonds to help finance the [[armed-forces-of-ukraine|Armed Forces of Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Regulatory Changes",
+      "paragraphs": [
+        "In June 2024, the National Securities and Stock Market Commission revoked the licenses of the Ukrainian Exchange due to the ownership of a significant interest in the exchange being linked to a person sanctioned under Ukrainian law."
+      ]
+    },
+    {
+      "heading": "Products and Services",
+      "paragraphs": [
+        "The Ukrainian Exchange offers a variety of trading products, including equities, fixed-income securities, and derivatives. It provides access to the market for internal government loan bonds, with minimum trading lots set at ₴10,000.",
+        "The derivatives market includes contracts based on various underlying assets such as the UX Index, exchange rates, and commodities like gold and Brent crude oil. Additionally, the exchange conducts privatization auctions for state-owned enterprises, allowing both residents and non-residents to participate."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "armed-forces-of-ukraine",
+    "kyiv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Exchange — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Exchange",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

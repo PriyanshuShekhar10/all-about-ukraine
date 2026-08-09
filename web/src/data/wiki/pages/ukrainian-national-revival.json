@@ -1,0 +1,70 @@
+{
+  "qid": "Q4470657",
+  "slug": "ukrainian-national-revival",
+  "title": "Ukrainian National Revival",
+  "type": "national liberation movement",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "national liberation movement",
+    "fields": []
+  },
+  "summary": "The Ukrainian National Revival was a national liberation movement that emerged in the late 18th century, during a time when Ukraine was divided among the Austrian Empire, the Kingdom of Hungary, and the Russian Empire. This movement marked the beginning of modern Ukrainian literature and was characterized by the formation of various cultural and political organizations aimed at fostering Ukrainian identity and autonomy.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The Ukrainian National Revival occurred when the territory of present-day [[ukraine|Ukraine]] was partitioned among the Austrian Empire, the Kingdom of Hungary, and the Russian Empire following the partitions of Poland at the end of the 18th century. This period followed the Haidamaka Uprisings, which had significantly impacted the former [[cossack-hetmanate|Cossack Hetmanate]].",
+        "During this time, [[ukrainian|Ukrainian]] national resistance was largely suppressed, with state institutions of the Cossack Hetmanate being dismantled alongside the Cossack movement. The Russian Empire expanded its influence into Central Europe and along the Black Sea."
+      ]
+    },
+    {
+      "heading": "Stages of the Revival",
+      "paragraphs": [
+        "Ukrainian historians, including Volodymyr Doroshenko and [[mykhailo-hrushevskyi|Mykhailo Hrushevsky]], identified three stages of the Ukrainian National Revival. The first stage lasted from the end of the 18th century until the 1840s, the second stage spanned the 1840s to the 1850s, and the third stage encompassed the latter half of the 19th century.",
+        "This period is also recognized as the inception of modern [[ukrainian-literature|Ukrainian literature]], particularly through the works of Ivan Kotliarevsky."
+      ]
+    },
+    {
+      "heading": "Key Organizations",
+      "paragraphs": [
+        "The Novhorod-Siversky Patriotic Circle, active before the 1812 French invasion of Russia, played a significant role in the revival of Cossack regiments. Notable members included Andriy Hudovych, Tymofiy Kalynsky, and Opanas Lobysevych. Speculation exists regarding a connection between this circle and Vasily Kapnist's 1791 secret mission to Berlin.",
+        "The Brotherhood of Sts Cyril and Methodius, a brief underground organization based in [[kyiv|Kyiv]], included 12 members and was led by Mykola Kostomarov. The group was characterized by its anti-absolutist stance and interest in Pan-Slavism."
+      ]
+    },
+    {
+      "heading": "Hromada Movement",
+      "paragraphs": [
+        "Following the dissolution of the Brotherhood of Sts Cyril and Methodius, a network of hromada (Ukrainian communities) emerged, influenced by the Khlopomanstvo movement. The first hromada formed in Saint Petersburg, with members contributing to the Ukrainian magazine Osnova published in 1861–62.",
+        "The most influential hromada developed in Kyiv, known as the Old Hromada, which included prominent figures such as Volodymyr Antonovych and [[mykola-lysenko|Mykola Lysenko]]. This hromada was instrumental in establishing various Ukrainian political and cultural organizations across the Russian Empire."
+      ]
+    },
+    {
+      "heading": "Ukrainian Identity under Austrian Rule",
+      "paragraphs": [
+        "Under Austrian rule, Galicia emerged as a 'Ukrainian Piedmont.' During the early Habsburg period (1770s–1780s), the existence of the Ruthenian people was recognized, and a universal elementary education system was introduced in the Ruthenian language. The Eastern Rite Uniate Catholic Church was acknowledged as equal to the Roman Catholic Church.",
+        "Prominent leaders of the Ukrainian national revival, including the 'Ruthenian Triad' of Markiyan Shashkevych, Ivan Vahylevych, and Yakiv Holovatsky, published the almanac [[rusalka|Rusalka]] Dnistrovaya in 1837. The Supreme Ruthenian Council was established in [[lviv|Lviv]] during the 1848 Revolution, marking the first legal Ukrainian political organization, while the first Ukrainian-language newspaper, Zoria Halytska, began publication in May 1848."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossack-hetmanate",
+    "kyiv",
+    "lviv",
+    "mykhailo-hrushevskyi",
+    "mykola-lysenko",
+    "rusalka",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-literature"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian national revival — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_national_revival",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

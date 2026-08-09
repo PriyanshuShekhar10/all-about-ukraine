@@ -1,0 +1,63 @@
+{
+  "qid": "Q2330480",
+  "slug": "kobzar",
+  "title": "kobzar",
+  "type": "occupation",
+  "category": "culture",
+  "aliases": [
+    "kobzar",
+    "kobzars"
+  ],
+  "infobox": {
+    "label": "occupation",
+    "fields": []
+  },
+  "summary": "A kobzar was an itinerant bard in Ukraine, known for singing accompanied by the kobza, a traditional stringed instrument. This occupation emerged during the Cossack Era in the 16th century and became predominantly associated with blind musicians by the 1800s.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The kobzar tradition began in [[ukraine|Ukraine]] during the Cossack Era around the 16th century. The term 'kobzar' translates to 'player of kobza', reflecting the musician's primary instrument. The image of Kozak Mamai, often depicted as a man playing the kobza, symbolizes the cultural significance of kobzari, who were believed to be military musicians linked to the [[cossacks|Cossacks]]."
+      ]
+    },
+    {
+      "heading": "Blindness and Social Role",
+      "paragraphs": [
+        "By the 1800s, blindness became a common characteristic among kobzari, as it provided a social role for those unable to engage in agricultural labor. The high infant mortality rate during this period contributed to the prevalence of blindness among survivors. Natalie Kononenko noted that the requirement for kobzari to be blind enhanced their artistic and spiritual effectiveness."
+      ]
+    },
+    {
+      "heading": "Training and Repertoire",
+      "paragraphs": [
+        "Kobzari were trained through a rigorous apprenticeship process, typically lasting three years, where blind children learned to navigate life without sight and to perform traditional songs. Their repertoire included various song types such as zhebranka, psalmy, istorychni pisni, dumy, and satirical songs, each reflecting different themes and cultural narratives."
+      ]
+    },
+    {
+      "heading": "Social Structure and Travel",
+      "paragraphs": [
+        "Kobzari were itinerant performers, traveling between villages and often relying on guides for navigation. They typically performed at local fairs, religious festivals, and weddings, sharing news and stories as they moved from place to place. Guides, often orphans or disabled children, assisted kobzari in their travels."
+      ]
+    },
+    {
+      "heading": "Decline and Revival",
+      "paragraphs": [
+        "The kobzar tradition faced significant decline during the mid-1930s under [[donetsk|Stalin]]'s regime, which sought to eliminate this cultural practice through executions and restrictions. Despite these efforts, the tradition has seen a revival in recent years, with a focus on authentic performance practices and the celebration of [[ukrainian|Ukrainian]] heritage. In 2024, the kobza and wheel lyre tradition was recognized by UNESCO for its safeguarding efforts."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossacks",
+    "donetsk",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Kobzar — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kobzar",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,88 @@
+{
+  "qid": "Q368716",
+  "slug": "ukrainian-historical-regions",
+  "title": "Ukrainian historical regions",
+  "type": "topic",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "topic",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The historical regions of Ukraine encompass various geographic, cultural, and historical identities that have shaped the nation's development. These regions reflect Ukraine's diverse heritage and the evolution of its territorial divisions over time.",
+  "sections": [
+    {
+      "heading": "Main Historical Regions",
+      "paragraphs": [
+        "The historical regions of present-day [[ukraine|Ukraine]] are significant in understanding the country's past and cultural landscape."
+      ]
+    },
+    {
+      "heading": "Traditional Regions",
+      "paragraphs": [
+        "The traditional names of [[administrative-territorial-entity-of-ukraine|Ukraine's regions]] serve as important geographic, historical, and ethnographic identifiers. Key regions include [[dnieper|Dnieper]] Ukraine, or Great Ukraine, which encompasses the Land of [[kyiv|Kyiv]], and Right-bank Ukraine, located east of [[zhytomyr|Zhytomyr]] Oblast, Kyiv Oblast, and [[cherkasy|Cherkasy]] Oblast, representing Central Ukraine.",
+        "Polesia, or the Land of Turov, is situated north of Kyiv Oblast and extends into parts of Belarus, while the Land of Pereiaslav primarily covers [[poltava|Poltava]] Oblast and eastern Kyiv Oblast, marking the southern part of Left-bank Ukraine, also known as Little Russia.",
+        "The Land of [[chernihiv|Chernihiv]]-Siveria includes Chernihiv Oblast and parts of [[sumy|Sumy]] Oblast, representing the northern part of Left-bank Ukraine. Ruthenia, or the Kingdom of Rus, is associated with [[western-ukraine|Western Ukraine]] and Lesser Poland.",
+        "Volhynia, located in Volyn Oblast and [[rivne|Rivne]] Oblast, was a former principality, while regions like Chełm, Belz, and Przemyśl were part of Ruthenia. Other notable areas include Berestia, Galicia, Red Ruthenia, and regions such as Prykarpattia, Pokuttia, and [[podolia|Podolia]], which contribute to the cultural mosaic of Ukraine.",
+        "Sloboda Ukraine, [[zaporizhzhia|Zaporizhzhia]], and the [[donbas|Donbas]] region, known for its historical significance, further illustrate the diverse historical landscape of Ukraine. Additional regions include the Azov Littoral, Black Sea Littoral, and [[crimea|Crimea]], each with its own historical context."
+      ]
+    },
+    {
+      "heading": "Contemporary Regions",
+      "paragraphs": [
+        "In contemporary discourse, regions of Ukraine are often categorized based on geopolitical, historical, and cultural factors. Commonly used terms include Central Ukraine, Eastern Ukraine, Southern Ukraine, and Western Ukraine, although these terms lack precise definitions.",
+        "Central Ukraine generally refers to areas not included in Western or Southeastern classifications. Eastern Ukraine may refer to the Don basin and Sloboda Ukraine, while Southern Ukraine often encompasses the entire Taurida region, including [[mykolaiv|Mykolayiv]] and [[odesa|Odesa]] oblasts.",
+        "Western Ukraine typically denotes the historic region of Galicia and may also include Volhynia, Podolia, and [[transcarpathia|Transcarpathia]]. Other less common terms include South-western Ukraine, which can refer to Transcarpathia or Budjak, and South-eastern Ukraine, which may define regions in both Southern and Eastern Ukraine."
+      ]
+    },
+    {
+      "heading": "Historical States",
+      "paragraphs": [
+        "Ukraine's historical regions have been shaped by various states throughout history. [[kievan-rus|Kievan Rus]], existing from 879 to 1240, was one of the earliest states of the East Slavs. The [[kingdom-of-galiciavolhynia|Kingdom of Galicia–Volhynia]], which lasted from 1199 to 1349, and the [[cossack-hetmanate|Cossack Hetmanate]] from 1649 to 1764, are notable historical entities.",
+        "The 20th century saw the emergence of several short-lived governments, including the Central [[verkhovna-rada|Rada]] of the [[ukrainian-peoples-republic|Ukrainian People's Republic]] (1917–1918), the Odesa Soviet Republic (1918), and the [[west-ukrainian-peoples-republic|West Ukrainian People's Republic]] (1918–1919). The [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]] existed from 1919 to 1991, followed by the establishment of an independent Ukraine in 1991."
+      ]
+    }
+  ],
+  "links_out": [
+    "administrative-territorial-entity-of-ukraine",
+    "cherkasy",
+    "chernihiv",
+    "cossack-hetmanate",
+    "crimea",
+    "dnieper",
+    "donbas",
+    "kievan-rus",
+    "kingdom-of-galiciavolhynia",
+    "kyiv",
+    "mykolaiv",
+    "odesa",
+    "podolia",
+    "poltava",
+    "rivne",
+    "sumy",
+    "transcarpathia",
+    "ukraine",
+    "ukrainian-peoples-republic",
+    "ukrainian-soviet-socialist-republic",
+    "verkhovna-rada",
+    "west-ukrainian-peoples-republic",
+    "western-ukraine",
+    "zaporizhzhia",
+    "zhytomyr"
+  ],
+  "sources": [
+    {
+      "title": "Historical regions in present-day Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Historical_regions_in_present-day_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

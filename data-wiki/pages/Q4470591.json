@@ -1,0 +1,71 @@
+{
+  "qid": "Q4470591",
+  "slug": "ukrainian-museum",
+  "title": "Ukrainian Museum",
+  "type": "art museum",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "art museum",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1976",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "United States",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "40.7278, -73.9897",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Ukrainian Museum, established in 1976 by the Ukrainian National Women's League of America in New York City, is the largest museum dedicated to Ukrainian art and culture outside of Ukraine. It aims to promote the understanding and preservation of Ukraine's artistic heritage through its diverse collections and exhibitions.",
+  "sections": [
+    {
+      "heading": "Foundation and Location",
+      "paragraphs": [
+        "Founded in 1976 by the [[ukrainian|Ukrainian]] National Women's League of America, the Ukrainian Museum is situated in New York City and is recognized as the largest museum of its kind outside of [[ukraine|Ukraine]]. The museum's building was designed by Ukrainian-American architect George Sawicki and funded by the Ukrainian-American community. It is located at 222 East 6th Street between Second Avenue and Cooper Square in the East Village neighborhood of Manhattan."
+      ]
+    },
+    {
+      "heading": "Collection and Exhibitions",
+      "paragraphs": [
+        "The museum's collection is categorized into three main areas: 'folk art,' which includes festive attire, ceramics, metalwork, and Ukrainian Easter eggs (pysanky); 'fine arts,' featuring works by prominent Ukrainian artists such as Nikifor, Mykhailo Moroz, and Alexander Archipenko; and items that document the history and cultural legacy of Ukrainian immigration to the United States, including photographs and personal correspondence.",
+        "For over 45 years, the museum has promoted Ukraine's cultural heritage through regular exhibitions, showcasing traditional folk costumes, textiles, and contemporary art. The museum also publishes catalogs that document its scholarly work.",
+        "In 2015, the museum hosted a significant exhibition titled The [[ukrainian-diaspora|Ukrainian Diaspora]]: Women Artists: 1908-2015, featuring over 100 works by 43 female artists, including Lydia Bodnar-Balahutrak and Sonia Delaunay. This exhibition highlighted the relationship between Ukrainian identity and women artists and included a catalog with contributions from guest curator Adrienne Kochman."
+      ]
+    },
+    {
+      "heading": "Recent Exhibitions",
+      "paragraphs": [
+        "In spring 2024, the Ukrainian Museum presented Maria Prymachenko: Glory to Ukraine, showcasing 100 works from the renowned Ukrainian artist. This exhibition is noted as the largest display of Prymachenko's work outside of Europe."
+      ]
+    },
+    {
+      "heading": "Leadership",
+      "paragraphs": [
+        "The museum has been led by Maria Shust from its inception in 1976 until 2022, followed by Peter Doroshenko, who took over the directorship in 2022."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine",
+    "ukrainian",
+    "ukrainian-diaspora"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Museum — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Museum",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,105 @@
+{
+  "qid": "Q161980",
+  "slug": "chyhyryn",
+  "title": "Chyhyryn",
+  "type": "city in Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Chigirin",
+    "Chygyryn",
+    "Czehryń",
+    "Tchigirin"
+  ],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Polish–Lithuanian Commonwealth",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "8,962",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "10",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "124",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.0833, 32.6667",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Chyhyryn is a city located in [[cherkasy|Cherkasy]] Raion, Cherkasy Oblast, central Ukraine, situated along the Tiasmyn River. Historically significant as the residence of the hetman of the Zaporizhian Host and the capital of the Cossack Hetmanate, Chyhyryn has played a crucial role in Ukraine's political and cultural history.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Chyhyryn is positioned on the banks of the Tiasmyn River, at an altitude of 124 meters above sea level. As of 2022, the city has an estimated population of 8,539 residents."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "From 1648 to 1669, Chyhyryn served as the residence of the [[hetman|hetman]] of the Zaporizhian Host and became a capital of the [[cossack-hetmanate|Cossack Hetmanate]] after the relocation of the Ruthenian Orthodox metropolitan see from [[kyiv|Kyiv]] in 1658. Notable Metropolitans such as Dionysius Balaban and Joseph Tukalskyi-Nelyubovych served in Chyhyryn.",
+        "The city was established in 1589 when King Sigismund III of Poland granted privileges for the creation of a town and castle on a site known as Czehryn. The town received Magdeburg rights in 1592, which contributed to its early development."
+      ]
+    },
+    {
+      "heading": "Cossack Era",
+      "paragraphs": [
+        "Chyhyryn became a significant Cossack stronghold following its capture by [[bohdan-khmelnytsky|Bohdan Khmelnytsky]], who established it as his main seat of power. The Chyhyryn Regiment became a prominent military unit within the Zaporozhian Host.",
+        "After Khmelnytsky's death, the city faced various sieges and changes in control, including attacks by Kalmyk Tatars and Left-bank [[cossacks|Cossacks]], leading to significant destruction."
+      ]
+    },
+    {
+      "heading": "Later Developments",
+      "paragraphs": [
+        "Following a period of decline, Chyhyryn began to recover after peace was established between Poland, Turkey, and Russia in 1714. The town served as the center of the Chyhyryn Regiment until 1712 and saw some rebuilding efforts.",
+        "In 1917, Chyhyryn hosted a congress of Free Cossacks, leading to the election of Pavlo Skoropadsky as the Hetman of the Cossacks. The city experienced various administrative changes throughout the [[ukrainian-war-of-independence|Ukrainian War of Independence]]."
+      ]
+    },
+    {
+      "heading": "Modern Era",
+      "paragraphs": [
+        "Chyhyryn was occupied by German forces during World War II from August 7, 1941, to December 12, 1943. The population in 1989 was recorded at 12,853.",
+        "In 2020, Chyhyryn was restructured administratively, losing its status as the center of Chyhyryn Raion as part of a broader reform in [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Cultural Heritage",
+      "paragraphs": [
+        "The city is home to several historical landmarks, including the remnants of the Trinity Monastery, which was built in 1627 but later destroyed. Following Ukraine's independence, the Hetman's residence was restored and converted into a museum, reflecting Chyhyryn's rich cultural heritage."
+      ]
+    }
+  ],
+  "links_out": [
+    "bohdan-khmelnytsky",
+    "cherkasy",
+    "cossack-hetmanate",
+    "cossacks",
+    "hetman",
+    "kyiv",
+    "ukraine",
+    "ukrainian-war-of-independence"
+  ],
+  "sources": [
+    {
+      "title": "Chyhyryn — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chyhyryn",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

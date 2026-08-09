@@ -1,0 +1,114 @@
+{
+  "qid": "Q1050926",
+  "slug": "chernobyl-exclusion-zone",
+  "title": "Chernobyl Exclusion Zone",
+  "type": "administrative territorial entity of Ukraine",
+  "category": "people",
+  "aliases": [
+    "Chernobyl Nuclear Power Plant Zone of Alienation",
+    "Chernobyl exclusion zone",
+    "Chernobyl restricted zone",
+    "Chornobyl Exclusion Zone",
+    "Chornobyl exclusion zone",
+    "The Zone",
+    "alienation zone",
+    "zone of alienation"
+  ],
+  "infobox": {
+    "label": "administrative territorial entity of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1986-04-27",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Chernobyl",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "314",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "2,600",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "51.3000, 30.0050",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Chernobyl Exclusion Zone, also known as the 30-Kilometre Zone, is an administrative territorial entity in Ukraine established after the 1986 [[chernobyl-disaster|Chernobyl disaster]]. It encompasses approximately 2,600 km² and remains one of the most radioactive areas in the world, with significant implications for public health, environmental monitoring, and historical memory in Ukraine.",
+  "sections": [
+    {
+      "heading": "Establishment and Management",
+      "paragraphs": [
+        "The Chernobyl Exclusion Zone was created shortly after the catastrophic event at the [[chernobyl-nuclear-power-plant|Chernobyl Nuclear Power Plant]] in 1986, initially covering a 30-kilometre radius around Reactor 4. The area was designated for evacuations and placed under military control, with its management currently overseen by the State Agency of [[ukraine|Ukraine]] on Exclusion Zone Management of the State Emergency Service of Ukraine."
+      ]
+    },
+    {
+      "heading": "Geographical and Environmental Context",
+      "paragraphs": [
+        "The Exclusion Zone spans approximately 2,600 km² (1,000 sq mi) and includes parts of the northern Vyshhorod Raion in [[kyiv|Kyiv]] Oblast. It is adjacent to the Polesie State Radioecological Reserve in Belarus. The zone is characterized by high levels of radioactive contamination, leading to restricted public access and habitation, although it has become a sanctuary for diverse flora and fauna due to the absence of human activity since 1986."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Before the disaster, the [[chernobyl|Chernobyl]] area was part of the Polesia region, home to approximately 120,000 residents in Chernobyl and Pripyat, along with 187 smaller communities. Following the disaster, the population was evacuated, and the area was marked as uninhabited on maps. The zone has historical significance, having served as a site of partisan resistance during World War II."
+      ]
+    },
+    {
+      "heading": "Post-Disaster Developments",
+      "paragraphs": [
+        "Following Ukraine's independence in 1991, the legal status of the Exclusion Zone was formalized, and its borders were adjusted based on radiation levels. The zone underwent further studies and evacuations, with thousands of individuals relocated from contaminated areas. By 1997, the Exclusion Zone was expanded to include additional evacuated areas."
+      ]
+    },
+    {
+      "heading": "Impact of the Russo-Ukrainian War",
+      "paragraphs": [
+        "Since the onset of the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in February 2022, the Chernobyl Exclusion Zone has experienced military conflict. Russian forces captured the area on 24 February 2022, but withdrew by April 2022. The [[cabinet-of-ministers-of-ukraine|Ukrainian government]] has since restricted access to the zone, prioritizing safety and ongoing monitoring of radioactive conditions."
+      ]
+    },
+    {
+      "heading": "Current Population and Employment",
+      "paragraphs": [
+        "The Exclusion Zone is currently home to an estimated 197 Samosely, elderly residents who have returned to live in the area, despite previous evacuation efforts. Approximately 3,000 workers are employed in the zone, focusing on decommissioning efforts and environmental monitoring, with strict regulations on their exposure to radiation."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "chernobyl",
+    "chernobyl-disaster",
+    "chernobyl-nuclear-power-plant",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Chernobyl exclusion zone — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chernobyl_exclusion_zone",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

@@ -1,0 +1,88 @@
+{
+  "qid": "Q1482689",
+  "slug": "kyiv-national-economic-university-named-after-vadym-hetman",
+  "title": "Kyiv National Economic University named after Vadym Hetman",
+  "type": "university",
+  "category": "economy",
+  "aliases": [
+    "Kyiv National Economic University",
+    "Kyiv National Economics University named after Vadym Hetman",
+    "kneu.edu.ua"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1906",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Kyiv National Economic University named after Vadym Hetman is a prominent self-governing public university located in Kyiv, Ukraine, founded in 1906. It is recognized as a leading institution for economic education in Ukraine and has been ranked highly in both national and international assessments.",
+  "sections": [
+    {
+      "heading": "History of Formation and Development",
+      "paragraphs": [
+        "Kyiv National Economic University was established in 1906 initially as Higher Economics Courses. It underwent several transformations, becoming the [[kyiv|Kyiv]] Commercial Institute in 1908, and later the Kyiv Institute of National Economy in 1920. The institution was renamed multiple times, including as the Kyiv Financial and Economic Institute in 1934, and finally received its current name in 2005 in honor of Vadym [[hetman|Hetman]], a significant figure in [[ukrainian|Ukrainian]] banking and economics."
+      ]
+    },
+    {
+      "heading": "General Information",
+      "paragraphs": [
+        "The university is the largest economic educational establishment in [[ukraine|Ukraine]], serving approximately 15,000 students. Its academic infrastructure spans an area of 118,765 m2, which includes classrooms, seminar rooms, computer labs, and a total classroom area of 14,332.7 m2. Additionally, the university features a gym area of 6,709 m2, a stadium, and six dormitories. The mission of the university emphasizes contributing to social development through research and the education of competitive professionals."
+      ]
+    },
+    {
+      "heading": "Programs and Divisions",
+      "paragraphs": [
+        "Kyiv National Economic University offers a variety of bachelor's programs, including Law, Economic Theory, Economic Cybernetics, International Economics, Business Economics, and more. The university also hosts several divisions such as the Center of Master's Training, the Department of Science and Postgraduate Studies, and the Student Tourist Club 'Skify', among others."
+      ]
+    },
+    {
+      "heading": "International Engagement",
+      "paragraphs": [
+        "The university is actively involved in international collaborations, being a member of various organizations such as EDAMBA, EPLO, and EFMD. It participates in programs like TEMPUS and is associated with the Black Sea Universities Network and the Magna Charta Universitatum, enhancing its global academic presence."
+      ]
+    },
+    {
+      "heading": "Rankings and Recognition",
+      "paragraphs": [
+        "In national rankings, the university was ranked third in the overall Ukrainian university rankings by Compass in 2012 and second among Ukrainian universities by Eduniversal in 2015. It has consistently maintained a strong position in various subject-specific rankings, particularly in Business and Economics."
+      ]
+    },
+    {
+      "heading": "Notable Alumni",
+      "paragraphs": [
+        "Kyiv National Economic University has produced several notable alumni, including Tetiana Andrianova, attorney; Anatolii Brezvin, businessman and politician; and [[volodymyr-zelenskyy|Volodymyr Zelenskyy]], the 6th [[president-of-ukraine|President of Ukraine]]. These individuals reflect the university's impact on Ukrainian society and its contributions to various fields."
+      ]
+    }
+  ],
+  "links_out": [
+    "hetman",
+    "kyiv",
+    "president-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "Kyiv National Economic University — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kyiv_National_Economic_University",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

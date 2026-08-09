@@ -1,0 +1,98 @@
+{
+  "qid": "Q33342",
+  "slug": "bila-tserkva",
+  "title": "Bila Tserkva",
+  "type": "city of regional significance of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Belaya Tserkov",
+    "Bila Cerkva",
+    "Bila Tserkva (Ukraine)"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1032",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Crown of the Kingdom of Poland",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "208,192",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "67",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "148",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.7956, 30.1167",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Bila Tserkva is a significant city in central Ukraine, located on the Ros River and serving as the administrative center of Bila Tserkva Raion. With a population of approximately 207,273 as of 2022, it has a rich history dating back to its founding in 1032 and has played a vital role in the region's economic and cultural development.",
+  "sections": [
+    {
+      "heading": "Historical Overview",
+      "paragraphs": [
+        "Bila Tserkva, originally named Yuriiv, was founded in 1032 by Yaroslav the Wise. The name 'Bila Tserkva' translates to 'White Church', possibly referencing a medieval cathedral that no longer exists. The city has historically been a key defense point against nomadic tribes and has evolved from a border fortification of [[kievan-rus|Kievan Rus]]' to a prominent commercial center under Polish nobility."
+      ]
+    },
+    {
+      "heading": "Political and Administrative Changes",
+      "paragraphs": [
+        "From around 1363, Bila Tserkva was part of the Grand Duchy of Lithuania and later the Polish–Lithuanian Commonwealth. It became a significant administrative center during this period, with various privileges granted to its townspeople. Following the partitions of Poland, the city was annexed by the Russian Empire in 1793, which led to demographic changes, particularly in the Jewish population.",
+        "In the 20th century, Bila Tserkva witnessed significant events, including its role during the [[ukrainian-war-of-independence|Ukrainian struggle for independence]] and the impact of World War II. After [[ukraine|Ukraine]] gained independence, the city was designated as a city of regional significance until 2020, when it became part of the reformed administrative structure of [[kyiv|Kyiv]] Oblast."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Bila Tserkva has a notable Jewish history, with the earliest records of Jewish inhabitants dating back to 1648. By the end of the 19th century, Jews constituted a majority of the population. The city was a center for Jewish culture and politics, particularly before the Holocaust, which drastically reduced the Jewish community.",
+        "The city has also been a hub for various cultural figures, including writers and artists from diverse backgrounds, contributing to its rich cultural tapestry."
+      ]
+    },
+    {
+      "heading": "Geography and Economy",
+      "paragraphs": [
+        "Geographically, Bila Tserkva is situated approximately 80 km south of Kyiv, covering an area of nearly 68 square kilometers. The city benefits from fertile land, contributing to its historical role as a center for agriculture and trade.",
+        "The economy of Bila Tserkva has diversified over time, with significant developments in industry and education. The establishment of the Bila Tserkva National Agrarian University in 1929 highlights the city's commitment to agricultural research and education, while modern industries include manufacturing related to agriculture and other sectors."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "In recent years, Bila Tserkva has continued to evolve, particularly after the administrative reforms of 2020. The city remains an important regional center, with ongoing developments in its educational and industrial sectors. The city also played a role in contemporary events, such as the Battle of Vasylkiv during the ongoing conflict involving Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "kievan-rus",
+    "kyiv",
+    "ukraine",
+    "ukrainian-war-of-independence"
+  ],
+  "sources": [
+    {
+      "title": "Bila Tserkva — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bila_Tserkva",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

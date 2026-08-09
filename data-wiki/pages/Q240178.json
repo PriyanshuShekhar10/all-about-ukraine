@@ -1,0 +1,59 @@
+{
+  "qid": "Q240178",
+  "slug": "orel",
+  "title": "Orel",
+  "type": "Wikimedia disambiguation page",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "Orel refers to various geographical locations, vehicles, and cultural references, with notable connections to Ukraine through the Oril river.",
+  "sections": [
+    {
+      "heading": "Geographical Locations",
+      "paragraphs": [
+        "Orel (Chrudim District) is a municipality and village located in the Pardubice Region of the Czech Republic.",
+        "Orel is also the name of a village situated in the Sveti Nikole Municipality of North Macedonia.",
+        "In Russia, Orel (Oryol) encompasses several inhabited localities, including Lake Orel in Khabarovsk Krai.",
+        "Additionally, Orel Township is found in Wayne County, Illinois."
+      ]
+    },
+    {
+      "heading": "Vehicles",
+      "paragraphs": [
+        "The term Orel is associated with a Russian crewed spacecraft currently under development.",
+        "It also refers to the Antey-Class SSGN 'Orel', which is a guided missile submarine."
+      ]
+    },
+    {
+      "heading": "Cultural References",
+      "paragraphs": [
+        "Orel (movement) denotes a Moravian/Czech youth movement and gymnastics organization.",
+        "The name Orel is used in various contexts, including as a nickname for the French rapper and songwriter Orelsan.",
+        "Orel Anzio represents an Italian Baseball League club.",
+        "The Project 1153 Orel refers to a Soviet aircraft carrier project."
+      ]
+    },
+    {
+      "heading": "Connection to Ukraine",
+      "paragraphs": [
+        "In the [[ukrainian|Ukrainian]] context, Oril (Ukrainian: Оріль; Russian: Орель, Orel') is a river that flows through [[ukraine|Ukraine]], highlighting the significance of the name Orel in the region."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Orel — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Orel",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

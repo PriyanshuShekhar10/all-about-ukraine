@@ -43,7 +43,7 @@
     {
       "heading": "Oblasts and Special Status Cities",
       "paragraphs": [
-        "Oblasts are the primary first-level administrative divisions in Ukraine and are typically named after their administrative centers. For instance, Volyn and Zakarpattia oblasts are named after the historical regions of Volhynia and Transcarpathia, respectively.",
+        "Oblasts are the primary first-level administrative divisions in Ukraine and are typically named after their administrative centers. For instance, Volyn and [[transcarpathia|Zakarpattia]] oblasts are named after the historical regions of Volhynia and Transcarpathia, respectively.",
         "Kyiv and Sevastopol are designated as cities with special status, placing them on the same administrative level as oblasts. Following the [[russian-annexation-of-crimea|annexation of Crimea]], Sevastopol is presently under Russian control and is recognized as a federal subject of Russia."
       ]
     },
@@ -75,6 +75,7 @@
     "kyiv",
     "russian-annexation-of-crimea",
     "sevastopol",
+    "transcarpathia",
     "ukraine",
     "ukrainian",
     "ukrainian-peoples-republic",

@@ -1,0 +1,76 @@
+{
+  "qid": "Q210701",
+  "slug": "history-of-ukraine",
+  "title": "history of Ukraine",
+  "type": "history of a country or state",
+  "category": "people",
+  "aliases": [
+    "Ukraine history",
+    "Ukrainian history"
+  ],
+  "infobox": {
+    "label": "history of a country or state",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The history of Ukraine encompasses a rich tapestry of cultural, political, and social developments from prehistoric times to the present, highlighting its significance in Eastern Europe and its interactions with various civilizations and empires. Key events include the establishment of Kievan Rus', the impact of foreign dominations, the emergence of [[ukrainian-nationalism|Ukrainian nationalism]], and the struggle for independence in the 20th century.",
+  "sections": [
+    {
+      "heading": "Prehistoric Foundations",
+      "paragraphs": [
+        "Prehistoric [[ukraine|Ukraine]], situated in the Pontic steppe of Eastern Europe, significantly contributed to Eurasian cultural developments, including the spread of the Chalcolithic and Bronze Ages, Indo-European migrations, and the domestication of the horse.",
+        "Evidence of early human settlement in Ukraine dates back to the Paleolithic period, with stone tools found in Korolevo, estimated to be 1.4 million years old. The Neanderthals are associated with archaeological sites in Molodova, while modern human presence is documented in Gravettian settlements dating to 32,000 BC."
+      ]
+    },
+    {
+      "heading": "Antiquity and Early Middle Ages",
+      "paragraphs": [
+        "In antiquity, Ukraine was part of Scythia, inhabited by various tribes such as the Greuthungi, Getae, Goths, and Huns during the Migration Period. The region saw Greek colonization in the southern areas and later Roman influence.",
+        "The establishment of [[kievan-rus|Kievan Rus]]' marked the entry of Ukraine into written history as a powerful medieval state, which eventually disintegrated in the High Middle Ages and succumbed to the Mongol Empire in the 13th century."
+      ]
+    },
+    {
+      "heading": "Foreign Dominations",
+      "paragraphs": [
+        "From the 14th to the 15th centuries, present-day [[ukrainian|Ukrainian]] territories came under the control of multiple powers, including the Golden Horde, the Crimean Khanate, the Grand Duchy of Lithuania, and the Kingdom of Poland. The latter two merged into the Polish–Lithuanian Commonwealth.",
+        "The 1648 Cossack rebellion against Polish rule led to the [[treaty-of-pereyaslav|Treaty of Pereyaslav]] in 1654, establishing a contentious relationship between the [[cossack-hetmanate|Cossack Hetmanate]] and Russia, which ultimately resulted in the eastern part of Ukraine falling under Russian control by the Treaty of Perpetual Peace in 1686."
+      ]
+    },
+    {
+      "heading": "20th Century Turmoil and Independence",
+      "paragraphs": [
+        "The early 20th century was marked by chaos following the Russian Revolutions of 1917 and the dissolution of the Habsburg monarchy, leading to the establishment of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]] in 1922.",
+        "[[holodomor|The Holodomor]] famine of 1932-1933 resulted in the deaths of 4 to 5 million [[ukrainians|Ukrainians]], exacerbated by Soviet policies of Russification. After World War II, Ukraine's territory expanded with the transfer of [[crimea|Crimea]] from Russia in 1954.",
+        "Ukraine regained independence in 1991 following the dissolution of the Soviet Union, entering a challenging transition to a market economy. A political crisis began in 2013, culminating in the [[revolution-of-dignity|Revolution of Dignity]] and the onset of the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]] in 2014, which continues to affect the region."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossack-hetmanate",
+    "crimea",
+    "full-scale-russo-ukrainian-war",
+    "holodomor",
+    "kievan-rus",
+    "revolution-of-dignity",
+    "treaty-of-pereyaslav",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-nationalism",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "History of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

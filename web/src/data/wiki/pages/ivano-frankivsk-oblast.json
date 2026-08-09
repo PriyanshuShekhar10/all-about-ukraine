@@ -1,0 +1,117 @@
+{
+  "qid": "Q178269",
+  "slug": "ivano-frankivsk-oblast",
+  "title": "Ivano-Frankivsk Oblast",
+  "type": "oblast of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Ivano-Frankivsk Oblast (Ukraine)"
+  ],
+  "infobox": {
+    "label": "oblast of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1939-12-04",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Ivano-Frankivsk",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "1,382,658",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "13,900",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "2,061",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Oleh Honcharuk, Denys Shmyhal",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.6583, 24.5050",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Ivano-Frankivsk Oblast is a region in [[western-ukraine|western Ukraine]], with its administrative center in the city of Ivano-Frankivsk. As of 2022, it has a population of 1,351,822 and is known for its mountainous terrain and rich cultural heritage.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Ivano-Frankivsk Oblast, also known as Ivano-Frankivshchyna or Frankivshchyna, is situated in the historical region of Galicia, which was once part of the [[kingdom-of-galiciavolhynia|Kingdom of Galicia–Volhynia]]. Following World War I, the area became part of the Second Polish Republic, administered as part of [[ivano-frankivsk|Stanisławów]] Voivodeship until the invasion of Poland. It was annexed by the Soviet Union and referred to as Stanislav Oblast until 1962, when it was renamed in honor of the [[ukrainian|Ukrainian]] writer [[ivan-franko|Ivan Franko]]."
+      ]
+    },
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Ivano-Frankivsk Oblast is bordered by [[lviv-oblast|Lviv Oblast]] to the north and west, [[transcarpathia|Zakarpattia]] Oblast to the south-west, Romania to the south, [[chernivtsi|Chernivtsi]] Oblast to the south-east, and [[ternopil|Ternopil]] Oblast to the east. The region features a mix of Eastern European Plain and Carpathian Foothills, divided into mountainous, pre-mountainous, and plain regions. The climate is mildly-continental with cool summers and mild winters, and average precipitation is around 650 mm annually."
+      ]
+    },
+    {
+      "heading": "Relief and Natural Features",
+      "paragraphs": [
+        "The oblast is characterized by the [[carpathians|Carpathian Mountains]], which rise from 230 m (755 ft) to 2,061 m (6,762 ft) above sea level. The most notable peaks include Mt. Hoverla and Mt. Syvulia Major. The region also encompasses the [[dniester|Dniester]] and Prut river valleys, with features such as rolling hills and canyons, particularly in the southern part known as Stanislav Canyon."
+      ]
+    },
+    {
+      "heading": "Hydrology",
+      "paragraphs": [
+        "Ivano-Frankivsk Oblast contains numerous rivers and brooks, primarily flowing into the Dniester and Prut Rivers. The total drainage area of the region is approximately 13,900 km² (5,400 sq mi), with segments of these rivers serving as administrative borders with neighboring oblasts."
+      ]
+    },
+    {
+      "heading": "Government Structure",
+      "paragraphs": [
+        "The regional government is led by a chairman of the regional state administration, appointed by the [[president-of-ukraine|President of Ukraine]]. The administration includes various departments overseeing economic, cultural, and social policies. The regional council, composed of elected representatives, also plays a significant role in local governance."
+      ]
+    },
+    {
+      "heading": "Administrative Divisions",
+      "paragraphs": [
+        "As of July 2020, Ivano-Frankivsk Oblast is divided into six districts (raions). Previously, it was subdivided into 14 districts and several cities of regional importance. The region's administrative structure has evolved since its establishment in 1921 during the Second Polish Republic, maintaining much of its configuration through the Soviet era."
+      ]
+    }
+  ],
+  "links_out": [
+    "carpathians",
+    "chernivtsi",
+    "dniester",
+    "ivan-franko",
+    "ivano-frankivsk",
+    "kingdom-of-galiciavolhynia",
+    "lviv-oblast",
+    "president-of-ukraine",
+    "ternopil",
+    "transcarpathia",
+    "ukrainian",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Ivano-Frankivsk Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ivano-Frankivsk_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

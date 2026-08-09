@@ -1,0 +1,86 @@
+{
+  "qid": "Q1963094",
+  "slug": "dmytro-yavornytsky",
+  "title": "Dmytro Yavornytsky",
+  "type": "human",
+  "category": "history",
+  "aliases": [
+    "Dmytro Ivanovych Yavornytsky"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1855-10-25",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1940-08-05",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Borysivka",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "museum director",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Dmytro Ivanovych Yavornytsky was a prominent Ukrainian academician, historian, archeologist, ethnographer, folklorist, and lexicographer, recognized for his extensive research on the Zaporozhian Cossacks and their history. He is often referred to as 'the father of the Zaporozhians' in historiography.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Dmytro Ivanovych Yavornytsky, originally named Dmytro Evarnytsky, was born on November 6, 1855. His father, Ivan Yakymovych Evarnytsky, was part of the Russian Imperial nobility. Yavornytsky received his education at [[kharkiv|Kharkiv]] University, Kazan, and Warsaw universities, but faced interruptions in his academic career due to political accusations of '[[ukrainian|Ukrainian]] separatism'."
+      ]
+    },
+    {
+      "heading": "Academic Career",
+      "paragraphs": [
+        "Yavornytsky became a member of the Moscow Archaeological Society in 1885 and the All-Russian Archaeological Society in 1886. He was recognized as an academician of the Ukrainian Academy of Sciences in 1929. His career included a significant position as the Director of the [[dnipro|Yekaterinoslav]] Historical Museum in modern-day central [[ukraine|Ukraine]], a role he accepted in 1902 and held until his death on August 5, 1940."
+      ]
+    },
+    {
+      "heading": "Historical Contributions",
+      "paragraphs": [
+        "Yavornytsky is celebrated for his romantic-antiquarian approach to history and is known for his pioneering work on Zaporozhian Cossack history. His major publication, 'History of the [[zaporozhian-cossacks|Zaporozhian Cossacks]]', was released in three volumes between 1892 and 1897. He compiled an extensive archive of materials related to the [[cossacks|Cossacks]], portraying them as symbols of Ukrainian liberty."
+      ]
+    },
+    {
+      "heading": "Scholarly Interests and Impact",
+      "paragraphs": [
+        "In addition to his historical work, Yavornytsky made significant contributions to ethnography, folkloristics, and lexicography. He documented the historical geography of the Zaporozhian lands and published a collection of Ukrainian folksongs in 1906. His efforts expanded the Yekaterinoslav Museum's collection from 5,000 to 80,000 items, and he collaborated with notable artists to illustrate his works."
+      ]
+    },
+    {
+      "heading": "Criticism and Legacy",
+      "paragraphs": [
+        "Despite his contributions, Yavornytsky faced criticism for his political affiliations and perceived lack of support for Ukrainian independence. During the Stalinist repressions of the 1930s, he was largely silenced. However, his legacy was later rehabilitated, and his works were republished in the late 20th century. The Dmytro Yavornytsky National Historical Museum of [[dnieper|Dnipro]] honors his contributions, and he remains a revered figure in Ukrainian historiography."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossacks",
+    "dnieper",
+    "dnipro",
+    "kharkiv",
+    "ukraine",
+    "ukrainian",
+    "zaporozhian-cossacks"
+  ],
+  "sources": [
+    {
+      "title": "Dmytro Yavornytsky — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dmytro_Yavornytsky",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

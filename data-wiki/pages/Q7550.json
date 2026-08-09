@@ -1,0 +1,118 @@
+{
+  "qid": "Q7550",
+  "slug": "lutsk",
+  "title": "Lutsk",
+  "type": "city of regional significance of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Loetsk",
+    "Luc'k",
+    "Luceoria",
+    "Luck",
+    "Lucka",
+    "Luckas",
+    "Luts'k",
+    "Lutzk",
+    "Luytsk",
+    "Luzk",
+    "Łuck",
+    "Łućk"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1085",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Second Polish Republic",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "214,727",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "42",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "174",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Mykola Romanyuk, Ihor Polishchuk",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.7478, 25.3244",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Lutsk is a city located on the Styr River in northwestern Ukraine, serving as the administrative center of Volyn Oblast and Lutsk Raion. With a population of 220,986 as of 2022, Lutsk boasts a rich history dating back to its first mention in 1085, playing a significant role as an administrative, cultural, and religious hub in the region of Volhynia.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Lutsk is situated on the Styr River in northwestern [[ukraine|Ukraine]]. It is the administrative center of Volyn Oblast and Lutsk Raion. As of 2022, the city's population is estimated at 220,986."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Lutsk is first documented in 1085 and has nearly a millennium of history. It has served as an important administrative, cultural, and religious center in Volhynia. The city features several historical landmarks in diverse architectural styles, including Renaissance, Baroque, and Neoclassical, with Lubart's Castle being the most notable."
+      ]
+    },
+    {
+      "heading": "Etymology and Names",
+      "paragraphs": [
+        "The city of Lutsk is derived from the Old Slavic word 'luka,' meaning a bend in a river, or possibly named after Luka, a chieftain of the ancient Dulebs tribe. Historically, it has been referred to by various names in different languages, including Łuck in Polish and Loytsk in Yiddish."
+      ]
+    },
+    {
+      "heading": "Political History",
+      "paragraphs": [
+        "Lutsk has a complex political history, having been contested by the [[kievan-rus|Kyivan Rus]]' and Poland in the 11th century. It served as the capital of a separate principality from 1154 and was later incorporated into the Grand Duchy of Lithuania. The city prospered under Lithuanian rule, particularly during the reign of Prince Lubart, who constructed Lubart's Castle.",
+        "In 1432, Lutsk became part of the Kingdom of Poland and was granted Magdeburg rights. It continued to thrive as an economic center until the [[khmelnytsky-uprising|Khmelnytsky uprising]] in the mid-17th century, which led to significant destruction and depopulation.",
+        "Following the Third Partition of Poland in 1795, Lutsk was annexed by the Russian Empire, leading to a decline in its significance. The city underwent various changes in governance, including periods of Austro-Hungarian and German occupation during the World Wars."
+      ]
+    },
+    {
+      "heading": "Cultural Development",
+      "paragraphs": [
+        "Under Polish rule in the 1920s and 1930s, Lutsk became a central hub for the [[ukrainian|Ukrainian]] community in Western Volhynia, with various cultural and educational institutions being established. The population in 1939 was approximately 39,000, with a diverse demographic composition including [[ukrainians|Ukrainians]], Poles, Jews, and Czechs."
+      ]
+    },
+    {
+      "heading": "World War II Impact",
+      "paragraphs": [
+        "During World War II, Lutsk experienced significant turmoil, first being bombed by German forces in 1939 and subsequently annexed by the Soviet Union. The city suffered from the deportation of its Polish inhabitants and the tragic events of the Katyn massacre. In 1941, Lutsk was captured by German forces, leading to further atrocities against the local population."
+      ]
+    }
+  ],
+  "links_out": [
+    "khmelnytsky-uprising",
+    "kievan-rus",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Lutsk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lutsk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

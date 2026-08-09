@@ -1,0 +1,79 @@
+{
+  "qid": "Q111020511",
+  "slug": "battle-of-mykolaiv",
+  "title": "Battle of Mykolaiv",
+  "type": "military operation",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "military operation",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Mykolaiv Oblast",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "46.9536, 32.1521",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Battle of Mykolaiv was a significant military engagement during the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], commencing on the night of 26 February 2022 and concluding in March 2022. This battle was crucial for the defense of Mykolaiv, a key shipbuilding and port city on the Black Sea, as Ukrainian forces successfully repelled Russian troops and regained control of the surrounding areas.",
+  "sections": [
+    {
+      "heading": "Background",
+      "paragraphs": [
+        "The conflict began with the bombardment of [[mykolaiv|Mykolaiv]]'s Kulbakyne military airbase on 24 February 2022, marking the initial Russian strikes on [[ukrainian|Ukrainian]] military installations. Although the bombing caused significant damage, there were no reported casualties.",
+        "On 25 February, Dmytro Marchenko, who led the city's defense, noted the absence of defensive measures in Mykolaiv, leading to panic among residents due to nearby Russian troop movements. The lack of communication among security forces resulted in friendly fire incidents.",
+        "Marchenko revealed that Russian command aimed to encircle Mykolaiv, akin to the [[siege-of-mariupol|siege of Mariupol]], but he refused multiple orders to destroy the Varvarivskyi Bridge, which would have completely isolated the city."
+      ]
+    },
+    {
+      "heading": "Battle",
+      "paragraphs": [
+        "The first assault occurred on 26 February when Russian tanks entered Mykolaiv, leading to widespread explosions and combat throughout the city. By that evening, Ukrainian Territorial Defense Forces successfully repelled the Russian forces, who retreated towards [[kherson|Kherson]].",
+        "The second assault began on 28 February, with Russian troops reaching the outskirts of Mykolaiv. A temporary lull in fighting was observed on 1 March, but Ukrainian forces achieved significant victories against Russian columns in the vicinity.",
+        "On 4 March, a major confrontation unfolded as hundreds of Russian tanks approached from multiple directions. Ukrainian forces, led by Marchenko, managed to disrupt the Russian advance by focusing artillery on the main force."
+      ]
+    },
+    {
+      "heading": "Ukrainian Counteroffensive",
+      "paragraphs": [
+        "Following the initial repulsion of Russian troops, Ukrainian forces launched a counteroffensive, reclaiming Kulbakino Air Base and pushing back Russian forces from various directions. Marchenko was later awarded the Ukrainian Order for Courage for his leadership during the defense.",
+        "Despite ongoing attacks, Ukrainian forces continued to fortify their defenses, with civilians actively participating in resistance efforts. By 11 March, Ukrainian troops had pushed Russian forces back by 15–20 kilometers, while civilian evacuations were organized.",
+        "As the battle progressed, Ukrainian forces undertook offensive operations, recapturing several villages and restoring control over critical transport routes by mid-March."
+      ]
+    },
+    {
+      "heading": "Aftermath",
+      "paragraphs": [
+        "By March 2022, Ukrainian forces had successfully repelled Russian troops from Mykolaiv, marking a significant victory in the southern campaign of the invasion. The battle resulted in heavy losses for both sides, with Ukrainian officials reporting numerous casualties among soldiers and civilians.",
+        "The defense of Mykolaiv played a pivotal role in preventing Russian forces from advancing towards [[odesa|Odesa]], underscoring the city's strategic importance in the broader context of the conflict."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "kherson",
+    "mykolaiv",
+    "odesa",
+    "siege-of-mariupol",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Battle of Mykolaiv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Mykolaiv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

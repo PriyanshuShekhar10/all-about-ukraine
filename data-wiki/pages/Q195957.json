@@ -1,0 +1,86 @@
+{
+  "qid": "Q195957",
+  "slug": "national-opera-of-ukraine",
+  "title": "National Opera of Ukraine",
+  "type": "theatre company",
+  "category": "culture",
+  "aliases": [
+    "Kyiv Opera",
+    "Ukrainian Academic State Opera and Ballet Theatre \"Tara Shevchenko\"",
+    "Ukrainian National Opera \"Taras Shevchenko\""
+  ],
+  "infobox": {
+    "label": "theatre company",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1867",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The National Opera of Ukraine, established in 1867, is the second oldest opera company in the country, performing at the Kyiv Opera House named after Taras Shevchenko. It has played a significant role in the cultural landscape of Ukraine, showcasing both Ukrainian and international operatic works.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The Kyiv Opera group was officially founded in the summer of 1867 by Ferdinand Berger, marking its place as the second oldest opera company in [[ukraine|Ukraine]], following [[odesa|Odesa]] Opera and preceding [[lviv-theatre-of-opera-and-ballet|Lviv Opera]]. The company initially performed at the City Theatre, which was constructed in 1856.",
+        "The inaugural performance on 8 November (27 October old style) 1867 featured the opera Askold's Tomb by Alexey Verstovsky, and the event was celebrated as a city holiday. The early repertoire included Russian operas and translated European works, gaining popularity among the local audience."
+      ]
+    },
+    {
+      "heading": "Development and Challenges",
+      "paragraphs": [
+        "On 4 February 1896, a fire caused by an unextinguished candle destroyed the City Theatre, resulting in the loss of a significant musical library and many costumes. Subsequently, the troupe performed at various venues until a new theatre was constructed.",
+        "The new Kyiv Opera House, designed by Victor Schröter, opened on 29 September [O.S. 16 September] 1901, featuring a performance of the cantata [[kyiv|Kyiv]] and the opera Life for the Tsar by M. Glinka."
+      ]
+    },
+    {
+      "heading": "Ukrainian State Period",
+      "paragraphs": [
+        "During the [[ukrainian|Ukrainian]] State period in 1917, the opera house served as a venue for significant political events, including the Second All-Ukrainian Military Congress. The theatre was renamed the Ukrainian Drama and Opera Theater, and performances began to be staged in the Ukrainian language, including notable operas such as Faust and La Traviata."
+      ]
+    },
+    {
+      "heading": "Soviet Era Transformation",
+      "paragraphs": [
+        "Following the annexation of Ukraine by the Soviet Union, the theatre was nationalized and underwent several name changes, ultimately becoming the [[taras-shevchenko|Taras Shevchenko]] Academic Opera and Ballet Theater in 1939. The decree of 1926 mandated performances in Ukrainian, fostering the development of Ukrainian culture and language in the arts."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "From 1991 to 1999, the National Opera was led by Anatoliy Mokrenko, during which the theatre began to shift away from Ukrainian-language performances due to economic challenges. Under the leadership of Anatoliy Shekera from 1992 to 2000, the theatre staged both classical and contemporary works.",
+        "In 2017, the National Opera of Ukraine celebrated its 150th anniversary, and the last scheduled performance before the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]] was the opera Natalka Poltavka."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "kyiv",
+    "lviv-theatre-of-opera-and-ballet",
+    "odesa",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "National Opera of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_Opera_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

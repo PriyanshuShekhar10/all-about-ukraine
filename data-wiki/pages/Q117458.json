@@ -35,7 +35,7 @@
     {
       "heading": "Cultural and Linguistic Heritage",
       "paragraphs": [
-        "The Crimean Tatar language is part of the Kipchak branch of the Turkic language family and consists of three dialects. UNESCO classified the Crimean Tatar language as severely endangered in 2010, with its status worsening to critically endangered in recent years.",
+        "The [[crimean-tatar|Crimean Tatar]] language is part of the Kipchak branch of the Turkic language family and consists of three dialects. UNESCO classified the Crimean Tatar language as severely endangered in 2010, with its status worsening to critically endangered in recent years.",
         "The dialects include Noğay, spoken by the diaspora in Romania, Bulgaria, and Turkey; Bağçasaray, the standard language in Crimea; and Yalıboyu, an Oghuz language influenced by Ottoman Turkish. These dialects reflect the diverse historical influences on the Crimean Tatar culture."
       ]
     },
@@ -63,6 +63,7 @@
   ],
   "links_out": [
     "crimea",
+    "crimean-tatar",
     "ukraine",
     "ukrainians"
   ],

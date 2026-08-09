@@ -1,0 +1,87 @@
+{
+  "qid": "Q127974",
+  "slug": "flag-of-ukraine",
+  "title": "flag of Ukraine",
+  "type": "national flag",
+  "category": "people",
+  "aliases": [
+    "Ukraine flag",
+    "Ukrainian flag"
+  ],
+  "infobox": {
+    "label": "national flag",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1992-01-28",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The national flag of Ukraine, characterized by its blue and yellow horizontal bands, serves as a significant symbol of Ukrainian identity and sovereignty. Its history reflects the country's struggles for independence and national recognition.",
+  "sections": [
+    {
+      "heading": "Design and Specifications",
+      "paragraphs": [
+        "The national flag of Ukraine consists of two equally sized horizontal bands of blue and yellow, as defined by [[ukrainian|Ukrainian]] law. The specific shades of these colors are determined by various state bodies, with the dark blue shade chosen in 1992 for its durability against fading.",
+        "The flag's design is similar to the flags of several regions and cities, including Lower Austria and the historical Kingdom of Dalmatia, although those flags utilize darker shades of blue."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The blue and yellow flag was first displayed during the Spring of Nations in 1848 in Lemberg ([[lviv|Lviv]]), a significant event in [[history-of-ukraine|Ukrainian history]]. It was later adopted by various Ukrainian states during the early 20th century, including the [[ukrainian-peoples-republic|Ukrainian People's Republic]] and the [[west-ukrainian-peoples-republic|West Ukrainian People's Republic]].",
+        "Following the Russian Revolution, the flag faced suppression during Soviet rule, being replaced by the flag of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]]. The bicolor flag was officially reinstated on 28 January 1992 after [[ukraine|Ukraine]] gained independence."
+      ]
+    },
+    {
+      "heading": "Protocol and Usage",
+      "paragraphs": [
+        "Article 20 of the [[constitution-of-ukraine|Constitution of Ukraine]] outlines the flag's design, and it is displayed in both horizontal and vertical formats at public buildings. The flag is flown at half-staff as a sign of mourning, with specific protocols governing its display.",
+        "Ukrainian flags are continuously displayed in prominent locations such as [[maidan-nezalezhnosti|Maidan Nezalezhnosti]] in [[kyiv|Kyiv]] and various government buildings, emphasizing their importance in national identity."
+      ]
+    },
+    {
+      "heading": "Flag Day and Celebrations",
+      "paragraphs": [
+        "The Day of the National Flag is celebrated on 23 August, a tradition that began in 2004. This day honors the flag's significance and its role in Ukrainian history.",
+        "The flag is also prominently displayed on various national holidays, including Independence Day on 24 August and Constitution Day on 28 June, reinforcing its status as a national symbol."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "The colors blue and yellow have deep historical roots in Ukrainian culture, representing elements such as fire and water in pre-Christian traditions. These colors have been associated with Ukrainian identity since the 16th century, with various flags and banners used throughout the Cossack period and beyond.",
+        "The flag has become a symbol of unity and resilience, particularly during significant events like the [[orange-revolution|Orange Revolution]] and [[euromaidan|Euromaidan]], where it served as a rallying point for national pride and democratic aspirations."
+      ]
+    }
+  ],
+  "links_out": [
+    "constitution-of-ukraine",
+    "euromaidan",
+    "history-of-ukraine",
+    "kyiv",
+    "lviv",
+    "maidan-nezalezhnosti",
+    "orange-revolution",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "ukrainian-soviet-socialist-republic",
+    "west-ukrainian-peoples-republic"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

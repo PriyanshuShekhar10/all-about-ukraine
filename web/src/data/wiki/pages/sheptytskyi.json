@@ -1,0 +1,108 @@
+{
+  "qid": "Q156825",
+  "slug": "sheptytskyi",
+  "title": "Sheptytskyi",
+  "type": "city in Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Chervonohrad"
+  ],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1692",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Austrian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "68,006",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "37",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "150",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Andrii Zalivskyi",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.3822, 24.2275",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Sheptytskyi is a historical mining town located in [[lviv-oblast|Lviv Oblast]], [[western-ukraine|western Ukraine]], serving as the administrative center of Sheptytskyi Raion. The town, formerly known as Chervonohrad and Krystynopol, has a rich history and a diverse population, with significant connections to the Jewish community and coal mining industry.",
+  "sections": [
+    {
+      "heading": "Geographical Context",
+      "paragraphs": [
+        "Sheptytskyi, previously known as Chervonohrad, is situated approximately 62 km north of [[lviv|Lviv]] and 7 km from Sokal. The town has a population of 64,297 as of 2022 and serves as the administrative center of the Sheptytskyi urban hromada, one of [[ukraine|Ukraine]]'s hromadas."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The town's origins date back to May 1685 when Crown [[hetman|hetman]] Feliks Kazimierz Potocki acquired land along the Bug River. In 1692, he established the city of Krystynopol, named after his wife Krystyna Lubomirska. The city remained part of the Polish Kingdom until 1772, after which it became part of the Habsburg Empire. Throughout the 19th century, it was a center for various cultural and religious activities.",
+        "During World War II, Sheptytskyi was occupied by Nazi Germany from 1939 to 1944. After the war, the town was initially returned to Poland before being transferred to the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] in 1951, at which point it was renamed Chervonohrad. The name change to Sheptytskyi was proposed in March 2024 and officially adopted by the [[verkhovna-rada|Verkhovna Rada]] on 19 September 2024."
+      ]
+    },
+    {
+      "heading": "Jewish Community",
+      "paragraphs": [
+        "The Jewish community in Sheptytskyi has historical roots dating back to 1740, with a population of 2,200 recorded in 1931. The local Jewish cemetery, established in the 18th century, is a significant historical site. Many Jews from Krystynopol were deported to the Belzec extermination camp in September 1942, and the community's legacy continues through descendants and institutions established in the United States."
+      ]
+    },
+    {
+      "heading": "Economic Development",
+      "paragraphs": [
+        "Since 1951, Sheptytskyi has developed as a coal mining center, with several operational coal mines located in the vicinity. The city's economy also includes various manufacturing enterprises such as an iron-beton foundry, wood processing plant, tailoring factory, stockings factory, and dairy production."
+      ]
+    },
+    {
+      "heading": "Population Trends",
+      "paragraphs": [
+        "The population of Sheptytskyi has seen significant changes over the decades, growing from 3,000 in 1939 to an estimated 64,297 in 2022. The town's demographic evolution reflects broader historical and social shifts within Ukraine."
+      ]
+    },
+    {
+      "heading": "Education and Notable Individuals",
+      "paragraphs": [
+        "Sheptytskyi is home to a branch of Lviv National Polytechnic University and a mining college, contributing to the educational landscape of the region. Notable individuals associated with the town include Janina Hurynowicz, MamaRika, and several prominent figures in sports and politics."
+      ]
+    }
+  ],
+  "links_out": [
+    "hetman",
+    "lviv",
+    "lviv-oblast",
+    "ukraine",
+    "ukrainian-soviet-socialist-republic",
+    "verkhovna-rada",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Sheptytskyi — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sheptytskyi",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

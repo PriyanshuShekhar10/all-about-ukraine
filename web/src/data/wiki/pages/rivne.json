@@ -1,0 +1,111 @@
+{
+  "qid": "Q156739",
+  "slug": "rivne",
+  "title": "Rivne",
+  "type": "city of regional significance of Ukraine",
+  "category": "history",
+  "aliases": [
+    "Riwne",
+    "Rovne",
+    "Rovno",
+    "Rowne",
+    "Rowno",
+    "Ruvne",
+    "Równe",
+    "Röwne"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1283",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "249,477",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "58",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "136",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Vladimir Khomko, Q134302047",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.6197, 26.2514",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Rivne is a city of regional significance in [[western-ukraine|western Ukraine]], serving as the administrative center of Rivne Oblast and Rivne Raion. With a population of 243,873 as of 2022, it has a rich historical background and plays a crucial role in the region's transportation and industry.",
+  "sections": [
+    {
+      "heading": "Historical Overview",
+      "paragraphs": [
+        "Rivne was first documented in 1283 in Polish records as part of [[halych|Halych]]-Volhynia. It came under the control of the Grand Duchy of Lithuania and was later awarded Magdeburg Law in the late 15th century. The city was associated with noble families, such as the Ostrogski and Lubomirski, until its annexation by the Russian Empire in 1793.",
+        "During the early 20th century, Rivne experienced a tumultuous period, serving as a temporary capital for the [[ukrainian-peoples-republic|Ukrainian People's Republic]] in 1919 amid ongoing conflicts. Following World War I, it became part of Poland until the onset of World War II, when it was occupied by the Soviet Union and later designated the administrative center of Rivne Oblast."
+      ]
+    },
+    {
+      "heading": "World War II Impact",
+      "paragraphs": [
+        "In 1939, Rivne was occupied by the Soviet Union due to the Molotov–Ribbentrop Pact. The city became a site of significant tragedy during the Holocaust, with thousands of Jews murdered during the German occupation from 1941 to 1944. Rivne was declared the capital of Reichskommissariat [[ukraine|Ukraine]] by Nazi Germany in August 1941.",
+        "The city was liberated by the Red Army in February 1944 and remained under Soviet control until Ukraine's independence in 1991."
+      ]
+    },
+    {
+      "heading": "Post-War Development",
+      "paragraphs": [
+        "Following World War II, Rivne underwent industrialization, becoming a center for various manufacturing sectors, including machine building and chemical production. The city celebrated its 700th anniversary in 1983, and in 1991, it was officially renamed Rivne in accordance with [[ukrainian|Ukrainian]] orthography.",
+        "In recent years, Rivne has continued to develop as a transportation hub, featuring an international airport and extensive rail and highway connections."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Rivne is home to several educational institutions, including universities and polytechnic colleges, which contribute to its status as a cultural center. The city features numerous historical landmarks, including churches and memorials commemorating its complex history.",
+        "In 1992, a memorial complex was established to honor the victims of the Holocaust, marking the site of mass graves with an obelisk inscribed in multiple languages."
+      ]
+    },
+    {
+      "heading": "Recent Events",
+      "paragraphs": [
+        "Rivne has faced challenges in the context of the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]], notably experiencing a missile attack on its TV tower on 14 March 2022, resulting in casualties and damage."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "halych",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Rivne — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rivne",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

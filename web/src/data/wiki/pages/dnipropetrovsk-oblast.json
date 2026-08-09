@@ -1,0 +1,118 @@
+{
+  "qid": "Q170672",
+  "slug": "dnipropetrovsk-oblast",
+  "title": "Dnipropetrovsk Oblast",
+  "type": "oblast of Ukraine",
+  "category": "war",
+  "aliases": [
+    "Dnepropetrovsk Oblast",
+    "Dnipropetrovs'ka oblast",
+    "Dnipropetrovshchyna",
+    "Sicheslav Oblast"
+  ],
+  "infobox": {
+    "label": "oblast of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1932-02-09",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Soviet Union, Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Dnipro",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "2,273,400",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "31,914",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Head of government",
+        "value": "Valentyn Reznichenko, Serhiy Lysak",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.3900, 34.7100",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Dnipropetrovsk Oblast, also known as Dnipropetrovshchyna, is a province in southeastern Ukraine that serves as a crucial industrial region. Established on February 27, 1932, it has an estimated population of approximately 3,096,485 as of 2022, with a significant portion residing in major urban centers such as Dnipro and Kryvyi Rih.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Dnipropetrovsk Oblast is primarily situated in eastern [[ukraine|Ukraine]], with some areas extending into central and southern Ukraine. The total area of the oblast is 31,974 km², accounting for about 5.3% of Ukraine's total land area. The region measures 130 km in length from north to south and 300 km from east to west. It shares borders with [[poltava|Poltava]] and [[kharkiv|Kharkiv]] oblasts to the north, [[donetsk|Donetsk]] Oblast to the east, [[zaporizhzhia|Zaporizhzhia]] and [[kherson|Kherson]] oblasts to the south, and [[mykolaiv|Mykolaiv]] and Kirovohrad oblasts to the west.",
+        "The Black Sea Lowland occupies roughly half of the oblast's territory, primarily on the west bank of the [[dnieper|Dnieper River]]. The Dnieper Upland is rich in minerals, including iron and manganese, and is recognized as a vital economic area for iron ore mining and the steel industry, particularly in Kryvbas."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The region has a rich history dating back to the 6th to 8th centuries AD, when the first Slavic settlements emerged along the Dnieper River. During the [[kievan-rus|Kievan Rus]]' period, the Dnieper served as a key trade route connecting the Baltic Sea to the Black Sea and Byzantium. By the 15th century, the area saw the rise of the [[cossacks|Cossacks]], who became prominent in the region's history.",
+        "The city of [[dnipro|Yekaterinoslav]], now known as Dnipro, was founded in 1776, and the region underwent various administrative changes leading to the establishment of Dnipropetrovsk Oblast in 1932. The oblast played a significant role during [[holodomor|the Holodomor]] in the 1930s and was a stronghold for [[ukrainian|Ukrainian]] independence, with 90.36% of its population supporting independence during the 1991 referendum."
+      ]
+    },
+    {
+      "heading": "Administrative Structure",
+      "paragraphs": [
+        "Dnipropetrovsk Oblast is administratively divided into one administrative center, Dnipro, and seven raions: Dnipro Raion, Kamianske Raion, [[kryvyi-rih|Kryvyi Rih]] Raion, Nikopol Raion, Pavlohrad Raion, Samar Raion, and Synelnykove Raion. The local governance is managed by the Dnipropetrovsk Oblast [[verkhovna-rada|Rada]], with the governor being appointed by the [[president-of-ukraine|President of Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "As of the 2001 census, the population of Dnipropetrovsk Oblast was 3,493,062, representing 5.3% of Ukraine's total population. The ethnic composition included 79.3% [[ukrainians|Ukrainians]], 17.6% Russians, and smaller percentages of other groups. The predominant languages spoken are Ukrainian (67%) and Russian (32%).",
+        "The age structure of the population indicates that 14.1% are aged 0–14 years, 70.2% are aged 15–64 years, and 15.7% are aged 65 years and older, with a median age of 40.3 years."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "The region has experienced significant turmoil due to the ongoing Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], with cities like Dnipro and Kryvyi Rih being targeted. Despite these challenges, Dnipropetrovsk Oblast has remained under Ukrainian control, with reports confirming the presence of Russian troops in the area as of June 2025."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossacks",
+    "dnieper",
+    "dnipro",
+    "donetsk",
+    "full-scale-russo-ukrainian-war",
+    "holodomor",
+    "kharkiv",
+    "kherson",
+    "kievan-rus",
+    "kryvyi-rih",
+    "mykolaiv",
+    "poltava",
+    "president-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "verkhovna-rada",
+    "zaporizhzhia"
+  ],
+  "sources": [
+    {
+      "title": "Dnipropetrovsk Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dnipropetrovsk_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

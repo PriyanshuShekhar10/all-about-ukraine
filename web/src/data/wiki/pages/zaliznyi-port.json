@@ -40,7 +40,7 @@
       }
     ]
   },
-  "summary": "Zaliznyi Port is a resort village located along the Black Sea coast in Kherson Oblast, Ukraine. Known for its historical significance and recent challenges during the Russo-Ukrainian war, it serves as a notable example of the region's cultural and geopolitical dynamics.",
+  "summary": "Zaliznyi Port is a resort village located along the Black Sea coast in Kherson Oblast, Ukraine. Known for its historical significance and recent challenges during the [[full-scale-russo-ukrainian-war|Russo-Ukrainian war]], it serves as a notable example of the region's cultural and geopolitical dynamics.",
   "sections": [
     {
       "heading": "Geographical Location",
@@ -63,7 +63,7 @@
     {
       "heading": "Impact of the Russo-Ukrainian War",
       "paragraphs": [
-        "During the 2022 Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], Zaliznyi Port was fully occupied by Russian forces, leading to a significant downturn in tourism and local protests against the invasion. Protesters expressed their allegiance to Ukraine by chanting 'Zaliznyi Port is Ukraine' and displaying national symbols. Notable events during the occupation included the alleged kidnapping of Mykhailo Burak, head of the Bekhtery rural hromada, on 4 April 2022, and the assassination of Aleksey Kovalyov, a Russian-collaborationist politician, on 28 August 2022. Reports of military activity in the area included claims of Iranian military instructors training Russian forces in drone operations."
+        "During the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], Zaliznyi Port was fully occupied by Russian forces, leading to a significant downturn in tourism and local protests against the invasion. Protesters expressed their allegiance to Ukraine by chanting 'Zaliznyi Port is Ukraine' and displaying national symbols. Notable events during the occupation included the alleged kidnapping of Mykhailo Burak, head of the Bekhtery rural hromada, on 4 April 2022, and the assassination of Aleksey Kovalyov, a Russian-collaborationist politician, on 28 August 2022. Reports of military activity in the area included claims of Iranian military instructors training Russian forces in drone operations."
       ]
     },
     {
@@ -80,6 +80,7 @@
     }
   ],
   "links_out": [
+    "2022-russian-invasion-of-ukraine",
     "full-scale-russo-ukrainian-war",
     "kherson",
     "ukraine",

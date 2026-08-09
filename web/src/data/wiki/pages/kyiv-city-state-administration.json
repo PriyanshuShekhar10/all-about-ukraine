@@ -1,0 +1,81 @@
+{
+  "qid": "Q11739162",
+  "slug": "kyiv-city-state-administration",
+  "title": "Kyiv City State Administration",
+  "type": "city with special status",
+  "category": "politics",
+  "aliases": [
+    "KCSA",
+    "Kyiv City Administration"
+  ],
+  "infobox": {
+    "label": "city with special status",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1995-07-10",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv, Khreshchatyk",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Kyiv City State Administration, abbreviated as KMDA, is the national-level governmental body responsible for the administration of Kyiv, the capital of Ukraine. Following the onset of the Russian invasion in 2022, it was restructured into the Kyiv City Military Administration, reflecting its critical role during wartime governance.",
+  "sections": [
+    {
+      "heading": "Special Status",
+      "paragraphs": [
+        "[[kyiv|Kyiv]] is designated as a 'city with special status' within [[ukraine|Ukraine]], which distinguishes it from other administrative subdivisions of the country. This special status means that Kyiv is directly governed by the national-level branches of the [[cabinet-of-ministers-of-ukraine|Government of Ukraine]], bypassing the regional authorities of Kyiv Oblast. The constitutional recognition of this status is outlined in Chapter IX: Territorial Structure of Ukraine and is further governed by laws enacted by the [[verkhovna-rada|Verkhovna Rada]], Ukraine's parliament.",
+        "Local governance in Kyiv is managed by the Kyiv City Council and district councils, with chairpersons elected from among the council members. Although Kyiv is the capital of Ukraine, it also functions as the administrative center for Kyiv Oblast, which completely encircles the city, creating an enclave. Until 2020, Kyiv also served as the administrative center for the Kyiv-Sviatoshyn Raion."
+      ]
+    },
+    {
+      "heading": "2010 Amendments",
+      "paragraphs": [
+        "On September 7, 2010, the Ukrainian parliament amended the law concerning 'The capital of Ukraine – hero city of Kyiv', allowing the President to appoint the Head of the Kyiv City Administration at their discretion. Previously, the elected mayor of the Kyiv City Council automatically held this position.",
+        "Following these amendments, then-Mayor Leonid Chernovetsky was relieved of his duties as Head of the Kyiv State Administration while retaining his mayoral role, effectively stripping him of significant decision-making power. Oleksandr Popov was appointed as Head of the Kyiv City Administration by President [[viktor-yanukovych|Viktor Yanukovych]] on November 16, 2010, but was suspended on December 14, 2013. Anatoliy Holubchenko served as acting Head following Popov's suspension. Volodymyr Makeyenko was appointed on January 25, 2014, but was dismissed by Acting President [[oleksandr-turchynov|Oleksandr Turchynov]] on March 7, 2014, with Volodymyr Bondarenko taking over. [[vitali-klitschko|Vitali Klitschko]] was appointed as head of the administration on June 25, 2014."
+      ]
+    },
+    {
+      "heading": "Russo-Ukrainian War (since 2022)",
+      "paragraphs": [
+        "With the commencement of the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in 2022, the Kyiv City State Administration transitioned into the Kyiv City Military Administration, which serves as a temporary governing body during wartime. On March 1, 2022, President Volodymyr Zelensky appointed Mykola Zhyrnov as its head, who was later replaced by Serhiy Popko on October 21, 2022. Tymur Tkachenko was appointed to lead the administration on December 31, 2024, and served until his dismissal in July 2026.",
+        "On August 23, 2025, the head of the Kyiv City Military Administration issued a decree requiring prior permission from the General Staff of the [[armed-forces-of-ukraine|Ukrainian Armed Forces]] for all demonstrations and mass events in Kyiv, a measure associated with recent anti-corruption protests in the capital."
+      ]
+    },
+    {
+      "heading": "List of Heads",
+      "paragraphs": [
+        "The following individuals have served as heads of the Kyiv City State Administration: Hryhoriy Malyshevsky (1990–1991), Oleksandr Mosiyuk (1991–1992), Ivan Dankevych (March 1992), Ivan Saliy (March 1992–April 1993), Leonid Kosakivsky (April 1993–July 1994), Leonid Kosakivsky (July 1995–July 1996), Oleksandr Omelchenko (August 1996–April 2006), Leonid Chernovetskyi (April 2006–November 2010), Oleksandr Popov (November 2010–December 2013), Anatoliy Holubchenko (December 2013–January 2014), Volodymyr Makeyenko (January 25, 2014 – March 7, 2014), Volodymyr Bondarenko (March 7, 2014 – June 25, 2014), Vitali Klitschko (June 25, 2014 - March 1, 2022), Mykola Zhyrnov (March 1, 2022 - October 21, 2022), Serhiy Popko (October 21, 2022 - December 31, 2024), and Tymur Tkachenko (December 31, 2024 - July 16, 2026)."
+      ]
+    }
+  ],
+  "links_out": [
+    "armed-forces-of-ukraine",
+    "cabinet-of-ministers-of-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "oleksandr-turchynov",
+    "ukraine",
+    "verkhovna-rada",
+    "viktor-yanukovych",
+    "vitali-klitschko"
+  ],
+  "sources": [
+    {
+      "title": "Kyiv City State Administration — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kyiv_City_State_Administration",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

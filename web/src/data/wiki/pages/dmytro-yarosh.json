@@ -1,0 +1,96 @@
+{
+  "qid": "Q9208014",
+  "slug": "dmytro-yarosh",
+  "title": "Dmytro Yarosh",
+  "type": "human",
+  "category": "war",
+  "aliases": [
+    "Dmytro Anatoliyovych Yarosh"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1971-09-30",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Kamyanske",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "People's Deputy of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Dmytro Anatoliiovych Yarosh is a Ukrainian activist, politician, and military commander known for his leadership in the Right Sector and the Ukrainian Volunteer Army. His political career includes serving as a People's Deputy of Ukraine and founding the Governmental Initiative of Yarosh, reflecting his significant influence in contemporary Ukrainian politics.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Dmytro Yarosh was born on 30 September 1971 in Dniprodzerzhynsk, now known as Kamianske, located in [[dnipropetrovsk-oblast|Dnipropetrovsk Oblast]], [[ukraine|Ukraine]]. He grew up in a Russian-speaking household, with his mother employed at a car factory and his father an engineer. Yarosh described his upbringing as a 'happy Soviet childhood' and noted that his father declined multiple invitations to join the Communist Party.",
+        "He graduated from High School #24 in Dniprodzerzhynsk in 1988 and was involved in youth organizations associated with the Communist Party during his early years. Yarosh became politically active in the mid-1980s, expressing skepticism towards the Soviet system and reportedly being among the first to raise the [[ukrainian|Ukrainian]] national flag in eastern Ukraine in 1989."
+      ]
+    },
+    {
+      "heading": "Political Activities",
+      "paragraphs": [
+        "Yarosh's political involvement began in earnest in October 1988, joining the People's Movement of Ukraine in February 1989. Following the Soviet Union's dissolution, he co-founded the [[coat-of-arms-of-ukrainiae|Tryzub]] nationalist organization in 1994, eventually becoming its leader in 2005. He graduated from the State University of Education in Drohobych in 2001 and later served as an assistant to a member of the [[verkhovna-rada|Verkhovna Rada]].",
+        "In 2013, he was appointed as an assistant-consultant to Valentyn Nalyvaichenko, a deputy in the Ukrainian parliament."
+      ]
+    },
+    {
+      "heading": "Role in the 2014 Revolution",
+      "paragraphs": [
+        "During the [[euromaidan|Euromaidan]] protests in early 2014, Yarosh was a prominent figure in the Right Sector, advocating for a 'national revolution' against the Yanukovych administration. He rejected proposals for disarmament and sought a significant role in the post-revolution government, although his requests were not fulfilled.",
+        "Yarosh was involved in military actions during the revolution, including a mission ordered by acting President Oleksandr Turchinov, which resulted in combat fatalities."
+      ]
+    },
+    {
+      "heading": "Military Leadership and Withdrawal from Right Sector",
+      "paragraphs": [
+        "In July 2014, Yarosh established the Ukrainian Volunteer Corps, a paramilitary group formed from Right Sector members. He was wounded in combat during the Second Battle of [[donetsk|Donetsk]] Airport in January 2015. Following his injury, Yarosh stepped down as leader of the Right Sector in November 2015, citing differences with the organization's leadership.",
+        "He subsequently announced the formation of a new political party and a new paramilitary unit, the Ukrainian Volunteer Army, in late 2015."
+      ]
+    },
+    {
+      "heading": "Governmental Initiative of Yarosh",
+      "paragraphs": [
+        "In February 2016, Yarosh founded the Governmental Initiative of Yarosh (DIYA), which aimed to serve as a public movement akin to the early People's Movement of Ukraine. He did not participate in the 2019 presidential election but endorsed another candidate and led his party in the parliamentary elections, although they failed to secure any seats.",
+        "Yarosh was appointed as an adviser to the Commander-in-Chief of the [[armed-forces-of-ukraine|Armed Forces of Ukraine]] in November 2021, although details of this role were not disclosed by military officials."
+      ]
+    },
+    {
+      "heading": "Personal Life and Views",
+      "paragraphs": [
+        "Yarosh married his childhood sweetheart, Olha, in 1993, and they have three children. He was baptized in the [[ukrainian-orthodox-church|Ukrainian Orthodox Church]] but converted to the [[ukrainian-greek-catholic-church|Ukrainian Greek Catholic Church]] in 1994.",
+        "He identifies as a follower of Stepan Bandera and has expressed strong nationalist views, advocating for the prohibition of certain political parties and emphasizing Ukraine's adversarial relationship with Russia. Yarosh has been described as a controversial figure, with varying perceptions in both Russian and Western media."
+      ]
+    }
+  ],
+  "links_out": [
+    "armed-forces-of-ukraine",
+    "coat-of-arms-of-ukrainiae",
+    "dnipropetrovsk-oblast",
+    "donetsk",
+    "euromaidan",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-greek-catholic-church",
+    "ukrainian-orthodox-church",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Dmytro Yarosh — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dmytro_Yarosh",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

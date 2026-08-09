@@ -1,0 +1,75 @@
+{
+  "qid": "Q1076173",
+  "slug": "zaporozhian-cossacks",
+  "title": "Zaporozhian Cossacks",
+  "type": "isolated human group",
+  "category": "people",
+  "aliases": [
+    "Ukrainian Cossacks",
+    "Zaporogians",
+    "Zaporozhians"
+  ],
+  "infobox": {
+    "label": "isolated human group",
+    "fields": []
+  },
+  "summary": "The Zaporozhian Cossacks, also referred to as the Zaporozhian Cossack Army or Zaporozhian Host, were a significant group of Cossacks in Ukraine, primarily composed of Ruthenians and other ethnicities, who established a notable military and political presence from the 15th to the 18th century.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The Zaporozhian Cossacks inhabited the area downstream from the [[dnieper|Dnieper]] Rapids, known as [[zaporizhzhia|Zaporizhzhia]], and played a crucial role in the [[history-of-ukraine|history of Ukraine]] and the formation of the [[ukrainian|Ukrainian]] identity. They emerged in the 15th century as serfs escaped from the Polish–Lithuanian Commonwealth, establishing the [[zaporizhian-sich|Zaporozhian Sich]] as a political entity with a parliamentary system.",
+        "Throughout the 16th, 17th, and into the 18th century, the Zaporozhian Cossacks were a formidable political and military force that challenged the authority of the Polish–Lithuanian Commonwealth, the Tsardom of Russia, and the Crimean Khanate."
+      ]
+    },
+    {
+      "heading": "Etymology and Origins",
+      "paragraphs": [
+        "The term 'Zaporozhtsi' derives from the location of their fortress in Zaporizhzhia, meaning 'land beyond the rapids.' The word 'Cossack' originates from the Tatar Turkic word 'kazak,' which translates to 'free man' or 'conqueror.'",
+        "The origins of the Zaporozhian Cossacks are complex, with influences from various nomadic tribes and escaped serfs who sought freedom in the wild steppes. The establishment of Cossack communities on the Lower Dnieper is believed to date back to the 12th century, although the term 'Cossack' itself became more widely used later."
+      ]
+    },
+    {
+      "heading": "Role within the Polish–Lithuanian Commonwealth",
+      "paragraphs": [
+        "In the 16th century, the Zaporozhian Cossacks were nominally subjects of the Polish–Lithuanian Commonwealth, with Registered [[cossacks|Cossacks]] serving in the Commonwealth army until 1699. Their aggressive raids into Ottoman territories strained relations between the Commonwealth and the Ottoman Empire.",
+        "The Cossacks' fierce independence and the Polish szlachta's attempts to subjugate them led to significant tensions, culminating in several uprisings, including the notable [[khmelnytsky-uprising|Khmelnytsky Uprising]] in 1648, which marked a pivotal moment in Ukrainian history and weakened the Commonwealth."
+      ]
+    },
+    {
+      "heading": "Organization and Governance",
+      "paragraphs": [
+        "The [[cossack-hetmanate|Zaporozhian Host]] developed a unique military-political structure based on the Cossack Code, with a system of territorial administration comprising 38 kurins and five to eight palankas. Leadership was elected annually by the General Military Council.",
+        "The Sich [[verkhovna-rada|Rada]] served as the highest governing body, overseeing legislative, administrative, and judicial matters. Although the leaders were informally referred to as hetmans, the official title was never used, reflecting the Cossacks' distinct governance style."
+      ]
+    },
+    {
+      "heading": "Legacy",
+      "paragraphs": [
+        "The Zaporozhian Cossacks significantly influenced the socio-political landscape of [[ukraine|Ukraine]] and contributed to the development of [[ukrainian-nationalism|Ukrainian nationalism]]. Their legacy continues to be celebrated in Ukrainian culture and history as symbols of freedom and resistance against oppression."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossack-hetmanate",
+    "cossacks",
+    "dnieper",
+    "history-of-ukraine",
+    "khmelnytsky-uprising",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-nationalism",
+    "verkhovna-rada",
+    "zaporizhian-sich",
+    "zaporizhzhia"
+  ],
+  "sources": [
+    {
+      "title": "Zaporozhian Cossacks — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zaporozhian_Cossacks",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}

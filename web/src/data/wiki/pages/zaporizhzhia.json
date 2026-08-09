@@ -62,7 +62,7 @@
     {
       "heading": "Historical Background",
       "paragraphs": [
-        "Founded in 1770, Zaporizhzhia originated with the construction of the Aleksandrovskaya Fortress as part of the Dnieper Defence Line to protect against Crimean Tatar invasions. Following the Treaty of Küçük Kaynarca in 1775, the region became part of the Russian Empire, leading to the fortress's decline in military importance and the city's evolution into a rural settlement.",
+        "Founded in 1770, Zaporizhzhia originated with the construction of the Aleksandrovskaya Fortress as part of the Dnieper Defence Line to protect against [[crimean-tatar|Crimean Tatar]] invasions. Following the Treaty of Küçük Kaynarca in 1775, the region became part of the Russian Empire, leading to the fortress's decline in military importance and the city's evolution into a rural settlement.",
         "The city gained industrial significance in the early 20th century, particularly during World War I when aircraft engine manufacturing was established. Zaporizhzhia also played a crucial role during the [[ukrainian-war-of-independence|Ukrainian War of Independence]] and the Russian Civil War (1917–1921), serving as a battleground for various military factions."
       ]
     },
@@ -76,7 +76,7 @@
     {
       "heading": "Recent Developments",
       "paragraphs": [
-        "In recent years, Zaporizhzhia has been affected by various political events, including the 2014 [[euromaidan|Euromaidan]] protests, which saw significant public demonstrations against the government. The city has also experienced the impacts of the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]], with ongoing military actions reported since the beginning of the 2022 Russian invasion of Ukraine.",
+        "In recent years, Zaporizhzhia has been affected by various political events, including the 2014 [[euromaidan|Euromaidan]] protests, which saw significant public demonstrations against the government. The city has also experienced the impacts of the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]], with ongoing military actions reported since the beginning of the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]].",
         "Despite attempts to modernize infrastructure, such as the halted construction of the New Zaporizhzhia Dniper Bridge in 2004, the city continues to face challenges amid the ongoing conflict."
       ]
     },
@@ -95,7 +95,9 @@
     }
   ],
   "links_out": [
+    "2022-russian-invasion-of-ukraine",
     "cossacks",
+    "crimean-tatar",
     "dnieper",
     "euromaidan",
     "full-scale-russo-ukrainian-war",

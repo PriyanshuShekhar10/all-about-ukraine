@@ -38,14 +38,14 @@
     {
       "heading": "Location and Structure",
       "paragraphs": [
-        "The Chernobyl Nuclear Power Plant is situated approximately 16.5 kilometers (10 miles) northwest of Chernobyl and 16 kilometers (10 miles) from the Belarus–[[ukraine|Ukraine]] border, around 100 kilometers (62 miles) north of [[kyiv|Kyiv]]. The facility was originally cooled by a pond fed by the Pripyat River, located about 5 kilometers (3 miles) from its confluence with the [[dnieper|Dnieper River]].",
+        "The Chernobyl Nuclear Power Plant is situated approximately 16.5 kilometers (10 miles) northwest of [[chernobyl|Chernobyl]] and 16 kilometers (10 miles) from the Belarus–[[ukraine|Ukraine]] border, around 100 kilometers (62 miles) north of [[kyiv|Kyiv]]. The facility was originally cooled by a pond fed by the Pripyat River, located about 5 kilometers (3 miles) from its confluence with the [[dnieper|Dnieper River]].",
         "The plant features an RBMK type graphite-moderated reactor, which is noted for its cost efficiency but is considered less safe compared to other reactor designs, such as the VVER pressurized water reactor."
       ]
     },
     {
       "heading": "History and Operations",
       "paragraphs": [
-        "Commissioned in phases, the Chernobyl Nuclear Power Plant's four reactors began commercial operations between 1978 and 1984. The facility was initially named the Chernobyl Nuclear Power Plant of V. I. Lenin. On 26 April 1986, reactor No. 4 experienced a catastrophic explosion and meltdown, leading to the establishment of the Chernobyl exclusion zone, which is managed by the State Agency of Ukraine on Exclusion Zone Management.",
+        "Commissioned in phases, the Chernobyl Nuclear Power Plant's four reactors began commercial operations between 1978 and 1984. The facility was initially named the Chernobyl Nuclear Power Plant of V. I. Lenin. On 26 April 1986, reactor No. 4 experienced a catastrophic explosion and meltdown, leading to the establishment of the [[chernobyl-exclusion-zone|Chernobyl exclusion zone]], which is managed by the State Agency of Ukraine on Exclusion Zone Management.",
         "Despite the disaster, the remaining three reactors continued to operate, achieving a capacity factor between 60 and 70%. Units 1 and 3 generated a total of 98 terawatt-hours (TWh) of electricity each, while unit 2 produced 75 TWh before its permanent shutdown in 1991 due to a turbine fire."
       ]
     },
@@ -70,6 +70,8 @@
     }
   ],
   "links_out": [
+    "chernobyl",
+    "chernobyl-exclusion-zone",
     "dnieper",
     "full-scale-russo-ukrainian-war",
     "kyiv",

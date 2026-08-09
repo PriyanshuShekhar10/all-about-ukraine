@@ -1,0 +1,102 @@
+{
+  "qid": "Q849109",
+  "slug": "buchach",
+  "title": "Buchach",
+  "type": "city in Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "12,511",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "9",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "271",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.0647, 25.3872",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Buchach is a city situated on the Strypa River in Ternopil Oblast, [[western-ukraine|Western Ukraine]]. It serves as the administrative center of the Buchach urban hromada and has a rich historical background influenced by various states and cultures throughout its existence.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Buchach is located on the Strypa River, a tributary of the [[dniester|Dniester]], within Chortkiv Raion of [[ternopil|Ternopil]] Oblast, approximately 135 kilometers (84 miles) southeast of [[lviv|Lviv]]. As of 2022, the estimated population of Buchach was 12,171."
+      ]
+    },
+    {
+      "heading": "Historical Overview",
+      "paragraphs": [
+        "The first recorded mention of Buchach dates back to 1260, as noted by Bartosz Paprocki in his work published in 1578. The city was part of the Polish–Lithuanian Commonwealth until the partitions, subsequently coming under the control of the Habsburg monarchy from 1772 to 1804, followed by the Austrian Empire until 1867, and Austria-Hungary until 1918.",
+        "Buchach briefly became part of the [[west-ukrainian-peoples-republic|West Ukrainian People's Republic]] from 1918 to 1919 before being captured by Poland. It was occupied by the Red Army in 1939 during the Soviet invasion of Poland and remained part of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] until 1991. The city has experienced significant demographic changes, with a diverse population including Polish, Jewish, and [[ukrainian|Ukrainian]] communities at various points in its history."
+      ]
+    },
+    {
+      "heading": "Cultural and Economic Development",
+      "paragraphs": [
+        "Buchach developed as a market town, linking Poland and the Ottoman Empire, especially during the 17th and 18th centuries. The area saw an influx of settlers, including Polish, Jewish, and Armenian populations. The late 19th century marked the beginning of industrialization in Buchach, with the establishment of various small-scale industries such as a brickworks, textile plant, and a wooden toy factory employing around 200 workers.",
+        "The town was also known for its educational institutions, including the Saint Josaphat Institute."
+      ]
+    },
+    {
+      "heading": "Religious Landscape",
+      "paragraphs": [
+        "Buchach is home to various religious communities, including the [[ukrainian-greek-catholic-church|Ukrainian Greek Catholic Church]], Ukrainian Autocephalous Orthodox Church, and the [[ukrainian-orthodox-church|Ukrainian Orthodox Church]] – [[kyiv|Kyiv]] Patriarchate. Notable churches in the city include St. Nicholas Church, the Church of the Intercession, and the Church of the Assumption of Mary."
+      ]
+    },
+    {
+      "heading": "Notable Figures",
+      "paragraphs": [
+        "Buchach has been the birthplace or residence of several notable individuals, including Ukrainian figures such as Mykola Bevz, a scientist, and Nataliya Katser-Buchkovska, a member of the [[verkhovna-rada|Ukrainian Parliament]]. The city is also associated with prominent Jewish figures like Nobel Prize-winning author Shmuel Yosef Agnon and historian Emanuel Ringelblum."
+      ]
+    },
+    {
+      "heading": "Modern Developments",
+      "paragraphs": [
+        "Following the dissolution of the Soviet Union, Buchach became part of independent [[ukraine|Ukraine]]. The city was the administrative center of Buchach Raion until July 2020, when administrative reforms merged it into Chortkiv Raion. Buchach maintains international relations through twin town agreements with Złotoryja and Kazimierza Wielka in Poland."
+      ]
+    }
+  ],
+  "links_out": [
+    "dniester",
+    "kyiv",
+    "lviv",
+    "ternopil",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-greek-catholic-church",
+    "ukrainian-orthodox-church",
+    "ukrainian-soviet-socialist-republic",
+    "verkhovna-rada",
+    "west-ukrainian-peoples-republic",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Buchach — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Buchach",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-09",
+  "status": "published"
+}
