@@ -23,13 +23,13 @@
       }
     ]
   },
-  "summary": "Podolia, also known as Podillia, is a historic region in Eastern Europe, primarily situated in the west-central and southwestern parts of [[ukraine|Ukraine]]. It has a rich agricultural landscape and a complex history involving various empires and nations, significantly influencing Ukrainian culture and identity.",
+  "summary": "Podolia, also known as Podillia, is a historic region in [[eastern-europe|Eastern Europe]], primarily situated in the west-central and southwestern parts of [[ukraine|Ukraine]]. It has a rich agricultural landscape and a complex history involving various empires and nations, significantly influencing Ukrainian culture and identity.",
   "sections": [
     {
       "heading": "Geographical Features",
       "paragraphs": [
         "Podolia is characterized by its elongated plateau and fertile agricultural land, covering approximately 40,000 square kilometers (15,000 sq mi). It is traversed by the Southern Buh River and bordered by the [[dniester|Dniester]] River to the south, which serve as vital trade routes.",
-        "The region consists mainly of present-day [[ukrainian|Ukrainian]] [[vinnytsia|Vinnytsia]] Oblast and parts of southern and central Khmelnytskyi Oblast, with extensions into [[ternopil|Ternopil]] Oblast and [[kyiv|Kyiv]] Oblast. It also includes northern sections of Transnistria.",
+        "The region consists mainly of present-day [[ukrainian|Ukrainian]] [[vinnytsia-oblast|Vinnytsia Oblast]] and parts of southern and central Khmelnytskyi Oblast, with extensions into [[ternopil-oblast|Ternopil Oblast]] and [[kyiv|Kyiv]] Oblast. It also includes northern sections of Transnistria.",
         "The predominant soil type is chernozem, known for its fertility, while the climate is moderate, with average temperatures recorded at Kamianets-Podilskyi being 9 °C (−4 °C in January, 20 °C in July)."
       ]
     },
@@ -43,7 +43,7 @@
     {
       "heading": "Cultural Significance",
       "paragraphs": [
-        "Podolian culture is distinguished by its folk icon-painting tradition, characterized by vibrant colors such as red, green, and yellow. These artistic works are preserved in institutions like the Vinnytsya Art Museum and the Museum of Ukrainian Home Icons in Radomysl Castle.",
+        "Podolian culture is distinguished by its folk icon-painting tradition, characterized by vibrant colors such as red, green, and yellow. These artistic works are preserved in institutions like the [[vinnytsia|Vinnytsya]] Art Museum and the Museum of Ukrainian Home Icons in Radomysl Castle.",
         "The region is also known for its agricultural products, including cherries, mulberries, melons, gourds, and cucumbers, contributing to its reputation as a fertile area."
       ]
     },
@@ -57,13 +57,15 @@
   ],
   "links_out": [
     "dniester",
+    "eastern-europe",
     "kingdom-of-galiciavolhynia",
     "kyiv",
-    "ternopil",
+    "ternopil-oblast",
     "ukraine",
     "ukrainian",
     "ukrainian-soviet-socialist-republic",
     "vinnytsia",
+    "vinnytsia-oblast",
     "west-ukrainian-peoples-republic"
   ],
   "sources": [

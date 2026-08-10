@@ -1,0 +1,105 @@
+{
+  "qid": "Q269523",
+  "slug": "pyriatyn",
+  "title": "Pyriatyn",
+  "type": "city in Ukraine",
+  "category": "economy",
+  "aliases": [
+    "Piryatin"
+  ],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1155",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "14,988",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "7",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "89",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.2406, 32.5093",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Pyriatyn is a city located in Poltava Oblast, [[ukraine|Ukraine]], recognized as an important industrial hub in the region. As of 2022, the estimated population of the city is 14,988.",
+  "sections": [
+    {
+      "heading": "Geographical Context",
+      "paragraphs": [
+        "Pyriatyn covers an area of 118.8 square kilometers and is situated 197 kilometers northwest of [[poltava|Poltava]], within the [[dnieper|Dnieper]] Lowland and the forest-steppe natural zone.",
+        "The city is positioned on the right bank of the Udai River, a tributary of the Sula River, characterized by its winding nature that creates estuaries, old lakes, and marshy lakes.",
+        "Pyriatyn is strategically located at the intersection of major highways leading to [[kyiv|Kyiv]], [[kharkiv-oblast|Kharkiv]], [[sumy|Sumy]], [[cherkasy|Cherkasy]], and [[chernihiv|Chernihiv]], with the international airport '[[boryspil|Boryspil]]' located 135 kilometers away."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "During World War II, a ghetto was established in Pyriatyn at the end of 1941 or the beginning of 1942, which housed over 1,500 Jews by late March 1942.",
+        "The city witnessed two significant mass executions of Jews conducted by SD units Sonderkommando Plath, with the first occurring on April 6, 1942, where approximately 1,530 Jews were taken to the woods and murdered.",
+        "The second mass execution took place on May 18, 1942, resulting in the deaths of several Jewish families, 380 communists and Soviet militants, and 25 Gypsy families."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "As of the 2001 census, the ethnic and linguistic distribution of Pyriatyn's population provides insight into the city's demographic composition."
+      ]
+    },
+    {
+      "heading": "Economic Role",
+      "paragraphs": [
+        "Pyriatyn is recognized as an important industrial center within [[poltava-oblast|Poltava Oblast]], particularly noted for its food industry enterprises.",
+        "The proximity of Pyriatyn to the Pyryatynsky National Nature Park adds to its regional significance, combining industrial activity with natural preservation."
+      ]
+    },
+    {
+      "heading": "Climate",
+      "paragraphs": [
+        "The climate in Pyriatyn is classified as temperate continental, with average temperatures around −6.0 °C in January and +21.0 °C in July.",
+        "Annual precipitation ranges from 480 to 580 mm, predominantly occurring during the summer months."
+      ]
+    }
+  ],
+  "links_out": [
+    "boryspil",
+    "cherkasy",
+    "chernihiv",
+    "dnieper",
+    "kharkiv-oblast",
+    "kyiv",
+    "poltava",
+    "poltava-oblast",
+    "sumy",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Pyriatyn — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pyriatyn",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

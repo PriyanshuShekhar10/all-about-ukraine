@@ -1,0 +1,80 @@
+{
+  "qid": "Q12164003",
+  "slug": "ukrainian-traditional-costumes",
+  "title": "Ukrainian traditional costumes",
+  "type": "topic",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "topic",
+    "fields": []
+  },
+  "summary": "Ukrainian traditional costumes reflect the rich cultural heritage of ethnic Ukrainians, characterized by distinct garments such as the vyshyvanka, sashes, and vinok flower crowns. The clothing styles vary across the four macroregions of Ukraine, showcasing differences in gender, social status, and local influences.",
+  "sections": [
+    {
+      "heading": "Overview of Ukrainian National Clothing",
+      "paragraphs": [
+        "[[ukrainian|Ukrainian]] national clothing is primarily worn by ethnic [[ukrainians|Ukrainians]] and includes notable items such as the embroidered shirt ([[vyshyvanka|vyshyvanka]]), a cloth sash, and a vinok flower crown. The traditional clothing styles are influenced by the four macroregions of [[ukraine|Ukraine]]: [[polesia|Polissia]], Lisostep, Step, and [[carpathians|Carpathians]], with variations that reflect gender, social status, place of residence, and wealth."
+      ]
+    },
+    {
+      "heading": "Shirts",
+      "paragraphs": [
+        "The embroidered sorochka shirt, known as vyshyvanka, is a central component of Ukrainian attire. Typically crafted from hemp or linen, vyshyvankas vary significantly in design and decoration across different regions. The earliest examples emerged in Ukrainian villages during the mid-18th century, although the tradition of Ukrainian embroidery dates back to the 10th and 11th centuries, originally associated with the feudal nobility. In rural contexts, vyshyvankas evolved into symbols of magic and personal identity, with wedding shirts being particularly significant, featuring elaborate adornments and crafted from a single piece of fabric."
+      ]
+    },
+    {
+      "heading": "Sashes and Head Coverings",
+      "paragraphs": [
+        "Sashes in Ukrainian culture symbolize fertility, protection, and unity. Folklore suggests that characters without belts are considered dangerous. Wedding sashes, often red or embroidered with the Tree of Life pattern, play a role in childbirth customs. The vinok, or flower crown, is another important symbol, worn by unmarried women and brides, and serves as a pagan talisman used in various rituals. The ochipok, a head covering for married women, signifies marital status and is often paired with a namitka or khustka."
+      ]
+    },
+    {
+      "heading": "Footwear",
+      "paragraphs": [
+        "Footwear varies regionally, with Polissya Ukrainians traditionally wearing bast shoes (lychaky) and Carpathians opting for leather postoly. Choboty boots, gifted by grooms to brides and their mothers, are common across Ukraine and are linked to winter divination rituals. The cherevyky, or dress boots, made from leather and colorful Saffian, gained popularity among villagers in the 19th century, with their names often derived from the colors of the materials used."
+      ]
+    },
+    {
+      "heading": "Outer Garments",
+      "paragraphs": [
+        "Kozhukh fur coats are significant in Ukrainian culture, symbolizing fertility. They are used in various wedding traditions and can be adorned with decorative elements such as appliqué and embroidery. The kozhukh, when worn inside out, holds specific cultural meanings related to blessings and marital customs."
+      ]
+    },
+    {
+      "heading": "Color and Motifs",
+      "paragraphs": [
+        "Red is the predominant color in Ukrainian clothing, especially in festive attire. Each region showcases unique color schemes and motifs, with Polesian clothing often featuring red and white ornaments, while [[hutsuls|Hutsuls]] favor orange and yellow. Traditional embroidery techniques include counted-thread methods and cross-stitch, with common motifs being geometric and floral, particularly in [[western-ukraine|Western Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Regional Variations",
+      "paragraphs": [
+        "The clothing styles in the Polissia region, which includes areas like Volhynian Polissya and [[kyiv|Kyiv]] Polissia, show influences from Polish, Belarusian, and Russian traditions. The Lisostep region, encompassing Volyn and Galicia, features colorful garments with floral and geometric designs. The Steppe region, including [[odesa|Odesa]] and [[crimea|Crimea]], reflects a mix of Moldovan, Bulgarian, and [[crimean-tatar|Crimean Tatar]] influences, though historical details are scarce. In the Carpathians, local clothing traditions are colorful and heavily influenced by neighboring cultures, with a rich variety of floral embroidery."
+      ]
+    }
+  ],
+  "links_out": [
+    "carpathians",
+    "crimea",
+    "crimean-tatar",
+    "hutsuls",
+    "kyiv",
+    "odesa",
+    "polesia",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "vyshyvanka",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian national clothing — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_national_clothing",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

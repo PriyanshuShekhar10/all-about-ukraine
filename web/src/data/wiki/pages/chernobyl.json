@@ -55,7 +55,7 @@
       "heading": "Historical Significance",
       "paragraphs": [
         "The first recorded mention of Chernobyl dates back to 1193, when it was referred to as a ducal hunting lodge in [[kievan-rus|Kievan Rus]]'. The city evolved through various historical phases, including a significant Jewish presence in the 16th century, which was later devastated during the Holocaust.",
-        "In the 20th century, Chernobyl gained prominence with the establishment of the [[chernobyl-nuclear-power-plant|Chernobyl Nuclear Power Plant]] in 1972, which led to the construction of the nearby city of Pripyat to accommodate its workers."
+        "In the 20th century, Chernobyl gained prominence with the establishment of the [[chernobyl-nuclear-power-plant|Chernobyl Nuclear Power Plant]] in 1972, which led to the construction of the nearby city of [[pripyat|Pripyat]] to accommodate its workers."
       ]
     },
     {
@@ -86,6 +86,7 @@
     "chernobyl-nuclear-power-plant",
     "kievan-rus",
     "kyiv",
+    "pripyat",
     "ukraine",
     "ukrainian"
   ],

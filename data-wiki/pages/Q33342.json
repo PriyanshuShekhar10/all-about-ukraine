@@ -44,7 +44,7 @@
       }
     ]
   },
-  "summary": "Bila Tserkva is a significant city in central Ukraine, located on the Ros River and serving as the administrative center of Bila Tserkva Raion. With a population of approximately 207,273 as of 2022, it has a rich history dating back to its founding in 1032 and has played a vital role in the region's economic and cultural development.",
+  "summary": "Bila Tserkva is a significant city in central Ukraine, located on the Ros River and serving as the administrative center of [[bila-tserkva-raion|Bila Tserkva Raion]]. With a population of approximately 207,273 as of 2022, it has a rich history dating back to its founding in 1032 and has played a vital role in the region's economic and cultural development.",
   "sections": [
     {
       "heading": "Historical Overview",
@@ -81,6 +81,7 @@
     }
   ],
   "links_out": [
+    "bila-tserkva-raion",
     "kievan-rus",
     "kyiv",
     "ukraine",

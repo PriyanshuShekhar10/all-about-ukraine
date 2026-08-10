@@ -1,0 +1,100 @@
+{
+  "qid": "Q170456",
+  "slug": "pripyat",
+  "title": "Pripyat",
+  "type": "lost city",
+  "category": "culture",
+  "aliases": [
+    "Pripyat'",
+    "Prypiat",
+    "Prypiat'"
+  ],
+  "infobox": {
+    "label": "lost city",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1970-02-04",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "0",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "8",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "127",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "51.4061, 30.0572",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Pripyat, an abandoned industrial city in [[kyiv|Kyiv]] Oblast, [[ukraine|Ukraine]], was founded on 4 February 1970 and is closely associated with the Chernobyl Nuclear Power Plant. The city was evacuated following the Chernobyl disaster on 27 April 1986, leading to its abandonment and subsequent historical significance.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Pripyat, also known as Prypiat, is situated near the Belarus border and was named after the nearby river Pripyat. It was established to support the nearby [[chernobyl-nuclear-power-plant|Chernobyl Nuclear Power Plant]], which was deemed a safe achievement of Soviet engineering. The city was officially designated as a city in 1979, with a population that reached 49,360 before the evacuation on 27 April 1986, one day after the [[chernobyl|Chernobyl]] nuclear disaster."
+      ]
+    },
+    {
+      "heading": "Post-Disaster Developments",
+      "paragraphs": [
+        "Following the [[chernobyl-disaster|Chernobyl disaster]], the city of Slavutych was constructed to accommodate former residents of Pripyat. The abandoned city is known for landmarks such as the Ferris wheel in the Pripyat amusement park, which was set to open shortly after the disaster, and the Azure Swimming Pool and Avanhard Stadium.",
+        "On 4 February 2020, former residents gathered in Pripyat to commemorate the city's 50th anniversary, marking the first return since its abandonment. The 2020 wildfires reached the outskirts of Pripyat but did not affect the nuclear plant."
+      ]
+    },
+    {
+      "heading": "Recent History and Security",
+      "paragraphs": [
+        "During the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], Pripyat was temporarily occupied by Russian forces during the Battle of Chernobyl. Russian troops withdrew from the area on 31 March 2022, and [[ukrainian|Ukrainian]] forces regained control of Pripyat on 3 April 2022."
+      ]
+    },
+    {
+      "heading": "Infrastructure and Statistics",
+      "paragraphs": [
+        "As of 1 January 1986, Pripyat had a population of 49,400, with an average age of approximately 26 years. The city featured 658,700 m² of living space, including 13,414 apartments across 160 blocks, and various educational and healthcare facilities.",
+        "Pripyat's infrastructure included 25 stores, 27 cafes, and numerous cultural and recreational facilities such as the Palace of Culture Energetik and multiple sports venues."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Pripyat has been depicted in various forms of popular culture, including films such as Chernobyl Diaries and documentaries like Life After People. It has also inspired literature, music, and video games, reflecting its enduring legacy and connection to the Chernobyl disaster."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "chernobyl",
+    "chernobyl-disaster",
+    "chernobyl-nuclear-power-plant",
+    "kyiv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Pripyat — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pripyat",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

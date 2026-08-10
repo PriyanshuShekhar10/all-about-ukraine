@@ -57,8 +57,8 @@
       "heading": "Geography",
       "paragraphs": [
         "Luhansk Oblast is located in far eastern [[ukraine|Ukraine]], covering an area of 26,700 km2, which is 4.42% of Ukraine's total area. The province measures 250 km in length from north to south and 190 km in width from east to west.",
-        "The oblast has the longest segment of Ukraine's border with Russia, measuring 746 km (464 mi). It shares borders with Belgorod Oblast to the north, Voronezh Oblast to the northeast, and Rostov Oblast to the east, while [[kharkiv|Kharkiv]] Oblast lies to the west and [[donetsk|Donetsk]] Oblast to the south.",
-        "The Siversky Donets river flows through the region, dividing it approximately in half. The Donetsk Ridge elevates the southern part of the oblast, with Mohyla Mechetna being the highest point at 367 m (1,204 ft)."
+        "The oblast has the longest segment of Ukraine's border with Russia, measuring 746 km (464 mi). It shares borders with Belgorod Oblast to the north, Voronezh Oblast to the northeast, and Rostov Oblast to the east, while [[kharkiv-oblast|Kharkiv Oblast]] lies to the west and [[donetsk-oblast|Donetsk Oblast]] to the south.",
+        "The [[donets|Siversky Donets]] river flows through the region, dividing it approximately in half. The [[donetsk|Donetsk]] Ridge elevates the southern part of the oblast, with Mohyla Mechetna being the highest point at 367 m (1,204 ft)."
       ]
     },
     {
@@ -93,8 +93,10 @@
   ],
   "links_out": [
     "donbas",
+    "donets",
     "donetsk",
-    "kharkiv",
+    "donetsk-oblast",
+    "kharkiv-oblast",
     "luhansk",
     "luhansk-peoples-republic",
     "ukraine",

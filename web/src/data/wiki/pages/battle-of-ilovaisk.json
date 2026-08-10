@@ -32,7 +32,7 @@
     {
       "heading": "Prelude to the Battle",
       "paragraphs": [
-        "The conflict in [[donetsk|Donetsk]] Oblast escalated on 11 July 2014, with shelling from Russian territory. On 23 July 2014, General Petro Lytvyn was appointed commander of sector D, which included the area between Donetsk city and the Russo-[[ukrainian|Ukrainian]] border. Ukrainian forces aimed to disrupt insurgent supply lines between Donetsk and [[luhansk|Luhansk]] while attempting to regain control of the border.",
+        "The conflict in [[donetsk-oblast|Donetsk Oblast]] escalated on 11 July 2014, with shelling from Russian territory. On 23 July 2014, General Petro Lytvyn was appointed commander of sector D, which included the area between [[donetsk|Donetsk]] city and the Russo-[[ukrainian|Ukrainian]] border. Ukrainian forces aimed to disrupt insurgent supply lines between Donetsk and [[luhansk|Luhansk]] while attempting to regain control of the border.",
         "Following the securing of Savur-Mohyla hill, a battalion from the 25th Airborne Brigade was dispatched to assault Shakhtarsk on 31 July 2014, resulting in significant casualties. The Ukrainian media later portrayed a maneuver on 11 August as a successful raid, although its outcomes remained unclear.",
         "On 6 August, the National Security and Defence of [[ukraine|Ukraine]] warned of a potential Russian invasion, and on 7 August, pro-Russian militant leader Alexander Borodai was replaced by Alexander Zakharchenko, marking the beginning of Ukrainian attempts to capture Ilovaisk."
       ]
@@ -54,7 +54,7 @@
     {
       "heading": "Attempts to Break the Siege",
       "paragraphs": [
-        "In response to the encirclement, the Ukrainian command formed a tactical group from the 92nd Mechanized Brigade to attempt a rescue operation. This unit, consisting of 276 soldiers and various armored vehicles, was dispatched from [[kharkiv|Kharkiv]] Oblast on 24 August.",
+        "In response to the encirclement, the Ukrainian command formed a tactical group from the 92nd Mechanized Brigade to attempt a rescue operation. This unit, consisting of 276 soldiers and various armored vehicles, was dispatched from [[kharkiv-oblast|Kharkiv Oblast]] on 24 August.",
         "However, the group faced heavy artillery fire upon arrival and suffered significant losses, with the majority of vehicles destroyed and only a few soldiers surviving. Similarly, the Rukh Oporu squad also faced defeat, preventing any successful rendezvous with the encircled forces."
       ]
     },
@@ -70,8 +70,9 @@
     "armed-forces-of-ukraine",
     "donbas",
     "donetsk",
+    "donetsk-oblast",
     "flag-of-ukraine",
-    "kharkiv",
+    "kharkiv-oblast",
     "kyiv",
     "luhansk",
     "ukraine",

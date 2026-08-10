@@ -1,0 +1,86 @@
+{
+  "qid": "Q1431500",
+  "slug": "kremenchuk-reservoir",
+  "title": "Kremenchuk Reservoir",
+  "type": "reservoir",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "reservoir",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1959",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "2,250",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.2667, 32.6333",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Kremenchuk Reservoir is a significant water body located on the Dnieper River within the Ukrainian oblasts of Poltava, Cherkasy, and Kirovohrad. It serves multiple purposes, including irrigation, flood control, fishing, and transportation.",
+  "sections": [
+    {
+      "heading": "Geographical Overview",
+      "paragraphs": [
+        "The Kremenchuk Reservoir, known in [[ukrainian|Ukrainian]] as Кременчуцьке водосховище (Kremenchutske vodoskhovyshche), is situated along the [[dnieper|Dnieper River]], spanning the territories of [[poltava|Poltava]], [[cherkasy|Cherkasy]], and [[kropyvnytskyi|Kirovohrad]] oblasts.",
+        "As the largest reservoir on the Dnieper River, it extends 149 kilometers in length and reaches a width of 28 kilometers, covering an area of 2,250 square kilometers."
+      ]
+    },
+    {
+      "heading": "Hydrological Features",
+      "paragraphs": [
+        "The reservoir has an average depth of six meters and a total volume of 13.5 cubic kilometers.",
+        "The water level within the reservoir is regulated by the Kremenchuk Hydroelectric Power Plant dam, which was constructed between 1954 and 1959."
+      ]
+    },
+    {
+      "heading": "Impact on Local Communities",
+      "paragraphs": [
+        "The creation of the Kremenchuk Reservoir led to the flooding of 23 populated areas in the Novoheorhiivsk Raion, which included the towns of Kryliv and Novoheorhiivsk.",
+        "This significant alteration of the landscape has had lasting effects on the local communities and their livelihoods."
+      ]
+    },
+    {
+      "heading": "Ecological and Economic Importance",
+      "paragraphs": [
+        "The reservoir plays a crucial role in irrigation and flood control, which are vital for agricultural activities in the region.",
+        "Additionally, it supports fishing industries and facilitates transport from the ports of Cherkasy and Svitlovodsk, contributing to the local economy."
+      ]
+    },
+    {
+      "heading": "River Systems",
+      "paragraphs": [
+        "The Sula River flows into the Kremenchuk Reservoir, creating a delta characterized by numerous islands, which enhances the biodiversity and ecological significance of the area."
+      ]
+    }
+  ],
+  "links_out": [
+    "cherkasy",
+    "dnieper",
+    "kropyvnytskyi",
+    "poltava",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Kremenchuk Reservoir — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kremenchuk_Reservoir",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

@@ -65,13 +65,13 @@
     {
       "heading": "Geographical and Environmental Context",
       "paragraphs": [
-        "The Exclusion Zone spans approximately 2,600 km² (1,000 sq mi) and includes parts of the northern Vyshhorod Raion in [[kyiv|Kyiv]] Oblast. It is adjacent to the Polesie State Radioecological Reserve in Belarus. The zone is characterized by high levels of radioactive contamination, leading to restricted public access and habitation, although it has become a sanctuary for diverse flora and fauna due to the absence of human activity since 1986."
+        "The Exclusion Zone spans approximately 2,600 km² (1,000 sq mi) and includes parts of the northern Vyshhorod Raion in [[kyiv|Kyiv]] Oblast. It is adjacent to the [[rivne-oblast|Polesie]] State Radioecological Reserve in Belarus. The zone is characterized by high levels of radioactive contamination, leading to restricted public access and habitation, although it has become a sanctuary for diverse flora and fauna due to the absence of human activity since 1986."
       ]
     },
     {
       "heading": "Historical Background",
       "paragraphs": [
-        "Before the disaster, the [[chernobyl|Chernobyl]] area was part of the Polesia region, home to approximately 120,000 residents in Chernobyl and Pripyat, along with 187 smaller communities. Following the disaster, the population was evacuated, and the area was marked as uninhabited on maps. The zone has historical significance, having served as a site of partisan resistance during World War II."
+        "Before the disaster, the [[chernobyl|Chernobyl]] area was part of the [[polesia|Polesia]] region, home to approximately 120,000 residents in Chernobyl and [[pripyat|Pripyat]], along with 187 smaller communities. Following the disaster, the population was evacuated, and the area was marked as uninhabited on maps. The zone has historical significance, having served as a site of partisan resistance during World War II."
       ]
     },
     {
@@ -100,6 +100,9 @@
     "chernobyl-nuclear-power-plant",
     "full-scale-russo-ukrainian-war",
     "kyiv",
+    "polesia",
+    "pripyat",
+    "rivne-oblast",
     "ukraine"
   ],
   "sources": [

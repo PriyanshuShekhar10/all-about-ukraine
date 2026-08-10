@@ -1,0 +1,72 @@
+{
+  "qid": "Q27468",
+  "slug": "eastern-europe",
+  "title": "Eastern Europe",
+  "type": "region",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "region",
+    "fields": [
+      {
+        "label": "Population",
+        "value": "281,001,328",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.0000, 31.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Eastern Europe is a subregion of the European continent characterized by diverse geopolitical, cultural, and socio-economic aspects. It includes countries such as Ukraine, Belarus, and Russia, and has been shaped by historical influences including Eastern Christianity and the legacy of the Cold War.",
+  "sections": [
+    {
+      "heading": "Definitions and Boundaries",
+      "paragraphs": [
+        "Eastern Europe is defined variably, often lacking precision and being described as a 'fuzzy' term. Its eastern boundary is typically marked by the Ural Mountains, while the western boundary is historically and culturally contingent, making it difficult to delineate.",
+        "In narrower definitions, Eastern Europe includes Belarus, Russia, and [[ukraine|Ukraine]], while broader definitions may encompass Moldova, Romania, and parts of the Balkans. The concept of Eastern Europe has evolved significantly since the Enlightenment."
+      ]
+    },
+    {
+      "heading": "Cultural and Religious Influences",
+      "paragraphs": [
+        "The cultural landscape of Eastern Europe has been significantly shaped by the traditions of Slavic peoples and the influence of Eastern Christianity, particularly the Eastern Orthodox Church. Ukraine is among the countries where Eastern Orthodoxy plays a crucial role in cultural identity.",
+        "The Great Schism of 1054 marked a division between Eastern Orthodox and Western Catholic churches, contributing to the cultural unity of Eastern European nations, including Ukraine, which has a notable Eastern Catholic presence through the [[ukrainian-greek-catholic-church|Ukrainian Greek Catholic Church]]."
+      ]
+    },
+    {
+      "heading": "Cold War Context",
+      "paragraphs": [
+        "During the Cold War from 1947 to 1991, Eastern Europe was synonymous with the Eastern Bloc, comprising communist states influenced by the Soviet Union. This geopolitical division has left a lasting impact on the region, including Ukraine, which was part of the Soviet Union until its independence in 1991."
+      ]
+    },
+    {
+      "heading": "Contemporary Developments",
+      "paragraphs": [
+        "In the early 21st century, Eastern Europe encompasses a diverse array of countries, including Ukraine, Belarus, Moldova, and several others. The classification of these nations continues to evolve, reflecting their complex historical and political contexts.",
+        "The inclusion of countries such as Armenia, Azerbaijan, and Georgia in discussions of Eastern Europe highlights the region's geographical and cultural fluidity, as these nations participate in European political frameworks despite being located at the crossroads of Eastern Europe and Western Asia."
+      ]
+    },
+    {
+      "heading": "Post-Soviet States",
+      "paragraphs": [
+        "The post-Soviet landscape includes several republics considered part of Eastern Europe, such as Ukraine, Belarus, and Moldova. This classification underscores the ongoing influence of historical ties and the legacy of Soviet governance in shaping contemporary identities within the region."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine",
+    "ukrainian-greek-catholic-church"
+  ],
+  "sources": [
+    {
+      "title": "Eastern Europe — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eastern_Europe",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

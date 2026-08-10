@@ -40,7 +40,7 @@
       }
     ]
   },
-  "summary": "The Ukrainian People's Republic (UPR) was a historical state in Eastern Europe that emerged during a period of national awakening in Ukraine following the February Revolution of 1917. It declared independence from Russia on 22 January 1918, amidst a backdrop of conflict involving various factions during the Ukrainian War of Independence.",
+  "summary": "The Ukrainian People's Republic (UPR) was a historical state in [[eastern-europe|Eastern Europe]] that emerged during a period of national awakening in Ukraine following the February Revolution of 1917. It declared independence from Russia on 22 January 1918, amidst a backdrop of conflict involving various factions during the Ukrainian War of Independence.",
   "sections": [
     {
       "heading": "Formation and Declaration of Independence",
@@ -52,7 +52,7 @@
     {
       "heading": "Conflict and Opposition",
       "paragraphs": [
-        "In the aftermath of the October Revolution, an opposing government, the Ukrainian People's Republic of Soviets, was formed in Kharkiv, which engaged in conflict with the UPR, receiving support from Soviet Russia. The UPR faced additional opposition from the White movement, Poland, Green armies, and anarchists, leading to the [[ukrainian-war-of-independence|Ukrainian War of Independence]], which was part of the broader Russian Civil War and resulted in significant casualties among [[ukrainians|Ukrainians]].",
+        "In the aftermath of the October Revolution, an opposing government, the Ukrainian People's Republic of Soviets, was formed in [[kharkiv-oblast|Kharkiv]], which engaged in conflict with the UPR, receiving support from Soviet Russia. The UPR faced additional opposition from the White movement, Poland, Green armies, and anarchists, leading to the [[ukrainian-war-of-independence|Ukrainian War of Independence]], which was part of the broader Russian Civil War and resulted in significant casualties among [[ukrainians|Ukrainians]].",
         "Soviet Russia ultimately extended its control over the region, leading to the establishment of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]], which became a founding member of the Soviet Union in 1922."
       ]
     },
@@ -74,9 +74,11 @@
   "links_out": [
     "chernihiv",
     "dnipro",
+    "eastern-europe",
     "full-scale-russo-ukrainian-war",
     "hetman",
     "kharkiv",
+    "kharkiv-oblast",
     "kherson",
     "podolia",
     "poltava",

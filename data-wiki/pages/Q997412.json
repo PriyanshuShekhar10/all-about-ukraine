@@ -1,0 +1,83 @@
+{
+  "qid": "Q997412",
+  "slug": "vynnyky",
+  "title": "Vynnyky",
+  "type": "city in Ukraine",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "15,723",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "6",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.8156, 24.1297",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Vynnyky is a small city located in Lviv Raion of Lviv Oblast, [[ukraine|Ukraine]], with a population of approximately 19,037 as of 2022. The city has a rich historical background and is part of the Lviv urban hromada.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Vynnyky, known as Winniki in Polish, was part of the [[ruthenian|Ruthenian]] Voivodeship of the Kingdom of Poland from the mid-14th century until the Partitions of Poland. Between 1772 and 1918, it was incorporated into Austrian Galicia, and during the interwar period, it returned to Poland as part of the Lwow Voivodeship.",
+        "In 1925, the population of Vynnyky was recorded at 6,000, comprising 3,300 Polish residents, 2,150 Ruthenians ([[ukrainians|Ukrainians]]), 350 Jews, and 200 Germans.",
+        "A significant cultural event occurred on 28 September 1913 when the first sculptural monument to the [[ukrainian|Ukrainian]] national poet [[taras-shevchenko|Taras Shevchenko]] was inaugurated in Vynnyky, funded by the local Prosvita society. The ceremony was attended by notable figures from Galicia's Ukrainian community, including Volodymyr Levytsky, Yevhen Olesnytsky, and Bohdan Lepky. However, the monument was destroyed in 1919 during the Polish-[[full-scale-russo-ukrainian-war|Ukrainian War]].",
+        "In the 1950s, Vynnyky served as a district center within [[lviv-oblast|Lviv Oblast]]. The city remained part of [[lviv|Lviv]] Municipality from 1959 until 18 July 2020, when administrative reforms led to the dissolution of the municipality and the formation of the new Lviv Raion."
+      ]
+    },
+    {
+      "heading": "Economy",
+      "paragraphs": [
+        "The economy of Vynnyky includes a tobacco factory, which contributes to the local industry."
+      ]
+    },
+    {
+      "heading": "Notable Individuals",
+      "paragraphs": [
+        "Vynnyky has been the birthplace or residence of several notable individuals, including Andreas Bolek (1894–1945), a figure associated with the Austrian Nazi regime; Lyubomyr Dmyterko (1911–1985), a Soviet and Ukrainian poet, writer, and playwright; Katrya Hrynevycheva (1875–1947), a Ukrainian writer and community leader; Ivan Lypa (1865–1923), a Ukrainian author and politician; and [[ivan-franko|Myron]] Markevych (born 1951), a Ukrainian football manager."
+      ]
+    },
+    {
+      "heading": "International Relations",
+      "paragraphs": [
+        "Vynnyky is twinned with Dębica in Poland and Milovice in the Czech Republic, fostering international cooperation and cultural exchange."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "ivan-franko",
+    "lviv",
+    "lviv-oblast",
+    "ruthenian",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Vynnyky — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vynnyky",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

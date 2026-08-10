@@ -32,7 +32,7 @@
       }
     ]
   },
-  "summary": "The Kharkiv Art Museum, located in [[kharkiv|Kharkiv]], Ukraine, is one of the largest state collections of fine and applied arts in the country. Established in 1905, the museum has a rich history and a diverse collection that reflects the artistic heritage of Ukraine and beyond.",
+  "summary": "The Kharkiv Art Museum, located in [[kharkiv-oblast|Kharkiv]], Ukraine, is one of the largest state collections of fine and applied arts in the country. Established in 1905, the museum has a rich history and a diverse collection that reflects the artistic heritage of Ukraine and beyond.",
   "sections": [
     {
       "heading": "History",
@@ -65,7 +65,7 @@
     }
   ],
   "links_out": [
-    "kharkiv",
+    "kharkiv-oblast",
     "taras-shevchenko",
     "ukraine",
     "ukrainian"

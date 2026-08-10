@@ -47,7 +47,7 @@
       }
     ]
   },
-  "summary": "Makiivka is an industrial city located in Donetsk Oblast, eastern Ukraine, with a significant history of coal mining and metallurgy. As of 2022, it has an estimated population of 338,968 and is currently under Russian occupation following the conflict in the Donbas region.",
+  "summary": "Makiivka is an industrial city located in [[donetsk-oblast|Donetsk Oblast]], eastern Ukraine, with a significant history of coal mining and metallurgy. As of 2022, it has an estimated population of 338,968 and is currently under Russian occupation following the conflict in the Donbas region.",
   "sections": [
     {
       "heading": "Geography and Demographics",
@@ -89,6 +89,7 @@
   "links_out": [
     "donbas",
     "donetsk",
+    "donetsk-oblast",
     "donetsk-peoples-republic",
     "full-scale-russo-ukrainian-war",
     "ukraine",

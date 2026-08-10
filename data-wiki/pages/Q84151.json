@@ -44,13 +44,13 @@
     {
       "heading": "Overview",
       "paragraphs": [
-        "The Taras Shevchenko National University of Kyiv, also referred to as Kyiv University or KNU, is a public educational institution situated in [[kyiv|Kyiv]], [[ukraine|Ukraine]]. It is the third-oldest university in the country, following the University of [[lviv|Lviv]] and the University of [[kharkiv|Kharkiv]], and comprises 15 faculties and five institutes."
+        "The Taras Shevchenko National University of Kyiv, also referred to as Kyiv University or KNU, is a public educational institution situated in [[kyiv|Kyiv]], [[ukraine|Ukraine]]. It is the third-oldest university in the country, following the University of [[lviv|Lviv]] and the University of [[kharkiv-oblast|Kharkiv]], and comprises 15 faculties and five institutes."
       ]
     },
     {
       "heading": "Historical Background",
       "paragraphs": [
-        "Founded in 1834 by Nicholas I of Russia, the university was originally named the Saint Vladimir Imperial University of Kiev. The name was chosen to reflect the significance of Vladimir the Great in the context of Eastern Christianity. The university's initial structure included a single Faculty of Philosophy, which later expanded to include faculties of Law and Medicine.",
+        "Founded in 1834 by Nicholas I of Russia, the university was originally named the Saint Vladimir Imperial University of Kiev. The name was chosen to reflect the significance of [[vladimir-the-great|Vladimir the Great]] in the context of Eastern Christianity. The university's initial structure included a single Faculty of Philosophy, which later expanded to include faculties of Law and Medicine.",
         "In 1920, the institution was renamed Mykhailo Drahomanov University, and in 1939 it adopted its current name in honor of [[taras-shevchenko|Taras Shevchenko]], who had worked at the university as a field researcher. During World War II, the university was evacuated to Kazakhstan and later returned to Kyiv in 1943, where it resumed classes after reconstruction."
       ]
     },
@@ -81,12 +81,13 @@
     }
   ],
   "links_out": [
-    "kharkiv",
+    "kharkiv-oblast",
     "kyiv",
     "lviv",
     "taras-shevchenko",
     "ukraine",
-    "ukrainian"
+    "ukrainian",
+    "vladimir-the-great"
   ],
   "sources": [
     {

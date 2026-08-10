@@ -55,8 +55,8 @@
     {
       "heading": "Geography and Demographics",
       "paragraphs": [
-        "Ukraine is situated in Eastern Europe and is bordered by Russia to the east and northeast, Belarus to the north, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and the Sea of Azov to the south and southeast.",
-        "The country has an area of 603,628 km2 (233,062 sq mi) and is estimated to have a population of 32.3 million by 2026. [[kyiv|Kyiv]] serves as the capital and largest city, followed by [[kharkiv|Kharkiv]], [[odesa|Odesa]], and [[dnieper|Dnipro]].",
+        "Ukraine is situated in [[eastern-europe|Eastern Europe]] and is bordered by Russia to the east and northeast, Belarus to the north, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and the Sea of Azov to the south and southeast.",
+        "The country has an area of 603,628 km2 (233,062 sq mi) and is estimated to have a population of 32.3 million by 2026. [[kyiv|Kyiv]] serves as the capital and largest city, followed by [[kharkiv-oblast|Kharkiv]], [[odesa|Odesa]], and [[dnieper|Dnipro]].",
         "[[ukrainian|Ukrainian]] is the official language of the country."
       ]
     },
@@ -104,8 +104,9 @@
     "cossack-hetmanate",
     "dnieper",
     "donbas",
+    "eastern-europe",
     "euromaidan",
-    "kharkiv",
+    "kharkiv-oblast",
     "kievan-rus",
     "kyiv",
     "odesa",

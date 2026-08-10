@@ -1,0 +1,74 @@
+{
+  "qid": "Q111024035",
+  "slug": "hanna-malyar",
+  "title": "Hanna Malyar",
+  "type": "human",
+  "category": "war",
+  "aliases": [
+    "Hanna Maliar",
+    "Hanna Vasylivna Maliar",
+    "Hanna Vasylivna Malyar"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1978-07-28",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Kyiv",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Hanna Vasylivna Maliar is a Ukrainian lawyer and educator who served as a Deputy Minister of Defense from August 4, 2021, until September 18, 2023, under Prime Minister [[denys-shmyhal|Denys Shmyhal]]. Her work has been significant in the context of Ukraine's ongoing defense challenges, particularly during the full-scale invasion by Russia in 2022.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Hanna Maliar was born on July 28, 1978, in [[kyiv|Kyiv]], then part of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]]. She graduated from the International Institute of Linguistics and Law in Kyiv in 2000 and became a licensed lawyer in 2007."
+      ]
+    },
+    {
+      "heading": "Career",
+      "paragraphs": [
+        "Maliar began her career in 2010 as deputy head of the Department of Legal Issues at the State Research Institute of Customs Affairs. Between 2013 and 2020, she taught at the National School of Judges of [[ukraine|Ukraine]], focusing on the criminal-legal qualification of aggressive war and crimes in conflict zones.",
+        "In 2018, she served as a trainer for strategic communications units of the [[security-service-of-ukraine|Security Service of Ukraine]]. Since 2020, she has been a freelance consultant for the [[verkhovna-rada|Verkhovna Rada]] Committee on National Security, Defense and Intelligence.",
+        "Maliar attempted to secure a seat on the Kyiv City Council as a candidate for the [[servant-of-the-people|Servant of the People]] party in the 2020 local elections but was unsuccessful. She was appointed Deputy Minister of Defense on August 4, 2021, working under Defense Minister Oleksii Reznikov, amid ongoing conflicts in eastern Ukraine and the [[russian-annexation-of-crimea|annexation of Crimea by Russia]].",
+        "During the full-scale [[full-scale-russo-ukrainian-war|invasion of Ukraine]] that began on February 24, 2022, Maliar noted that Russian military capabilities significantly outmatched those of Ukraine. She also reported on the voluntary mobilization of [[ukrainian|Ukrainian]] women, stating that around 1,000 had joined by July 2022.",
+        "On September 14, 2023, Maliar faced criticism for inaccurately reporting on Ukrainian military successes during the 2023 counteroffensive. She was dismissed from her position on September 18, 2023, alongside five other deputy ministers, as part of a restructuring by the newly appointed Defense Minister Rustem Umierov."
+      ]
+    },
+    {
+      "heading": "Personal Life",
+      "paragraphs": [
+        "Hanna Maliar is married and has a son. She has authored over 40 scientific works and has developed legal frameworks for assessing events in [[crimea|Crimea]] and eastern Ukraine, which are utilized in investigative and judicial contexts."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "denys-shmyhal",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "russian-annexation-of-crimea",
+    "security-service-of-ukraine",
+    "servant-of-the-people",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Hanna Maliar — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hanna_Maliar",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

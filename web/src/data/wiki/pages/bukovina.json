@@ -33,7 +33,7 @@
       }
     ]
   },
-  "summary": "Bukovina is a historical region located at the intersection of Central and Eastern Europe, primarily divided between Romania and Ukraine. The region has a rich cultural heritage influenced by various peoples and has significant historical ties to Ukraine.",
+  "summary": "Bukovina is a historical region located at the intersection of Central and [[eastern-europe|Eastern Europe]], primarily divided between Romania and Ukraine. The region has a rich cultural heritage influenced by various peoples and has significant historical ties to Ukraine.",
   "sections": [
     {
       "heading": "Geography and Demographics",
@@ -60,13 +60,14 @@
       "heading": "20th Century and Modern Era",
       "paragraphs": [
         "In the summer of 1940, the northern part of Bukovina was annexed by the Soviet Union, which led to significant geopolitical changes. The region was briefly recovered by Romania during World War II but was retaken by the Soviet army in 1944.",
-        "Today, the northern half of Bukovina is part of the [[chernivtsi|Chernivtsi]] Oblast in [[ukraine|Ukraine]], while the southern half is in Suceava County, Romania. The historical and cultural connections between Bukovina and Ukraine remain significant."
+        "Today, the northern half of Bukovina is part of the [[chernivtsi-oblast|Chernivtsi Oblast]] in [[ukraine|Ukraine]], while the southern half is in Suceava County, Romania. The historical and cultural connections between Bukovina and Ukraine remain significant."
       ]
     }
   ],
   "links_out": [
     "carpathians",
-    "chernivtsi",
+    "chernivtsi-oblast",
+    "eastern-europe",
     "kievan-rus",
     "ukraine",
     "ukrainian",

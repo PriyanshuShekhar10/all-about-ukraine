@@ -71,7 +71,7 @@
     {
       "heading": "Historical Significance",
       "paragraphs": [
-        "Kyiv is one of the oldest cities in Eastern Europe, believed to have existed as early as the 5th century. It was a commercial center along a significant trade route between Scandinavia and Constantinople and became the capital of [[kievan-rus|Kievan Rus]]', the first East Slavic state, under Varangian rule in the mid-9th century.",
+        "Kyiv is one of the oldest cities in [[eastern-europe|Eastern Europe]], believed to have existed as early as the 5th century. It was a commercial center along a significant trade route between Scandinavia and Constantinople and became the capital of [[kievan-rus|Kievan Rus]]', the first East Slavic state, under Varangian rule in the mid-9th century.",
         "The city faced significant destruction during the Siege of Kiev in 1240, which led to a long period of decline in its influence.",
         "Kyiv regained prominence during the 16th century as a center of Eastern Orthodox learning and later prospered during the Industrial Revolution of the late 19th century."
       ]
@@ -98,6 +98,7 @@
   ],
   "links_out": [
     "dnieper",
+    "eastern-europe",
     "kievan-rus",
     "ukraine",
     "ukrainian",

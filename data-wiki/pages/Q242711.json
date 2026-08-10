@@ -33,7 +33,7 @@
       }
     ]
   },
-  "summary": "The Kyiv Pechersk Lavra, also known as the Kyiv Monastery of the Caves, is a significant Eastern Orthodox monastery located in Kyiv, Ukraine. Founded in 1051, it has played a crucial role in the history of Eastern Christianity in Eastern Europe.",
+  "summary": "The Kyiv Pechersk Lavra, also known as the Kyiv Monastery of the Caves, is a significant Eastern Orthodox monastery located in Kyiv, Ukraine. Founded in 1051, it has played a crucial role in the history of Eastern Christianity in [[eastern-europe|Eastern Europe]].",
   "sections": [
     {
       "heading": "Etymology and Naming",
@@ -60,7 +60,7 @@
       "paragraphs": [
         "The Kyiv Pechersk Lavra underwent significant changes during the [[ukrainian-war-of-independence|Ukrainian Revolution]] in the early 20th century, with attempts to Ukrainize the monastery facing challenges. In 1918, Metropolitan Vladimir was murdered by Bolshevik troops, and the monastery was eventually disbanded in 1926, becoming a museum.",
         "Following the Second World War, the monastery resumed activities under the Russian Orthodox Church. In 1992, ownership was transferred to the [[ukrainian-orthodox-church|Ukrainian Orthodox Church]] (Moscow Patriarchate). The Lavra has been a site of controversy, particularly regarding its leadership and connections to Russian authorities.",
-        "In 2023, the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] terminated the UOC-MP's lease on significant parts of the monastery, returning control to the state. The Lavra has been recognized as a UNESCO World Heritage Site since 1990 and was named one of the Seven Wonders of [[ukraine|Ukraine]] in 2007."
+        "In 2023, the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] terminated the [[ukrainian-orthodox-church-moscow-patriarchate|UOC-MP]]'s lease on significant parts of the monastery, returning control to the state. The Lavra has been recognized as a UNESCO World Heritage Site since 1990 and was named one of the Seven Wonders of [[ukraine|Ukraine]] in 2007."
       ]
     },
     {
@@ -74,10 +74,12 @@
   "links_out": [
     "cabinet-of-ministers-of-ukraine",
     "dnieper",
+    "eastern-europe",
     "kyiv",
     "ukraine",
     "ukrainian",
     "ukrainian-orthodox-church",
+    "ukrainian-orthodox-church-moscow-patriarchate",
     "ukrainian-war-of-independence"
   ],
   "sources": [

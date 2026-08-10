@@ -1,0 +1,81 @@
+{
+  "qid": "Q1970954",
+  "slug": "vasyl-symonenko",
+  "title": "Vasyl Symonenko",
+  "type": "human",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1935-01-08",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1963-12-13",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Lubny Raion",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Vasyl Andriiovych Symonenko (8 January 1935 – 13 December 1963) was a prominent Ukrainian poet, journalist, and activist associated with the dissident movement, recognized as a key figure in early 1960s [[ukrainian-literature|Ukrainian literature]]. His works and untimely death significantly influenced the national democratic movement in Ukraine.",
+  "sections": [
+    {
+      "heading": "Biography",
+      "paragraphs": [
+        "Vasyl Symonenko was born into a peasant family in the village of Biivtsi, located in [[kharkiv-oblast|Kharkiv Oblast]], which is now part of [[poltava-oblast|Poltava Oblast]]. He graduated from [[taras-shevchenko-national-university-of-kyiv|Kyiv State University]] in 1957 and subsequently worked as a journalist for various newspapers in [[cherkasy|Cherkasy]] Oblast.",
+        "His first collection of poems, titled \"Тиша і грім / Tysha i hrim\" (\"Silence and Thunder\"), was published in 1962, showcasing his talent among the emerging generation of poets. His contemporaries included notable figures such as Mykola Vinhranovsky, Ivan Drach, and Lina Kostenko, along with publicists and critics like Ivan Dziuba, Ivan Svitlichny, and Yevhen Sverstiuk, who collectively formed a group known as the шістдестятники (Sixtiers).",
+        "In his final year, Symonenko authored his second book, \"Земне тяжіння / Zemne tyazhinnya\" (\"Earth’s Gravity\"), with verses that were often quoted and memorized, drawing comparisons to the works of [[taras-shevchenko|Taras Shevchenko]]."
+      ]
+    },
+    {
+      "heading": "Activism and Challenges",
+      "paragraphs": [
+        "In 1962, Symonenko, alongside his friends A. Horska and Les Tanyuk, discovered burial sites of victims of NKVD repression at Bykivnia, Lukianivskyi, and Vasyslkivskyi cemeteries near [[kyiv|Kyiv]]. This act led to a citation from the Kyiv City Council but may have also contributed to his subsequent conflicts with the government.",
+        "In 1963, Symonenko faced violence when he was severely beaten by local militsiya officers at the Smila railway station. He succumbed to kidney cancer, which was likely exacerbated by the police assault, on December 13, 1963, and was interred in Cherkasy."
+      ]
+    },
+    {
+      "heading": "Legacy",
+      "paragraphs": [
+        "Following his death, Symonenko's satirical tale-poem, \"Travel to the Country of Vice-versa,\" was published in 1964. The most comprehensive collection of his works was released abroad under the title \"Берег чекань\" (\"Shore of Anticipation\") in Munich in 1963.",
+        "In 1967, the [[ukrainian|Ukrainian]] émigré publishing house \"Smoloskyp\" was established in Baltimore and named in his honor. In December 2008, the [[national-bank-of-ukraine|National Bank of Ukraine]] issued a commemorative coin featuring Vasyl Symonenko as part of its \"Outstanding Personalities of [[ukraine|Ukraine]]\" series."
+      ]
+    },
+    {
+      "heading": "Cultural Impact",
+      "paragraphs": [
+        "Ukrainian director Oleksandr Zherebko, in collaboration with Angelina Dyatlova, adapted Symonenko's poetry in the film \"You Didn’t Come to Me from a Tale or a Dream\" (Ukrainian: \"Ти до мене прийшла не із казки чи сну\").",
+        "His works have been partially translated into English, including titles such as \"Гранітні обеліски / Granite Obelisks\" translated by Andriy M Freishyn-Chirovsky in 1975, and \"Тиша і грім. Вибрані поезії Василя Симоненка / Silence and Thunder: The Selected Poetry of Vasyl Symonenko\" translated by Michael M Nayden in 2017."
+      ]
+    }
+  ],
+  "links_out": [
+    "cherkasy",
+    "kharkiv-oblast",
+    "kyiv",
+    "national-bank-of-ukraine",
+    "poltava-oblast",
+    "taras-shevchenko",
+    "taras-shevchenko-national-university-of-kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-literature"
+  ],
+  "sources": [
+    {
+      "title": "Vasyl Symonenko — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vasyl_Symonenko",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

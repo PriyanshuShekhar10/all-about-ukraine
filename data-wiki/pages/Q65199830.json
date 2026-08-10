@@ -1,0 +1,84 @@
+{
+  "qid": "Q65199830",
+  "slug": "serhiy-haidai",
+  "title": "Serhiy Haidai",
+  "type": "human",
+  "category": "war",
+  "aliases": [
+    "Serhiy Volodymyrovych Haidai"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1975-11-06",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Siverskodonetsk",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "Governor of Luhansk Oblast",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Serhiy Volodymyrovych Haidai is a Ukrainian entrepreneur and politician who served as the head of the Luhansk Regional Military–Civil Administration during a critical period of the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]]. His career includes significant administrative roles in various [[administrative-territorial-entity-of-ukraine|regions of Ukraine]], particularly in Luhansk and Zakarpattia Oblasts.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Serhiy Haidai was born on 6 November 1975. He pursued his education at the Khmelnytskyi University of Economics and later graduated from the National Academy for Public Administration under the [[president-of-ukraine|President of Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Political Career",
+      "paragraphs": [
+        "Haidai's political career began with his role as General Director of Dembud LLC from 2005 to 2015. He served as an Assistant Member of the [[kyiv|Kyiv]] City Council from 2008 to 2010 and worked as an Adviser to the Chairman of the Obukhiv Raion State Administration from 2014 to 2015. In 2015, he was elected a Member of the Mukachevo Raion Council and subsequently became Chairman of the Mukachevo Raion State Administration from 2015 to 2018."
+      ]
+    },
+    {
+      "heading": "Role During the Russian Invasion",
+      "paragraphs": [
+        "During the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], Haidai was appointed as the head of the [[luhansk|Luhansk]] Regional Civil-Military Administration. He provided insights into the tactics employed by Russian forces during the 2022 [[battle-of-sievierodonetsk|Battle of Sievierodonetsk]], noting their strategy of using heavy artillery and air strikes before advancing ground troops."
+      ]
+    },
+    {
+      "heading": "Dismissal and Subsequent Appointments",
+      "paragraphs": [
+        "Haidai was dismissed from his position on 14 March 2023 by the [[ukrainian|Ukrainian]] Cabinet of Ministers, with the official decree enacted on 15 March 2023. He was later appointed as the Head of the State Administration of the Mukachevo District in [[transcarpathia|Zakarpattia]] Oblast on 15 March 2024."
+      ]
+    },
+    {
+      "heading": "Legal Issues",
+      "paragraphs": [
+        "In August 2025, Haidai faced legal troubles when he was arrested on charges related to a corruption scandal involving inflated state contracts for drones and electronic warfare equipment during his tenure in Mukachevo. He was dismissed from his position on 2 August 2025 by [[volodymyr-zelenskyy|President Zelenskyy]] in connection with these charges."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "administrative-territorial-entity-of-ukraine",
+    "battle-of-sievierodonetsk",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "luhansk",
+    "president-of-ukraine",
+    "transcarpathia",
+    "ukrainian",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "Serhiy Haidai — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Serhiy_Haidai",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

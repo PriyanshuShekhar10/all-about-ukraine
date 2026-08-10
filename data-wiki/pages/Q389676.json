@@ -1,0 +1,83 @@
+{
+  "qid": "Q389676",
+  "slug": "ukrainian-orthodox-church-kyiv-patriarchate",
+  "title": "Ukrainian Orthodox Church – Kyiv Patriarchate",
+  "type": "national Church",
+  "category": "history",
+  "aliases": [
+    "UOC-KP",
+    "Ukrainian Orthodox Church of the Kyivan Patriarchate"
+  ],
+  "infobox": {
+    "label": "national Church",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1992",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Ukrainian Orthodox Church – Kyiv Patriarchate (UOC-KP) is an Eastern Orthodox church that emerged in Ukraine following its independence in 1991. It has undergone significant changes and conflicts, particularly regarding its status and recognition within the broader Eastern Orthodox community.",
+  "sections": [
+    {
+      "heading": "Formation and Early History",
+      "paragraphs": [
+        "The UOC-KP was established after [[ukraine|Ukraine]] declared independence from the Soviet Union in 1991. Metropolitan Filaret convened an assembly in January 1992, requesting autocephaly from the Moscow Patriarchate, which was denied. The church was formally organized in June 1992, with Mstyslav as its nominal primate.",
+        "Filaret became the Patriarch of [[kyiv|Kyiv]] and All Rus-Ukraine in October 1995, following the death of Patriarch Volodymyr. He had previously been defrocked and excommunicated by the Moscow Patriarchate."
+      ]
+    },
+    {
+      "heading": "Recognition and Unification Efforts",
+      "paragraphs": [
+        "The UOC-KP was not recognized by other Eastern Orthodox churches and was labeled as schismatic by the Moscow Patriarchate. In 2018, the Ecumenical Patriarchate of Constantinople reinstated Filaret and facilitated a unification council that led to the creation of the Orthodox Church of Ukraine (OCU) in December 2018.",
+        "The OCU was granted autocephaly by the Ecumenical Patriarch in January 2019, but a conflict arose between Filaret and Epiphanius, the new Metropolitan of the OCU, leading Filaret to assert the continuation of the UOC-KP on June 20, 2019."
+      ]
+    },
+    {
+      "heading": "Dissolution and Legal Status",
+      "paragraphs": [
+        "On December 15, 2018, the UOC-KP and the [[ukrainian|Ukrainian]] Autocephalous Orthodox Church agreed to dissolve and merge into the OCU. However, Filaret claimed that the UOC-KP had not been liquidated, asserting its legal existence.",
+        "The Ukrainian Ministry of Culture and the Ministry of Justice provided conflicting statements regarding the church's status, with the Ministry of Culture declaring the UOC-KP ceased to exist, while the Ministry of Justice confirmed its registration."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "Following the local council convened by Filaret on June 20, 2019, which aimed to cancel the unification decisions, the UOC-KP faced legal challenges regarding its existence. In July 2019, the Ukrainian Ministry of Culture stated the church had ceased to exist, but subsequent court rulings temporarily blocked the liquidation process.",
+        "Filaret withdrew his signature from the dissolution act in January 2020, and the UOC-KP continued to assert its presence despite official claims of its dissolution."
+      ]
+    },
+    {
+      "heading": "Demographics and Influence",
+      "paragraphs": [
+        "Before the establishment of the OCU, the UOC-KP represented 44 percent of Orthodox Christians in Ukraine, significantly outnumbering the UOC of the Moscow Patriarchate, which had 12.8 percent. In 2016, the UOC-KP accounted for 25 percent of the overall population.",
+        "The church had a wide-reaching presence with over 5,100 parishes in Ukraine and additional vicariates in the United States, Australia, and Europe, reflecting its significant role within the Ukrainian religious landscape."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Orthodox Church – Kyiv Patriarchate — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Orthodox_Church_–_Kyiv_Patriarchate",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

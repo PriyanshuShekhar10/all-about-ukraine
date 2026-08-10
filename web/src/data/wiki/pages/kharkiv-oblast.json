@@ -1,0 +1,124 @@
+{
+  "qid": "Q170666",
+  "slug": "kharkiv-oblast",
+  "title": "Kharkiv Oblast",
+  "type": "oblast of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Kharkiv",
+    "Kharkiv Oblast (Ukraine)",
+    "Kharkivshchyna"
+  ],
+  "infobox": {
+    "label": "oblast of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1932-02-09",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Kharkiv",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "2,701,200",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "31,415",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "236",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Olexii Kucher, Julia Svitlychna",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.5900, 36.4300",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Kharkiv Oblast, also known as Kharkivshchyna, is a province located in eastern Ukraine. It is the third-most populous oblast in the country and plays a significant role in Ukraine's industrial and agricultural sectors.",
+  "sections": [
+    {
+      "heading": "Geographical Location",
+      "paragraphs": [
+        "Kharkiv Oblast is situated in eastern [[ukraine|Ukraine]], sharing borders with [[luhansk-oblast|Luhansk Oblast]] to the east, [[donetsk-oblast|Donetsk Oblast]] to the southeast, [[dnipropetrovsk-oblast|Dnipropetrovsk Oblast]] to the southwest, [[poltava-oblast|Poltava Oblast]] to the west, [[sumy-oblast|Sumy Oblast]] to the northwest, and Russia's Belgorod Oblast to the north.",
+        "The total area of the oblast is 31,400 square kilometres (12,100 sq mi), which constitutes 5.2% of Ukraine's total territory."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "As of 2021, Kharkiv Oblast had a population of 2,598,961, with over half (1.42 million) residing in the city of Kharkiv, the administrative center of the oblast.",
+        "The 2001 census indicated that the ethnic composition of the oblast included 70.7% [[ukrainians|Ukrainians]] and 25.6% Russians, among other groups. The primary languages spoken are [[ukrainian|Ukrainian]] (53.8%) and Russian (44.3%)."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Kharkiv Oblast was officially established on 27 February 1932. The region underwent significant administrative changes during the Soviet era, including the abolition of the [[kharkiv|Kharkov]] Governorate and the establishment of raions.",
+        "The oblast experienced severe hardships during [[holodomor|the Holodomor]] and was a significant battleground during World War II, witnessing multiple battles and atrocities."
+      ]
+    },
+    {
+      "heading": "Economic Overview",
+      "paragraphs": [
+        "The economy of Kharkiv Oblast is predominantly industrial, focusing on sectors such as engineering, metallurgy, and food processing. Agriculture also plays a vital role, with 19,000 square kilometres of arable land.",
+        "The region is known for its engineering capabilities, including an airplane plant for space control systems and one of Ukraine's largest gas fields."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "During the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], Kharkiv Oblast faced significant military conflict, with parts of the region being occupied. However, a Ukrainian counteroffensive began in September 2022, resulting in the recapture of key areas.",
+        "As of 2023, fighting continues in the easternmost parts of the oblast, particularly around the Svatove–Kreminna line."
+      ]
+    },
+    {
+      "heading": "Cultural and Educational Institutions",
+      "paragraphs": [
+        "Kharkiv Oblast is home to various educational institutions, including 55 higher education establishments and numerous vocational schools. In 2020, approximately 104,900 individuals were employed in the education sector.",
+        "The region also has notable cultural landmarks, such as the Derzhprom Building and the Intercession Monastery, contributing to its historical and architectural heritage."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "dnipropetrovsk-oblast",
+    "donetsk-oblast",
+    "holodomor",
+    "kharkiv",
+    "luhansk-oblast",
+    "poltava-oblast",
+    "sumy-oblast",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Kharkiv Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kharkiv_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

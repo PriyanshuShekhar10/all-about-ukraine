@@ -1,0 +1,94 @@
+{
+  "qid": "Q1542287",
+  "slug": "ukrainian-baroque",
+  "title": "Ukrainian Baroque",
+  "type": "art style of an area",
+  "category": "history",
+  "aliases": [
+    "Cossack Baroque",
+    "Mazepa Baroque"
+  ],
+  "infobox": {
+    "label": "art style of an area",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Tsardom of Russia, Polish–Lithuanian Commonwealth",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Cossack Hetmanate",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "Ukrainian Baroque, also referred to as Cossack Baroque or Mazepa Baroque, is an artistic style that flourished in Ukraine during the 17th and 18th centuries, characterized by a blend of local traditions and European Baroque influences. This style significantly shaped Ukrainian culture, giving rise to many national symbols and archetypes.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The influence of Western European art began to permeate the territories of [[modern-history-of-ukraine|modern Ukraine]] in the late 16th century, introducing a secularized form of Baroque art and architecture that was largely absent in the neighboring Tsardom of Russia. Historian Serhii Plokhy notes that Petro Mohyla, who served as the Metropolitan of [[kyiv|Kyiv]] from 1633 to 1647, played a pivotal role in developing this style as part of his efforts to reform the [[ukrainian-orthodox-church|Ukrainian Orthodox Church]] amidst the challenges posed by the Reformation and Counter-Reformation.",
+        "Ukrainian Baroque reached its zenith during the tenure of Cossack [[hetman|Hetman]] [[ivan-mazepa|Ivan Mazepa]], from 1687 to 1708, resulting in a unique synthesis of Western European Baroque architectural forms and [[ukrainian|Ukrainian]] national traditions."
+      ]
+    },
+    {
+      "heading": "Architectural Characteristics",
+      "paragraphs": [
+        "Ukrainian Baroque is distinguished from its Western European counterpart by its more restrained ornamentation and simpler forms, often regarded as more constructivist. Numerous Ukrainian Baroque structures have been preserved, including notable examples such as All Saints' Church, the Cathedral of the Dormition, and the Trinity Gate Church within the [[kyiv-pechersk-lavra|Kyiv Pechersk Lavra]], as well as St. Michael's Golden-Domed Monastery in Kyiv and St. Catherine's Cathedral in [[chernihiv|Chernihiv]].",
+        "The exterior of St. Sophia Cathedral in Kyiv also underwent significant modifications in the Baroque style. Another significant example is the Church of St. Elijah in Subotiv, where [[bohdan-khmelnytsky|Bohdan Khmelnytsky]] interred his son Tymish in 1653 following his death in battle."
+      ]
+    },
+    {
+      "heading": "Notable Architects",
+      "paragraphs": [
+        "Prominent figures in Ukrainian Baroque architecture include Johann Georg Pinsel, a Baroque sculptor active in Galicia during the mid-18th century, whose work was showcased in a special exhibition at the Louvre in Paris in 2012–2013. Italian architect Bartolomeo Rastrelli, known for his designs of the Winter Palace and Catherine Palace, also contributed to the Ukrainian Baroque style through his designs of St. Andrew's Church and Mariinskyi Palace in Kyiv, the latter serving as the official residence of the [[president-of-ukraine|President of Ukraine]].",
+        "Other notable architects include Andreas Schlüter, Ivan Zarudny, Johann Gottfried Schädel, Osip Startsev, Stepan Kovnir, Ivan Grigorovich-Barsky, Andrey Kvasov, and Gottfried Hoffman, all of whom made significant contributions to the architectural landscape of [[ukraine|Ukraine]] during this period."
+      ]
+    },
+    {
+      "heading": "Cultural Influence",
+      "paragraphs": [
+        "Ukrainian Baroque architecture had a notable impact on the Naryshkin Baroque movement in Moscow during the 17th and 18th centuries. Modern Ukrainian church buildings, such as Troieshchyna Cathedral, are constructed in this style, although they do not typically represent traditional Ukrainian Baroque.",
+        "The Ukrainian-Canadian community also adapted elements of the Ukrainian Baroque style in constructing their churches, integrating features suited to the wooden church architecture more common in Canada."
+      ]
+    },
+    {
+      "heading": "Artistic Contributions",
+      "paragraphs": [
+        "From approximately 1600 until the late 18th century, Baroque style dominated Ukrainian art, marked by a departure from Byzantine influences towards a clearer, more concise style enriched by folk art motifs. Ukrainian icons from this era are noted for their vibrant colors and elaborate decorative elements, with significant examples found in the church paintings of the Holy Trinity Church of the Kyiv Pechersk Lavra.",
+        "The Baroque period also saw advancements in engraving techniques, characterized by a complex use of symbolism, allegories, heraldic signs, and ornate embellishments."
+      ]
+    },
+    {
+      "heading": "Baroque Literature and Music",
+      "paragraphs": [
+        "Baroque literature in Ukraine thrived in the 17th and 18th centuries, predominantly focusing on religious and spiritual themes, with many authors being clergymen. Key figures include Ivan Vyshenskyi and Meletius Smotrytsky, among others, who contributed to the literary landscape of the time.",
+        "During the Baroque era, [[music-of-ukraine|Ukrainian music]] transitioned from znamenny chant to part song, with significant contributions from composers such as Mykola Dyletsky and Danylo Tuptalo. The musical tradition of this period was characterized by strong ties to folk traditions, which were evident in the vernacular elements present in its compositions."
+      ]
+    }
+  ],
+  "links_out": [
+    "bohdan-khmelnytsky",
+    "chernihiv",
+    "hetman",
+    "ivan-mazepa",
+    "kyiv",
+    "kyiv-pechersk-lavra",
+    "modern-history-of-ukraine",
+    "music-of-ukraine",
+    "president-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-orthodox-church"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Baroque — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Baroque",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

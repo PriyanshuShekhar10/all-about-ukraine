@@ -1,0 +1,114 @@
+{
+  "qid": "Q173407",
+  "slug": "ternopil-oblast",
+  "title": "Ternopil Oblast",
+  "type": "oblast of Ukraine",
+  "category": "people",
+  "aliases": [
+    "Ternopilshchyna",
+    "Ternopilska oblast",
+    "Ternopolskaja oblast"
+  ],
+  "infobox": {
+    "label": "oblast of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1939-12-04",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Ternopil",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "1,059,200",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "13,823",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Head of government",
+        "value": "Stepan Barna, Volodymyr Trush",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.5558, 25.5925",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Ternopil Oblast is a province in western Ukraine, known for its rich history, natural beauty, and cultural significance. Its administrative center is the city of Ternopil, and as of 2022, the population is estimated at 1,021,713.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Ternopil Oblast covers an area of 13,800 km2 (5,300 sq mi) and is located in [[western-ukraine|western Ukraine]], primarily within the Podilian Upland, characterized by rocky terrain. The Kremenets Mountains are notable features within the oblast.",
+        "The [[dniester|Dniester]] River forms the southern and southwestern boundaries of Ternopil Oblast, bordering [[chernivtsi-oblast|Chernivtsi Oblast]] and [[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]]. Key tributaries in the region include the [[zbruch|Zbruch]], Seret, and Strypa rivers, with the Seret River flowing through [[ternopil|Ternopil]] city."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The historical administrative affiliations of Ternopil Oblast have varied significantly from the 12th century, beginning with the [[kingdom-of-galiciavolhynia|Principality of Galicia-Volhynia]], transitioning through various states including the Kingdom of Poland, the Polish-Lithuanian Commonwealth, and the Habsburg Monarchy, until it became part of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] in 1944.",
+        "Following World War II, Ternopil Oblast was established from the Tarnopol Voivodeship and parts of the Volhynian Voivodeship. The region experienced significant demographic changes, including the relocation of ethnic Poles and the settlement of ethnic Russians."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Ternopil Oblast is home to various cultural landmarks, including 34 castles, with Zbarazh Castle being one of the most notable due to its historical significance in the 17th century. The region also features the [[dniester-canyon|Dniester Canyon]], recognized as one of [[ukraine|Ukraine]]'s natural wonders.",
+        "The oblast's cultural heritage includes numerous churches, with the majority being [[ukrainian|Ukrainian]] Greek Catholic, alongside a notable Orthodox presence. Many religious sites have been restored since Ukraine's independence in the 1990s."
+      ]
+    },
+    {
+      "heading": "Points of Interest",
+      "paragraphs": [
+        "Among the notable attractions in Ternopil Oblast are Verteba Cave, the Zbruch idol site at Bohyt, [[buchach|Buchach]] Ratusha, and Pochaiv Lavra, a significant Orthodox Christian site. The Vyshnivets Palace and the Camp UPA museum also draw interest.",
+        "Despite challenges in preserving cultural heritage due to underfunding, several historic sites have been nominated for recognition as the Seven Wonders of Ukraine."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "As of 2020, the estimated population of Ternopil Oblast is 1,038,694, with a significant majority being ethnic [[ukrainians|Ukrainians]], comprising 97.8% according to the 2001 census. Ethnic Russians make up about 1.2% of the population.",
+        "The region has seen an increase in the use of the Ukrainian language among its residents, contrasting with the broader trends of Russification experienced in other parts of Ukraine during the Soviet era."
+      ]
+    }
+  ],
+  "links_out": [
+    "buchach",
+    "chernivtsi-oblast",
+    "dniester",
+    "dniester-canyon",
+    "ivano-frankivsk-oblast",
+    "kingdom-of-galiciavolhynia",
+    "ternopil",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainians",
+    "western-ukraine",
+    "zbruch"
+  ],
+  "sources": [
+    {
+      "title": "Ternopil Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ternopil_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

@@ -1,0 +1,76 @@
+{
+  "qid": "Q2778017",
+  "slug": "history-of-the-jews-in-ukraine",
+  "title": "history of the Jews in Ukraine",
+  "type": "aspect of history",
+  "category": "history",
+  "aliases": [
+    "Jewish history in Ukraine",
+    "Jewish history of Ukraine",
+    "Jews in Ukraine history",
+    "history of Jews in Ukraine",
+    "history of the Jews of Ukraine",
+    "the Jews in Ukraine history"
+  ],
+  "infobox": {
+    "label": "aspect of history",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The history of the Jews in Ukraine spans over a millennium, marked by periods of both flourishing communities and severe persecution. Jewish presence in Ukraine is significant, contributing to the cultural and social landscape of the region, particularly during the times of [[kievan-rus|Kievan Rus]]' and the Polish-Lithuanian Commonwealth.",
+  "sections": [
+    {
+      "heading": "Early Settlement and Kievan Rus'",
+      "paragraphs": [
+        "Jewish communities have existed in the territory of [[modern-history-of-ukraine|modern Ukraine]] since the 10th century, with the first mention found in the Kievan Letter. This document highlights the names of Jewish community members in [[kyiv|Kyiv]], indicating early integration into local society. By the 11th century, Jews from Byzantine Constantinople had established connections with those in Kyiv, and a separate Jewish quarter was noted in the city during the reign of Yaroslav the Wise."
+      ]
+    },
+    {
+      "heading": "Polish-Lithuanian Rule",
+      "paragraphs": [
+        "From the late 14th century, Jews in Galicia came under the jurisdiction of Polish kings and magnates, while those in Volhynia and Kyiv were incorporated into the Grand Duchy of Lithuania. Jewish migration increased during this period, particularly following expulsions from other regions. By the 16th century, Jews had gained administrative and legal autonomy, participating actively in trade and finance, which sometimes led to tensions with the local peasantry."
+      ]
+    },
+    {
+      "heading": "Cossack Uprisings and Persecutions",
+      "paragraphs": [
+        "The 17th century saw significant anti-Jewish violence, particularly during the [[khmelnytsky-uprising|Khmelnytsky uprising]] from 1648 to 1657, where estimates suggest that 15,000 to 30,000 Jews were killed or taken captive. This period marked a drastic decline in the Jewish population in Cossack-governed areas, with many Jews fleeing westward to Polish territories, where they continued to face persecution."
+      ]
+    },
+    {
+      "heading": "20th Century Challenges",
+      "paragraphs": [
+        "The early 20th century was marked by further violence against Jews, particularly during the [[ukrainian-war-of-independence|Ukrainian War of Independence]], where pogroms resulted in the deaths of an estimated 31,071 to possibly 100,000 Jews. World War II brought catastrophic losses, with over one million Soviet Jews, including many from [[ukraine|Ukraine]], killed during the Holocaust, significantly impacting the Jewish demographic in the region."
+      ]
+    },
+    {
+      "heading": "Post-War and Modern Era",
+      "paragraphs": [
+        "By 1959, the Jewish population in Ukraine had decreased to 840,000, a significant decline from pre-war figures. The post-Soviet era saw further emigration, particularly to Israel, as antisemitism persisted in various forms. As of 2012, reports indicated ongoing antisemitic incidents, while notable figures such as [[volodymyr-zelenskyy|President Volodymyr Zelenskyy]] highlight the contemporary Jewish presence in Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "khmelnytsky-uprising",
+    "kievan-rus",
+    "kyiv",
+    "modern-history-of-ukraine",
+    "ukraine",
+    "ukrainian-war-of-independence",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "History of the Jews in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Jews_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

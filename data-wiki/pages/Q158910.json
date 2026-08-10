@@ -47,7 +47,7 @@
     {
       "heading": "Name",
       "paragraphs": [
-        "The city of Boryspil is believed to be named after Prince Boris, one of the sons of Vladimir the Great, who was killed during the internecine wars from 1015 to 1019. Historical accounts suggest that the area was originally referred to as 'Borysove pole' (Borys's field) when Prince Borys was assassinated. Other theories propose that the name has Greek origins, combining 'Borys' from Borysthenes (the Greek name for the [[dnieper|Dnieper River]]) and 'Pil' from Polis (the Greek word for city). The city is also known as Baryshpil in the [[ukrainian|Ukrainian language]] and has a sister city relationship with Hopkins, Minnesota, USA."
+        "The city of Boryspil is believed to be named after Prince Boris, one of the sons of [[vladimir-the-great|Vladimir the Great]], who was killed during the internecine wars from 1015 to 1019. Historical accounts suggest that the area was originally referred to as 'Borysove pole' (Borys's field) when Prince Borys was assassinated. Other theories propose that the name has Greek origins, combining 'Borys' from Borysthenes (the Greek name for the [[dnieper|Dnieper River]]) and 'Pil' from Polis (the Greek word for city). The city is also known as Baryshpil in the [[ukrainian|Ukrainian language]] and has a sister city relationship with Hopkins, Minnesota, USA."
       ]
     },
     {
@@ -55,13 +55,13 @@
       "paragraphs": [
         "Boryspil's historical mention dates back to 1015, linked to the conflicts of the time, and it became part of [[kievan-rus|Kyivan Rus]] in the 12th century. Following the Mongol invasion, the area fell under the Grand Duchy of Lithuania. In 1508, the settlement was sold to the [[kyiv|Kyiv]] Saint Nicholas Hermitage, which is believed to have solidified its modern name. After the Union of Lublin, the settlement was transferred to the Polish Crown in 1590 and granted royal estate status by King Sigismund III Vasa, along with Magdeburg rights.",
         "The town was a site of significant events, including the Anti-[[hetman|Hetman]] Uprising and the Battle of Boryspil on June 2, 1920, where Polish-Ukrainian forces defeated the Red Army. The Soviet regime was established in the city later that year, leading to the creation of collective farms. Boryspil experienced severe hardship during [[holodomor|the Holodomor]], with 5,739 deaths reported between January 1, 1933, and January 1, 1934.",
-        "During World War II, Boryspil was occupied by German forces from September 23, 1941, to September 23, 1943, and was the site of intense battles. The airfield of what is now Boryspil International Airport served as a prisoner of war camp during this time. Boryspil was officially designated as a city in 1956."
+        "During World War II, Boryspil was occupied by German forces from September 23, 1941, to September 23, 1943, and was the site of intense battles. The airfield of what is now [[boryspil-international-airport|Boryspil International Airport]] served as a prisoner of war camp during this time. Boryspil was officially designated as a city in 1956."
       ]
     },
     {
       "heading": "Geography and Infrastructure",
       "paragraphs": [
-        "Boryspil is strategically located along the European route E40, particularly the Kyiv–[[kharkiv|Kharkiv]] highway, which is part of the national M 03 route. The city is connected to [[zaporizhzhia|Zaporizhzhia]] via the national highway H 08. Boryspil International Airport, designated as KBP, is the primary airport serving the region and is significant for both domestic and international travel."
+        "Boryspil is strategically located along the European route E40, particularly the Kyiv–[[kharkiv-oblast|Kharkiv]] highway, which is part of the national M 03 route. The city is connected to [[zaporizhzhia|Zaporizhzhia]] via the national highway H 08. Boryspil International Airport, designated as KBP, is the primary airport serving the region and is significant for both domestic and international travel."
       ]
     },
     {
@@ -78,16 +78,18 @@
     }
   ],
   "links_out": [
+    "boryspil-international-airport",
     "dnieper",
     "hetman",
     "holodomor",
-    "kharkiv",
+    "kharkiv-oblast",
     "kievan-rus",
     "kyiv",
     "moskva",
     "ukraine",
     "ukrainian",
     "ukrainian-literature",
+    "vladimir-the-great",
     "zaporizhzhia"
   ],
   "sources": [

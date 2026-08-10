@@ -1,0 +1,80 @@
+{
+  "qid": "Q14974",
+  "slug": "vladimir-the-great",
+  "title": "Vladimir the Great",
+  "type": "human",
+  "category": "culture",
+  "aliases": [
+    "Valdamar",
+    "Vladimir Svyatoslavich",
+    "Volodimer",
+    "Volodymyr Sviatoslavych",
+    "Volodymyr of Kyiv",
+    "Volodymyr the Great"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "0958",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1015-07-15",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Position held",
+        "value": "Grand Prince of Kiev, Grand Prince of Novgorod",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Vladimir I Sviatoslavich, also known as Volodymyr I Sviatoslavych and referred to as 'the Great', was a significant historical figure who served as Prince of Novgorod and Grand Prince of Kiev, playing a crucial role in the Christianization of Kievan Rus'. He is recognized as a saint in both the Catholic and Eastern Orthodox Churches.",
+  "sections": [
+    {
+      "heading": "Early Life and Ascendancy",
+      "paragraphs": [
+        "Vladimir was born around 958 as the illegitimate son of Sviatoslav I of the Rurik dynasty and his housekeeper Malusha. Following his father's death in 972, he fled abroad due to a power struggle with his brother Yaropolk, who had killed their other brother Oleg. In 978, Vladimir returned with a Varangian army to depose Yaropolk and was proclaimed knyaz of all [[kievan-rus|Kievan Rus]]'."
+      ]
+    },
+    {
+      "heading": "Expansion and Pagan Rule",
+      "paragraphs": [
+        "Vladimir expanded his territories significantly, conquering various tribes and regions, including the Cherven towns from Poland and the Yatvingians. Despite the spread of Christianity in the region, he initially adhered to paganism, taking numerous concubines and erecting pagan shrines. His actions sparked tensions, leading to the murder of Christian martyrs and subsequent persecutions against Christians."
+      ]
+    },
+    {
+      "heading": "Conversion to Christianity",
+      "paragraphs": [
+        "In 988, after a series of diplomatic and military maneuvers, including a marriage alliance with Byzantine Emperor Basil II, Vladimir converted to Christianity. He was baptized in Chersonesus and subsequently married Anna, the emperor's sister. This conversion marked a pivotal moment in the history of Kievan Rus', as Vladimir began to Christianize his realm."
+      ]
+    },
+    {
+      "heading": "Christianization of Kievan Rus'",
+      "paragraphs": [
+        "Following his conversion, Vladimir initiated the destruction of pagan monuments and the establishment of churches, including the Church of the Tithes in 989. His reign saw the baptism of various princes and the promotion of Christian values, leading to increased literacy and the introduction of Byzantine law codes."
+      ]
+    },
+    {
+      "heading": "Legacy and Family",
+      "paragraphs": [
+        "Vladimir's legacy includes the establishment of a Christian state in Kievan Rus' and the promotion of cultural and religious unity. He had numerous children, including notable figures such as Yaroslav the Wise. Vladimir died on 15 July 1015, and his remains were distributed among sacred sites, venerated as relics."
+      ]
+    }
+  ],
+  "links_out": [
+    "kievan-rus"
+  ],
+  "sources": [
+    {
+      "title": "Vladimir the Great — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vladimir_the_Great",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

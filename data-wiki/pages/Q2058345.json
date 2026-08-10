@@ -1,0 +1,87 @@
+{
+  "qid": "Q2058345",
+  "slug": "national-forestry-university",
+  "title": "National Forestry University",
+  "type": "university",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "university",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1874",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Austria–Hungary",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Lviv",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.8250, 24.0031",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The National Forestry and Wood-Technology University of Ukraine is a prominent educational institution located in Lviv, specializing in forestry and wood technology. It has a rich historical background that reflects the evolution of forestry education in Ukraine.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The establishment of forestry education in [[western-ukraine|western Ukraine]] has a long history. In 1807, Galychian foresters petitioned the government to create a secondary forestry educational institution. A proposal for a forestry department at [[lviv|Lviv]] University was submitted in 1812. By 1852, a Forestry Section was operational within the Galychina Economic Society, leading to the formation of the Galychina Forestry Society in 1874. The Regional School of Forestry commenced training specialists in Lviv on 24 October 1874 and was elevated to a higher educational institution in 1908.",
+        "During the period of Polish rule, the educational landscape shifted after the defeat of the Western-[[ukrainian-peoples-republic|Ukrainian People's Republic]]. The Higher Forestry School merged with the Agrarian Academy, resulting in the establishment of the Agrarian-Forestry Faculty at Lviv Polytechnic University. An underground university with a Forestry Faculty operated in Lviv from 1921 to 1926.",
+        "Under German occupation from 1941 to 1944, only professional forestry courses were offered at Lviv Polytechnic University. Following World War II, on 15 January 1945, the USSR Government approved the establishment of the Lviv Forestry Institute. On 6 November 1954, the Forestry-Melioration Faculty of the Lviv Agrarian Institute merged with the Forestry Faculty of the Forestry University. In 1988, the institute was named after the notable scientist Petro S. Pohrebnyak.",
+        "In independent [[ukraine|Ukraine]], the Forestry Institute received accreditation on 17 June 1993, obtaining a state license for educational activities at the fourth educational-qualifying level. A resolution on 13 August 1993 led to the founding of the [[ukrainian|Ukrainian]] State Forestry University based on the Petro Pohrebnyak Lviv Forestry Institute. The university was granted national status on 16 May 2005."
+      ]
+    },
+    {
+      "heading": "Campus and Facilities",
+      "paragraphs": [
+        "The university is housed in nine academic buildings, including one recognized as an architectural monument. The campus features residence halls and a library that includes two lending and three reading halls. The library is situated in a separate building, with additional departments located in other university facilities. Internet access is available throughout the campus."
+      ]
+    },
+    {
+      "heading": "Academic Structure",
+      "paragraphs": [
+        "Currently, the university comprises the Institute of Ecological Economics and six faculties: Faculty of Forestry, Faculty of Forest Engineering and Mechanics, Faculty of Woodworking Technology, Faculty of Economics, Faculty of Corresponding Studies and Post-Diploma Training. Additionally, it includes a Research Department, a Scientific Technical Library, the Small Forest Academy, Lviv Technological College, Transcarpathian Forestry College, the State Botanical Garden, the natural reserve 'Rostochya', the Stradch Educational Forestry Enterprise, and an Educational and Consulting Centre in Khust. The university also hosts Carpathian and Polissya Research Forest Ecology Laboratories and three educational and research ecological centres, alongside a sport-and-recreation centre on the Black Sea coast."
+      ]
+    },
+    {
+      "heading": "Notable Alumni and Honorary Doctors",
+      "paragraphs": [
+        "The university has produced numerous prominent graduates, including Mykola Petrovych Chaikovsky, a noted naturalist; Ivan Hrunyansky, who served as Minister of Forestry and Carpentry from 1965 to 1986; and Oleksandr Kapinos, a political activist. Other notable alumni include Yaroslav Khoma, a professional footballer; Roman Kozak, a presidential candidate in 2004; Atena Pashko, a chemical engineer and poet; and Yuriy Ruf, a poet and reservist. Mykola Shershun served as Head of the State Forestry Committee in 2010, while Roman Shpek held various high-level positions including Minister of the Economy and Vice-premier of Ukraine for Economic Issues. Yuriy Tunytsya is recognized as an academician of the [[national-academy-of-sciences-of-ukraine|National Academy of Sciences of Ukraine]] and has participated in significant UN delegations.",
+        "The university has also honored several distinguished individuals, including Helmut Kohl, Leonid Rudnytsky, Hans Essmann, Noel Lust, Davide Pettenella, Hansjurgen Doss, and Ditrich Blumenwitz."
+      ]
+    },
+    {
+      "heading": "Reputation and Rankings",
+      "paragraphs": [
+        "In 2012, the university was ranked 32nd in the UNESCO TOP-2000 of Ukraine, highlighting its reputation within the country's higher education landscape."
+      ]
+    }
+  ],
+  "links_out": [
+    "lviv",
+    "national-academy-of-sciences-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian National Forestry University — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_National_Forestry_University",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

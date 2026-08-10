@@ -1,0 +1,116 @@
+{
+  "qid": "Q40637",
+  "slug": "zhytomyr-oblast",
+  "title": "Zhytomyr Oblast",
+  "type": "oblast of Ukraine",
+  "category": "people",
+  "aliases": [
+    "Zhytomyrshchyna"
+  ],
+  "infobox": {
+    "label": "oblast of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1937-09-22",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Zhytomyr",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "1,240,500",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "29,832",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Head of government",
+        "value": "Vitaliy Bunechko",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.6500, 28.5200",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Zhytomyr Oblast is a province located in northwestern Ukraine, with Zhytomyr as its administrative center. As of 2022, the population is estimated to be approximately 1,179,032, reflecting the region's significance within Ukraine.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Zhytomyr Oblast was established on September 22, 1937, as part of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]], formed from territories of [[vinnytsia|Vinnytsia]] and [[kyiv|Kyiv]] oblasts, as well as the Korosten and Novohrad-Volynsky okrugs.",
+        "The oblast encompasses parts of the historic regions of [[polesia|Polesia]], Volhynia, and [[podolia|Podolia]], which are depicted on its coat of arms.",
+        "Historically, prior to the 18th century, the majority of the oblast was part of the Kyiv Voivodeship, while the smaller western section around Zviahel belonged to the Volyn Voivodeship. [[zhytomyr|Zhytomyr]] continued to serve as an administrative center for the Kyiv Voivodeship following the Treaty of Andrusovo.",
+        "After the second partition of Poland, the newly annexed territories formed the Izyaslav Vice-royalty, which included former Polish lands in Volhynia, Podolia, and Kyiv, centered in Izyaslav. The Russian Empire later annexed additional territories during the third partition of Poland, leading to the dissolution of Polish statehood. Eventually, the territory of present-day Zhytomyr Oblast became part of the Russian Volhynian Governorate, with Zviahel, renamed Novohrad-Volynskyi, as its administrative center, before being moved to Zhytomyr.",
+        "During the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], parts of Zhytomyr Oblast were occupied by Russian forces, but the region was fully liberated on April 4, 2022, when the Narodychi settlement hromada was declared free."
+      ]
+    },
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Zhytomyr Oblast covers a total area of 29,832 km² (11,518 sq mi).",
+        "Notable sites in the oblast include the Church of Saint Basil the Great in Ovruch, the Stone Village State Preserve, and the Korolev Memorial Astronautical Museum.",
+        "There are 58 monuments of national significance located within Zhytomyr Oblast, and the Museum of [[ukrainian|Ukrainian]] Home Icons, the only one of its kind in Europe, is situated in Radomyshl, approximately 90 km (56 mi) from Kyiv. This museum is part of the Radomysl Castle historical and cultural complex, founded by Olga Bogomolets."
+      ]
+    },
+    {
+      "heading": "Population",
+      "paragraphs": [
+        "As of 2013, the estimated population of Zhytomyr Oblast was 1,268,903. According to the 2001 Ukrainian census, ethnic [[ukrainians|Ukrainians]] comprised 90.3% of the population, while ethnic Russians accounted for 5.0% and ethnic Poles for 3.5%.",
+        "The demographic structure includes 15.8% of the population aged 0-14 years, 68.1% aged 15-64 years, and 16.1% aged 65 years and over, with a median age of 39.4 years.",
+        "The official language throughout Zhytomyr Oblast is Ukrainian. A moratorium on the public use of Russian-language cultural products was enacted on December 20, 2018, by the Zhytomyr Oblast Council. A 2018 poll indicated that 74% of residents supported Ukrainian as the sole state language in [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Economy",
+      "paragraphs": [
+        "The economy of Zhytomyr Oblast is primarily based on the mining of granite and other construction materials, forestry, agriculture, and various machinery manufacturing.",
+        "The northern areas of the oblast are significantly impacted by the [[chernobyl-disaster|Chernobyl disaster]], with some towns and districts devastated and included in the [[chernobyl|Chernobyl]] zone, while others are restricted from agricultural production."
+      ]
+    },
+    {
+      "heading": "Administrative Divisions",
+      "paragraphs": [
+        "Zhytomyr Oblast is divided into four raions (districts): Berdychiv Raion, Korosten Raion, Zhytomyr Raion, and Zviahel Raion.",
+        "Key populated locations in Zhytomyr Oblast include Zhytomyr with a population of 266.9 thousand, Berdychiv with 73.0 thousand, Korosten with 63.5 thousand, Zviahel with 56.3 thousand, and several smaller towns such as Malyn and Radomyshl."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "chernobyl",
+    "chernobyl-disaster",
+    "kyiv",
+    "podolia",
+    "polesia",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainians",
+    "vinnytsia",
+    "zhytomyr"
+  ],
+  "sources": [
+    {
+      "title": "Zhytomyr Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zhytomyr_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

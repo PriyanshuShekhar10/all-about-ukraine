@@ -1,0 +1,84 @@
+{
+  "qid": "Q754307",
+  "slug": "fc-zorya-luhansk",
+  "title": "FC Zorya Luhansk",
+  "type": "association football club",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "association football club",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1923",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Luhansk",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "FC Zorya Luhansk is a professional football club based in Luhansk, Ukraine, known for its historical significance and achievements in Ukrainian football. Due to the ongoing [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]], the club has been playing its home games in Zaporizhzhia since 2014.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "FC Zorya Luhansk, originally established as Zaria Voroshilovgrad, was formed on 10 April 1964 through the merger of the October Revolution Plant sports club and the [[luhansk|Luhansk]] regional branch of the 'Trudovye Rezervy' sports society. The club became notable in 1972 when it became the first provincial Soviet team to win the Soviet Top League title.",
+        "The origins of football in Luhansk trace back to the early 20th century, with the first team being created in 1908 by workers of the Russischen Maschinenbaugesellschaft Hartmann. The team played its early matches in a makeshift area near the factory, evolving through various iterations and names over the decades."
+      ]
+    },
+    {
+      "heading": "Post-War Revival",
+      "paragraphs": [
+        "After World War II, the club faced challenges in revival, with Dynamo Luhansk representing the city initially. In 1948, Dzerzhynets was re-established, and by 1964, it had merged with Trudovi Rezervy to form the modern FC Zorya. The club's performance fluctuated throughout the years, with a notable promotion to the top tier of Soviet football."
+      ]
+    },
+    {
+      "heading": "Modern Period",
+      "paragraphs": [
+        "In the contemporary era, FC Zorya has faced significant challenges due to the conflict in Eastern [[ukraine|Ukraine]], particularly since 2014, when Luhansk was affected by the war. The team relocated to [[zaporizhzhia|Zaporizhzhia]] and has continued to compete at a high level, including participation in the UEFA Europa League, where they faced notable clubs such as Manchester United."
+      ]
+    },
+    {
+      "heading": "Club Identity",
+      "paragraphs": [
+        "The club's colors are traditionally black and white, and it adopted a mascot in 2010. The badge has undergone redesigns, particularly after the club's relocation, reflecting its evolving identity within [[ukrainian|Ukrainian]] football."
+      ]
+    },
+    {
+      "heading": "Stadiums",
+      "paragraphs": [
+        "Historically, FC Zorya played at several stadiums in Luhansk, with the Lenin Stadium being the oldest, built in 1922. The Voroshilov Stadium, opened in 1951, served as a home ground until the club's relocation to Zaporizhzhia, where they now play at Slavutych Arena."
+      ]
+    },
+    {
+      "heading": "Honours",
+      "paragraphs": [
+        "FC Zorya Luhansk has achieved significant success, including winning the Soviet Top League in 1972 and the Ukrainian First League in 2005-06. The club has also been a runner-up in various competitions, including the Soviet Cup and the Ukrainian Cup."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "luhansk",
+    "ukraine",
+    "ukrainian",
+    "zaporizhzhia"
+  ],
+  "sources": [
+    {
+      "title": "FC Zorya Luhansk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/FC_Zorya_Luhansk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

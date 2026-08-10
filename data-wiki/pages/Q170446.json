@@ -1,0 +1,119 @@
+{
+  "qid": "Q170446",
+  "slug": "sumy-oblast",
+  "title": "Sumy Oblast",
+  "type": "oblast of Ukraine",
+  "category": "people",
+  "aliases": [
+    "Sumshchyna",
+    "Sums’ka oblast"
+  ],
+  "infobox": {
+    "label": "oblast of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1939-01-10",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Sumy",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "1,104,500",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "23,834",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "246",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Mykola Klochko",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "51.0000, 34.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Sumy Oblast is a province located in northeastern Ukraine, established in 1939 through the amalgamation of territories from neighboring oblasts. It serves as a significant cultural and economic region within Ukraine, with a diverse demographic and historical background.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Sumy Oblast is positioned in the northeastern part of [[ukraine|Ukraine]], bordering [[chernihiv|Chernihiv]] Oblast to the west, [[poltava-oblast|Poltava Oblast]] to the south, and [[kharkiv-oblast|Kharkiv Oblast]] to the southeast. It shares a 563.8 km (350.3 mi) border with the Russian Federation, including the regions of Bryansk to the north, Kursk to the northeast, and Belgorod to the east. The oblast encompasses an area of 23,800 km2, which is 3.95% of Ukraine's total land area.",
+        "The region features a mix of geographical features, including the transition of the [[dnieper|Dnieper]] Lowland to the Central Russian Upland and the [[rivne-oblast|Polesie]] Lowland in its northern and eastern parts. The elevation ranges from 110 to 240 meters above sea level. Seven major rivers flow through the oblast, with the Desna River being the largest, all part of the Dnieper River basin.",
+        "Sumy Oblast is home to 168 natural reserve sites, characterized by scenic riverbanks and mineral water sources. Environmental challenges include soil erosion and pollution."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Sumy Oblast was established on 10 January 1939, following a decree from the Presidium of the Supreme Soviet of the Soviet Union, incorporating 12 raions from Kharkiv Oblast, 17 from Chernihiv Oblast, and 2 from Poltava Oblast. During World War II, the region was occupied by Nazi Germany from 1941 to 1943, later returning to Soviet control.",
+        "In 1965, the Talalaivka Raion was reassigned back to Chernihiv Oblast. The oblast was significantly affected during the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], being one of the first areas of conflict. By 4 April 2022, local authorities reported that Russian troops had withdrawn from Sumy Oblast, a claim confirmed on 8 April 2022. However, tensions continued, with reports of cross-border operations and territorial claims by Russian forces in subsequent years."
+      ]
+    },
+    {
+      "heading": "Demographics and Language",
+      "paragraphs": [
+        "According to the 2001 [[ukrainian|Ukrainian]] census, ethnic [[ukrainians|Ukrainians]] comprised 88.8% of Sumy Oblast's population, while ethnic Russians made up 9.4%. The region has experienced a shift in language use due to historical Russification, with Ukrainian being the only official language.",
+        "A 2018 poll indicated that 60% of residents supported Ukrainian as the sole state language. In April 2023, the Sumy Oblast Military Administration launched a program to promote the Ukrainian language in public life. Recent studies show a growing use of Ukrainian in social media, with 75.0% of posts in Ukrainian as of September 2024."
+      ]
+    },
+    {
+      "heading": "Economy",
+      "paragraphs": [
+        "Sumy Oblast's economy is characterized by a blend of industrial and agricultural activities, featuring over 600 industrial enterprises. Key industries include chemical engineering, agricultural machinery, and film production, notably the Svema plant in Shostka.",
+        "In 1999, the region's agricultural output included approximately 446,000 tons of grain and 664,000 tons of sugar beets, alongside significant livestock and dairy production. The oblast had 781 registered farms at the beginning of 1999."
+      ]
+    },
+    {
+      "heading": "Cultural Significance and Notable People",
+      "paragraphs": [
+        "Sumy Oblast is rich in cultural heritage, with historical cities such as Hlukhiv, which served as a [[hetman|hetman]] residence during the [[cossack-hetmanate|Cossack Hetmanate]]. Notable figures from the region include [[viktor-yushchenko|Viktor Yushchenko]], the third [[president-of-ukraine|President of Ukraine]]; Ivan Bahrianyi, a prominent poet; and Oleksi Berest, a hero of World War II.",
+        "The region has also been recognized for its cultural sites, including the Monument to a Mammoth and the Sofroniiv Monastery, which highlight its historical significance within Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "chernihiv",
+    "cossack-hetmanate",
+    "dnieper",
+    "hetman",
+    "kharkiv-oblast",
+    "poltava-oblast",
+    "president-of-ukraine",
+    "rivne-oblast",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "viktor-yushchenko"
+  ],
+  "sources": [
+    {
+      "title": "Sumy Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sumy_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

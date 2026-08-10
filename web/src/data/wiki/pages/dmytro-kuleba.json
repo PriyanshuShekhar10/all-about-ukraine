@@ -1,0 +1,89 @@
+{
+  "qid": "Q24025631",
+  "slug": "dmytro-kuleba",
+  "title": "Dmytro Kuleba",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Dmytro Ivanovich Kuleba",
+    "Dmytro Ivanovych Kuleba",
+    "Kuleba Dmytro"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1981-04-19",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Sumy",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "Ukrainian Minister of Foreign Affairs, Deputy Prime Minister for European and Euro-Atlantic Integration of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Dmytro Kuleba is a prominent [[ukrainian|Ukrainian]] politician and diplomat who served as Minister of Foreign Affairs from March 2020 until September 2024. His extensive career in Ukraine's foreign service and his active role during critical periods in the country's history highlight his significance in shaping Ukraine's international relations.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Dmytro Ivanovych Kuleba was born on 19 April 1981 in [[sumy|Sumy]], within the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]] of the Soviet Union. He graduated with honors in 2003 with a degree in International Law from the Institute of International Relations of the [[taras-shevchenko-national-university-of-kyiv|Taras Shevchenko National University of Kyiv]], later obtaining a Candidate of Sciences degree in Law in 2006."
+      ]
+    },
+    {
+      "heading": "Diplomatic Career (2003–2019)",
+      "paragraphs": [
+        "Kuleba has been part of [[ukraine|Ukraine]]'s diplomatic service and the Ministry of Foreign Affairs since 2003. He left public service in 2013 due to disagreements with President [[viktor-yanukovych|Viktor Yanukovych]]'s policies and led the UART Foundation for Cultural Diplomacy. He returned to the Ministry of Foreign Affairs in 2014 as Ambassador-at-Large during the early stages of the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], where he focused on strategic communications and introduced digital and cultural diplomacy."
+      ]
+    },
+    {
+      "heading": "Political Office (2019–2024)",
+      "paragraphs": [
+        "Kuleba served as Deputy Prime Minister for European relations from August 2019 to March 2020 and as Minister of Foreign Affairs from 4 March 2020 to 4 September 2024. He has been vocal about the challenges posed by the Russian invasion, labeling President Vladimir Putin a 'war criminal' and emphasizing the need for Ukraine to reclaim its territories. Kuleba has actively engaged in international diplomacy, advocating for Ukraine's interests and calling for global condemnation of Russia's actions."
+      ]
+    },
+    {
+      "heading": "Post-Political Career",
+      "paragraphs": [
+        "Following his resignation, Kuleba was appointed as a non-resident senior fellow at the Belfer Center for Science and International Affairs at Harvard Kennedy School in December 2024. He is also set to begin teaching wartime diplomacy as an associate professor at Sciences Po in January 2025."
+      ]
+    },
+    {
+      "heading": "Political Views and Contributions",
+      "paragraphs": [
+        "Kuleba is a strong advocate for Ukraine's integration into the European Union and NATO, viewing these memberships as essential for Ukraine's future. He has emphasized the importance of maintaining Ukraine's territorial integrity and has been involved in various diplomatic initiatives to promote Ukraine's position on the global stage."
+      ]
+    },
+    {
+      "heading": "Personal Life and Achievements",
+      "paragraphs": [
+        "Kuleba is the author of 'The War for Reality. How to Win in the World of Fakes, Truths and Communities' and has received several honors, including the Order of Merit, 3rd class in Ukraine in 2021 and the Grand Commander of the Order for Merits to Lithuania in 2022. His family includes his mother, Yevhenia Kuleba, and his father, Ivan Kuleba, a former Deputy Minister of Foreign Affairs of Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "sumy",
+    "taras-shevchenko-national-university-of-kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "viktor-yanukovych"
+  ],
+  "sources": [
+    {
+      "title": "Dmytro Kuleba — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dmytro_Kuleba",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

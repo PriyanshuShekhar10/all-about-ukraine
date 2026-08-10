@@ -38,7 +38,7 @@
     {
       "heading": "Location and Structure",
       "paragraphs": [
-        "The Chernobyl Nuclear Power Plant is situated approximately 16.5 kilometers (10 miles) northwest of [[chernobyl|Chernobyl]] and 16 kilometers (10 miles) from the Belarus–[[ukraine|Ukraine]] border, around 100 kilometers (62 miles) north of [[kyiv|Kyiv]]. The facility was originally cooled by a pond fed by the Pripyat River, located about 5 kilometers (3 miles) from its confluence with the [[dnieper|Dnieper River]].",
+        "The Chernobyl Nuclear Power Plant is situated approximately 16.5 kilometers (10 miles) northwest of [[chernobyl|Chernobyl]] and 16 kilometers (10 miles) from the Belarus–[[ukraine|Ukraine]] border, around 100 kilometers (62 miles) north of [[kyiv|Kyiv]]. The facility was originally cooled by a pond fed by the [[pripyat|Pripyat]] River, located about 5 kilometers (3 miles) from its confluence with the [[dnieper|Dnieper River]].",
         "The plant features an RBMK type graphite-moderated reactor, which is noted for its cost efficiency but is considered less safe compared to other reactor designs, such as the VVER pressurized water reactor."
       ]
     },
@@ -75,6 +75,7 @@
     "dnieper",
     "full-scale-russo-ukrainian-war",
     "kyiv",
+    "pripyat",
     "ukraine"
   ],
   "sources": [

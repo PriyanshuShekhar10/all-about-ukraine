@@ -1,0 +1,87 @@
+{
+  "qid": "Q19421615",
+  "slug": "defenders-of-ukraine-day",
+  "title": "Defenders of Ukraine Day",
+  "type": "public holiday",
+  "category": "war",
+  "aliases": [
+    "Defender of Ukraine Day"
+  ],
+  "infobox": {
+    "label": "public holiday",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2014-10-14",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Defenders of Ukraine Day is a public holiday in Ukraine observed on October 1, honoring veterans and fallen members of the Ukrainian armed forces. The holiday was first celebrated in 2015 and has its roots in the historical traditions of honoring military defenders.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Defenders of Ukraine Day, known in [[ukrainian|Ukrainian]] as День захисників та захисниць України, was established through a decree by President [[petro-poroshenko|Petro Poroshenko]] on October 14, 2014, amid the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]] and the process of decommunization in [[ukraine|Ukraine]]. The date was chosen to coincide with the establishment of the [[ukrainian-insurgent-army|Ukrainian Insurgent Army]] on October 14, 1942.",
+        "The [[verkhovna-rada|Ukrainian parliament]], the Verkhovna Rada, officially approved the holiday on March 5, 2015, replacing the previous holiday known as Defender of the Fatherland Day, which originated in the Soviet Union. This change reflected Ukraine's independence from the Soviet Union, declared on August 24, 1991."
+      ]
+    },
+    {
+      "heading": "Popularity and Recognition",
+      "paragraphs": [
+        "Initially, in 2017, only 10% of the Ukrainian population celebrated Defenders Day. However, by 2021, opinion polls indicated that the holiday's popularity had increased to 29%.",
+        "On July 14, 2021, the name of the holiday was officially amended to include female defenders, changing it to День захи́сникі́в і захи́сни́ць Украї́ни."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "Following a Bishops' Council on May 24, 2023, the Orthodox Church of Ukraine proposed moving Defenders Day to October 1 due to a calendar reform. Subsequently, on June 28, 2023, [[volodymyr-zelenskyy|President Volodymyr Zelenskyy]] submitted a draft law to the Verkhovna Rada to shift the holiday from October 14 to October 1.",
+        "The parliament approved this change on July 14, 2023, with 241 deputies in favor. President Zelenskyy signed the law on July 28, 2023, formalizing the new date for the holiday."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "The date of October 14 has historical significance in Ukraine, as it coincides with the day of the Intercession of the Theotokos, a tradition celebrated since the 12th century. This day was particularly significant for [[zaporozhian-cossacks|Ukrainian Cossacks]], who regarded the Mother of God as their patroness.",
+        "During the [[ukrainian-war-of-independence|Ukrainian War of Independence]] (1917–1920), the military symbolism associated with this date was embraced by the [[ukrainians|Ukrainian People]]'s Army, and the Ukrainian Insurgent Army established itself on this day in 1942."
+      ]
+    },
+    {
+      "heading": "Commemorative Initiatives",
+      "paragraphs": [
+        "To mark the significance of Defenders Day, Ukrposhta issued a postage stamp titled 'Day of the Defender of Ukraine' on October 12, 2015. Additionally, for the newly established October 1 holiday, a stamp named 'Under the Protection of the Theotokos' is set to be issued on October 1, 2024.",
+        "The [[national-bank-of-ukraine|National Bank of Ukraine]] also commemorated the holiday by releasing 50,000 copies of a 5-[[hryvnia|hryvnia]] coin on October 12, 2015, as part of a series celebrating the [[armed-forces-of-ukraine|Armed Forces of Ukraine]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "armed-forces-of-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "hryvnia",
+    "national-bank-of-ukraine",
+    "petro-poroshenko",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-insurgent-army",
+    "ukrainian-war-of-independence",
+    "ukrainians",
+    "verkhovna-rada",
+    "volodymyr-zelenskyy",
+    "zaporozhian-cossacks"
+  ],
+  "sources": [
+    {
+      "title": "Defenders Day (Ukraine) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Defenders_Day_(Ukraine)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

@@ -1,0 +1,97 @@
+{
+  "qid": "Q958769",
+  "slug": "national-academy-of-sciences-of-ukraine",
+  "title": "National Academy of Sciences of Ukraine",
+  "type": "academy of sciences",
+  "category": "history",
+  "aliases": [
+    "Academy of Sciences of Ukraine",
+    "Academy of Sciences of the Ukrainian SSR",
+    "All-Ukrainian Academy of Sciences",
+    "NAN Ukraine",
+    "NANU",
+    "NAS",
+    "NASU",
+    "Natsional’na akademiya nauk Ukrayiny",
+    "UAN",
+    "Ukrainian Academy of Sciences",
+    "VUAN"
+  ],
+  "infobox": {
+    "label": "academy of sciences",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1918",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4450, 30.5125",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The National Academy of Sciences of Ukraine (NASU) is a self-governing, state-funded organization that serves as the primary hub for scientific and technological development in Ukraine, coordinating a network of research institutes across the country. Established in 1918, it has played a significant role in the advancement of various scientific disciplines within the Ukrainian context.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The National Academy of Sciences of Ukraine (NASU; [[ukrainian|Ukrainian]]: Національна академія наук України) is a self-governing state-funded organization that acts as the main center for the development of science and technology in [[ukraine|Ukraine]]. It coordinates a system of research institutes throughout the country and is one of the leading research-oriented organizations in Ukraine, alongside five other specialized academies."
+      ]
+    },
+    {
+      "heading": "Establishment and Early History",
+      "paragraphs": [
+        "The origins of the NASU can be traced back to the Ukrainian Scientific Society in [[kyiv|Kyiv]] and the Shevchenko Scientific Society in Lemberg (now [[lviv|Lviv]]). The initiative to establish the academy was proposed by the Ukrainian Science Society in April 1917, during the period leading up to the [[ukrainiansoviet-war|Soviet-Ukrainian War]]. The academy was officially founded on November 14, 1918, following a bill that outlined its statute and structure.",
+        "Initially, the academy consisted of three research departments: history and philology, physics and mathematics, and social studies. The founding statute emphasized its all-Ukrainian nature, allowing membership for Ukrainian scientists from both the Ukrainian State and [[western-ukraine|West Ukraine]], as well as foreign scholars upon approval."
+      ]
+    },
+    {
+      "heading": "Development and Challenges",
+      "paragraphs": [
+        "In its early years, the academy faced significant challenges due to political instability and economic turmoil, including the Ukrainian–Soviet War and the Russian Civil War. Despite these difficulties, the academy maintained its operations and sought recognition from various governing bodies. Legislative changes in January 1919 reinforced the use of the Ukrainian language in publications and required officials to be proficient in it.",
+        "Following the Bolshevik occupation of Kyiv in 1919, the academy's property was secured, and it continued to function under the new regime. However, its relationship with Soviet authorities became strained, particularly after the academy was renamed the All-Ukrainian Academy of Sciences (VUAN) in 1921, which aimed to unify the scientific community across all Ukrainian territories."
+      ]
+    },
+    {
+      "heading": "Soviet Era and Repression",
+      "paragraphs": [
+        "The academy underwent a significant transformation during the Soviet era, with increasing state control and repression. Many prominent members faced persecution, and the focus of research shifted predominantly to technical sciences. By 1936, the academy was stripped of its national status and became known as the Academy of Sciences of the Ukrainian SSR, further entrenching its subordination to Soviet authorities."
+      ]
+    },
+    {
+      "heading": "World War II and Aftermath",
+      "paragraphs": [
+        "During World War II, the academy was evacuated from Kyiv to Ufa and then to Moscow following the German invasion. Despite the challenges posed by the war, the non-Soviet Ukrainian Academy of Sciences attempted to resume its activities in occupied Kyiv, organizing scientific discussions and exploring language reforms. However, these efforts were ultimately hindered by the occupying forces."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "lviv",
+    "ukraine",
+    "ukrainian",
+    "ukrainiansoviet-war",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "National Academy of Sciences of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_Academy_of_Sciences_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

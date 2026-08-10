@@ -1,0 +1,85 @@
+{
+  "qid": "Q704389",
+  "slug": "arsen-avakov",
+  "title": "Arsen Avakov",
+  "type": "human",
+  "category": "war",
+  "aliases": [
+    "Arsen Borysovych Avakov"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1964-01-02",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Binagadi raion",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "People's Deputy of Ukraine, People's Deputy of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Arsen Borysovych Avakov is a Ukrainian politician of Armenian descent who served as the Minister of Internal Affairs of Ukraine from 2014 to 2021. He played a significant role in various governmental positions, particularly during critical periods in Ukraine's recent history.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Arsen Avakov was born on 2 January 1964 in Kirov settlement (now Yeni Surahany), Baku, into a military family of Armenian descent and Armenian Apostolic faith. He has been a resident of [[ukraine|Ukraine]] since 1966 and holds [[ukrainian|Ukrainian]] citizenship.",
+        "He graduated from the [[kharkiv-oblast|Kharkiv]] Polytechnic Institute in 1988 with a degree in Automated Control Systems, qualifying as a systems engineer."
+      ]
+    },
+    {
+      "heading": "Political Career",
+      "paragraphs": [
+        "Avakov began his political career by founding and leading JSC 'Investor' until 2005 and establishing the commercial bank 'Basis' in 1992. He was involved in the 2004 presidential campaign as deputy head of [[viktor-yushchenko|Viktor Yushchenko]]'s Kharkiv headquarters.",
+        "He served as the Chairman of the Kharkiv Regional State Administration from 4 February 2005 until his resignation on 9 February 2010, citing principled disagreement with state decisions."
+      ]
+    },
+    {
+      "heading": "Minister of Internal Affairs",
+      "paragraphs": [
+        "On 21 February 2014, Avakov was appointed as Acting Minister of Internal Affairs and confirmed in this role on 27 February. His tenure included significant reforms and the inclusion of representatives from the 'Right Sector' and Maidan Self-Defense in the ministry's leadership.",
+        "He led a successful operation to reclaim the Kharkiv Regional State Administration from separatists on 7 April 2014, which was crucial in stabilizing the region during the early stages of the conflict."
+      ]
+    },
+    {
+      "heading": "Reforms and Challenges",
+      "paragraphs": [
+        "During his time as Minister, Avakov initiated the replacement of 20,000 police officers in the [[luhansk|Luhansk]] and [[donetsk|Donetsk]] regions and oversaw the lustration process that dismissed numerous officials discredited during the conflict.",
+        "He was instrumental in the establishment of the 'People's Front' political party and retained his ministerial position through various government changes, including the transition to Volodymyr Groysman's administration in April 2016."
+      ]
+    },
+    {
+      "heading": "The Markiv Case",
+      "paragraphs": [
+        "Avakov played a significant role in the case of Vitalii Markiv, a National Guardsman detained in Italy on charges related to the death of a photojournalist. He consistently declared Markiv's innocence and supervised a thorough investigation by the National Police of Ukraine.",
+        "Avakov's efforts culminated in the Milan Court of Appeal dropping all charges against Markiv, leading to his release on 3 November 2020, which Avakov facilitated by organizing his return to Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "donetsk",
+    "kharkiv-oblast",
+    "luhansk",
+    "ukraine",
+    "ukrainian",
+    "viktor-yushchenko"
+  ],
+  "sources": [
+    {
+      "title": "Arsen Avakov — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Arsen_Avakov",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

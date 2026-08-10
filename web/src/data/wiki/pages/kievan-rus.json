@@ -49,7 +49,7 @@
       }
     ]
   },
-  "summary": "Kievan Rus', also referred to as Kyivan Rus', was the inaugural East Slavic state and a collective of principalities in Eastern Europe from the late 9th to the mid-13th century. It played a crucial role in shaping the cultural and political landscape of Ukraine and the surrounding region.",
+  "summary": "Kievan Rus', also referred to as Kyivan Rus', was the inaugural East Slavic state and a collective of principalities in [[eastern-europe|Eastern Europe]] from the late 9th to the mid-13th century. It played a crucial role in shaping the cultural and political landscape of Ukraine and the surrounding region.",
   "sections": [
     {
       "heading": "Historical Overview",
@@ -62,7 +62,7 @@
       "heading": "Key Rulers and Developments",
       "paragraphs": [
         "According to the Primary Chronicle, the initial ruler to consolidate East Slavic territories into Kievan Rus' was Varangian prince Oleg the Wise (r. 879–912), who expanded his influence from Novgorod southward along the [[dnieper|Dnieper River]] to safeguard trade against Khazar threats and established his rule over Kiev.",
-        "Sviatoslav I (r. 943–972) marked the first significant territorial expansion of Kievan Rus' through military campaigns against the Khazars. Vladimir the Great (r. 980–1015) played a pivotal role in the Christianization of the state, personally converting and mandating the baptism of all residents of Kiev and its surroundings. Kievan Rus' reached its peak under Yaroslav the Wise (r. 1019–1054), who oversaw the creation of its first written legal code, the Russkaya Pravda, shortly after his death."
+        "Sviatoslav I (r. 943–972) marked the first significant territorial expansion of Kievan Rus' through military campaigns against the Khazars. [[vladimir-the-great|Vladimir the Great]] (r. 980–1015) played a pivotal role in the Christianization of the state, personally converting and mandating the baptism of all residents of Kiev and its surroundings. Kievan Rus' reached its peak under Yaroslav the Wise (r. 1019–1054), who oversaw the creation of its first written legal code, the Russkaya Pravda, shortly after his death."
       ]
     },
     {
@@ -87,7 +87,9 @@
   "links_out": [
     "carpathians",
     "dnieper",
-    "ukraine"
+    "eastern-europe",
+    "ukraine",
+    "vladimir-the-great"
   ],
   "sources": [
     {

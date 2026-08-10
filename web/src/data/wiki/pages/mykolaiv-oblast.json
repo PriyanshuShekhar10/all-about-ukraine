@@ -1,0 +1,114 @@
+{
+  "qid": "Q181633",
+  "slug": "mykolaiv-oblast",
+  "title": "Mykolaiv Oblast",
+  "type": "oblast of Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "oblast of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1937-09-22",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Mykolaiv",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "1,150,100",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "24,598",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Head of government",
+        "value": "Mykola Kruhlov, Q18274818",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "47.4300, 31.8000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Mykolaiv Oblast is a province in southern Ukraine, with its administrative center located in the city of Mykolaiv. As of 2022, the oblast has a population of approximately 1,091,821 residents and is significant for its historical, geographical, and economic contributions to Ukraine.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The territory of Mykolaiv Oblast has been governed by various powers throughout history, including Scythia, ancient Greeks, Old Great Bulgaria, Khazars, Kipchaks, the Mongol Empire, Lithuania, the Crimean Khanate, the Ottoman Empire, Poland, and Russia. Notable historical cities include ancient Olbia and the medieval port city of Ochakiv. In the late 17th and 18th centuries, the tripoint of the Polish–Lithuanian Commonwealth, the Ottoman Empire, and Russia was located at Pervomaisk, which is now the second-largest city in the oblast.",
+        "Mykolaiv Oblast was officially established in 1937 as part of [[ukrainian-soviet-socialist-republic|Soviet Ukraine]]. During World War II, it was occupied by German forces from 1941 to 1944.",
+        "In the context of the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], the Russian military advanced into the province from [[kherson|Kherson]] Oblast but was repelled at Voznesensk. By April 2022, most of the oblast was under [[ukrainian|Ukrainian]] control, except for the southeastern areas and the Kinburn Peninsula. Following the Russian annexation of Kherson Oblast in September 2022, the occupied parts of Mykolaiv Oblast were included. A Ukrainian military official confirmed a Russian withdrawal from the oblast on 10 November 2022. On 4–5 July 2022, during the [[ukraine|Ukraine]] Recovery Conference in Lugano, Switzerland pledged support for the reconstruction of Mykolaiv Oblast."
+      ]
+    },
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Mykolaiv Oblast is situated in the southern region of Ukraine, covering an area of 24,600 km², which represents approximately 4.07% of Ukraine's total area. It shares borders with [[odesa-oblast|Odesa Oblast]] to the west-southwest, [[kirovohrad-oblast|Kirovohrad Oblast]] to the north, [[dnipropetrovsk-oblast|Dnipropetrovsk Oblast]] to the northeast, and Kherson Oblast to the southeast. The Black Sea lies to the south, and the oblast includes the Kinburn Peninsula, Berezan Island, and Pervomaisky Island.",
+        "The region's geography is characterized by plains that gradually slope southward, predominantly within the Black Sea Lowland, with northern areas featuring uplands. Notable natural resources include deposits of nickel, uranium ores, granite, gneiss, and quartzites. The climate is moderately continental, featuring mild winters and hot, arid summers. Mykolaiv Oblast is home to eighty-five rivers, with the Southern Bug being the most significant, dividing the oblast into eastern and western sections."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "As of 2021, Mykolaiv Oblast had an estimated population of 1,108,394, with 68.7% living in urban areas and 31.3% in rural areas. The city of [[mykolaiv|Mykolaiv]], the administrative and cultural center, had a population of 341,123, accounting for 68.8% of the urban population in the oblast. The population density is relatively low at 45 inhabitants per square kilometer, representing 2.7% of Ukraine's total population, ranking 19th among the country's oblasts.",
+        "The age structure of the population is as follows: 14.7% are aged 0-14 years, 70.7% are aged 15-64 years, and 14.6% are aged 65 years and older. The median age is 39.7 years, with males averaging 36.3 years and females 42.9 years.",
+        "Mykolaiv Oblast has a diverse ethnic composition, with over 100 national groups. According to the 2001 census, Ukrainian was the most common native language, followed by Russian, which was predominant in Mykolaiv city. The census recorded 1,269,900 permanent residents, with 99.1% holding Ukrainian citizenship."
+      ]
+    },
+    {
+      "heading": "Administrative Divisions",
+      "paragraphs": [
+        "Mykolaiv Oblast was formed in September 1937 and is currently divided into four raions as of 18 July 2020: Bashtanka, Mykolaiv, Pervomaisk, and Voznesensk. Previously, the oblast was subdivided into 24 regions, including 19 raions and 5 city municipalities. The local administration is overseen by the Mykolaiv Oblast Council, with the governor being the council speaker appointed by the [[president-of-ukraine|President of Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Infrastructure and Economy",
+      "paragraphs": [
+        "The region features several ports along its coast and is served by Mykolaiv International Airport. The railway network is integrated into the [[odesa|Odesa]] Railways, and significant European routes E58 and E95 pass through the oblast. Mykolaiv is historically recognized for its shipyards, which have been operational since the 19th century. The South Ukraine Nuclear Power Plant and agrarian company Nibulon are notable economic contributors, alongside the Mykolaiv Observatory."
+      ]
+    },
+    {
+      "heading": "Public Opinion",
+      "paragraphs": [
+        "In the 1991 referendum, 89.45% of voters in Mykolaiv Oblast supported the Declaration of Independence of Ukraine. A survey conducted in December 2014 revealed that only 2.1% of the population favored joining Russia, while 95.5% opposed this notion, with the remainder either undecided or not responding."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "dnipropetrovsk-oblast",
+    "kherson",
+    "kirovohrad-oblast",
+    "mykolaiv",
+    "odesa",
+    "odesa-oblast",
+    "president-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Mykolaiv Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mykolaiv_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

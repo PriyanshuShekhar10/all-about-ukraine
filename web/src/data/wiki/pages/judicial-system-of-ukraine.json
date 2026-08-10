@@ -1,0 +1,83 @@
+{
+  "qid": "Q28913",
+  "slug": "judicial-system-of-ukraine",
+  "title": "judicial system of Ukraine",
+  "type": "judiciary",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "judiciary",
+    "fields": []
+  },
+  "summary": "The judicial system of Ukraine, established under the 1996 Constitution, has undergone significant reforms since the country's independence in 1991. Despite improvements, issues such as corruption and political influence continue to affect its functionality.",
+  "sections": [
+    {
+      "heading": "Overview of the Judicial System",
+      "paragraphs": [
+        "The judicial system of Ukraine is defined by the 1996 [[constitution-of-ukraine|Constitution of Ukraine]]. Prior to this, the concepts of judicial review and a Supreme Court were absent, as the system began to be restructured following [[ukraine|Ukraine]]'s independence in 1991.",
+        "While judicial independence is theoretically upheld, practical separation between judicial and political powers is limited. Judges often face pressure from political and business entities, contributing to a widespread perception of corruption within the court system.",
+        "Despite ongoing challenges, the judicial system is considered to have improved since the implementation of judicial reforms in 2016."
+      ]
+    },
+    {
+      "heading": "Structure of Courts",
+      "paragraphs": [
+        "The [[ukrainian|Ukrainian]] court system is composed of three levels of general jurisdiction courts, following the judicial reform of 2016 which reduced the previous four-level system. The Cassation Court of Ukraine was dissolved in 2003 after being deemed unconstitutional by the [[constitutional-court-of-ukraine|Constitutional Court of Ukraine]].",
+        "As of 2010, Ukrainian courts are guaranteed legal, financial, and constitutional independence through measures enacted in national law."
+      ]
+    },
+    {
+      "heading": "Types of Courts",
+      "paragraphs": [
+        "Local courts in Ukraine consist of 74 district courts, which replaced 142 local general courts in 2018. For instance, in [[kyiv|Kyiv]], ten district courts were closed while six new ones were established.",
+        "The Courts of Appeal, which combine criminal and civil jurisdictions, include regional courts of appeal and courts of appeal located in Kyiv. Prior to 2016, there were specialized courts of appeal for commercial and administrative matters.",
+        "The Constitutional Court of Ukraine serves to evaluate whether legislative acts from various governmental bodies align with the Constitution, providing interpretations of constitutional norms.",
+        "The High Anti-Corruption Court of Ukraine was established to handle corruption cases directly, with its law coming into effect on June 14, 2018."
+      ]
+    },
+    {
+      "heading": "Judges and Judicial Officers",
+      "paragraphs": [
+        "As of 2012, Ukraine had approximately 8,000 judges. Following the 2016 judicial reform, judges are appointed by the [[president-of-ukraine|President of Ukraine]] based on nominations from the Supreme Council of Justice. The previous system of a five-year probation period for judges was eliminated.",
+        "Judges are protected from dismissal except in cases of gross misconduct, and their immunity from prosecution was guaranteed until 2016. Currently, judges are only shielded from liability for their judicial actions.",
+        "Due to a hiring freeze post-reform, Ukraine faced a shortage of 2,600 judges, leading to increased case backlogs. In late 2023, efforts to hire 1,100 judges over months and 2,000 judges over years were initiated as part of the requirements for European Union accession."
+      ]
+    },
+    {
+      "heading": "Challenges and Criticism",
+      "paragraphs": [
+        "A survey by the Ukrainian Ministry of Justice in 2009 indicated that only 10 percent of respondents trusted the national court system, with less than 30 percent believing in the possibility of a fair trial.",
+        "The judiciary has been described as 'rotten to the core' due to political pressure and corruption, with reports of judges being arrested for bribery. Transparency International's 2013 Global Corruption Barometer revealed that 66% of [[ukrainians|Ukrainians]] viewed the judiciary as the most corrupt institution.",
+        "The conviction rate in Ukrainian courts was reported at 99.5 percent from 2005 to 2008, mirroring Soviet-era statistics, and increased to 99.83 percent in 2012. Suspects frequently face prolonged pre-trial incarceration.",
+        "Prosecutors in Ukraine wield more power than their counterparts in many European nations, leading to concerns regarding the alignment of the Prosecutor's Office with European standards. Systemic deficiencies in the judicial system have been noted as threats to human rights."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The judicial system in Ukraine has its roots in the Soviet Union and the former [[ukrainian-soviet-socialist-republic|Ukrainian SSR]], inheriting many of the issues associated with Soviet justice, including corruption and politicization.",
+        "Legal professionals have indicated that trial outcomes can be manipulated, with judges often disregarding exculpatory evidence and conferring privately with prosecutors. Bribery is reported to be a common practice in Ukrainian courts.",
+        "The influence of the Prosecutor-General's Office has historically compromised judicial independence, with judges facing repercussions for ruling against state prosecutors. Efforts to reform the judiciary have been ongoing since the early 1990s."
+      ]
+    }
+  ],
+  "links_out": [
+    "constitution-of-ukraine",
+    "constitutional-court-of-ukraine",
+    "kyiv",
+    "president-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Judiciary of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Judiciary_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

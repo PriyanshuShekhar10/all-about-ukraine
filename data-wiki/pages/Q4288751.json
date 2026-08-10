@@ -1,0 +1,87 @@
+{
+  "qid": "Q4288751",
+  "slug": "mezhyhirya",
+  "title": "Mezhyhirya",
+  "type": "inhabited area",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "inhabited area",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "140",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.6148, 30.4740",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Mezhyhirya is an estate in Ukraine that served as the residence of Viktor Yanukovych during his tenure as Prime Minister and President. It has since become a museum that reflects Yanukovych's opulent lifestyle and the controversies surrounding his administration.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Mezhyhirya was originally established as the Savior-Transfiguration Monastery, which existed until it was closed by the Bolsheviks in 1923. The site has a rich history, including a brief restoration as a female monastery at the end of the 19th century and its use as a state government residence from 1935 onward.",
+        "During World War II, the estate was occupied by Nazi officials, and it later became a state recreation complex under the Soviet Union and independent [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Yanukovych's Tenure (2002–2014)",
+      "paragraphs": [
+        "[[viktor-yanukovych|Viktor Yanukovych]] began residing in Mezhyhirya in 2002 when he became Prime Minister. He received a building within the estate and later rented additional land at a nominal fee.",
+        "The estate became a focal point of controversy in 2007 when Yanukovych privatized the property, a move that has been alleged to be illegal and involved complex ownership schemes.",
+        "During his presidency, Mezhyhirya was emblematic of Yanukovych's authoritarian rule and the corruption prevalent in his government, with independent media frequently exposing the lavish expenditures associated with the estate."
+      ]
+    },
+    {
+      "heading": "Euromaidan Protests",
+      "paragraphs": [
+        "The [[euromaidan|Euromaidan]] protests from 2013 to 2014 saw demonstrators targeting Mezhyhirya, driven by allegations of corruption and improper funding of the estate. The protests intensified following a violent attack on journalist Tetiana Chornovol, who investigated the residence's financing.",
+        "After Yanukovych fled on February 21, 2014, protesters entered the estate, which became a symbol of the revolution, often referred to as 'the main symbol of our revolution.'"
+      ]
+    },
+    {
+      "heading": "Transformation into a Museum",
+      "paragraphs": [
+        "Following Yanukovych's ousting, Mezhyhirya was opened to the public and became known as 'Yanukdisneyland.' Activists worked to maintain the estate, which was officially transferred to state ownership by the [[verkhovna-rada|Ukrainian parliament]] on February 23, 2014.",
+        "By mid-November 2014, Mezhyhirya was established as a museum, although visitor numbers have fluctuated since its opening. The estate has also served as a shelter during the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Mezhyhirya has been featured in [[ukrainian|Ukrainian]] political satire, notably in the series '[[servant-of-the-people|Servant of the People]],' which starred Volodymyr Zelensky, who later became [[president-of-ukraine|President of Ukraine]] in 2019.",
+        "The estate continues to evoke mixed feelings among [[ukrainians|Ukrainians]], with some avoiding it due to its association with Yanukovych, while others utilize its picturesque settings for personal events."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "euromaidan",
+    "president-of-ukraine",
+    "servant-of-the-people",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "verkhovna-rada",
+    "viktor-yanukovych"
+  ],
+  "sources": [
+    {
+      "title": "Mezhyhirya Residence — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mezhyhirya_Residence",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

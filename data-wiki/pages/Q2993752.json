@@ -1,0 +1,76 @@
+{
+  "qid": "Q2993752",
+  "slug": "yevhen-hutsalo",
+  "title": "Yevhen Hutsalo",
+  "type": "human",
+  "category": "culture",
+  "aliases": [
+    "Eugene Hutsalo",
+    "Yevgeny Gutsalo",
+    "Yevhen Pylypovych Hutsalo"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1937-01-14",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1995-07-04",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Staryi Zhyvotiv",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Yevhen Hutsalo was a prominent Ukrainian writer and journalist known for his contributions to literature and his engagement with the socio-political landscape of Ukraine during the 20th century.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Yevhen Hutsalo was born on 14 January 1937 in Staryi Zhyvotiv, [[vinnytsia-oblast|Vinnytsia Oblast]], [[ukraine|Ukraine]]. He completed his education at the Nizhyn Pedagogical Institute, graduating in 1959."
+      ]
+    },
+    {
+      "heading": "Literary Career",
+      "paragraphs": [
+        "Hutsalo began his literary career with his first publication in 1960. Throughout the 1960s, he was recognized as part of the 'shestydesyatnyky' movement, which consisted of writers who opposed the oppressive communist regime in Ukraine. However, he later opted to align himself as an official writer within the system.",
+        "His literary output includes over 25 collections of novellas and short stories, several of which are aimed at children, a trilogy of novels, and three poetry collections. Hutsalo's works are distinguished by their detailed and lyrical depictions of nature, psychological insights, and rich use of rural vernacular."
+      ]
+    },
+    {
+      "heading": "Awards and Recognition",
+      "paragraphs": [
+        "In recognition of his contributions to literature, Hutsalo was awarded the Shevchenko Prize in 1985 and the Antonovych Prize in 1994. His works have left a significant mark on [[ukrainian-literature|Ukrainian literature]]."
+      ]
+    },
+    {
+      "heading": "Legacy",
+      "paragraphs": [
+        "In 2016, a lane in [[kyiv|Kyiv]] formerly named after Field Marshal Mikhail Kutuzov was renamed to honor Yevhen Hutsalo, reflecting his enduring influence and contribution to [[ukrainian|Ukrainian]] culture."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-literature",
+    "vinnytsia-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Yevhen Hutsalo — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yevhen_Hutsalo",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

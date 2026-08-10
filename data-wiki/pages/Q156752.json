@@ -45,7 +45,7 @@
       }
     ]
   },
-  "summary": "Sumy is a city of regional significance located in northeastern Ukraine, serving as the administrative center of Sumy Oblast. Founded in the 1650s by [[cossacks|Cossacks]], Sumy has evolved into a significant industrial and cultural hub in Northern Ukraine, with a population of 256,474 as of 2022.",
+  "summary": "Sumy is a city of regional significance located in northeastern Ukraine, serving as the administrative center of [[sumy-oblast|Sumy Oblast]]. Founded in the 1650s by [[cossacks|Cossacks]], Sumy has evolved into a significant industrial and cultural hub in Northern Ukraine, with a population of 256,474 as of 2022.",
   "sections": [
     {
       "heading": "History",
@@ -92,6 +92,7 @@
   ],
   "links_out": [
     "cossacks",
+    "sumy-oblast",
     "ukraine",
     "ukrainian",
     "ukrainians"

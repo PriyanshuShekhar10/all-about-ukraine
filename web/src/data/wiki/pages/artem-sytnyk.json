@@ -1,0 +1,88 @@
+{
+  "qid": "Q19816563",
+  "slug": "artem-sytnyk",
+  "title": "Artem Sytnyk",
+  "type": "human",
+  "category": "war",
+  "aliases": [
+    "Artem Serhiiovych Sytnyk",
+    "Artem Sytnik",
+    "Artyom Sergeyevich Sytnik",
+    "Artyom Sytnik"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1979-08-19",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Kompaniivka",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Artem Sytnyk is a prominent Ukrainian lawyer and anti-corruption advocate, known for his role as the first director of the National Anti-Corruption Bureau of Ukraine from 2015 to 2022. He has held various significant positions in Ukraine's legal and governmental frameworks, emphasizing the fight against corruption and promoting transparency.",
+  "sections": [
+    {
+      "heading": "Biography",
+      "paragraphs": [
+        "Artem Sytnyk was born on August 19, 1979, in Kompaniivka, [[kirovohrad-oblast|Kirovohrad Oblast]], [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Education",
+      "paragraphs": [
+        "Sytnyk graduated with honors from high school in Kompaniivka. He entered the Yaroslav Mudryi National Law Academy of Ukraine in 1996, where he studied law and graduated with a diploma with honors in 2001."
+      ]
+    },
+    {
+      "heading": "Career in Law Enforcement",
+      "paragraphs": [
+        "Sytnyk began his career in July 2001 as an Assistant Prosecutor at the Leninsky District Prosecutor's Office in [[kropyvnytskyi|Kirovohrad]], quickly advancing to the role of Investigator. He became a Senior Investigator at the Kirovohrad Region Prosecutor's Office in April 2004 and led the Investigative Department from October 2006. He served as Head of the Investigative Unit of the [[kyiv|Kyiv]] Region Prosecutor's Office from 2008 to 2011, investigating over 300 criminal cases, many related to corruption.",
+        "In August 2011, he resigned due to disagreements with the Yanukovych regime's policies and subsequently practiced law until April 2015."
+      ]
+    },
+    {
+      "heading": "Director of NABU",
+      "paragraphs": [
+        "In 2015, Sytnyk won a competitive selection to become the first Director of the National Anti-Corruption Bureau of Ukraine (NABU), a new agency established to combat corruption. He was appointed on April 16, 2015, and focused on building the NABU team through public competitions. Under his leadership, NABU initiated high-profile investigations, including cases involving prominent figures such as Interior Minister [[arsen-avakov|Arsen Avakov]]’s son and oligarch Rinat Akhmetov. Over seven years, more than 800 individuals, including high-ranking officials, were prosecuted for corruption.",
+        "Sytnyk's term as NABU Director ended on April 12, 2022."
+      ]
+    },
+    {
+      "heading": "Role at NACP and Ministry of Defense",
+      "paragraphs": [
+        "Following his tenure at NABU, Sytnyk was appointed Deputy Head of the National Agency on Corruption Prevention (NACP) in 2022, where he implemented financial control mechanisms and lifestyle monitoring for public officials. He was dismissed from this position on June 3, 2024.",
+        "On June 21, 2024, he became the Deputy Director of the Defense Procurement Agency, focusing on internal security and anti-corruption procedures within arms procurement."
+      ]
+    },
+    {
+      "heading": "Civic Engagement and Personal Life",
+      "paragraphs": [
+        "In June 2018, Sytnyk participated in a campaign supporting [[ukrainian|Ukrainian]] filmmaker Oleg Sentsov, who was imprisoned in Russia.",
+        "He is married to Hanna Sytnyk and they have two children."
+      ]
+    }
+  ],
+  "links_out": [
+    "arsen-avakov",
+    "kirovohrad-oblast",
+    "kropyvnytskyi",
+    "kyiv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Artem Sytnyk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Artem_Sytnyk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

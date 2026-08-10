@@ -34,7 +34,7 @@
     {
       "heading": "Geographical Overview",
       "paragraphs": [
-        "The Donbas is situated in the southeastern part of [[ukraine|Ukraine]], bordered by the Donets River to the north and the Azov Upland and Lowland to the south. The region covers approximately 23,000 square kilometers and is characterized by the Donets Ridge, where coal deposits are easily accessible. This area is often referred to as 'Old Donbas', while the surrounding regions, known as 'New Donbas', developed as coal-producing areas after World War II."
+        "The Donbas is situated in the southeastern part of [[ukraine|Ukraine]], bordered by the [[donets|Donets River]] to the north and the Azov Upland and Lowland to the south. The region covers approximately 23,000 square kilometers and is characterized by the Donets Ridge, where coal deposits are easily accessible. This area is often referred to as 'Old Donbas', while the surrounding regions, known as 'New Donbas', developed as coal-producing areas after World War II."
       ]
     },
     {
@@ -64,6 +64,7 @@
   ],
   "links_out": [
     "cossacks",
+    "donets",
     "full-scale-russo-ukrainian-war",
     "kherson",
     "mariupol",

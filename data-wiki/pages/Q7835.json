@@ -42,7 +42,7 @@
       }
     ]
   },
-  "summary": "Crimea is a peninsula located in Eastern Europe, bordered by the Black Sea and the Sea of Azov, and is internationally recognized as part of Ukraine. The region has a complex history marked by various cultures and powers, and has been under Russian occupation since 2014.",
+  "summary": "Crimea is a peninsula located in [[eastern-europe|Eastern Europe]], bordered by the Black Sea and the Sea of Azov, and is internationally recognized as part of Ukraine. The region has a complex history marked by various cultures and powers, and has been under Russian occupation since 2014.",
   "sections": [
     {
       "heading": "Geographical Overview",
@@ -80,6 +80,7 @@
     "crimean-tatars",
     "crimean-war",
     "donetsk",
+    "eastern-europe",
     "sevastopol",
     "ukraine",
     "ukrainian",

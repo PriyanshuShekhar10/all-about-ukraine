@@ -29,13 +29,13 @@
       "heading": "Linguistic Classification",
       "paragraphs": [
         "Ukrainian (українська мова, ukrainska mova) is classified as an East Slavic language, primarily used in [[ukraine|Ukraine]]. It is the first language for a large majority of [[ukrainians|Ukrainians]] and employs the Ukrainian alphabet, a variant of the Cyrillic script.",
-        "The language is studied by institutions such as the National Academy of Sciences of Ukraine and Potebnia Institute of Linguistics. While comparisons are often made between Ukrainian and Russian, Ukrainian shares greater mutual intelligibility with Belarusian and has closer lexical ties with West Slavic Polish and South Slavic Bulgarian."
+        "The language is studied by institutions such as the [[national-academy-of-sciences-of-ukraine|National Academy of Sciences of Ukraine]] and Potebnia Institute of Linguistics. While comparisons are often made between Ukrainian and Russian, Ukrainian shares greater mutual intelligibility with Belarusian and has closer lexical ties with West Slavic Polish and South Slavic Bulgarian."
       ]
     },
     {
       "heading": "Historical Development",
       "paragraphs": [
-        "Ukrainian is a descendant of Old East Slavic, which was spoken during the medieval period of Kievan Rusʹ. In the Grand Duchy of Lithuania, the language evolved into Ruthenian, becoming an official language before undergoing Polonization in the Polish–Lithuanian Commonwealth.",
+        "Ukrainian is a descendant of Old East Slavic, which was spoken during the medieval period of Kievan Rusʹ. In the Grand Duchy of Lithuania, the language evolved into [[ruthenian|Ruthenian]], becoming an official language before undergoing Polonization in the Polish–Lithuanian Commonwealth.",
         "By the 18th century, Ruthenian had diverged into regional variants, leading to the emergence of modern Ukrainian within the territory of contemporary Ukraine. The language faced suppression during the Russification efforts in the Russian Empire and later in the Soviet Union, yet it persisted, particularly in [[western-ukraine|Western Ukraine]]."
       ]
     },
@@ -62,6 +62,8 @@
     }
   ],
   "links_out": [
+    "national-academy-of-sciences-of-ukraine",
+    "ruthenian",
     "ukraine",
     "ukrainians",
     "western-ukraine"

@@ -1,0 +1,84 @@
+{
+  "qid": "Q3573883",
+  "slug": "eastern-galicia",
+  "title": "Eastern Galicia",
+  "type": "historical region",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "historical region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.8419, 24.0315",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Eastern Galicia is a historical region in [[eastern-europe|Eastern Europe]] that forms part of modern-day Western Ukraine and Southeastern Poland. It is significant for its mixed population and its historical ties to both Ukrainian and Polish national identities.",
+  "sections": [
+    {
+      "heading": "Geographical Overview",
+      "paragraphs": [
+        "Eastern Galicia ([[ukrainian|Ukrainian]]: Східна Галичина, Polish: Galicja Wschodnia) is a geographical area that constitutes the eastern segment of the historical region of Galicia, as defined by the Austro-Hungarian Empire. It aligns closely with the historical region known as Red Ruthenia, excluding the Chełm Land.",
+        "The region encompasses parts of present-day [[western-ukraine|Western Ukraine]], specifically the [[lviv|Lviv]] and [[ivano-frankivsk|Ivano-Frankivsk]] Oblasts, and most of [[ternopil-oblast|Ternopil Oblast]]. Additionally, it includes areas in Southeastern Poland, particularly the eastern parts of the Subcarpathian and Lublin Voivodeships.",
+        "Eastern Galicia covers an area of approximately 46,800 km² (18,100 sq miles)."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The region was part of the Austrian Empire from 1772 to 1918, during which it was known as the Kingdom of Galicia and Lodomeria. Following World War I, Eastern Galicia was claimed by the newly established [[west-ukrainian-peoples-republic|West Ukrainian People's Republic]], which faced resistance from the predominantly Polish population in Lviv (then Lwów). This conflict led to the Polish-[[full-scale-russo-ukrainian-war|Ukrainian War]], resulting in Polish control over the entire Galicia region.",
+        "In a subsequent agreement, Symon Petliura, leader of the [[ukrainian-peoples-republic|Ukrainian People's Republic]], ceded Eastern Galicia to Poland in exchange for military support against Soviet forces. The Peace of Riga on 18 March 1921 formally assigned Eastern Galicia to the Second Polish Republic, a decision recognized by the Entente powers on 14 March 1923."
+      ]
+    },
+    {
+      "heading": "Demographics and Cultural Significance",
+      "paragraphs": [
+        "Before World War II, Eastern Galicia had a diverse population, predominantly Ukrainian ([[ruthenian|Ruthenian]]), with a significant Polish plurality in urban centers. Other minorities included Carpatho-Rusyns, Ashkenazi Jews, and Forest Germans. This demographic composition played a crucial role in the region's cultural and social dynamics.",
+        "The Ukrainian population in Eastern Galicia and the adjacent province of Volhynia constituted about 12% of the Second Polish Republic's population, marking them as the largest minority. However, tensions arose due to the Polish government's unfavorable policies towards minorities, which contributed to the emergence of the underground Organization of Ukrainian Nationalists."
+      ]
+    },
+    {
+      "heading": "Post-War Developments",
+      "paragraphs": [
+        "Eastern Galicia was significantly impacted by the post-war Operation Vistula, a Stalinist initiative aimed at eliminating Ukrainian nationalist activities through forced resettlement. This operation disproportionately affected the Lemko minority, many of whom identified as Rusyns rather than [[ukrainians|Ukrainians]], highlighting the complex ethnic identities within the region."
+      ]
+    },
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "The term 'Galicia' is derived from the city of [[halych|Halych]], which served as the first capital of the Galician principality. The name Halych is believed to originate from the Ukrainian word 'halka,' meaning 'female crow,' a reference depicted in the city's historical coat of arms.",
+        "Additionally, some theories suggest that the name may stem from the Greek word ἅλς (hals), meaning 'salt,' reflecting the region's historical significance in salt mining, which was a major export during the early medieval period."
+      ]
+    }
+  ],
+  "links_out": [
+    "eastern-europe",
+    "full-scale-russo-ukrainian-war",
+    "halych",
+    "ivano-frankivsk",
+    "lviv",
+    "ruthenian",
+    "ternopil-oblast",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "ukrainians",
+    "west-ukrainian-peoples-republic",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Eastern Galicia — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eastern_Galicia",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

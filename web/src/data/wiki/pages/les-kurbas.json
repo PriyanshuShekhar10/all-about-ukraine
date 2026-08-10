@@ -1,0 +1,92 @@
+{
+  "qid": "Q1406209",
+  "slug": "les-kurbas",
+  "title": "Les Kurbas",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Aleksandr Kurbas",
+    "Les' Kurbas",
+    "Oleksandr Kurbas",
+    "Oleksandr Stepanovych Kurbas",
+    "Oleksandr-Zenon Stepanovych Kurbas"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1887-02-25",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1937-11-03",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Sambir",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Oleksandr-Zenon Stepanovych Kurbas (25 February 1887 – 3 November 1937) was a significant Ukrainian theater and movie director, recognized as one of the most influential figures in 20th-century Ukrainian theater. He played a pivotal role in the Soviet theater avant-garde and is remembered for his contributions to Ukrainian avant-garde art and the [[executed-renaissance|Executed Renaissance]].",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Kurbas was born in Sambir, which was part of Austria-Hungary, on 25 February 1887, and was given the double name Oleksandr-Zenon, often shortened to Les. His father, Stepan Pylypovych Kurbas, was a [[ruthenian|Ruthenian]] actor of Lithuanian descent, while his mother, Vanda Adolfivna, was also an actress from Staryi Skalat. Kurbas had three siblings, none of whom survived past their teenage years.",
+        "He initially studied at [[ternopil|Ternopil]] gymnasium and later enrolled in the Philosophy Department of the University of Vienna in 1907. Following his father's death in 1908, he transferred to [[lviv|Lviv]] University, where he sought to advance [[ukrainian|Ukrainian]] culture, which had suffered under Polish and Russian occupation."
+      ]
+    },
+    {
+      "heading": "Theatrical Contributions",
+      "paragraphs": [
+        "During World War I, Kurbas established the 'Ternopil theatrical evenings' and the Molody Teatr (Young Theater) in [[kyiv|Kyiv]] in 1916, which was notable for its innovative acting techniques. He directed acclaimed productions including Gogol's Revizor and Sophocles' Oedipus Rex. However, the ensemble disbanded due to resource shortages and political instability.",
+        "Kurbas founded the Kyiv Drama Theater 'Kiydramte' in 1920–21 and later produced Haydamaks, based on [[taras-shevchenko|Taras Shevchenko]]'s poem about the 18th-century Ukrainian uprising against Polish rule, which became a landmark production in Ukrainian theater."
+      ]
+    },
+    {
+      "heading": "Berezil Theater",
+      "paragraphs": [
+        "In 1922, Kurbas established the 'Berezil' Theater in Kyiv, inviting Vadym Meller as the chief artist. The theater was not only a performance space but also a research institution that trained numerous future Ukrainian actors and directors. Kurbas emphasized a scientific approach to theater, integrating various acting techniques and rhythmic organization in his productions.",
+        "The theater faced challenges in sourcing suitable plays, yet Kurbas's innovative staging of works like 'Gas' by Georg Kaiser and 'Jimmy Higgins' by Upton Sinclair showcased his expressionistic techniques. His collaboration with playwright Mykola Kulish led to significant productions that, while artistically groundbreaking, attracted the ire of Soviet authorities."
+      ]
+    },
+    {
+      "heading": "Imprisonment and Execution",
+      "paragraphs": [
+        "In 1933, Kurbas was removed from 'Berezil' and subsequently arrested, later being sent to a labor camp. Despite harsh conditions, he maintained his passion for theater by organizing performances within the camp. Kurbas was eventually transferred to the Solovetsky Islands and was executed on 3 November 1937, alongside numerous other members of the Ukrainian intelligentsia, as part of [[donetsk|Stalin]]'s Great Terror.",
+        "His execution was part of a broader campaign against cultural figures, and he was posthumously rehabilitated in 1957."
+      ]
+    },
+    {
+      "heading": "Legacy",
+      "paragraphs": [
+        "The 'Berezil' Theater continued under the name of 'Shevchenko Theater,' with Kurbas's influence persisting despite the need for artistic compromises. His contributions to theater were largely overlooked until the 1960s, with significant research on his work beginning in the late 1980s in [[ukraine|Ukraine]].",
+        "The Les Kurbas Prize, a theater award in Ukraine, is named in his honor, recognizing his enduring impact on Ukrainian theater and culture."
+      ]
+    }
+  ],
+  "links_out": [
+    "donetsk",
+    "executed-renaissance",
+    "kyiv",
+    "lviv",
+    "ruthenian",
+    "taras-shevchenko",
+    "ternopil",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Les Kurbas — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Les_Kurbas",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

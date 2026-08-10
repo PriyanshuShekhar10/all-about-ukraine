@@ -1,0 +1,81 @@
+{
+  "qid": "Q377788",
+  "slug": "astarta-holding",
+  "title": "Astarta Holding",
+  "type": "business",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "business",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1993",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Astarta Holding is a vertically integrated agro-industrial holding company based in Ukraine, established in March 1993. It specializes in various agricultural sectors, including crop production, sugar manufacturing, and livestock farming, while also engaging in global markets.",
+  "sections": [
+    {
+      "heading": "Company Overview",
+      "paragraphs": [
+        "Astarta Holding, also known as Astarta-[[kyiv|Kyiv]] and Astarta Holding PLC, is a public European company that operates as a vertically integrated agro-industrial holding in [[ukraine|Ukraine]]. Founded by Viktor Ivanchyk in March 1993, he has served as CEO since its inception. The company focuses on producing food products and has its shares listed on the Warsaw Stock Exchange since 2006 under the ticker AST."
+      ]
+    },
+    {
+      "heading": "Core Activities",
+      "paragraphs": [
+        "Astarta's primary operations include crop production, sugar production, dairy and meat farming, soybean processing, grain logistics, and bioenergy. The company manages approximately 213 thousand hectares of agricultural land across seven regions in Ukraine, producing key crops such as sugar beet, soybeans, rapeseed, wheat, corn, and sunflower. Its annual production includes up to two million tonnes of sugar beet and one million tonnes of grains and oilseeds.",
+        "In sugar production, Astarta operates refineries in the [[poltava|Poltava]], [[vinnytsia|Vinnytsia]], and Khmelnytsky regions, producing between 250,000 and 500,000 tonnes of sugar annually. The company also processes soybeans at its Globinsky plant, with a capacity of 230 thousand tonnes, producing high-protein meal and unrefined oil.",
+        "Astarta is recognized as Ukraine's largest industrial milk producer, generating 119,000 tonnes of milk annually from a cattle population exceeding 30,000 head. Additionally, the company owns a bioenergy complex capable of producing over 50 million m3 of biogas per year."
+      ]
+    },
+    {
+      "heading": "Historical Timeline",
+      "paragraphs": [
+        "Astarta-Kyiv was established on March 2, 1993, in Kyiv, Ukraine. In April 1994, the company signed a significant contract for energy supply to [[ukrainian|Ukrainian]] sugar factories in exchange for sugar. It expanded into agricultural production with its first subsidiary in Poltava in 1997 and became a shareholder of Ukraine's first sugar plant in 1999.",
+        "The company underwent significant growth from 2003 to 2005, acquiring four additional sugar plants. In 2006, Astarta Holding N.V. was established under Dutch law, and it went public on the Warsaw Stock Exchange later that year. The company has continued to expand its operations and investments in various sectors, including launching a soybean processing plant in 2014 and establishing an IT company in 2017."
+      ]
+    },
+    {
+      "heading": "Sustainability and Social Responsibility",
+      "paragraphs": [
+        "Astarta is committed to sustainable development, actively implementing programs in energy efficiency, environmental protection, and corporate governance. The company joined the UN Global Compact in 2008 and has published non-financial reports since 2017, adhering to GRI standards.",
+        "In response to the ongoing conflict in Ukraine, Astarta initiated the humanitarian project Common Help Ukraine in March 2022, collaborating with various partners to assist over 831,000 individuals affected by the war. The company has also launched entrepreneurial programs aimed at supporting local businesses and fostering community resilience."
+      ]
+    },
+    {
+      "heading": "Digital Innovations",
+      "paragraphs": [
+        "In 2017, Astarta established AgriChain, an in-house IT company focused on developing a digital agribusiness management system. This system automates various business processes and has been made available to other agricultural companies since 2020. Astarta's digital initiatives have garnered recognition, including being ranked among the Top 30 Digitalization Champions in Ukraine by Forbes and KPMG in 2024."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "poltava",
+    "ukraine",
+    "ukrainian",
+    "vinnytsia"
+  ],
+  "sources": [
+    {
+      "title": "Astarta Holding — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Astarta_Holding",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

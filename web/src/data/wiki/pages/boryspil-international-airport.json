@@ -1,0 +1,85 @@
+{
+  "qid": "Q477677",
+  "slug": "boryspil-international-airport",
+  "title": "Boryspil International Airport",
+  "type": "international airport",
+  "category": "economy",
+  "aliases": [
+    "KBP",
+    "Kyiv Boryspil",
+    "Kyiv International Airport",
+    "UKBB"
+  ],
+  "infobox": {
+    "label": "international airport",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1959",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "427",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.3447, 30.8933",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Boryspil International Airport, located in Boryspil, Ukraine, is the country's largest airport and a crucial hub for international air traffic, especially before the onset of the Russian invasion in 2022. It has played a significant role in connecting Ukraine to global destinations and facilitating passenger travel.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Boryspil International Airport ([[ukrainian|Ukrainian]]: Міжнародний аеропорт «Бориспіль») (IATA: KBP, ICAO: UKBB), also referred to as Kyiv Boryspil Airport, is situated 29 km (18 mi) east of [[kyiv|Kyiv]], the capital of [[ukraine|Ukraine]]. Prior to the Russian invasion, it accounted for 65% of Ukraine's passenger air traffic, including all intercontinental flights and a significant portion of international flights."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The establishment of regular civil air traffic at [[boryspil|Boryspil]] began on 22 June 1959, initiated by the Council of Ministers of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]. The airport, initially named Kyiv-Tsentralnyi, welcomed its first scheduled flight on 7 July 1959, operated by Aeroflot from Moscow.",
+        "In November 1960, the first permanent air group was assigned to the airport, and a new passenger terminal was opened in 1965. The airport expanded its operations significantly during the 1960s and 1970s, and by the 1980s, it began receiving limited international flights.",
+        "Following Ukraine's independence in 1991, the airport underwent reorganization and modernization, transforming into Boryspil State International Airport. A significant renovation took place in the early 2000s, and by 2008, it was one of [[eastern-europe|Eastern Europe]]'s largest airports, handling over 6 million passengers."
+      ]
+    },
+    {
+      "heading": "Operations Suspension",
+      "paragraphs": [
+        "On 24 February 2022, due to the Russian invasion, Ukraine closed its airspace to civilian flights, resulting in the suspension of operations at Boryspil International Airport. The airport was subsequently targeted by Russian missiles, and as of August 2025, commercial air travel across Ukraine remains suspended."
+      ]
+    },
+    {
+      "heading": "Terminals and Infrastructure",
+      "paragraphs": [
+        "Boryspil International Airport features two operational passenger terminals, D and F, along with a cargo terminal and a VIP terminal. Terminal A was closed in 2011, with domestic operations transferred to Terminal B.",
+        "Terminal D, opened on 28 May 2012, serves both domestic and international flights and is designed to handle a high volume of passengers efficiently. Terminal F, which caters primarily to low-cost carriers, was opened on 21 September 2010 and has since been utilized for various airlines, including Ryanair."
+      ]
+    }
+  ],
+  "links_out": [
+    "boryspil",
+    "eastern-europe",
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Boryspil International Airport — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boryspil_International_Airport",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

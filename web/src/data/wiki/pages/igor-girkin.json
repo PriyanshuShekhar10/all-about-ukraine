@@ -1,0 +1,84 @@
+{
+  "qid": "Q16474356",
+  "slug": "igor-girkin",
+  "title": "Igor Girkin",
+  "type": "human",
+  "category": "war",
+  "aliases": [
+    "Igor Ivanovich Strelkov",
+    "Igor Strelkov",
+    "Igor Vsevolodovich Girkin",
+    "Sergey Runov",
+    "Sergey Viktorovich Runov"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1970-12-17",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Moscow",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "Minister of Defence of the Donetsk People's Republic",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Igor Vsevolodovich Girkin, also known as Igor Ivanovich Strelkov, is a Russian military veteran and former Federal Security Service officer who played a significant role in the Russian annexation of Crimea and the subsequent conflict in eastern Ukraine, particularly in the [[donbas|Donbas]] region. His actions have led to multiple international sanctions and a life sentence in absentia for his involvement in the downing of Malaysia Airlines Flight 17.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Igor Girkin was born in Moscow, Russia, on 17 December 1970. He developed a strong ideological stance during his time at the Moscow State Institute for History and Archives, where he was particularly interested in military history and advocated for a return to monarchism.",
+        "In the 1990s, Girkin contributed to the right-wing newspaper Zavtra, which was associated with anti-Semitic nationalist Alexander Prokhanov. He covered various military conflicts, including the Russian war against separatists in Chechnya and Dagestan."
+      ]
+    },
+    {
+      "heading": "FSB Service",
+      "paragraphs": [
+        "Girkin served in the Russian Federal Security Service (FSB) from 1996 until his retirement in 2013, including participation in counter-terrorism operations in Chechnya. His military background includes involvement in conflicts in Moldova's breakaway region of Transnistria and the Bosnian War.",
+        "He has been linked to human rights abuses during the Chechen Wars, with allegations of forced disappearances and murders of civilians in Chechnya."
+      ]
+    },
+    {
+      "heading": "Annexation of Crimea and Donbas War",
+      "paragraphs": [
+        "Following the [[ukrainian-war-of-independence|Ukrainian revolution]] in February 2014, Girkin played a pivotal role in the [[russian-annexation-of-crimea|annexation of Crimea]]. He was invited to [[crimea|Crimea]] by local pro-Russian politicians to serve as a security advisor, where he coordinated militias and was involved in the occupation of key government buildings.",
+        "On 12 April 2014, Girkin led armed militants in the capture of Sloviansk, which marked the beginning of the [[war-in-donbas|Donbas War]]. His actions in this conflict led to his appointment as Minister of Defense in the self-proclaimed [[donetsk-peoples-republic|Donetsk People's Republic]], a position from which he was later dismissed after the downing of Malaysia Airlines Flight 17."
+      ]
+    },
+    {
+      "heading": "Legal Consequences and Recent Developments",
+      "paragraphs": [
+        "Girkin was charged with terrorism by [[ukrainian|Ukrainian]] authorities and sanctioned by multiple countries due to his prominent role in the conflict. He received a life sentence in absentia in the Netherlands for his involvement in the downing of Malaysia Airlines Flight 17, which resulted in the deaths of 298 civilians.",
+        "In 2024, Girkin was convicted of inciting extremism in Russia and sentenced to four years in prison. His political activism has continued, with a focus on criticizing the Russian military and advocating for a more aggressive approach in [[ukraine|Ukraine]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "donbas",
+    "donetsk-peoples-republic",
+    "russian-annexation-of-crimea",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-war-of-independence",
+    "war-in-donbas"
+  ],
+  "sources": [
+    {
+      "title": "Igor Girkin — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Igor_Girkin",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

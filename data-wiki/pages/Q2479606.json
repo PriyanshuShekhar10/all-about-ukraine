@@ -18,7 +18,7 @@
       }
     ]
   },
-  "summary": "The Ukrainian War of Independence, also known as the Ukrainian–Soviet War, occurred from March 1917 to November 1921, forming a significant part of the Russian Civil War and leading to the establishment of an independent Ukrainian republic. This conflict involved various factions vying for control over Ukraine, ultimately resulting in the incorporation of much of the territory into the Ukrainian Soviet Socialist Republic.",
+  "summary": "The Ukrainian War of Independence, also known as the [[ukrainiansoviet-war|Ukrainian–Soviet War]], occurred from March 1917 to November 1921, forming a significant part of the Russian Civil War and leading to the establishment of an independent Ukrainian republic. This conflict involved various factions vying for control over Ukraine, ultimately resulting in the incorporation of much of the territory into the Ukrainian Soviet Socialist Republic.",
   "sections": [
     {
       "heading": "Background",
@@ -29,7 +29,7 @@
     {
       "heading": "Outbreak of Fighting (1917–1918)",
       "paragraphs": [
-        "The authority of the Central Rada was limited to urban areas, and it faced both external threats and internal uprisings. In late December 1917, the Communist Party of Ukraine established the [[donetsk|Donetsk]]–[[kryvyi-rih|Krivoy Rog]] Soviet Republic in [[kharkiv|Kharkiv]]. The Bolsheviks advanced through Ukraine, capturing major cities including Kyiv on February 9, 1918, leading to a retreat of the Central Rada ministers."
+        "The authority of the Central Rada was limited to urban areas, and it faced both external threats and internal uprisings. In late December 1917, the Communist Party of Ukraine established the [[donetsk|Donetsk]]–[[kryvyi-rih|Krivoy Rog]] Soviet Republic in [[kharkiv-oblast|Kharkiv]]. The Bolsheviks advanced through Ukraine, capturing major cities including Kyiv on February 9, 1918, leading to a retreat of the Central Rada ministers."
       ]
     },
     {
@@ -53,15 +53,16 @@
     {
       "heading": "Resumed Hostilities (1919)",
       "paragraphs": [
-        "After Germany's defeat, Lenin's government annulled the Treaty of Brest-Litovsk and invaded Ukraine. The Ukrainian People's Republic, under Symon Petliura, faced a renewed Bolshevik offensive, leading to Kyiv's recapture by the Red Army on February 5, 1919, and the re-establishment of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]], forcing the UPR to retreat into Eastern Galicia."
+        "After Germany's defeat, Lenin's government annulled the Treaty of Brest-Litovsk and invaded Ukraine. The Ukrainian People's Republic, under Symon Petliura, faced a renewed Bolshevik offensive, leading to Kyiv's recapture by the Red Army on February 5, 1919, and the re-establishment of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]], forcing the UPR to retreat into [[eastern-galicia|Eastern Galicia]]."
       ]
     }
   ],
   "links_out": [
     "donetsk",
+    "eastern-galicia",
     "full-scale-russo-ukrainian-war",
     "hetman",
-    "kharkiv",
+    "kharkiv-oblast",
     "kryvyi-rih",
     "kyiv",
     "lviv",
@@ -70,6 +71,7 @@
     "ukrainian",
     "ukrainian-peoples-republic",
     "ukrainian-soviet-socialist-republic",
+    "ukrainiansoviet-war",
     "verkhovna-rada"
   ],
   "sources": [

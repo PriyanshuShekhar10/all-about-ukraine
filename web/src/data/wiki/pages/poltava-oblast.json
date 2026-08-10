@@ -1,0 +1,121 @@
+{
+  "qid": "Q169501",
+  "slug": "poltava-oblast",
+  "title": "Poltava Oblast",
+  "type": "oblast of Ukraine",
+  "category": "people",
+  "aliases": [
+    "Poltavska oblast"
+  ],
+  "infobox": {
+    "label": "oblast of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1937-09-22",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Poltava",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "1,426,800",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "28,748",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Head of government",
+        "value": "Valerii Holovko, Viktor Bugaychuk",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.5894, 34.5514",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Poltava Oblast, known as Poltavshchyna, is a province located in central Ukraine, with its administrative center in the city of Poltava. The oblast, which has a population of approximately 1,352,283 as of 2022, is historically significant as part of the Cossack Hetmanate and plays a crucial role in Ukraine's cultural and economic landscape.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Poltava Oblast was formed on 22 September 1937 following a resolution by the Central Executive Committee of the Soviet Union. Its establishment was based on districts from [[kharkiv-oblast|Kharkiv Oblast]] and some from [[kyiv|Kyiv]] Oblast, aligning with the historical boundaries of the [[poltava|Poltava]] Governorate, which existed from 1802 to 1925.",
+        "During the occupation by Nazi Germany from 1941 to 1943, much of the region fell under the Kiew Generalbezirke, while other parts were designated as military rear areas. After the German withdrawal, the oblast was restored to its previous borders, although it lost some territory to the newly established [[cherkasy|Cherkasy]] Oblast in the 1950s, and additional areas were submerged due to the creation of the [[kremenchuk-reservoir|Kremenchuk Reservoir]] in 1959.",
+        "In 2020, Poltava Oblast underwent administrative reform, resulting in a reduction of its raions by increasing their size. During the ongoing Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], the town of Myrhorod experienced bombing, but the oblast remains under [[ukrainian|Ukrainian]] control without ground fighting."
+      ]
+    },
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Poltava Oblast is located in central [[ukraine|Ukraine]], primarily on the left bank of the [[dnieper|Dnieper River]]. The region, historically part of the [[cossack-hetmanate|Cossack Hetmanate]], covers an area of 28,800 km² and shares borders with [[chernihiv|Chernihiv]], [[sumy|Sumy]], Kharkiv, [[dnipro|Dnipropetrovsk]], [[kropyvnytskyi|Kirovohrad]], Cherkasy, and Kyiv oblasts. The terrain is mostly gently undulating, with the Dnieper River being the most significant geographical feature."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "As per the 2001 Ukrainian census, ethnic [[ukrainians|Ukrainians]] comprised 91.4% of Poltava Oblast's population, while ethnic Russians accounted for 7.2%. In 2018, the population was estimated at 1,400,000, with a density of 49 individuals per square kilometer.",
+        "The linguistic landscape has been influenced by historical Russification, leading to a decrease in Ukrainian speakers, although Ukrainian remains the sole official language. A 2018 poll indicated that 80% of residents supported Ukrainian as the only state language, while a 2024 program was approved to promote the Ukrainian language in public life."
+      ]
+    },
+    {
+      "heading": "Points of Interest",
+      "paragraphs": [
+        "Poltava Oblast is home to several historic and cultural sites nominated for the Seven Wonders of Ukraine, including the Gogol Museum-Reserve, Kotliarevsky Museum and Manor, Saint Nicholas Church, Poltava Museum of Local Lore, and Exaltation of the Holy Cross Monastery. The region also features the site of the Battle of Poltava and the Bilsk hillfort, with Opishnia recognized for its decorative ceramics and the National Museum-Reserve of Ukrainian Pottery."
+      ]
+    },
+    {
+      "heading": "Economy",
+      "paragraphs": [
+        "Poltava Oblast is a significant center for Ukraine's oil and natural gas industry, hosting numerous wells and pipelines. The city of Kremenchuk is notable for its major oil refinery, and there are important iron ore processing facilities in the region. The oblast comprises 374 large industrial organizations and 618 small industrial enterprises.",
+        "In terms of agriculture, in 1999, the region produced approximately 14,529 thousand tons of grain, 1,002,900 tons of sugar beets, and 166,200 tons of sunflower seeds, along with significant quantities of meat, milk, and eggs. At the beginning of 1999, there were 1,311 registered farms in Poltava Oblast."
+      ]
+    },
+    {
+      "heading": "Administrative Divisions",
+      "paragraphs": [
+        "Poltava Oblast is administratively divided into 4 districts and 60 hromadas, with governance managed by the Poltava Oblast [[verkhovna-rada|Rada]]. The governor is the speaker of the Oblast Rada, appointed by the [[president-of-ukraine|President of Ukraine]]. The oblast's administrative structure includes one administrative center in Poltava, four raions, and 60 hromadas. Following the administrative reform on 18 July 2020, the raions were streamlined to Kremenchuk Raion, Lubny Raion, Myrhorod Raion, and Poltava Raion."
+      ]
+    }
+  ],
+  "links_out": [
+    "cherkasy",
+    "chernihiv",
+    "cossack-hetmanate",
+    "dnieper",
+    "dnipro",
+    "full-scale-russo-ukrainian-war",
+    "kharkiv-oblast",
+    "kremenchuk-reservoir",
+    "kropyvnytskyi",
+    "kyiv",
+    "poltava",
+    "president-of-ukraine",
+    "sumy",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Poltava Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Poltava_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

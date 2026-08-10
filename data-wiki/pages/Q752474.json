@@ -1,0 +1,77 @@
+{
+  "qid": "Q752474",
+  "slug": "ukrainian-orthodox-church-moscow-patriarchate",
+  "title": "Ukrainian Orthodox Church (Moscow Patriarchate)",
+  "type": "Christian denomination",
+  "category": "politics",
+  "aliases": [
+    "UOC",
+    "UOC-MP",
+    "Ukrainian Orthodox Church of the Moscow Patriarchate"
+  ],
+  "infobox": {
+    "label": "Christian denomination",
+    "fields": [
+      {
+        "label": "Headquarters",
+        "value": "Refectory Church",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Ukrainian Orthodox Church (UOC), often referred to as the Ukrainian Orthodox Church of the Moscow Patriarchate (UOC-MP), is an Eastern Orthodox church in Ukraine that has undergone significant changes in its governance and identity, particularly in response to geopolitical events. Established in 1990, the UOC declared its independence from the Moscow Patriarchate in May 2022 amidst the backdrop of the Russian invasion of Ukraine.",
+  "sections": [
+    {
+      "heading": "Formation and Independence",
+      "paragraphs": [
+        "The [[ukrainian-orthodox-church|Ukrainian Orthodox Church]] was officially established in 1990 as the successor to the [[ukrainian|Ukrainian]] Exarchate of the Russian Orthodox Church (ROC), serving as the Ukrainian branch of the ROC. On 27 May 2022, during a council held in [[kyiv|Kyiv]], the UOC announced its full independence and autonomy from the Moscow Patriarchate, a decision influenced by the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] that began in February 2022 and the support for the invasion expressed by Patriarch Kirill of the Russian Orthodox Church."
+      ]
+    },
+    {
+      "heading": "Name and Registration",
+      "paragraphs": [
+        "The UOC insists on being referred to simply as the Ukrainian Orthodox Church, asserting its status as the sole canonical body of Orthodox Christians in [[ukraine|Ukraine]], and rejecting any labels that associate it with 'Russian' or 'Moscow'. The church is officially registered with the State Committee of Religious Affairs in Ukraine under this name. Following the establishment of the Orthodox Church of Ukraine (OCU) on 15 December 2018, the [[verkhovna-rada|Ukrainian parliament]] mandated that the UOC-MP must include its affiliation in its official name, a directive that was contested by its adherents. However, on 11 December 2019, the Supreme Court of Ukraine ruled that the UOC could retain its name, emphasizing its governance from Kyiv rather than Moscow."
+      ]
+    },
+    {
+      "heading": "Relationship with the Russian Orthodox Church",
+      "paragraphs": [
+        "Prior to the full-scale invasion in February 2022, the UOC was considered a 'self-governing' church under the jurisdiction of the Moscow Patriarchate. Following its declaration of independence in May 2022, the UOC claimed to have removed any provisions indicating a connection with Moscow, although the ROC continues to categorize the UOC-MP as a self-governing church with wide autonomy. The ROC has disregarded the UOC's assertions of independence and has included UOC-MP clerics in its commissions. Despite the [[russian-annexation-of-crimea|annexation of Crimea by Russia]] in 2014, the UOC maintained administration over its eparchies in [[crimea|Crimea]] until June 2022 when the Moscow Patriarchate claimed jurisdiction over them."
+      ]
+    },
+    {
+      "heading": "Legal Developments and Political Context",
+      "paragraphs": [
+        "On 20 August 2024, the Ukrainian parliament enacted the Law of Ukraine 'On the Protection of the Constitutional Order in the Field of Activities of Religious Organizations', which effectively banned the Russian Orthodox Church in Ukraine. This law required religious organizations affiliated with the ROC to sever ties with the Moscow Patriarchate within nine months, aligning with the Canon law of the Eastern Orthodox Church. In December 2022, the [[constitutional-court-of-ukraine|Constitutional Court of Ukraine]] mandated the UOC to change its name to reflect its affiliation with Russia, based on a ruling from the European Court of Human Rights."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The UOC traces its lineage to the Metropolis of Kiev and all Rus', established in the 10th century. Throughout history, it has faced numerous shifts in jurisdiction, particularly following the transfer of the [[cossack-hetmanate|Cossack Hetmanate]] to Russian sovereignty in 1654, which led to the UOC being placed under the Moscow Patriarchate. The church's historical narrative includes significant events such as the Union of Brest in 1596, which resulted in the formation of the [[ukrainian-greek-catholic-church|Ukrainian Greek Catholic Church]], and the eventual re-establishment of Orthodox dioceses under the Ecumenical Patriarchate of Constantinople."
+      ]
+    }
+  ],
+  "links_out": [
+    "constitutional-court-of-ukraine",
+    "cossack-hetmanate",
+    "crimea",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "russian-annexation-of-crimea",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-greek-catholic-church",
+    "ukrainian-orthodox-church",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Orthodox Church (Moscow Patriarchate) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Orthodox_Church_(Moscow_Patriarchate)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

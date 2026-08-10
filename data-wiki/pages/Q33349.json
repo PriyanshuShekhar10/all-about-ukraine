@@ -53,7 +53,7 @@
     {
       "heading": "Geography and Demographics",
       "paragraphs": [
-        "Melitopol is positioned on the Molochna River, which flows into the Molochnyi Lyman estuary. It is the second-largest city in [[zaporizhzhia|Zaporizhzhia]] Oblast, following Zaporizhzhia, and serves as the administrative center of Melitopol Raion. The city is strategically located at the intersection of two major European highways: E58 and E105. According to the 2001 [[ukrainian|Ukrainian]] census, the population of Melitopol was 160,352, with [[ukrainians|Ukrainians]] constituting 55.2%, Russians 38.9%, and Bulgarians 1.8%."
+        "Melitopol is positioned on the Molochna River, which flows into the Molochnyi Lyman estuary. It is the second-largest city in [[zaporizhzhia-oblast|Zaporizhzhia Oblast]], following [[zaporizhzhia|Zaporizhzhia]], and serves as the administrative center of Melitopol Raion. The city is strategically located at the intersection of two major European highways: E58 and E105. According to the 2001 [[ukrainian|Ukrainian]] census, the population of Melitopol was 160,352, with [[ukrainians|Ukrainians]] constituting 55.2%, Russians 38.9%, and Bulgarians 1.8%."
       ]
     },
     {
@@ -88,7 +88,8 @@
     "ukraine",
     "ukrainian",
     "ukrainians",
-    "zaporizhzhia"
+    "zaporizhzhia",
+    "zaporizhzhia-oblast"
   ],
   "sources": [
     {

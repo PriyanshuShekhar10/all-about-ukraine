@@ -1,0 +1,114 @@
+{
+  "qid": "Q166709",
+  "slug": "vinnytsia-oblast",
+  "title": "Vinnytsia Oblast",
+  "type": "oblast of Ukraine",
+  "category": "people",
+  "aliases": [
+    "UP23",
+    "Vinnica oblast",
+    "Vinnitsa Oblast",
+    "Vinnitskaya Oblast'",
+    "Vinnychchyna",
+    "Vinnyts'ka Oblast'",
+    "Vinnytska Oblast"
+  ],
+  "infobox": {
+    "label": "oblast of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1932-02-27",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Vinnytsia",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "1,602,163",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "26,513",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Head of government",
+        "value": "Vladyslav Skalsky, Serhiy Borzov",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.9333, 28.6833",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Vinnytsia Oblast is an administrative region in central Ukraine, with its capital in the city of Vinnytsia. As of 2022, it has a population of approximately 1.5 million residents and is rich in historical, geographical, and economic significance.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Vinnytsia Oblast was established on February 27, 1932, incorporating regions from several former okruhas of [[ukraine|Ukraine]]. These included Uman, Berdychiv, [[vinnytsia|Vinnytsia]], Mohyliv, Tulchyn, Shepetivka, Proskuriv, and Kamianets Okruhas.",
+        "In 1935, adjacent territories were reorganized into Soviet border districts, specifically Shepetivka Okrug, Proskuriv Okrug, and Kamianets Okrug, which led to the formation of Kamianets Oblast in 1937, later known as Khmelnytsky Oblast.",
+        "During World War II, the territory of Vinnytsia Oblast was divided by occupying Axis powers between the General District Shitomir and the Transnistria Governorate of Romania. In October 1941, a concentration camp was established by the Romanians, primarily detaining Jewish individuals."
+      ]
+    },
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Vinnytsia Oblast is situated in the historic regions of [[podolia|Podolia]] and Right-bank Ukraine, sharing borders with seven other [[ukrainian|Ukrainian]] administrative oblasts. The [[dniester|Dniester]] River flows along the southwest boundary of the oblast, which also includes a 202 km long section of the state border with Moldova.",
+        "The region is notable for its mineral resources, featuring 1,159 deposits of various minerals, including the world's largest kaolin deposits, estimated at 800 million tons. Additionally, medicinal mineral springs with health benefits similar to those found in Khmilnyk have been identified.",
+        "Vinnytsia is unique in Ukraine for its large pelicanite resources, with 39 deposits totaling about 170 million tons. The region also has lignite deposits suitable for energy production, with approximately 50 million tons preliminarily explored."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "According to the 2001 Ukrainian census, ethnic [[ukrainians|Ukrainians]] made up 94.9% of Vinnytsia Oblast's population, while ethnic Russians constituted 3.8%.",
+        "In terms of language, Ukrainian is the sole official language of the oblast. A 2018 poll indicated that 75% of residents supported the idea of Ukrainian as the only state language in Ukraine. The oblast has also seen a gradual increase in the use of Ukrainian in education and social media.",
+        "As of the 2023-2024 school year, all pupils in general secondary education institutions in Vinnytsia Oblast were studying in classes where Ukrainian was the language of instruction."
+      ]
+    },
+    {
+      "heading": "Historical Sites",
+      "paragraphs": [
+        "Vinnytsia Oblast is home to several historical sites that attract both domestic and international tourists. Notable locations include St. Pokrovsky Orthodox Church, St. Anna Roman Catholic Cathedral, and the Old Fortress in Bar.",
+        "The Villa of Mykola Pyrogov and the Nemyriv Scythian settlement are among the sites nominated for the Seven Wonders of Ukraine. The region is also known for its folk icon-painting tradition, with collections housed in local museums."
+      ]
+    },
+    {
+      "heading": "Economics",
+      "paragraphs": [
+        "Vinnytsia Oblast has a diverse industrial base with approximately 400 functioning enterprises across various sectors, including food production, machine building, and chemical industries. The oblast accounts for 12.7% of Ukraine's industrial production potential.",
+        "Agriculture is a significant part of the economy, with a total farmland area of 19,605 square kilometers, where arable lands cover 16,940 km². The region specializes in the cultivation of cereal crops and sugar beets, as well as animal husbandry."
+      ]
+    }
+  ],
+  "links_out": [
+    "dniester",
+    "podolia",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "vinnytsia"
+  ],
+  "sources": [
+    {
+      "title": "Vinnytsia Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vinnytsia_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

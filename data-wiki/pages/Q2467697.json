@@ -1,0 +1,76 @@
+{
+  "qid": "Q2467697",
+  "slug": "religion-in-ukraine",
+  "title": "religion in Ukraine",
+  "type": "religion of an area",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "religion of an area",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Religion in Ukraine is predominantly Christian, with 85% of the population identifying as Christian as of 2022. The landscape of religious affiliation is marked by a significant presence of Eastern Orthodoxy and Catholicism, alongside smaller religious communities.",
+  "sections": [
+    {
+      "heading": "Christianity in Ukraine",
+      "paragraphs": [
+        "Christianity is the dominant religion in Ukraine, with 85% of the population identifying as Christian according to a 2022 survey by the [[kyiv|Kyiv]] International Institute of Sociology (KIIS). Of these, 72% adhere to Eastern Orthodoxy, with 54% belonging to the autocephalous Orthodox Church of [[ukraine|Ukraine]], 14% identifying as Orthodox Christians without specific church affiliation, and 4% associated with the Moscow Patriarchate.",
+        "Additionally, 9% of [[ukrainians|Ukrainians]] profess allegiance to the Catholic Church, including 8% who are [[ukrainian|Ukrainian]] Greek Catholics and 1% who are Latin Catholics. Furthermore, 2% of the population belong to a mainstream Protestant Church, while another 2% identify with alternative sects of Christianity."
+      ]
+    },
+    {
+      "heading": "Religious Demographics",
+      "paragraphs": [
+        "In 2022, a notable 10% of Ukrainians identified as atheists. Surveys conducted by KIIS from 2020 to 2022 indicated that 0% of respondents identified with Judaism and Islam, while an earlier survey by the Razumkov Center in 2018 estimated that Jews made up 0.4% of the population. Minorities practicing Hinduism, Buddhism, and Paganism (Rodnovery) were each recorded at 0.1%.",
+        "The proportion of believers in Ukraine has fluctuated, decreasing from 76% in 2014 to 70% in 2016 and rising again to 72% in 2018."
+      ]
+    },
+    {
+      "heading": "Regional Variations",
+      "paragraphs": [
+        "Christianity is particularly strong in the western [[administrative-territorial-entity-of-ukraine|regions of Ukraine]], where the majority of Greek Catholics reside. In contrast, central, southern, and eastern regions exhibit a lower proportion of Christians, especially in the easternmost [[donbas|Donbas]] region. The presence of Rodnovery, a Slavic native faith, is also noted in Ukraine, with communities using both Ukrainian and Russian languages.",
+        "In [[crimea|Crimea]], prior to its occupation by Russia in 2014, [[crimean-tatars|Crimean Tatars]], who practice Islam, represented a significant portion of the population. As of 2016, without Crimea, Donbas maintained the largest Muslim community in Ukraine at 6%."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The religious landscape of Ukraine has evolved significantly over time. In pre-historic and early medieval periods, various tribes practiced traditional pagan religions. Byzantine Rite Christianity became prominent around the first millennium, with significant figures such as Saint Olga converting to Eastern Orthodoxy in the 10th century.",
+        "Judaism has been present in the region for approximately 2,000 years, with notable growth in the Ashkenazi Jewish population from the 13th century onward. The introduction of Islam occurred through the Golden Horde and the Ottoman Empire, with the Crimean Tatars adopting Islam as their state religion."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "Since the conflict in Donbas began in 2014, tensions have escalated between pro-Ukrainian and pro-Russian religious groups. Following the 2022 Russian invasion, [[volodymyr-zelenskyy|President Volodymyr Zelenskyy]] enacted sanctions against representatives of religious organizations linked to Russia, particularly scrutinizing the [[ukrainian-orthodox-church-moscow-patriarchate|Ukrainian Orthodox Church of the Moscow Patriarchate]] and banning pro-Russian activities."
+      ]
+    }
+  ],
+  "links_out": [
+    "administrative-territorial-entity-of-ukraine",
+    "crimea",
+    "crimean-tatars",
+    "donbas",
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-orthodox-church-moscow-patriarchate",
+    "ukrainians",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "Religion in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

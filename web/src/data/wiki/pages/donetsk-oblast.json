@@ -1,0 +1,116 @@
+{
+  "qid": "Q2012050",
+  "slug": "donetsk-oblast",
+  "title": "Donetsk Oblast",
+  "type": "oblast of Ukraine",
+  "category": "economy",
+  "aliases": [
+    "Donechyna",
+    "Donets Oblast",
+    "Donetsian Oblast"
+  ],
+  "infobox": {
+    "label": "oblast of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1932-07-02",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Soviet Union, Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Bakhmut, Donetsk",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "4,244,000",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "26,517",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "336",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Andriy Shyshatskyi, Pavlo Zhebrivskyi",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.1400, 37.7400",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Donetsk Oblast, known as Donechchyna, is an administrative region in eastern Ukraine, primarily located in the [[donbas|Donbas]] area. It has a significant historical and economic role within Ukraine, particularly as a coal-mining hub, although much of its territory is currently under Russian occupation.",
+  "sections": [
+    {
+      "heading": "Geographical Overview",
+      "paragraphs": [
+        "Donetsk Oblast is situated in southeastern [[ukraine|Ukraine]], covering an area of 26,517 km², which represents approximately 4.4% of the country's total area. The region is bordered by [[dnipro|Dnipropetrovsk]] and [[zaporizhzhia|Zaporizhzhia]] Oblasts to the southwest, [[kharkiv-oblast|Kharkiv Oblast]] to the north, [[luhansk-oblast|Luhansk Oblast]] to the northeast, the Rostov Oblast in Russia to the east, and the Sea of Azov to the south.",
+        "The oblast extends 270 km from north to south and 190 km from east to west, with notable geographical points including Bilosarayska Kosa in the south and Shevchenko of Volnovakha Raion in the west."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Donetsk Oblast was established on 2 July 1932 from parts of Kharkiv Oblast, [[dnipropetrovsk-oblast|Dnipropetrovsk Oblast]], and various raions. Initially named [[donetsk|Stalino]] Oblast in honor of Joseph Stalin, it was renamed Donetsk Oblast in 1961 during the de-Stalinization period.",
+        "The region played a significant role during World War II, experiencing occupation by Nazi Germany and numerous war crimes. Following the dissolution of the Soviet Union, 83.9% of voters in Donetsk Oblast supported Ukraine's independence in the 1991 referendum."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "As of the 2001 census, the population of Donetsk Oblast was approximately 4.1 million, with 57% identifying as ethnic [[ukrainian|Ukrainian]] and 38% as ethnic Russian. The majority of residents (75%) spoke Russian as their mother tongue, while 24% spoke Ukrainian.",
+        "In 2013, the population was recorded at 4.43 million, making it the most populous region of Ukraine, excluding special-status cities. The age structure indicates a median age of 41.9 years."
+      ]
+    },
+    {
+      "heading": "Economic Significance",
+      "paragraphs": [
+        "Donetsk Oblast is a crucial coal-mining region, contributing over half of Ukraine's coal and steel production. The industrial sector includes around 882 large enterprises and 2,095 small businesses, with a well-developed transport infrastructure comprising railways, ports, and airports.",
+        "Agriculture also plays a role, with significant production of grains, sugar beets, and livestock products noted in 1999."
+      ]
+    },
+    {
+      "heading": "Current Status and Conflict",
+      "paragraphs": [
+        "Since 2014, parts of Donetsk Oblast have been under the control of Russian-backed separatists, leading to an ongoing conflict with [[cabinet-of-ministers-of-ukraine|Ukrainian government]] forces. As of September 2022, Russia announced the annexation of the oblast, although this action has not been recognized by the international community.",
+        "The region remains a focal point of geopolitical tensions, with significant implications for Ukraine's territorial integrity and national security."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "dnipro",
+    "dnipropetrovsk-oblast",
+    "donbas",
+    "donetsk",
+    "kharkiv-oblast",
+    "luhansk-oblast",
+    "ukraine",
+    "ukrainian",
+    "zaporizhzhia"
+  ],
+  "sources": [
+    {
+      "title": "Donetsk Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Donetsk_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

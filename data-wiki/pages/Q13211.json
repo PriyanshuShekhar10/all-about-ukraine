@@ -1,0 +1,82 @@
+{
+  "qid": "Q13211",
+  "slug": "ruthenian",
+  "title": "Ruthenian",
+  "type": "dead language",
+  "category": "history",
+  "aliases": [
+    "Chancery Slavonic",
+    "Chancery language of the Grand Duchy of Lithuania",
+    "Early Middle Ukrainian",
+    "Early Ruthenian",
+    "High Ruthenian",
+    "Late Middle Ukrainian",
+    "Late Ruthenian",
+    "Lithuanian-Russian",
+    "Lithuanian-Slavonic",
+    "Middle Ukrainian",
+    "Old Belarusian",
+    "Old Ruthenian",
+    "Old Ukrainian",
+    "Old West Russian",
+    "Ruthenian language",
+    "Simple Ruthenian",
+    "West Russian",
+    "West Russian Chancery",
+    "West Russian Chancery language",
+    "ruski"
+  ],
+  "infobox": {
+    "label": "dead language",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Grand Duchy of Lithuania, Principality of Moldavia",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Ruthenian was a written language utilized from the 14th to the 18th centuries in the East Slavic-speaking regions of the Grand Duchy of Lithuania and the Polish-Lithuanian Commonwealth. It is recognized as a historical precursor to modern Belarusian and Ukrainian languages.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Ruthenian was employed as a written language from the 14th to the 18th centuries within the East Slavic-speaking territories of the Grand Duchy of Lithuania and later the Polish-Lithuanian Commonwealth. It is considered a historical precursor to contemporary Belarusian and [[ukrainian|Ukrainian]] languages, although neither of these languages directly inherits the Ruthenian written tradition."
+      ]
+    },
+    {
+      "heading": "Nomenclature",
+      "paragraphs": [
+        "The term 'Ruthenian' is exonymic, making its usage complex in both historical and modern scholarly contexts. Historical names for the language from the 15th to 18th centuries can be categorized into endonyms, such as 'Ruska(ja) mova' and 'Prosta(ja) mova', and exonyms, including Latin terms like 'lingua ruthenica'.",
+        "Modern scholarly names also fall into two categories: those derived from endonymic terms, such as 'Old Ukrainian language', and those from exonymic terms, like 'Ruthenian literary language'."
+      ]
+    },
+    {
+      "heading": "Periodization",
+      "paragraphs": [
+        "Linguist Daniel Bunčić proposed a periodization of Ruthenian into three phases: Early Ruthenian (15th century to early 16th century), High Ruthenian (c. 1550–1650), and Late Ruthenian (c. 1650–1800)."
+      ]
+    },
+    {
+      "heading": "Development of Ruthenian",
+      "paragraphs": [
+        "Early Ruthenian emerged as an administrative language in the 14th and 15th centuries, influenced by the chancery of the Grand Duchy of Lithuania. It was based on the Polissian dialect, which is spoken on both sides of the modern Belarusian-Ukrainian border.",
+        "During the High Ruthenian period, the vernacular language spread to various domains of communication, influenced by Polish and other European languages. The 1569 Union of Lublin led to significant linguistic changes, with the Polish language becoming more dominant in administration.",
+        "In the Late Ruthenian period, the [[cossack-hetmanate|Cossack Hetmanate]] continued to use Polish for administration, while Ruthenian was gradually losing its prestige. The language began to split into regional variations that would eventually evolve into modern Ukrainian and Belarusian."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossack-hetmanate",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ruthenian language — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ruthenian_language",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

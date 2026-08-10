@@ -40,7 +40,7 @@
     {
       "heading": "Geographical and Administrative Context",
       "paragraphs": [
-        "Halych, known in [[ukrainian|Ukrainian]] as Галич, is situated on the [[dniester|Dniester]] River in [[western-ukraine|western Ukraine]]. It is part of the [[ivano-frankivsk|Ivano-Frankivsk]] Raion within [[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]]. The town lies 26 km (16 mi) north of the regional capital, Ivano-Frankivsk, and had a population of 6,086 as of 2022."
+        "Halych, known in [[ukrainian|Ukrainian]] as Галич, is situated on the [[dniester|Dniester]] River in [[western-ukraine|western Ukraine]]. It is part of the [[ivano-frankivsk-raion|Ivano-Frankivsk Raion]] within [[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]]. The town lies 26 km (16 mi) north of the regional capital, [[ivano-frankivsk|Ivano-Frankivsk]], and had a population of 6,086 as of 2022."
       ]
     },
     {
@@ -59,7 +59,7 @@
     {
       "heading": "Modern Development",
       "paragraphs": [
-        "In the mid-14th century, Halych was annexed by Polish King Casimir III the Great and granted Magdeburg rights. It became an administrative center in the Ruthenian Voivodeship. The town faced numerous conflicts, including destruction during the Polish–Ottoman War and the Cossack uprising led by [[bohdan-khmelnytsky|Bohdan Khmelnytsky]].",
+        "In the mid-14th century, Halych was annexed by Polish King Casimir III the Great and granted Magdeburg rights. It became an administrative center in the [[ruthenian|Ruthenian]] Voivodeship. The town faced numerous conflicts, including destruction during the Polish–Ottoman War and the Cossack uprising led by [[bohdan-khmelnytsky|Bohdan Khmelnytsky]].",
         "After World War II, Halych experienced significant demographic changes, particularly with the resettlement of Polish residents. In 1994, the Ancient Halych preserve was established to protect its historical sites."
       ]
     },
@@ -76,7 +76,9 @@
     "dniester",
     "ivano-frankivsk",
     "ivano-frankivsk-oblast",
+    "ivano-frankivsk-raion",
     "kingdom-of-galiciavolhynia",
+    "ruthenian",
     "ukrainian",
     "western-ukraine"
   ],

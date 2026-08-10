@@ -33,8 +33,8 @@
     {
       "heading": "Early Life",
       "paragraphs": [
-        "Mykola Lysenko was born in Hrynky, near Kremenchugsky Uyezd of the [[poltava|Poltava]] Governorate (now Kremenchuk, Poltava Oblast, [[ukraine|Ukraine]]) on 22 March 1842. His family, an old aristocratic lineage with Cossack roots, was well-educated and wealthy. Lysenko's father, Vitaliy Romanovych Lysenko, was a colonel, and he had two younger siblings.",
-        "Lysenko began his music education at a young age, receiving piano lessons from his mother. He continued his studies in [[kyiv|Kyiv]], later attending the Gymnasium of [[kharkiv|Kharkiv]] and studying natural sciences at [[taras-shevchenko-national-university-of-kyiv|Kyiv University]], where he graduated in 1865. He also pursued music studies at the Leipzig Conservatory from 1867 to 1869."
+        "Mykola Lysenko was born in Hrynky, near Kremenchugsky Uyezd of the [[poltava|Poltava]] Governorate (now Kremenchuk, [[poltava-oblast|Poltava Oblast]], [[ukraine|Ukraine]]) on 22 March 1842. His family, an old aristocratic lineage with Cossack roots, was well-educated and wealthy. Lysenko's father, Vitaliy Romanovych Lysenko, was a colonel, and he had two younger siblings.",
+        "Lysenko began his music education at a young age, receiving piano lessons from his mother. He continued his studies in [[kyiv|Kyiv]], later attending the Gymnasium of [[kharkiv-oblast|Kharkiv]] and studying natural sciences at [[taras-shevchenko-national-university-of-kyiv|Kyiv University]], where he graduated in 1865. He also pursued music studies at the Leipzig Conservatory from 1867 to 1869."
       ]
     },
     {
@@ -67,10 +67,11 @@
     }
   ],
   "links_out": [
-    "kharkiv",
+    "kharkiv-oblast",
     "kyiv",
     "music-of-ukraine",
     "poltava",
+    "poltava-oblast",
     "taras-shevchenko",
     "taras-shevchenko-national-university-of-kyiv",
     "ukraine",

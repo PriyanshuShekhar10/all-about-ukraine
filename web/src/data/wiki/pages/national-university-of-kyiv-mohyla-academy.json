@@ -1,0 +1,95 @@
+{
+  "qid": "Q1133013",
+  "slug": "national-university-of-kyiv-mohyla-academy",
+  "title": "National University of Kyiv-Mohyla Academy",
+  "type": "university",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "university",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1991",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Kyiv",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4644, 30.5197",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The National University of Kyiv-Mohyla Academy (NaUKMA) is a prominent research university located in Kyiv, Ukraine, known for its bilingual education and international collaborations. Established in 1991, it traces its roots to the historic Kyiv-Mohyla Academy founded in 1615, which played a significant role in the intellectual development of Ukraine and Eastern Europe.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The National University of Kyiv-Mohyla Academy identifies its predecessor as the [[kyiv|Kyiv]]-Mohyla Academy, one of the oldest educational institutions in [[eastern-europe|Eastern Europe]], established in 1615. Initially a school of the Kyiv bratstvo, it became [[ukraine|Ukraine]]'s first institution of higher education after merging with the [[kyiv-pechersk-lavra|Kyiv Pechersk Lavra]] school in 1632.",
+        "In 1658, the institution was granted academy status under the Treaty of Hadiach, and it gained further recognition from Tsar Ivan V in 1694. The academy educated many influential figures in [[ukrainian|Ukrainian]] and Russian history, including [[hetman|hetman]] [[ivan-mazepa|Ivan Mazepa]] and philosopher Hryhorii Skovoroda."
+      ]
+    },
+    {
+      "heading": "Closure and Transformation",
+      "paragraphs": [
+        "The Kyiv-Mohyla Academy was closed in 1817 by Tsar Alexander I, leading to its transformation into the Kiev Theological Academy in 1819, which focused solely on clerical education. Over time, the need for a modern university in Kyiv became evident, resulting in the establishment of Saint Vladimir University in 1834.",
+        "During the Soviet era, the Kyiv Theological Academy was closed, and its premises were repurposed for military education. The original buildings retained remnants of their past, including a mosaic that serves as a reminder of the totalitarian history."
+      ]
+    },
+    {
+      "heading": "Reestablishment and Modern Era",
+      "paragraphs": [
+        "Following Ukraine's independence in 1991, the Kyiv-Mohyla Academy was reestablished through the efforts of Vyacheslav Bryukhovetsky, becoming the National University of Kyiv-Mohyla Academy (NaUKMA). The university adopted a structure based on North American higher education, offering Bachelor’s and Master’s degrees.",
+        "On August 24, 1992, the first cohort of students enrolled, and by June 1995, the first graduates received their degrees. NaUKMA has since gained recognition as one of Ukraine's leading educational institutions."
+      ]
+    },
+    {
+      "heading": "Academic Profile",
+      "paragraphs": [
+        "NaUKMA holds the highest accreditation level from the Ministry of Education and Science of Ukraine and operates on a trimester system. It offers a range of undergraduate and graduate programs, including an MBA and doctoral degrees, and was the first Ukrainian university to engage in the Bologna process reforms.",
+        "The university provides education in both Ukrainian and English, with a focus on international collaboration. It offers various programs for international students, including summer schools and specialized courses in partnership with foreign institutions."
+      ]
+    },
+    {
+      "heading": "Cultural and Political Significance",
+      "paragraphs": [
+        "NaUKMA has played a significant role in Ukraine's contemporary political landscape, notably during the [[orange-revolution|Orange Revolution]] in 2004, where students and faculty actively protested electoral fraud. A museum dedicated to this event has been established at the university.",
+        "The institution is also recognized for its efforts to revive historical educational traditions in Ukraine, maintaining strong connections with other national universities and fostering a commitment to academic excellence."
+      ]
+    }
+  ],
+  "links_out": [
+    "eastern-europe",
+    "hetman",
+    "ivan-mazepa",
+    "kyiv",
+    "kyiv-pechersk-lavra",
+    "orange-revolution",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "National University of Kyiv-Mohyla Academy — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_University_of_Kyiv-Mohyla_Academy",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

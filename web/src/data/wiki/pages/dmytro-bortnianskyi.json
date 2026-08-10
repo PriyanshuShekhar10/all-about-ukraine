@@ -1,0 +1,81 @@
+{
+  "qid": "Q316505",
+  "slug": "dmytro-bortnianskyi",
+  "title": "Dmytro Bortnianskyi",
+  "type": "human",
+  "category": "culture",
+  "aliases": [
+    "Dmitry Stepanovich Bortniansky",
+    "Dmytro Bortniansky"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1751-10-28",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1825-10-10",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Hlukhiv",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Dmytro Bortniansky (28 October 1751 – 10 October 1825) was a prominent composer of Ukrainian Cossack descent, recognized for his significant contributions to the musical heritage of both Ukraine and Russia. He served as a harpsichordist and conductor at the court of Catherine the Great and is celebrated for his liturgical works and choral concertos.",
+  "sections": [
+    {
+      "heading": "Biography",
+      "paragraphs": [
+        "Dmytro Bortniansky was born on 28 October 1751 in Glukhov, [[cossack-hetmanate|Cossack Hetmanate]], Russian Empire (now Hlukhiv, [[sumy-oblast|Sumy Oblast]], [[ukraine|Ukraine]]). His father, Stefan Skurat, was a Lemko-Rusyn Orthodox religious refugee from Poland, while his mother was of Cossack origin. At the age of seven, Bortniansky's talent in music led him to Saint Petersburg to join the Imperial Chapel Choir, where he studied under director Baldassare Galuppi."
+      ]
+    },
+    {
+      "heading": "Rise to Fame",
+      "paragraphs": [
+        "Bortniansky achieved success in Italy, composing operas such as Creonte (1776) and Alcide (1778). After returning to Saint Petersburg in 1779, he composed several operas in French and numerous sacred works, merging Eastern and Western European styles. In 1796, he became the first director of the Imperial Chapel Choir from the Russian Empire, producing over 100 religious compositions."
+      ]
+    },
+    {
+      "heading": "Death and Legacy",
+      "paragraphs": [
+        "Bortniansky passed away on 10 October 1825 in Saint Petersburg and was buried at Smolensky Cemetery. His liturgical works were later edited by Pyotr Ilyich Tchaikovsky in 1882 and remain central to the understanding of 18th-century Orthodox sacred music. His influence is evident in the works of subsequent Russian and [[ukrainian|Ukrainian]] composers, including [[mykola-lysenko|Mykola Lysenko]] and Kyrylo Stetsenko."
+      ]
+    },
+    {
+      "heading": "Influence on Ukrainian Music",
+      "paragraphs": [
+        "Bortniansky's contributions significantly shaped the development of [[music-of-ukraine|Ukrainian music]], with his works reflecting Ukrainian folk melodies. Ukrainian musicians, particularly in the 1920s, began to emphasize his influence, calling for a revival of the traditions he established. His style and melodies have been noted for their Ukrainian characteristics, further cementing his importance in the cultural heritage of Ukraine."
+      ]
+    },
+    {
+      "heading": "Works",
+      "paragraphs": [
+        "Bortniansky's notable operas include Creonte (1776), Alcide (1778), and several French operas with libretti by Franz-Hermann Lafermière. His choral works, particularly in Church Slavonic, include pieces such as 'Let My Prayer Arise' and various concertos. He also composed instrumental works, including a concerto-symphony and a quintet."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossack-hetmanate",
+    "music-of-ukraine",
+    "mykola-lysenko",
+    "sumy-oblast",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Dmitry Bortniansky — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dmitry_Bortniansky",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

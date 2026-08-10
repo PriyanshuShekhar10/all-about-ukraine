@@ -1,0 +1,86 @@
+{
+  "qid": "Q2297522",
+  "slug": "sofiyivsky-park",
+  "title": "Sofiyivsky Park",
+  "type": "park",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "park",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1796",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "1",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Location",
+        "value": "Uman",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.7631, 30.2225",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Sofiyivsky Park, located in Uman, Cherkasy Oblast, Ukraine, is an arboretum and scientific-research institute affiliated with the [[national-academy-of-sciences-of-ukraine|National Academy of Sciences of Ukraine]]. Established in 1796 by Count Stanisław Szczęsny Potocki, the park features over 2,000 species of trees and is recognized as a significant example of early 19th-century landscape gardening.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Sofiyivsky Park ([[ukrainian|Ukrainian]]: Софіївський парк) or Sofiyka Park (Ukrainian: Парк «Софіївка»; Polish: Park Zofiówka) is situated in the northern part of Uman, [[cherkasy|Cherkasy]] Oblast, near the Kamianka River. The park is characterized by its English garden-like areas and serves as a popular recreational destination, attracting approximately 300,000 visitors annually. Since 2000, it has been included on the Tentative List of World Heritage Sites in [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "The park was founded in 1796 by Count Stanisław Szczęsny Potocki, a Polish nobleman, as a gift to his Greek wife Sofia on her birthday. At that time, Uman was part of the Russian Empire. The construction, which cost an estimated 15 million złoty, was overseen by Polish military engineer Ludwik Metzel, who imported rare plants from Europe and employed local serfs as laborers. The park features various artificial basins, ponds, waterfalls, and other landscape elements, making it a notable example of European garden design from the late 18th and early 19th centuries."
+      ]
+    },
+    {
+      "heading": "Park Features",
+      "paragraphs": [
+        "Sofiyivsky Park is renowned for its diverse collection of flora, including over 2,000 species of trees and shrubs, both local and exotic, such as taxodium, Weymouth Pine, and ginkgo. The park's design incorporates elements from Homer's epics, with various areas representing scenes from the 'Odyssey' and 'Iliad'. The park is also home to numerous sculptures, antique decorations, and unique geological features, including granite cliffs and artificial grottoes."
+      ]
+    },
+    {
+      "heading": "Management and Recognition",
+      "paragraphs": [
+        "Since 1980, Ivan Kosenko, a member-correspondent of the Academy of Sciences and a doctor of biological sciences, has served as the director of Sofiyivsky Park. In 1985, a small planet was named 'Sofiyivka' in honor of the park. The park was recognized as one of the Seven Wonders of Ukraine on August 21, 2007, following a vote by experts and the online community."
+      ]
+    },
+    {
+      "heading": "Visitor Experience",
+      "paragraphs": [
+        "The park's main entrance, built between 1850 and 1852, leads visitors into a central alley adorned with historical structures and natural features. Facilities within the park include a tourist service center, a museum, a hotel, and a restaurant. Various scenic areas, such as waterfalls, ponds, and a stone garden, enhance the visitor experience, making Sofiyivsky Park a treasured landmark in Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "cherkasy",
+    "national-academy-of-sciences-of-ukraine",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Sofiyivka Park — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sofiyivka_Park",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

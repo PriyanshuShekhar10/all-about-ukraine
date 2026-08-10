@@ -1,0 +1,73 @@
+{
+  "qid": "Q6664426",
+  "slug": "local-government-in-ukraine",
+  "title": "local government in Ukraine",
+  "type": "aspect in a geographic region",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "aspect in a geographic region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Local government in Ukraine is structured around two main systems that reflect the country's administrative divisions. This framework is governed by the Constitution and specific laws, enabling local councils and state administrations to manage community affairs and implement local governance.",
+  "sections": [
+    {
+      "heading": "Structure of Local Government",
+      "paragraphs": [
+        "Local government in Ukraine is organized into two systems: local self-government, which includes territorial communities (hromadas) and their municipal governing bodies, and local bodies of state executive power represented by local state administrations.",
+        "The local state administrations serve as agents of state executive power at the local level, subordinated to higher-level executive bodies and accountable to local councils. They embody state interests and reflect the policy of deconcentration.",
+        "Territorial communities operate as natural corporations of local residents, engaging in self-governance directly or through local self-governing authorities without hierarchical subordination to other government entities."
+      ]
+    },
+    {
+      "heading": "Powers of Local Authorities",
+      "paragraphs": [
+        "Local self-government bodies possess various powers, including socioeconomic and cultural development, budgeting, management of municipal property, and environmental protection.",
+        "Local councils decide on the composition of executive committees, conduct local referendums, approve budgets, and manage local taxes and duties.",
+        "Executive bodies of local councils can exercise both autonomous and delegated powers, including land use monitoring, disaster relief, and social welfare programs."
+      ]
+    },
+    {
+      "heading": "Financial Management",
+      "paragraphs": [
+        "The financial foundation of local government includes movable and immovable property, revenues, and natural resources, managed by district and regional councils.",
+        "Territorial communities can collaborate on communal property and budget funds for joint projects, with state support for local self-governance expenses.",
+        "Local budgets are crucial for meeting citizens' social needs and ensuring the effective functioning of local authorities."
+      ]
+    },
+    {
+      "heading": "Elections and Representation",
+      "paragraphs": [
+        "According to the Constitution, heads of villages and towns and local council members serve five-year terms, with the last nationwide local election occurring in 2020.",
+        "[[ukrainian|Ukrainian]] citizens participate in various elections, including national, regional, and local, as outlined by Ukrainian law.",
+        "The composition of councils varies based on population size, with specific member counts established for different population brackets."
+      ]
+    },
+    {
+      "heading": "Examples of Local Governance",
+      "paragraphs": [
+        "Regional and district councils function as local authorities representing the interests of villages and towns, making decisions on referendums, budget approvals, and socioeconomic development.",
+        "The District Chairman is elected by council members and is accountable to the council, with provisions for dismissal by a two-thirds majority.",
+        "These councils do not form their own executive bodies, as their powers are delegated by regional and district state administrations."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Local government in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Local_government_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

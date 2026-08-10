@@ -1,0 +1,73 @@
+{
+  "qid": "Q828398",
+  "slug": "hutsuls",
+  "title": "Hutsuls",
+  "type": "ethnic group",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "ethnic group",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Romania",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Hutsuls are an East Slavic ethnic group primarily located in [[western-ukraine|western Ukraine]] and northern Romania, recognized as a subgroup of [[ukrainians|Ukrainians]] and considered part of the broader Ukrainian ethnicity. They inhabit the region known as Hutsulshchyna, which is characterized by its unique culture, language, and history.",
+  "sections": [
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "The exact origin of the term 'Hutsul' is unclear. It is commonly thought to derive from the Romanian word for 'outlaw' or from the Slavic term 'kochul,' which refers to a nomadic shepherd lifestyle. Other theories suggest connections to the Turkic tribe of Utsians or the Moravian Grand Duke Hetsyla. The name first appeared in written records in 1816 and is considered an exonym, although some Hutsuls have adopted it."
+      ]
+    },
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Hutsuls inhabit the region known as Hutsulshchyna, which includes parts of the historical areas of Halychyna, [[bukovina|Bukovyna]], and [[transcarpathia|Zakarpattia]]. This territory is located within the basins of rivers such as the Prut and Cheremosh, and is bordered by Romanian areas to the southeast and Boyko regions to the west. The traditional western boundary is marked by settlements like Deliatyn and Bystrytsia."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The earliest historical mentions of Hutsuls can be found in Polish chronicles from the 14th and 15th centuries, with the settlement of Zhabye noted in 1424. Hutsuls were involved in various uprisings against Polish rule and participated in the [[ukrainian-war-of-independence|Ukrainian War of Independence]] from 1918 to 1920. The 1930 Romanian census recorded 12,456 Hutsuls in Romania, and by 1941, many identified as Hutsuls in the Seletyn district."
+      ]
+    },
+    {
+      "heading": "Language and Culture",
+      "paragraphs": [
+        "The Hutsul dialect is classified as part of the Southwestern [[ukrainian|Ukrainian]] dialects, closely related to the Pokuttia-Bukovyna dialects. Hutsul culture shares similarities with other highlander groups and is characterized by its traditional crafts, music, and architecture. Most Hutsuls are affiliated with the [[ukrainian-greek-catholic-church|Ukrainian Greek Catholic Church]] or the [[ukrainian-orthodox-church|Ukrainian Orthodox Church]]."
+      ]
+    },
+    {
+      "heading": "Notable Contributions",
+      "paragraphs": [
+        "Hutsuls have inspired numerous artists and writers, including [[ivan-franko|Ivan Franko]] and [[lesya-ukrainka|Lesya Ukrainka]]. Traditional Hutsul music features unique instruments such as the [[trembita|trembita]] and duda. Cultural events, like the international festival in Sheshory, celebrate Hutsul heritage, while significant figures from the Hutsul community include writers, musicians, and political leaders."
+      ]
+    }
+  ],
+  "links_out": [
+    "bukovina",
+    "ivan-franko",
+    "lesya-ukrainka",
+    "transcarpathia",
+    "trembita",
+    "ukrainian",
+    "ukrainian-greek-catholic-church",
+    "ukrainian-orthodox-church",
+    "ukrainian-war-of-independence",
+    "ukrainians",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Hutsuls — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hutsuls",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

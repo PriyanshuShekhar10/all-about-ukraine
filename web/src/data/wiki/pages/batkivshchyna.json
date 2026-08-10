@@ -1,0 +1,85 @@
+{
+  "qid": "Q45376",
+  "slug": "batkivshchyna",
+  "title": "Batkivshchyna",
+  "type": "political party",
+  "category": "politics",
+  "aliases": [
+    "All-Ukrainian Union \"Fatherland\""
+  ],
+  "infobox": {
+    "label": "political party",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1999-07-09",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The All-Ukrainian Union 'Fatherland' (Batkivshchyna) is a significant [[political-party-in-ukraine|political party in Ukraine]], led by Yulia Tymoshenko, a prominent political figure and former Prime Minister. Established in 1999, the party has played a crucial role in various political movements and elections, advocating for Ukraine's integration into the European Union and NATO.",
+  "sections": [
+    {
+      "heading": "Foundation and Early History",
+      "paragraphs": [
+        "The All-[[ukrainian|Ukrainian]] Union 'Fatherland', known as Batkivshchyna, was founded in July 1999, emerging from the parliamentary group established by [[yulia-tymoshenko|Yulia Tymoshenko]] in March 1999. The party was created to protect the interests of the [[ukrainians|Ukrainian people]] and promote national identity and European integration.",
+        "The party's predecessor, the Association of Peace-loving Forces 'Batkivshchyna', was founded in 1995 by Volodymyr Prisnyakov. Yulia Tymoshenko became a people's deputy in 1998 and later led the formation of the party, which was officially registered on 16 September 1999."
+      ]
+    },
+    {
+      "heading": "Political Influence and Elections",
+      "paragraphs": [
+        "Batkivshchyna was a key player in the Yulia Tymoshenko Bloc during the 2002 parliamentary elections, securing 22 seats. Under Tymoshenko's leadership, the party gained prominence, with significant representation in subsequent elections, including 129 seats in 2006 and 156 seats in 2007.",
+        "In the 2012 parliamentary elections, Batkivshchyna participated as part of the 'United Opposition', winning 101 seats, despite a decrease in voter support compared to previous elections."
+      ]
+    },
+    {
+      "heading": "Challenges and Opposition",
+      "paragraphs": [
+        "Yulia Tymoshenko faced imprisonment from 2011 to 2014 under the Yanukovych government, which was widely viewed as politically motivated. During this period, Batkivshchyna continued to operate as a significant opposition force, advocating for democratic reforms and human rights.",
+        "Following the [[revolution-of-dignity|2014 Ukrainian revolution]], Tymoshenko was released, and Batkivshchyna reformed its structure, participating in the new government coalition led by Arseniy Yatsenyuk."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "In the 2019 snap parliamentary elections, Batkivshchyna received 8.18 percent of the votes, resulting in 26 MPs. The party positioned itself in opposition within the [[verkhovna-rada|Verkhovna Rada]].",
+        "In the local elections of 2020, Batkivshchyna garnered 12.39 percent of the votes, solidifying its status as one of the leading parties in local governance in [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Ideological Position",
+      "paragraphs": [
+        "Although Batkivshchyna is perceived as a social-democratic party, it has been an observer member of the European People's Party since 2008. The party advocates for Ukraine's integration into the European Union and NATO, maintaining a centre-left political stance."
+      ]
+    }
+  ],
+  "links_out": [
+    "political-party-in-ukraine",
+    "revolution-of-dignity",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "verkhovna-rada",
+    "yulia-tymoshenko"
+  ],
+  "sources": [
+    {
+      "title": "Batkivshchyna — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Batkivshchyna",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

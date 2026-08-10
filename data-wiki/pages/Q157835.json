@@ -50,7 +50,7 @@
       }
     ]
   },
-  "summary": "Zaporizhzhia is a significant city in southeast Ukraine, located on the banks of the Dnieper River and serving as the administrative center of Zaporizhzhia Oblast. With a population of 710,052 as of 2022, it is known for its industrial capabilities, historical significance, and the island of Khortytsia.",
+  "summary": "Zaporizhzhia is a significant city in southeast Ukraine, located on the banks of the Dnieper River and serving as the administrative center of [[zaporizhzhia-oblast|Zaporizhzhia Oblast]]. With a population of 710,052 as of 2022, it is known for its industrial capabilities, historical significance, and the island of Khortytsia.",
   "sections": [
     {
       "heading": "Geography and Demographics",
@@ -105,7 +105,8 @@
     "motor-sich",
     "ukraine",
     "ukrainian-war-of-independence",
-    "ukrainians"
+    "ukrainians",
+    "zaporizhzhia-oblast"
   ],
   "sources": [
     {

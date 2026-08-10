@@ -3766,5 +3766,1204 @@
     ],
     "notability": 107,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q4163282",
+    "slug": "dniester-canyon",
+    "name": "Dniester Canyon",
+    "wp_title": "Dniester Canyon",
+    "type": "canyon",
+    "category": "geography",
+    "aliases": [
+      "Dnistrovskyi kanion"
+    ],
+    "notability": 17,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q27468",
+    "slug": "eastern-europe",
+    "name": "Eastern Europe",
+    "wp_title": "Eastern Europe",
+    "type": "region",
+    "category": "geography",
+    "aliases": [],
+    "notability": 163,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q828398",
+    "slug": "hutsuls",
+    "name": "Hutsuls",
+    "wp_title": "Hutsuls",
+    "type": "ethnic group",
+    "category": "geography",
+    "aliases": [],
+    "notability": 36,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1431500",
+    "slug": "kremenchuk-reservoir",
+    "name": "Kremenchuk Reservoir",
+    "wp_title": "Kremenchuk Reservoir",
+    "type": "reservoir",
+    "category": "geography",
+    "aliases": [],
+    "notability": 29,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1048315",
+    "slug": "little-russia",
+    "name": "Little Russia",
+    "wp_title": "Little Russia",
+    "type": "administrative territorial entity",
+    "category": "geography",
+    "aliases": [
+      "Little Rusʼ",
+      "Mala Rusʼ",
+      "Malo-Russia",
+      "Malorosia",
+      "Malorossiia",
+      "Rusʼ Minor"
+    ],
+    "notability": 35,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q208987",
+    "slug": "polesia",
+    "name": "Polesia",
+    "wp_title": "Polesia",
+    "type": "landscape",
+    "category": "geography",
+    "aliases": [
+      "Palesse",
+      "Paliessie",
+      "Palyessye",
+      "Podlesien",
+      "Polesie",
+      "Polesye",
+      "Polisia",
+      "Polissia"
+    ],
+    "notability": 54,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q191238",
+    "slug": "donets",
+    "name": "Donets",
+    "wp_title": "Donets",
+    "type": "river",
+    "category": "geography",
+    "aliases": [
+      "Donets River",
+      "Donetz",
+      "Severskiy Donets",
+      "Seversky Donets",
+      "Siverskiy Donets",
+      "Siversky Donets",
+      "Siverskyi Donets",
+      "Siverskyy Donets"
+    ],
+    "notability": 71,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q844041",
+    "slug": "vorskla",
+    "name": "Vorskla",
+    "wp_title": "Vorskla",
+    "type": "river",
+    "category": "geography",
+    "aliases": [
+      "Vorskla River"
+    ],
+    "notability": 44,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q973951",
+    "slug": "zbruch",
+    "name": "Zbruch",
+    "wp_title": "Zbruch",
+    "type": "river",
+    "category": "geography",
+    "aliases": [],
+    "notability": 40,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q103821086",
+    "slug": "bila-tserkva-raion",
+    "name": "Bila Tserkva Raion",
+    "wp_title": "Bila Tserkva Raion",
+    "type": "raion of Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 19,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q98521883",
+    "slug": "ivano-frankivsk-raion",
+    "name": "Ivano-Frankivsk Raion",
+    "wp_title": "Ivano-Frankivsk Raion",
+    "type": "raion of Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 21,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q170666",
+    "slug": "kharkiv-oblast",
+    "name": "Kharkiv Oblast",
+    "wp_title": "Kharkiv Oblast",
+    "type": "oblast of Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Kharkiv",
+      "Kharkiv Oblast (Ukraine)",
+      "Kharkivshchyna"
+    ],
+    "notability": 100,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q181633",
+    "slug": "mykolaiv-oblast",
+    "name": "Mykolaiv Oblast",
+    "wp_title": "Mykolaiv Oblast",
+    "type": "oblast of Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 100,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q174187",
+    "slug": "rivne-oblast",
+    "name": "Rivne Oblast",
+    "wp_title": "Rivne Oblast",
+    "type": "oblast of Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Polesie",
+      "Rivne Region",
+      "Rivnenshchyna",
+      "Rovno Oblast"
+    ],
+    "notability": 100,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q158292",
+    "slug": "kropyvnytskyi",
+    "name": "Kropyvnytskyi",
+    "wp_title": "Kropyvnytskyi",
+    "type": "centre of oblast",
+    "category": "people",
+    "aliases": [
+      "Kirovograd",
+      "Kirovohrad",
+      "Kropyvnytskiy",
+      "Kropyvnytsky",
+      "Lysavethrad",
+      "Yelisavetgrad",
+      "Yelysavethrad",
+      "Zinovievsk",
+      "Zinovivsk",
+      "Zinovïvsk",
+      "Zynovievsk",
+      "Zynovivsk"
+    ],
+    "notability": 97,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q166709",
+    "slug": "vinnytsia-oblast",
+    "name": "Vinnytsia Oblast",
+    "wp_title": "Vinnytsia Oblast",
+    "type": "oblast of Ukraine",
+    "category": "people",
+    "aliases": [
+      "UP23",
+      "Vinnica oblast",
+      "Vinnitsa Oblast",
+      "Vinnitskaya Oblast'",
+      "Vinnychchyna",
+      "Vinnyts'ka Oblast'",
+      "Vinnytska Oblast"
+    ],
+    "notability": 99,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q40637",
+    "slug": "zhytomyr-oblast",
+    "name": "Zhytomyr Oblast",
+    "wp_title": "Zhytomyr Oblast",
+    "type": "oblast of Ukraine",
+    "category": "people",
+    "aliases": [
+      "Zhytomyrshchyna"
+    ],
+    "notability": 101,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q173407",
+    "slug": "ternopil-oblast",
+    "name": "Ternopil Oblast",
+    "wp_title": "Ternopil Oblast",
+    "type": "oblast of Ukraine",
+    "category": "people",
+    "aliases": [
+      "Ternopilshchyna",
+      "Ternopilska oblast",
+      "Ternopolskaja oblast"
+    ],
+    "notability": 100,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q168856",
+    "slug": "chernivtsi-oblast",
+    "name": "Chernivtsi Oblast",
+    "wp_title": "Chernivtsi Oblast",
+    "type": "oblast of Ukraine",
+    "category": "people",
+    "aliases": [
+      "Chernivtsi Oblast (Ukraine)"
+    ],
+    "notability": 101,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q169501",
+    "slug": "poltava-oblast",
+    "name": "Poltava Oblast",
+    "wp_title": "Poltava Oblast",
+    "type": "oblast of Ukraine",
+    "category": "people",
+    "aliases": [
+      "Poltavska oblast"
+    ],
+    "notability": 100,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q170446",
+    "slug": "sumy-oblast",
+    "name": "Sumy Oblast",
+    "wp_title": "Sumy Oblast",
+    "type": "oblast of Ukraine",
+    "category": "people",
+    "aliases": [
+      "Sumshchyna",
+      "Sums’ka oblast"
+    ],
+    "notability": 100,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q180981",
+    "slug": "kirovohrad-oblast",
+    "name": "Kirovohrad Oblast",
+    "wp_title": "Kirovohrad Oblast",
+    "type": "oblast of Ukraine",
+    "category": "people",
+    "aliases": [
+      "Kirovohradschyna",
+      "Kirovohrads’ka oblast’",
+      "Kirowogradskaja oblast",
+      "Kropyvnytskyi Oblast"
+    ],
+    "notability": 98,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q426509",
+    "slug": "vasyl-stus",
+    "name": "Vasyl Stus",
+    "wp_title": "Vasyl Stus",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Vasyl Semenovych Stus"
+    ],
+    "notability": 39,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1406209",
+    "slug": "les-kurbas",
+    "name": "Les Kurbas",
+    "wp_title": "Les Kurbas",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Aleksandr Kurbas",
+      "Les' Kurbas",
+      "Oleksandr Kurbas",
+      "Oleksandr Stepanovych Kurbas",
+      "Oleksandr-Zenon Stepanovych Kurbas"
+    ],
+    "notability": 31,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q458209",
+    "slug": "serhiy-zhadan",
+    "name": "Serhiy Zhadan",
+    "wp_title": "Serhiy Zhadan",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Sergey Viktorovich Zhadan",
+      "Sergey Zhadan",
+      "Serhii Viktorovych Zhadan",
+      "Serhii Zhadan",
+      "Serhiy Viktorovych Zhadan"
+    ],
+    "notability": 45,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q257132",
+    "slug": "oksana-zabuzhko",
+    "name": "Oksana Zabuzhko",
+    "wp_title": "Oksana Zabuzhko",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Oksana Stefanivna Zabuzhko"
+    ],
+    "notability": 50,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q24025631",
+    "slug": "dmytro-kuleba",
+    "name": "Dmytro Kuleba",
+    "wp_title": "Dmytro Kuleba",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Dmytro Ivanovich Kuleba",
+      "Dmytro Ivanovych Kuleba",
+      "Kuleba Dmytro"
+    ],
+    "notability": 60,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1133013",
+    "slug": "national-university-of-kyiv-mohyla-academy",
+    "name": "National University of Kyiv-Mohyla Academy",
+    "wp_title": "National University of Kyiv-Mohyla Academy",
+    "type": "university",
+    "category": "people",
+    "aliases": [],
+    "notability": 36,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4288751",
+    "slug": "mezhyhirya",
+    "name": "Mezhyhirya",
+    "wp_title": "Mezhyhirya Residence",
+    "type": "inhabited area",
+    "category": "culture",
+    "aliases": [],
+    "notability": 16,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q835",
+    "slug": "mikhail-bulgakov",
+    "name": "Mikhail Bulgakov",
+    "wp_title": "Mikhail Bulgakov",
+    "type": "human",
+    "category": "culture",
+    "aliases": [
+      "Michael Bulgakov",
+      "Mikhail A. Bulgakov",
+      "Mikhail Afanasevich Bulgakov",
+      "Mikhail Afanasyevich Bulgakov"
+    ],
+    "notability": 118,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q170456",
+    "slug": "pripyat",
+    "name": "Pripyat",
+    "wp_title": "Pripyat",
+    "type": "lost city",
+    "category": "culture",
+    "aliases": [
+      "Pripyat'",
+      "Prypiat",
+      "Prypiat'"
+    ],
+    "notability": 85,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2297522",
+    "slug": "sofiyivsky-park",
+    "name": "Sofiyivsky Park",
+    "wp_title": "Sofiyivka Park",
+    "type": "park",
+    "category": "culture",
+    "aliases": [],
+    "notability": 33,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q12164003",
+    "slug": "ukrainian-traditional-costumes",
+    "name": "Ukrainian traditional costumes",
+    "wp_title": "Ukrainian national clothing",
+    "type": "topic",
+    "category": "culture",
+    "aliases": [],
+    "notability": 6,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2058345",
+    "slug": "national-forestry-university",
+    "name": "National Forestry University",
+    "wp_title": "Ukrainian National Forestry University",
+    "type": "university",
+    "category": "culture",
+    "aliases": [],
+    "notability": 8,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q20076226",
+    "slug": "ukrainian-state-film-agency",
+    "name": "Ukrainian State Film Agency",
+    "wp_title": "Ukrainian State Film Agency",
+    "type": "government agency",
+    "category": "culture",
+    "aliases": [
+      "USFA"
+    ],
+    "notability": 14,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q3847343",
+    "slug": "vira-vovk",
+    "name": "Vira Vovk",
+    "wp_title": "Vira Vovk",
+    "type": "human",
+    "category": "culture",
+    "aliases": [
+      "Vira Ostapivna Selianska",
+      "Vira Selianska",
+      "Vira Seli͡ansʹka",
+      "Wira Wowk"
+    ],
+    "notability": 23,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q997412",
+    "slug": "vynnyky",
+    "name": "Vynnyky",
+    "wp_title": "Vynnyky",
+    "type": "city in Ukraine",
+    "category": "culture",
+    "aliases": [],
+    "notability": 33,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q14974",
+    "slug": "vladimir-the-great",
+    "name": "Vladimir the Great",
+    "wp_title": "Vladimir the Great",
+    "type": "human",
+    "category": "culture",
+    "aliases": [
+      "Valdamar",
+      "Vladimir Svyatoslavich",
+      "Volodimer",
+      "Volodymyr Sviatoslavych",
+      "Volodymyr of Kyiv",
+      "Volodymyr the Great"
+    ],
+    "notability": 81,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2993752",
+    "slug": "yevhen-hutsalo",
+    "name": "Yevhen Hutsalo",
+    "wp_title": "Yevhen Hutsalo",
+    "type": "human",
+    "category": "culture",
+    "aliases": [
+      "Eugene Hutsalo",
+      "Yevgeny Gutsalo",
+      "Yevhen Pylypovych Hutsalo"
+    ],
+    "notability": 14,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q864836",
+    "slug": "zhovkva",
+    "name": "Zhovkva",
+    "wp_title": "Zhovkva",
+    "type": "city in Ukraine",
+    "category": "culture",
+    "aliases": [
+      "Vinnyky"
+    ],
+    "notability": 44,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2666038",
+    "slug": "cossack-mamay",
+    "name": "Cossack Mamay",
+    "wp_title": "Cossack Mamay",
+    "type": "mythical character",
+    "category": "culture",
+    "aliases": [],
+    "notability": 25,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q316505",
+    "slug": "dmytro-bortnianskyi",
+    "name": "Dmytro Bortnianskyi",
+    "wp_title": "Dmitry Bortniansky",
+    "type": "human",
+    "category": "culture",
+    "aliases": [
+      "Dmitry Stepanovich Bortniansky",
+      "Dmytro Bortniansky"
+    ],
+    "notability": 41,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q377788",
+    "slug": "astarta-holding",
+    "name": "Astarta Holding",
+    "wp_title": "Astarta Holding",
+    "type": "business",
+    "category": "economy",
+    "aliases": [],
+    "notability": 6,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q477677",
+    "slug": "boryspil-international-airport",
+    "name": "Boryspil International Airport",
+    "wp_title": "Boryspil International Airport",
+    "type": "international airport",
+    "category": "economy",
+    "aliases": [
+      "KBP",
+      "Kyiv Boryspil",
+      "Kyiv International Airport",
+      "UKBB"
+    ],
+    "notability": 60,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4514054",
+    "slug": "chornomornaftogaz",
+    "name": "Chornomornaftogaz",
+    "wp_title": "Chornomornaftogaz",
+    "type": "business",
+    "category": "economy",
+    "aliases": [
+      "Chornomornaftogazprom"
+    ],
+    "notability": 6,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2946123",
+    "slug": "centrenergo",
+    "name": "Centrenergo",
+    "wp_title": "Centrenergo",
+    "type": "business",
+    "category": "economy",
+    "aliases": [],
+    "notability": 5,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2012050",
+    "slug": "donetsk-oblast",
+    "name": "Donetsk Oblast",
+    "wp_title": "Donetsk Oblast",
+    "type": "oblast of Ukraine",
+    "category": "economy",
+    "aliases": [
+      "Donechyna",
+      "Donets Oblast",
+      "Donetsian Oblast"
+    ],
+    "notability": 110,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4531924",
+    "slug": "energy-in-ukraine",
+    "name": "energy in Ukraine",
+    "wp_title": "Energy in Ukraine",
+    "type": "aspect in a geographic region",
+    "category": "economy",
+    "aliases": [],
+    "notability": 10,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q5445324",
+    "slug": "ferrexpo",
+    "name": "Ferrexpo",
+    "wp_title": "Ferrexpo",
+    "type": "business",
+    "category": "economy",
+    "aliases": [
+      "Ferrexpo AG",
+      "Ferrexpo PLC"
+    ],
+    "notability": 6,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4294829",
+    "slug": "ministry-of-economy",
+    "name": "Ministry of Economy",
+    "wp_title": "Ministry of Economy (Ukraine)",
+    "type": "economic affairs ministry",
+    "category": "economy",
+    "aliases": [
+      "Minekonomrozvytku"
+    ],
+    "notability": 11,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q456763",
+    "slug": "clairette-blanche",
+    "name": "Clairette blanche",
+    "wp_title": "Clairette blanche",
+    "type": "grape variety",
+    "category": "economy",
+    "aliases": [],
+    "notability": 8,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q269523",
+    "slug": "pyriatyn",
+    "name": "Pyriatyn",
+    "wp_title": "Pyriatyn",
+    "type": "city in Ukraine",
+    "category": "economy",
+    "aliases": [
+      "Piryatin"
+    ],
+    "notability": 45,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q7312405",
+    "slug": "renaissance-capital",
+    "name": "Renaissance Capital",
+    "wp_title": "Renaissance Capital",
+    "type": "Wikimedia disambiguation page",
+    "category": "economy",
+    "aliases": [],
+    "notability": 1,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q171334",
+    "slug": "zaporizhzhia-oblast",
+    "name": "Zaporizhzhia Oblast",
+    "wp_title": "Zaporizhzhia Oblast",
+    "type": "oblast of Ukraine",
+    "category": "economy",
+    "aliases": [],
+    "notability": 108,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q56243980",
+    "slug": "zakarpattia",
+    "name": "Zakarpattia",
+    "wp_title": "Zakarpattia",
+    "type": "Wikimedia disambiguation page",
+    "category": "economy",
+    "aliases": [],
+    "notability": 6,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q45376",
+    "slug": "batkivshchyna",
+    "name": "Batkivshchyna",
+    "wp_title": "Batkivshchyna",
+    "type": "political party",
+    "category": "politics",
+    "aliases": [
+      "All-Ukrainian Union \"Fatherland\""
+    ],
+    "notability": 41,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q12139442",
+    "slug": "pensions-in-ukraine",
+    "name": "pensions in Ukraine",
+    "wp_title": "Pensions in Ukraine",
+    "type": "pension system by country",
+    "category": "politics",
+    "aliases": [],
+    "notability": 3,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q752474",
+    "slug": "ukrainian-orthodox-church-moscow-patriarchate",
+    "name": "Ukrainian Orthodox Church (Moscow Patriarchate)",
+    "wp_title": "Ukrainian Orthodox Church (Moscow Patriarchate)",
+    "type": "Christian denomination",
+    "category": "politics",
+    "aliases": [
+      "UOC",
+      "UOC-MP",
+      "Ukrainian Orthodox Church of the Moscow Patriarchate"
+    ],
+    "notability": 39,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1970954",
+    "slug": "vasyl-symonenko",
+    "name": "Vasyl Symonenko",
+    "wp_title": "Vasyl Symonenko",
+    "type": "human",
+    "category": "politics",
+    "aliases": [],
+    "notability": 19,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q28913",
+    "slug": "judicial-system-of-ukraine",
+    "name": "judicial system of Ukraine",
+    "wp_title": "Judiciary of Ukraine",
+    "type": "judiciary",
+    "category": "politics",
+    "aliases": [],
+    "notability": 7,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q6664426",
+    "slug": "local-government-in-ukraine",
+    "name": "local government in Ukraine",
+    "wp_title": "Local government in Ukraine",
+    "type": "aspect in a geographic region",
+    "category": "politics",
+    "aliases": [],
+    "notability": 4,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2419855",
+    "slug": "ukrainiansoviet-war",
+    "name": "Ukrainian–Soviet War",
+    "wp_title": "Ukrainian–Soviet War",
+    "type": "war",
+    "category": "history",
+    "aliases": [
+      "Soviet invasion of Ukraine",
+      "Soviet-Ukrainian War",
+      "Soviet–Ukrainian War",
+      "Ukrainian-Soviet War"
+    ],
+    "notability": 26,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q184928",
+    "slug": "russian-revolution-of-1905",
+    "name": "Russian Revolution of 1905",
+    "wp_title": "Russian Revolution of 1905",
+    "type": "revolution",
+    "category": "history",
+    "aliases": [],
+    "notability": 71,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2778017",
+    "slug": "history-of-the-jews-in-ukraine",
+    "name": "history of the Jews in Ukraine",
+    "wp_title": "History of the Jews in Ukraine",
+    "type": "aspect of history",
+    "category": "history",
+    "aliases": [
+      "Jewish history in Ukraine",
+      "Jewish history of Ukraine",
+      "Jews in Ukraine history",
+      "history of Jews in Ukraine",
+      "history of the Jews of Ukraine",
+      "the Jews in Ukraine history"
+    ],
+    "notability": 16,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1542287",
+    "slug": "ukrainian-baroque",
+    "name": "Ukrainian Baroque",
+    "wp_title": "Ukrainian Baroque",
+    "type": "art style of an area",
+    "category": "history",
+    "aliases": [
+      "Cossack Baroque",
+      "Mazepa Baroque"
+    ],
+    "notability": 30,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q5863470",
+    "slug": "ukrainian-folklore",
+    "name": "Ukrainian folklore",
+    "wp_title": "Ukrainian folklore",
+    "type": "folklore by ethnic group",
+    "category": "history",
+    "aliases": [
+      "folklore of Ukraine"
+    ],
+    "notability": 12,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2467697",
+    "slug": "religion-in-ukraine",
+    "name": "religion in Ukraine",
+    "wp_title": "Religion in Ukraine",
+    "type": "religion of an area",
+    "category": "history",
+    "aliases": [],
+    "notability": 29,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q11682532",
+    "slug": "history-of-the-cossacks",
+    "name": "history of the Cossacks",
+    "wp_title": "History of the Cossacks",
+    "type": "aspect of history",
+    "category": "history",
+    "aliases": [
+      "Cossacks history",
+      "the Cossacks history"
+    ],
+    "notability": 5,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q3573883",
+    "slug": "eastern-galicia",
+    "name": "Eastern Galicia",
+    "wp_title": "Eastern Galicia",
+    "type": "historical region",
+    "category": "history",
+    "aliases": [],
+    "notability": 16,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4271095",
+    "slug": "danylo-halytsky-lviv-national-medical-university",
+    "name": "Danylo Halytsky Lviv National Medical University",
+    "wp_title": "Danylo Halytsky Lviv National Medical University",
+    "type": "university",
+    "category": "history",
+    "aliases": [
+      "Lviv National Medical University",
+      "Lvov State Medical Institute"
+    ],
+    "notability": 12,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q958769",
+    "slug": "national-academy-of-sciences-of-ukraine",
+    "name": "National Academy of Sciences of Ukraine",
+    "wp_title": "National Academy of Sciences of Ukraine",
+    "type": "academy of sciences",
+    "category": "history",
+    "aliases": [
+      "Academy of Sciences of Ukraine",
+      "Academy of Sciences of the Ukrainian SSR",
+      "All-Ukrainian Academy of Sciences",
+      "NAN Ukraine",
+      "NANU",
+      "NAS",
+      "NASU",
+      "Natsional’na akademiya nauk Ukrayiny",
+      "UAN",
+      "Ukrainian Academy of Sciences",
+      "VUAN"
+    ],
+    "notability": 39,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2973237",
+    "slug": "cinema-of-ukraine",
+    "name": "cinema of Ukraine",
+    "wp_title": "Cinema of Ukraine",
+    "type": "cinema by country or region",
+    "category": "history",
+    "aliases": [
+      "filmmaking in Ukraine"
+    ],
+    "notability": 32,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q13211",
+    "slug": "ruthenian",
+    "name": "Ruthenian",
+    "wp_title": "Ruthenian language",
+    "type": "dead language",
+    "category": "history",
+    "aliases": [
+      "Chancery Slavonic",
+      "Chancery language of the Grand Duchy of Lithuania",
+      "Early Middle Ukrainian",
+      "Early Ruthenian",
+      "High Ruthenian",
+      "Late Middle Ukrainian",
+      "Late Ruthenian",
+      "Lithuanian-Russian",
+      "Lithuanian-Slavonic",
+      "Middle Ukrainian",
+      "Old Belarusian",
+      "Old Ruthenian",
+      "Old Ukrainian",
+      "Old West Russian",
+      "Ruthenian language",
+      "Simple Ruthenian",
+      "West Russian",
+      "West Russian Chancery",
+      "West Russian Chancery language",
+      "ruski"
+    ],
+    "notability": 49,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q389676",
+    "slug": "ukrainian-orthodox-church-kyiv-patriarchate",
+    "name": "Ukrainian Orthodox Church – Kyiv Patriarchate",
+    "wp_title": "Ukrainian Orthodox Church – Kyiv Patriarchate",
+    "type": "national Church",
+    "category": "history",
+    "aliases": [
+      "UOC-KP",
+      "Ukrainian Orthodox Church of the Kyivan Patriarchate"
+    ],
+    "notability": 35,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2370159",
+    "slug": "ukrainian-rock",
+    "name": "Ukrainian rock",
+    "wp_title": "Rock music in Ukraine",
+    "type": "music genre",
+    "category": "history",
+    "aliases": [
+      "rock music in Ukraine"
+    ],
+    "notability": 10,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4719215",
+    "slug": "alexander-j-motyl",
+    "name": "Alexander J. Motyl",
+    "wp_title": "Alexander J. Motyl",
+    "type": "human",
+    "category": "war",
+    "aliases": [
+      "Alexander John Motyl",
+      "Alexander Motyl"
+    ],
+    "notability": 11,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q111024035",
+    "slug": "hanna-malyar",
+    "name": "Hanna Malyar",
+    "wp_title": "Hanna Maliar",
+    "type": "human",
+    "category": "war",
+    "aliases": [
+      "Hanna Maliar",
+      "Hanna Vasylivna Maliar",
+      "Hanna Vasylivna Malyar"
+    ],
+    "notability": 20,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q704389",
+    "slug": "arsen-avakov",
+    "name": "Arsen Avakov",
+    "wp_title": "Arsen Avakov",
+    "type": "human",
+    "category": "war",
+    "aliases": [
+      "Arsen Borysovych Avakov"
+    ],
+    "notability": 33,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q19816563",
+    "slug": "artem-sytnyk",
+    "name": "Artem Sytnyk",
+    "wp_title": "Artem Sytnyk",
+    "type": "human",
+    "category": "war",
+    "aliases": [
+      "Artem Serhiiovych Sytnyk",
+      "Artem Sytnik",
+      "Artyom Sergeyevich Sytnik",
+      "Artyom Sytnik"
+    ],
+    "notability": 8,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q19421615",
+    "slug": "defenders-of-ukraine-day",
+    "name": "Defenders of Ukraine Day",
+    "wp_title": "Defenders Day (Ukraine)",
+    "type": "public holiday",
+    "category": "war",
+    "aliases": [
+      "Defender of Ukraine Day"
+    ],
+    "notability": 20,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q16474356",
+    "slug": "igor-girkin",
+    "name": "Igor Girkin",
+    "wp_title": "Igor Girkin",
+    "type": "human",
+    "category": "war",
+    "aliases": [
+      "Igor Ivanovich Strelkov",
+      "Igor Strelkov",
+      "Igor Vsevolodovich Girkin",
+      "Sergey Runov",
+      "Sergey Viktorovich Runov"
+    ],
+    "notability": 52,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2066149",
+    "slug": "ministry-of-defence-of-ukraine",
+    "name": "Ministry of Defence of Ukraine",
+    "wp_title": "Ministry of Defence (Ukraine)",
+    "type": "defence ministry",
+    "category": "war",
+    "aliases": [
+      "Ministry of Defense of Ukraine",
+      "MoD Ukraine",
+      "Ukrainian Ministry of Defence"
+    ],
+    "notability": 28,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q7362685",
+    "slug": "romaniaukraine-relations",
+    "name": "Romania–Ukraine relations",
+    "wp_title": "Romania–Ukraine relations",
+    "type": "bilateral relation",
+    "category": "war",
+    "aliases": [
+      "Romania-Ukraine relations",
+      "Ukraine-Romania relations",
+      "Ukraine–Romania relations"
+    ],
+    "notability": 13,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q65199830",
+    "slug": "serhiy-haidai",
+    "name": "Serhiy Haidai",
+    "wp_title": "Serhiy Haidai",
+    "type": "human",
+    "category": "war",
+    "aliases": [
+      "Serhiy Volodymyrovych Haidai"
+    ],
+    "notability": 15,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q754307",
+    "slug": "fc-zorya-luhansk",
+    "name": "FC Zorya Luhansk",
+    "wp_title": "FC Zorya Luhansk",
+    "type": "association football club",
+    "category": "war",
+    "aliases": [],
+    "notability": 45,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2090117",
+    "slug": "russiaukraine-relations",
+    "name": "Russia–Ukraine relations",
+    "wp_title": "Russia–Ukraine relations",
+    "type": "bilateral relation",
+    "category": "war",
+    "aliases": [
+      "Russia-Ukraine relations",
+      "Russian-Ukrainian relations",
+      "Ukraine-Russia relations",
+      "Ukraine–Russia relations"
+    ],
+    "notability": 40,
+    "status": "synthesized"
   }
 ]

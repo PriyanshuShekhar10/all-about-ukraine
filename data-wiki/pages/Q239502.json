@@ -28,7 +28,7 @@
       }
     ]
   },
-  "summary": "The Kingdom of Galicia–Volhynia, also referred to as the Kingdom of Ruthenia or Kingdom of Rus', was a significant medieval state in Eastern Europe that existed from 1199 to 1349, primarily within the territory of modern-day [[ukraine|Ukraine]]. It emerged from the fragmentation of [[kievan-rus|Kievan Rus]]' and played a crucial role in the region's political landscape during its existence.",
+  "summary": "The Kingdom of Galicia–Volhynia, also referred to as the Kingdom of Ruthenia or Kingdom of Rus', was a significant medieval state in [[eastern-europe|Eastern Europe]] that existed from 1199 to 1349, primarily within the territory of modern-day [[ukraine|Ukraine]]. It emerged from the fragmentation of [[kievan-rus|Kievan Rus]]' and played a crucial role in the region's political landscape during its existence.",
   "sections": [
     {
       "heading": "Historical Background",
@@ -62,6 +62,7 @@
     }
   ],
   "links_out": [
+    "eastern-europe",
     "halych",
     "kievan-rus",
     "lviv",

@@ -1,0 +1,92 @@
+{
+  "qid": "Q103821086",
+  "slug": "bila-tserkva-raion",
+  "title": "Bila Tserkva Raion",
+  "type": "raion of Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "raion of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2020-07-19",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Bila Tserkva",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "443,400",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "6,514",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.6480, 30.1862",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Bila Tserkva Raion is a district located in Kyiv Oblast, Ukraine, with its administrative center in the city of Bila Tserkva. As of 2022, the population is estimated at 431,172, following significant administrative reforms in 2020 that expanded its area and restructured its subdivisions.",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Overview",
+      "paragraphs": [
+        "Bila Tserkva Raion ([[ukrainian|Ukrainian]]: Білоцерківський район) is situated within [[kyiv|Kyiv]] Oblast, [[ukraine|Ukraine]]. The city of [[bila-tserkva|Bila Tserkva]] serves as its administrative center. The population of the raion is estimated to be 431,172 as of 2022.",
+        "On 18 July 2020, an administrative reform in Ukraine led to a reduction in the number of raions in Kyiv Oblast to seven. This reform significantly expanded the area of Bila Tserkva Raion, incorporating six abolished raions: Rokytne, Skvyra, Stavyshche, Tarashcha, Tetiiv, and Volodarka, along with the city of Bila Tserkva and parts of Bohuslav and Vasylkiv Raions. Prior to the reform, the raion covered an area of 1,276.8 square kilometers (493.0 mi²), with a population estimate of 48,440 in January 2020."
+      ]
+    },
+    {
+      "heading": "Subdivisions",
+      "paragraphs": [
+        "Following the 2020 administrative reform, Bila Tserkva Raion is composed of 13 hromadas, which are the basic administrative units in Ukraine.",
+        "Before the reform, the raion was divided into three hromadas: Fursy rural hromada, with its administration located in Fursy; Mala Vilshanka rural hromada, administered from Mala Vilshanka; and Uzyn urban hromada, with its administration in the city of Uzyn."
+      ]
+    },
+    {
+      "heading": "Cultural and Historical Significance",
+      "paragraphs": [
+        "Bila Tserkva Raion is home to several notable architectural monuments, reflecting its cultural heritage. These include the Monument to [[ivan-mazepa|Ivan Mazepa]], erected in 1991 in the village of Mazepyntsi; the Church Zishestia Sviatoho Dukha, built in 1750 in Shkarivka; and the Church Sviatoi Paraskevy, constructed in 1903 in Oliinykova Sloboda.",
+        "Other significant structures include the Church of the Wives of Myronosyts, established in 1893 in Sorokotiahy; the Cathedral of the Saint Ioanna Khrestytelia in Bila Tserkva; Mykhailivska Church, built in 1891; Preobrazhenska Church, constructed in 1849 in Sukholisy; Oleksandriia Park, designed between 1793 and 1797 in Bila Tserkva; and the Zymovyi (Winter) Palace located in Bila Tserkva."
+      ]
+    },
+    {
+      "heading": "Notable Residents",
+      "paragraphs": [
+        "The territory of Bila Tserkva Raion has produced several notable figures, including Ivan Mazepa, a prominent Cossack [[hetman|Hetman]] of the Hetmanate in Left-bank Ukraine from 1687 to 1708, who was born in Bila Tserkva.",
+        "Another notable resident is Pavel Popovich from Uzyn, recognized as a Soviet cosmonaut of Ukrainian descent, and is considered one of the first ethnic [[ukrainians|Ukrainians]] to travel into space."
+      ]
+    }
+  ],
+  "links_out": [
+    "bila-tserkva",
+    "hetman",
+    "ivan-mazepa",
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Bila Tserkva Raion — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bila_Tserkva_Raion",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

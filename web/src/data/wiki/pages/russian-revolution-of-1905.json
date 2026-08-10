@@ -1,0 +1,74 @@
+{
+  "qid": "Q184928",
+  "slug": "russian-revolution-of-1905",
+  "title": "Russian Revolution of 1905",
+  "type": "revolution",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "revolution",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "1905-01-22",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Russian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Russia",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The Russian Revolution of 1905, also referred to as the First Russian Revolution, was a significant uprising within the Russian Empire that commenced on 22 January 1905, ultimately resulting in the establishment of a constitutional monarchy through the Russian Constitution of 1906. This revolution was marked by widespread political and social unrest, including strikes and revolts that had implications for Ukraine's socio-political landscape.",
+  "sections": [
+    {
+      "heading": "Background and Causes",
+      "paragraphs": [
+        "The revolution was preceded by a period of economic crisis in Russia, exacerbated by the contraction of Western money markets between 1899 and 1900, which severely impacted Russian industry. Social unrest grew in the years leading up to the revolution, fueled by poor conditions for workers, urban unemployment, and the agrarian crisis affecting peasants, particularly in regions like [[ukraine|Ukraine]].",
+        "The agrarian situation was dire, with many nobles in debt and peasants struggling under semi-feudal relations. By 1903, the total arrears in payments of taxes and dues among peasants reached 118 million rubles, leading to violent outbreaks in provinces such as [[kharkiv|Kharkov]] and [[poltava|Poltava]]."
+      ]
+    },
+    {
+      "heading": "Key Events of the Revolution",
+      "paragraphs": [
+        "The revolution began on 22 January [O.S. 9 January] 1905, known as 'Bloody Sunday,' when soldiers fired upon a peaceful procession of workers led by Georgy Gapon outside the Winter Palace in Saint Petersburg. This incident sparked widespread demonstrations and strikes across the empire, including in [[ukrainian|Ukrainian]] cities, which were met with brutal repression by the tsar's troops.",
+        "In June 1905, a notable mutiny occurred aboard the battleship Potemkin, while in October, a strike by railway workers escalated into a general strike in major cities like Saint Petersburg and Moscow, with urban workers forming councils such as the St. Petersburg Soviet of Workers' Deputies."
+      ]
+    },
+    {
+      "heading": "Government Response and Reforms",
+      "paragraphs": [
+        "In response to the unrest, Tsar Nicholas II issued the 'October Manifesto,' which promised the creation of a legislative assembly and the expansion of civil rights. The Russian Constitution, drafted by Sergei Witte and enacted on 6 May [O.S. 23 April] 1906, aimed to address some grievances but did not quell the revolutionary fervor.",
+        "Despite the establishment of the Duma, which was intended to represent the people's interests, it often clashed with the tsar, leading to its dissolution in July 1906 and a subsequent electoral reform that favored the propertied classes."
+      ]
+    },
+    {
+      "heading": "Aftermath and Historical Significance",
+      "paragraphs": [
+        "The Revolution of 1905 ultimately failed to achieve its goals, leading to a period of harsh repression. However, many historians argue that it laid the groundwork for the more successful Russian Revolution of 1917, which resulted in the abolition of the monarchy and the establishment of a socialist state.",
+        "Vladimir Lenin characterized the 1905 revolution as a 'dress rehearsal' for the later revolution, highlighting its importance in shaping the revolutionary landscape of Russia and its implications for Ukraine, where similar social and political tensions were present."
+      ]
+    }
+  ],
+  "links_out": [
+    "kharkiv",
+    "poltava",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Russian Revolution of 1905 — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Russian_Revolution_of_1905",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

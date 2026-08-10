@@ -1,0 +1,72 @@
+{
+  "qid": "Q4294829",
+  "slug": "ministry-of-economy",
+  "title": "Ministry of Economy",
+  "type": "economic affairs ministry",
+  "category": "economy",
+  "aliases": [
+    "Minekonomrozvytku"
+  ],
+  "infobox": {
+    "label": "economic affairs ministry",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1991",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Ukiranian Government Building",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Ministry for Development of Economy and Trade of Ukraine is the primary governmental authority responsible for formulating and implementing economic and social development policies in the country. It plays a crucial role in regulating various economic sectors and coordinating Ukraine's economic relations with the European Union.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Ministry for Development of Economy and Trade ([[ukrainian|Ukrainian]]: Міністерство економрозвитку і торгівлі України) serves as the principal authority within the central [[cabinet-of-ministers-of-ukraine|government of Ukraine]]. Its responsibilities include the formation and execution of state policies related to economic and social development, consumer price regulation, and industrial, investment, and trade economic policies."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The ministry has its roots in the former Ministry of Economy and traces back to the Planning Commission of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]. Over the years, it has absorbed various ministries, including the Ministry of Trade and the Ministry of Foreign Economic Relations. From 2019 to 2020, it also took on the functions of the Ministry of Agrarian Policy and Food, which was later re-established on 17 December 2020."
+      ]
+    },
+    {
+      "heading": "Structure and Governance",
+      "paragraphs": [
+        "The ministry is organized into a central body led by a minister, a first deputy, and several other deputies who assist in its operations. Additionally, the ministry elects representatives from various state administrations to facilitate the coordination of government companies."
+      ]
+    },
+    {
+      "heading": "State Agencies",
+      "paragraphs": [
+        "The Ministry for Development of Economy and Trade oversees several state agencies, which include the State Agency of [[ukraine|Ukraine]] for managing state corporate rights and properties, the State Agency of Reserves of Ukraine, the State Agency for Investments and National Projects of Ukraine (Ukrproject), the State Agency for Energy Efficiency and Energy Conservation of Ukraine, the State Service of Statistics of Ukraine, the State Service of Export Control of Ukraine, the State Inspection for Protection of Consumers' Rights, and the National Accreditation Agency of Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Ministry of Economy (Ukraine) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ministry_of_Economy_(Ukraine)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

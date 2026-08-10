@@ -1,0 +1,80 @@
+{
+  "qid": "Q257132",
+  "slug": "oksana-zabuzhko",
+  "title": "Oksana Zabuzhko",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Oksana Stefanivna Zabuzhko"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1960-09-19",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Lutsk",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Oksana Stefanivna Zabuzhko is a prominent Ukrainian novelist, poet, and essayist born on 19 September 1960 in Lutsk, Ukraine. Her literary contributions, particularly in exploring national identity and gender, have positioned her as a key figure in contemporary Ukrainian literature.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Oksana Zabuzhko was born on 19 September 1960 in [[lutsk|Lutsk]], [[ukraine|Ukraine]]. Her father, Stefan (Stepan) Ivanovych Zabuzhko (1926-1983), was a teacher, literary critic, and translator, notable for being the first to translate the works of Czech composer and writer Ilja Hurník into [[ukrainian|Ukrainian]]. He faced repression during [[donetsk|Stalin]]'s regime.",
+        "Zabuzhko claims to have received her philological education at home. The repressions against the Ukrainian intelligentsia that began in September 1965 compelled her family to leave Lutsk, and since 1968, she has resided in [[kyiv|Kyiv]]. She studied philosophy at [[taras-shevchenko-national-university-of-kyiv|Kyiv University]], where she earned her doctorate in aesthetics in 1987."
+      ]
+    },
+    {
+      "heading": "Academic and Professional Career",
+      "paragraphs": [
+        "In 1992, Zabuzhko served as a visiting writer at Penn State University. She was awarded a Fulbright scholarship in 1994, subsequently teaching [[ukrainian-literature|Ukrainian literature]] at Harvard and the University of Pittsburgh. Currently, she is affiliated with the Hryhori Skovoroda Institute of Philosophy of the [[national-academy-of-sciences-of-ukraine|National Academy of Sciences of Ukraine]].",
+        "On 8 March 2022, Zabuzhko became the first individual who is neither an EU citizen nor an official to address a plenary session of the European Parliament in Strasbourg, emphasizing Ukraine's struggle against totalitarianism."
+      ]
+    },
+    {
+      "heading": "Literary Contributions",
+      "paragraphs": [
+        "Oksana Zabuzhko's literary work predominantly addresses themes of national identity and gender. Her debut novel, Fieldwork in Ukrainian Sex, published in 1996, sparked significant controversy and was recognized in a 2006 poll as the book that most influenced Ukrainian society during the first 15 years of independence. It is the most widely translated work of new Ukrainian prose, available in 15 languages.",
+        "Her notable non-fiction work, Notre Dame d'Ukraine: A Ukrainian Woman in the Conflict of Mythologies (2007), explores the cultural values of the Ukrainian intelligentsia. Her recent novel, The Museum of Abandoned Secrets (2009), examines Ukraine's historical resistance to Soviet colonialism across different eras."
+      ]
+    },
+    {
+      "heading": "Awards and Recognition",
+      "paragraphs": [
+        "Oksana Zabuzhko has received several prestigious awards, including the Antonovych Prize in 2009, the Angelus Award in 2013, the Shevchenko National Prize in 2019, and the Women in Arts Award in 2020. In 2023, she was included in BBC's 100 Women list."
+      ]
+    },
+    {
+      "heading": "Selected Works",
+      "paragraphs": [
+        "Zabuzhko's bibliography includes significant poetry and prose, such as May Frost (1985), The Museum of Abandoned Secrets (2009), and various non-fiction works like Let My People Go (2005) and Philosophy of the Ukrainian Idea and the European Context (1992). Her literary style is characterized by its intellectual depth and engagement with feminist themes."
+      ]
+    }
+  ],
+  "links_out": [
+    "donetsk",
+    "kyiv",
+    "lutsk",
+    "national-academy-of-sciences-of-ukraine",
+    "taras-shevchenko-national-university-of-kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-literature"
+  ],
+  "sources": [
+    {
+      "title": "Oksana Zabuzhko — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oksana_Zabuzhko",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

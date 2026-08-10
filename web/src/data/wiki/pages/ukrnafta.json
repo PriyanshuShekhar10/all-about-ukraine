@@ -36,13 +36,13 @@
     {
       "heading": "Historical Background",
       "paragraphs": [
-        "Ukrnafta was founded in 1994 as a result of the privatization of the 'Ukrnafta producing association', a state enterprise that had been operating since 1945. The company's name is a portmanteau of the Ukrainian words for 'Ukrainian' and 'oil'. The state company Naftogaz Ukrainy holds just over 50% plus one share of Ukrnafta, while 42% is owned by the Privat Group, based in [[dnieper|Dnipro]]. Along with Chornomornaftogaz and Ukragazproduction, Ukrnafta is one of the few state companies involved in the extraction and refining of oil and gas in Ukraine."
+        "Ukrnafta was founded in 1994 as a result of the privatization of the 'Ukrnafta producing association', a state enterprise that had been operating since 1945. The company's name is a portmanteau of the Ukrainian words for 'Ukrainian' and 'oil'. The state company Naftogaz Ukrainy holds just over 50% plus one share of Ukrnafta, while 42% is owned by the Privat Group, based in [[dnieper|Dnipro]]. Along with [[chornomornaftogaz|Chornomornaftogaz]] and Ukragazproduction, Ukrnafta is one of the few state companies involved in the extraction and refining of oil and gas in Ukraine."
       ]
     },
     {
       "heading": "Corporate Structure and Operations",
       "paragraphs": [
-        "Ukrnafta operates as a unified production and economic complex, consisting of six oil and gas production departments located in Okhtyrka, [[chernihiv|Chernihiv]], [[poltava|Poltava]], Dolyna, Nadvirna, and Boryslav. The company also has three drilling departments, one oil refinery, and three gas processing factories situated in Hnidyn (Chernihiv Oblast), Kachanivka ([[sumy|Sumy]] Oblast), and Dolyna ([[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]]). As of the end of 2020, Ukrnafta operated 1,813 oil wells and 155 gas wells."
+        "Ukrnafta operates as a unified production and economic complex, consisting of six oil and gas production departments located in Okhtyrka, [[chernihiv|Chernihiv]], [[poltava|Poltava]], Dolyna, Nadvirna, and Boryslav. The company also has three drilling departments, one oil refinery, and three gas processing factories situated in Hnidyn (Chernihiv Oblast), Kachanivka ([[sumy-oblast|Sumy Oblast]]), and Dolyna ([[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]]). As of the end of 2020, Ukrnafta operated 1,813 oil wells and 155 gas wells."
       ]
     },
     {
@@ -54,7 +54,7 @@
     {
       "heading": "Nationalization and Recent Developments",
       "paragraphs": [
-        "On November 6, 2022, during a period of martial law, the [[cabinet-of-ministers-of-ukraine|Ukrainian government]], led by President Volodymyr Zelenskiy, nationalized Ukrnafta to ensure the fulfillment of urgent defense needs. Prior to this action, Naftogaz owned 50% plus one share, while the remaining shares were held by various entities, including Little Enterprises Limited and Bridgemont Ventures Limited. The shares owned by Ihor Kolomoiskyi and Gennadiy Bogolyubov, totaling 42%, were transferred to a special depository account managed by the Ministry of Defense of Ukraine."
+        "On November 6, 2022, during a period of martial law, the [[cabinet-of-ministers-of-ukraine|Ukrainian government]], led by President Volodymyr Zelenskiy, nationalized Ukrnafta to ensure the fulfillment of urgent defense needs. Prior to this action, Naftogaz owned 50% plus one share, while the remaining shares were held by various entities, including Little Enterprises Limited and Bridgemont Ventures Limited. The shares owned by Ihor Kolomoiskyi and Gennadiy Bogolyubov, totaling 42%, were transferred to a special depository account managed by the [[ministry-of-defence-of-ukraine|Ministry of Defense of Ukraine]]."
       ]
     },
     {
@@ -67,11 +67,13 @@
   "links_out": [
     "cabinet-of-ministers-of-ukraine",
     "chernihiv",
+    "chornomornaftogaz",
     "dnieper",
     "ivano-frankivsk",
     "ivano-frankivsk-oblast",
+    "ministry-of-defence-of-ukraine",
     "poltava",
-    "sumy",
+    "sumy-oblast",
     "ukraine",
     "ukrainian"
   ],

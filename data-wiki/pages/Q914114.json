@@ -30,7 +30,7 @@
     {
       "heading": "Historical Significance",
       "paragraphs": [
-        "The history of the Rus' is crucial for understanding the state formation and national origins in Eastern Europe during the 9th and 10th centuries. Their legacy is foundational to the histories of Russia, [[ukraine|Ukraine]], and Belarus.",
+        "The history of the Rus' is crucial for understanding the state formation and national origins in [[eastern-europe|Eastern Europe]] during the 9th and 10th centuries. Their legacy is foundational to the histories of Russia, [[ukraine|Ukraine]], and Belarus.",
         "The term Rus' became associated with the elite of [[kievan-rus|Kievan Rus]]', transitioning from a designation for Scandinavians to a broader identification of the Slavicized ruling class."
       ]
     },
@@ -50,6 +50,7 @@
     }
   ],
   "links_out": [
+    "eastern-europe",
     "kievan-rus",
     "ukraine",
     "ukrainian"

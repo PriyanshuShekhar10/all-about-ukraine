@@ -1,0 +1,124 @@
+{
+  "qid": "Q180981",
+  "slug": "kirovohrad-oblast",
+  "title": "Kirovohrad Oblast",
+  "type": "oblast of Ukraine",
+  "category": "people",
+  "aliases": [
+    "Kirovohradschyna",
+    "Kirovohrads’ka oblast’",
+    "Kirowogradskaja oblast",
+    "Kropyvnytskyi Oblast"
+  ],
+  "infobox": {
+    "label": "oblast of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1939-01-10",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Kropyvnytskyi",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "999,600",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "24,588",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Head of government",
+        "value": "Andriy Raykovych, Serhiy Kuzmenko",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.4600, 32.2700",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Kirovohrad Oblast, also known as Kirovohradshchyna, is a province located in central Ukraine, with Kropyvnytskyi serving as its administrative center. The oblast has a population of 903,712 as of 2022 and is recognized as Ukraine's second least populated oblast.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Kirovohrad Oblast covers an area of 24,600 square kilometers (9,500 sq mi). The city of Dobrovelychkivka is identified as the geographical center of [[ukraine|Ukraine]]. The majority of the region is situated within the historic territories of Right-bank Ukraine and [[zaporizhzhia|Zaporizhzhia]], while the western outskirts belong to historic [[podolia|Podolia]]."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The territory of modern Kirovohrad Oblast was originally inhabited by Scythians and later by the East Slavic tribe of Ulichis during the Middle Ages, particularly during the era of [[kievan-rus|Kyivan Rus]]'. Following the liberation from Tatar control, Dmytro Vyshnevetsky established the first [[zaporizhian-sich|Zaporozhian Sich]] on [[khortytsia|Khortytsia]] Island, marking the emergence of the [[zaporozhian-cossacks|Ukrainian Cossacks]] in the region. From 1569, the area became part of the Kingdom of Poland within the Polish–Lithuanian Commonwealth and was governed by Ukrainian Cossacks from the XV to XVIII centuries.",
+        "By the late 18th century, the region fell under direct Russian control due to the suppression of the [[cossacks|Cossacks]] and the introduction of serfdom. In 1752, New Serbia was established with Novomyrhorod as its capital. The Skarżyński family significantly influenced the region's agricultural development in the 1800s, including the establishment of a school in Migeya.",
+        "Kirovohrad Oblast was officially created on January 10, 1939, from the northern raions of [[mykolaiv-oblast|Mykolaiv Oblast]], previously part of [[kherson|Kherson]] Governorate and Podolia Governorate until 1925. The region suffered during Soviet repressions, with over 40,000 residents killed. It was occupied by Nazi forces from 1941 to 1944, liberated during the [[kropyvnytskyi|Kirovograd]] offensive.",
+        "In 1954, the oblast lost some territories to the newly formed [[cherkasy|Cherkasy]] Oblast but gained western raions from [[odesa-oblast|Odesa Oblast]]. The administrative center, Kropyvnytskyi, was known as Kirovohrad until July 14, 2016, when it was renamed due to decommunization laws. While the proposal to rename the oblast to Kropyvnytskyi Oblast was backed by the [[verkhovna-rada|Ukrainian parliament]] in 2018 and declared constitutional in 2019, the renaming process remains stalled in parliament."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "As per the 2001 [[ukrainian|Ukrainian]] census, ethnic [[ukrainians|Ukrainians]] comprised 90.1% of Kirovohrad Oblast's population, with ethnic Russians accounting for 7.5%.",
+        "The oblast's linguistic landscape has shifted due to historical Russification during the Soviet era. According to a 2018 poll, 70% of residents supported Ukrainian as the sole state language, while a 2021 program aimed to enhance the use of the Ukrainian language in public life. A 2023 survey indicated that 96.7% of respondents identified Ukrainian as their mother tongue.",
+        "The age structure in Kirovohrad Oblast as of 2013 was as follows: 14.3% aged 0–14 years, 68.7% aged 15–64 years, and 17.0% aged 65 and over. The median age was reported at 41.2 years."
+      ]
+    },
+    {
+      "heading": "Points of Interest",
+      "paragraphs": [
+        "Kirovohrad Oblast features several notable sites, including Khutir Nadiia, which was nominated for the Seven Wonders of Ukraine. The region also hosts various archaeological sites, such as the Nebelivka site and Melgunov Kurgan."
+      ]
+    },
+    {
+      "heading": "Administrative Divisions",
+      "paragraphs": [
+        "Prior to the administrative reform in July 2020, Kirovohrad Oblast was divided into 21 raions and included four cities directly governed by the oblast administration: Oleksandriia, Svitlovodsk, Znamianka, and Kropyvnytskyi."
+      ]
+    },
+    {
+      "heading": "Nomenclature",
+      "paragraphs": [
+        "The naming convention for Ukraine's oblasts typically derives from their capital cities, with the addition of a feminine suffix. Kirovohrad Oblast follows this pattern, reflecting its historical and administrative significance within Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "cherkasy",
+    "cossacks",
+    "kherson",
+    "khortytsia",
+    "kievan-rus",
+    "kropyvnytskyi",
+    "mykolaiv-oblast",
+    "odesa-oblast",
+    "podolia",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "verkhovna-rada",
+    "zaporizhian-sich",
+    "zaporizhzhia",
+    "zaporozhian-cossacks"
+  ],
+  "sources": [
+    {
+      "title": "Kirovohrad Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kirovohrad_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

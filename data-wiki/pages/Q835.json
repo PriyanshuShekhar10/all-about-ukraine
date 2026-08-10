@@ -1,0 +1,85 @@
+{
+  "qid": "Q835",
+  "slug": "mikhail-bulgakov",
+  "title": "Mikhail Bulgakov",
+  "type": "human",
+  "category": "culture",
+  "aliases": [
+    "Michael Bulgakov",
+    "Mikhail A. Bulgakov",
+    "Mikhail Afanasevich Bulgakov",
+    "Mikhail Afanasyevich Bulgakov"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1891-05-03",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1940-03-10",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Kyiv",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Mikhail Bulgakov was a prominent Russian and Soviet novelist and playwright, born in Kiev, which is now the capital of Ukraine. His notable works include The Master and Margarita and The White Guard, the latter reflecting his experiences during the turbulent times in Ukraine and Russia.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Mikhail Afanasyevich Bulgakov was born on 15 May 1891 in Kiev, then part of the Russian Empire. He was the eldest of seven children in a family with a strong educational background, as his father was a professor at the Kiev Theological Academy.",
+        "Bulgakov's formative years in Kiev greatly influenced his literary development, as he was exposed to a rich cultural environment that included literature, music, and theater."
+      ]
+    },
+    {
+      "heading": "Medical Career and Early Writing",
+      "paragraphs": [
+        "After graduating from Kiev University in 1916, Bulgakov worked as a physician during World War I and the subsequent Civil War, experiences that later inspired his writing, particularly in his short story cycle A Young Doctor's Notebook.",
+        "His early attempts at writing began around 1912, and he eventually abandoned medicine to focus on literature in 1920, marking the start of his literary career."
+      ]
+    },
+    {
+      "heading": "Literary Career",
+      "paragraphs": [
+        "Bulgakov's first significant literary work, The White Guard, was influenced by the loss of his mother and the chaos of the Civil War, and it was published in 1924. This novel, set in [[ukraine|Ukraine]], reflects the struggles of a family during the turbulent times of the revolution.",
+        "His play The Days of the Turbins, adapted from The White Guard, premiered in 1926 and gained popularity, although many of his other works faced censorship and were banned by the Soviet government."
+      ]
+    },
+    {
+      "heading": "The Master and Margarita",
+      "paragraphs": [
+        "Bulgakov began working on his most famous novel, The Master and Margarita, in the late 1920s, although it was published posthumously in 1966-67. This work has since been recognized as one of the masterpieces of the 20th century and showcases his unique blend of fantasy and political satire.",
+        "The novel's themes of love, power, and the struggle against oppression resonate deeply within the [[ukrainian|Ukrainian]] context, reflecting the broader struggles of the region during his lifetime."
+      ]
+    },
+    {
+      "heading": "Legacy",
+      "paragraphs": [
+        "Despite facing significant challenges during his lifetime, including censorship and personal struggles, Bulgakov's works have been re-evaluated and are now celebrated as integral contributions to Russian and [[ukrainian-literature|Ukrainian literature]].",
+        "His connection to Ukraine, both through his birthplace and the themes of his works, highlights the cultural and historical significance of his literary legacy."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine",
+    "ukrainian",
+    "ukrainian-literature"
+  ],
+  "sources": [
+    {
+      "title": "Mikhail Bulgakov — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mikhail_Bulgakov",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

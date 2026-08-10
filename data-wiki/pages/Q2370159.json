@@ -1,0 +1,68 @@
+{
+  "qid": "Q2370159",
+  "slug": "ukrainian-rock",
+  "title": "Ukrainian rock",
+  "type": "music genre",
+  "category": "history",
+  "aliases": [
+    "rock music in Ukraine"
+  ],
+  "infobox": {
+    "label": "music genre",
+    "fields": []
+  },
+  "summary": "Ukrainian rock is a music genre originating from Ukraine, evolving from the VIA music scene of the 1970s and 1980s. It has played a significant role in the cultural identity and resistance movements within the country.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The roots of rock music in Ukraine trace back to the late 1950s, coinciding with the spread of beat music among youth in the Soviet Union. This led to the formation of VIA youth collectives, which were a compromise between the Soviet authorities' ban on Western music and the demand for modern entertainment during the Khrushchev Thaw.",
+        "The government imposed heavy censorship, forcing many musicians to perform underground. This environment led to eclectic musical compositions that integrated various styles, while also reflecting a desire to assert national identity through folkloric elements."
+      ]
+    },
+    {
+      "heading": "Development in the 1960s and 1970s",
+      "paragraphs": [
+        "In the 1960s, bands such as Berezen', Dzvony, and Druhe Dykhannia began to perform modern [[music-of-ukraine|Ukrainian music]], often incorporating folk instruments. The first beat music festival in [[ukraine|Ukraine]] occurred on January 1, 1966, in [[kharkiv-oblast|Kharkiv]], marking a significant moment in the genre's history.",
+        "The 1970s saw the rise of VIA bands, which were officially registered and performed in regulated environments. Despite restrictions, these bands managed to introduce Western musical trends while maintaining a distinct [[ukrainian|Ukrainian]] identity. [[lviv|Lviv]] became a center of artistic resistance, producing bands like Super Vujky, which faced government crackdowns."
+      ]
+    },
+    {
+      "heading": "Cultural Impact in the 1980s",
+      "paragraphs": [
+        "The 1980s brought a partial relaxation of government restrictions, enabling a resurgence of rock music influenced by punk and alternative genres. The establishment of Ukraine's first official rock club, 'Kuznia', in 1986 facilitated the growth of local bands.",
+        "The Chervona Ruta music festival, first held in 1989, became a pivotal event for Ukrainian rock, showcasing a range of performers and solidifying the genre's place in the cultural landscape."
+      ]
+    },
+    {
+      "heading": "Emergence in the 1990s",
+      "paragraphs": [
+        "The late 1980s and early 1990s marked the emergence of a new generation of Ukrainian rock artists, including influential bands like Opalnyi Prynz and Loony Pelen. Festivals such as the Vyvykh festival in 1990 expressed protest against the Soviet regime and supported the independence movement.",
+        "The New Ukrainian Wave 92 festival in 1992 highlighted the rise of popular bands like Okean Elzy and Mandry, who blended traditional Ukrainian music with rock elements."
+      ]
+    },
+    {
+      "heading": "Contemporary Scene in the 21st Century",
+      "paragraphs": [
+        "The early 2000s witnessed a flourishing of music festivals in Ukraine, including Kraina Mriy and Zaxidfest, which promoted both traditional and modern music. With the onset of the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]], music events have taken on a vital social role, mobilizing support for the Armed Forces and fostering national unity."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "kharkiv-oblast",
+    "lviv",
+    "music-of-ukraine",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Rock music in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rock_music_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

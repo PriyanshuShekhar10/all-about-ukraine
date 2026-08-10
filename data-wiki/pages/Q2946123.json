@@ -1,0 +1,73 @@
+{
+  "qid": "Q2946123",
+  "slug": "centrenergo",
+  "title": "Centrenergo",
+  "type": "business",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "business",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1995",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Centrenergo is a significant electric and thermal energy producer in central and eastern Ukraine, contributing approximately 8% to the country's electricity production and about 18% to thermal generation. The company plays a crucial role in maintaining Ukraine's energy balance.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Centrenergo ([[ukrainian|Ukrainian]]: «Центренерго») is a prominent company involved in the production of electric and thermal [[energy-in-ukraine|energy in Ukraine]], particularly in its central and eastern regions. The company's primary functions include generating electricity for the wholesale electricity market and producing thermal energy."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Established in 1995 as the state enterprise 'Centrenergo', the company underwent privatization efforts initiated by the Ministry of Finance of [[ukraine|Ukraine]] in 1996. It was re-registered as an open joint stock company in 1998 and renamed PJSC 'Centrenergo' in March 2011. Various attempts to privatize the company have occurred, with the first effort in 2013 being halted due to a fatal accident at Vuhlehirska Power Station. A more recent attempt in December 2018 to sell a 78.3% stake was unsuccessful due to participant disqualifications. In 2020, a court temporarily prohibited privatization amid legal disputes. In 2025, discussions with the Swedish fund Swedfund regarding modernization efforts were complicated by concerns over coal demand, and in April 2026, the European Investment Bank signed an agreement to assist in the company's decarbonization strategy."
+      ]
+    },
+    {
+      "heading": "Structure",
+      "paragraphs": [
+        "Centrenergo operates three thermal power plants: Trypillya Power Station in [[kyiv|Kyiv]] Oblast, Zmiivska Power Station in [[kharkiv-oblast|Kharkiv Oblast]], and Vuhlehirska Power Station in [[donetsk-oblast|Donetsk Oblast]]. Additionally, it has a division named Remenergo located in [[cherkasy|Cherkasy]]. The company's total installed capacity is 7690 MW, representing about 14% of the total power plant capacity in Ukraine. The production process utilizes pulverized coal, natural gas, and oil."
+      ]
+    },
+    {
+      "heading": "Impact of the Russian-Ukrainian War",
+      "paragraphs": [
+        "The ongoing conflict has severely affected Centrenergo's operations. On July 25, 2022, Russian forces occupied the Vuhlehirska TES in Donetsk Oblast. Subsequently, on March 22, 2024, all units of the Zmiivska TES were destroyed, followed by the destruction of the Trypilska TES on April 11, 2024, due to a coordinated Russian attack involving drones and missiles. By November 8, 2025, all three of Centrenergo's power plants sustained damage and were shut down following a series of Russian drone attacks."
+      ]
+    }
+  ],
+  "links_out": [
+    "cherkasy",
+    "donetsk-oblast",
+    "energy-in-ukraine",
+    "kharkiv-oblast",
+    "kyiv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Centrenergo — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Centrenergo",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

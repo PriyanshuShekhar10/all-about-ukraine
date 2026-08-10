@@ -1,0 +1,72 @@
+{
+  "qid": "Q56243980",
+  "slug": "zakarpattia",
+  "title": "Zakarpattia",
+  "type": "Wikimedia disambiguation page",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "Zakarpattia refers to various entities associated with the region of Zakarpattia Oblast in Ukraine, including its administrative structure, historical context, and cultural significance.",
+  "sections": [
+    {
+      "heading": "Zakarpattia Oblast",
+      "paragraphs": [
+        "[[transcarpathia|Zakarpattia]] Oblast is an administrative region located on the inner side of the [[carpathians|Carpathians]] in [[modern-history-of-ukraine|modern Ukraine]].",
+        "The Zakarpattia Oblast Council serves as the regional assembly governing this oblast."
+      ]
+    },
+    {
+      "heading": "Administrative Divisions",
+      "paragraphs": [
+        "The administrative divisions of Zakarpattia Oblast consist of sub-regional units that facilitate local governance within the region."
+      ]
+    },
+    {
+      "heading": "Referendums and Elections",
+      "paragraphs": [
+        "The 1991 Zakarpattia general regional referendum was a significant event in Zakarpattia Oblast, reflecting the region's political landscape.",
+        "Regional elections for the Council of Zakarpattia Oblast took place in 2006 and again in 2010, highlighting the ongoing democratic processes in the region."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Historically, Zakarpattia refers to a wider area on the inner side of the Carpathian Mountains, centered around modern Zakarpattia Oblast, and has been known by various terms in English.",
+        "The region experienced significant political changes during the transitional post-war period from 1918 to 1919, and was part of the First Czechoslovak Republic from 1919 to 1938.",
+        "From 1938 to 1939, Zakarpattia was included in the Second Czechoslovak Republic, followed by annexation by Hungary from 1939 to 1945."
+      ]
+    },
+    {
+      "heading": "Cultural and Sports Associations",
+      "paragraphs": [
+        "The Zakarpattia Regional Committee of the Communist Party of [[ukraine|Ukraine]] was established de facto in 1944 and de jure in 1946, influencing the region's political framework.",
+        "FC Zakarpattia [[uzhhorod|Uzhhorod]], now known as FC Hoverla Uzhhorod, is a football club that represents the region, alongside its second-league team, FC Zakarpattia-2 Uzhhorod."
+      ]
+    },
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "The Zakarpattia Lowland is a geographical feature located in the southwestern parts of Zakarpattia Oblast, contributing to the region's diverse landscape."
+      ]
+    }
+  ],
+  "links_out": [
+    "carpathians",
+    "modern-history-of-ukraine",
+    "transcarpathia",
+    "ukraine",
+    "uzhhorod"
+  ],
+  "sources": [
+    {
+      "title": "Zakarpattia — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zakarpattia",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

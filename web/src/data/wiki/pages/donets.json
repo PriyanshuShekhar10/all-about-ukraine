@@ -1,0 +1,86 @@
+{
+  "qid": "Q191238",
+  "slug": "donets",
+  "title": "Donets",
+  "type": "river",
+  "category": "geography",
+  "aliases": [
+    "Donets River",
+    "Donetz",
+    "Severskiy Donets",
+    "Seversky Donets",
+    "Siverskiy Donets",
+    "Siversky Donets",
+    "Siverskyi Donets",
+    "Siverskyy Donets"
+  ],
+  "infobox": {
+    "label": "river",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Russia",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "51.0072, 37.0595",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Seversky Donets, also known as Siverskyi Donets, is a significant river located in eastern Ukraine, playing a crucial role in the region's ecology and economy. It is the fourth-longest river in Ukraine and the largest in eastern Ukraine, flowing through key industrial areas and contributing to the water supply of major cities.",
+  "sections": [
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "The name Donets is derived from the Iranic, Sarmatian term Dānu, meaning 'the river'. The river has been known since ancient times, with references from Ptolemy in the 2nd century CE, who identified the Don, into which the Donets flows, as Tanais. The Slavic name Seversky Donets reflects its origin from the land of the Severians."
+      ]
+    },
+    {
+      "heading": "Geography and Hydrology",
+      "paragraphs": [
+        "The Donets is the largest river in eastern [[ukraine|Ukraine]], with a total length of 1,053 km (654 mi) and a basin area of 98,900 km2 (38,200 sq mi). Most of its length, approximately 950 km (590 mi), is within Ukraine. The river's average annual flow varies from 25 m3/s (880 cu ft/s) near its source to 200 m3/s (7,100 cu ft/s) at its confluence with the Don.",
+        "Originating in the Central Russian Upland near Podolkhi village, the river flows through various [[ukrainian|Ukrainian]] oblasts, including [[kharkiv-oblast|Kharkiv]], [[donetsk|Donetsk]], and [[luhansk|Luhansk]], before continuing into Russia. The river features a width that generally ranges from 30 to 70 m (98 to 230 ft) and can reach depths between 0.3 and 10 m (1 ft 0 in and 32 ft 10 in)."
+      ]
+    },
+    {
+      "heading": "Current and Navigation",
+      "paragraphs": [
+        "The Donets is navigable up to the city of Donetsk, with navigation supported by six dams constructed between 1911 and 1914. Historical attempts to enhance shipping on the river were made in the late 19th and early 20th centuries, with notable figures like D. I. Mendeleev advocating for its development.",
+        "However, navigation has been limited due to the age of the dams and the design of the river's channel."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Throughout history, the Donets has served as a vital resource for ancient settlers, providing water, food, and a trade route. Various cultures, including Scythians and Slavs, have inhabited its banks. In the 18th and 19th centuries, the river was utilized for watermills, which contributed to the interruption of navigation.",
+        "In the 20th century, industrialization led to increased water demands from plants in the [[donbas|Donbas]] region, prompting the construction of reservoirs and canals to manage water supply."
+      ]
+    },
+    {
+      "heading": "Environmental Concerns",
+      "paragraphs": [
+        "The Donets faces significant environmental challenges due to industrial pollution, with water quality rated as level IV (polluted) to V (dirty). Major pollutants include fertilizers and industrial waste, particularly in areas like Kharkiv, Donetsk, and Luhansk.",
+        "Despite these challenges, the river supports a variety of flora and fauna, including 44 species of fish, although many larger species are becoming rare due to habitat degradation."
+      ]
+    }
+  ],
+  "links_out": [
+    "donbas",
+    "donetsk",
+    "kharkiv-oblast",
+    "luhansk",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Donets — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Donets",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

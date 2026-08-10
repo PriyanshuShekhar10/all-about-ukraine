@@ -1,0 +1,69 @@
+{
+  "qid": "Q20076226",
+  "slug": "ukrainian-state-film-agency",
+  "title": "Ukrainian State Film Agency",
+  "type": "government agency",
+  "category": "culture",
+  "aliases": [
+    "USFA"
+  ],
+  "infobox": {
+    "label": "government agency",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2011",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Ukrainian State Film Agency, known as Derzhkino, is the principal executive body overseeing cinematography in Ukraine, established in 2011 to implement state policy in the film sector.",
+  "sections": [
+    {
+      "heading": "Establishment",
+      "paragraphs": [
+        "The Ukrainian State Film Agency was established on 28 March 2011, succeeding the State Service of Cinematography. This agency serves as the central executive body responsible for the implementation of state policy related to cinematography in [[ukraine|Ukraine]].",
+        "From August 2014 to August 2019, Pylyp Illenko held the position of Chairman of the agency. Since its inception, the agency has significantly increased state financing for film production, which rose from ₴24 million in 2010 to ₴111 million in 2011, and further to ₴176 million in 2012.",
+        "In 2011, the agency initiated the First Pitching process, which allowed for the distribution of state financing based on project presentations evaluated by experts. Initially, the agency financed 10 short films and progressively increased its annual funding for various projects."
+      ]
+    },
+    {
+      "heading": "Ratings",
+      "paragraphs": [
+        "The State Film Agency issues ratings to films, with the latest amendment occurring in 2015. The ratings include: DA (Children Audience) for films aimed at children, ZA (General Audience) suitable for all viewers, 12 for children aged 12 and older, 16 for those under 16, and 18 for adults only.",
+        "Films rated 18 may only be screened after 18:00 and broadcast on television after 22:00. Additionally, films can be denied classification if they promote war, violence, cruelty, or fascism that threatens Ukraine's independence."
+      ]
+    },
+    {
+      "heading": "Criticism",
+      "paragraphs": [
+        "The agency has faced criticism for prioritizing funding for patriotic projects. To qualify for funding, films must have at least 90% of their dialogue in [[ukrainian|Ukrainian]] or [[crimean-tatar|Crimean Tatar]], a measure aimed at countering the influence of Russia's state-sponsored film industry.",
+        "Critics have drawn parallels between the agency's criteria and censorship practices found in authoritarian regimes, suggesting that such policies may limit creative expression within the Ukrainian film industry."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimean-tatar",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian State Film Agency — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_State_Film_Agency",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

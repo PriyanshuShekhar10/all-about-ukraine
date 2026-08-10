@@ -1,0 +1,76 @@
+{
+  "qid": "Q2419855",
+  "slug": "ukrainiansoviet-war",
+  "title": "Ukrainian–Soviet War",
+  "type": "war",
+  "category": "history",
+  "aliases": [
+    "Soviet invasion of Ukraine",
+    "Soviet-Ukrainian War",
+    "Soviet–Ukrainian War",
+    "Ukrainian-Soviet War"
+  ],
+  "infobox": {
+    "label": "war",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "1917-11-08",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Location",
+        "value": "Ukraine",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The Ukrainian–Soviet War refers to the conflict between the Ukrainian People's Republic and the Bolshevik forces from 1917 to 1921, following the October Revolution. This war is significant in [[history-of-ukraine|Ukrainian history]] as it represents a struggle for independence amidst the backdrop of broader revolutionary and civil conflicts in the region.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The Ukrainian–Soviet War is situated within the turmoil following the February Revolution of 1917, when various nationalities within the former Russian Empire sought autonomy. The Russian Provisional Government approved regional governance in parts of [[ukraine|Ukraine]], but tensions escalated with the Bolshevik coup in October 1917.",
+        "In November 1917, the Central Council of Ukraine declared its opposition to the Bolshevik regime and asserted its authority, leading to the establishment of the [[ukrainian-peoples-republic|Ukrainian People's Republic]]. The conflict intensified as Bolshevik troops began invading Ukraine."
+      ]
+    },
+    {
+      "heading": "Phases of the War",
+      "paragraphs": [
+        "The conflict can be divided into three distinct phases: from December 1917 to April 1918, characterized by Bolshevik advances and the initial resistance from [[ukrainian|Ukrainian]] forces; from December 1918 to December 1919, marked by a civil [[full-scale-russo-ukrainian-war|war in Ukraine]], the full-scale invasion by the Red Army, and the loss of [[western-ukraine|West Ukraine]] to Poland; and from early 1920 to late 1921, which included the Polish–Soviet War and Ukrainian guerrilla operations.",
+        "During the first phase, the Bolshevik forces, approximately 30,000 strong, advanced into Ukraine, facing Ukrainian forces numbering around 15,000. The Battle of Kruty on January 29, 1918, saw a small Ukrainian unit engage the advancing Bolsheviks, resulting in heavy casualties."
+      ]
+    },
+    {
+      "heading": "Key Events and Treaties",
+      "paragraphs": [
+        "Several important documents emerged during this period, including the Treaty of Brest-Litovsk, which recognized Ukraine's neutrality, and the Unification Act, which united the Western Ukrainian People's Republic with the Ukrainian People's Republic.",
+        "The Treaty of Warsaw, signed between Poland and Ukraine, aimed to counter Bolshevik advances, while the Peace of Riga ultimately resulted in the partition of Ukraine between Poland and the Bolshevik USSR."
+      ]
+    },
+    {
+      "heading": "Aftermath and Legacy",
+      "paragraphs": [
+        "The war concluded with the establishment of Soviet control over Ukraine, despite initial efforts for independence by the Ukrainian People's Republic. The conflict is viewed differently in historical narratives; Soviet historiography framed it as a liberation, while modern Ukrainian historians regard it as a failed struggle for independence.",
+        "The events of the Ukrainian–Soviet War had lasting implications for Ukraine's national identity and its subsequent history, influencing future generations' views on sovereignty and independence."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "history-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian–Soviet War — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian–Soviet_War",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

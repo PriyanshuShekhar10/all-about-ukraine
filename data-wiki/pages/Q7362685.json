@@ -1,0 +1,80 @@
+{
+  "qid": "Q7362685",
+  "slug": "romaniaukraine-relations",
+  "title": "Romania–Ukraine relations",
+  "type": "bilateral relation",
+  "category": "war",
+  "aliases": [
+    "Romania-Ukraine relations",
+    "Ukraine-Romania relations",
+    "Ukraine–Romania relations"
+  ],
+  "infobox": {
+    "label": "bilateral relation",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Romania, Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Romania–Ukraine relations encompass the diplomatic and bilateral interactions between Romania and Ukraine, which were first established on February 9, 1918, and re-established in 1992. The relationship has been shaped by historical disputes and ongoing cooperation, particularly in the context of regional security and minority rights.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The diplomatic relations between Romania and [[ukraine|Ukraine]] were initially established on February 9, 1918, and were re-established in 1992 after the dissolution of the Soviet Union. The two countries have a complex history that includes territorial disputes and minority issues."
+      ]
+    },
+    {
+      "heading": "Disputes and Resolutions",
+      "paragraphs": [
+        "Romania and Ukraine have engaged in negotiations for a treaty of friendship and cooperation, which have been hindered by disagreements over the ownership of [[snake-island|Snake Island]] and the associated oil and gas reserves in the Black Sea. A significant milestone was reached in June 1997 when Romania and Ukraine signed a bilateral treaty addressing various territorial and minority concerns.",
+        "The International Court of Justice resolved the dispute over the maritime boundary near Snake Island with a ruling on February 3, 2009, which established a delimitation line between the two countries. This ruling clarified the status of Snake Island and its impact on maritime boundaries."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "In response to the ongoing conflict in Ukraine, Romania has taken steps to enhance military cooperation with Ukraine. On September 5, 2020, a technical and military cooperation agreement was signed between the defense ministers of both countries.",
+        "During the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], [[president-of-ukraine|Ukrainian President]] [[volodymyr-zelenskyy|Volodymyr Zelenskyy]] addressed the Romanian Parliament on April 4, 2022, emphasizing the importance of cooperation. Following this, Romanian officials visited [[kyiv|Kyiv]], indicating a commitment to strengthen ties.",
+        "Romania also announced reforms to its military export regulations on April 19, 2022, allowing for the provision of military equipment to Ukraine in light of Russian aggression."
+      ]
+    },
+    {
+      "heading": "Cultural and Linguistic Relations",
+      "paragraphs": [
+        "On December 3, 2025, the [[verkhovna-rada|Verkhovna Rada]] of Ukraine approved a bill that recognized the Romanian language, correcting previous historical inaccuracies regarding minority language protections. This was part of broader efforts to enhance cultural ties between the two nations.",
+        "On March 12, 2026, President Zelenskyy established Romanian Language Day in Ukraine, to be celebrated on August 31, fostering mutual respect and cooperation in [[ukrainian|Ukrainian]]-Romanian relations."
+      ]
+    },
+    {
+      "heading": "Diplomatic Missions",
+      "paragraphs": [
+        "Romania maintains an embassy in Kyiv and consulates in [[chernivtsi|Chernivtsi]], [[odesa|Odesa]], and Solotvyno. Conversely, Ukraine has an embassy in Bucharest, facilitating ongoing diplomatic engagement between the two countries."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "chernivtsi",
+    "kyiv",
+    "odesa",
+    "president-of-ukraine",
+    "snake-island",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "Romania–Ukraine relations — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Romania–Ukraine_relations",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

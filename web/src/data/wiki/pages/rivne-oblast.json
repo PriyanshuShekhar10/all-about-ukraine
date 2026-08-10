@@ -1,0 +1,117 @@
+{
+  "qid": "Q174187",
+  "slug": "rivne-oblast",
+  "title": "Rivne Oblast",
+  "type": "oblast of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Polesie",
+    "Rivne Region",
+    "Rivnenshchyna",
+    "Rovno Oblast"
+  ],
+  "infobox": {
+    "label": "oblast of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1939-12-04",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Rivne",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "1,162,700",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "20,047",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "360",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Vitalii Koval",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.7400, 26.3500",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Rivne Oblast, known in Ukrainian as Рівненська область, is an administrative region in northwestern Ukraine with its center in the city of Rivne. Covering an area of 20,100 square kilometers, it had an estimated population of 1,141,784 in 2022.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Prior to its annexation by the Soviet Union during World War II, Rivne Oblast was part of the Second Polish Republic's Wołyń Voivodeship, following the Polish–Soviet War. It was previously included in the Volhynian Governorate."
+      ]
+    },
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Rivne Oblast is situated in the central part of the historical region of Volhynia, which is symbolized on its coat of arms by a white cross on a red background. The region's terrain is diverse, with the northern area lying in the Polesian Lowland and the southern part in the Volhynian Upland, where the highest hills, known as Povcha Upland, exceed 350 meters in elevation. The Horyn River serves as the primary waterway, while the northwestern region is connected to the [[pripyat|Prypiat]] River. The oblast is also rich in natural resources, including significant deposits of amber and basalt, although illegal extraction of amber has been reported in recent years."
+      ]
+    },
+    {
+      "heading": "Administrative Divisions",
+      "paragraphs": [
+        "As of 19 July 2020, Rivne Oblast is divided into four raions: Dubno Raion, with its center in Dubno; [[rivne|Rivne]] Raion, centered in Rivne; Sarny Raion, with Sarny as its center; and Varash Raion, centered in Varash. Prior to this date, the oblast comprised 16 raions and four cities directly governed by the oblast government: Dubno, Varash, Ostroh, and Rivne."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "According to the 2001 [[ukrainian|Ukrainian]] census, ethnic [[ukrainians|Ukrainians]] constituted 95.9% of Rivne Oblast's population, while ethnic Russians made up 2.6% and ethnic Belarusians 1.0%. The region is noted for having one of the highest birth rates in [[ukraine|Ukraine]], though this rate varies significantly across different raions.",
+        "In 2013, the population was recorded at 1,156,900, reflecting a natural increase despite a net migration loss. The total fertility rate was reported at 15.9, with rural areas exhibiting higher fertility rates compared to urban areas."
+      ]
+    },
+    {
+      "heading": "Language and Culture",
+      "paragraphs": [
+        "The impact of Russification during the Soviet era was minimal in Rivne Oblast, where the proportion of Ukrainian speakers remained around 92-95% from 1959 to 1989. According to the 2001 census, Ukrainian is the sole official language throughout the oblast.",
+        "A 2018 poll indicated that 87% of residents supported Ukrainian as the only state language in Ukraine. On 2 May 2024, the Rivne Oblast Council approved a program aimed at promoting the Ukrainian language in public life and assisting Ukrainian refugees.",
+        "In the 2023-2024 school year, all students in Rivne Oblast's general secondary education institutions were instructed in Ukrainian, reflecting the ongoing [[ukrainization|Ukrainization]] of the education system since independence in 1991."
+      ]
+    },
+    {
+      "heading": "Points of Interest",
+      "paragraphs": [
+        "Rivne Oblast is home to several historical and cultural sites, some of which have been nominated for the Seven Wonders of Ukraine. Notable sites include Ostroh Castle, Trinity Monastery in Korets, Dubno Castle, the Spring of St. Anna, Tarakaniv Fort, Novomalyna Castle, and the Rivne Nuclear Power Plant, as well as the historic Battle of Berestechko Field and the Tunnel of Love."
+      ]
+    }
+  ],
+  "links_out": [
+    "pripyat",
+    "rivne",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "ukrainization"
+  ],
+  "sources": [
+    {
+      "title": "Rivne Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rivne_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

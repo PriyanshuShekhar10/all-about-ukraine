@@ -26,7 +26,7 @@
     {
       "heading": "Historical Context",
       "paragraphs": [
-        "The [[ukrainian|Ukrainian]] Orthodox Vicariate Sighetu Marmației serves the Eastern Orthodox community of Ukraine in Romania. Additionally, the Ukrainian Orthodox Church – [[kyiv|Kyiv]] Patriarchate (UOC-KP) existed from 1992 until its dissolution on December 15, 2018, when it contributed to the formation of the Orthodox Church of Ukraine.",
+        "The [[ukrainian|Ukrainian]] Orthodox Vicariate Sighetu Marmației serves the Eastern Orthodox community of Ukraine in Romania. Additionally, the [[ukrainian-orthodox-church-kyiv-patriarchate|Ukrainian Orthodox Church – Kyiv Patriarchate]] (UOC-KP) existed from 1992 until its dissolution on December 15, 2018, when it contributed to the formation of the Orthodox Church of Ukraine.",
         "Another significant entity, the Ukrainian Autocephalous Orthodox Church (UAOC), was active from 1922 until its dissolution on December 15, 2018, also merging into the Orthodox Church of Ukraine."
       ]
     },
@@ -39,9 +39,9 @@
     }
   ],
   "links_out": [
-    "kyiv",
     "ukraine",
-    "ukrainian"
+    "ukrainian",
+    "ukrainian-orthodox-church-kyiv-patriarchate"
   ],
   "sources": [
     {

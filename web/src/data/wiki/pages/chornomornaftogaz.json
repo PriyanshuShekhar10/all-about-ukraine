@@ -1,0 +1,84 @@
+{
+  "qid": "Q4514054",
+  "slug": "chornomornaftogaz",
+  "title": "Chornomornaftogaz",
+  "type": "business",
+  "category": "economy",
+  "aliases": [
+    "Chornomornaftogazprom"
+  ],
+  "infobox": {
+    "label": "business",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1978-10-20",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4461, 30.5142",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Chornomornaftogaz is a Ukrainian oil and gas enterprise focused on natural gas extraction in the Black Sea region, established in 1978. It operates as a subsidiary of Naftogaz and has faced significant challenges since the [[russian-annexation-of-crimea|annexation of Crimea]] in 2014.",
+  "sections": [
+    {
+      "heading": "Establishment and Background",
+      "paragraphs": [
+        "Chornomornaftogaz ([[ukrainian|Ukrainian]]: Чорноморнафтогаз) was founded in Simferopol, [[crimea|Crimea]], on October 20, 1978, by an order from the Ministry of Gas Industry of the USSR, under the designation №209-org. The company was created to explore and develop oil and gas resources in the Black Sea and the Sea of Azov."
+      ]
+    },
+    {
+      "heading": "Ownership and Legal Status",
+      "paragraphs": [
+        "Chornomornaftogaz operates as a subsidiary of Naftogaz, [[ukraine|Ukraine]]'s state-owned oil and gas company. However, following the 2014 Crimean crisis, a portion of its assets was seized by the Crimean parliament amid the region's annexation by Russia. The company is distinct from Chernomorneftegaz, a separate entity established in 1998 and acquired by Rosneft in 2011."
+      ]
+    },
+    {
+      "heading": "Production and Reserves",
+      "paragraphs": [
+        "The total reserves of Chornomornaftogaz are estimated at 58.6 billion cubic metres of natural gas, 1.231 million tons of natural-gas condensate, and 2.53 million tons of crude oil. In 2012, the company produced 1.174 billion cubic metres of natural gas, along with 62,800 tonnes of natural-gas condensate and 8,900 tonnes of crude oil. By 2013, production had increased to 1.651 billion cubic metres of natural gas, with Chornomornaftogaz accounting for 7.9% of Ukraine's gas production and 2.4% of its oil production."
+      ]
+    },
+    {
+      "heading": "Impact of the Russo-Ukrainian War",
+      "paragraphs": [
+        "In the lead-up to Crimea's annexation by Russia in 2014, Chornomornaftogaz was seized by local authorities. Naftogaz subsequently filed a lawsuit against the company for delayed debt payments amounting to ₴11.614 billion. The Crimean government announced plans for nationalization, with Gazprom positioned as the new owner. In response, the U.S. Treasury added Chornomornaftogaz to its sanctions list on April 11, 2014, followed by similar actions from the European Union in May 2014. In December 2015, the company relocated two jack-up rigs to Russian waters due to the disputed status of the Odeske gas field. During the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], reports indicated that Chornomornaftogaz facilities were targeted by strikes. In September 2023, Ukrainian forces successfully re-captured the Boyko towers, which are associated with the company."
+      ]
+    },
+    {
+      "heading": "Operational Scope",
+      "paragraphs": [
+        "Chornomornaftogaz is involved in various aspects of the oil and gas industry, including exploration, production, transportation, storage, and distribution of natural gas. The company manages the Hlibovske underground gas storage facility and primarily operates in the northwestern section of the Black Sea shelf. It holds licenses for 17 fields, comprising 11 gas fields, four oil fields, and two gas condensate fields, including offshore fields such as Odeske, Shtormove, and Prykerchenske. Additionally, it possesses onshore licenses for the Jankoy and Semenivske fields."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "crimea",
+    "russian-annexation-of-crimea",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Chornomornaftogaz — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chornomornaftogaz",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

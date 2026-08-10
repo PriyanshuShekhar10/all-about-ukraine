@@ -1,0 +1,83 @@
+{
+  "qid": "Q458209",
+  "slug": "serhiy-zhadan",
+  "title": "Serhiy Zhadan",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Sergey Viktorovich Zhadan",
+    "Sergey Zhadan",
+    "Serhii Viktorovych Zhadan",
+    "Serhii Zhadan",
+    "Serhiy Viktorovych Zhadan"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1974-08-23",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Starobilsk",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Serhiy Viktorovych Zhadan is a prominent Ukrainian poet, novelist, musician, translator, and social activist, born on 23 August 1974 in Starobilsk, Luhansk Oblast, Ukraine. He is known for his contributions to contemporary [[ukrainian-literature|Ukrainian literature]] and his active role in political and social movements within the country.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Zhadan was born in Starobilsk, [[luhansk-oblast|Luhansk Oblast]], [[ukraine|Ukraine]]. He graduated from H.S. Skovoroda [[kharkiv-oblast|Kharkiv]] National Pedagogical University in 1996, where he wrote a thesis on the works of Mykhaylo Semenko and [[ukrainian|Ukrainian]] futurist authors from the 1920s. He subsequently spent three years as a graduate student in philology and taught Ukrainian and world literature from 2000 to 2004."
+      ]
+    },
+    {
+      "heading": "Literary Contributions",
+      "paragraphs": [
+        "Zhadan began his writing career in 1990, often reflecting the industrial landscapes of eastern Ukraine in his works, such as the 2010 novel Voroshilovgrad, which inspired the 2018 film The Wild Fields. He has published 12 poetry collections and 7 novels, receiving over a dozen literary awards. Notably, his novel Anarchy in the UKR was shortlisted for the National Bestseller Prize in 2008, and Voroshilovgrad won multiple awards, including the BBC Ukrainian Book of the Year in 2010 and the Jan Michalski Prize for Literature in 2014.",
+        "Zhadan's 2014 book Mesopotamia garnered the Angelus Award in 2015 and was recognized as the Ukrainian Book of the Year in 2016. He has also translated works from various languages, including German and English, and his poetry has been featured in numerous international literary journals."
+      ]
+    },
+    {
+      "heading": "Musical Endeavors",
+      "paragraphs": [
+        "In 2008, Zhadan began his musical career with the band Sobaky v Kosmosi, which was later renamed Zhadan i Sobaky. As of 2026, he has released five studio albums with the band. He collaborated with Yuriy Gurzhy on the full-length album Fokstroty in 2021, followed by Skovorodance in 2023."
+      ]
+    },
+    {
+      "heading": "Political Activism and Military Service",
+      "paragraphs": [
+        "Zhadan's political activism started during his university years, where he co-founded the neo-futuristic literary group 'the Red Thistle' in 1992. He was involved in the 2004 [[orange-revolution|Orange Revolution]] and the 2014 [[euromaidan|Euromaidan]] protests, where he faced violence from pro-Russian demonstrators. After the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], he remained in Kharkiv to assist with humanitarian efforts. In June 2024, he announced his enlistment in the 13th 'Khartia' Brigade of the [[national-guard-of-ukraine|National Guard of Ukraine]], actively participating in combat."
+      ]
+    },
+    {
+      "heading": "Recognition and Awards",
+      "paragraphs": [
+        "Zhadan's literary prowess has been acknowledged internationally; in March 2022, he was nominated for the Nobel Prize in Literature by the Polish Academy of Sciences. He received the title of honorary professor of philosophy from the Ukrainian Free University in Munich, Germany, in July 2024."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "euromaidan",
+    "kharkiv-oblast",
+    "luhansk-oblast",
+    "national-guard-of-ukraine",
+    "orange-revolution",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-literature"
+  ],
+  "sources": [
+    {
+      "title": "Serhiy Zhadan — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Serhiy_Zhadan",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

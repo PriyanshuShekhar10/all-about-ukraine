@@ -1,0 +1,81 @@
+{
+  "qid": "Q2973237",
+  "slug": "cinema-of-ukraine",
+  "title": "cinema of Ukraine",
+  "type": "cinema by country or region",
+  "category": "history",
+  "aliases": [
+    "filmmaking in Ukraine"
+  ],
+  "infobox": {
+    "label": "cinema by country or region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Ukraine",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "Ukrainian cinema encompasses the creation and production of films within Ukraine and by Ukrainian filmmakers internationally. The industry has a rich history marked by significant contributions and challenges related to national identity and external influences.",
+  "sections": [
+    {
+      "heading": "Historical Overview",
+      "paragraphs": [
+        "The origins of [[ukrainian|Ukrainian]] cinema date back to the early 1890s, with engineer Joseph Timchenko demonstrating an early cinematographic device in November 1893 at [[odesa|Odessa]] University. The Lumière brothers' cinematograph was introduced to Odesa in 1896, leading to the production of films in Ukrainian themes by local studios in cities like [[kyiv|Kyiv]] and [[kharkiv-oblast|Kharkiv]].",
+        "The [[ukrainian-war-of-independence|Ukrainian Revolution]] temporarily stunted cinematic development, but the establishment of the All-Ukrainian Photo Cinema Administration (VUFKU) in 1922 marked a significant organizational effort. The late 1920s represented a peak in production, with film output rising from 4 films in 1923 to 36 in 1928."
+      ]
+    },
+    {
+      "heading": "Influential Directors and Movements",
+      "paragraphs": [
+        "Key figures in early Ukrainian cinema include directors such as Oleksandr Dovzhenko, whose trilogy Zvenyhora (1928), Arsenal (1929), and Earth (1930) are considered landmark works. The 1960s saw the emergence of 'Ukrainian poetic cinema,' characterized by a unique style that diverged from socialist realism, notably through the works of Sergei Parajanov.",
+        "Other notable directors include Kira Muratova, Sergei Loznitsa, and Myroslav Slaboshpytskyi, all of whom have contributed to the evolution of Ukrainian cinema and gained international acclaim."
+      ]
+    },
+    {
+      "heading": "Modern Developments",
+      "paragraphs": [
+        "After [[ukraine|Ukraine]] gained independence in 1991, the film industry faced significant challenges, including a decline in government support. However, the 2010s marked a resurgence, with films like Myroslav Slaboshpytskyi's The Tribe (2014) achieving international success. The establishment of the Dovzhenko Centre in 1994 further solidified the preservation and promotion of Ukrainian cinema.",
+        "In March 2024, the documentary 20 Days in [[mariupol|Mariupol]] won an Oscar for Best Documentary Feature Film, marking a historic achievement for Ukrainian cinema."
+      ]
+    },
+    {
+      "heading": "Cultural Impact and Festivals",
+      "paragraphs": [
+        "Ukrainian cinema has played a vital role in reflecting and shaping national identity through storytelling that resonates with historical and contemporary themes. The Odesa International Film Festival and the Molodist Film Festival in Kyiv are key platforms for showcasing Ukrainian and international films, fostering cultural exchange and recognition.",
+        "Despite challenges posed by the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]], Ukrainian filmmakers have shown resilience, increasing their share of the film market and continuing to produce works that reflect the nation's experiences and aspirations."
+      ]
+    },
+    {
+      "heading": "Notable Figures",
+      "paragraphs": [
+        "Prominent Ukrainian actors who have achieved international recognition include Vera Kholodnaya, Bohdan Stupka, Milla Jovovich, and Mila Kunis. Their contributions have helped elevate Ukrainian cinema on the global stage, showcasing the talent and diversity of the country's film industry."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "kharkiv-oblast",
+    "kyiv",
+    "mariupol",
+    "odesa",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-war-of-independence"
+  ],
+  "sources": [
+    {
+      "title": "Cinema of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

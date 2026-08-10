@@ -1,0 +1,80 @@
+{
+  "qid": "Q98521883",
+  "slug": "ivano-frankivsk-raion",
+  "title": "Ivano-Frankivsk Raion",
+  "type": "raion of Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "raion of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2020-07-19",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Ivano-Frankivsk",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "560,100",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "3,913",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.0347, 24.7107",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Ivano-Frankivsk Raion is a district located in Ivano-Frankivsk Oblast, Ukraine, established in July 2020 as part of administrative reform. The district's center is the city of Ivano-Frankivsk and it has a population of approximately 556,104 as of 2022.",
+  "sections": [
+    {
+      "heading": "Creation and Administrative Reform",
+      "paragraphs": [
+        "Ivano-Frankivsk Raion was formed in July 2020, following a significant reform of the administrative divisions within [[ukraine|Ukraine]]. This reform aimed to streamline local governance and improve administrative efficiency."
+      ]
+    },
+    {
+      "heading": "Geographical and Demographic Information",
+      "paragraphs": [
+        "The raion is situated in [[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]], with the city of [[ivano-frankivsk|Ivano-Frankivsk]] serving as its administrative center. As of 2022, the estimated population of Ivano-Frankivsk Raion is 556,104."
+      ]
+    },
+    {
+      "heading": "Subdivisions and Hromadas",
+      "paragraphs": [
+        "Upon its establishment, Ivano-Frankivsk Raion included 20 hromadas, which are local administrative units. These hromadas were formed from the merger of five previously existing raions: Bohorodchany, [[halych|Halych]], Rohatyn, Tlumach, and Tysmenytsia, along with Ivano-Frankivsk and Burshtyn Municipalities.",
+        "The hromadas within the raion include Bilshivtsi, Bohorodchany, Bukachivtsi, Burshtyn, Dubivtsi, Dzvyniach, Halych, Ivano-Frankivsk, Lysets, Obertyn, Olesha, Rohatyn, Solotvyn, Stari Bohorodchany, Tlumach, Tysmenytsia, Uhryniv, Yamnytsia, Yezupil, and Zahvizdia."
+      ]
+    }
+  ],
+  "links_out": [
+    "halych",
+    "ivano-frankivsk",
+    "ivano-frankivsk-oblast",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Ivano-Frankivsk Raion — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ivano-Frankivsk_Raion",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

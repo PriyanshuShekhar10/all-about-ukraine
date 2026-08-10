@@ -38,7 +38,7 @@
       }
     ]
   },
-  "summary": "Poltava is a city located on the Vorskla River in Central Ukraine, serving as the administrative center of Poltava Oblast and Poltava Raion. With an estimated population of 279,593 in 2022, it holds significant historical and cultural relevance in Ukraine.",
+  "summary": "Poltava is a city located on the [[vorskla|Vorskla River]] in Central Ukraine, serving as the administrative center of Poltava Oblast and Poltava Raion. With an estimated population of 279,593 in 2022, it holds significant historical and cultural relevance in Ukraine.",
   "sections": [
     {
       "heading": "Historical Overview",
@@ -55,7 +55,7 @@
     {
       "heading": "Administrative Role",
       "paragraphs": [
-        "Poltava serves as the administrative center of Poltava Oblast and Poltava Raion, and it is also home to the administration of the Poltava urban hromada. Following administrative reforms in Ukraine, the city was merged into Poltava Raion on 18 July 2020."
+        "Poltava serves as the administrative center of [[poltava-oblast|Poltava Oblast]] and Poltava Raion, and it is also home to the administration of the Poltava urban hromada. Following administrative reforms in Ukraine, the city was merged into Poltava Raion on 18 July 2020."
       ]
     },
     {
@@ -67,8 +67,10 @@
   ],
   "links_out": [
     "cossack-hetmanate",
+    "poltava-oblast",
     "ukraine",
-    "ukrainian-national-revival"
+    "ukrainian-national-revival",
+    "vorskla"
   ],
   "sources": [
     {

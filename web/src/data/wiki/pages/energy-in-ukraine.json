@@ -1,0 +1,80 @@
+{
+  "qid": "Q4531924",
+  "slug": "energy-in-ukraine",
+  "title": "energy in Ukraine",
+  "type": "aspect in a geographic region",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "aspect in a geographic region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Ukraine",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "Energy in Ukraine is characterized by a diverse mix primarily comprising gas, nuclear, oil, and coal. The country's energy policy emphasizes security, integration with the European Union, and the transition towards renewable sources amidst ongoing challenges, particularly due to the Russo-Ukrainian war.",
+  "sections": [
+    {
+      "heading": "Energy Sources and Policy",
+      "paragraphs": [
+        "[[ukraine|Ukraine]] predominantly utilizes energy derived from gas, followed by nuclear, oil, and coal, resulting in a diversified energy mix. The majority of gas and oil is imported, with energy policy focusing on energy security and the diversification of energy supply.",
+        "The energy strategy for 2050 includes integration with EU energy systems, resilience, and achieving net zero carbon emissions. The energy and climate plan for 2030 emphasizes efficiency improvements."
+      ]
+    },
+    {
+      "heading": "Gas Infrastructure",
+      "paragraphs": [
+        "Ukraine's gas network features substantial storage capacity, which is advantageous for balancing Europe's gas supply and demand. In the early 21st century, Ukraine was a significant transit route for Russian natural gas to Europe."
+      ]
+    },
+    {
+      "heading": "Impact of the Russo-Ukrainian War",
+      "paragraphs": [
+        "The ongoing [[full-scale-russo-ukrainian-war|Russo-Ukrainian war]] has significantly altered energy infrastructure, with some facilities destroyed by Russian attacks. Despite these challenges, wind farms and solar power installations are considered resilient due to their distributed nature.",
+        "The coal industry has faced disruptions due to the conflict, while nuclear energy remains the primary source for electricity generation."
+      ]
+    },
+    {
+      "heading": "Heating and Efficiency Challenges",
+      "paragraphs": [
+        "District heating systems have suffered considerable damage, particularly in frontline regions such as [[kharkiv-oblast|Kharkiv]], [[chernihiv|Chernihiv]], [[donetsk|Donetsk]], [[zaporizhzhia|Zaporizhzhia]], [[sumy|Sumy]], and [[mykolaiv|Mykolaiv]]. The International Energy Agency (IEA) reported in 2024 that heating supply is also at risk in major cities, including [[kyiv|Kyiv]].",
+        "As of 2025, Ukraine's energy efficiency is notably lower than that of the EU. The IEA has recommended consumer engagement in energy saving and demand response, alongside investments in energy efficiency."
+      ]
+    },
+    {
+      "heading": "Financial Aspects",
+      "paragraphs": [
+        "In 2012, Ukraine signed a loan agreement in principle for $3.65 billion with the China Development Bank, aimed at developing projects in the coal and gas sectors. However, by 2017, no suitable projects had been agreed upon due to differing positions between Uglesintezgaz and the energy ministry.",
+        "Elementum Energy Ltd is the primary owner of power plants in Ukraine. As of 2025, financial assistance is necessary for emergency repairs, and households continue to pay below market prices for energy."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernihiv",
+    "donetsk",
+    "full-scale-russo-ukrainian-war",
+    "kharkiv-oblast",
+    "kyiv",
+    "mykolaiv",
+    "sumy",
+    "ukraine",
+    "zaporizhzhia"
+  ],
+  "sources": [
+    {
+      "title": "Energy in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Energy_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

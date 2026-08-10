@@ -1,0 +1,109 @@
+{
+  "qid": "Q158292",
+  "slug": "kropyvnytskyi",
+  "title": "Kropyvnytskyi",
+  "type": "centre of oblast",
+  "category": "people",
+  "aliases": [
+    "Kirovograd",
+    "Kirovohrad",
+    "Kropyvnytskiy",
+    "Kropyvnytsky",
+    "Lysavethrad",
+    "Yelisavetgrad",
+    "Yelysavethrad",
+    "Zinovievsk",
+    "Zinovivsk",
+    "Zinovïvsk",
+    "Zynovievsk",
+    "Zynovivsk"
+  ],
+  "infobox": {
+    "label": "centre of oblast",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1754",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "234,322",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "103",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "124",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.5103, 32.2667",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Kropyvnytskyi is a city located in central Ukraine, serving as the administrative center of [[kirovohrad-oblast|Kirovohrad Oblast]]. With a population of 219,676 as of 2022, it has a rich history marked by various name changes and significant cultural contributions to Ukraine.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Kropyvnytskyi's history dates back to 1754 when Fort St. Elizabeth was established on the lands of the former [[zaporizhian-sich|Zaporozhian Sich]]. The settlement evolved from a military outpost to a significant trade center, particularly in the 19th century.",
+        "The city was initially named Yelysavethrad, in honor of Empress Elizabeth of Russia, and became an important hub for agricultural trade and cultural activities, especially [[ukrainian|Ukrainian]] theatre."
+      ]
+    },
+    {
+      "heading": "Name Changes",
+      "paragraphs": [
+        "Throughout its history, Kropyvnytskyi has undergone several name changes. It was known as Yelysavethrad until 1924, when it was renamed Zinovievsk after Grigory Zinoviev. Following the assassination of Sergei Kirov in 1934, it became Kirovo, and in 1939, it was renamed Kirovohrad to distinguish it from Kirov Oblast in Russia.",
+        "In 2016, the city was renamed Kropyvnytskyi as part of [[ukraine|Ukraine]]'s decommunization efforts, honoring the playwright Marko Kropyvnytskyi, who was born nearby."
+      ]
+    },
+    {
+      "heading": "Administrative Status",
+      "paragraphs": [
+        "Kropyvnytskyi serves as the administrative center of Kropyvnytskyi Raion and is part of the Kropyvnytskyi urban hromada. Prior to administrative reforms on 18 July 2020, it was designated as a city of oblast significance but was not part of Kropyvnytskyi Raion.",
+        "The city is divided into two districts: Fortechnyi and Podilskyi, with the urban-type settlement of Nove included in the Fortechnyi District."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Kropyvnytskyi has a notable cultural heritage, particularly in the realm of theatre. It was home to the first professional theatrical company in Central and Eastern Ukraine, established in 1882 by Mark Kropyvnytskyi and the Tobilevych brothers.",
+        "The city continues to be a center for education, industry, and culture, featuring numerous architectural monuments that reflect its historical significance."
+      ]
+    },
+    {
+      "heading": "Modern Developments",
+      "paragraphs": [
+        "Today, Kropyvnytskyi remains a vital city within Ukraine, contributing to the region's economy and cultural landscape. Its historical evolution and contemporary status underscore its importance in the context of [[history-of-ukraine|Ukrainian history]] and identity."
+      ]
+    }
+  ],
+  "links_out": [
+    "history-of-ukraine",
+    "kirovohrad-oblast",
+    "ukraine",
+    "ukrainian",
+    "zaporizhian-sich"
+  ],
+  "sources": [
+    {
+      "title": "Kropyvnytskyi — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kropyvnytskyi",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

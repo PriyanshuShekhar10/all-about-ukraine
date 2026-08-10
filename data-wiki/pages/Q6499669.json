@@ -12,7 +12,7 @@
     "label": "topic",
     "fields": []
   },
-  "summary": "Cabbage rolls, known as holubtsi in Ukraine, are a traditional dish that consists of cooked cabbage leaves filled with various ingredients, reflecting the culinary heritage of Central and Eastern Europe, including Ukraine.",
+  "summary": "Cabbage rolls, known as holubtsi in Ukraine, are a traditional dish that consists of cooked cabbage leaves filled with various ingredients, reflecting the culinary heritage of Central and [[eastern-europe|Eastern Europe]], including Ukraine.",
   "sections": [
     {
       "heading": "Description and Preparation",
@@ -45,6 +45,7 @@
   "links_out": [
     "carpathians",
     "dniester",
+    "eastern-europe",
     "poltava",
     "ukraine",
     "ukrainian"

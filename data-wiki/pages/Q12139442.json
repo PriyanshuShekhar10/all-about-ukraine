@@ -1,0 +1,71 @@
+{
+  "qid": "Q12139442",
+  "slug": "pensions-in-ukraine",
+  "title": "pensions in Ukraine",
+  "type": "pension system by country",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "pension system by country",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Pensions in Ukraine serve as a financial support system for retirees, structured under a three-tiered system established by the Law of Ukraine on Compulsory State Pension Insurance. This system is crucial for addressing the needs of the aging population and ensuring financial stability for retirees in the country.",
+  "sections": [
+    {
+      "heading": "Pension System Overview",
+      "paragraphs": [
+        "The pension system in [[ukraine|Ukraine]] is organized into three tiers, which include a solidarity-based first tier, an accumulation-based second tier, and a voluntary third tier."
+      ]
+    },
+    {
+      "heading": "First Tier: Solidarity System",
+      "paragraphs": [
+        "The first tier operates on principles of solidarity and subsidization, providing pensions at age 60 for men and 58.5 for women, as well as for disabilities or loss of a breadwinner. Funded by contributions from employees, entrepreneurs, and the self-employed, the contribution rate is set at 22% of salary, either paid by individuals or employers. The Pension Fund of Ukraine manages these contributions, which are used to pay current retirees, functioning on a pay-as-you-go basis."
+      ]
+    },
+    {
+      "heading": "Second Tier: Accumulation System",
+      "paragraphs": [
+        "The second tier consists of a compulsory insurance accumulation system, where contributions are deposited into the State Accumulative Fund of Ukraine or private accounts. The contribution rate is capped at 7% of salary, and the funds are invested on behalf of the contributors. Upon retirement, these accumulated savings can be inherited and supplement the first tier pension."
+      ]
+    },
+    {
+      "heading": "Third Tier: Voluntary Contributions",
+      "paragraphs": [
+        "The third tier allows for voluntary contributions to non-governmental pension funds, established under the Law on Non-governmental Pension Provision, effective from 1 January 2004. These funds operate similarly to governmental funds but as non-profit entities, enabling participants to manage their retirement savings while retaining rights to state pension payments."
+      ]
+    },
+    {
+      "heading": "Reform of 2017",
+      "paragraphs": [
+        "On 3 October 2017, the [[verkhovna-rada|Verkhovna Rada]] approved a significant reform of the pension system, which was signed into law by President [[petro-poroshenko|Petro Poroshenko]] on 8 October. This reform aimed to address low pension levels, with 8 million out of approximately 12 million pensioners receiving the minimum pension of ₴1,312 (€32), while the average pension was ₴1,886 (€50), below the consumer basket cost of ₴2,550 (€81). The reform was a condition for an IMF loan of US$8.4 billion."
+      ]
+    },
+    {
+      "heading": "Changes and Disparities",
+      "paragraphs": [
+        "The reform included an increase in the minimum wage to ₴1,452 (€46) and an average pension increase of ₴700 (€20) for 9 million pensioners. Adjustments to pensions are now linked to average salary increases and inflation. In 2017, pension expenditures reached ₴284 billion, accounting for one-third of total government spending, with significant disparities in pension amounts across regions. Capital residents received the highest average pension, while nearly half of retirees received the minimum pension."
+      ]
+    }
+  ],
+  "links_out": [
+    "petro-poroshenko",
+    "ukraine",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Pensions in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pensions_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

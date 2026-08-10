@@ -1,0 +1,88 @@
+{
+  "qid": "Q4271095",
+  "slug": "danylo-halytsky-lviv-national-medical-university",
+  "title": "Danylo Halytsky Lviv National Medical University",
+  "type": "university",
+  "category": "history",
+  "aliases": [
+    "Lviv National Medical University",
+    "Lvov State Medical Institute"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1784",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Austrian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Pekarska Street, Lviv",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.8339, 24.0533",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Danylo Halytsky Lviv National Medical University (LNMU) is one of the oldest and largest medical institutions in Ukraine, tracing its origins back to 1784. Named after King Daniel of Galicia, the university has played a significant role in the development of medical education in Ukraine.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The roots of Danylo Halytsky Lviv National Medical University date back to 1661 when the Jesuit Collegium in [[lviv|Lviv]] was granted university status by King John II Casimir. However, a dedicated medical faculty was not established until the revival of the university in 1784 under Austrian Emperor Joseph II, which included the Faculty of Medicine.",
+        "The university has undergone several transformations, including its designation as the Lviv State Medical Institute and its current status as a national medical university, conferred on August 21, 2003."
+      ]
+    },
+    {
+      "heading": "Development and Growth",
+      "paragraphs": [
+        "In 1891, an independent medical faculty was established, leading to the construction of new facilities for various medical disciplines. By 1900, the first graduates emerged, marking the beginning of a long tradition of medical education in Lviv.",
+        "During the interwar period, the university expanded, with the Faculty of Medicine encompassing twenty-four departments before World War II. The establishment of a secret [[ukrainian|Ukrainian]] university during the Polish-Bolshevik War highlighted the ongoing struggle for Ukrainian education."
+      ]
+    },
+    {
+      "heading": "Impact of World Wars",
+      "paragraphs": [
+        "World War II significantly affected the university, as it was reorganized under Soviet rule and later adapted during the Nazi occupation. The institution faced challenges, including the loss of faculty members during the Massacre of Lwów professors.",
+        "After the war, the university resumed operations and began training foreign students in 1961, expanding its influence in the medical field."
+      ]
+    },
+    {
+      "heading": "Academic Structure and Achievements",
+      "paragraphs": [
+        "Danylo Halytsky Lviv National Medical University currently comprises six faculties and 78 departments, with a strong emphasis on research and education. The university library holds over 530,000 volumes, supporting a robust academic environment.",
+        "The university consistently ranks among the top medical institutions in [[ukraine|Ukraine]], achieving notable positions in various international rankings, reflecting its commitment to excellence in medical education and research."
+      ]
+    },
+    {
+      "heading": "Cultural and Community Engagement",
+      "paragraphs": [
+        "The university fosters a vibrant community with numerous amateur groups and cultural activities, including folk dance and choir ensembles. This engagement enhances the educational experience and promotes cultural heritage among students.",
+        "In recognition of its contributions to Ukrainian education and society, the government issued a commemorative coin in 2009 to celebrate the university's 225th anniversary."
+      ]
+    }
+  ],
+  "links_out": [
+    "lviv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Danylo Halytsky Lviv National Medical University — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Danylo_Halytsky_Lviv_National_Medical_University",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

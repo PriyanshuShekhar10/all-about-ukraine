@@ -1,0 +1,80 @@
+{
+  "qid": "Q1048315",
+  "slug": "little-russia",
+  "title": "Little Russia",
+  "type": "administrative territorial entity",
+  "category": "geography",
+  "aliases": [
+    "Little Rusʼ",
+    "Mala Rusʼ",
+    "Malo-Russia",
+    "Malorosia",
+    "Malorossiia",
+    "Rusʼ Minor"
+  ],
+  "infobox": {
+    "label": "administrative territorial entity",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Russian Empire, Kingdom of Galicia–Volhynia",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Little Russia, also referred to as Lesser Russia or Malorussia, is a historical term that has been used to describe Ukraine, particularly in the context of its relationship with Russia. The term has evolved over centuries and is now considered outdated and often offensive in contemporary Ukrainian discourse.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The term Little Russia originated in the early 14th century when the patriarch of Constantinople recognized the distinction between Megalē Rosiia ('Great Rus') and Mikrà Rosiia ('Little Rus'). By 1303, the jurisdiction of Mikrà Rosiia became associated with the metropolis of [[halych|Halych]]. The specific implications of 'Great' and 'Little' remain ambiguous, potentially indicating geographical size or a colonial relationship.",
+        "The usage of the term diminished by the 15th century as the Russian Orthodox Church in Moscow became independent from Kiev. However, the term was revived in the context of the Catholic [[ruthenian|Ruthenian]] Uniate Church within the Polish–Lithuanian Commonwealth, leading to the Greek-influenced spelling Malaia Rossiia ('Little Russia'). Subsequently, it became a political and geographical concept in Russia, encompassing most of modern-day [[ukraine|Ukraine]], particularly the [[cossack-hetmanate|Cossack Hetmanate]]."
+      ]
+    },
+    {
+      "heading": "Etymology and Evolution",
+      "paragraphs": [
+        "The term Little Russia is derived from Greek, with its earliest recorded use by Patriarch Callistus I of Constantinople in 1361. It distinguished between the provinces of Moscow and Halych, with the latter referred to as Mikrà Rosiia. The term fell out of ecclesiastical use after the 15th century but re-emerged in the 17th century among [[ukrainian|Ukrainian]] churchmen, who adopted Malorossiia in ecclesiastical titles.",
+        "By the 18th century, the term was commonly used to refer to the Cossack Hetmanate and later expanded to include regions of right-bank Ukraine following Russian annexation. Little Russia became the prevailing term for much of Ukraine within the Russian Empire, influencing the identity of its people and their culture."
+      ]
+    },
+    {
+      "heading": "Cultural and Political Implications",
+      "paragraphs": [
+        "Throughout the 18th and 19th centuries, Little Russia was synonymous with the territory of Ukraine under Russian rule, with its people often referred to as Little Russians. This identity was promoted by the Russian government, which aimed to assimilate [[ukrainians|Ukrainians]] into a broader Russian cultural framework. The term was also used by notable figures such as Cossack hetmans and historians.",
+        "By the late 19th century, the term began to acquire a pejorative connotation, viewed as a diminutive label implying inferiority. The resurgence of the term Ukraine in the 19th century marked a shift towards a more assertive Ukrainian national identity, contrasting with the previously dominant Little Russian identity."
+      ]
+    },
+    {
+      "heading": "Modern Perception",
+      "paragraphs": [
+        "In contemporary usage, the term Little Russia is considered anachronistic and offensive by many Ukrainians, as it suggests an imperialist perspective that undermines Ukrainian sovereignty and identity. The term is often associated with Russian nationalist rhetoric, which seeks to portray Ukrainians as an integral part of a united Russian nation.",
+        "Recent political discourse, including a 2021 essay by Vladimir Putin, has reignited tensions surrounding the term, leading to increased disapproval among Ukrainians who view it as an attempt to suppress their national identity."
+      ]
+    },
+    {
+      "heading": "Concept of 'Little Russianness'",
+      "paragraphs": [
+        "The concept of 'Little Russianness' (malorosiistvo) describes a perceived provincial mindset among some Ukrainians, shaped by their historical experience within the Russian Empire. This notion encompasses a lack of support for Ukrainian national aspirations and an inclination towards Russian culture.",
+        "Influential figures such as Mykhailo Drahomanov have critiqued this mindset, suggesting it results in the adoption of negative traits from other cultures while losing positive aspects of Ukrainian identity. This complex has also been noted among Ukrainians in Galicia regarding their relationship with Poland."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossack-hetmanate",
+    "halych",
+    "ruthenian",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Little Russia — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Little_Russia",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

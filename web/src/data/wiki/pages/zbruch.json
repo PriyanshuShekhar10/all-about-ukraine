@@ -1,0 +1,67 @@
+{
+  "qid": "Q973951",
+  "slug": "zbruch",
+  "title": "Zbruch",
+  "type": "river",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "river",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.7290, 26.1660",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Zbruch is a river located in [[western-ukraine|Western Ukraine]], serving as a left tributary of the [[dniester|Dniester]]. It is historically significant for its role as a natural border and its association with the Zbruch idol, a notable Slavic deity sculpture discovered in the area.",
+  "sections": [
+    {
+      "heading": "Geographical Features",
+      "paragraphs": [
+        "The Zbruch flows through the Podolian Upland, originating from the Avratyn Upland. The river features several small hydroelectric stations, specifically Bodnariv's and Martynkiv's, and is accompanied by approximately 140 ponds.",
+        "The river acts as a natural boundary between the [[ternopil|Ternopil]] and Khmelnytskyi regions. It meanders past the Podolian hills, known as Medobory, which are recognized for their honey-bearing flora. The Medobory region extends from the northeastern part of the [[lviv|Lviv]] Region to the northern borders of the Republic of Moldova.",
+        "At its mouth, the Zbruch measures around 18 meters (59 feet) in width. Its source is located near other rivers such as the Horyn and the Sluch, and historically, it served as an alternative route for the trade route known as 'From the Varangians to Greeks.'"
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "The Zbruch gained international importance following the first partition of Poland, where it served as a border between Poland-Lithuania and the Habsburg monarchy from 1772 to 1793.",
+        "After the second partition of Poland, from 1793 to 1807 and again from 1815 to 1918, the river marked the boundary between Austrian Galicia and Imperial Russia, during which time it was also referred to as Pidhirtsi.",
+        "The river was designated as a border between Poland and [[ukraine|Ukraine]] following the Polish-[[ukrainian|Ukrainian]] Alliance of 1920. The Treaty of Riga subsequently established the Polish-Soviet border along the river, a situation that persisted until 1939."
+      ]
+    },
+    {
+      "heading": "Cultural and Natural Sites",
+      "paragraphs": [
+        "Several notable sites are located along the Zbruch, including the Medobory Nature Reserve near the towns of Husiatyn and Hrymailiv, and the National Nature Park 'Podilski Tovtry.'",
+        "Additional sites include the Monochynsk Zakaznik, Kudryntsi Castle, and Chornokozyntsi Castle, as well as a historically significant crossing between the towns of Pidvolochysk and Volochysk, which served as a major border checkpoint between the Austrian crown and the Russian Empire.",
+        "The town of Husiatyn and the Skala-Podilska Castle and park, recognized as a state architectural monument, are also situated along the river."
+      ]
+    }
+  ],
+  "links_out": [
+    "dniester",
+    "lviv",
+    "ternopil",
+    "ukraine",
+    "ukrainian",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Zbruch — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zbruch",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

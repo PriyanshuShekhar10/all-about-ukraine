@@ -1,0 +1,78 @@
+{
+  "qid": "Q2090117",
+  "slug": "russiaukraine-relations",
+  "title": "Russia–Ukraine relations",
+  "type": "bilateral relation",
+  "category": "war",
+  "aliases": [
+    "Russia-Ukraine relations",
+    "Russian-Ukrainian relations",
+    "Ukraine-Russia relations",
+    "Ukraine–Russia relations"
+  ],
+  "infobox": {
+    "label": "bilateral relation",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Russia, Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Russia-Ukraine relations have been characterized by conflict and tension, particularly following Russia's annexation of Crimea in 2014 and the subsequent outbreak of [[war-in-donbas|war in eastern Ukraine]]. Diplomatic relations have ceased entirely since Russia's full-scale invasion of Ukraine in February 2022.",
+  "sections": [
+    {
+      "heading": "Current Status",
+      "paragraphs": [
+        "As of now, there are no diplomatic or bilateral relations between Russia and [[ukraine|Ukraine]]. The relationship deteriorated significantly after Russia's invasion of [[crimea|Crimea]] in February 2014, which was followed by the seizure of government buildings in [[donbas|Donbas]] by Russian-controlled armed groups in May 2014. These actions initiated the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]], which has led to ongoing conflict."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The relationship between Russia and Ukraine has evolved since the early 1990s, following the collapse of the Soviet Union. Initially, Ukraine sought to establish its sovereignty and independence while balancing its foreign policy among the European Union, Russia, and other powers. However, relations soured after the [[revolution-of-dignity|2014 Ukrainian revolution]], which was succeeded by Russia's [[russian-annexation-of-crimea|annexation of Crimea]] and support for separatists in eastern Ukraine."
+      ]
+    },
+    {
+      "heading": "Impact of Conflict",
+      "paragraphs": [
+        "The conflict has resulted in over 13,000 deaths by early 2020 and has led to international sanctions against Russia. Numerous bilateral agreements have been terminated, and economic ties have been severed. The military build-up by Russia along the [[ukrainian|Ukrainian]] border in 2021 and 2022 intensified tensions, culminating in a full-scale invasion of Ukraine by Russia on February 24, 2022."
+      ]
+    },
+    {
+      "heading": "Cultural and Historical Ties",
+      "paragraphs": [
+        "Historically, both Russia and Ukraine trace their heritage to [[kievan-rus|Kievan Rus]]', a significant polity in [[eastern-europe|Eastern Europe]]. However, following the Mongol invasion, the paths of the two nations diverged, leading to differing national identities. The Russian Empire's view of [[ukrainians|Ukrainians]] as 'Little Russians' and subsequent policies of russification contributed to tensions that have persisted into modern times."
+      ]
+    },
+    {
+      "heading": "Post-Soviet Relations",
+      "paragraphs": [
+        "Following Ukraine's declaration of independence on August 24, 1991, Russia recognized Ukraine's sovereignty on December 5, 1991. The two nations established formal diplomatic relations on February 14, 1992. However, the relationship has been fraught with disputes, particularly regarding issues such as nuclear disarmament and the division of the Black Sea Fleet, further complicating their bilateral ties."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "donbas",
+    "eastern-europe",
+    "full-scale-russo-ukrainian-war",
+    "kievan-rus",
+    "revolution-of-dignity",
+    "russian-annexation-of-crimea",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "war-in-donbas"
+  ],
+  "sources": [
+    {
+      "title": "Russia–Ukraine relations — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Russia–Ukraine_relations",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

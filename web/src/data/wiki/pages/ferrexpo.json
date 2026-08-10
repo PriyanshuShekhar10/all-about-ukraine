@@ -1,0 +1,81 @@
+{
+  "qid": "Q5445324",
+  "slug": "ferrexpo",
+  "title": "Ferrexpo",
+  "type": "business",
+  "category": "economy",
+  "aliases": [
+    "Ferrexpo AG",
+    "Ferrexpo PLC"
+  ],
+  "infobox": {
+    "label": "business",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1960",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Baar",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Ferrexpo plc is a Swiss-based commodity trading and mining company recognized as the third largest exporter of iron ore pellets globally, with significant operations in Ukraine. The company plays a crucial role in the [[ukrainian|Ukrainian]] mining sector, operating multiple iron ore mines and a pellet production facility in the central region of the country.",
+  "sections": [
+    {
+      "heading": "Company Overview",
+      "paragraphs": [
+        "Ferrexpo plc is a commodity trading and mining company headquartered in Switzerland, notable for being the third largest exporter of iron ore pellets worldwide. The company has its operational base in central [[ukraine|Ukraine]], where it manages three iron ore mines and a pellet production facility. Ferrexpo is listed on the London Stock Exchange and is included in the FTSE4Good Index."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The company was established in 1960 by the Soviet government as the '[[poltava|Poltava]] Mining and Extraction Combinat' to exploit iron ore reserves in Horishni Plavni, Ukraine. It began selling iron ore pellets in 1977. Ferrexpo plc was listed on the London Stock Exchange in June 2007, reporting a production of 8.6 million tonnes of iron ore pellets in the year preceding its listing. The company expanded its operations in 2008 and 2009 with new complexes around Horishni Plavni and Kremenchuk, and in 2011, it opened the Yeristovo mine, marking the first new mine established in Ukraine since its independence."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "In March 2019, Ferrexpo delayed the publication of its financial results due to an investigation into charitable donations in Ukraine. Following the resignation of its auditors Deloitte in April 2019, the company faced scrutiny over potential misappropriation of charitable funds, having donated $24 million in 2017 and $9.5 million in 2018. In October 2019, CEO Kostyantyn Zhevago resigned amid allegations of embezzlement from Finance & Credit Bank. Jim North was appointed as acting CEO and later confirmed as permanent CEO in February 2022.",
+        "On 28 April 2026, Ferrexpo announced the need for $100 million in new financing due to the ongoing [[full-scale-russo-ukrainian-war|Russo-Ukrainian war]]. However, the company indicated that it could not fulfill the conditions set by new lenders by the deadline of 30 April 2026, leading to a suspension of its listing on the London Stock Exchange."
+      ]
+    },
+    {
+      "heading": "Operational Structure",
+      "paragraphs": [
+        "Ferrexpo specializes in the production of iron ore pellets, which are essential for the global steel industry, enhancing the quality of steel produced while reducing carbon emissions by at least 30% compared to lower-grade iron ore. The company primarily sells its products to steel mills in Central Europe and Asia. Its operations are organized into several units, with mining activities concentrated in Ukraine and trading offices located in London and Dubai, among other cities.",
+        "The mining operations in Ukraine include the Poltava Mining and Enrichment Complex, established in the 1970s in Horishni Plavni, the Yeristovo Mining and Enrichment Complex opened in 2008 in Kremenchuk Raion, and the Belanovo Mining and Enrichment Complex, which is under construction. Ferrexpo also holds several iron deposits in the region that are not yet being exploited."
+      ]
+    },
+    {
+      "heading": "Ownership and Legal Issues",
+      "paragraphs": [
+        "Kostyantyn Zhevago, the founder of Ferrexpo, owns 50.3% of the company. In December 2022, he was arrested under an international warrant and is wanted in Ukraine for a significant embezzlement case."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "poltava",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ferrexpo — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ferrexpo",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

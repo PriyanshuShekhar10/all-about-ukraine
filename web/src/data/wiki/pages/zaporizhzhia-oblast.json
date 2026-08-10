@@ -1,0 +1,108 @@
+{
+  "qid": "Q171334",
+  "slug": "zaporizhzhia-oblast",
+  "title": "Zaporizhzhia Oblast",
+  "type": "oblast of Ukraine",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "oblast of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1939-01-10",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Zaporizhzhia",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "1,739,500",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "27,180",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "76",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Alexander Peklushenko, Valery Baranov",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "47.8333, 35.1667",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Zaporizhzhia Oblast is a region located in south-east Ukraine, with its administrative center in the city of Zaporizhzhia. Covering an area of 27,183 square kilometers and having a population of approximately 1,638,462 as of 2022, the oblast plays a significant role in Ukraine's industrial and agricultural sectors.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Zaporizhzhia Oblast spans an area of 27,183 square kilometers and is situated in the regions of [[zaporizhzhia|Zaporizhzhia]] in the north and Pryazovia in the south. The southern part of the oblast features around 150 kilometers of coastline along the Sea of Azov."
+      ]
+    },
+    {
+      "heading": "Districts and Demographics",
+      "paragraphs": [
+        "The oblast is divided into five raions: Zaporiz'kyj raion (840,866 population), [[melitopol|Melitopol]]'s'kyj raion (276,638), Berdjans'kyj raion (176,046), Polohivs'kyj raion (163,641), and Vasylivs'kyj raion (181,271). Post-2022 Russian invasion, the Zaporiz'kyj raion remains under [[ukrainian|Ukrainian]] administration, while the others are largely under Russian control.",
+        "As of the 2001 Ukrainian Census, the population of Zaporizhzhia Oblast was 1,929,171, with 70.8% identifying as [[ukrainians|Ukrainians]] and 24.7% as Russians. The region has a median age of 41.2 years."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Historically, the territory of modern Zaporizhzhia Oblast has been influenced by various cultures and empires, including the Scythians, Khazars, and the Mongol Empire. The oblast was established on 10 January 1939 as part of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]]. In the 1991 Ukrainian independence referendum, 90.66% of voters in the oblast supported independence.",
+        "During the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], Russian forces occupied the southern part of the oblast, while the northern areas, including Zaporizhzhia city, remained under Ukrainian control. A disputed referendum held by Russia in September 2022 led to an illegal declaration of annexation."
+      ]
+    },
+    {
+      "heading": "Economy",
+      "paragraphs": [
+        "In 2016, the gross regional product (GRP) of Zaporizhzhia Oblast was ₴104,323 million, contributing 4.4% to [[ukraine|Ukraine]]'s overall GRP. The main economic sectors include industry (41%), agriculture, forestry, and fisheries (13.9%), and wholesale and retail trade (10.4%)."
+      ]
+    },
+    {
+      "heading": "Education and Culture",
+      "paragraphs": [
+        "Zaporizhzhia Oblast has a robust education system, including 679 daytime schools with approximately 271,400 pupils as of 2001. Higher education institutions include technical colleges and universities, with over 65,000 students enrolled. The oblast is also noted for its cultural heritage, including the island of [[khortytsia|Khortytsia]], significant in the history of the [[zaporozhian-cossacks|Zaporozhian Cossacks]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "khortytsia",
+    "melitopol",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainians",
+    "zaporizhzhia",
+    "zaporozhian-cossacks"
+  ],
+  "sources": [
+    {
+      "title": "Zaporizhzhia Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zaporizhzhia_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

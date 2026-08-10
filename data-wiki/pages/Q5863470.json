@@ -1,0 +1,74 @@
+{
+  "qid": "Q5863470",
+  "slug": "ukrainian-folklore",
+  "title": "Ukrainian folklore",
+  "type": "folklore by ethnic group",
+  "category": "history",
+  "aliases": [
+    "folklore of Ukraine"
+  ],
+  "infobox": {
+    "label": "folklore by ethnic group",
+    "fields": []
+  },
+  "summary": "Ukrainian folklore encompasses the rich folk traditions that have emerged in Ukraine and among ethnic [[ukrainians|Ukrainians]], rooted in ancient Slavic mythology and evolving into a distinct cultural identity. This folklore serves as a vital means of preserving cultural uniqueness amid external influences.",
+  "sections": [
+    {
+      "heading": "Distinctiveness",
+      "paragraphs": [
+        "Ukrainian folklore consists of multiple layers that reflect the historical and geographical context of its development. The foundational layer is the pan-Slavic folklore, which shares common elements among Slavic peoples. Above this are aspects specific to the Eastern Slavs, and further above are elements unique to [[ukraine|Ukraine]]. Additionally, there are cultural and folkloric traits that characterize various micro-groups within Ukraine, including the Boykos, [[cossacks|Cossacks]], [[hutsuls|Hutsuls]], Lemkos, Lyshaks, Podolians, and Rusyns."
+      ]
+    },
+    {
+      "heading": "Folk Beliefs",
+      "paragraphs": []
+    },
+    {
+      "heading": "Folk Customs",
+      "paragraphs": [
+        "[[ukrainian|Ukrainian]] folk customs and rites are intricately linked to the calendar and significant life events. These customs are often accompanied by religious ceremonies, incantations, folk songs, dances, and dramatic performances. Life cycle rituals mark key events such as birth, marriage, and death. Many customs are ancient and have merged with Christian practices over time. They can be categorized into three main types: familial customs and rites (including birth, wedding, and burial ceremonies), seasonal-productive customs and rites (related to agriculture, herding, and hunting), and communal customs and rites (celebrating community events).",
+        "The evolution of folk customs in Ukraine has been influenced by modern cultural changes. Despite attempts at suppression during the Soviet era, many individuals continued to practice Christian customs, and some even revived ancient traditions. Since Ukraine's independence in 1991, there has been a resurgence of Christian rites, particularly in western regions."
+      ]
+    },
+    {
+      "heading": "Folk Dances",
+      "paragraphs": [
+        "Dance has been a ritualistic element in Ukraine since ancient times, often intertwined with Christian traditions. The earliest forms of dance were circle dances associated with agricultural practices. These dances were performed during significant occasions such as Ivan Kupala day, St. George's day, Pentecost, harvest time, and weddings. Ritual dances were typically accompanied by chants rather than music. Most Ukrainian folk dances are circular in form, with notable examples including the Arkan and [[hopak|Hopak]]. Traditional Ukrainian folk attire has also enriched the dance experience. Today, numerous dance groups exist within Ukraine and the [[ukrainian-diaspora|Ukrainian diaspora]], particularly in Canada, preserving the tradition of folk dancing."
+      ]
+    },
+    {
+      "heading": "Folk Songs",
+      "paragraphs": [
+        "Ukrainian folk songs can be classified into four primary categories: ritual songs (including carols such as koliadky and shchedrivky, spring songs, [[rusalka|rusalka]] songs, and Kupala festival songs), harvest and wedding songs, historical and political songs (such as dumas and ballads), and lyrical songs (covering family themes, social class, and love).",
+        "These songs are rich in symbolism, with birds often representing various traits; for instance, the eagle symbolizes strength and freedom, while the dove represents femininity. Other symbols include the kalyna (guelder-rose), which signifies a beloved girl or Ukraine itself, and the oak, representing masculinity. The use of similes, repetition, antithesis, hyperbole, and metaphor is prevalent in these songs, with dramatic dialogues frequently employed to convey emotions. Ukrainian folk songs have inspired many composers, including [[mykola-lysenko|Mykola Lysenko]], Mykola Leontovych, and Kyrylo Stetsenko, as well as notable Russian composers who incorporated Ukrainian melodies into their works. Many folk songs continue to be performed and adapted by contemporary artists."
+      ]
+    },
+    {
+      "heading": "Folk Tales",
+      "paragraphs": [
+        "The term kazka (Ukrainian: казка) refers to Ukrainian fairy tales, which often feature common motifs, particularly involving animals. While influenced by broader pan-Slavic culture, these tales maintain a distinct Ukrainian identity. Many originated in agricultural and hunting societies, teaching children the importance of animal care and crop cultivation, as neglect could lead to hunger.",
+        "Ukrainian folk tales have inspired various artistic expressions, including animation, with the first Ukrainian animated film in 1927 being a retelling of a kazka titled 'The Fairy Tale of the Straw Bull.' They continue to influence artists today, with children's author Jan Brett's English-language adaptation of the Ukrainian fairy tale 'The Mitten' achieving bestseller status. The academic study of Ukrainian folk tales has also contributed to understanding their cultural significance."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossacks",
+    "hopak",
+    "hutsuls",
+    "mykola-lysenko",
+    "rusalka",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-diaspora",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian folklore — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_folklore",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

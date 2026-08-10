@@ -1,0 +1,88 @@
+{
+  "qid": "Q426509",
+  "slug": "vasyl-stus",
+  "title": "Vasyl Stus",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Vasyl Semenovych Stus"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1938-01-06",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1985-09-04",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Rakhnivka",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Vasyl Semenovych Stus (6 January 1938 – 4 September 1985) was a prominent Ukrainian poet, translator, literary critic, journalist, and a key figure in the Ukrainian dissident movement. His opposition to the Soviet regime led to his imprisonment and eventual death in a labor camp, cementing his legacy as one of Ukraine's most significant literary figures.",
+  "sections": [
+    {
+      "heading": "Biography",
+      "paragraphs": [
+        "Vasyl Semenovych Stus was born on 6 January 1938 in Rakhnivka, [[podolia|Podolia]], as the youngest of four children in a peasant family. The Stus family, like many others in [[ukraine|Ukraine]], suffered during the Soviet famine of 1930–1933. After moving to [[donetsk|Stalino]] (now Donetsk) in 1937, Stus received a Russian-medium education and developed a knowledge of [[ukrainian|Ukrainian]] through folk music. Despite showing academic promise, he was barred from entering the journalism faculty at [[taras-shevchenko|Taras Shevchenko]] [[taras-shevchenko-national-university-of-kyiv|Kyiv State University]] in 1954 and instead studied at the Stalino Pedagogical Institute, graduating before serving two years in the Soviet Army. His first publication appeared in 1961.",
+        "Stus worked as an editor for Sotsialistychnyi [[donbas|Donbas]] from 1960 to 1963 and enrolled in a doctoral program at the Shevchenko Institute of Literature in [[kyiv|Kyiv]] in 1963. He married Valentyna Popeliukh in 1965, and their son Dmytro was born in 1966."
+      ]
+    },
+    {
+      "heading": "Dissident Activities and Arrests",
+      "paragraphs": [
+        "On 4 September 1965, Stus participated in a protest at the premiere of Sergei Parajanov's film in Kyiv, leading to his expulsion from the Institute and loss of employment. He continued to write poetry despite rejections from publishers due to Soviet censorship. Stus was arrested on 12 January 1972 for 'anti-Soviet agitation and propaganda,' resulting in a five-year sentence in a labor camp and two years in exile in Magadan Oblast. He publicly renounced Soviet citizenship in 1978, equating it to slavery, and joined the Ukrainian Helsinki Group in 1979.",
+        "Stus was arrested again on 14 May 1980, receiving a 10-year sentence for 'anti-Soviet activity.' His defense during this trial was provided by Viktor Medvedchuk, who later became a notable figure in Ukrainian politics."
+      ]
+    },
+    {
+      "heading": "Death and Burial",
+      "paragraphs": [
+        "Vasyl Stus died on 4 September 1985 after declaring a hunger strike in the Perm-36 labor camp. His death remains shrouded in uncertainty, with reports indicating that the camp commandant committed suicide following Stus's passing. Initially buried in a prison cemetery, his remains were transferred to Kyiv in 1989 after bureaucratic delays. A memorial service was held at Saint Sophia Cathedral, and he was reburied at Baikove Cemetery on 19 November 1989, attended by over 30,000 people.",
+        "The Supreme Court of the Soviet Union annulled Stus's verdict in August 1990 due to lack of evidence."
+      ]
+    },
+    {
+      "heading": "Legacy",
+      "paragraphs": [
+        "Stus was nominated for the Nobel Prize in Literature in 1986, and in 1989, the Vasyl Stus Prizes were established to honor talent and courage in literature. He received the Taras Shevchenko State Prize posthumously in 1993. Various commemorative items, including a coin and a stamp, were issued in his honor in 2008.",
+        "The Donetsk National University, where Stus studied, was renamed in his honor in 2016. Streets across Ukraine are named after him, and during the 2022 Russian invasion, a Kyiv Metro station was proposed for renaming in his memory. In July 2026, the [[national-bank-of-ukraine|National Bank of Ukraine]] announced plans to issue a new banknote featuring Stus's portrait."
+      ]
+    },
+    {
+      "heading": "Awards",
+      "paragraphs": [
+        "1982 – Antonovych Prize",
+        "1991 – Taras Shevchenko State Prize of Ukraine for the poetry book 'Doroha boliu' published in 1990"
+      ]
+    }
+  ],
+  "links_out": [
+    "donbas",
+    "donetsk",
+    "kyiv",
+    "national-bank-of-ukraine",
+    "podolia",
+    "taras-shevchenko",
+    "taras-shevchenko-national-university-of-kyiv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Vasyl Stus — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vasyl_Stus",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

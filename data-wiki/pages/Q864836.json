@@ -1,0 +1,102 @@
+{
+  "qid": "Q864836",
+  "slug": "zhovkva",
+  "title": "Zhovkva",
+  "type": "city in Ukraine",
+  "category": "culture",
+  "aliases": [
+    "Vinnyky"
+  ],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1597",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Austrian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "13,834",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "7",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "150",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.0667, 23.9667",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Zhovkva is a city located in Lviv Raion, [[lviv-oblast|Lviv Oblast]], in [[western-ukraine|western Ukraine]], with a population of approximately 13,852 as of 2022. It serves as the administrative center of the Zhovkva urban hromada, reflecting its significance within the Ukrainian administrative framework.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The area where Zhovkva is situated was initially mentioned as the village of [[vynnyky|Vynnyky]] in 1368, part of the Kingdom of Poland under the Piast dynasty. The town itself was established in 1597 as a fortified settlement named Żółkiew, after its founder, [[hetman|hetman]] Stanisław Żółkiewski, a notable military leader in Polish history.",
+        "Zhovkva was designed according to a Renaissance city plan, similar to Zamość, and prospered due to its strategic location along key trade routes. In 1603, it was granted town rights by King Sigismund III Vasa. The early population included a diverse mix of Poles, Armenians, [[ukrainians|Ukrainians]], and Jews, contributing to the city's rich cultural tapestry."
+      ]
+    },
+    {
+      "heading": "Cultural and Religious Significance",
+      "paragraphs": [
+        "In the 17th century, Zhovkva became a royal residence for King John III Sobieski and a center for religious, artistic, and commercial activities. It hosted significant events, including a visit from King Louis XIV of France in 1676 and celebrations following the Battle of Vienna in 1683.",
+        "The city was home to several important landmarks, including Zhovkva Castle and St. Lawrence's Church, both established by Stanisław Żółkiewski. The town also featured a Great Synagogue, co-financed by King John III Sobieski, which played a crucial role in the Jewish community until its destruction during World War II."
+      ]
+    },
+    {
+      "heading": "20th Century Developments",
+      "paragraphs": [
+        "Zhovkva was part of the Austrian Empire from the First Partition of Poland in 1772 until 1918. It served as an administrative center within the Galicia and Lodomeria province and was a county seat in the Lwów Voivodeship during Polish control in the interwar period.",
+        "The city experienced significant turmoil during World War II, first under Soviet occupation, followed by German occupation, leading to the near-total destruction of its Jewish population. After the war, Zhovkva was annexed by the Soviet Union and became part of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]."
+      ]
+    },
+    {
+      "heading": "Post-Independence Era",
+      "paragraphs": [
+        "Following [[ukraine|Ukraine]]'s independence in 1991, Zhovkva regained its historical name after being temporarily renamed Nesterov in 1951. The city was the administrative center of Zhovkva Raion until the administrative reform in July 2020, which merged the raion into [[lviv|Lviv]] Raion.",
+        "Restoration efforts have been ongoing for several historical sites, including the Collegiate Church of St. Lawrence and Zhovkva Castle, which is being transformed into a cultural venue. The Holy Trinity Church, built in 1720, was recognized as a UNESCO World Heritage Site in 2013."
+      ]
+    },
+    {
+      "heading": "Notable Residents",
+      "paragraphs": [
+        "Zhovkva has been home to various notable figures, including Jewish scholars such as Aaron Margalita and Hillel ben Naphtali Zevi, as well as [[ukrainian|Ukrainian]] historians like Ivan Krypiakevych. Other prominent individuals include the Polish nobleman Stanisław Żółkiewski, who founded the town, and Ivan Rutkovych, a renowned iconographer."
+      ]
+    }
+  ],
+  "links_out": [
+    "hetman",
+    "lviv",
+    "lviv-oblast",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainians",
+    "vynnyky",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Zhovkva — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zhovkva",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

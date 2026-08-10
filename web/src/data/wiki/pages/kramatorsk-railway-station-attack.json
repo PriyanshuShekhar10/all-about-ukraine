@@ -48,7 +48,7 @@
       "heading": "Attack Details",
       "paragraphs": [
         "On 8 April 2022, between 1,000 and 4,000 civilians, predominantly women and children, were at the Kramatorsk railway station awaiting evacuation due to heavy Russian shelling in the area. At 10:24 and 10:25, media linked to the People's Republic of Donetsk broadcasted videos of missiles being launched from Shakhtarsk, a city under separatist control. Around 10:30, two missiles struck near the railway station, with initial reports emerging in Ukrainian media by approximately 10:45.",
-        "A witness from World Central Kitchen reported hearing 'between five and ten explosions,' describing the aftermath as gruesome, with victims' bodies scattered among abandoned luggage. The missiles were initially misidentified as Iskander ballistic missiles, but Donetsk oblast governor Pavlo Kyrylenko later clarified they were Tochka-U missiles equipped with cluster munitions.",
+        "A witness from World Central Kitchen reported hearing 'between five and ten explosions,' describing the aftermath as gruesome, with victims' bodies scattered among abandoned luggage. The missiles were initially misidentified as Iskander ballistic missiles, but [[donetsk-oblast|Donetsk oblast]] governor Pavlo Kyrylenko later clarified they were Tochka-U missiles equipped with cluster munitions.",
         "One missile's remnants bore the Russian inscription ЗА ДЕТЕЙ (za detey), meaning '[in revenge] for the children,' along with the serial number Ш91579, which investigators suggested could help trace the missile back to its source."
       ]
     },
@@ -84,6 +84,7 @@
   "links_out": [
     "armed-forces-of-ukraine",
     "donetsk",
+    "donetsk-oblast",
     "full-scale-russo-ukrainian-war",
     "luhansk",
     "president-of-ukraine",

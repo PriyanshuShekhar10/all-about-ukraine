@@ -1,0 +1,92 @@
+{
+  "qid": "Q2066149",
+  "slug": "ministry-of-defence-of-ukraine",
+  "title": "Ministry of Defence of Ukraine",
+  "type": "defence ministry",
+  "category": "war",
+  "aliases": [
+    "Ministry of Defense of Ukraine",
+    "MoD Ukraine",
+    "Ukrainian Ministry of Defence"
+  ],
+  "infobox": {
+    "label": "defence ministry",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1991-09-24",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Ministry of Defence building (Ukraine)",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Ministry of Defence of Ukraine is the governmental body responsible for overseeing national defense and the Armed Forces of Ukraine. Established on 24 September 1991, it plays a crucial role in military organization, strategic planning, and international military cooperation.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Ministry of Defence of Ukraine ([[ukrainian|Ukrainian]]: Міністерство оборони України, МОУ, romanized: Ministerstvo oborony Ukrainy, MOU) is tasked with the oversight of national defense and the [[armed-forces-of-ukraine|Armed Forces of Ukraine]]. The Minister of Defence heads the ministry, while the [[president-of-ukraine|President of Ukraine]] serves as the Supreme Commander-in-Chief of the Armed Forces."
+      ]
+    },
+    {
+      "heading": "Establishment and Early Years",
+      "paragraphs": [
+        "The ministry was established on 24 September 1991, shortly after [[ukraine|Ukraine]]'s declaration of independence. It was responsible for the reorganization of all Soviet military forces within Ukrainian territory. In 1994, Ukraine voluntarily relinquished its nuclear arsenal, incurring significant costs to dismantle nuclear weapons and military infrastructure to comply with the Treaty on Conventional Armed Forces in Europe."
+      ]
+    },
+    {
+      "heading": "Mission and Objectives",
+      "paragraphs": [
+        "The major objectives of the Ministry of Defence, as ratified by the [[verkhovna-rada|Verkhovna Rada]], include preventing hostilities, structuring the military, and repelling various forms of aggression, both domestically and internationally. The ministry's security policies emphasize non-intervention and respect for the sovereignty of other states, while avoiding the identification of specific threats."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The origins of military governance in Ukraine date back to 28 June 1917, with the establishment of the first military executive office under Symon Petliura. This evolved through various forms until the establishment of the Ministry of Defence in 1991, which inherited a significant military force from the Soviet Union, including 780,000 personnel and substantial military assets."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "In 2022, it was planned to allocate 5% of Ukraine's GDP for the needs of the Ministry of Defence. During the ongoing Russian invasion, the ministry reported expenditures equivalent to its annual budget every month. Reforms initiated in 2016, supported by international partners, aimed to modernize the ministry's processes and enhance the capabilities of the Armed Forces."
+      ]
+    },
+    {
+      "heading": "Structure",
+      "paragraphs": [
+        "The Ministry of Defence is responsible for managing territorial defense, military development, and mobilization in wartime. The General Staff of Ukraine, subordinate to the Defence Minister, is tasked with planning and operational management of military forces. As of 1 January 2019, the Minister of Defence is required to be a civilian."
+      ]
+    }
+  ],
+  "links_out": [
+    "armed-forces-of-ukraine",
+    "president-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Ministry of Defence (Ukraine) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ministry_of_Defence_(Ukraine)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

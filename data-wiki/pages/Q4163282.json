@@ -1,0 +1,82 @@
+{
+  "qid": "Q4163282",
+  "slug": "dniester-canyon",
+  "title": "Dniester Canyon",
+  "type": "canyon",
+  "category": "geography",
+  "aliases": [
+    "Dnistrovskyi kanion"
+  ],
+  "infobox": {
+    "label": "canyon",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.7661, 25.5995",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Dniester Canyon is a significant geological formation created by the Dniester River, located in southwestern Ukraine across several oblasts. It was designated as a national nature park in 2010, highlighting its ecological and geological importance.",
+  "sections": [
+    {
+      "heading": "Geographical Location",
+      "paragraphs": [
+        "The Dniester Canyon is situated in southwestern [[ukraine|Ukraine]], spanning a 250 km (160 mi) stretch of the [[dniester|Dniester]] River. It extends from the mouth of the Zolota Lypa River near the village of Nyzhniv in [[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]] to the Dniester Hydroelectric Station near Novodnistrovsk in [[chernivtsi-oblast|Chernivtsi Oblast]]. The canyon encompasses areas within [[ternopil|Ternopil]], [[ivano-frankivsk|Ivano-Frankivsk]], [[chernivtsi|Chernivtsi]], and Khmelnytskyi Oblasts, and is located on the Podolian Upland and [[khotyn|Khotyn]] Upland, northeast of the [[carpathians|Carpathian Mountains]].",
+        "The canyon reaches depths of 100–200 m (330–660 ft), contributing to its dramatic landscape."
+      ]
+    },
+    {
+      "heading": "Geological Features",
+      "paragraphs": [
+        "The Dniester Canyon is characterized by its geological composition, cutting through rock layers formed during the Lower Palaeozoic era, Upper Cretaceous period, and Miocene epoch. The canyon is primarily situated on the [[ukrainian|Ukrainian]] Shield, with most of its bedrock being Devonian, alongside some walls made of Ediacaran or Silurian period rocks.",
+        "The canyon also contains over ten karst caves and grottoes, along with small waterfalls known as 'maiden's tears' that flow over bryophyte-covered rocks."
+      ]
+    },
+    {
+      "heading": "Ecological Significance",
+      "paragraphs": [
+        "The steep walls of the Dniester Canyon create a unique microclimate, resulting in average summer temperatures that are approximately 0.8 °C (33.4 °F) warmer than the surrounding areas, and extending the growing season by about 10 days."
+      ]
+    },
+    {
+      "heading": "Tourism and Recreation",
+      "paragraphs": [
+        "The Dniester Canyon is a popular destination for water tourism, attracting thousands of visitors each year. The river offers one of the most captivating trips in Ukraine, featuring stunning landscapes, steep rocky or forested banks, travertine rocks, geological formations, caves, grottoes, waterfalls, islands, and various monuments of nature and history.",
+        "Additionally, the villages of Isakiv and Odaiv within the canyon are notable for attracting skydivers from Ukraine and other countries, hosting All-Ukrainian and International skydiving competitions twice a year."
+      ]
+    },
+    {
+      "heading": "Conservation Efforts",
+      "paragraphs": [
+        "The Dniester Canyon National Nature Park was established to protect the natural beauty and ecological integrity of the area, receiving national park status on February 3, 2010, through a presidential decree. The canyon's steep slopes have been recognized as one of the Seven Natural Wonders of Ukraine, underscoring its significance in the country's natural heritage."
+      ]
+    }
+  ],
+  "links_out": [
+    "carpathians",
+    "chernivtsi",
+    "chernivtsi-oblast",
+    "dniester",
+    "ivano-frankivsk",
+    "ivano-frankivsk-oblast",
+    "khotyn",
+    "ternopil",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Dniester Canyon — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dniester_Canyon",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

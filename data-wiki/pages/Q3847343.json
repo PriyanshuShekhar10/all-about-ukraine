@@ -1,0 +1,86 @@
+{
+  "qid": "Q3847343",
+  "slug": "vira-vovk",
+  "title": "Vira Vovk",
+  "type": "human",
+  "category": "culture",
+  "aliases": [
+    "Vira Ostapivna Selianska",
+    "Vira Selianska",
+    "Vira Seli͡ansʹka",
+    "Wira Wowk"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1926-01-02",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "2022-07-16",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Boryslav",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Vira Ostapivna Selianska, known by her pen name Vira Vovk, was a prominent Ukrainian writer, critic, and translator, born on 2 January 1926 in Boryslav and passing away on 16 July 2022 in Rio de Janeiro, Brazil. Her literary contributions and advocacy for Ukrainian culture have had a significant impact, particularly in the diaspora.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Vira Vovk was born in Boryslav in 1926 and spent her formative years in the Hutsul region, specifically in the town of Kuty, which was located on the Polish-Romanian border at that time.",
+        "She completed her secondary education in [[lviv|Lviv]] and Dresden, later pursuing studies in Germanics, music history, and comparative literature at the University of Tübingen."
+      ]
+    },
+    {
+      "heading": "Emigration and Academic Career",
+      "paragraphs": [
+        "In 1945, Vovk emigrated with her mother to Portugal and subsequently moved to Brazil in 1949, where she settled in Rio de Janeiro.",
+        "She completed her university studies in Brazil and pursued postgraduate education at Columbia University in New York City and Ludwig-Maximilians-Universität München.",
+        "Vovk earned a PhD and became a professor of German literature at the Federal University of Rio de Janeiro."
+      ]
+    },
+    {
+      "heading": "Literary Contributions",
+      "paragraphs": [
+        "Vira Vovk authored ten collections of poetry, ten novels, and eleven plays, and she was instrumental in translating works of Western writers into [[ukrainian|Ukrainian]] and Ukrainian writers into Portuguese.",
+        "Her literary output has significantly contributed to the promotion of Ukrainian culture and language, particularly among Ukrainian communities abroad."
+      ]
+    },
+    {
+      "heading": "Awards and Recognition",
+      "paragraphs": [
+        "Throughout her career, Vovk received several accolades, including the [[ivan-franko|Ivan Franko]] Literary award in 1957, 1979, 1982, and 1990, as well as the Blahovist award in 2000.",
+        "In 2008, she was honored with the Shevchenko National Prize, a prestigious Ukrainian state award recognizing her contributions to literature."
+      ]
+    },
+    {
+      "heading": "Legacy",
+      "paragraphs": [
+        "Vira Vovk passed away on 16 July 2022 in Rio de Janeiro, Brazil, at the age of 96.",
+        "Her legacy continues to inspire future generations of writers and advocates for Ukrainian culture, particularly in the diaspora."
+      ]
+    }
+  ],
+  "links_out": [
+    "ivan-franko",
+    "lviv",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Vira Vovk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vira_Vovk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

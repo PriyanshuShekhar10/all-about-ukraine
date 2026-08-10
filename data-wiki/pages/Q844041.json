@@ -1,0 +1,63 @@
+{
+  "qid": "Q844041",
+  "slug": "vorskla",
+  "title": "Vorskla",
+  "type": "river",
+  "category": "geography",
+  "aliases": [
+    "Vorskla River"
+  ],
+  "infobox": {
+    "label": "river",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Russia, Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.9086, 36.4487",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Vorskla is a significant river in northeastern Ukraine, originating from Belgorod Oblast in Russia and flowing into the Dnieper. It is notable for its length and the cities it traverses, as well as its historical importance.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "The Vorskla river begins on the western slopes of the Central Russian Upland, located north of Belgorod. Upon entering [[ukraine|Ukraine]], it flows through the [[dnieper|Dnieper]] Lowland, passing through [[sumy-oblast|Sumy Oblast]] and [[poltava-oblast|Poltava Oblast]]. The river measures 464 kilometres (288 miles) in total length and covers a basin area of 14,700 square kilometres (5,700 square miles). Within Ukraine, it ranks as the 15th longest river, extending 348 kilometres (216 miles).",
+        "The river has several tributaries, including right tributaries such as the Vorsklytsia and Boromlia, and left tributaries including Merla, Kolomak, and Tahamlyk. Key cities situated along the Vorskla include Grayvoron, Okhtyrka, [[poltava|Poltava]] (the administrative center of Poltava Oblast), and Kobeliaky. The river is predominantly navigable between its delta and Kobeliaky."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Historically, the Vorskla has been the site of significant events, including the presence of an ancient fort believed to be Gelonos, located south of Okhtyrka. The Battle of the Vorskla River took place in 1399, marking a notable conflict in the region. Additionally, in 1709, the city of Poltava, which lies along the river, was besieged by Charles XII."
+      ]
+    },
+    {
+      "heading": "Flora and Fauna",
+      "paragraphs": [
+        "The Vorskla river supports a diverse ecosystem, hosting over 50 species of fish, predominantly carps, pikes, breams, rudds, roaches, minnows, and catfish. The surrounding fauna includes hares, foxes, and various birds such as wild ducks, gray herons, partridges, and pheasants. The riverbanks are lined with extensive wooded areas, featuring both coniferous forests (mainly on the left bank) and deciduous forests."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnieper",
+    "poltava",
+    "poltava-oblast",
+    "sumy-oblast",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Vorskla — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vorskla",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

@@ -1,0 +1,78 @@
+{
+  "qid": "Q4719215",
+  "slug": "alexander-j-motyl",
+  "title": "Alexander J. Motyl",
+  "type": "human",
+  "category": "war",
+  "aliases": [
+    "Alexander John Motyl",
+    "Alexander Motyl"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1953-10-21",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "New York City",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Alexander John Motyl is an American historian and political scientist recognized for his extensive work on Ukraine, Russia, and the Soviet Union. He is a professor at Rutgers University and contributes to various publications, including The Kyiv Post.",
+  "sections": [
+    {
+      "heading": "Background",
+      "paragraphs": [
+        "Alexander John Motyl was born in New York City to parents who were refugees from [[western-ukraine|Western Ukraine]] after World War II, a period during which the region was under Soviet occupation. He completed his secondary education at Regis High School in 1971 and pursued higher education at Columbia University, earning a BA in history in 1975 and a Ph.D. in Political Science in 1984."
+      ]
+    },
+    {
+      "heading": "Academic Contributions",
+      "paragraphs": [
+        "Motyl has held teaching positions at several institutions, including Columbia University, Lehigh University, the [[ukrainian|Ukrainian]] Free University, [[kyiv|Kyiv]]-Mohyla University, and Harvard University. Currently, he serves as a professor of political science at Rutgers University in Newark, New Jersey. His scholarly work encompasses eight academic books and over fifteen edited volumes, focusing on topics such as the Soviet Union, [[ukraine|Ukraine]], revolutions, and nationalism.",
+        "In his 2001 book, Imperial Ends, Motyl presents a theoretical framework for analyzing empires, categorizing them into continuous, discontinuous, and hybrid structures. He discusses the Russian example in his earlier work, The Post Soviet Nations."
+      ]
+    },
+    {
+      "heading": "Literary and Artistic Endeavors",
+      "paragraphs": [
+        "In addition to his academic pursuits, Motyl is an accomplished poet, fiction writer, and visual artist. His poetry collection, Vanishing Points, and several novels, including Whiskey Priest (2005) and The Jew Who Was Ukrainian (2012), showcase his creative talents. His artwork has been exhibited in New York, Toronto, and Philadelphia, and is included in the permanent collections of the [[ukrainian-museum|Ukrainian Museum]] in New York City and the Ukrainian Cultural Centre in Winnipeg."
+      ]
+    },
+    {
+      "heading": "Selected Works",
+      "paragraphs": [
+        "Motyl's notable academic publications include The Turn to the Right: The Ideological Origins and Development of [[ukrainian-nationalism|Ukrainian Nationalism]], 1919-1929 (1980), Will the Non-Russians Rebel? State, Ethnicity, and Stability in the USSR (1987), and Dilemmas of Independence: Ukraine after Totalitarianism (1993). He has also co-edited significant works such as [[holodomor|The Holodomor]] Reader: A Sourcebook on the Famine of 1932-1933 in Ukraine (2012)."
+      ]
+    },
+    {
+      "heading": "Public Engagement",
+      "paragraphs": [
+        "Motyl actively engages in public discourse through opinion columns in various publications, including Foreign Policy, 19FortyFive, and The Kyiv Post. His commentary often addresses contemporary issues related to Ukraine and its geopolitical context."
+      ]
+    }
+  ],
+  "links_out": [
+    "holodomor",
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-museum",
+    "ukrainian-nationalism",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Alexander J. Motyl — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alexander_J._Motyl",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-10",
+  "status": "published"
+}

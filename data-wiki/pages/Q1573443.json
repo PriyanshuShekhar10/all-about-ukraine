@@ -17,7 +17,7 @@
     {
       "heading": "Historical Background",
       "paragraphs": [
-        "Ukrainization has historical roots dating back to the second half of the 15th century, during which [[ukraine|Ukraine]] and Belarus were part of the Grand Duchy of Lithuania. The Renaissance played a significant role in shifting cultural expressions from Byzantine influences to a focus on humanist themes, leading to the development of new literary genres and the use of the vernacular language, known as Ruthenian.",
+        "Ukrainization has historical roots dating back to the second half of the 15th century, during which [[ukraine|Ukraine]] and Belarus were part of the Grand Duchy of Lithuania. The Renaissance played a significant role in shifting cultural expressions from Byzantine influences to a focus on humanist themes, leading to the development of new literary genres and the use of the vernacular language, known as [[ruthenian|Ruthenian]].",
         "Ruthenian evolved into a standard language, eventually splitting into modern [[ukrainian|Ukrainian]] and Belarusian. By the 17th century, it became widely used in everyday communication, while Church Slavonic was increasingly restricted to religious contexts."
       ]
     },
@@ -38,7 +38,7 @@
       "heading": "Early Soviet Period (1923–1931)",
       "paragraphs": [
         "With the establishment of Bolshevik rule, the Soviet government initially adopted an indigenization policy, which included a brief period of Ukrainization. The All-Ukrainian Sovnarkom's decree on July 27, 1923, marked the start of formal Ukrainization efforts, promoting the Ukrainian language in state institutions.",
-        "By 1929, over 97% of high school students were educated in Ukrainian, and literacy rates among Ukrainophones improved significantly. Major cities like [[kharkiv|Kharkiv]] and [[kyiv|Kyiv]] saw increases in the Ukrainian population and cultural representation.",
+        "By 1929, over 97% of high school students were educated in Ukrainian, and literacy rates among Ukrainophones improved significantly. Major cities like [[kharkiv-oblast|Kharkiv]] and [[kyiv|Kyiv]] saw increases in the Ukrainian population and cultural representation.",
         "The Ukrainian language's presence in publishing and education flourished, with a significant rise in Ukrainian-language newspapers and theaters. By 1931, 66 out of 88 theaters were Ukrainian, and 373 out of 426 newspapers were published in Ukrainian."
       ]
     },
@@ -51,8 +51,9 @@
     }
   ],
   "links_out": [
-    "kharkiv",
+    "kharkiv-oblast",
     "kyiv",
+    "ruthenian",
     "ukraine",
     "ukrainian",
     "ukrainians",
