@@ -12,7 +12,7 @@ interface Props {
   compact?: boolean;
 }
 
-const { data, focus, height = 560, compact = false } = Astro.props;
+const { data, focus, compact = false } = Astro.props;
 
 const legend = CATEGORY_ORDER.filter((slug) =>
   data.nodes.some((n) => n.category === slug),
@@ -36,7 +36,6 @@ const payload = {
 <figure
   class:list={["knowledge-graph", compact && "knowledge-graph--compact"]}
   data-kg-root
-  style={`--kg-h: ${height}px`}
 >
   {
     !compact && (
@@ -67,14 +66,16 @@ const payload = {
     ]}
   >
     <div
-      class:list={[
-        "relative min-w-0 flex-1 overflow-hidden border border-hairline bg-canvas-soft",
-        !compact && "lg:min-h-0",
-      ]}
-      style="height: var(--kg-h)"
+      class="relative min-h-[420px] min-w-0 flex-1 overflow-hidden border border-hairline bg-canvas-soft"
+      style={`height: var(--kg-h); width: 100%`}
       data-kg-viewport
     >
-      <div data-kg-mount class="size-full" aria-label="Knowledge graph"></div>
+      <div
+        data-kg-mount
+        class="absolute inset-0 block"
+        aria-label="Knowledge graph"
+      >
+      </div>
       <p
         data-kg-hint
         class="ui pointer-events-none absolute bottom-2 left-2 z-10 max-w-[75%] truncate rounded-sm bg-canvas/90 px-2 py-1 text-xs text-mute"
@@ -86,9 +87,8 @@ const payload = {
     {
       !compact && ranked.length > 0 && (
         <aside
-          class="ui flex w-full shrink-0 flex-col border border-hairline bg-canvas lg:w-64"
+          class="ui flex max-h-[320px] w-full shrink-0 flex-col border border-hairline bg-canvas lg:max-h-[var(--kg-h)] lg:w-64"
           aria-label="Most connected entries"
-          style="max-height: var(--kg-h)"
         >
           <div class="border-b border-hairline px-3 py-2">
             <h2 class="text-xs font-semibold uppercase tracking-wide text-mute">
@@ -123,12 +123,7 @@ const payload = {
             ))}
           </ol>
           <p class="border-t border-hairline px-3 py-2 text-[11px] text-mute">
-            Click a name to focus it on the map. Open the entry from the graph,
-            or via the
-            <a href="/wiki/a-z" class="doclink">
-              A–Z index
-            </a>
-            .
+            Tap a name to focus it on the map.
           </p>
         </aside>
       )
@@ -161,13 +156,28 @@ const payload = {
 </figure>
 
 <style>
+  .knowledge-graph {
+    --kg-h: 480px;
+  }
   .knowledge-graph--compact {
-    --kg-h: 300px;
+    --kg-h: min(300px, 50vh);
   }
   @media (min-width: 640px) {
     .knowledge-graph:not(.knowledge-graph--compact) {
+      --kg-h: 640px;
+    }
+  }
+  @media (min-width: 1024px) {
+    .knowledge-graph:not(.knowledge-graph--compact) {
       --kg-h: 680px;
     }
+  }
+  [data-kg-viewport] {
+    touch-action: none;
+  }
+  [data-kg-mount] canvas {
+    display: block;
+    max-width: none;
   }
   [data-kg-swatch="geography"] {
     background: #6b7f9a;

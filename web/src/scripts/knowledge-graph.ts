@@ -55,15 +55,21 @@ function endId(end: string | GNode) {
   return typeof end === "object" ? end.id : end;
 }
 
+function isNarrow() {
+  return window.matchMedia("(max-width: 1023px)").matches;
+}
+
 function initRoot(root: HTMLElement) {
   if (root.dataset.kgReady === "1") return;
 
   const jsonEl = root.querySelector<HTMLElement>("[data-kg-json]");
   const mount = root.querySelector<HTMLElement>("[data-kg-mount]");
+  const viewport = root.querySelector<HTMLElement>("[data-kg-viewport]");
   const hint = root.querySelector<HTMLElement>("[data-kg-hint]");
   const filterInput = root.querySelector<HTMLInputElement>("[data-kg-filter]");
-  if (!jsonEl || !mount) return;
+  if (!jsonEl || !mount || !viewport) return;
   const host = mount;
+  const frame = viewport;
 
   let payload: Payload;
   try {
@@ -100,11 +106,12 @@ function initRoot(root: HTMLElement) {
   let hoverId: string | null = null;
   let filter = "";
   let fitted = false;
+  let engineDone = false;
 
   const compact = Boolean(payload.compact);
   const focusId = payload.focus;
+  const narrow = isNarrow();
 
-  // force-graph types nodes as NodeObject; cast accessors lightly.
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const Graph = new ForceGraph(host) as any;
 
@@ -112,8 +119,8 @@ function initRoot(root: HTMLElement) {
     .backgroundColor(cssVar("--color-canvas-soft", "#dddddf"))
     .nodeId("id")
     .nodeLabel((n: GNode) => n.title)
-    .nodeVal((n: GNode) => 1 + Math.min(n.degree, 28) * 0.4)
-    .nodeRelSize(compact ? 4.5 : 3.4)
+    .nodeVal((n: GNode) => 1 + Math.min(n.degree, 28) * 0.45)
+    .nodeRelSize(compact ? 5 : narrow ? 5.5 : 3.6)
     .nodeColor((n: GNode) => {
       if (filter && !n.title.toLowerCase().includes(filter)) {
         return isDark() ? "#2a2a27" : "#cbcbcd";
@@ -128,15 +135,15 @@ function initRoot(root: HTMLElement) {
         ? cssVar("--color-body", "#545860")
         : cssVar("--color-hairline", "#cbcbcd"),
     )
-    .linkWidth((l: GLink) => (highlightLinks.has(l) ? 2 : 0.55))
+    .linkWidth((l: GLink) => (highlightLinks.has(l) ? 2.2 : narrow ? 0.7 : 0.55))
     .linkDirectionalParticles((l: GLink) => (highlightLinks.has(l) ? 2 : 0))
     .linkDirectionalParticleWidth(1.5)
     .linkDirectionalParticleSpeed(0.005)
     .autoPauseRedraw(false)
     .enableNodeDrag(true)
-    .cooldownTicks(160)
-    .d3AlphaDecay(0.02)
-    .d3VelocityDecay(0.28)
+    .cooldownTicks(140)
+    .d3AlphaDecay(0.025)
+    .d3VelocityDecay(0.3)
     .onNodeHover((n: GNode | null) => {
       hoverId = n?.id ?? null;
       highlightIds.clear();
@@ -163,49 +170,75 @@ function initRoot(root: HTMLElement) {
           n.id === focusId ||
           matchFilter ||
           (compact && nodes.length <= 36) ||
-          (!compact && !filter && n.degree >= 14 && globalScale > 1.2);
+          (narrow && n.degree >= 10 && globalScale > 0.9) ||
+          (!compact && !narrow && !filter && n.degree >= 14 && globalScale > 1.2);
         if (!show) return;
         if (filter && !matchFilter && n.id !== hoverId) return;
 
-        const fontSize = Math.max(11 / globalScale, 2.6);
+        const fontSize = Math.max((narrow ? 12 : 11) / globalScale, 2.8);
         ctx.font = `${fontSize}px system-ui, -apple-system, sans-serif`;
         ctx.textAlign = "center";
         ctx.textBaseline = "top";
         ctx.fillStyle = cssVar("--color-mute", "#85888e");
         const r =
-          Math.sqrt(1 + Math.min(n.degree, 28) * 0.4) *
-          (compact ? 4.5 : 3.4) *
+          Math.sqrt(1 + Math.min(n.degree, 28) * 0.45) *
+          (compact ? 5 : narrow ? 5.5 : 3.6) *
           0.55;
         ctx.fillText(n.title, n.x ?? 0, (n.y ?? 0) + r + 1.5);
       },
     )
     .onEngineStop(() => {
-      if (fitted) return;
-      fitted = true;
-      if (focusId && byId.has(focusId)) {
-        const focus = byId.get(focusId)!;
-        Graph.centerAt(focus.x ?? 0, focus.y ?? 0, 600);
-        Graph.zoom(compact ? 2.6 : 2.1, 600);
-      } else {
-        Graph.zoomToFit(700, 56);
-      }
+      engineDone = true;
+      fitIfReady();
     });
 
   const charge = Graph.d3Force("charge");
-  if (charge?.strength) charge.strength(compact ? -70 : -50);
+  if (charge?.strength) charge.strength(compact ? -70 : narrow ? -90 : -50);
 
   const linkForce = Graph.d3Force("link");
-  if (linkForce?.distance) linkForce.distance(compact ? 38 : 48);
+  if (linkForce?.distance) linkForce.distance(compact ? 38 : narrow ? 34 : 48);
 
-  function resize() {
-    const parent = host.parentElement;
-    if (!parent) return;
-    const rect = parent.getBoundingClientRect();
-    Graph.width(Math.max(1, rect.width)).height(Math.max(1, rect.height));
+  function fitIfReady() {
+    if (fitted || !engineDone) return;
+    const rect = frame.getBoundingClientRect();
+    if (rect.width < 80 || rect.height < 80) return;
+    fitted = true;
+    if (focusId && byId.has(focusId)) {
+      const focus = byId.get(focusId)!;
+      Graph.centerAt(focus.x ?? 0, focus.y ?? 0, 500);
+      Graph.zoom(compact ? 2.6 : narrow ? 1.6 : 2.1, 500);
+    } else {
+      // Tight padding on phones so nodes stay large enough to see.
+      Graph.zoomToFit(600, narrow ? 24 : 48);
+    }
   }
 
-  new ResizeObserver(() => resize()).observe(host.parentElement!);
-  resize();
+  function resize() {
+    const rect = frame.getBoundingClientRect();
+    const w = Math.max(1, Math.floor(rect.width));
+    const h = Math.max(1, Math.floor(rect.height));
+    // Keep the mount box explicit — percentage heights are flaky on mobile.
+    host.style.width = `${w}px`;
+    host.style.height = `${h}px`;
+    Graph.width(w).height(h);
+    // If we couldn't fit earlier because the viewport was 0×0, try again.
+    if (!fitted && engineDone && w >= 80 && h >= 80) {
+      fitIfReady();
+    }
+  }
+
+  new ResizeObserver(() => resize()).observe(frame);
+  // Two frames: wait for layout (esp. mobile browser chrome) then size.
+  requestAnimationFrame(() => {
+    resize();
+    requestAnimationFrame(resize);
+  });
+  // Fallback if the first layouts still report a tiny box.
+  window.setTimeout(resize, 250);
+  window.setTimeout(() => {
+    resize();
+    if (!fitted && engineDone) fitIfReady();
+  }, 700);
 
   function focusNode(id: string, opts: { clearFilter?: boolean } = {}) {
     const match = byId.get(id);
@@ -220,7 +253,7 @@ function initRoot(root: HTMLElement) {
     neighbors.get(match.id)?.forEach((nid) => highlightIds.add(nid));
     incident.get(match.id)?.forEach((l) => highlightLinks.add(l));
     Graph.centerAt(match.x ?? 0, match.y ?? 0, 700);
-    Graph.zoom(compact ? 2.6 : 2.4, 700);
+    Graph.zoom(compact ? 2.6 : narrow ? 1.8 : 2.4, 700);
     if (hint) hint.textContent = match.title;
     Graph.nodeColor(Graph.nodeColor());
 
