@@ -1,0 +1,71 @@
+{
+  "qid": "Q2607023",
+  "slug": "treaty-of-moscow",
+  "title": "Treaty of Moscow",
+  "type": "treaty",
+  "category": "geography",
+  "aliases": [
+    "1921 Russia-Turkey Treaty",
+    "1921 Turkey-Russia Treaty"
+  ],
+  "infobox": {
+    "label": "treaty",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "1921",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Russian Socialist Federative Soviet Republic",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Moscow",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The Treaty of Moscow, also known as the Treaty of Brotherhood, was a significant agreement signed on 16 March 1921 between the Grand National Assembly of Turkey and Soviet Russia. This treaty played a crucial role in shaping the geopolitical landscape of the region, including territories relevant to Ukraine's historical context.",
+  "sections": [
+    {
+      "heading": "Background",
+      "paragraphs": [
+        "The Treaty of Moscow was signed during a time when neither the Republic of Turkey nor the Soviet Union had been officially established. The recognized Turkish government was that of Sultan Mehmed VI, who was not a party to the treaty, which was in contrast to the Turkish National Movement that had repudiated the Treaty of Sèvres."
+      ]
+    },
+    {
+      "heading": "Provisions of the Treaty",
+      "paragraphs": [
+        "The treaty aimed to foster friendly relations between Turkey and Russia. It defined 'Turkey' as the territories included in the National Oath adopted by the Ottoman Parliament on 28 January 1920. Article VI nullified all prior treaties between the two nations, while Article II resulted in Turkey ceding Batum and surrounding areas to Soviet Georgia, with Kars Oblast being ceded to Turkey.",
+        "Additionally, Article III established an autonomous Nakhichevan district under the protectorate of Soviet Azerbaijan. Article V stipulated that the status of the Black Sea and the Turkish Straits would be determined at a future conference, ensuring the sovereignty and security of Turkey and its capital, Constantinople."
+      ]
+    },
+    {
+      "heading": "Impact on Regional Borders",
+      "paragraphs": [
+        "The borders of Turkey, Georgia, Armenia, and Azerbaijan were defined by the Treaty of Moscow and were reaffirmed in the Treaty of Kars, signed on 13 October 1921. These borders remain relevant today and continue to influence the geopolitical dynamics in the region, including areas that historically intersect with [[ukraine|Ukraine]]'s interests."
+      ]
+    },
+    {
+      "heading": "Contemporary Relevance",
+      "paragraphs": [
+        "In the context of modern geopolitics, the Treaty of Moscow resurfaced during the Russian–Turkish tensions following the shootdown of a Russian aircraft in November 2015. Members of the Communist Party of Russia suggested annulling the treaty as a political message to Turkey. However, the Russian government ultimately chose to maintain the treaty to de-escalate tensions with Turkey."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Treaty of Moscow (1921) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Moscow_(1921)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

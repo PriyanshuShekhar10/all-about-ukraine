@@ -1,0 +1,53 @@
+{
+  "qid": "Q16877706",
+  "slug": "mykolaiv-shipyard",
+  "title": "Mykolaiv Shipyard",
+  "type": "Wikimedia disambiguation page",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "Mykolaiv Shipyard refers to several shipbuilding facilities located in the [[ukrainian|Ukrainian]] city of Mykolaiv, which is significant for its maritime industry.",
+  "sections": [
+    {
+      "heading": "Black Sea Shipyard",
+      "paragraphs": [
+        "The Black Sea Shipyard, also recognized as [[mykolaiv|Nikolayev]] South Shipyard, has been designated as Soviet Shipyard No. 444 and Shipyard No. 198. This facility plays a crucial role in the shipbuilding sector of [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Mykolayiv Shipyard",
+      "paragraphs": [
+        "Known as Nikolaev North Shipyard and previously referred to as Soviet Shipyard No. 200, Mykolayiv Shipyard contributes to the maritime capabilities of Ukraine."
+      ]
+    },
+    {
+      "heading": "Okean Shipyard",
+      "paragraphs": [
+        "Okean Shipyard is a merchant shipyard that is part of the shipbuilding landscape in Mykolaiv, supporting the commercial maritime sector in Ukraine."
+      ]
+    },
+    {
+      "heading": "Nibulon Shipbuilding-Shiprepair Plant",
+      "paragraphs": [
+        "Operated by the Nibulon agro-logistics company, the Nibulon Shipbuilding-Shiprepair Plant is another significant facility in Mykolaiv, emphasizing the integration of agriculture and maritime industries in Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "mykolaiv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Mykolaiv Shipyard — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mykolaiv_Shipyard",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

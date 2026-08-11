@@ -33,7 +33,7 @@
     {
       "heading": "Historical Background",
       "paragraphs": [
-        "The Kingdom of Galicia–Volhynia originated from the Principality of Volhynia, which may have formed as early as the late 10th century, with notable rulers such as Vsevolod, a son of Vladimir I of Kiev. The Principality of Galicia was established between 1124 and 1144 by Vladimirko Volodarovich, unifying the principalities of Zvenyhorod, Peremyshl, and Terebovlia."
+        "The Kingdom of Galicia–Volhynia originated from the Principality of Volhynia, which may have formed as early as the late 10th century, with notable rulers such as Vsevolod, a son of Vladimir I of Kiev. The Principality of [[galicia|Galicia]] was established between 1124 and 1144 by Vladimirko Volodarovich, unifying the principalities of Zvenyhorod, Peremyshl, and Terebovlia."
       ]
     },
     {
@@ -63,6 +63,7 @@
   ],
   "links_out": [
     "eastern-europe",
+    "galicia",
     "halych",
     "kievan-rus",
     "lviv",

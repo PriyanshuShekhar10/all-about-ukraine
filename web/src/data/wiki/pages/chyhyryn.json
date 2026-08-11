@@ -40,7 +40,7 @@
       }
     ]
   },
-  "summary": "Chyhyryn is a city located in [[cherkasy|Cherkasy]] Raion, Cherkasy Oblast, central Ukraine, situated along the Tiasmyn River. Historically significant as the residence of the hetman of the Zaporizhian Host and the capital of the Cossack Hetmanate, Chyhyryn has played a crucial role in Ukraine's political and cultural history.",
+  "summary": "Chyhyryn is a city located in [[cherkasy|Cherkasy]] Raion, [[cherkasy-oblast|Cherkasy Oblast]], central Ukraine, situated along the Tiasmyn River. Historically significant as the residence of the hetman of the Zaporizhian Host and the capital of the Cossack Hetmanate, Chyhyryn has played a crucial role in Ukraine's political and cultural history.",
   "sections": [
     {
       "heading": "Geography and Demographics",
@@ -86,6 +86,7 @@
   "links_out": [
     "bohdan-khmelnytsky",
     "cherkasy",
+    "cherkasy-oblast",
     "cossack-hetmanate",
     "cossacks",
     "hetman",

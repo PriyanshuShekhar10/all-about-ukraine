@@ -1,0 +1,68 @@
+{
+  "qid": "Q2624048",
+  "slug": "maksym-kryvonis",
+  "title": "Maksym Kryvonis",
+  "type": "human",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1600",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1648-11",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Vilshana",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Maksym Kryvonis was a prominent Cossack leader and military commander during the Khmelnytskyi Uprising against the Polish–Lithuanian Commonwealth, notable for his strategic victories and controversial actions against Jewish communities.",
+  "sections": [
+    {
+      "heading": "Origins",
+      "paragraphs": [
+        "The origins of Maksym Kryvonis remain uncertain. A Polish pamphlet from 1648 suggested he was a serf of the Nemyrych family, a view supported by Soviet historians. Conversely, a German account from the same year indicated he may have been of Scottish descent, potentially linking his name to the Scottish surname Cameron rather than a reference to his physical appearance."
+      ]
+    },
+    {
+      "heading": "Khmelnytsky Uprising",
+      "paragraphs": [
+        "Kryvonis emerged as one of the most effective generals during the Khmelnytskyi Uprising of 1648, attaining the rank of colonel in the [[cherkasy|Cherkasy]] Regiment. His military prowess was evident in significant victories at the battles of Korsun and Pylyavtsi, where he led Cossack forces to decisive triumphs against Polish armies. He also achieved success in engagements against Prince Jeremi Wiśniowiecki at Makhnivka and Kostiantyniv. Kryvonis died from the plague during the siege of Zamość in November 1648."
+      ]
+    },
+    {
+      "heading": "Atrocities",
+      "paragraphs": [
+        "During the uprising, Cossack forces, under Kryvonis's command, were involved in violent acts against Jewish communities. Notably, he led the capture of Tulchyn, resulting in the deaths of approximately 1,500 Jews while sparing Poles in exchange for the surrender of Jewish individuals and their possessions. Historical Jewish accounts from that period depict Kryvonis as a key figure in the most brutal assaults on both Jews and Poles in 1648. Some historians, including Leonid Plyushch, attribute the pogroms associated with Kryvonis to the broader actions of [[bohdan-khmelnytsky|Bohdan Khmelnytsky]]."
+      ]
+    },
+    {
+      "heading": "Cultural Depictions",
+      "paragraphs": [
+        "Maksym Kryvonis is also represented in literature, notably as a character in 'With Fire and Sword,' a novel by the Nobel Prize-winning Polish author Henryk Sienkiewicz. The character was portrayed in the 1999 film adaptation of the novel by actor Maciej Kozłowski."
+      ]
+    }
+  ],
+  "links_out": [
+    "bohdan-khmelnytsky",
+    "cherkasy"
+  ],
+  "sources": [
+    {
+      "title": "Maksym Kryvonis — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maksym_Kryvonis",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

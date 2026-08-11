@@ -66,7 +66,7 @@
     {
       "heading": "Geography",
       "paragraphs": [
-        "Rivne Oblast is situated in the central part of the historical region of Volhynia, which is symbolized on its coat of arms by a white cross on a red background. The region's terrain is diverse, with the northern area lying in the Polesian Lowland and the southern part in the Volhynian Upland, where the highest hills, known as Povcha Upland, exceed 350 meters in elevation. The Horyn River serves as the primary waterway, while the northwestern region is connected to the [[pripyat|Prypiat]] River. The oblast is also rich in natural resources, including significant deposits of amber and basalt, although illegal extraction of amber has been reported in recent years."
+        "Rivne Oblast is situated in the central part of the historical region of Volhynia, which is symbolized on its coat of arms by a white cross on a red background. The region's terrain is diverse, with the northern area lying in the Polesian Lowland and the southern part in the Volhynian Upland, where the highest hills, known as Povcha Upland, exceed 350 meters in elevation. The Horyn River serves as the primary waterway, while the northwestern region is connected to the [[pripyat-river|Prypiat River]]. The oblast is also rich in natural resources, including significant deposits of amber and basalt, although illegal extraction of amber has been reported in recent years."
       ]
     },
     {
@@ -98,7 +98,7 @@
     }
   ],
   "links_out": [
-    "pripyat",
+    "pripyat-river",
     "rivne",
     "ukraine",
     "ukrainian",

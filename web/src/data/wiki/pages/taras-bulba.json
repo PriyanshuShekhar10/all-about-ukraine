@@ -1,0 +1,67 @@
+{
+  "qid": "Q1250822",
+  "slug": "taras-bulba",
+  "title": "Taras Bulba",
+  "type": "literary work",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "literary work",
+    "fields": []
+  },
+  "summary": "Taras Bulba is a romanticized historical novella by [[nikolai-gogol|Nikolai Gogol]], set in the first half of the 17th century, that centers around the Zaporozhian Cossack Taras Bulba and his sons. The work is significant in Ukrainian literature, highlighting themes of patriotism and the struggle against Polish rule in Ukraine.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Taras Bulba, originally published in 1835 and expanded in 1842, is a novella that tells the story of the elderly Zaporozhian Cossack Taras Bulba and his two sons, Andriy and Ostap. The narrative unfolds as the sons return from the Kiev Academy to join their father on a journey to the [[zaporizhian-sich|Zaporizhian Sich]], the Cossack stronghold in southern [[ukraine|Ukraine]], to fight against Polish forces."
+      ]
+    },
+    {
+      "heading": "Plot Summary",
+      "paragraphs": [
+        "In the 1842 edition, the sons return from an Orthodox seminary, with Andriy developing a romantic attachment to a Polish noble girl. Taras Bulba encourages his sons to join the Cossack campaign against the Poles, who are depicted as oppressors of Orthodox Christians in Ukraine. The story follows their battles, including a siege at Dubno Castle, where Andriy's betrayal leads to tragedy.",
+        "Taras Bulba ultimately confronts his son Andriy over his allegiance to the Polish girl, resulting in a fatal confrontation. The narrative culminates in Taras's own demise, as he continues to fight against the Polish forces, emphasizing themes of loyalty and sacrifice."
+      ]
+    },
+    {
+      "heading": "Cultural and Historical Context",
+      "paragraphs": [
+        "The character of Taras Bulba draws inspiration from various historical figures, including Cossack leaders and family legends, reflecting the rich [[history-of-the-cossacks|history of the Cossacks]] in Ukraine. The novella captures the socio-political tensions of the 17th century, particularly the conflict between the [[cossacks|Cossacks]] and Polish rule over Ukraine, which resonates deeply within [[ukrainian|Ukrainian]] national identity."
+      ]
+    },
+    {
+      "heading": "Adaptations and Influence",
+      "paragraphs": [
+        "Taras Bulba has inspired numerous adaptations across various artistic mediums, including opera, ballet, and film. Notably, Ukrainian composer [[mykola-lysenko|Mykola Lysenko]] created an opera based on the novella, which emphasizes its cultural significance. The story has also been adapted into films in multiple countries, reflecting its enduring popularity and relevance.",
+        "The novella's themes and characters have permeated popular culture, influencing literature, music, and even modern media, thus solidifying Taras Bulba's place in the canon of [[ukrainian-literature|Ukrainian literature]]."
+      ]
+    },
+    {
+      "heading": "Ethnic and Political Depictions",
+      "paragraphs": [
+        "The novella presents complex portrayals of various ethnic groups, including Jews and Poles, reflecting the historical prejudices of Gogol's time. The depiction of Poles as antagonists aligns with the sentiments of the era, particularly following the November Uprising against Russian rule, contributing to the text's controversial legacy.",
+        "Critics have noted the ethnic stereotypes present in the novella, which mirror the broader societal attitudes of 19th-century Russian and Ukrainian culture, adding layers of complexity to its interpretation."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossacks",
+    "history-of-the-cossacks",
+    "mykola-lysenko",
+    "nikolai-gogol",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-literature",
+    "zaporizhian-sich"
+  ],
+  "sources": [
+    {
+      "title": "Taras Bulba — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Taras_Bulba",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

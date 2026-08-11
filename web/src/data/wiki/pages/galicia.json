@@ -1,0 +1,84 @@
+{
+  "qid": "Q180086",
+  "slug": "galicia",
+  "title": "Galicia",
+  "type": "historical region",
+  "category": "geography",
+  "aliases": [
+    "Galicja",
+    "Galizia",
+    "Halychyna"
+  ],
+  "infobox": {
+    "label": "historical region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Second Polish Republic",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.8300, 24.0142",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Galicia, a historical region that encompasses parts of modern southeastern Poland and western Ukraine, has significant ties to [[history-of-ukraine|Ukrainian history]] and culture. It was a prominent area during the medieval period, particularly as part of the Kingdom of Galicia–Volhynia, and later became a contested territory during various political upheavals in [[eastern-europe|Eastern Europe]].",
+  "sections": [
+    {
+      "heading": "Geographic and Historical Overview",
+      "paragraphs": [
+        "Galicia, also referred to as Galizia, is a historical and geographic region that spans what is now southeastern Poland and [[western-ukraine|western Ukraine]]. This area was historically part of the Polish–Lithuanian Commonwealth and includes significant historic regions such as Red Ruthenia, centered on [[lviv|Lviv]], and Lesser Poland, centered on Kraków.",
+        "The name 'Galicia' is derived from the medieval city of [[halych|Halych]], first mentioned in Hungarian chronicles in 1206. The eastern part of the region was under the control of the [[kingdom-of-galiciavolhynia|Kingdom of Galicia–Volhynia]] before being annexed by the Kingdom of Poland in 1352, becoming part of the [[ruthenian|Ruthenian]] Voivodeship. Following the partitions of Poland, it was incorporated into the Austrian Empire as the Kingdom of Galicia and Lodomeria."
+      ]
+    },
+    {
+      "heading": "Cultural and Ethnic Composition",
+      "paragraphs": [
+        "Historically, Galicia was characterized by a diverse population, including Poles, [[rusyns|Ruthenians]] (ancestors of modern [[ukrainians|Ukrainians]] and Rusyns), Jews, Germans, Armenians, Czechs, Slovaks, Hungarians, and Roma. In 1910, the population was estimated to be 45.4% Polish, 42.9% Ruthenian, 10.9% Jewish, and 0.8% German.",
+        "In 1773, Galicia had approximately 2.6 million inhabitants across 280 cities and market towns, with about 5,500 villages. The region was marked by a significant number of noble families and a predominantly serf population, which accounted for over 70% of the total populace."
+      ]
+    },
+    {
+      "heading": "Historical Conflicts and Political Changes",
+      "paragraphs": [
+        "Throughout its history, Galicia was a contested area, particularly during the medieval period and World War I. It was a battleground between Austria-Hungary and Russia, and later between Poland and [[ukraine|Ukraine]] during the 20th century. The region saw significant fighting during World War I, with Russian forces initially occupying it before being pushed out by a German/Austro-Hungarian offensive.",
+        "After the war, Western Galicia became part of the restored Republic of Poland, while [[eastern-galicia|Eastern Galicia]] declared independence as the [[west-ukrainian-peoples-republic|West Ukrainian People's Republic]]. The 1921 Peace of Riga confirmed Galicia's status as part of the Second Polish Republic, leading to increased tensions between the Polish government and the [[ukrainian|Ukrainian]] population."
+      ]
+    },
+    {
+      "heading": "Legacy and Modern Significance",
+      "paragraphs": [
+        "Galicia's historical significance continues to resonate in contemporary Ukraine, particularly in the western regions of Lviv, [[ternopil|Ternopil]], and [[ivano-frankivsk|Ivano-Frankivsk]]. The cultural and ethnic diversity that characterized Galicia has left a lasting impact on the region's identity.",
+        "The conflicts and political struggles in Galicia during the 20th century, particularly during World War II, have shaped the modern Ukrainian national consciousness and continue to influence the relationship between Ukrainians and Poles in the region."
+      ]
+    }
+  ],
+  "links_out": [
+    "eastern-europe",
+    "eastern-galicia",
+    "halych",
+    "history-of-ukraine",
+    "ivano-frankivsk",
+    "kingdom-of-galiciavolhynia",
+    "lviv",
+    "rusyns",
+    "ruthenian",
+    "ternopil",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "west-ukrainian-peoples-republic",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Galicia (Eastern Europe) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Galicia_(Eastern_Europe)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

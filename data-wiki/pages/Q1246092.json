@@ -34,7 +34,7 @@
       "heading": "Overview",
       "paragraphs": [
         "The Solomiya Krushelnytska Lviv State Academic Theatre of Opera and Ballet, referred to as Lviv Opera, is situated in [[lviv|Lviv]], [[ukraine|Ukraine]]. The theatre is located on Freedom Avenue in the historic Old City, a UNESCO World Heritage Site, and was designed by Zygmunt Gorgolewski.",
-        "The opera house was constructed between 1897 and 1900, during a period when Lviv was the capital of the autonomous province of Galicia within the Austro-Hungarian Empire."
+        "The opera house was constructed between 1897 and 1900, during a period when Lviv was the capital of the autonomous province of [[galicia|Galicia]] within the Austro-Hungarian Empire."
       ]
     },
     {
@@ -67,6 +67,7 @@
     }
   ],
   "links_out": [
+    "galicia",
     "ivan-franko",
     "lviv",
     "ukraine",

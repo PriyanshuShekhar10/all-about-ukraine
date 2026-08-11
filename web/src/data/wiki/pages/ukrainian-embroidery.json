@@ -1,0 +1,66 @@
+{
+  "qid": "Q13513054",
+  "slug": "ukrainian-embroidery",
+  "title": "Ukrainian embroidery",
+  "type": "textile art by ethnic group",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "textile art by ethnic group",
+    "fields": []
+  },
+  "summary": "Ukrainian embroidery, known as vyshyvka, is a significant aspect of Ukraine's decorative arts, deeply rooted in the country's cultural heritage. This textile art form has evolved over centuries, featuring diverse regional styles and playing a vital role in traditional Ukrainian customs and ceremonies.",
+  "sections": [
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Ukrainian embroidery is an ancient tradition that has been documented as far back as 513 BC, when Herodotus noted its use by the Thracian-Dacian peoples in the region. Archaeological findings from the 1st century AD reveal embroidered clothing in [[ukraine|Ukraine]], and motifs from pre-Christian deities, such as Berehynia, have been identified in early examples.",
+        "By the 11th century, embroidered works were present in the Saint Sophia Cathedral in [[kyiv|Kyiv]], indicating the long-standing importance of this art form. Embroidery was a common practice among the populace until the 19th century, transitioning to a craft during that period. It served primarily to adorn clothing and domestic items, with the [[rushnyk|rushnyk]] being a particularly symbolic item used in various ceremonies."
+      ]
+    },
+    {
+      "heading": "Cultural Importance",
+      "paragraphs": [
+        "Embroidery in Ukraine is closely linked to numerous beliefs and superstitions, often associated with protection and fertility. The lozenge motif, for example, symbolizes a sown field and female fertility. Traditionally, embroidery has been a women's activity, with many women mastering this skill, contributing to its status as a national pastime and a key element of [[ukrainian|Ukrainian]] cultural identity."
+      ]
+    },
+    {
+      "heading": "Regional Variations",
+      "paragraphs": [
+        "Ukrainian embroidery exhibits significant regional differences, yet it maintains a cohesive national style. The predominant colors are typically red and black, with various techniques employed across the country. In Central and Eastern Ukraine, geometric and plant motifs are common, while the [[poltava|Poltava]] Region is noted for its delicate color palette and white-on-white embroidery.",
+        "In [[western-ukraine|Western Ukraine]], particularly in the Hutsul region, contrasting colors and geometric designs are prevalent. The Boiko region showcases a range of motifs, from simple patterns to intricate floral designs, while [[bukovina|Bukovina]] is recognized for its rich use of colors and stitches. Northern Ukraine preserves ancient needlework traditions, characterized by archaic geometric patterns."
+      ]
+    },
+    {
+      "heading": "Preservation Efforts",
+      "paragraphs": [
+        "As of November 2023, six embroidery-related items are included in the National Inventory of Elements of the Intangible Cultural Heritage of Ukraine. These include Krolevets handloom weaving, white-on-white embroidery of Reshetylivka, Örnek, [[borshchiv|Borshchiv]] folk embroidery, the Klembivka embroidered shirt 'with a flower', and the embroidery of women's shirts from the Hadiach region."
+      ]
+    },
+    {
+      "heading": "Notable Figures",
+      "paragraphs": [
+        "Hanna Veres is recognized as a notable figure in the field of Ukrainian embroidery, contributing to its preservation and promotion."
+      ]
+    }
+  ],
+  "links_out": [
+    "borshchiv",
+    "bukovina",
+    "kyiv",
+    "poltava",
+    "rushnyk",
+    "ukraine",
+    "ukrainian",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian embroidery — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_embroidery",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

@@ -1,0 +1,75 @@
+{
+  "qid": "Q1817355",
+  "slug": "lviv-polytechnic",
+  "title": "Lviv Polytechnic",
+  "type": "university",
+  "category": "culture",
+  "aliases": [
+    "Lviv Polytechnic National University",
+    "National University “Lviv Polytechnic”"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1844",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Austrian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.8356, 24.0147",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Lviv Polytechnic National University is a prominent public university located in Lviv, Ukraine, established in 1816. It holds a significant position in the [[ukrainian|Ukrainian]] higher education system, ranking first among technical institutions and second overall as of 2024.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The Lviv Polytechnic National University, originally founded as the Imperial-Royal Real School on 7 March 1816, has a rich history that spans multiple political regimes, including the Austrian Empire, the Second Polish Republic, the Nazi German occupation, the Soviet Union, and independent [[ukraine|Ukraine]].",
+        "The institution was initially focused on natural sciences and modern languages, adapting German educational programs to local needs. It underwent several transformations, becoming the Imperial-Royal School of Technical Sciences and Trade in 1825, and later the Imperial-Royal Real-Trade Academy in 1835."
+      ]
+    },
+    {
+      "heading": "Development and Recognition",
+      "paragraphs": [
+        "In 1844, the academy was recognized as one of the first academic technical schools in Europe and the first in Ukraine. The establishment of a new building in 1877, designed by architect Julian Zachariewicz, marked a significant milestone in its development.",
+        "The institution was renamed Lviv Polytechnic Institute in 1939 and achieved university status in June 1993, receiving the highest level of accreditation. By 2000, it was designated as a national university."
+      ]
+    },
+    {
+      "heading": "Modern Initiatives",
+      "paragraphs": [
+        "In recent years, Lviv Polytechnic has embraced innovation and entrepreneurship, launching the Tech StartUp School Business Innovation Center in October 2017 to support startups and provide business mentorship to students.",
+        "Additionally, in May 2018, the university established an Internet of Things (IoT) lab with the assistance of the [[lviv|Lviv]] IT Cluster organization, further enhancing its role in technological advancement in Ukraine."
+      ]
+    },
+    {
+      "heading": "Current Status",
+      "paragraphs": [
+        "As of 2024, Lviv Polytechnic National University ranks first among technical institutions in Ukraine according to Times Higher Education and is the largest educational institution in the country by student enrollment. It is also ranked #1001-1200 in the QS World University Rankings 2026."
+      ]
+    }
+  ],
+  "links_out": [
+    "lviv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Lviv Polytechnic — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lviv_Polytechnic",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

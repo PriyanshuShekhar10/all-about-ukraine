@@ -1,0 +1,89 @@
+{
+  "qid": "Q3406883",
+  "slug": "memorial-in-commemoration-of-famines-victims-in-ukraine",
+  "title": "Memorial in Commemoration of Famines' Victims in Ukraine",
+  "type": "museum",
+  "category": "politics",
+  "aliases": [
+    "Holodomor Victims Memorial",
+    "National Museum of the Holodomor-Genocide"
+  ],
+  "infobox": {
+    "label": "museum",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2008",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4382, 30.5540",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The National Museum of the Holodomor-Genocide serves as Ukraine's [[lviv-national-museum|national museum]] dedicated to the victims of the Holodomor, a man-made famine that resulted in millions of deaths in Ukraine during 1932–1933. Established in 2008 and recognized as a national museum in 2010, it aims to preserve the memory of the Holodomor and educate future generations.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "On 28 November 2006, the [[verkhovna-rada|Verkhovna Rada]] of [[ukraine|Ukraine]] officially recognized [[holodomor|the Holodomor]] as a deliberate act of genocide against the [[ukrainians|Ukrainian people]]. This legislation, signed into law by President [[viktor-yushchenko|Viktor Yushchenko]], initiated efforts for commemorative activities and the construction of memorials to honor the victims.",
+        "The Memorial in Commemoration of Famines' Victims in Ukraine was inaugurated on 22 November 2008, coinciding with the 75th anniversary of the Holodomor. Subsequently, on 8 July 2009, the Cabinet of Ministers established the museum, which attained national status on 18 February 2010.",
+        "In 2015, the Ministry of [[culture-of-ukraine|Culture of Ukraine]] renamed the museum to emphasize the Holodomor as a singular genocidal event, distancing it from the broader context of multiple famines in Ukraine."
+      ]
+    },
+    {
+      "heading": "Architecture and Symbolism",
+      "paragraphs": [
+        "The museum features a memorial complex and an underground Hall of Memory, designed by [[ukrainian|Ukrainian]] folk artist Anatoliy Haydamaka and architect Yuriy Kovalyov. The site incorporates significant symbolism reflecting the tragedies of the famines.",
+        "The entrance is flanked by two statues known as the Angels of Sorrow, symbolizing guardianship over the souls of the deceased. The central feature is a 30-meter high candle-shaped monument, the Candle of Memory, adorned with glass crosses representing the victims' souls.",
+        "The Hall of Memory allows visitors to light candles and view a collection of artifacts from the famine periods, including agricultural tools and personal items. Engraved black boards document the names of 14,000 Ukrainian towns and villages affected by the famines."
+      ]
+    },
+    {
+      "heading": "Educational and Research Initiatives",
+      "paragraphs": [
+        "The museum is dedicated to collecting, studying, and disseminating knowledge about the Holodomor as a genocide against the Ukrainian people. It offers educational programs and plans to expand outreach efforts to schools and libraries.",
+        "A database of famine survivors and victims is in development, intended to be accessible to both Ukrainians and the global community. Additionally, the museum launched an online project in 2012 to digitize materials related to the famines."
+      ]
+    },
+    {
+      "heading": "International Collaboration",
+      "paragraphs": [
+        "The museum seeks to establish itself as a global center for research on famine and human rights. In July 2012, it signed a Memorandum of Understanding with the Canadian Museum for Human Rights to collaborate on educational initiatives and share resources related to the Holodomor."
+      ]
+    },
+    {
+      "heading": "Visitor Information",
+      "paragraphs": [
+        "Located on the Pechersk Hills in [[kyiv|Kyiv]], the museum is accessible via public transport, with the nearest metro station being Arsenalna. It operates daily from 10:00 to 18:00, with a general admission fee for the Hall of Memory set at ₴30 for adults, ₴20 for students, and ₴15 for children."
+      ]
+    }
+  ],
+  "links_out": [
+    "culture-of-ukraine",
+    "holodomor",
+    "kyiv",
+    "lviv-national-museum",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "verkhovna-rada",
+    "viktor-yushchenko"
+  ],
+  "sources": [
+    {
+      "title": "National Museum of the Holodomor-Genocide — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_Museum_of_the_Holodomor-Genocide",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

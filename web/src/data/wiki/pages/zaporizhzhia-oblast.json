@@ -50,7 +50,7 @@
       }
     ]
   },
-  "summary": "Zaporizhzhia Oblast is a region located in south-east Ukraine, with its administrative center in the city of Zaporizhzhia. Covering an area of 27,183 square kilometers and having a population of approximately 1,638,462 as of 2022, the oblast plays a significant role in Ukraine's industrial and agricultural sectors.",
+  "summary": "Zaporizhzhia Oblast is a region located in south-[[ukraine-east|east Ukraine]], with its administrative center in the city of Zaporizhzhia. Covering an area of 27,183 square kilometers and having a population of approximately 1,638,462 as of 2022, the oblast plays a significant role in Ukraine's industrial and agricultural sectors.",
   "sections": [
     {
       "heading": "Geography",
@@ -90,6 +90,7 @@
     "khortytsia",
     "melitopol",
     "ukraine",
+    "ukraine-east",
     "ukrainian",
     "ukrainian-soviet-socialist-republic",
     "ukrainians",

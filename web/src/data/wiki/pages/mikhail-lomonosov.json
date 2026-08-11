@@ -1,0 +1,88 @@
+{
+  "qid": "Q58720",
+  "slug": "mikhail-lomonosov",
+  "title": "Mikhail Lomonosov",
+  "type": "human",
+  "category": "history",
+  "aliases": [
+    "M. B. Jiomohocob",
+    "M. V. Lomonosov",
+    "M.B.Jiomohocob",
+    "Michaelis, Lomonosow",
+    "Michail V. Lomonossov",
+    "Michail Wassiljewitsch Lomonossow",
+    "Michailas Vasiljevičius Lomonosovas",
+    "Mikhail Vasil'yevich Lomonosov",
+    "Mikhail Vasilyevich Lomonosov",
+    "Mikhail Vasilʹevich Lomonosov",
+    "Mikhail Vassilyevich Lomonossov",
+    "Mikhail Vassil’evich Lomonosov",
+    "Mikhaĭlo Lomonosov"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1711-11-08",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1765-04-04",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Mishaninskaya",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Mikhail Vasilyevich Lomonosov (19 November 1711 – 15 April 1765) was a prominent Russian polymath whose extensive contributions spanned literature, science, and education, significantly impacting the intellectual landscape of [[ukraine|Ukraine]] and Russia. He is recognized for his discoveries in various scientific fields, including chemistry and astronomy, and is often regarded as the 'Father of Russian Science.'",
+  "sections": [
+    {
+      "heading": "Early Life and Background",
+      "paragraphs": [
+        "Lomonosov was born in the village of Mishaninskaya, later renamed Lomonosovo, located in the Archangelgorod Governorate, near Kholmogory in Northern Russia. His father, Vasily Dorofeyevich Lomonosov, was a successful peasant fisherman and ship owner, while his mother, Elena Ivanovna Sivkova, was the daughter of a deacon. Lomonosov's early education was limited, but he showed a strong interest in reading and learning, aided by local figures in his community."
+      ]
+    },
+    {
+      "heading": "Education and Academic Pursuits",
+      "paragraphs": [
+        "In 1730, at the age of 19, Lomonosov traveled to Moscow to pursue higher education. He enrolled in the Slavic Greek Latin Academy under false pretenses regarding his noble lineage. Despite initial challenges, he excelled academically and later studied briefly at the Kiev Academy, which is significant in the context of [[ukrainian|Ukrainian]] education. He completed a twelve-year course in five years and received a scholarship to study in St. Petersburg and abroad in Germany."
+      ]
+    },
+    {
+      "heading": "Scientific Contributions",
+      "paragraphs": [
+        "Lomonosov made groundbreaking discoveries in various scientific fields. He formulated the law of conservation of mass in chemical reactions, which laid the groundwork for modern chemistry. His work in physics included the wave theory of light and contributions to the kinetic theory of gases. In astronomy, he was the first to identify the atmosphere of Venus during the transit of Venus in 1761, a notable achievement in the history of science."
+      ]
+    },
+    {
+      "heading": "Later Life and Legacy",
+      "paragraphs": [
+        "After returning to Russia in 1741, Lomonosov became a pivotal figure in the Russian Academy of Sciences, where he established the first chemistry laboratory and became the first Russian professor of chemistry. He co-founded Moscow University in 1755, enhancing educational opportunities in the region. Lomonosov's influence extended beyond his lifetime, and he is celebrated as a key figure in the development of Russian and Ukrainian science and literature."
+      ]
+    },
+    {
+      "heading": "Recognition",
+      "paragraphs": [
+        "Lomonosov was recognized as a Foreign Member of the Royal Swedish Academy of Sciences and the Academy of Sciences of the Institute of Bologna. His contributions to science and education were not fully appreciated until the late 19th and 20th centuries, solidifying his reputation as a foundational figure in Russian and Ukrainian intellectual history."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Mikhail Lomonosov — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mikhail_Lomonosov",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

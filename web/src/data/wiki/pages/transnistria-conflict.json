@@ -1,0 +1,69 @@
+{
+  "qid": "Q82973",
+  "slug": "transnistria-conflict",
+  "title": "Transnistria conflict",
+  "type": "conflict",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "conflict",
+    "fields": [
+      {
+        "label": "Location",
+        "value": "Transnistria",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The Transnistria conflict is an ongoing frozen conflict between Moldova and the self-proclaimed state of Transnistria, which declared independence in 1990. This conflict has significant implications for Ukraine, particularly in the context of regional stability and security, especially following the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in 2022.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Transnistria was an autonomous region within [[ukraine|Ukraine]] during the 1930s, known as the Moldavian Autonomous Soviet Socialist Republic (MASSR), with a significant Romanian-speaking population and Tiraspol as its capital. During World War II, Romania, supported by Nazi Germany, occupied Transnistria but did not annex it."
+      ]
+    },
+    {
+      "heading": "Conflict Overview",
+      "paragraphs": [
+        "The Transnistria conflict is often marked by its most active phase, the Transnistria War, which is considered to have begun on 2 September 1990, when Transnistria declared sovereignty from Moldova. Although Transnistria is recognized as part of Moldova internationally, it has received recognition from only two Russian-backed separatist states: [[republic-of-abkhazia|Abkhazia]] and South Ossetia."
+      ]
+    },
+    {
+      "heading": "Territorial Dynamics",
+      "paragraphs": [
+        "During the War of Transnistria, some villages in central Transnistria resisted the separatist authorities and remain under Moldovan control. In contrast, areas on the right bank of the [[dniester|Dniester]], including the city of Bender, are under the control of the breakaway PMR authorities. Tensions have persisted in these cross-river territories, with various confrontations occurring over the years."
+      ]
+    },
+    {
+      "heading": "Impact of the Russian Invasion of Ukraine",
+      "paragraphs": [
+        "In January 2022, [[ukrainian|Ukrainian]] military intelligence warned of potential provocations by Russian forces in Transnistria as a pretext for invasion. Following the onset of the Russian invasion on 24 February 2022, there were allegations of rocket launches from Transnistria targeting Ukraine. Ukrainian military officials identified a 'land corridor' to Transnistria as a key objective for Russia.",
+        "On 22 April 2022, Russian General Rustam Minnekayev indicated plans to extend military operations to include Transnistria, citing the need to protect the Russian-speaking population. This raised concerns in Ukraine regarding the potential expansion of the conflict."
+      ]
+    },
+    {
+      "heading": "Moldovan and International Positions",
+      "paragraphs": [
+        "Moldova considers itself the legitimate successor to the Moldavian SSR and claims that Transnistria's secession is illegal under international law. The Moldovan government views the PMR authorities as illegitimate and has expressed concerns about the political climate in Transnistria, which it claims suppresses the expression of pro-Moldovan sentiments.",
+        "Internationally, only Abkhazia and South Ossetia recognize Transnistria's sovereignty. In June 2018, Moldova submitted a UN resolution calling for the withdrawal of foreign military forces from its territory, including Transnistria, which was adopted by a simple majority."
+      ]
+    }
+  ],
+  "links_out": [
+    "dniester",
+    "full-scale-russo-ukrainian-war",
+    "republic-of-abkhazia",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Transnistria conflict — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Transnistria_conflict",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

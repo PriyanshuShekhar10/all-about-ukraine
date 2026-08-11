@@ -1,0 +1,95 @@
+{
+  "qid": "Q706857",
+  "slug": "bakhmut",
+  "title": "Bakhmut",
+  "type": "city in Ukraine",
+  "category": "economy",
+  "aliases": [
+    "Artemivsk",
+    "Artemovsk",
+    "Artemovskiy",
+    "Artyomivsk",
+    "Artyomovsk"
+  ],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1571",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Tsardom of Russia, Russian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "90,279",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "41",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "200",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.5947, 38.0008",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Bakhmut is a city located in eastern Ukraine, serving as the administrative center of Bakhmut urban hromada and Bakhmut Raion in Donetsk Oblast. With a population of approximately 71,094 as of January 2022, Bakhmut has a rich history dating back to the 16th century and has been significantly impacted by various conflicts, including World War II and the ongoing Russo-Ukrainian War.",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Significance",
+      "paragraphs": [
+        "Bakhmut is situated on the Bakhmutka River, approximately 90 kilometres (55 miles) north of [[donetsk|Donetsk]], the administrative center of [[donetsk-oblast|Donetsk Oblast]]. It was designated a city of regional significance until 2020, when this designation was removed."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Founded in the 16th century as a minor border post for the Russian state, Bakhmut's population grew significantly in the early 18th century. It served as the capital of Slavo-Serbia from 1753 to 1764, a colony established by Balkan settlers within the Russian Empire. The city received formal city status in 1783 and underwent extensive industrialization in the following centuries.",
+        "Bakhmut was known as Artemivsk from 1924 until 2016, named in honor of Bolshevik leader Fyodor Sergeyev, known as Comrade Artyom. The name change was part of a broader decommunization effort in [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Impact of Conflicts",
+      "paragraphs": [
+        "During World War II, Bakhmut was the site of the Artemivsk massacre, where thousands of Jews were killed by Nazi forces. The city was liberated by the Red Army on 5 September 1943.",
+        "In 2014, Bakhmut was involved in the battle of Artemivsk during the [[war-in-donbas|Donbas War]], where [[ukrainian|Ukrainian]] forces recaptured the city from pro-Russian separatists. The city was officially renamed back to Bakhmut in 2016 following the decommunization laws."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "During the full-scale Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] that began in February 2022, Bakhmut became a significant battleground. The city faced extensive destruction, with a large portion of its population fleeing. By May 2022, around 20,000 residents remained amid ongoing hostilities."
+      ]
+    }
+  ],
+  "links_out": [
+    "donetsk",
+    "donetsk-oblast",
+    "full-scale-russo-ukrainian-war",
+    "ukraine",
+    "ukrainian",
+    "war-in-donbas"
+  ],
+  "sources": [
+    {
+      "title": "Bakhmut — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bakhmut",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

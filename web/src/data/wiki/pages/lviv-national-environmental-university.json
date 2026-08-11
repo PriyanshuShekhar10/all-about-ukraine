@@ -35,7 +35,7 @@
     {
       "heading": "History",
       "paragraphs": [
-        "Lviv National Environmental University, originally established as an agricultural academy in Dubliany, is recognized as one of the earliest Polish language institutions of its kind. Its foundation dates back to 1852 when the Galicia Agricultural Society acquired a farm in the village of Dubliany, situated eight kilometers from [[lviv|Lviv]]. In 1856, a private School of Village Agriculture was inaugurated, which transitioned to an Agricultural College in 1858, founded by Leon Sapieha.",
+        "Lviv National Environmental University, originally established as an agricultural academy in Dubliany, is recognized as one of the earliest Polish language institutions of its kind. Its foundation dates back to 1852 when the [[galicia|Galicia]] Agricultural Society acquired a farm in the village of Dubliany, situated eight kilometers from [[lviv|Lviv]]. In 1856, a private School of Village Agriculture was inaugurated, which transitioned to an Agricultural College in 1858, founded by Leon Sapieha.",
         "In 1901, the institution attained university status, supported financially by Galician authorities. However, it was unable to confer doctorate degrees and only issued diplomas for agronomists. The campus suffered destruction during the Polish–[[full-scale-russo-ukrainian-war|Ukrainian War]], leading to its relocation to Lwów, where it merged with Lwów Polytechnic in 1919 to form the Agricultural and Forestry Department.",
         "By the early 20th century, the university's campus included two buildings, with the main structure completed in 1888 and a laboratory complex opened in 1900. Prior to World War I, the university had approximately 1,500 students, predominantly from Congress Poland. Notable faculty members included Stefan Dąb-Biernacki, Edmund Załęski, Juliusz Au, and Wladyslaw Tyniecki, while distinguished alumni featured Stefan Alexandrowicz, Adam Brzechwa-Ajdukiewicz, and Wlodzimierz Puchalski.",
         "In 2021, the institution was renamed from Lviv National Agrarian University to Lviv National Environmental University. The university faced significant damage due to a Russian drone attack on January 1, 2024."
@@ -44,6 +44,7 @@
   ],
   "links_out": [
     "full-scale-russo-ukrainian-war",
+    "galicia",
     "lviv",
     "ukrainian"
   ],

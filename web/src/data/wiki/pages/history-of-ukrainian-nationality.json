@@ -1,0 +1,71 @@
+{
+  "qid": "Q5866994",
+  "slug": "history-of-ukrainian-nationality",
+  "title": "history of Ukrainian nationality",
+  "type": "aspect of history",
+  "category": "people",
+  "aliases": [
+    "Ukrainian nationality history"
+  ],
+  "infobox": {
+    "label": "aspect of history",
+    "fields": []
+  },
+  "summary": "The history of Ukrainian nationality is deeply rooted in the medieval kingdom of Kievan Rus', which existed from the 9th to the 12th centuries and laid the foundation for the Eastern Slavic nations, including Ukraine. This entry explores the development of Ukrainian identity through various historical phases, including prehistory, the rise of the Slavs, the establishment of Kievan Rus', and the subsequent emergence of the Kingdom of Ruthenia.",
+  "sections": [
+    {
+      "heading": "Prehistoric Foundations",
+      "paragraphs": [
+        "The territory of modern-day [[ukraine|Ukraine]] was inhabited by various tribes during the Iron Age, with the Cimmerians being among the earliest settlers around the 1st millennium BC. They were followed by the Scythians around 700 BC, and later by the Sarmatians and Alans, who were prominent in the region until the arrival of the Goths in the 3rd century AD.",
+        "The migration of nomadic tribes continued with the Bulgars and Avars. This diverse tribal presence contributed to the cultural and ethnic mosaic that would later influence the development of [[ukrainian|Ukrainian]] nationality."
+      ]
+    },
+    {
+      "heading": "Slavic Migration and Formation",
+      "paragraphs": [
+        "The Slavs, believed to have originated in areas that include modern-day Poland, Slovakia, or [[western-ukraine|western Ukraine]], began migrating in the 5th and 6th centuries. They settled on both sides of the [[dnieper|Dnieper River]], which is significant in [[history-of-ukraine|Ukrainian history]].",
+        "Initially organized into tribes, the Slavs transitioned from communal living to private property ownership as agricultural techniques advanced. The Khazar Empire, which practiced Judaism, played a crucial role in providing a buffer for the Slavic tribes, allowing them to develop internally."
+      ]
+    },
+    {
+      "heading": "Kievan Rus' (9th–13th Century)",
+      "paragraphs": [
+        "[[kievan-rus|Kievan Rus]]' emerged around AD 862 when Varangians Askold and Dir unified the East Slavic tribes under the Rurik dynasty. This state became a powerful medieval kingdom, fostering political and cultural cohesion through the adoption of Christianity in AD 988.",
+        "The geographical diversity of Rus included a prosperous southern region centered around trade and agriculture, while the northern areas remained less developed. Despite its strengths, internal rivalries among princes and a growing divide between elites and commoners contributed to the eventual decline of Kievan Rus'."
+      ]
+    },
+    {
+      "heading": "Cultural and Linguistic Developments",
+      "paragraphs": [
+        "The cultural identity of Rus was shaped by shared language, religion, and trade. The adoption of Orthodox Christianity helped solidify the unity of the East Slavic tribes, while the introduction of a codified legal system, the Russka Pravda, marked a significant advancement in governance.",
+        "However, linguistic divisions began to emerge, with the elites speaking Church Slavonic and the commoners using Old East Slavic. This linguistic divergence foreshadowed the future separation of Ukrainian, Belarusian, and Russian languages."
+      ]
+    },
+    {
+      "heading": "Kingdom of Ruthenia",
+      "paragraphs": [
+        "The [[kingdom-of-galiciavolhynia|Kingdom of Ruthenia]], also known as the Kingdom of Galicia–Volhynia, emerged as a successor to Kievan Rus' and represented a distinctly Ukrainian state. It was located in the western part of [[modern-history-of-ukraine|modern Ukraine]] and reached its zenith by extending to the Black Sea.",
+        "Characterized by a feudal social structure and military alliances with Poland, Hungary, and Romania, the Kingdom of Ruthenia played a crucial role in resisting the Mongol invasions that threatened the remnants of Rus' culture."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnieper",
+    "history-of-ukraine",
+    "kievan-rus",
+    "kingdom-of-galiciavolhynia",
+    "modern-history-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "History of Ukrainian nationality — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Ukrainian_nationality",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

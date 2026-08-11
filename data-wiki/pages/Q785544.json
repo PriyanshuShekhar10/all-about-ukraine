@@ -1,0 +1,75 @@
+{
+  "qid": "Q785544",
+  "slug": "olesko-castle",
+  "title": "Olesko Castle",
+  "type": "castle",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "castle",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.9683, 24.9006",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Olesko Castle, located in present-day Zolochiv Raion, [[ukraine|Ukraine]], is a historically significant structure with roots dating back to the 14th century. It is renowned for its association with notable figures in Polish and [[history-of-ukraine|Ukrainian history]] and serves as a museum today.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Olesko Castle, known in [[ukrainian|Ukrainian]] as Олеський замок and in Polish as Zamek w Olesku, is situated approximately seventy-five kilometers from [[lviv|Lviv]], the largest city in [[western-ukraine|western Ukraine]]. The earliest documented mention of the castle dates back to 1390, when Pope Boniface IX granted Olesko and Tustan to a Catholic bishop of [[halych|Halych]]."
+      ]
+    },
+    {
+      "heading": "Geographical and Structural Features",
+      "paragraphs": [
+        "The castle is characterized by its oval shape and is perched atop a hill that rises about fifty meters in height. It is encircled by a moat and a defensive wall, with a dense swamp providing additional protection. Throughout its history, the land on which the castle is built changed hands multiple times, originally lying at the border of Volhynia and Lviv."
+      ]
+    },
+    {
+      "heading": "Ownership and Inhabitants",
+      "paragraphs": [
+        "Throughout its existence, Olesko Castle has been owned by various powers, including Poland, Lithuania, and Hungary. It became a significant political landmark in the 14th century due to the shifting borders among these nations. In the 15th century, the castle transitioned from a military stronghold to a retreat for the aristocracy. Notably, in 1605, Jan Daniłowicz h. Sas purchased the castle, later selling it to the Koniecpolski family. It was not until 1682 that King Jan III Sobieski renovated the castle after acquiring it for 400,000 zlotys. The castle is also recognized as the birthplace of Jan III Sobieski and King Michał Korybut Wiśniowiecki, and it is believed that [[bohdan-khmelnytsky|Bohdan Khmelnytskyi]] spent his childhood there."
+      ]
+    },
+    {
+      "heading": "Restoration Efforts",
+      "paragraphs": [
+        "Olesko Castle underwent several restorations, particularly from the late 16th to early 17th centuries, when it was remodeled in the Italian Renaissance style. An earthquake in 1838 caused damage, and subsequent restoration efforts were made in 1892 after the castle was purchased by the Committee of Preservation of the Olesko Castle. The castle suffered during both World Wars, and in 1956, it was struck by lightning. A major restoration project took place from 1961 to 1985, after which the castle was transformed into a museum showcasing a rich collection of antique furnishings and art from the 16th and 17th centuries."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Olesko Castle is part of the 'Golden Horseshoe,' a group of three nearby castles, including Pidhirtsi and Zolochiv Castles. The castle's cultural significance is further highlighted by its representation in philately and numismatics; on June 9, 2017, a postage stamp featuring Olesko Castle was issued by Ukrposhta, and on August 17, 2021, a silver commemorative coin was released by the [[national-bank-of-ukraine|National Bank of Ukraine]], celebrating its architectural heritage."
+      ]
+    }
+  ],
+  "links_out": [
+    "bohdan-khmelnytsky",
+    "halych",
+    "history-of-ukraine",
+    "lviv",
+    "national-bank-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Olesko Castle — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Olesko_Castle",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

@@ -1,0 +1,87 @@
+{
+  "qid": "Q336803",
+  "slug": "hryhorii-skovoroda",
+  "title": "Hryhorii Skovoroda",
+  "type": "human",
+  "category": "politics",
+  "aliases": [
+    "Gregory Skovoroda",
+    "Grigorij Savvich Skovoroda",
+    "Hryhoriy Skovoroda",
+    "Hryhoriĭ Skovoroda"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1722-11-22",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1794-11-09",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Chornukhy",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Hryhorii Skovoroda was an influential Ukrainian philosopher, poet, and composer born on December 3, 1722, in the village of Chornukhy, now in [[poltava-oblast|Poltava Oblast]], Ukraine. His works and teachings, which blended various languages and philosophical traditions, have left a lasting impact on Ukrainian literature and culture.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Hryhorii Skovoroda was born into a small-holder [[ukrainian|Ukrainian]] Registered Cossack family in Chornukhy, Lubny Regiment, [[cossack-hetmanate|Cossack Hetmanate]], in 1722. His mother, Pelageya Stepanovna Shang-Giray, had partial [[crimean-tatar|Crimean Tatar]] ancestry. Skovoroda studied at the Kiev-Mohyla Academy from 1734 to 1741, and again from 1744 to 1745 and 1751 to 1753, but did not graduate."
+      ]
+    },
+    {
+      "heading": "Career and Philosophical Development",
+      "paragraphs": [
+        "In 1741, at the age of 19, Skovoroda was taken to sing in the imperial choir in Moscow and St. Petersburg. After returning to Kiev in 1744, he spent time in Hungary and possibly traveled across Europe. He returned to Kiev in 1750 and taught poetics in Pereiaslav before serving as a tutor in Kovrai. From 1759 to 1769, he taught at the [[kharkiv|Kharkov]] Collegium, where he faced increasing opposition and eventually left teaching in 1769.",
+        "Skovoroda's travels in Central Europe were significant for his intellectual growth. He engaged with local scholars and returned to [[ukraine|Ukraine]] after the death of his employer, Major General Fyodor Vishnevsky, in 1749."
+      ]
+    },
+    {
+      "heading": "Later Life and Literary Contributions",
+      "paragraphs": [
+        "After leaving the Kharkov Collegium, Skovoroda adopted a life of a wandering philosopher, composing philosophical fables and dialogues. He traveled extensively throughout Sloboda Ukraine, forming a network of admirers among various social classes. His works, including 'The Garden of Divine Songs,' contributed significantly to [[ukrainian-literature|Ukrainian literature]].",
+        "In his final years, he continued to write and translate works from Latin into Russian, dedicating himself to a hermit-like existence while maintaining correspondence with his biographer, Mikhail Kovalensky."
+      ]
+    },
+    {
+      "heading": "Death and Legacy",
+      "paragraphs": [
+        "Hryhorii Skovoroda passed away on November 9, 1794, in Pan-Ivanovka, now known as Skovorodinovka in [[kharkiv-oblast|Kharkiv Oblast]]. He left behind a request for his epitaph, reflecting his philosophical outlook: 'The world tried to capture me, but didn't succeed.' His influence continues to resonate in Ukrainian culture and thought."
+      ]
+    },
+    {
+      "heading": "Language and Linguistic Impact",
+      "paragraphs": [
+        "Skovoroda's linguistic style was a mixture of Church Slavonic, Ukrainian, and Russian, with elements of Latin and Greek. His works are characterized by a unique idiom that has been analyzed by various scholars, noting a significant Ukrainian influence. His poetry and philosophical dialogues have been recognized for their contributions to the development of the Ukrainian literary language."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossack-hetmanate",
+    "crimean-tatar",
+    "kharkiv",
+    "kharkiv-oblast",
+    "poltava-oblast",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-literature"
+  ],
+  "sources": [
+    {
+      "title": "Hryhorii Skovoroda — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hryhorii_Skovoroda",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

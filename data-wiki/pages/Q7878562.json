@@ -1,0 +1,74 @@
+{
+  "qid": "Q7878562",
+  "slug": "ukrainians-in-italy",
+  "title": "Ukrainians in Italy",
+  "type": "ethnic group",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "ethnic group",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Italy",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Ukrainians in Italy primarily consist of recent labor migrants, with a significant presence in the caregiving sector. As of 2020, there were 223,000 Ukrainians in Italy, making them the fourth-largest immigrant group in the country.",
+  "sections": [
+    {
+      "heading": "Migration and Employment",
+      "paragraphs": [
+        "Ukrainians in Italy are largely recent labor migrants. As of 2020, the population of [[ukrainians|Ukrainians]] with valid permits in Italy was 223,000. A considerable number of [[ukrainian|Ukrainian]] women work as caretakers for the elderly, terminally ill, children, or entire families. Due to a lack of in-home caregivers among native Italians, who often view this profession as physically demanding and emotionally taxing, Ukrainians have been welcomed as a solution to this shortage."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The historical ties between [[ukraine|Ukraine]] and Italy date back to the 15th century, exemplified by scholar Yuriy [[drohobych|Drohobych]] from present-day [[western-ukraine|Western Ukraine]], who served as the rector of Bologna University. Notable Ukrainian figures such as [[hryhorii-skovoroda|Hryhoriy Skovoroda]] and [[lesya-ukrainka|Lesya Ukrainka]] visited Italy during the 18th and 19th centuries. Following the Union of Brest, Rome became a significant center for the [[ukrainian-greek-catholic-church|Ukrainian Catholic Church]]. During World War I, many Ukrainian prisoners of war were detained in Italy, and in the aftermath, the [[ukrainian-peoples-republic|Ukrainian People's Republic]] established a diplomatic mission in Italy from 1919 to 1920, led by Dmytro Antonovych, along with a separate mission for the [[west-ukrainian-peoples-republic|West Ukrainian People's Republic]]. The Interwar period saw prominent Ukrainian political and cultural figures reside in Italy, including [[yevhen-konovalets|Yevhen Konovalets]], and a Ukrainian community was founded in Rome in 1933. After World War II, approximately 15,000 Ukrainians, including soldiers from the Ukrainian National Army, were present in Italy."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "According to a report by the National Institute of Statistics (Istat), there were 223,782 Ukrainians in Italy as of 2012, with around 80% being women. However, estimates of the total Ukrainian population in Italy, including those working or residing illegally, range from 600,000 to 1 million. While many Ukrainian immigrants express a desire to return to Ukraine, some are opting to remain in Italy permanently. Following the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], 112,098 refugees arrived in Italy by May 2022, comprising 58,334 women, 15,256 men, and 38,508 minors."
+      ]
+    },
+    {
+      "heading": "Religion",
+      "paragraphs": [
+        "A survey conducted by ISTAT in 2011 and 2012 revealed the religious affiliations of Ukrainians in Italy. Approximately 90.8% identified as Christians, with 68% being Orthodox Christians, 22.5% Catholics, and 0.3% Protestants. Additionally, 0.1% identified as Muslims, 5.6% as non-religious, and 3.5% adhered to other religions."
+      ]
+    },
+    {
+      "heading": "Cultural Contributions",
+      "paragraphs": [
+        "Among the cultural contributions of Ukrainians in Italy is the amateur theatre group 'Berehynia,' which reflects the community's artistic engagement and cultural heritage."
+      ]
+    }
+  ],
+  "links_out": [
+    "drohobych",
+    "full-scale-russo-ukrainian-war",
+    "hryhorii-skovoroda",
+    "lesya-ukrainka",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-greek-catholic-church",
+    "ukrainian-peoples-republic",
+    "ukrainians",
+    "west-ukrainian-peoples-republic",
+    "western-ukraine",
+    "yevhen-konovalets"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainians in Italy — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainians_in_Italy",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

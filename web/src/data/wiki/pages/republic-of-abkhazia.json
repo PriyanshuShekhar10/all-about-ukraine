@@ -1,0 +1,108 @@
+{
+  "qid": "Q31354462",
+  "slug": "republic-of-abkhazia",
+  "title": "Republic of Abkhazia",
+  "type": "state with limited recognition",
+  "category": "politics",
+  "aliases": [
+    "Abkhazia",
+    "Abkhazian Republic",
+    "Abkhaziya",
+    "Apsny",
+    "Aṗsny",
+    "Aṗsny Ahwyntqarra",
+    "Respublika Abkhaziya",
+    "The Republic of Abkhazia"
+  ],
+  "infobox": {
+    "label": "state with limited recognition",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1994-11-26",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Georgia, Republic of Abkhazia",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Sokhumi",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "242,000",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "8,665",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Head of government",
+        "value": "Leonid Lakerbaia, Alexander Ankvab",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "43.0000, 40.9833",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Republic of Abkhazia is a partially recognized state located in the South Caucasus, which is predominantly regarded as part of Georgia by the international community. Its complex history, marked by ethnic tensions and conflict, has significant implications for regional stability, including its relations with [[ukraine|Ukraine]].",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Abkhazia, officially known as the Republic of Abkhazia, occupies an area of 8,665 square kilometers (3,346 sq mi) on the eastern coast of the Black Sea in West Asia. The region has an estimated population of around 245,000, with Sukhumi serving as its capital and largest city."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The region was granted autonomy as the Abkhaz Autonomous Soviet Socialist Republic within the Georgian Soviet Socialist Republic during the late 1980s, coinciding with the Soviet Union's disintegration. Ethnic tensions between the Abkhaz and Georgians escalated, leading to the 1992–1993 War in Abkhazia, which resulted in Georgia losing control over most of the region and the subsequent ethnic cleansing of Georgians."
+      ]
+    },
+    {
+      "heading": "Political Status and International Recognition",
+      "paragraphs": [
+        "The political status of Abkhazia is a central issue in the Abkhazia conflict and the broader Georgia–Russia relations. While four UN member states (Russia, Venezuela, Nicaragua, and Syria) recognize Abkhazia as an independent state, the majority of the international community views it as part of Georgia. Georgia maintains an Abkhaz government-in-exile due to its lack of effective control over the territory."
+      ]
+    },
+    {
+      "heading": "Russian Influence and Military Presence",
+      "paragraphs": [
+        "Russia maintains a significant military and economic presence in Abkhazia, providing financial aid that constitutes approximately half of the region's budget, which is crucial for the functioning of the Abkhaz separatist government. The unresolved nature of the conflict persists despite a 1994 ceasefire agreement, with the presence of a United Nations Observer Mission and a Russian-led Commonwealth of Independent States peacekeeping force failing to prevent violence."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "The Russo-Georgian War in August 2008 saw Abkhaz and Russian forces engage in conflict against Georgian troops, resulting in Russia's formal recognition of Abkhazia and the annulment of the 1994 ceasefire agreement. Following these events, on 23 October 2008, the Parliament of Georgia declared Abkhazia a Russian-occupied territory."
+      ]
+    },
+    {
+      "heading": "Cultural and Historical Significance",
+      "paragraphs": [
+        "Historically, Abkhazia has been a region of diverse cultural influences, with its name deriving from both Russian and Georgian terms. The Abkhaz name 'Apsny' translates to 'a land of the soul,' reflecting the region's rich cultural heritage. The historical ties between Abkhazia and Georgia are significant, with claims of shared origins and cultural connections, which remain a point of contention in contemporary discussions about the region's status."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Abkhazia — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Abkhazia",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

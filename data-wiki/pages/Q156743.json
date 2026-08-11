@@ -56,7 +56,7 @@
       }
     ]
   },
-  "summary": "Ternopil, formerly known as Tarnopol until 1944, is a significant city in western Ukraine, situated along the Seret River. As a key urban center in the historical regions of Galicia and [[podolia|Podolia]], Ternopil plays an important role in the cultural and administrative landscape of Ukraine.",
+  "summary": "Ternopil, formerly known as Tarnopol until 1944, is a significant city in western Ukraine, situated along the Seret River. As a key urban center in the historical regions of [[galicia|Galicia]] and [[podolia|Podolia]], Ternopil plays an important role in the cultural and administrative landscape of Ukraine.",
   "sections": [
     {
       "heading": "Historical Overview",
@@ -89,15 +89,17 @@
     {
       "heading": "Cultural Heritage and Notable Figures",
       "paragraphs": [
-        "Ternopil is home to several cultural landmarks, including the Ternopil Regional Art Museum, Ternopil Drama Theater, and various religious sites such as the Ukrainian Greek Catholic Cathedral of the Immaculate Conception of The Blessed Virgin Mary.",
+        "Ternopil is home to several cultural landmarks, including the [[ternopil-regional-art-museum|Ternopil Regional Art Museum]], Ternopil Drama Theater, and various religious sites such as the Ukrainian Greek Catholic Cathedral of the Immaculate Conception of The Blessed Virgin Mary.",
         "The city has produced notable individuals in various fields, including Ukrainian composer Vasyl Barvinsky, journalist Vitaly Derekh, and cultural activist Ihor Duda, reflecting its rich cultural heritage."
       ]
     }
   ],
   "links_out": [
+    "galicia",
     "hetman",
     "podolia",
     "ternopil-oblast",
+    "ternopil-regional-art-museum",
     "ukraine",
     "ukrainian",
     "ukrainian-soviet-socialist-republic",

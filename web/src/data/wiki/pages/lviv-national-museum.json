@@ -1,0 +1,88 @@
+{
+  "qid": "Q2037262",
+  "slug": "lviv-national-museum",
+  "title": "Lviv National Museum",
+  "type": "art museum",
+  "category": "culture",
+  "aliases": [
+    "National Museum"
+  ],
+  "infobox": {
+    "label": "art museum",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1905",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Lviv",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.8431, 24.0281",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Andrey Sheptytsky National Museum of Lviv is one of the largest museums in [[ukraine|Ukraine]], dedicated to showcasing the country's cultural heritage. Established in 1905 by Metropolitan Archbishop Andrey Sheptytsky, the museum has evolved significantly over the years, housing an extensive collection of Ukrainian art and artifacts.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Founded in 1905 by Metropolitan Archbishop Andrey Sheptytsky, the museum was initially called the Lwow Ecclesiastical Museum. The founder contributed approximately 10,000 items and secured funding for its upkeep. An elaborate Neo-Baroque villa was acquired to accommodate the museum's collections.",
+        "After World War II, the institution was renamed the [[lviv|Lviv]] Museum of [[ukrainian|Ukrainian]] Art, with its collection expanded by the inclusion of exhibits confiscated from other museums in Lviv. By the late 20th century, it became recognized for having the largest collection of Ukrainian icons and folk art in the country.",
+        "Currently, the museum is located in the former Lviv Industrial Museum building, which previously housed the Lenin Museum during the Soviet era. It is also associated with several memorial houses and the Sokalshchina Museum in [[sheptytskyi|Chervonohrad]].",
+        "In response to the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], the museum took precautions by removing certain works, including the Bohorodchany iconostasis, from public display. Anna Naurobska, the curator of books and manuscripts, emphasized the significance of the collections, stating, 'This is our story; this is our life. It is very important to us.'"
+      ]
+    },
+    {
+      "heading": "Collection",
+      "paragraphs": [
+        "The museum's collection encompasses over 100,000 items that reflect the long-standing traditions of Ukrainian art and national culture. It features four permanent exhibitions: '[[ruthenian|Old Ukrainian]] Art'; 'Art of the 19th to the Beginning of the 20th Century'; 'Ukrainian Art of the 20th Century'; and 'Folk Art', showcasing 1,800 objects. Additionally, the museum hosts temporary exhibitions.",
+        "Among its most notable holdings is the largest collection of medieval Ukrainian sacred art from the 12th to the 18th centuries, which includes 4,000 icons, sculptures, and manuscripts, such as the Horodyshche or [[buchach|Buchach]] Gospel. The collection is particularly rich in icons from the 14th to the 18th centuries, primarily sourced from [[western-ukraine|Western Ukraine]].",
+        "The museum also features significant works from the Ukrainian renaissance and baroque periods, including pieces by Ivan Rutkovych and Job Kondzelevych. Furthermore, it possesses a valuable collection of Ukrainian prints from the 17th and 18th centuries, totaling around 1,000 items.",
+        "Prominent artists represented in the museum include Johann Georg Pinsel, Ivan Rutkovych, Serhii Vasylkivsky, and [[taras-shevchenko|Taras Shevchenko]], among others. The museum is also home to rare manuscripts, including early publications by Schweipolt Fiol and Francysk Skaryna, as well as works by Ivan Fedorov."
+      ]
+    },
+    {
+      "heading": "Foundation and Affiliates",
+      "paragraphs": [
+        "The museum operates under the Scientific and Artistic Foundation established by Metropolitan Bishop Andrey Sheptytsky. It is associated with several other cultural institutions, including the Memorial Art Museum of Olena Kulchytska, the Memorial Museum of Art Oleksa Novakivskyi, and the Mykhailo Bilas Art Museum in Truskavets."
+      ]
+    },
+    {
+      "heading": "Directors",
+      "paragraphs": [
+        "The museum has had several directors since its inception, including Ilarion Svientsitskyi (1905–1952), Zhdan-Andrii Novakivskyi (1983–1994), Vasyl Otkovych (1994–2001), Myroslav Otkovych (2001–2003), Tetiana Lupii (2003–2005), and currently, Ihor Kozhan, who has been in charge since 2005."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "buchach",
+    "lviv",
+    "ruthenian",
+    "sheptytskyi",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Andrey Sheptytsky National Museum of Lviv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Andrey_Sheptytsky_National_Museum_of_Lviv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

@@ -44,7 +44,7 @@
       }
     ]
   },
-  "summary": "Chernihiv is a city and municipality located in northern Ukraine, serving as the administrative center of Chernihiv Oblast and Chernihiv Raion. With a population of 282,747 as of 2022, Chernihiv has a rich historical significance, having been an important cultural and political center since the 9th century.",
+  "summary": "Chernihiv is a city and municipality located in northern Ukraine, serving as the administrative center of [[chernihiv-oblast|Chernihiv Oblast]] and Chernihiv Raion. With a population of 282,747 as of 2022, Chernihiv has a rich historical significance, having been an important cultural and political center since the 9th century.",
   "sections": [
     {
       "heading": "Historical Significance",
@@ -85,6 +85,7 @@
   ],
   "links_out": [
     "2022-russian-invasion-of-ukraine",
+    "chernihiv-oblast",
     "cossack-hetmanate",
     "dnieper",
     "kyiv",

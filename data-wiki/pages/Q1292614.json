@@ -1,0 +1,63 @@
+{
+  "qid": "Q1292614",
+  "slug": "elections-in-ukraine",
+  "title": "elections in Ukraine",
+  "type": "Wikipedia overview article",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikipedia overview article",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Elections in Ukraine are conducted for the selection of the president, members of the Verkhovna Rada, and local government officials. The electoral process is characterized by a multi-party system and specific legal frameworks that govern the conduct of elections.",
+  "sections": [
+    {
+      "heading": "Overview of Elections",
+      "paragraphs": [
+        "Elections in Ukraine are held to select the president, who serves as the head of state, members of the [[verkhovna-rada|Verkhovna Rada]], the national legislature, and local government officials. Special occasions may warrant referendums. The political landscape is defined by a multi-party system, where it is common for no single party to secure a majority, necessitating coalition governments."
+      ]
+    },
+    {
+      "heading": "Election Legislation",
+      "paragraphs": [
+        "According to the [[ukrainian|Ukrainian]] constitution, presidential elections are held every five years, while the Verkhovna Rada, consisting of 450 members, is also elected for a five-year term. However, elections for the Verkhovna Rada cannot occur during periods of martial law. The next Verkhovna Rada election will introduce a system of regional open lists and eliminate single-member constituencies, requiring a 5% electoral threshold.",
+        "From 2012 until the 2019 parliamentary election, a mixed electoral system was in place, with half of the representatives elected from national closed party lists and the other half from constituencies using first-past-the-post voting. This system was established for the 2012 elections and continued in 2014, despite attempts to shift to open party lists."
+      ]
+    },
+    {
+      "heading": "Voting Patterns and Turnout",
+      "paragraphs": [
+        "Since the dissolution of the Soviet Union, the Communist Party of [[ukraine|Ukraine]] held significant influence, particularly in the southeast. However, by the mid-1990s, support for the party waned in western regions. The political dynamics shifted over time, with pro-Western parties gaining traction in Western and Central Ukraine, while pro-Russian parties dominated in the South and East. The 2014 parliamentary election marked a turning point, with pro-Western parties emerging victorious as the Party of Regions did not participate.",
+        "Voter turnout has seen a decline over the years, with the average turnout for Verkhovna Rada elections from 1994 to 2007 at 68.13%. The lowest recorded turnout was in the 2012 elections at 57.99%. The 2014 elections saw a turnout of 52.42%, influenced by the ongoing conflict in [[donbas|Donbas]] and the [[russian-annexation-of-crimea|annexation of Crimea]]."
+      ]
+    },
+    {
+      "heading": "Perceived Flaws in the Electoral System",
+      "paragraphs": [
+        "Despite regulations governing campaign financing, Ukraine's election laws are often disregarded, leading to discrepancies between reported and actual campaign expenditures. Reports from organizations like the Committee of Voters of Ukraine indicate that the use of state resources by political entities for election campaigns is not a decisive factor in outcomes. Surveys suggest a portion of the electorate has been willing to engage in vote-selling, reflecting concerns about electoral integrity."
+      ]
+    }
+  ],
+  "links_out": [
+    "donbas",
+    "russian-annexation-of-crimea",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Elections in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Elections_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

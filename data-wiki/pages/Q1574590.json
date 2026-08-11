@@ -1,0 +1,84 @@
+{
+  "qid": "Q1574590",
+  "slug": "zlata-ognevich",
+  "title": "Zlata Ognevich",
+  "type": "human",
+  "category": "culture",
+  "aliases": [
+    "Inna Leonidivna Bordiuh"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1986-01-12",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Murmansk, Kryvyi Rih",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "People's Deputy of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Zlata Ognevich is a Ukrainian singer and former politician, notable for representing Ukraine in the Eurovision Song Contest 2013 and for her political involvement in the Verkhovna Rada. She has actively supported Ukrainian forces during conflicts and has been a prominent cultural figure in Ukraine.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Zlata Leonidivna Ognevich, born Inna Leonidivna Bordiuh on 12 January 1986, initially recorded her birthplace as Murmansk, but later identified [[kryvyi-rih|Kryvyi Rih]] as her actual birthplace. She has Italian ancestry from her mother's side and Serbian from her father's side. Ognevich spent her childhood in [[sudak|Sudak]], [[crimea|Crimea]], and moved to [[kyiv|Kyiv]] at the age of 18 to pursue music education, graduating from Rheingold M. Glière Music College."
+      ]
+    },
+    {
+      "heading": "Musical Career",
+      "paragraphs": [
+        "Ognevich is a soloist with the Ensemble of Song and Dance of the [[armed-forces-of-ukraine|Ukrainian Armed Forces]]. She first attempted to enter the Eurovision Song Contest in 2010 with 'Tiny Island', finishing fifth, and again in 2011 with 'The Kukushka', where she placed second. Her third attempt in 2013 with 'Gravity' resulted in a third-place finish at the contest held in Malmö, Sweden, where she scored 214 points.",
+        "In 2014, she hosted the Junior Eurovision Song Contest and later released a version of [[ukraine|Ukraine]]'s national anthem. Ognevich's concert activities included a solo program in 2017 and performances with renowned artists like Andrea Bocelli and Montserrat Caballé."
+      ]
+    },
+    {
+      "heading": "Political Career",
+      "paragraphs": [
+        "In the 2014 parliamentary elections, Ognevich was elected to the [[verkhovna-rada|Verkhovna Rada]] as a non-partisan candidate for the Radical Party. She focused on cultural and copyright issues during her tenure but resigned in November 2015, expressing concerns about the lack of cultural integrity in parliament."
+      ]
+    },
+    {
+      "heading": "Involvement During Conflict",
+      "paragraphs": [
+        "Following the [[russian-annexation-of-crimea|annexation of Crimea]] in 2014, Ognevich publicly opposed Russian citizenship for her family residing there. She has actively supported [[ukrainian|Ukrainian]] military efforts during the pro-Russian unrest, participating in fundraising initiatives and performing for military personnel."
+      ]
+    },
+    {
+      "heading": "Recent Activities",
+      "paragraphs": [
+        "In 2023, Ognevich served as the spokesperson for the Ukrainian jury at the Eurovision Song Contest and released the duet 'Bureviiamy', which achieved notable success. She celebrated her fifteenth artistic anniversary with a concert in Kyiv and continued to engage in humanitarian efforts and cultural projects, including voicing a character in the musical film 'Wicked'."
+      ]
+    }
+  ],
+  "links_out": [
+    "armed-forces-of-ukraine",
+    "crimea",
+    "kryvyi-rih",
+    "kyiv",
+    "russian-annexation-of-crimea",
+    "sudak",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Zlata Ognevich — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zlata_Ognevich",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

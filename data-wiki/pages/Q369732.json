@@ -1,0 +1,97 @@
+{
+  "qid": "Q369732",
+  "slug": "halič",
+  "title": "Halič",
+  "type": "municipality of Slovakia",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "municipality of Slovakia",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1299",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Slovakia",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "1,668",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "31",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "274",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.3500, 19.5833",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Halič is a village and municipality located in the Lučenec District of the Banská Bystrica Region in Slovakia. Its historical significance and demographic composition, including a [[ukrainian|Ukrainian]] minority, highlight its relevance to the cultural landscape of the region.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Halič is situated at an elevation of 262 metres (860 ft) and encompasses an area of 21.77 km2 (8.41 sq mi) as of 2025."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The village was first documented in 1299 under the name Gach, recognized for its important castle during the time of the Kingdom of Hungary. Halič was under Turkish occupation from 1554 to 1594 and prior to the establishment of independent Czechoslovakia in 1918, it was part of Nógrád County in Hungary. The village was again under Hungarian control from 1938 to 1945 due to the First Vienna Award."
+      ]
+    },
+    {
+      "heading": "Halič Castle",
+      "paragraphs": [
+        "The earliest literary reference to Halič Castle dates back to 1450. The village itself was first mentioned in 1299, but the castle was only noted briefly. Constructed without royal approval by magister Tamas from Lučenec, the castle changed hands multiple times, including ownership by the Jiskras and later János Hunyady before King Matthias Corvinus took residence in 1462. In the first half of the 16th century, Istvan Losonczy owned the castle, which he reconstructed without royal consent, suffering damage during a siege in 1544.",
+        "Ownership of the castle transitioned to the Forgách family, an ancient Hungarian aristocracy with roots in Great Moravia, who maintained control until 1945. Zsigmond Forgách undertook significant renovations to the castle, enhancing its strategic fortifications. The castle faced multiple sieges, notably by Imre Thököly and later by Ferenc II Rákóczi, resulting in considerable damage.",
+        "In 1762, the Forgáchs reconstructed the castle to serve as a representative seat, with renovations overseen by the Austrian architect Andre Meyerhoffer. In 2006, the castle was acquired by a development firm from Košice, which transformed it into a 4-star hotel with a spa."
+      ]
+    },
+    {
+      "heading": "Population",
+      "paragraphs": [
+        "As of December 31, 2025, Halič has a population of 1,687 individuals. The ethnic composition as of 2021 includes 1,587 Slovaks, 55 individuals of unspecified ethnicity, 16 Hungarians, 12 [[ukrainians|Ukrainians]], 10 Romani, and smaller numbers of Czechs, Italians, Austrians, and others."
+      ]
+    },
+    {
+      "heading": "Religion",
+      "paragraphs": [
+        "In 2021, the religious affiliation of the population included 973 Roman Catholics, 353 individuals identifying as non-religious, and 225 Evangelicals, among others. The community also contains members of the Eastern Orthodox Church, Greek Catholic Church, and various other religious groups."
+      ]
+    },
+    {
+      "heading": "Genealogical Resources",
+      "paragraphs": [
+        "Genealogical records for Halič can be accessed at the state archive 'Statny Archiv in Banska Bystrica, Slovakia'. These include Roman Catholic church records for births, marriages, and deaths from 1800 to 1895, as well as Lutheran church records for the same period."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Halič — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Halič",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

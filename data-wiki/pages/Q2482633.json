@@ -1,0 +1,102 @@
+{
+  "qid": "Q2482633",
+  "slug": "andrii-parubii",
+  "title": "Andrii Parubii",
+  "type": "human",
+  "category": "politics",
+  "aliases": [
+    "Andrii Volodymyrovych Parubii",
+    "Andriy Parubiy"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1971-01-31",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "2025-08-30",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Sheptytskyi",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "People's Deputy of Ukraine, People's Deputy of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Andriy Volodymyrovych Parubiy was a prominent Ukrainian politician who served in the Ukrainian Parliament from 2007 until his assassination in 2025, including a term as chairman from 2016 to 2019. His political career was marked by significant involvement in Ukraine's national security and defense, particularly during the Russo-Ukrainian War.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Andriy Parubiy was born on 31 January 1971 in [[sheptytskyi|Chervonohrad]], [[lviv|Lviv]] region. His family had a history of [[ukrainian-nationalism|Ukrainian nationalism]], with ancestors serving in the Austro-Hungarian military and later in the [[ukrainian|Ukrainian]] Galician Army during the Polish-[[full-scale-russo-ukrainian-war|Ukrainian War]]. His father was active in the Ukrainian independence movement and served as deputy mayor of Lviv after 1991. Parubiy graduated from the history department of the University of Lviv in 1994 and later completed a program in political science and sociology at the State University [[lviv-polytechnic|Lviv Polytechnic]] in 2001."
+      ]
+    },
+    {
+      "heading": "Political Career",
+      "paragraphs": [
+        "Parubiy began his political involvement in 1987 and co-founded the Social-National Party of [[ukraine|Ukraine]] in 1991. He distanced himself from far-right organizations by 2004 and became active in the [[orange-revolution|Orange Revolution]]. Elected to the [[verkhovna-rada|Ukrainian Parliament]] in 2007, he played a key role during the [[euromaidan|Euromaidan]] protests, commanding the self-defense forces. Following the revolution, he was appointed Secretary of the [[national-security-and-defense-council-of-ukraine|National Security and Defense Council of Ukraine]], overseeing early actions in the Russo-Ukrainian War.",
+        "In 2014, he co-founded the People's Front party and was elected Deputy Chairman of the Verkhovna Rada. He became Chairman of the Verkhovna Rada in April 2016 and advocated for Ukraine's integration into NATO and the EU. His tenure included significant political challenges, including opposition to direct negotiations with separatists and support for military solutions to the conflict."
+      ]
+    },
+    {
+      "heading": "Assassination and Legacy",
+      "paragraphs": [
+        "Andriy Parubiy was assassinated on 30 August 2025, with his funeral held on 2 September at Saint George's Cathedral in Lviv. The [[security-service-of-ukraine|Security Service of Ukraine]] later reported that Russian intelligence agencies were implicated in his assassination. Parubiy's political legacy includes his strong stance on national security, advocacy for Ukrainian sovereignty, and significant contributions to the legislative framework supporting Ukraine's defense and integration with Western institutions."
+      ]
+    },
+    {
+      "heading": "Political Positions",
+      "paragraphs": [
+        "Throughout his career, Parubiy was known for his opposition to the [[kharkiv-oblast|Kharkiv]] Accords, which extended the lease of Russian military bases in [[crimea|Crimea]]. He supported NATO membership as a strategic goal for Ukraine and was critical of the [[minsk-agreements|Minsk agreements]], advocating for military solutions to the conflict with Russia. Parubiy also promoted anti-corruption reforms and the protection of the Ukrainian language, emphasizing the importance of national identity and sovereignty."
+      ]
+    },
+    {
+      "heading": "Personal Life",
+      "paragraphs": [
+        "Andriy Parubiy was of Greek Catholic faith, married, and had one daughter."
+      ]
+    },
+    {
+      "heading": "Awards",
+      "paragraphs": [
+        "He received several honors, including the 3rd class Order of Merit in 2006 and the 5th class Order of Prince Yaroslav the Wise in 2009."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "euromaidan",
+    "full-scale-russo-ukrainian-war",
+    "kharkiv-oblast",
+    "lviv",
+    "lviv-polytechnic",
+    "minsk-agreements",
+    "national-security-and-defense-council-of-ukraine",
+    "orange-revolution",
+    "security-service-of-ukraine",
+    "sheptytskyi",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-nationalism",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Andriy Parubiy — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Andriy_Parubiy",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

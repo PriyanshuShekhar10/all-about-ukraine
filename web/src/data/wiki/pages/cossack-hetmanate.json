@@ -37,7 +37,7 @@
       }
     ]
   },
-  "summary": "The Cossack Hetmanate, officially known as the Zaporozhian Host, was a stratocratic state established by Registered [[cossacks|Cossacks]] in Dnieper Ukraine, existing from 1648 to 1764. It played a significant role in [[history-of-ukraine|Ukrainian history]], particularly through its interactions with the Polish-Lithuanian Commonwealth and the Tsardom of Moscow.",
+  "summary": "The Cossack Hetmanate, officially known as the Zaporozhian Host, was a stratocratic state established by Registered [[cossacks|Cossacks]] in [[dnieper-ukraine|Dnieper Ukraine]], existing from 1648 to 1764. It played a significant role in [[history-of-ukraine|Ukrainian history]], particularly through its interactions with the Polish-Lithuanian Commonwealth and the Tsardom of Moscow.",
   "sections": [
     {
       "heading": "Establishment and Recognition",
@@ -72,6 +72,7 @@
     "bohdan-khmelnytsky",
     "cossacks",
     "dnieper",
+    "dnieper-ukraine",
     "hetman",
     "history-of-ukraine",
     "ivan-mazepa",

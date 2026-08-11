@@ -1,0 +1,83 @@
+{
+  "qid": "Q161227",
+  "slug": "yalta-conference",
+  "title": "Yalta Conference",
+  "type": "summit",
+  "category": "geography",
+  "aliases": [
+    "Argonaut Conference",
+    "Crimea Conference"
+  ],
+  "infobox": {
+    "label": "summit",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Livadia Palace",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "44.4678, 34.1433",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Yalta Conference, held from February 4 to 11, 1945, was a pivotal meeting of the leaders of the United States, the United Kingdom, and the Soviet Union to discuss the postwar reorganization of Europe, including issues directly impacting Ukraine. The conference took place in [[crimea|Crimea]] and set the stage for the political landscape of Eastern Europe after World War II.",
+  "sections": [
+    {
+      "heading": "Background and Context",
+      "paragraphs": [
+        "The Yalta Conference was the second of three significant wartime meetings among the leaders of the Allied powers, known as the Big Three. It followed the Tehran Conference in November 1943 and preceded the Potsdam Conference in July 1945. By early 1945, the Western Allies had liberated France and Belgium and were advancing into Germany, while Soviet forces were nearing Berlin, having already pushed back German troops from Eastern European countries, including Poland, Romania, and Bulgaria."
+      ]
+    },
+    {
+      "heading": "Participants and Objectives",
+      "paragraphs": [
+        "The conference was attended by President Franklin D. Roosevelt of the United States, Prime Minister Winston Churchill of the United Kingdom, and General Secretary Joseph [[donetsk|Stalin]] of the Soviet Union. The primary aim was to establish a postwar peace framework that would ensure collective security and self-determination for liberated peoples in Europe, including those in [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Key Discussions and Agreements",
+      "paragraphs": [
+        "A significant focus of the conference was the status of Poland, which Stalin deemed crucial for Soviet security, declaring that Poland must be strong and free. The conference also addressed the division of Germany into occupation zones, with agreements for the restoration of original governments in invaded countries, except for Romania, Bulgaria, and Poland, whose government-in-exile was not recognized by Stalin.",
+        "The leaders ratified the European Advisory Commission's agreement on the boundaries of postwar occupation zones for Germany, which included a zone for France, albeit under contentious circumstances due to the absence of French representation at Yalta."
+      ]
+    },
+    {
+      "heading": "Impact on Ukraine and Eastern Europe",
+      "paragraphs": [
+        "The decisions made at Yalta had lasting implications for Ukraine and [[eastern-europe|Eastern Europe]], as the Soviet Union solidified its influence over the region. The conference's agreements regarding Poland and the Soviet sphere of influence directly affected Ukraine's postwar status, as the Soviet Union sought to expand its territorial and political control.",
+        "Additionally, the Declaration of Liberated Europe, which emerged from the conference, promised the establishment of democratic institutions across Europe, although the reality for many Eastern European nations, including Ukraine, would differ significantly from these ideals."
+      ]
+    },
+    {
+      "heading": "Controversies and Consequences",
+      "paragraphs": [
+        "The Yalta Conference has been a subject of intense debate and controversy, particularly regarding the perceived betrayal of Eastern European nations by the Western Allies. The agreements reached at Yalta, including the recognition of Soviet influence in Eastern Europe, contributed to the onset of the Cold War and shaped the geopolitical landscape of the region for decades.",
+        "Moreover, the reciprocal repatriation agreements signed at the conference, which mandated the return of displaced persons and prisoners of war, led to significant humanitarian issues and public outcry during their implementation, particularly affecting [[ukrainian|Ukrainian]] citizens and others in the region."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "donetsk",
+    "eastern-europe",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Yalta Conference — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yalta_Conference",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

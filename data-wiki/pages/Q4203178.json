@@ -1,0 +1,87 @@
+{
+  "qid": "Q4203178",
+  "slug": "iryna-vilde",
+  "title": "Iryna Vilde",
+  "type": "human",
+  "category": "culture",
+  "aliases": [
+    "Daryna Dmytrivna Makohon",
+    "Daryna Dmytrivna Polotniuk"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1907-05-05",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1982-10-30",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Chernivtsi",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Iryna Vilde, born Daryna Polotniuk, was a prominent Ukrainian and Soviet writer known for her significant contributions to Ukrainian literature. Her works, which explore the complexities of life in Western Ukraine, are now regarded as classics.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Iryna Vilde was born on 5 May 1907 in [[chernivtsi|Chernivtsi]], which was then part of Austria-Hungary. She was the daughter of Dmytro Makohon, a schoolteacher and writer, and Adolphina Janiszewska, also a teacher. Vilde married Yevhen Polotniuk, who was executed by the Gestapo in 1943, and they had two children together.",
+        "She completed her education at a private school in [[ivano-frankivsk|Stanislav]] in 1927. Although she was expelled from school in 1930 during an anti-[[ukrainian|Ukrainian]] Pacification operation, she graduated from the University of John II Casimir in Lwow (now the University of [[lviv|Lviv]]) in 1932. Due to financial hardships, she began working for the magazine Zhinocha dolia (Women's Fate) in Kolomyia, where she remained until 1939."
+      ]
+    },
+    {
+      "heading": "Literary Career",
+      "paragraphs": [
+        "From 1930 to 1939, Vilde published numerous short stories and novels that depicted the lives of the Western Ukrainian intelligentsia, petty bourgeoisie, and students. Her first short story, Povist zyttia (Life Story), was published in 1930, and in 1935, she released the novel Metelyky na shpyl’kakh (Pinned Butterflies) under her pen name, Iryna Vilde.",
+        "During and after World War II, following the unification of [[western-ukraine|Western Ukraine]] with the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]], she continued to explore themes of family life within bourgeois society. Her works feature a wide array of characters from various social strata in [[galicia|Galicia]], including clergy, workers, and peasants, while also addressing the political and cultural landscape of the time. Notable works from this period include the anthology Khymerne sertse (The Whimsical Heart, 1936), the novelettes Metelyky na shpyl’kakh (1936), and Povnolitni dity (Grown-up Children, 1939)."
+      ]
+    },
+    {
+      "heading": "Postwar Works",
+      "paragraphs": [
+        "In the postwar years, Vilde produced several significant works, including Nashi bat'ky roziishlysia (Our Parents Have Separated, 1946), Iii portret (Her Portrait, 1948), Stezhynamy zhyttia (Along the Paths of Life, 1949), Ti z Kowalskoi (Those of Kowalska, 1947), and Iabluni zatsvily vdruhe (The Apple Trees Have Blossomed Again, 1949). Her later works include Zhyttia til’ky pochynaiet’sia (Life Is Just Beginning, 1961), Troiandy i ternia (Roses and Thorns, 1961), and the celebrated novel Sestry Richynski (The Richynsky Sisters), published in two volumes in 1958 and 1964."
+      ]
+    },
+    {
+      "heading": "Recognition and Awards",
+      "paragraphs": [
+        "Iryna Vilde received several literary accolades, including awards named after notable Ukrainian figures [[ivan-franko|Ivan Franko]] and [[taras-shevchenko|Taras Shevchenko]]. In 1965, she was honored with the Order of Badge of Honor for her contributions to literature."
+      ]
+    },
+    {
+      "heading": "Death and Legacy",
+      "paragraphs": [
+        "Vilde passed away on 30 October 1982, and her contributions to literature have been recognized posthumously. She was included in the UNESCO list of notable individuals from the 20th century, underscoring her lasting impact on [[ukrainian-literature|Ukrainian literature]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernivtsi",
+    "galicia",
+    "ivan-franko",
+    "ivano-frankivsk",
+    "lviv",
+    "taras-shevchenko",
+    "ukrainian",
+    "ukrainian-literature",
+    "ukrainian-soviet-socialist-republic",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Iryna Vilde — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Iryna_Vilde",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

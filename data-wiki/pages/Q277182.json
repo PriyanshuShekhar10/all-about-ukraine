@@ -1,0 +1,73 @@
+{
+  "qid": "Q277182",
+  "slug": "declaration-of-independence-of-ukraine",
+  "title": "Declaration of Independence of Ukraine",
+  "type": "declaration of independence",
+  "category": "history",
+  "aliases": [
+    "Act of Declaration of Independence of Ukraine"
+  ],
+  "infobox": {
+    "label": "declaration of independence",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Act of Declaration of Independence of Ukraine was adopted by the Supreme Soviet of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] on 24 August 1991, marking the reestablishment of Ukraine's state independence from the Soviet Union. This declaration was confirmed by a referendum on 1 December 1991, leading to widespread international recognition and the eventual dissolution of the Soviet Union.",
+  "sections": [
+    {
+      "heading": "Adoption of the Declaration",
+      "paragraphs": [
+        "The Act was adopted following a coup attempt in the Soviet Union on 19 August 1991, when hardline Communist leaders sought to restore central control. The text was primarily drafted by Levko Lukianenko, Serhiy Holovatyi, Mykhailo Horyn, Ivan Zayets, and Vyacheslav Chornovil during the night of 23-24 August.",
+        "On 24 August 1991, the Supreme Soviet, or [[verkhovna-rada|Verkhovna Rada]], held an extraordinary session to debate the declaration of independence. A preliminary vote was held at 17:57, resulting in 321 votes in favor of a proposal to adopt the Act with a subsequent popular referendum. The final vote on the Act occurred at 18:00, with 346 votes in favor, 1 against, and 3 abstentions."
+      ]
+    },
+    {
+      "heading": "Immediate Aftermath",
+      "paragraphs": [
+        "On the same day, the parliament called for a referendum to support the Declaration of Independence, proposed by opposition leaders Ihor Yukhnovsky and [[dmytro-pavlychko|Dmytro Pavlychko]]. The parliament also voted to create a national guard and assumed control over the armed forces in [[ukraine|Ukraine]].",
+        "In the following days, several resolutions were passed, including the nationalization of Communist Party property, the establishment of a committee to investigate the coup, and the formation of a Ministry of Defense for Ukraine."
+      ]
+    },
+    {
+      "heading": "Independence Referendum",
+      "paragraphs": [
+        "The independence referendum took place on 1 December 1991, with over 90% of voters supporting the Act and an 84% turnout. This referendum coincided with Ukraine's first direct presidential election, where all candidates endorsed independence. The successful passage of the referendum effectively ended the possibility of the Soviet Union remaining intact.",
+        "A week later, newly elected President [[leonid-kravchuk|Leonid Kravchuk]] signed the Belovezh Accords with Russian and Belarusian leaders, declaring the dissolution of the Soviet Union, which was officially completed on 26 December 1991."
+      ]
+    },
+    {
+      "heading": "International Recognition",
+      "paragraphs": [
+        "Poland and Canada were the first countries to recognize Ukraine's independence on 2 December 1991, followed by recognition from the President of the Russian SFSR, Boris Yeltsin, on the same day. By the end of December 1991, 68 states had recognized Ukraine's independence, with an additional 64 states doing so in 1992.",
+        "In January 1992, U.S. President George H. W. Bush approved a humanitarian support program for Ukraine, indicating a growing international commitment to the newly independent state."
+      ]
+    },
+    {
+      "heading": "Significance",
+      "paragraphs": [
+        "The Act of Declaration of Independence is a pivotal moment in Ukraine's history, symbolizing the country's right to self-determination and its emergence as an independent state. Since 1992, 24 August has been celebrated as Independence Day in Ukraine, marking the significance of this declaration in the national consciousness."
+      ]
+    }
+  ],
+  "links_out": [
+    "dmytro-pavlychko",
+    "leonid-kravchuk",
+    "ukraine",
+    "ukrainian-soviet-socialist-republic",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Declaration of Independence of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Declaration_of_Independence_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

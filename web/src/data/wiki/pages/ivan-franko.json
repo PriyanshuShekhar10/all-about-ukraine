@@ -35,7 +35,7 @@
     {
       "heading": "Biography",
       "paragraphs": [
-        "Ivan Yakovych Franko was born on 27 August 1856 in the village of Nahuievychi, located in the Austrian kronland of Galicia, which is now part of Drohobych Raion, [[lviv-oblast|Lviv Oblast]], [[ukraine|Ukraine]]. He was baptized as Ivan by Father Yosyp Levytsky, a poet and author of the first Galician-[[ruthenian|Ruthenian]] grammar. Franko's family was considered well-to-do, owning 24 hectares of property and possibly having German origins.",
+        "Ivan Yakovych Franko was born on 27 August 1856 in the village of Nahuievychi, located in the Austrian kronland of [[galicia|Galicia]], which is now part of [[drohobych|Drohobych]] Raion, [[lviv-oblast|Lviv Oblast]], [[ukraine|Ukraine]]. He was baptized as Ivan by Father Yosyp Levytsky, a poet and author of the first Galician-[[ruthenian|Ruthenian]] grammar. Franko's family was considered well-to-do, owning 24 hectares of property and possibly having German origins.",
         "His mother, Maria, came from a family of petty nobility, the Kulczyckis, and researchers describe her nationality as either Polish or [[ukrainian|Ukrainian]]. Franko attended school in Yasenytsia Sylna and later the Basilian monastic school in Drohobych. After the death of his father, he continued his education with the support of his stepfather, graduating from Drohobych Realschule in 1875 and later studying at [[lviv|Lviv]] University."
       ]
     },
@@ -68,6 +68,8 @@
     }
   ],
   "links_out": [
+    "drohobych",
+    "galicia",
     "kyiv",
     "lviv",
     "lviv-oblast",

@@ -1,0 +1,79 @@
+{
+  "qid": "Q7878483",
+  "slug": "ukrainian-national-museum",
+  "title": "Ukrainian National Museum",
+  "type": "national museum",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "national museum",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1952",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "United States",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "41.8949, -87.6838",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Ukrainian National Museum (UNM) is situated in the Ukrainian Village neighborhood of Chicago, USA, and serves as a repository for a diverse range of Ukrainian cultural artifacts, artworks, and historical materials.",
+  "sections": [
+    {
+      "heading": "Foundation and Collections",
+      "paragraphs": [
+        "Established in 1952 as the [[ukrainian-museum|Ukrainian Museum]] and Archive, the Ukrainian National Museum houses a significant collection of 1,140 artifacts that reflect traditional folk arts, agricultural tools, artworks, musical instruments, and various other items.",
+        "The museum's library contains 16,320 titles, including rare books, autographed editions, monographs on émigré communities, contemporary publications, and over 600 periodicals and newspapers.",
+        "The archives focus on the [[ukrainian|Ukrainian]] communities in Chicago, documenting performance groups, national youth chapters, veteran organizations, local church archives, memorabilia from the 1933 Chicago World's Fair, personal manuscripts of civic leaders, and a comprehensive photographic collection."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Among the notable items on display are decorated Easter Eggs, known as 'Pysanky', which represent a vital aspect of Ukrainian folk art, featuring designs that often symbolize the sun, roses, and stars.",
+        "[[ukrainian-embroidery|Ukrainian embroidery]], recognized as a highly developed folk art, is also part of the museum's collection.",
+        "The museum showcases Ukrainian language books donated by immigrants and visitors from Europe, further emphasizing its role in preserving Ukrainian culture."
+      ]
+    },
+    {
+      "heading": "Exhibitions and Events",
+      "paragraphs": [
+        "The museum features an exhibit titled 'Ukrainian Genocide - [[holodomor|Holodomor]] of 1932-1933', which presents photographs, documents, and newspaper articles aimed at educating the public about the forced famine in [[ukraine|Ukraine]].",
+        "Additionally, an exhibition developed in collaboration with the [[lviv-national-museum|National Museum]] of the Holodomor Genocide, titled 'We Were Killed Because We Are [[ukrainians|Ukrainians]]', was presented in August 2020, highlighting the museum's commitment to addressing historical injustices."
+      ]
+    },
+    {
+      "heading": "Notable Exhibitions",
+      "paragraphs": [
+        "In February 2018, the museum hosted 'World Through the Eyes of the Artist', a solo exhibition featuring original ballpoint pen and graphite drawings by Ukrainian-born artist Andrey Poletaev.",
+        "The exhibition, which opened on February 2, 2018, received a positive audience response, leading to an extension of two additional weeks, and was recognized in Ukrainian People Magazine and KP.UA, a prominent Ukrainian newspaper."
+      ]
+    }
+  ],
+  "links_out": [
+    "holodomor",
+    "lviv-national-museum",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-embroidery",
+    "ukrainian-museum",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian National Museum, Chicago — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_National_Museum,_Chicago",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

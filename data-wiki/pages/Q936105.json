@@ -42,7 +42,7 @@
     {
       "heading": "Historical Context",
       "paragraphs": [
-        "The origins of the modern Ukrainian Armed Forces can be traced back to the early twentieth century, coinciding with the formation of the modern Ukrainian nation during the '[[ukrainian-war-of-independence|Ukrainian War of Independence]]' or the 'First Liberation Struggle.' This period marked the establishment of national military formations, including the Legion of Ukrainian [[sich-riflemen|Sich Riflemen]], which influenced subsequent paramilitary organizations in Galicia.",
+        "The origins of the modern Ukrainian Armed Forces can be traced back to the early twentieth century, coinciding with the formation of the modern Ukrainian nation during the '[[ukrainian-war-of-independence|Ukrainian War of Independence]]' or the 'First Liberation Struggle.' This period marked the establishment of national military formations, including the Legion of Ukrainian [[sich-riflemen|Sich Riflemen]], which influenced subsequent paramilitary organizations in [[galicia|Galicia]].",
         "Following World War I, national units began to emerge within the disintegrating Russian Imperial Army, leading to the formation of the Army of the [[ukrainian-peoples-republic|Ukrainian People's Republic]]. However, the establishment of a cohesive national armed force was interrupted by external influences, including the German administration and later the Bolshevik regime."
       ]
     },
@@ -69,6 +69,7 @@
     }
   ],
   "links_out": [
+    "galicia",
     "ministry-of-defence-of-ukraine",
     "sich-riflemen",
     "ukraine",

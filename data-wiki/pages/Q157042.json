@@ -1,0 +1,73 @@
+{
+  "qid": "Q157042",
+  "slug": "pripyat-river",
+  "title": "Pripyat River",
+  "type": "river",
+  "category": "geography",
+  "aliases": [
+    "Pripiat River",
+    "Prypiat River",
+    "Prypiać",
+    "Prypiać River",
+    "Prypyat River"
+  ],
+  "infobox": {
+    "label": "river",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Belarus, Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "51.3333, 23.7905",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Pripyat River, also known as Prypiat, is a significant waterway in [[eastern-europe|Eastern Europe]], measuring approximately 761 km (473 mi) in length. It flows predominantly through Ukraine and Belarus, ultimately draining into the Dnieper at the Kyiv Reservoir, highlighting its relevance to the [[ukrainian|Ukrainian]] landscape and history.",
+  "sections": [
+    {
+      "heading": "Name Etymology",
+      "paragraphs": [
+        "The historical name of the Pripyat River, as recorded in the Primary Chronicle, is Pripet' (Припеть). Linguist Max Vasmer suggests that the name may mean 'tributary', drawing comparisons with Greek and Latin roots, while also noting that some interpretations based on the stem -пять -pjat' are incorrect. Additionally, the name may originate from the local term pripech, which refers to a river with sandy banks."
+      ]
+    },
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "The Pripyat River originates in the Volhynian Upland, specifically between the villages of Budnyky and Rohovi Smoliary in [[volyn-oblast|Volyn Oblast]], [[ukraine|Ukraine]]. It travels 204 km before crossing into Belarus, where it continues for 500 km through [[polesia|Polesia]], the largest wilderness area in Europe, characterized by the Pripet Marshes, a complex of swamps, bogs, and rivers within a forested basin. The river flows back into Ukraine for its final 50 kilometers, passing just south of [[chernobyl|Chernobyl]] before reaching the [[kyiv|Kyiv]] Reservoir.",
+        "The total length of the Pripyat River is 775 km, with a watershed area of 114,300 km². The floodplain width varies between 4 to 15 km, with occasional flooding extending up to 30 km. Of the river's total length, 495 km (308 mi) is located in Belarus, while the remainder is in Ukraine. The river is navigable up to Pinsk, where it connects to the [[dnieper|Dnieper]]-Bug Canal leading to the Bug River.",
+        "The Pripyat River is notable for its numerous oxbow lakes and channels, and it flows through the exclusion zone established around the site of the Chernobyl nuclear disaster. The nearby city of [[pripyat|Pripyat]], Ukraine, named after the river, was evacuated following the disaster, which impacted the local population of approximately 45,000."
+      ]
+    },
+    {
+      "heading": "Dredging for E40 Waterway",
+      "paragraphs": [
+        "In 2020, dredging operations commenced on the Pripyat River to facilitate the passage of the E40 waterway. This initiative raised concerns regarding potential radioactive contamination in the vicinity of the [[chernobyl-nuclear-power-plant|Chernobyl nuclear power plant]], as the river flows within 2.5 km (1.6 mi) of the reactor."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernobyl",
+    "chernobyl-nuclear-power-plant",
+    "dnieper",
+    "eastern-europe",
+    "kyiv",
+    "polesia",
+    "pripyat",
+    "ukraine",
+    "ukrainian",
+    "volyn-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Pripyat (river) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pripyat_(river)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

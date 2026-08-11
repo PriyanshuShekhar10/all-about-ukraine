@@ -92,7 +92,7 @@
     {
       "heading": "Cultural and Educational Hub",
       "paragraphs": [
-        "Kyiv is recognized as an important industrial, scientific, educational, and cultural center in Ukraine, housing numerous high-tech industries, higher education institutions, and historical landmarks. The city is also served by an extensive public transport network, including the Kyiv Metro."
+        "Kyiv is recognized as an important industrial, scientific, educational, and cultural center in Ukraine, housing numerous high-tech industries, higher education institutions, and historical landmarks. The city is also served by an extensive public transport network, including the [[kyiv-metro|Kyiv Metro]]."
       ]
     }
   ],
@@ -100,6 +100,7 @@
     "dnieper",
     "eastern-europe",
     "kievan-rus",
+    "kyiv-metro",
     "ukraine",
     "ukrainian",
     "ukrainian-peoples-republic",

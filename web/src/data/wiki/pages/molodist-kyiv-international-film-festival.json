@@ -1,0 +1,95 @@
+{
+  "qid": "Q1807073",
+  "slug": "molodist-kyiv-international-film-festival",
+  "title": "Molodist Kyiv International Film Festival",
+  "type": "film festival",
+  "category": "culture",
+  "aliases": [
+    "KIFF \"Molodist\"",
+    "Kyiv International Film Festival \"Molodist\"",
+    "Molodist International Film Festival",
+    "Molodost film festival in Kiev"
+  ],
+  "infobox": {
+    "label": "film festival",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1970",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Kyiv",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4500, 30.5236",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Molodist Kyiv International Film Festival is a prominent film festival held annually in October in Kyiv, Ukraine. Established in 1970, it has grown to become the largest film festival in the country, showcasing a diverse array of films and supporting the development of young filmmakers.",
+  "sections": [
+    {
+      "heading": "History and Development",
+      "paragraphs": [
+        "The Molodist Kyiv International Film Festival, also referred to as the Molodist International Film Festival, commenced in 1970 as a two-day event featuring 33 films produced by students of the [[kyiv|Kyiv]] State Institute of Theatrical Arts. Over the years, it has expanded significantly, presenting 439 films in 2010, which marked its status as the largest film festival in [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Accreditation and Recognition",
+      "paragraphs": [
+        "Since 1991, the festival has been the only one in Ukraine accredited by the International Federation of Film Producers Associations (FIAPF), placing it among a select group of 26 specialized international competitive festivals. This recognition underscores its importance in the global film landscape."
+      ]
+    },
+    {
+      "heading": "Focus on Young Filmmakers",
+      "paragraphs": [
+        "The primary aim of the Molodist festival is to foster the growth of young professional cinema. Each year, it features a competitive program that highlights the works of talented emerging filmmakers from around the world, selected from numerous national and international film reviews."
+      ]
+    },
+    {
+      "heading": "Notable Participants and Achievements",
+      "paragraphs": [
+        "The festival has served as a launching pad for many now-renowned European filmmakers, including Fred Keleman, Tom Tykwer, and Danny Boyle, among others. Participants have gone on to receive prestigious awards such as the Golden Palm and the Oscar, showcasing the festival's role in nurturing cinematic talent."
+      ]
+    },
+    {
+      "heading": "Festival Venue and Events",
+      "paragraphs": [
+        "The main venue for the festival is the Kyiv Cinema Cultural Center, with screenings also held in several other cinemas, including Zhovten, Kinopanorama, Kyivska Rus, and Kinopalats. The festival attracts around 200 guests, including jury members, actors, and directors, many of whom lead master classes and engage with audiences."
+      ]
+    },
+    {
+      "heading": "Recent Honors and Initiatives",
+      "paragraphs": [
+        "In 2023, festival organizers Andriy Khalpakhchi and Bohdan Zhuk received a special Teddy Award at the 73rd Berlin International Film Festival, recognizing their commitment to LGBTQ-themed cinema. This initiative began with the establishment of the Sunny Bunny Award for LGBTQ-themed films in 2001 and the launch of a standalone Sunny Bunny film festival in January 2023."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Kyiv International Film Festival \"Molodist\" — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kyiv_International_Film_Festival_\"Molodist\"",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

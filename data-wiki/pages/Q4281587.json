@@ -1,0 +1,90 @@
+{
+  "qid": "Q4281587",
+  "slug": "illich-steel-iron-works",
+  "title": "Illich Steel & Iron Works",
+  "type": "business",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "business",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1897",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Mariupol",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Illich Steel & Iron Works, located in Mariupol, is the second largest metallurgical enterprise in Ukraine, known for its diverse steel production and significant historical contributions to the industry.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Illich Iron & Steel Works ([[ukrainian|Ukrainian]]: Маріупольський металургійний комбінат і́мені Ілліча́) is the second largest metallurgical enterprise in [[ukraine|Ukraine]], following [[arcelormittal-kryvyi-rih|Kryvorizhstal]]. Situated in [[mariupol|Mariupol]], the company employed approximately 14,000 workers in early 2022, according to NPR.",
+        "The works specialize in producing a variety of hot-rolled and cold-rolled steel products, catering to sectors such as shipbuilding and pipeline construction. It is the only Ukrainian enterprise that manufactures galvanized steel and tanks for liquid gases, exporting its products to over 50 countries worldwide."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "The origins of Illich Steel & Iron Works date back to April 19, 1896, when American entrepreneurs Rothstein and Smith received authorization from the Russian government to create the Nikopol-Mariupol Mining and Metallurgical Society. The establishment year is recognized as 1897, when the first pipe workshop began operations in Mariupol.",
+        "The factory's strategic location in Mariupol provided access to essential raw materials, fuel, and a labor force, contributing to its growth into a major metallurgical enterprise in southern Russia by the early 20th century. After World War I and the Civil War, the factory resumed operations in 1927 and evolved into a comprehensive machine-building enterprise."
+      ]
+    },
+    {
+      "heading": "World War II and Post-War Era",
+      "paragraphs": [
+        "During World War II, the enterprise shifted to producing defensive products, including armor plating for the T-34 tank. Much of its equipment was dismantled and relocated to factories in the Urals and Siberia. Following the liberation of Mariupol in late 1944, the plant resumed operations with 70% of its production capacity, quickly supplying armored steel to the front lines.",
+        "The period from 1954 to 1969 marked a significant reconstruction phase, with the addition of new furnaces and workshops, including the largest agglomerative factory in Europe. By 1983, the plant had introduced modern production capabilities, including a thick-sheet workshop."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "In the last decade, Illich Steel & Iron Works has seen substantial development, including the construction of new facilities and modernization of existing equipment. A pivotal moment occurred in November 2000 when the [[verkhovna-rada|Ukrainian Parliament]] enacted legislation allowing the workforce to claim ownership of the enterprise.",
+        "The plant was renamed in April 2016 in accordance with Ukraine's decommunization laws, transitioning from its previous name honoring Vladimir Lenin to that of Zot Illich Nekrasov. In March 2022, the facility sustained significant damage during the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], particularly during the [[siege-of-mariupol|siege of Mariupol]]."
+      ]
+    },
+    {
+      "heading": "Production Resumption and Future Plans",
+      "paragraphs": [
+        "Following the conflict, production resumed in October 2023 under the newly registered OOO 'MMK Ilyicha.' The plant has since processed nearly 130,000 tons of slag and is set to restore additional facilities, including electric welding and pipe shops, as part of an investment project announced by the regional Ministry of Economic Development in December 2023."
+      ]
+    },
+    {
+      "heading": "Awards and Recognition",
+      "paragraphs": [
+        "Illich Steel & Iron Works has received numerous accolades, including the Order of Lenin on June 7, 1947, for its contributions to the production of railway tank cars and armor steel, and the Order of the October Revolution on February 12, 1971, for achievements in [[categorysteel-industry-in-ukraine|metal production]] and organizational improvements."
+      ]
+    }
+  ],
+  "links_out": [
+    "arcelormittal-kryvyi-rih",
+    "categorysteel-industry-in-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "mariupol",
+    "siege-of-mariupol",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Illich Steel and Iron Works — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Illich_Steel_and_Iron_Works",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

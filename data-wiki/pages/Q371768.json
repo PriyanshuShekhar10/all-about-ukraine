@@ -1,0 +1,61 @@
+{
+  "qid": "Q371768",
+  "slug": "hennadiy-avdyeyenko",
+  "title": "Hennadiy Avdyeyenko",
+  "type": "human",
+  "category": "politics",
+  "aliases": [
+    "Hennadiy Valentynovych Avdyeyenko"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1963-11-04",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Odesa",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Hennadiy Valentynovych Avdyeyenko is a retired high jumper from Ukraine, born on November 4, 1963, in Odessa. He achieved significant success in athletics, representing both the USSR and Ukraine, and is known for winning gold medals at the Olympics and World Championships.",
+  "sections": [
+    {
+      "heading": "Early Life and Training",
+      "paragraphs": [
+        "Hennadiy Avdyeyenko was born in [[odesa|Odessa]], [[ukraine|Ukraine]], where he began his journey in athletics. He trained at the Armed Forces sports society in Odessa under the mentorship of coach Borys Robulets."
+      ]
+    },
+    {
+      "heading": "Athletic Career",
+      "paragraphs": [
+        "Avdyeyenko made his mark in the 1983 World Championships, entering as an unknown competitor with a personal best of only 2.25 m. Despite placing 6th at the 1983 Spartakiad, he was included in the team due to the support of high jump coach Kęstutis Šapka and team coach Igor Ter-Ovanesyan. In the final, he surprised many by improving his personal best by 7 centimeters, securing a gold medal and defeating the United States' Tyke Peacock on countback.",
+        "In 1987, Avdyeyenko earned a silver medal at the World Indoor Championships in Indianapolis, achieving a new personal best and Soviet indoor record of 2.38 m, though he lost to teammate Igor Paklin in a jump-off. He repeated this performance at the outdoor championships later that year, again tying with Paklin at 2.38 m, but did not contest for gold as Patrik Sjöberg won on countback.",
+        "Avdyeyenko's Olympic success came in 1988 at the Summer Olympics in Seoul, where he won gold in the high jump, clearing 2.38 m. His victory was notable as he competed in the absence of Cuba's world record holder Javier Sotomayor, whose country boycotted the event."
+      ]
+    },
+    {
+      "heading": "Education and Career Post-Athletics",
+      "paragraphs": [
+        "Hennadiy Avdyeyenko graduated from Odessa Polytechnic Institute and later worked as an expert in refrigerating equipment, applying his education in a professional context."
+      ]
+    }
+  ],
+  "links_out": [
+    "odesa",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Hennadiy Avdyeyenko — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hennadiy_Avdyeyenko",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

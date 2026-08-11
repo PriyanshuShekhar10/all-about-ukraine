@@ -1,0 +1,67 @@
+{
+  "qid": "Q60765246",
+  "slug": "russian-war-crimes",
+  "title": "Russian war crimes",
+  "type": "violation of law",
+  "category": "war",
+  "aliases": [
+    "Russian crimes against humanity",
+    "war crimes by Russia",
+    "war crimes in Russia",
+    "war crimes of Russia",
+    "war crimes of the Russian Federation"
+  ],
+  "infobox": {
+    "label": "violation of law",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Russia",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Russian war crimes encompass violations of international criminal law, including war crimes, crimes against humanity, and genocide, attributed to Russian armed forces and associated paramilitary groups since the dissolution of the Soviet Union in 1991. These crimes have been particularly relevant in the context of Ukraine, where significant allegations have emerged during the ongoing conflict.",
+  "sections": [
+    {
+      "heading": "Nature of War Crimes",
+      "paragraphs": [
+        "Russian war crimes include a range of serious violations such as murder, torture, terror, persecution, deportation, forced transfer, enforced disappearance, child abductions, rape, looting, unlawful confinement, starvation, inhumane acts, unlawful airstrikes, attacks against civilian objects, and the use of banned chemical weapons."
+      ]
+    },
+    {
+      "heading": "Documentation and Reports",
+      "paragraphs": [
+        "Organizations such as Amnesty International and Human Rights Watch have documented Russian war crimes in various regions, including Chechnya, Georgia, [[ukraine|Ukraine]], and Syria. The United Nations High Commissioner for Human Rights (OHCHR) reported in 2017 that Russia used cluster and incendiary weapons in Syria, which constituted war crimes due to indiscriminate attacks in civilian areas.",
+        "The Independent International Commission of Inquiry on Ukraine, established by the OHCHR, found that Russia committed war crimes in Ukraine in 2022 and 2023. A report published by the Organization for Security and Co-operation in Europe (OSCE) on 13 April 2022 identified war crimes committed during the [[siege-of-mariupol|Siege of Mariupol]]."
+      ]
+    },
+    {
+      "heading": "Legal Consequences",
+      "paragraphs": [
+        "By 2009, the European Court of Human Rights (ECHR) had issued 115 verdicts against the Russian government for enforced disappearances, murder, and torture in Chechnya. In 2021, the ECHR found Russia guilty of similar crimes in Georgia.",
+        "Following its actions in Ukraine, international sanctions have been imposed on Russian officials by Western governments, particularly in 2014 and 2022. Russia withdrew its signature from the International Criminal Court (ICC) in 2016 when the Court began investigating its invasion and [[russian-annexation-of-crimea|annexation of Crimea]]. Consequently, the United Nations General Assembly suspended Russia from the UN Human Rights Council due to its war crimes in Ukraine."
+      ]
+    },
+    {
+      "heading": "Indictments and Accountability",
+      "paragraphs": [
+        "Since 2023, the ICC has indicted six Russian officials, including President Vladimir Putin, for war crimes in Ukraine. Many Russian officials have been found guilty by local courts for war crimes committed in both Chechnya and Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "russian-annexation-of-crimea",
+    "siege-of-mariupol",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Russian war crimes — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Russian_war_crimes",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

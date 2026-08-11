@@ -30,8 +30,8 @@
     {
       "heading": "Historical Development",
       "paragraphs": [
-        "Ukrainian literature's roots can be traced back to writings in Old Church Slavonic and Latin by authors such as Hryhorii Skovoroda and Yuriy Drohobych. The emergence of oral literature, particularly through folk epics known as dumy, marked a significant cultural development in the late 16th and early 17th centuries.",
-        "The establishment of modern Ukrainian literature is often attributed to Ivan Kotliarevsky's poem Eneida, published in 1798, which is considered one of the first significant works in contemporary Ukrainian. The novel Marusya by Hryhorii Kvitka-Osnovianenko further established prose literature in the Ukrainian language."
+        "Ukrainian literature's roots can be traced back to writings in Old Church Slavonic and Latin by authors such as [[hryhorii-skovoroda|Hryhorii Skovoroda]] and Yuriy [[drohobych|Drohobych]]. The emergence of oral literature, particularly through folk epics known as dumy, marked a significant cultural development in the late 16th and early 17th centuries.",
+        "The establishment of modern Ukrainian literature is often attributed to [[ivan-kotliarevskyi|Ivan Kotliarevsky]]'s poem Eneida, published in 1798, which is considered one of the first significant works in contemporary Ukrainian. The novel Marusya by Hryhorii Kvitka-Osnovianenko further established prose literature in the Ukrainian language."
       ]
     },
     {
@@ -43,17 +43,21 @@
     {
       "heading": "Events, Prizes, and Organizations",
       "paragraphs": [
-        "Since the 2000s, literary events such as the Arsenal Book Festival in [[kyiv|Kyiv]] and Book Forum [[lviv|Lviv]] have gained prominence, showcasing Ukrainian literature alongside international works. The Shevchenko National Prize, the highest state award for culture and arts in Ukraine, alongside other literary prizes, recognizes significant contributions to Ukrainian literature.",
+        "Since the 2000s, literary events such as the Arsenal Book Festival in [[kyiv|Kyiv]] and Book Forum [[lviv|Lviv]] have gained prominence, showcasing Ukrainian literature alongside international works. The [[shevchenko-national-prize|Shevchenko National Prize]], the highest state award for culture and arts in Ukraine, alongside other literary prizes, recognizes significant contributions to Ukrainian literature.",
         "The Union of Ukrainian Writers, established during the Soviet era, was succeeded by a new organization in 1997, reflecting the changing landscape of Ukrainian literary culture. PEN Ukraine was founded in 1998 to promote literature and freedom of expression."
       ]
     }
   ],
   "links_out": [
+    "drohobych",
+    "hryhorii-skovoroda",
     "ivan-franko",
+    "ivan-kotliarevskyi",
     "kyiv",
     "lviv",
     "mykhailo-hrushevskyi",
     "serhiy-zhadan",
+    "shevchenko-national-prize",
     "ukraine",
     "ukrainian"
   ],

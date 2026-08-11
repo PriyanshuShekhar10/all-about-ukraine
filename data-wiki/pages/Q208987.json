@@ -34,7 +34,7 @@
     {
       "heading": "Geographical Extent",
       "paragraphs": [
-        "Polesia is one of the largest forested regions in Europe, situated in the southwestern part of the Eastern-European Lowland, specifically the Polesian Lowland. It encompasses the Bug River valley in Poland and the [[pripyat|Pripyat]] River valley in [[western-ukraine|Western Ukraine]]. Historically, the westernmost area of Polesia, near Brest, Belarus, was part of the Podlachia region. According to the late 19th-century Geographical Dictionary of the Kingdom of Poland, Polesia is defined as a triangle formed by the cities of Brest, Mogilev, and [[kyiv|Kyiv]].",
+        "Polesia is one of the largest forested regions in Europe, situated in the southwestern part of the Eastern-European Lowland, specifically the Polesian Lowland. It encompasses the Bug River valley in Poland and the [[pripyat-river|Pripyat River]] valley in [[western-ukraine|Western Ukraine]]. Historically, the westernmost area of Polesia, near Brest, Belarus, was part of the Podlachia region. According to the late 19th-century Geographical Dictionary of the Kingdom of Poland, Polesia is defined as a triangle formed by the cities of Brest, Mogilev, and [[kyiv|Kyiv]].",
         "The central swampy areas of Polesia are referred to as the Pinsk Marshes. Following the [[chernobyl-disaster|Chernobyl disaster]], significant portions of this region were contaminated, leading to the establishment of the [[chernobyl-exclusion-zone|Chernobyl Exclusion Zone]] and the [[rivne-oblast|Polesie]] State Radioecological Reserve, which includes [[administrative-territorial-entity-of-ukraine|areas in Ukraine]] north-northwest of Kyiv."
       ]
     },
@@ -48,7 +48,7 @@
     {
       "heading": "Geographical Features",
       "paragraphs": [
-        "Polesia is characterized by its marshy landscape along the Pripyat River, spanning Southern Belarus, Northern [[ukraine|Ukraine]] (including the Volyn, [[rivne|Rivne]], [[zhytomyr|Zhytomyr]], Kyiv, and [[chernihiv|Chernihiv]] Oblasts), and parts of Poland. The region is a flatland within the drainage basins of the Western Bug and Pripyat rivers, which are connected by the [[dnieper|Dnieper]]-Bug Canal, constructed during the reign of Stanislaus II of Poland.",
+        "Polesia is characterized by its marshy landscape along the Pripyat River, spanning Southern Belarus, Northern [[ukraine|Ukraine]] (including the Volyn, [[rivne|Rivne]], [[zhytomyr|Zhytomyr]], Kyiv, and [[chernihiv|Chernihiv]] Oblasts), and parts of Poland. The region is a flatland within the drainage basins of the Western Bug and [[pripyat|Pripyat]] rivers, which are connected by the [[dnieper|Dnieper]]-Bug Canal, constructed during the reign of Stanislaus II of Poland.",
         "Key tributaries of the Pripyat River include the Horyn, Stokhid, Styr, Ptsich, and Yaselda rivers. Major towns in the Pripyat basin consist of Pinsk, Stolin, and Davyd-Haradok. From the 1960s to the 1980s, extensive marshlands were drained for agricultural purposes."
       ]
     },
@@ -74,6 +74,7 @@
     "eastern-europe",
     "kyiv",
     "pripyat",
+    "pripyat-river",
     "rivne",
     "rivne-oblast",
     "ukraine",

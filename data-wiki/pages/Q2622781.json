@@ -1,0 +1,94 @@
+{
+  "qid": "Q2622781",
+  "slug": "sviatoslav-vakarchuk",
+  "title": "Sviatoslav Vakarchuk",
+  "type": "human",
+  "category": "culture",
+  "aliases": [
+    "Svyatoslav Vakarchuk"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1975-05-14",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Mukachevo",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "People's Deputy of Ukraine, People's Deputy of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Sviatoslav Ivanovych '[[moskva|Slava]]' Vakarchuk is a prominent [[ukrainian|Ukrainian]] musician, politician, public activist, and soldier, best known as the lead vocalist of the rock band Okean Elzy. He has played a significant role in Ukraine's cultural and political landscape, notably during key historical events such as the [[orange-revolution|Orange Revolution]] and Euromaidan.",
+  "sections": [
+    {
+      "heading": "Biography",
+      "paragraphs": [
+        "Sviatoslav Ivanovych Vakarchuk was born on 14 May 1975 in Mukachevo, [[ukraine|Ukraine]], into a family of scientists. His father, Ivan Vakarchuk, was a professor of physics and served as Ukraine's Minister of Education and Science."
+      ]
+    },
+    {
+      "heading": "Musical Career",
+      "paragraphs": [
+        "Vakarchuk founded the band Okean Elzy ('Ocean of Elza') in 1994 while studying at [[lviv|Lviv]] University, where he earned a Ph.D. in theoretical physics. The band gained popularity and became one of the most successful musical acts in Ukraine. In December 2013, Okean Elzy performed during the [[euromaidan|Euromaidan]] protests, showcasing their support for the movement. The band's 20th anniversary concert in [[kyiv|Kyiv]]'s Olympic Stadium in 2014 set a record for attendance, with over 75,000 fans.",
+        "In 2024, Okean Elzy released two albums and toured Europe and the US, raising funds for Ukraine during the tour."
+      ]
+    },
+    {
+      "heading": "Political Career",
+      "paragraphs": [
+        "Vakarchuk entered politics as an independent candidate in the 2007 parliamentary elections, serving on the parliamentary committee for freedom of speech. He resigned from the [[verkhovna-rada|Verkhovna Rada]] in 2008, citing frustration with the political climate. In 2019, he founded the political party Holos and was elected to the Verkhovna Rada, where his party received 5.82% of the vote. He later requested to terminate his parliamentary mandate in June 2020 to focus on extra-parliamentary activities."
+      ]
+    },
+    {
+      "heading": "Personal Life",
+      "paragraphs": [
+        "Vakarchuk was in a long-term relationship with Lialia Fonariova until 2021, and they raised her daughter together. He is currently in a relationship with Yevheniia Yatsuta, with whom he has two children. Vakarchuk is recognized as one of the 100 most influential people in Ukraine.",
+        "During the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], he joined the [[ukrainian-ground-forces|Ukrainian army]], enlisting in the territorial defense battalion of [[lviv-oblast|Lviv Oblast]] on 7 March 2022."
+      ]
+    },
+    {
+      "heading": "Awards and Recognition",
+      "paragraphs": [
+        "Vakarchuk has received several accolades, including the title of Merited Artist of Ukraine in 2005, the [[vasyl-stus|Vasyl Stus]] Prize in 2014, and the Order of Liberty of Ukraine in 2016. He was also named an Honorary Citizen of both Lviv and Kyiv in 2015."
+      ]
+    },
+    {
+      "heading": "Discography",
+      "paragraphs": [
+        "Vakarchuk has released nine studio albums with Okean Elzy, including 'Tam, de nas nema' (1998), 'Ya na nebi buv' (2000), and 'Zemlia' (2013), among others. He also released a live acoustic album, 'Tviy format' (2003)."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "euromaidan",
+    "kyiv",
+    "lviv",
+    "lviv-oblast",
+    "moskva",
+    "orange-revolution",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-ground-forces",
+    "vasyl-stus",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Sviatoslav Vakarchuk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sviatoslav_Vakarchuk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

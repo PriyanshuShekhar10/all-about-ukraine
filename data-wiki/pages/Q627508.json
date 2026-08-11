@@ -1,0 +1,64 @@
+{
+  "qid": "Q627508",
+  "slug": "hoverla",
+  "title": "Hoverla",
+  "type": "mountain",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "mountain",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "2,061",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.1603, 24.5000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Mount Hoverla, standing at 2,061 metres (6,762 ft), is the highest mountain in Ukraine and is situated within the [[ukrainian-carpathians|Ukrainian Carpathians]]. It is a significant natural landmark in the Chornohora region, attracting tourists and extreme sports enthusiasts alike.",
+  "sections": [
+    {
+      "heading": "Geographical Features",
+      "paragraphs": [
+        "Mount Hoverla is located in the Eastern Beskids, specifically in the Chornohora region of [[ukraine|Ukraine]]. The mountain is characterized by slopes that are covered with beech and spruce forests, transitioning into a belt of sub-alpine meadows known as polonyna in [[ukrainian|Ukrainian]]. The main spring of the Prut River is found on the eastern slope of the mountain."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "The exact date of the first ascent of Mount Hoverla remains unknown. However, in the late 19th century, it emerged as a popular tourist destination, particularly for visitors from the nearby cities of [[galicia|Galicia]]. In 1880, Leopold Wajgel of the Galician Tatra Society marked the first tourist route connecting the peak of Hoverla to Krasny Luh, followed by the construction of the first tourist shelter in 1881."
+      ]
+    },
+    {
+      "heading": "Tourism and Recreation",
+      "paragraphs": [
+        "Throughout the 20th century, Mount Hoverla gained recognition as a site for extreme sports. Various routes to the summit are available, with some classified as 1A during the winter months, according to the Soviet grading system. The most frequented approach begins from the tour-basa Zarosliak on the eastern face, ascending over 1,100 m (3,600 ft) along a steep path that features few hairpin turns. There are also alternative routes: one marked with blue signs that is steeper and another marked with green that is gentler and longer."
+      ]
+    }
+  ],
+  "links_out": [
+    "galicia",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-carpathians"
+  ],
+  "sources": [
+    {
+      "title": "Hoverla — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hoverla",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

@@ -1,0 +1,74 @@
+{
+  "qid": "Q2914803",
+  "slug": "ostap-bender",
+  "title": "Ostap Bender",
+  "type": "fictional human",
+  "category": "people",
+  "aliases": [
+    "Ostap Suleiman İbrahim Berta Maria Bender bey",
+    "The Great Combinator"
+  ],
+  "infobox": {
+    "label": "fictional human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1897",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Russian Empire",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Ostap Bender is a fictional character created by Soviet authors Ilya Ilf and Yevgeny Petrov, serving as the central antihero in the novels The Twelve Chairs (1928) and The Little Golden Calf (1931). His character, originating from Odesa, embodies themes of entrepreneurship and satire relevant to the socio-economic landscape of Ukraine and the Soviet Union.",
+  "sections": [
+    {
+      "heading": "Literary Background",
+      "paragraphs": [
+        "Ostap Bender, known as Остап Бендер in Russian, is the main character in the picaresque novels The Twelve Chairs, published in January 1928, and The Little Golden Calf, released in 1931. These works were penned by Soviet writers Ilya Ilf and Yevgeny Petrov, marking a significant contribution to Russian literature, particularly in the genre that was previously uncommon."
+      ]
+    },
+    {
+      "heading": "Character and Origins",
+      "paragraphs": [
+        "Bender's character is described as an attractive and resourceful con man, often referred to as 'The Great Combinator,' a term that has become a catchphrase in the Russian language. His full name, Ostap-Suleyman-Berta-Maria-Bender-Bey, hints at a complex heritage, with suggestions of Jewish origins linked to [[odesa|Odesa]], a city with a significant Jewish population during the time.",
+        "In The Little Golden Calf, he refers to himself as Bender-Zadunaysky, connecting him to the historical and geographical significance of the Danube River and the city of Bender, which are in proximity to Odesa."
+      ]
+    },
+    {
+      "heading": "Plot Overview",
+      "paragraphs": [
+        "In The Twelve Chairs, set in the Soviet Union during 1927, Bender seeks hidden diamonds within twelve chairs, ultimately facing betrayal from his partner, Ippolit Matveyevich Vorobyaninov. The sequel, The Little Golden Calf, published in 1931, sees Bender alive, humorously explaining his survival after a near-fatal incident. This novel satirizes aspects of Soviet life as Bender attempts to accumulate wealth from the underground millionaire Koreiko, only to find himself unable to utilize his gains within the USSR."
+      ]
+    },
+    {
+      "heading": "Cultural Impact",
+      "paragraphs": [
+        "Bender's character has had a lasting cultural influence, with phrases from the novels becoming part of the Russian lexicon. Notable quotes include 'Money in the morning, chairs in the evening,' which humorously implies the need for payment upfront, and 'The task of helping the drowning people is in the hands of the drowning people themselves,' reflecting a cynical view of responsibility.",
+        "Bender's entrepreneurial schemes have drawn parallels to the challenges faced by businesses in post-Soviet Russia, echoing the economic conditions of the New Economic Policy era in which he operated."
+      ]
+    },
+    {
+      "heading": "Legacy and Commemoration",
+      "paragraphs": [
+        "Ostap Bender's legacy continues to resonate in contemporary culture, with statues erected in various cities, including a commemorative plaque in Odesa, the city of his fictional origin. His character's evolution from a mere con man to an emblem of entrepreneurship reflects the changing perceptions of economic ambition in [[ukraine|Ukraine]] and the broader post-Soviet context."
+      ]
+    }
+  ],
+  "links_out": [
+    "odesa",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Ostap Bender — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ostap_Bender",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

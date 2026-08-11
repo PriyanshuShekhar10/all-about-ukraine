@@ -1,0 +1,115 @@
+{
+  "qid": "Q956117",
+  "slug": "zhmerynka",
+  "title": "Zhmerynka",
+  "type": "city of regional significance of Ukraine",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "34,537",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "18",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "362",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.0425, 28.0992",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Zhmerynka is a city of regional significance located in [[vinnytsia-oblast|Vinnytsia Oblast]], central Ukraine, serving as the administrative center of Zhmerynka Raion. As of 2022, the population is estimated at 33,754, and the city is situated in the historic region of [[podolia|Podolia]].",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Zhmerynka originated from two neighboring villages named Zmierzynki Wielkie and Zmierzynki Małe, which were part of [[vinnytsia|Winnica]] County in the Bracław Voivodeship of the Kingdom of Poland. The larger village was owned by the Potocki family, while the smaller one belonged to the Głowacki family. Following the Second Partition of Poland in 1793, the villages were annexed by Russia and their names were changed to Zhmerynka.",
+        "The establishment of a railway station in 1870 accelerated the development of the settlement, which was granted city rights in 1903. The first mayor, Karol Wroński, a Pole, was appointed in 1905. After the fall of Tsarist Russia during World War I, Zhmerynka became part of the [[ukrainian-peoples-republic|Ukrainian People's Republic]] in 1917. The city changed hands multiple times during the conflicts between Poland, [[ukraine|Ukraine]], and Soviet Russia, eventually being incorporated into the Soviet Union in June 1920. The city faced significant hardship during the famine of 1932–1933.",
+        "During World War II, Zhmerynka was occupied by the Romanian Army from July 17, 1941, to March 20, 1944, and was included in the Transnistria Governorate."
+      ]
+    },
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Zhmerynka is located in the central-western area of the Vinnytsia region, covering an area of 18.2 square kilometers, with an average elevation of 326 meters above sea level.",
+        "The city experiences a continental European climate."
+      ]
+    },
+    {
+      "heading": "City Governance",
+      "paragraphs": [
+        "The governance of Zhmerynka is managed by an elected mayor, chosen through direct elections by the city's residents. The City Assembly is responsible for approving or rejecting urban development proposals initiated by local citizens and organizations."
+      ]
+    },
+    {
+      "heading": "Economy",
+      "paragraphs": [
+        "Zhmerynka's economy is significantly supported by the railway industry, which serves as the largest employer in the city. Additionally, the agricultural sector is prominent, with numerous companies operating in this field.",
+        "The food processing industry is well-developed, featuring a variety of large, medium, and small enterprises. The education sector is also a key component of the local economy, with many secondary schools employing a substantial number of teachers.",
+        "Tourism is fostered by a range of comfortable hotels offering various services."
+      ]
+    },
+    {
+      "heading": "Transportation",
+      "paragraphs": [
+        "Zhmerynka is a critical railway hub in Ukraine, with the initial project for the railway transportation hub designed by engineer Carl von Meck in 1865. The main railway station, constructed between 1899 and 1904 under architect Zhuravs'ky, underwent full renovation in 2012.",
+        "In addition to railway transport, Zhmerynka features a bus station located near the railway station, facilitating connections to nearby cities such as Bar (30 kilometers), Vinnytsia (35 kilometers), Sharhorod (37 kilometers), and [[kyiv|Kyiv]] (317 kilometers)."
+      ]
+    },
+    {
+      "heading": "Media",
+      "paragraphs": [
+        "The local media landscape includes the Zhmerins'ky Meridian newspaper, headquartered at Bohdan Khmelnits'ky Street 19, Zhmerynka 23100, Ukraine. Additionally, the FM radio station 'Obriy' broadcasts local news and music at 67.34 MHz.",
+        "Various internet resources are available that cover cultural, business, and political news related to Zhmerynka."
+      ]
+    },
+    {
+      "heading": "Notable People",
+      "paragraphs": [
+        "Prominent individuals associated with Zhmerynka include Jan Brzechwa, a Polish poet and writer; Valery Brezdenyuk, a painter; Denis Forov, a retired Armenian Greco-Roman wrestler; Mykola Livytskyi, a [[ukrainian|Ukrainian]] statesman; and Oleksiy Honcharuk, who served as the [[prime-minister-of-ukraine|Prime Minister of Ukraine]] from 2019 to 2020."
+      ]
+    },
+    {
+      "heading": "Twin Towns",
+      "paragraphs": [
+        "Zhmerynka is twinned with Shaki in Azerbaijan, as well as Skarżysko-Kamienna and Sędziszów Małopolski, both in Poland."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "podolia",
+    "prime-minister-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "vinnytsia",
+    "vinnytsia-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Zhmerynka — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zhmerynka",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

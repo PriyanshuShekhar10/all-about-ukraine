@@ -25,7 +25,7 @@
       }
     ]
   },
-  "summary": "The Siege of Chernihiv was a significant military conflict that took place in the city of Chernihiv, located in Chernihiv Oblast, Ukraine, during the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]]. The siege began on 24 February 2022 and lasted until early April 2022, resulting in extensive destruction and civilian casualties.",
+  "summary": "The Siege of Chernihiv was a significant military conflict that took place in the city of Chernihiv, located in [[chernihiv-oblast|Chernihiv Oblast]], Ukraine, during the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]]. The siege began on 24 February 2022 and lasted until early April 2022, resulting in extensive destruction and civilian casualties.",
   "sections": [
     {
       "heading": "Background and Initial Engagement",
@@ -63,6 +63,7 @@
   "links_out": [
     "2022-russian-invasion-of-ukraine",
     "chernihiv",
+    "chernihiv-oblast",
     "kyiv",
     "ukraine",
     "ukrainian"

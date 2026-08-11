@@ -1,0 +1,120 @@
+{
+  "qid": "Q161808",
+  "slug": "cherkasy-oblast",
+  "title": "Cherkasy Oblast",
+  "type": "oblast of Ukraine",
+  "category": "people",
+  "aliases": [
+    "Cherkas'ka oblast'",
+    "Cherkashchyna"
+  ],
+  "infobox": {
+    "label": "oblast of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1954-01-07",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Cherkasy",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "1,231,200",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "20,900",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Head of government",
+        "value": "Oleksandr Skichko",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.4447, 32.0603",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Cherkasy Oblast, also known as Cherkashchyna, is a province in central Ukraine situated along the Dnieper River. It serves as an important agricultural and administrative region, with a population of approximately 1,160,744 as of 2022.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Cherkasy Oblast covers an area of 20,900 square kilometres (8,100 sq mi), making it the 18th largest oblast in [[ukraine|Ukraine]] and accounting for about 3.5% of the country's total area. The [[dnieper|Dnieper River]] flows through the oblast, dividing it into a hilly western part known as the Dnieper Upland and a low-lying eastern part that historically experienced frequent flooding. This flooding was mitigated in the 20th century with the construction of multiple dams and hydroelectric power plants.",
+        "The oblast extends 245 km from southwest to northeast and 150 km from north to south. Its northernmost point is near Kononivka in Zolotonosha Raion, while the southernmost point is near Kolodyste in Zvenyhorodka Raion. The westernmost point is near Korytnya in Uman Raion, and the easternmost point is near Stetsivka in [[cherkasy|Cherkasy]] Raion. The geometric center of the oblast is located near Zhuravky in Horodyshche Raion. Cherkasy Oblast shares borders with [[kyiv|Kyiv]] Oblast to the north, [[kirovohrad-oblast|Kirovohrad Oblast]] to the south, [[poltava-oblast|Poltava Oblast]] to the east, and [[vinnytsia-oblast|Vinnytsia Oblast]] to the west."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Cherkasy Oblast was established on 7 January 1954 as part of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]] through a decree from the Presidium of the Supreme Soviet. This decree was later approved by the Supreme Soviet of the Soviet Union on 26 April 1954. The oblast was formed from the territories of major cities such as Cherkasy, Smila, and Uman, along with their respective raions, and included 30 former raions from [[vinnytsia|Vinnytsia]], Kyiv, [[kropyvnytskyi|Kirovohrad]], and [[poltava|Poltava]] Oblasts.",
+        "Archaeological findings indicate that the Dnieper River valley has been inhabited since prehistoric times, with the oldest artifacts dating back to the Palaeolithic period."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "As of 2006, the estimated population of Cherkasy Oblast was 1,335,064. According to the 2001 [[ukrainian|Ukrainian]] census, the population was nearly evenly split between urban (53.7%) and rural (46.3%) areas, with demographic challenges stemming from an aging population. Ethnic [[ukrainians|Ukrainians]] made up 93.1% of the population, while ethnic Russians constituted 5.4%.",
+        "The linguistic landscape of Cherkasy Oblast has shifted due to historical Russification, resulting in a decrease in Ukrainian speakers and an increase in Russian speakers. However, Ukrainian remains the only official language in the region. A 2018 poll indicated that 85% of residents supported Ukrainian as the sole state language. In June 2021, the Cherkasy Oblast Council adopted a program to promote the Ukrainian language in public life."
+      ]
+    },
+    {
+      "heading": "Administrative Divisions",
+      "paragraphs": [
+        "Since July 2020, Cherkasy Oblast is administratively divided into four raions, which are further segmented into 66 hromadas. The oblast has one administrative center, Cherkasy, and includes 16 urban populated places, with Cherkasy being the only city exceeding 100,000 residents. Uman and Smila have populations between 80,000 and 90,000, while other cities have populations below 30,000."
+      ]
+    },
+    {
+      "heading": "Economy",
+      "paragraphs": [
+        "The economy of Cherkasy Oblast is predominantly agricultural, with winter wheat and sugar beets as the main crops, alongside barley, corn, tobacco, and hemp. Cattle breeding also plays a significant role in the local economy. Industrial activities are concentrated in Cherkasy, where a chemical industry emerged in the late 1960s, along with machine building, furniture production, and agricultural processing."
+      ]
+    },
+    {
+      "heading": "Education and Attractions",
+      "paragraphs": [
+        "Cherkasy Oblast is home to five universities, including the [[bohdan-khmelnytsky|Bohdan Khmelnytsky]] National University of Cherkasy and Uman National University of Horticulture. The region features several attractions, such as the Sofiivka park, the birthplace of [[taras-shevchenko|Taras Shevchenko]], and the Shevchenko National Preserve, as well as archaeological sites related to [[cucutenitrypillia-culture|Trypillian culture]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "bohdan-khmelnytsky",
+    "cherkasy",
+    "cucutenitrypillia-culture",
+    "dnieper",
+    "kirovohrad-oblast",
+    "kropyvnytskyi",
+    "kyiv",
+    "poltava",
+    "poltava-oblast",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainians",
+    "vinnytsia",
+    "vinnytsia-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Cherkasy Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cherkasy_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

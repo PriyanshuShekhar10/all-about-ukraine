@@ -1,0 +1,87 @@
+{
+  "qid": "Q17128150",
+  "slug": "oleh-sentsov",
+  "title": "Oleh Sentsov",
+  "type": "human",
+  "category": "politics",
+  "aliases": [
+    "Oleg Gennadyevich Sentsov",
+    "Oleg Sentsov"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1976-07-13",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Simferopol",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Oleh Sentsov is a Ukrainian filmmaker, writer, activist, and soldier from Crimea, known for his opposition to the [[russian-annexation-of-crimea|Russian annexation of Crimea]] and his subsequent imprisonment by Russian authorities. He has actively participated in Ukraine's military efforts following the 2022 invasion by Russia.",
+  "sections": [
+    {
+      "heading": "Biography",
+      "paragraphs": [
+        "Oleh Hennadiiovych Sentsov was born on 14 July 1976 in Simferopol, Crimean Oblast, [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]. He is of ethnic Russian descent and studied economics in [[kyiv|Kyiv]] from 1993 to 1998. Sentsov began his film career with short films, including A Perfect Day for Bananafish (2008) and The Horn of a Bull (2009). His first feature film, Gamer, premiered at the Rotterdam International Film Festival in 2012, leading to further projects such as Numbers (2019) and Rhino (2021)."
+      ]
+    },
+    {
+      "heading": "Arrest and Imprisonment",
+      "paragraphs": [
+        "Sentsov was arrested on 11 May 2014 in [[crimea|Crimea]], accused by Russian authorities of plotting terrorist acts. He was one of four [[ukrainian|Ukrainian]] citizens detained by the Federal Security Service, facing charges related to alleged terrorist activities in Crimea. Following a trial that began on 21 July 2015, he was sentenced to 20 years in prison on 25 August 2015, a conviction widely criticized as politically motivated and based on torture allegations.",
+        "During his time in detention, Sentsov was held in various prisons, and in May 2018, he undertook a hunger strike to protest the treatment of Ukrainian political prisoners in Russia. His situation garnered international attention, with numerous organizations and governments calling for his release."
+      ]
+    },
+    {
+      "heading": "Release and Post-Prison Life",
+      "paragraphs": [
+        "Sentsov was released on 7 September 2019 in a prisoner swap between Russia and [[ukraine|Ukraine]]. Upon his return to Kyiv, he was welcomed by [[president-of-ukraine|Ukrainian President]] Volodymyr Zelensky. After his release, Sentsov continued his film career, with his work Nomera being showcased at the Berlin International Film Festival in 2020."
+      ]
+    },
+    {
+      "heading": "Military Service and Recent Activities",
+      "paragraphs": [
+        "In response to the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], Sentsov joined the [[armed-forces-of-ukraine|Ukrainian Armed Forces]], participating in several key battles, including the [[battle-of-kyiv|Battle of Kyiv]] and the Battle of Avdiivka. As of July 2023, he holds the rank of second lieutenant in the 47th Separate Mechanized Brigade and has been involved in the 2023 Ukrainian counteroffensive. In 2024, he released Real, a documentary filmed during the conflict, showcasing the experiences of Ukrainian soldiers."
+      ]
+    },
+    {
+      "heading": "Literary Works",
+      "paragraphs": [
+        "Sentsov has authored several works, including non-fiction prose such as 'Buy the book, it is funny' (2014), 'Tales' (2015), and 'Life Went on Anyway' (2019). He has also contributed to theater as a playwright with his work 'Numbers'."
+      ]
+    },
+    {
+      "heading": "Personal Life",
+      "paragraphs": [
+        "During his imprisonment, Sentsov's two oldest children were raised by his sister. He divorced his first wife, Alla, in 2016, and in December 2020, he welcomed a second daughter with journalist Yulia Babich."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "armed-forces-of-ukraine",
+    "battle-of-kyiv",
+    "crimea",
+    "kyiv",
+    "president-of-ukraine",
+    "russian-annexation-of-crimea",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Oleh Sentsov — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oleh_Sentsov",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

@@ -4965,5 +4965,1128 @@
     ],
     "notability": 40,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q180086",
+    "slug": "galicia",
+    "name": "Galicia",
+    "wp_title": "Galicia (Eastern Europe)",
+    "type": "historical region",
+    "category": "geography",
+    "aliases": [
+      "Galicja",
+      "Galizia",
+      "Halychyna"
+    ],
+    "notability": 70,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q141012",
+    "slug": "khotyn-fortress",
+    "name": "Khotyn Fortress",
+    "wp_title": "Khotyn Fortress",
+    "type": "fortress",
+    "category": "geography",
+    "aliases": [],
+    "notability": 40,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2607023",
+    "slug": "treaty-of-moscow",
+    "name": "Treaty of Moscow",
+    "wp_title": "Treaty of Moscow (1921)",
+    "type": "treaty",
+    "category": "geography",
+    "aliases": [
+      "1921 Russia-Turkey Treaty",
+      "1921 Turkey-Russia Treaty"
+    ],
+    "notability": 32,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q627508",
+    "slug": "hoverla",
+    "name": "Hoverla",
+    "wp_title": "Hoverla",
+    "type": "mountain",
+    "category": "geography",
+    "aliases": [],
+    "notability": 59,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q16877706",
+    "slug": "mykolaiv-shipyard",
+    "name": "Mykolaiv Shipyard",
+    "wp_title": "Mykolaiv Shipyard",
+    "type": "Wikimedia disambiguation page",
+    "category": "geography",
+    "aliases": [],
+    "notability": 2,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q785544",
+    "slug": "olesko-castle",
+    "name": "Olesko Castle",
+    "wp_title": "Olesko Castle",
+    "type": "castle",
+    "category": "geography",
+    "aliases": [],
+    "notability": 18,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q157042",
+    "slug": "pripyat-river",
+    "name": "Pripyat River",
+    "wp_title": "Pripyat (river)",
+    "type": "river",
+    "category": "geography",
+    "aliases": [
+      "Pripiat River",
+      "Prypiat River",
+      "Prypiać",
+      "Prypiać River",
+      "Prypyat River"
+    ],
+    "notability": 66,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q548",
+    "slug": "vistula",
+    "name": "Vistula",
+    "wp_title": "Vistula",
+    "type": "river",
+    "category": "geography",
+    "aliases": [
+      "Visla",
+      "Weichsel",
+      "Wisla",
+      "Wisła"
+    ],
+    "notability": 118,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q161227",
+    "slug": "yalta-conference",
+    "name": "Yalta Conference",
+    "wp_title": "Yalta Conference",
+    "type": "summit",
+    "category": "geography",
+    "aliases": [
+      "Argonaut Conference",
+      "Crimea Conference"
+    ],
+    "notability": 91,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q281201",
+    "slug": "zmiivka",
+    "name": "Zmiivka",
+    "wp_title": "Zmiivka",
+    "type": "village of Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Zmiivka, Kherson Oblast"
+    ],
+    "notability": 15,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q170403",
+    "slug": "ukraine-mens-national-football-team",
+    "name": "Ukraine men's national football team",
+    "wp_title": "Ukraine national football team",
+    "type": "men's national association football team",
+    "category": "people",
+    "aliases": [
+      "Ukraine men's national association football team",
+      "Ukraine national association football team",
+      "Ukraine national football team"
+    ],
+    "notability": 79,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4331458",
+    "slug": "odesa-international-film-festival",
+    "name": "Odesa International Film Festival",
+    "wp_title": "Odesa International Film Festival",
+    "type": "film festival",
+    "category": "people",
+    "aliases": [
+      "OIFF",
+      "Odessa International Film Festival"
+    ],
+    "notability": 20,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q6015709",
+    "slug": "eurovision-song-contest-2016",
+    "name": "Eurovision Song Contest 2016",
+    "wp_title": "Eurovision Song Contest 2016",
+    "type": "Eurovision Song Contest edition",
+    "category": "people",
+    "aliases": [
+      "ESC 2016",
+      "Eurovision 2016"
+    ],
+    "notability": 71,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q455246",
+    "slug": "ivan-kotliarevskyi",
+    "name": "Ivan Kotliarevskyi",
+    "wp_title": "Ivan Kotliarevsky",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Ivan Kotliarevsky",
+      "Ivan Kotlyarevsky",
+      "Ivan Kotlyarevskyy",
+      "Ivan Petrovych Kotliarevskyi"
+    ],
+    "notability": 47,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2914803",
+    "slug": "ostap-bender",
+    "name": "Ostap Bender",
+    "wp_title": "Ostap Bender",
+    "type": "fictional human",
+    "category": "people",
+    "aliases": [
+      "Ostap Suleiman İbrahim Berta Maria Bender bey",
+      "The Great Combinator"
+    ],
+    "notability": 18,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2011217",
+    "slug": "nina-matviienko",
+    "name": "Nina Matviienko",
+    "wp_title": "Nina Matviienko",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Nina Matviyenko",
+      "Nina Mytrofanivna Matviienko"
+    ],
+    "notability": 28,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1250822",
+    "slug": "taras-bulba",
+    "name": "Taras Bulba",
+    "wp_title": "Taras Bulba",
+    "type": "literary work",
+    "category": "people",
+    "aliases": [],
+    "notability": 43,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q7878562",
+    "slug": "ukrainians-in-italy",
+    "name": "Ukrainians in Italy",
+    "wp_title": "Ukrainians in Italy",
+    "type": "ethnic group",
+    "category": "people",
+    "aliases": [],
+    "notability": 5,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q7878483",
+    "slug": "ukrainian-national-museum",
+    "name": "Ukrainian National Museum",
+    "wp_title": "Ukrainian National Museum, Chicago",
+    "type": "national museum",
+    "category": "people",
+    "aliases": [],
+    "notability": 2,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q161808",
+    "slug": "cherkasy-oblast",
+    "name": "Cherkasy Oblast",
+    "wp_title": "Cherkasy Oblast",
+    "type": "oblast of Ukraine",
+    "category": "people",
+    "aliases": [
+      "Cherkas'ka oblast'",
+      "Cherkashchyna"
+    ],
+    "notability": 103,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1095587",
+    "slug": "ukrainian-parliamentary-elections",
+    "name": "Ukrainian parliamentary elections",
+    "wp_title": "Ukrainian parliamentary elections",
+    "type": "Wikimedia disambiguation page",
+    "category": "people",
+    "aliases": [],
+    "notability": 7,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q5866994",
+    "slug": "history-of-ukrainian-nationality",
+    "name": "history of Ukrainian nationality",
+    "wp_title": "History of Ukrainian nationality",
+    "type": "aspect of history",
+    "category": "people",
+    "aliases": [
+      "Ukrainian nationality history"
+    ],
+    "notability": 1,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2473104",
+    "slug": "shevchenko-national-prize",
+    "name": "Shevchenko National Prize",
+    "wp_title": "Shevchenko National Prize",
+    "type": "state decoration",
+    "category": "people",
+    "aliases": [],
+    "notability": 22,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q13513054",
+    "slug": "ukrainian-embroidery",
+    "name": "Ukrainian embroidery",
+    "wp_title": "Ukrainian embroidery",
+    "type": "textile art by ethnic group",
+    "category": "people",
+    "aliases": [],
+    "notability": 20,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4203178",
+    "slug": "iryna-vilde",
+    "name": "Iryna Vilde",
+    "wp_title": "Iryna Vilde",
+    "type": "human",
+    "category": "culture",
+    "aliases": [
+      "Daryna Dmytrivna Makohon",
+      "Daryna Dmytrivna Polotniuk"
+    ],
+    "notability": 24,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1807073",
+    "slug": "molodist-kyiv-international-film-festival",
+    "name": "Molodist Kyiv International Film Festival",
+    "wp_title": "Kyiv International Film Festival \"Molodist\"",
+    "type": "film festival",
+    "category": "culture",
+    "aliases": [
+      "KIFF \"Molodist\"",
+      "Kyiv International Film Festival \"Molodist\"",
+      "Molodist International Film Festival",
+      "Molodost film festival in Kiev"
+    ],
+    "notability": 20,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4271051",
+    "slug": "lviv-national-academy-of-arts",
+    "name": "Lviv National Academy of Arts",
+    "wp_title": "Lviv National Academy of Arts",
+    "type": "academic institution",
+    "category": "culture",
+    "aliases": [
+      "Lviv State Institute of Applied and Decorative Art"
+    ],
+    "notability": 7,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2037262",
+    "slug": "lviv-national-museum",
+    "name": "Lviv National Museum",
+    "wp_title": "Andrey Sheptytsky National Museum of Lviv",
+    "type": "art museum",
+    "category": "culture",
+    "aliases": [
+      "National Museum"
+    ],
+    "notability": 20,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1817355",
+    "slug": "lviv-polytechnic",
+    "name": "Lviv Polytechnic",
+    "wp_title": "Lviv Polytechnic",
+    "type": "university",
+    "category": "culture",
+    "aliases": [
+      "Lviv Polytechnic National University",
+      "National University “Lviv Polytechnic”"
+    ],
+    "notability": 25,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q6405679",
+    "slug": "national-ballet-of-ukraine",
+    "name": "National Ballet of Ukraine",
+    "wp_title": "National Ballet of Ukraine",
+    "type": "ballet company",
+    "category": "culture",
+    "aliases": [],
+    "notability": 7,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q11043224",
+    "slug": "national-museum-of-literature-of-ukraine",
+    "name": "National Museum of Literature of Ukraine",
+    "wp_title": "National Museum of Literature of Ukraine",
+    "type": "museum",
+    "category": "culture",
+    "aliases": [],
+    "notability": 9,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q43681674",
+    "slug": "ostroh-academy",
+    "name": "Ostroh Academy",
+    "wp_title": "Ostroh Academy",
+    "type": "secondary school",
+    "category": "culture",
+    "aliases": [
+      "Ostrih Academy"
+    ],
+    "notability": 6,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q119440915",
+    "slug": "savchuk",
+    "name": "Savchuk",
+    "wp_title": "Savchuk",
+    "type": "Wikimedia disambiguation page",
+    "category": "culture",
+    "aliases": [],
+    "notability": 7,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2622781",
+    "slug": "sviatoslav-vakarchuk",
+    "name": "Sviatoslav Vakarchuk",
+    "wp_title": "Sviatoslav Vakarchuk",
+    "type": "human",
+    "category": "culture",
+    "aliases": [
+      "Svyatoslav Vakarchuk"
+    ],
+    "notability": 44,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q12160870",
+    "slug": "ternopil-regional-art-museum",
+    "name": "Ternopil Regional Art Museum",
+    "wp_title": "Ternopil Regional Art Museum",
+    "type": "museum",
+    "category": "culture",
+    "aliases": [],
+    "notability": 13,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1574590",
+    "slug": "zlata-ognevich",
+    "name": "Zlata Ognevich",
+    "wp_title": "Zlata Ognevich",
+    "type": "human",
+    "category": "culture",
+    "aliases": [
+      "Inna Leonidivna Bordiuh"
+    ],
+    "notability": 45,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1551183",
+    "slug": "chernivtsi-university",
+    "name": "Chernivtsi University",
+    "wp_title": "Chernivtsi University",
+    "type": "national university",
+    "category": "culture",
+    "aliases": [
+      "Chernivetskyi derzhavnyi universytet",
+      "Chernivtsi National University",
+      "Yuriy Fedkovych Chernivtsi National University"
+    ],
+    "notability": 30,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q531891",
+    "slug": "karpaty",
+    "name": "Karpaty",
+    "wp_title": "Karpaty",
+    "type": "Wikimedia disambiguation page",
+    "category": "culture",
+    "aliases": [],
+    "notability": 10,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4055547",
+    "slug": "avdeyevka-coke-and-chemical-plant",
+    "name": "Avdeyevka Coke and Chemical Plant",
+    "wp_title": "Avdiivka Coke Plant",
+    "type": "business",
+    "category": "economy",
+    "aliases": [
+      "Avdiivka Coke Plant"
+    ],
+    "notability": 10,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q706857",
+    "slug": "bakhmut",
+    "name": "Bakhmut",
+    "wp_title": "Bakhmut",
+    "type": "city in Ukraine",
+    "category": "economy",
+    "aliases": [
+      "Artemivsk",
+      "Artemovsk",
+      "Artemovskiy",
+      "Artyomivsk",
+      "Artyomovsk"
+    ],
+    "notability": 77,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q148923",
+    "slug": "borshchiv",
+    "name": "Borshchiv",
+    "wp_title": "Borshchiv",
+    "type": "city in Ukraine",
+    "category": "economy",
+    "aliases": [
+      "Borschtschiw",
+      "Borsciv",
+      "Borsciva",
+      "Borscivas",
+      "Borshchev",
+      "Borshchov",
+      "Borshchëv",
+      "Borshtchev",
+      "Borshtshev",
+      "Borsjtsjiv",
+      "Borsjtsjov",
+      "Borszczow",
+      "Borszczów",
+      "Borşçiv",
+      "Borščiva",
+      "Borščivas",
+      "Borșciv"
+    ],
+    "notability": 41,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q167874",
+    "slug": "chernihiv-oblast",
+    "name": "Chernihiv Oblast",
+    "wp_title": "Chernihiv Oblast",
+    "type": "oblast of Ukraine",
+    "category": "economy",
+    "aliases": [
+      "Chernihiv Oblast (Ukraine)",
+      "Chernihivshchyna"
+    ],
+    "notability": 99,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q158821",
+    "slug": "drohobych",
+    "name": "Drohobych",
+    "wp_title": "Drohobych",
+    "type": "city of regional significance of Ukraine",
+    "category": "economy",
+    "aliases": [
+      "Dobrovlyany",
+      "Dobrowlany",
+      "Drobich",
+      "Drogobich",
+      "Drogobych",
+      "Drogobycz",
+      "Drohobich",
+      "Drohobics",
+      "Drohobitch",
+      "Drohobyc",
+      "Drohobycz",
+      "Drohobytsch"
+    ],
+    "notability": 64,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q181386",
+    "slug": "ukraine-east",
+    "name": "Ukraine east",
+    "wp_title": "Eastern Ukraine",
+    "type": "region",
+    "category": "economy",
+    "aliases": [
+      "east Ukraine"
+    ],
+    "notability": 32,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1626421",
+    "slug": "ihor-kolomoyskyi",
+    "name": "Ihor Kolomoyskyi",
+    "wp_title": "Ihor Kolomoyskyi",
+    "type": "human",
+    "category": "economy",
+    "aliases": [
+      "Ihor Valeriyovych Kolomoyskyi"
+    ],
+    "notability": 30,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4281587",
+    "slug": "illich-steel-iron-works",
+    "name": "Illich Steel & Iron Works",
+    "wp_title": "Illich Steel and Iron Works",
+    "type": "business",
+    "category": "economy",
+    "aliases": [],
+    "notability": 13,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q6822757",
+    "slug": "categorysteel-industry-in-ukraine",
+    "name": "Category:Steel industry in Ukraine",
+    "wp_title": "Metal production in Ukraine",
+    "type": "Wikimedia category",
+    "category": "economy",
+    "aliases": [
+      "metal production"
+    ],
+    "notability": 6,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q782278",
+    "slug": "nafpaktos",
+    "name": "Nafpaktos",
+    "wp_title": "Nafpaktos",
+    "type": "city",
+    "category": "economy",
+    "aliases": [
+      "Epachtos",
+      "Lepanto",
+      "Naupactus"
+    ],
+    "notability": 51,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q167859",
+    "slug": "volyn-oblast",
+    "name": "Volyn Oblast",
+    "wp_title": "Volyn Oblast",
+    "type": "oblast of Ukraine",
+    "category": "economy",
+    "aliases": [
+      "Volyn Province",
+      "Volyn Region",
+      "Volyn'",
+      "Volyn, Ukraine",
+      "Wolyn'"
+    ],
+    "notability": 101,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q956117",
+    "slug": "zhmerynka",
+    "name": "Zhmerynka",
+    "wp_title": "Zhmerynka",
+    "type": "city of regional significance of Ukraine",
+    "category": "economy",
+    "aliases": [],
+    "notability": 56,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q31354462",
+    "slug": "republic-of-abkhazia",
+    "name": "Republic of Abkhazia",
+    "wp_title": "Abkhazia",
+    "type": "state with limited recognition",
+    "category": "politics",
+    "aliases": [
+      "Abkhazia",
+      "Abkhazian Republic",
+      "Abkhaziya",
+      "Apsny",
+      "Aṗsny",
+      "Aṗsny Ahwyntqarra",
+      "Respublika Abkhaziya",
+      "The Republic of Abkhazia"
+    ],
+    "notability": 208,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q55198",
+    "slug": "oleksandr-dovzhenko",
+    "name": "Oleksandr Dovzhenko",
+    "wp_title": "Alexander Dovzhenko",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "Alexander Petrovich Dovzhenko",
+      "Oleksandr Petrovych Dovzhenko"
+    ],
+    "notability": 58,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2482633",
+    "slug": "andrii-parubii",
+    "name": "Andrii Parubii",
+    "wp_title": "Andriy Parubiy",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "Andrii Volodymyrovych Parubii",
+      "Andriy Parubiy"
+    ],
+    "notability": 36,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2380199",
+    "slug": "borys-hrinchenko",
+    "name": "Borys Hrinchenko",
+    "wp_title": "Borys Hrinchenko",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "Borys Dmytrovych Grinchenko",
+      "Borys Dmytrovych Hrinchenko",
+      "Borys Dmytrovych Hrinchenko (Grinchenko)",
+      "Vasyl Chaichenko"
+    ],
+    "notability": 14,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q59599",
+    "slug": "civic-nationalism",
+    "name": "civic nationalism",
+    "wp_title": "Civic nationalism",
+    "type": "political ideology",
+    "category": "politics",
+    "aliases": [
+      "liberal nationalism",
+      "progressive nationalism",
+      "state nationalism"
+    ],
+    "notability": 36,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q56360533",
+    "slug": "decentralisation-in-ukraine",
+    "name": "decentralisation in Ukraine",
+    "wp_title": "Decentralisation in Ukraine",
+    "type": "aspect in a geographic region",
+    "category": "politics",
+    "aliases": [],
+    "notability": 7,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1187527",
+    "slug": "grigory-leps",
+    "name": "Grigory Leps",
+    "wp_title": "Grigory Leps",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "Grigory Viktorovich Lepsveridze"
+    ],
+    "notability": 33,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q371768",
+    "slug": "hennadiy-avdyeyenko",
+    "name": "Hennadiy Avdyeyenko",
+    "wp_title": "Hennadiy Avdyeyenko",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "Hennadiy Valentynovych Avdyeyenko"
+    ],
+    "notability": 23,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q336803",
+    "slug": "hryhorii-skovoroda",
+    "name": "Hryhorii Skovoroda",
+    "wp_title": "Hryhorii Skovoroda",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "Gregory Skovoroda",
+      "Grigorij Savvich Skovoroda",
+      "Hryhoriy Skovoroda",
+      "Hryhoriĭ Skovoroda"
+    ],
+    "notability": 56,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q64632862",
+    "slug": "iryna-venediktova",
+    "name": "Iryna Venediktova",
+    "wp_title": "Iryna Venediktova",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "Iryna Romanov",
+      "Iryna Valentynivna Venediktova",
+      "Venediktova Romanov"
+    ],
+    "notability": 19,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2624048",
+    "slug": "maksym-kryvonis",
+    "name": "Maksym Kryvonis",
+    "wp_title": "Maksym Kryvonis",
+    "type": "human",
+    "category": "politics",
+    "aliases": [],
+    "notability": 13,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q17318904",
+    "slug": "nadiya-savchenko",
+    "name": "Nadiya Savchenko",
+    "wp_title": "Nadiya Savchenko",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "Nadia Savchenko",
+      "Nadia Viktorivna Savchenko",
+      "Nadiya Viktorivna Savchenko"
+    ],
+    "notability": 43,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q3406883",
+    "slug": "memorial-in-commemoration-of-famines-victims-in-ukraine",
+    "name": "Memorial in Commemoration of Famines' Victims in Ukraine",
+    "wp_title": "National Museum of the Holodomor-Genocide",
+    "type": "museum",
+    "category": "politics",
+    "aliases": [
+      "Holodomor Victims Memorial",
+      "National Museum of the Holodomor-Genocide"
+    ],
+    "notability": 13,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q17128150",
+    "slug": "oleh-sentsov",
+    "name": "Oleh Sentsov",
+    "wp_title": "Oleh Sentsov",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "Oleg Gennadyevich Sentsov",
+      "Oleg Sentsov"
+    ],
+    "notability": 49,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1322328",
+    "slug": "dnieper-ukraine",
+    "name": "Dnieper Ukraine",
+    "wp_title": "Dnieper Ukraine",
+    "type": "Ukrainian historical regions",
+    "category": "history",
+    "aliases": [
+      "Dnipro Ukraine",
+      "Naddniprianshchyna"
+    ],
+    "notability": 19,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q369732",
+    "slug": "halič",
+    "name": "Halič",
+    "wp_title": "Halič",
+    "type": "municipality of Slovakia",
+    "category": "history",
+    "aliases": [],
+    "notability": 25,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q277182",
+    "slug": "declaration-of-independence-of-ukraine",
+    "name": "Declaration of Independence of Ukraine",
+    "wp_title": "Declaration of Independence of Ukraine",
+    "type": "declaration of independence",
+    "category": "history",
+    "aliases": [
+      "Act of Declaration of Independence of Ukraine"
+    ],
+    "notability": 37,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q215871",
+    "slug": "kyiv-metro",
+    "name": "Kyiv Metro",
+    "wp_title": "Kyiv Metro",
+    "type": "rapid transit",
+    "category": "history",
+    "aliases": [
+      "Metro in Kyiv"
+    ],
+    "notability": 58,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q58720",
+    "slug": "mikhail-lomonosov",
+    "name": "Mikhail Lomonosov",
+    "wp_title": "Mikhail Lomonosov",
+    "type": "human",
+    "category": "history",
+    "aliases": [
+      "M. B. Jiomohocob",
+      "M. V. Lomonosov",
+      "M.B.Jiomohocob",
+      "Michaelis, Lomonosow",
+      "Michail V. Lomonossov",
+      "Michail Wassiljewitsch Lomonossow",
+      "Michailas Vasiljevičius Lomonosovas",
+      "Mikhail Vasil'yevich Lomonosov",
+      "Mikhail Vasilyevich Lomonosov",
+      "Mikhail Vasilʹevich Lomonosov",
+      "Mikhail Vassilyevich Lomonossov",
+      "Mikhail Vassil’evich Lomonosov",
+      "Mikhaĭlo Lomonosov"
+    ],
+    "notability": 109,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q569868",
+    "slug": "pale-of-settlement",
+    "name": "Pale of Settlement",
+    "wp_title": "Pale of Settlement",
+    "type": "border",
+    "category": "history",
+    "aliases": [],
+    "notability": 42,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q140420",
+    "slug": "rusyns",
+    "name": "Rusyns",
+    "wp_title": "Rusyns",
+    "type": "ethnic group",
+    "category": "history",
+    "aliases": [
+      "Carpathian Ruthenians",
+      "Carpatho-Russians",
+      "Carpatho-Rusyns",
+      "Carpatho-Ruthenians",
+      "Carpatho-Ukrainians",
+      "Rusnaks",
+      "Ruthenes",
+      "Ruthenians",
+      "Uhro-Rusyns"
+    ],
+    "notability": 62,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2997894",
+    "slug": "borodianka",
+    "name": "Borodianka",
+    "wp_title": "Borodianka",
+    "type": "urban-type settlement in Ukraine",
+    "category": "war",
+    "aliases": [
+      "Borodyanka"
+    ],
+    "notability": 38,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1292614",
+    "slug": "elections-in-ukraine",
+    "name": "elections in Ukraine",
+    "wp_title": "Elections in Ukraine",
+    "type": "Wikipedia overview article",
+    "category": "war",
+    "aliases": [],
+    "notability": 10,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q697658",
+    "slug": "first-battle-of-kharkov",
+    "name": "First Battle of Kharkov",
+    "wp_title": "First Battle of Kharkov",
+    "type": "battle",
+    "category": "war",
+    "aliases": [
+      "1941 Battle of Kharkov",
+      "1st Battle of Kharkov",
+      "Battle of Kharkov 1941"
+    ],
+    "notability": 36,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q15859754",
+    "slug": "russian-occupation-of-crimea",
+    "name": "Russian occupation of Crimea",
+    "wp_title": "Russian occupation of Crimea",
+    "type": "military occupation",
+    "category": "war",
+    "aliases": [],
+    "notability": 16,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q60765246",
+    "slug": "russian-war-crimes",
+    "name": "Russian war crimes",
+    "wp_title": "Russian war crimes",
+    "type": "violation of law",
+    "category": "war",
+    "aliases": [
+      "Russian crimes against humanity",
+      "war crimes by Russia",
+      "war crimes in Russia",
+      "war crimes of Russia",
+      "war crimes of the Russian Federation"
+    ],
+    "notability": 13,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q155620",
+    "slug": "second-battle-of-kharkov",
+    "name": "Second Battle of Kharkov",
+    "wp_title": "Second Battle of Kharkov",
+    "type": "battle",
+    "category": "war",
+    "aliases": [
+      "1942 Battle of Kharkov",
+      "3nd Battle of Kharkov",
+      "Battle of Kharkov 1942",
+      "Battles of Izyum"
+    ],
+    "notability": 42,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q7830",
+    "slug": "sudak",
+    "name": "Sudak",
+    "wp_title": "Sudak",
+    "type": "city or town",
+    "category": "war",
+    "aliases": [
+      "Sudaq"
+    ],
+    "notability": 63,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q82973",
+    "slug": "transnistria-conflict",
+    "name": "Transnistria conflict",
+    "wp_title": "Transnistria conflict",
+    "type": "conflict",
+    "category": "war",
+    "aliases": [],
+    "notability": 19,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q9364596",
+    "slug": "ukrainian-red-cross-society",
+    "name": "Ukrainian Red Cross Society",
+    "wp_title": "Ukrainian Red Cross Society",
+    "type": "National Red Cross and Red Crescent society",
+    "category": "war",
+    "aliases": [
+      "Red Cross of Ukraine",
+      "URCS"
+    ],
+    "notability": 13,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2971093",
+    "slug": "zolochiv-castle",
+    "name": "Zolochiv Castle",
+    "wp_title": "Zolochiv Castle",
+    "type": "castle",
+    "category": "war",
+    "aliases": [],
+    "notability": 14,
+    "status": "synthesized"
   }
 ]

@@ -1,0 +1,101 @@
+{
+  "qid": "Q2997894",
+  "slug": "borodianka",
+  "title": "Borodianka",
+  "type": "urban-type settlement in Ukraine",
+  "category": "war",
+  "aliases": [
+    "Borodyanka"
+  ],
+  "infobox": {
+    "label": "urban-type settlement in Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "12,832",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "6",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "139",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.6474, 29.9258",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Borodianka is an urban-type settlement located in Bucha Raion, Kyiv Oblast, Ukraine, serving as the administrative center of the Borodianka settlement hromada. As of 2022, it had an estimated population of 13,832.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Borodianka is situated on the banks of the Zdvyzh River, a tributary of the Teteriv River, within the [[kyiv|Kyiv]] Oblast of [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "The settlement was first documented in 1190 under the name Kozyatychi. In 1863, Borodianka gained attention for an anti-Russian uprising led by Władysław Żeleński during the January Uprising.",
+        "In January 1918, Borodianka was the site of a battle between the [[sich-riflemen|Sich Riflemen]] and the Haidamak kish of Left-bank Ukraine against Bolshevik forces, contributing to the struggles for control over Kyiv.",
+        "[[holodomor|The Holodomor]]'s impact was felt in Borodianka in December 1932, with the first victims of the famine recorded, although the exact death toll remains unknown. A memorial cross was erected in 1990 at the site of mass burials for Holodomor victims."
+      ]
+    },
+    {
+      "heading": "World War II and Aftermath",
+      "paragraphs": [
+        "During the German-Soviet War, Borodianka saw the mobilization of its residents, with 795 individuals serving in the Second World War, of whom 240 perished. The settlement was liberated from Nazi occupation on 8 November 1943 by the Soviet 75th Guards Rifle Division.",
+        "In 1957, Borodianka was classified as an urban-type settlement, and its development accelerated with the establishment of the Kyiv manufacturer 'Red Excavator' in 1974, leading to significant housing construction and infrastructure improvements."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "Borodianka was designated as an urban-type settlement until 26 January 2024, when it transitioned to a rural settlement status following administrative reforms in Ukraine.",
+        "During the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], Borodianka was heavily impacted, suffering from airstrikes and artillery shelling, which resulted in the destruction of civilian infrastructure and significant civilian casualties. Reports indicated that Russian troops targeted residents and obstructed rescue efforts."
+      ]
+    },
+    {
+      "heading": "Infrastructure and Community",
+      "paragraphs": [
+        "Borodianka features a range of infrastructure, including a railway station, a private aviation airfield, and various manufacturing companies. The M-07 (E373) motorway runs through the settlement, enhancing connectivity.",
+        "The social infrastructure includes specialized secondary schools, a central district hospital, cultural institutions, and several religious communities. Notable landmarks include a memorial for World War II veterans and a bust of [[taras-shevchenko|Taras Shevchenko]]."
+      ]
+    },
+    {
+      "heading": "Sister Cities",
+      "paragraphs": [
+        "Borodianka is twinned with the City of Tea Tree Gully in Australia since May 2023."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "holodomor",
+    "kyiv",
+    "sich-riflemen",
+    "taras-shevchenko",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Borodianka — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Borodianka",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

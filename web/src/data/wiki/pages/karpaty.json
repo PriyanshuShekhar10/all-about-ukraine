@@ -1,0 +1,56 @@
+{
+  "qid": "Q531891",
+  "slug": "karpaty",
+  "title": "Karpaty",
+  "type": "Wikimedia disambiguation page",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "Karpaty refers to various subjects, primarily associated with the Carpathian Mountains and several locations in Ukraine, as well as sports teams and other geographic references.",
+  "sections": [
+    {
+      "heading": "Geographical Significance",
+      "paragraphs": [
+        "The term Karpaty is closely associated with the [[carpathians|Carpathian Mountains]], a significant mountain range in Central and [[eastern-europe|Eastern Europe]] that stretches across several countries, including [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Sports Teams",
+      "paragraphs": [
+        "Karpaty is also a name linked to various sports teams, including FC Karpaty, which has multiple references, and SKA Karpaty [[lviv|Lviv]], a notable football club based in Lviv, Ukraine."
+      ]
+    },
+    {
+      "heading": "Settled Places in Ukraine",
+      "paragraphs": [
+        "In Ukraine, there are settled places named Karpaty located in [[transcarpathia|Zakarpattia]] Oblast and [[luhansk-oblast|Luhansk Oblast]], which contribute to the cultural and geographic diversity of the country."
+      ]
+    },
+    {
+      "heading": "International References",
+      "paragraphs": [
+        "The name Karpaty is not limited to Ukraine; it also appears in other countries, such as Karpaty in Ulyanovsk Oblast, Russia, and Karpaty in Kuyavian-Pomeranian Voivodeship, Poland."
+      ]
+    }
+  ],
+  "links_out": [
+    "carpathians",
+    "eastern-europe",
+    "luhansk-oblast",
+    "lviv",
+    "transcarpathia",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Karpaty — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Karpaty",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

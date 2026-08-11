@@ -1,0 +1,100 @@
+{
+  "qid": "Q181386",
+  "slug": "ukraine-east",
+  "title": "Ukraine east",
+  "type": "region",
+  "category": "economy",
+  "aliases": [
+    "east Ukraine"
+  ],
+  "infobox": {
+    "label": "region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "14,530,001",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "143,724",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.0000, 37.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Eastern Ukraine, known as Skhidna Ukrayina in Ukrainian, encompasses the territory of Ukraine located east of the Dnipro River, primarily including Kharkiv, Luhansk, and Donetsk oblasts. This region is significant for its dense population and urbanization, as well as its pivotal role in the ongoing conflict involving Ukraine and Russian-backed forces.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Eastern [[ukraine|Ukraine]] extends from the southern regions of the Central Russian Upland to the northern shores of the Sea of Azov, bordered by Russia to the east and the Black Sea and [[dnieper|Dnieper]] Lowlands to the west. The [[donets|Siverskyi Donets]] River is the major waterway in addition to the Dnipro. The [[donbas|Donbas]] area, a key economic zone named after the Donets Basin, is located within this region.",
+        "The region has been a focal point of armed conflict between Ukraine and Russian proxy forces."
+      ]
+    },
+    {
+      "heading": "Cities and Population",
+      "paragraphs": [
+        "The eastern part of Ukraine is characterized by a high degree of urbanization, particularly associated with the Donbas. Major cities with populations exceeding 200,000 include [[kharkiv-oblast|Kharkiv]], Dnipro, [[donetsk|Donetsk]]-[[makiivka|Makiivka]], [[zaporizhzhia|Zaporizhzhia]], [[mariupol|Mariupol]], [[luhansk|Luhansk]], Horlivka, and Kamianske. The cities of Donetsk and Makiivka are in close proximity to other significant urban centers such as Horlivka and Yenakieve."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "As per the 2001 census, ethnic [[ukrainians|Ukrainians]] constitute the majority of the population in eastern Ukraine, while ethnic Russians represent a considerable minority. Russian is the predominant language in urban areas of Luhansk and Donetsk Oblasts, historically prevalent in government and media. Following Ukraine's independence, [[ukrainian|Ukrainian]]-language educational institutions were absent in Donetsk.",
+        "Cultural attitudes in eastern Ukraine differ from other regions, with more favorable views towards the Russian language and the Soviet era, coupled with less enthusiasm for [[ukrainian-nationalism|Ukrainian nationalism]]."
+      ]
+    },
+    {
+      "heading": "Politics",
+      "paragraphs": [
+        "In the 1991 referendum, a significant majority (83% or more) of voters in eastern Ukraine supported Ukraine's independence, although the approval rate was lower than in western regions. A 2007 survey indicated that 77.9% of respondents opposed the idea of separating from Ukraine.",
+        "Historically, voters in eastern Ukraine have favored pro-Russian parties and candidates. However, the political landscape shifted following the [[revolution-of-dignity|2014 Ukrainian Revolution]], leading to the dissolution of the Party of Regions and the banning of the Communist Party of Ukraine.",
+        "The region has experienced unrest, particularly in 2014, leading to the emergence of the self-proclaimed [[donetsk-peoples-republic|Donetsk People's Republic]] and [[luhansk-peoples-republic|Luhansk People's Republic]], which are not recognized internationally. The ongoing conflict has resulted in significant displacement and casualties."
+      ]
+    },
+    {
+      "heading": "Religion",
+      "paragraphs": [
+        "A 2016 survey indicated that 73.5% of the population in eastern Ukraine identified as Christians, with 63.2% belonging to Eastern Orthodox Christianity. Other religious affiliations included Muslims, Jews, and Hindus. Approximately 24.7% of the population did not identify with major religious institutions.",
+        "The survey also revealed that about 55.6% of the population in eastern Ukraine considered themselves believers, while 13.4% were undecided or non-believers."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnieper",
+    "donbas",
+    "donets",
+    "donetsk",
+    "donetsk-peoples-republic",
+    "kharkiv-oblast",
+    "luhansk",
+    "luhansk-peoples-republic",
+    "makiivka",
+    "mariupol",
+    "revolution-of-dignity",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-nationalism",
+    "ukrainians",
+    "zaporizhzhia"
+  ],
+  "sources": [
+    {
+      "title": "Eastern Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eastern_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

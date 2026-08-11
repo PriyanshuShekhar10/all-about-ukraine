@@ -1,0 +1,82 @@
+{
+  "qid": "Q17318904",
+  "slug": "nadiya-savchenko",
+  "title": "Nadiya Savchenko",
+  "type": "human",
+  "category": "politics",
+  "aliases": [
+    "Nadia Savchenko",
+    "Nadia Viktorivna Savchenko",
+    "Nadiya Viktorivna Savchenko"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1981-05-11",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Kyiv",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "People's Deputy of Ukraine, Representative of the Parliamentary Assembly of the Council of Europe",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Nadiya Savchenko is a prominent Ukrainian politician and former Army aviation pilot known for her significant role during the War in Donbas and her subsequent imprisonment in Russia. She has been a symbol of Ukraine's struggle for sovereignty and human rights.",
+  "sections": [
+    {
+      "heading": "Early Life and Military Career",
+      "paragraphs": [
+        "Nadiya Viktorivna Savchenko was born on 11 May 1981 in [[kyiv|Kyiv]], specifically in the Troieshchyna neighborhood. Raised in a [[ukrainian|Ukrainian]]-speaking household, she attended Ukrainian-language schools. Savchenko's military career began when she joined the [[ukrainian-ground-forces|Ukrainian army]], initially serving as a radio operator in the railway forces before training as a paratrooper. Notably, she was the only female soldier in the Ukrainian peacekeeping troops in Iraq from 2004 to 2008.",
+        "Savchenko later gained admission to the Air Force University in [[kharkiv-oblast|Kharkiv]], which had previously been restricted to male students. Despite facing expulsion twice, she was reinstated and eventually graduated as a Mi-24 attack helicopter pilot in 2009, serving in the 3rd Regiment of the Army Aviation of the [[armed-forces-of-ukraine|Armed Forces of Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Role in the War in Donbas",
+      "paragraphs": [
+        "During the 2014 [[war-in-donbas|War in Donbas]], Savchenko served as a first lieutenant and instructor in the Aidar Battalion, a volunteer infantry unit. On 17 June 2014, she was captured by pro-Russian forces near the village of Metalist and subsequently transferred to Russia, where she faced accusations related to the deaths of two Russian journalists."
+      ]
+    },
+    {
+      "heading": "Imprisonment and Trial",
+      "paragraphs": [
+        "Savchenko was charged with murder and illegally crossing the Russian border, despite evidence indicating she had been captured before the journalists' deaths. Her trial was widely criticized by international observers, including the European Union, for failing to uphold basic human rights. While imprisoned, she was elected to the [[verkhovna-rada|Verkhovna Rada]] in the 2014 parliamentary election.",
+        "On 25 May 2016, Savchenko was exchanged for Russian GRU officers captured by [[ukraine|Ukraine]]. Following her return, she announced her intention to run for president in the 2019 elections but was arrested in March 2018 on charges of planning a terrorist attack against the [[cabinet-of-ministers-of-ukraine|Ukrainian government]]. She was released from detention on 15 April 2019."
+      ]
+    },
+    {
+      "heading": "Recognition and Legacy",
+      "paragraphs": [
+        "Savchenko is recognized as one of Ukraine's first female military pilots and the only woman to pilot the Sukhoi Su-24 bomber and the Mil Mi-24 helicopter. Her experiences and resilience during her captivity have made her a symbol of Ukraine's fight for freedom and human rights, earning her the title of Hero of Ukraine from President [[petro-poroshenko|Petro Poroshenko]] in March 2015."
+      ]
+    }
+  ],
+  "links_out": [
+    "armed-forces-of-ukraine",
+    "cabinet-of-ministers-of-ukraine",
+    "kharkiv-oblast",
+    "kyiv",
+    "petro-poroshenko",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-ground-forces",
+    "verkhovna-rada",
+    "war-in-donbas"
+  ],
+  "sources": [
+    {
+      "title": "Nadiya Savchenko — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nadiya_Savchenko",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

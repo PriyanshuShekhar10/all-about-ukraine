@@ -1,0 +1,65 @@
+{
+  "qid": "Q56360533",
+  "slug": "decentralisation-in-ukraine",
+  "title": "decentralisation in Ukraine",
+  "type": "aspect in a geographic region",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "aspect in a geographic region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Decentralisation in Ukraine refers to a series of reforms aimed at enhancing the powers and resources of local authorities, promoting regional development and administrative efficiency. Initiated after Ukraine's independence, these reforms gained momentum following the Euromaidan protests in 2014, with significant support from international organizations.",
+  "sections": [
+    {
+      "heading": "Reforms",
+      "paragraphs": [
+        "The decentralization reform in [[ukraine|Ukraine]] includes several key provisions designed to strengthen local governance and improve regional administration. These provisions aim to enhance local government capabilities, modify the [[administrative-territorial-entity-of-ukraine|administrative-territorial]] structure, and consolidate the 'principle of omnipresence,' ensuring local governments are defined by the lands within their settlements.",
+        "The reform empowers local governments with the necessary powers and resources while considering the historical, economic, environmental, and cultural characteristics of regions during the development planning of United territorial communities. Additionally, it involves transferring roles that local governments can perform to local authorities.",
+        "The reform consists of three main components: the reform of the territorial organisation of power, the reform of local self-government, and the reform of regional policy."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Following Ukraine's independence in 1991, there was an increase in local and regional government powers. In 1997, Ukraine ratified the European Charter of Local Self-Government and adopted regulatory acts to establish these powers. However, discussions typically focused on the distribution of powers at the national level.",
+        "In the wake of the [[euromaidan|Euromaidan]] protests in 2014, the newly formed government initiated a national project titled 'Decentralisation' ([[ukrainian|Ukrainian]]: Національний проект 'Децентралізація') on April 1. Under the leadership of Volodymyr Groysman, the government prioritized support for decentralisation."
+      ]
+    },
+    {
+      "heading": "Results",
+      "paragraphs": [
+        "The decentralisation reform led to significant growth in local budget revenues, which rose from ₴68.6 billion in 2014 to ₴146.6 billion in 2016. By the end of 2017, local budget revenues reached ₴170.7 billion. Amalgamated hromadas became increasingly active in budget formation, with their own revenues increasing by 80% during the first ten months of 2017, while national revenues grew by only 31.8%. Furthermore, per capita development expenditures from January to September 2017 surged by 225% compared to 2016, contrasting with a 50% growth in communities without amalgamated hromadas.",
+        "From 2014 to 2017, state support for the development of amalgamated hromadas and their infrastructure increased dramatically from ₴0.5 billion to ₴14.9 billion."
+      ]
+    },
+    {
+      "heading": "International Support",
+      "paragraphs": [
+        "Decentralisation projects in Ukraine are supported by various donor agencies, embassies, and multilateral organizations through a Donor Board. Notable initiatives include the U-LEAD with Europe Programme, a multi-donor action of the European Union and its Member States, implemented by GIZ and Sida; the DESPRO project, funded by the Swiss Confederation; and the USAID-funded DOBRE program.",
+        "Additionally, a Joint UNDP/EU Project titled 'Community Based Approach to Local Development' is actively involved in supporting decentralisation efforts."
+      ]
+    }
+  ],
+  "links_out": [
+    "administrative-territorial-entity-of-ukraine",
+    "euromaidan",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Decentralisation in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Decentralisation_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

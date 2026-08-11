@@ -1,0 +1,93 @@
+{
+  "qid": "Q4271051",
+  "slug": "lviv-national-academy-of-arts",
+  "title": "Lviv National Academy of Arts",
+  "type": "academic institution",
+  "category": "culture",
+  "aliases": [
+    "Lviv State Institute of Applied and Decorative Art"
+  ],
+  "infobox": {
+    "label": "academic institution",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1946",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.8250, 24.0392",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Lviv National Academy of Arts is a prominent higher education institution located in Lviv, Ukraine, known for its significant contributions to the fields of fine arts and design.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The Lviv National Academy of Arts was officially inaugurated in September 1946 as the [[lviv|Lviv]] State Institute of Applied and Decorative Arts. In 1994, it was restructured into the Lviv Academy of Arts, and on August 21, 2004, it was designated as a national higher educational institution by a decree from the [[president-of-ukraine|President of Ukraine]], recognizing its substantial contributions to national education and science.",
+        "Until 2020, the Academy was under the jurisdiction of the Ministry of Education of [[ukraine|Ukraine]], after which it was transferred to the Ministry of Culture and Information Policy of Ukraine."
+      ]
+    },
+    {
+      "heading": "Origins and Foundation",
+      "paragraphs": [
+        "The concept of establishing an Art Academy in Lviv dates back over a century. The institution is regarded as the legal successor to the traditions of art education in Lviv, which began when the city served as the capital of [[galicia|Galicia]] and Lodomeria during the Austro-Hungarian Empire in the mid-19th century. Its roots can be traced to the school of design and drawing linked to the Museum of Artistic Craft (1876), the Free Academy of Art (1905), O. Novakivskyi's Art School (1923), and the Academy of Arts led by Vasyl Krychevskyi in 1944.",
+        "The establishment of the higher artistic educational institution in 1946 was driven by the urgent need for skilled specialists in fine arts and applied arts in Lviv. Initially, the Academy focused on disciplines such as art textile, art ceramics, woodware, sculpture, and painting, which were closely tied to local traditions and folk art, while also incorporating European art education achievements."
+      ]
+    },
+    {
+      "heading": "Transition to the Lviv Academy of Arts",
+      "paragraphs": [
+        "In 1994, the Lviv State Institute of Applied and Decorative Art transitioned to the Lviv Academy of Arts. The institution was recognized as a national educational establishment in 2004 for its contributions to national education, science, and international activities. The Academy comprises five departments, including one in [[sevastopol|Sevastopol]], the Kosiv Institute of Applied and Decorative Arts in [[ivano-frankivsk|Ivano-Frankivsk]] region, extension courses, and various research and postgraduate programs.",
+        "Notable [[ukrainian|Ukrainian]] educators and artists, such as I. Bokshai, I. Severa, and V. Manastyrskyi, played pivotal roles in shaping the Academy. Their influence led to the establishment of an author's school in various artistic disciplines. The Academy has produced numerous award-winning graduates, including 21 [[taras-shevchenko|T. Shevchenko]] prize-winners."
+      ]
+    },
+    {
+      "heading": "Faculties",
+      "paragraphs": [
+        "The Lviv National Academy of Arts consists of several faculties, including the Faculty of Design, which offers specializations in Graphic Design, Interior Design, and Clothing Design; the Faculty of Decorative and Applied Arts, focusing on Art Textile, Art Ceramic, Art Glass, Art Woodware, and Art Metalware; and the Faculty of Fine Arts and Restoration, which includes programs in Monumental Painting, Sculpture, and Restoration of Works of Art.",
+        "Additionally, the Faculty of History and Theory of Arts offers courses in Art Management, History and Theory of Art, Humanities, Languages and Literature, and Physical Education."
+      ]
+    },
+    {
+      "heading": "Rectors",
+      "paragraphs": [
+        "The Academy has had several rectors since its establishment, including Hennadii Leonov (1946–1952), Feofan Pavliuchenko (1952–1954), Oleksii Sydorov (1954–1958), Yakym Zapasko (1958–1971), Valentyn Borysenko (1971–1977), Ihor Serediuk (1977–1988), Emmanuil Mysko (1988–2000), Andriy Bokotey (2000–2015), Volodymyr Odrekhivskyi (2016–2021), and Vasyl Kosiv (from 2021)."
+      ]
+    },
+    {
+      "heading": "Notable Alumni and Faculty",
+      "paragraphs": [
+        "The Lviv National Academy of Arts has produced several notable individuals, including Giennadij Jerszow, who studied from 1988 to 1991; Liudmyla Zhogol, a People's Artist of Ukraine; Alexander Klevan, a student from 1974 to 1979; and Witold Manastyrski, an instructor.",
+        "Faina Petryakova, a distinguished professor and Doctor of Sciences, is recognized for her research in Ukrainian glass work, porcelain, and Judaica. Additionally, Tetiana Vytiahlovska is noted for her contributions as a textile artist and tapestry weaver."
+      ]
+    }
+  ],
+  "links_out": [
+    "galicia",
+    "ivano-frankivsk",
+    "lviv",
+    "president-of-ukraine",
+    "sevastopol",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Lviv National Academy of Arts — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lviv_National_Academy_of_Arts",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

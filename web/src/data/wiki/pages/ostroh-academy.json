@@ -1,0 +1,79 @@
+{
+  "qid": "Q43681674",
+  "slug": "ostroh-academy",
+  "title": "Ostroh Academy",
+  "type": "secondary school",
+  "category": "culture",
+  "aliases": [
+    "Ostrih Academy"
+  ],
+  "infobox": {
+    "label": "secondary school",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1576",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Polish–Lithuanian Commonwealth",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.3283, 26.5128",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Ostroh Academy, founded in 1576 by Konstanty Wasyl Ostrogski, was a significant educational institution in Ostroh, within the Polish–Lithuanian Commonwealth. Recognized as the first higher education establishment in the Eastern Slavic world, it played a crucial role in the Orthodox cultural revival known as the 'Ostroh Renaissance' and was instrumental in the publication of the Ostroh Bible in 1581.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "In the late 16th century, higher education in the Polish–Lithuanian Commonwealth was dominated by Catholic and Protestant influences, particularly following the Council of Trent (1545–63). This period marked the onset of the Counter-Reformation, prompting an Orthodox revival among the [[rusyns|Ruthenians]].",
+        "To counteract the growing influence of Jesuit schools, Konstanty Ostrogski established a school in Ostroh aimed at promoting the Eastern Christian spirit and resisting conversions to Protestantism and Catholicism. The school was first mentioned in Piotr Skarga's 1577 work."
+      ]
+    },
+    {
+      "heading": "Foundation and Development",
+      "paragraphs": [
+        "Ostroh Academy was founded between 1576 and 1580, becoming fully operational in 1585. Initially focused on translating the Bible into Old Church Slavonic, it evolved into a permanent secondary education institution, supported by a significant endowment from Princess Halszka Ostrogska in 1579.",
+        "The academy was modeled after Western European educational standards, attracting talented students and offering a curriculum that included grammar, rhetoric, dialectics, and sciences. It was the only institution at the time teaching [[ruthenian|Ruthenian]], a precursor to modern [[ukrainian|Ukrainian]] and Belarusian."
+      ]
+    },
+    {
+      "heading": "Cultural Impact",
+      "paragraphs": [
+        "Ostroh Academy became a center for Ruthenian culture and literature, producing notable alumni such as religious writer Zacharius Kopystensky and [[hetman|hetman]] Petro Konashevych-Sahaidachny. It also contributed to the establishment of Brotherhood schools for Orthodox burghers across [[ukraine|Ukraine]].",
+        "The academy's most significant achievement was the publication of the Ostroh Bible in 1581, the first complete printed Bible in a Slavic language, which had a profound impact on Orthodox scholarship and learning."
+      ]
+    },
+    {
+      "heading": "Closure and Legacy",
+      "paragraphs": [
+        "The academy was closed in 1636 due to the Catholicization efforts of Konstanty Ostrogski's descendants and the establishment of a Jesuit college in Ostroh. The closure marked the end of a significant chapter in Eastern Orthodox education.",
+        "In 1994, [[president-of-ukraine|President of Ukraine]] [[leonid-kravchuk|Leonid Kravchuk]] established the Ostroh Higher Collegium, which later evolved into the National University of Ostroh Academy, reviving the legacy of the original institution 358 years after its closure."
+      ]
+    }
+  ],
+  "links_out": [
+    "hetman",
+    "leonid-kravchuk",
+    "president-of-ukraine",
+    "rusyns",
+    "ruthenian",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ostroh Academy — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ostroh_Academy",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

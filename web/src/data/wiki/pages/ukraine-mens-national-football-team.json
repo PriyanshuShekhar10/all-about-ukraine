@@ -1,0 +1,74 @@
+{
+  "qid": "Q170403",
+  "slug": "ukraine-mens-national-football-team",
+  "title": "Ukraine men's national football team",
+  "type": "men's national association football team",
+  "category": "people",
+  "aliases": [
+    "Ukraine men's national association football team",
+    "Ukraine national association football team",
+    "Ukraine national football team"
+  ],
+  "infobox": {
+    "label": "men's national association football team",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1991",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Ukraine men's national football team represents Ukraine in international men's football and is governed by the Ukrainian Association of Football. Established after Ukraine's independence, the team has achieved significant milestones in international competitions, including reaching the quarter-finals of the FIFA World Cup and UEFA European Championship.",
+  "sections": [
+    {
+      "heading": "Formation and Early History",
+      "paragraphs": [
+        "The Ukraine national football team was officially formed in the early 1990s and quickly gained international recognition. Previously, during the era of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]], a national team existed from 1924 to 1935. The earliest recorded matches for [[ukraine|Ukraine]] date back to August 1928, when they competed in an All-Soviet tournament, reaching the final."
+      ]
+    },
+    {
+      "heading": "Official Recognition and Initial Matches",
+      "paragraphs": [
+        "Following the dissolution of the Soviet Union, Ukraine became a full member of FIFA and UEFA in 1992. The team played its inaugural match on 29 April 1992 against Hungary, losing 3–1. The first official manager was Viktor Prokopenko, who oversaw the team during its early matches."
+      ]
+    },
+    {
+      "heading": "Major Competitions and Achievements",
+      "paragraphs": [
+        "Ukraine's first significant achievement came during the 2006 FIFA World Cup, where they reached the quarter-finals, marking them as one of the few post-Soviet states to qualify for the World Cup finals. In UEFA Euro 2012, Ukraine automatically qualified as co-hosts and made its debut in the tournament, although they were eliminated in the group stage."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "In the 2010s, Ukraine continued to participate in major tournaments, including Euro 2016, where they advanced to the finals for the first time through the play-off route. The team faced challenges in subsequent World Cup qualifications, with notable performances in the 2014 and 2018 campaigns."
+      ]
+    },
+    {
+      "heading": "Current Status",
+      "paragraphs": [
+        "As of 2023, the Ukraine men's national football team remains a prominent representative of [[ukrainian|Ukrainian]] football on the international stage, with ongoing efforts to build on its historical successes and improve its competitive standing in future tournaments."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Ukraine national football team — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukraine_national_football_team",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

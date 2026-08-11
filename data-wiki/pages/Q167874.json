@@ -1,0 +1,121 @@
+{
+  "qid": "Q167874",
+  "slug": "chernihiv-oblast",
+  "title": "Chernihiv Oblast",
+  "type": "oblast of Ukraine",
+  "category": "economy",
+  "aliases": [
+    "Chernihiv Oblast (Ukraine)",
+    "Chernihivshchyna"
+  ],
+  "infobox": {
+    "label": "oblast of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1932-10-15",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Chernihiv",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "1,033,400",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "31,865",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "223",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Valeriy Kulich, Andrii Prokopenko",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "51.3400, 32.0600",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Chernihiv Oblast is a province located in northern Ukraine, with its administrative center in the city of Chernihiv. As of 2022, the oblast has a population of approximately 959,315 and encompasses an area of around 31,900 km².",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Chernihiv Oblast covers an area of about 31,900 km². It is bordered to the west by the [[kyiv|Kyiv]] Reservoir of the [[dnieper|Dnieper River]] and Kyiv Oblast, which contains an enclave named Slavutych, established for [[chernobyl-disaster|Chernobyl disaster]] survivors. To the east, it is adjacent to [[sumy-oblast|Sumy Oblast]], while [[poltava-oblast|Poltava Oblast]] lies to the south. The northern border of the oblast forms part of [[ukraine|Ukraine]]'s international boundary with Belarus's Gomel Region in the northwest and Russia's Bryansk Oblast in the northeast. The Desna River divides the oblast into northern and southern sections, flowing into the Dnieper just north of Kyiv."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Chernihiv Oblast was established on 15 October 1932 as part of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]]. The city of [[chernihiv|Chernihiv]], the capital, has been inhabited for over 2,000 years, with significant historical relevance dating back to the [[kievan-rus|Kievan Rus]]' period, where it was a major regional capital. The region has been under the control of various powers, including the Kievan Rus', Mongol Empire, Lithuania, Poland, and Russia. Notably, it was the site of the Battle of Kruty and the Koriukivka massacre. During World War II, the oblast was occupied by German forces from 1941 to 1943. In 2022, Chernihiv Oblast was one of the initial regions affected by the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], with military engagements occurring early in the conflict."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "As of 2021, the estimated population of Chernihiv Oblast is approximately 976,701. According to the 2001 [[ukrainian|Ukrainian]] census, ethnic [[ukrainians|Ukrainians]] constituted 93.5% of the population, while ethnic Russians made up 5.0%. The oblast has experienced a long-term population decline, with a 37% reduction since 1959, making it the Ukrainian oblast with the steepest decline and the lowest population density.",
+        "The native language of the oblast is Ukrainian, which is the sole official language. A 2018 poll indicated that 80% of residents supported Ukrainian as the only state language. In the 2023-2024 school year, all pupils in general secondary education were instructed in Ukrainian."
+      ]
+    },
+    {
+      "heading": "Administrative Structure",
+      "paragraphs": [
+        "Since July 2020, Chernihiv Oblast has been divided into 5 raions (districts) and includes 57 hromadas (municipalities), comprising 16 urban, 24 settlement, and 17 rural hromadas. The local administration is managed by the Chernihiv Oblast [[verkhovna-rada|Rada]], with the governor being the speaker of the Rada, appointed by the [[president-of-ukraine|President of Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Economy",
+      "paragraphs": [
+        "The economy of Chernihiv Oblast primarily revolves around the extraction of petroleum and natural gas, as well as industries such as transport, machinery, tobacco, and textiles. A significant tobacco factory is located in Pryluky, and the cities of Bakhmach and Nizhyn serve as crucial railway junctions for routes connecting Russia and Belarus to Southeast Europe. Chernihiv is also known for its machinery and electronics industries, alongside a brewery that produces 'Chernihivske' beer."
+      ]
+    },
+    {
+      "heading": "Culture and Religion",
+      "paragraphs": [
+        "The predominant religion in Chernihiv Oblast is Eastern Orthodox Christianity, with a notable portion of the population identifying as atheist. Minorities include Ukrainian Catholics, Roman Catholics, and recent Protestant converts. The oblast is rich in cultural heritage, featuring historical Orthodox churches and landmarks, such as Saint Anthony's Caves and various monasteries. Chernihiv Oblast is also recognized for its unique style of folk icon painting, which has historical significance and has been preserved in various museums."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernihiv",
+    "chernobyl-disaster",
+    "dnieper",
+    "full-scale-russo-ukrainian-war",
+    "kievan-rus",
+    "kyiv",
+    "poltava-oblast",
+    "president-of-ukraine",
+    "sumy-oblast",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainians",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Chernihiv Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chernihiv_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

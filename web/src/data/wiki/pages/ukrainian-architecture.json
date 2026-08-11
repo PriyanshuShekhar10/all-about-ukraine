@@ -20,7 +20,7 @@
     {
       "heading": "Historical Roots",
       "paragraphs": [
-        "Ukrainian architecture traces its origins to the Eastern Slavic state of [[kievan-rus|Kievan Rus]]'. Following the Mongol invasion, architectural developments continued in the principalities of Galicia–Volhynia and later in the Grand Duchy of Lithuania. During the era of the [[zaporozhian-cossacks|Zaporozhian Cossacks]], a distinctive style emerged, influenced by the Polish–Lithuanian Commonwealth."
+        "Ukrainian architecture traces its origins to the Eastern Slavic state of [[kievan-rus|Kievan Rus]]'. Following the Mongol invasion, architectural developments continued in the principalities of [[galicia|Galicia]]–Volhynia and later in the Grand Duchy of Lithuania. During the era of the [[zaporozhian-cossacks|Zaporozhian Cossacks]], a distinctive style emerged, influenced by the Polish–Lithuanian Commonwealth."
       ]
     },
     {
@@ -45,6 +45,7 @@
     }
   ],
   "links_out": [
+    "galicia",
     "kievan-rus",
     "kyiv",
     "kyiv-pechersk-lavra",

@@ -1,0 +1,93 @@
+{
+  "qid": "Q4331458",
+  "slug": "odesa-international-film-festival",
+  "title": "Odesa International Film Festival",
+  "type": "film festival",
+  "category": "people",
+  "aliases": [
+    "OIFF",
+    "Odessa International Film Festival"
+  ],
+  "infobox": {
+    "label": "film festival",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2010",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Odesa",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "46.5000, 30.7000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Odesa International Film Festival is an annual film festival held in Odesa, Ukraine, each July since its inception in 2010. It features a variety of competitions and programs showcasing both international and national films, emphasizing the festival's significance in promoting Ukrainian cinema.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Odesa International Film Festival ([[ukrainian|Ukrainian]]: Оде́ський міжнаро́дний кінофестива́ль) is an annual film festival taking place in mid-July in [[odesa|Odesa, Ukraine]]. Since 2016, the festival has included three main components: the International competition, the National competition, and the European Documentary competition, with the National competition further divided into Features and Shorts."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The inaugural Odesa International Film Festival was conducted from July 16 to 24 in 2010, featuring a competitive program that showcased 16 feature films among over 100 total films presented. Initially, the 'Rodina' cinema served as the primary venue for the first two years, while the Festival Palace of Odesa Theater of Musical Comedy, with a capacity of 1,260 seats, became the main location starting in 2012. The Odesa Opera and Ballet Theatre, a renowned architectural landmark, hosts the festival's opening and closing ceremonies.",
+        "The festival has evolved to include multiple venues, such as the Festival Palace, the Festival Center at the Rodina cinema, and the Stella Artois Green Theater, with the Multiplex cinema joining as a venue in 2019. The festival's top award, 'The Golden Duke,' was created by Odesa sculptor Mykhailo Reva and has been awarded based on audience votes since 2012."
+      ]
+    },
+    {
+      "heading": "Competitions and Awards",
+      "paragraphs": [
+        "The festival features three competition programs: the International Feature Film Competition, the National Competition, and the European Documentary Film Competition. Films selected for the European Documentary Competition must be feature-length documentaries produced in collaboration with various countries, including [[ukraine|Ukraine]].",
+        "The National Competition showcases Ukrainian films completed after January 1 of the previous year. The festival's jury, composed of international film and cultural figures, evaluates the competition entries and awards prizes for categories such as Best Feature Film, Best Director, and Best Acting. The audience also plays a significant role in determining the Grand Prix winner."
+      ]
+    },
+    {
+      "heading": "Educational Initiatives",
+      "paragraphs": [
+        "The Odesa International Film Festival has developed a film school that offers masterclasses and workshops for students and film enthusiasts. Educational initiatives have included the 'Script Workshop' and the School of Film Critics, aimed at nurturing talent in the film industry. The festival also hosts pitching sessions and film markets to support emerging filmmakers."
+      ]
+    },
+    {
+      "heading": "Impact of the Russo-Ukrainian War",
+      "paragraphs": [
+        "Due to the ongoing [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]], the festival has adapted by hosting parts of its events in other countries, such as the Karlovy Vary International Film Festival in 2022 and the Prishtina Film Fest in Kosovo. In 2023, the festival was relocated to [[chernivtsi|Chernivtsi]], highlighting its resilience and commitment to continuing the celebration of cinema amidst challenging circumstances."
+      ]
+    },
+    {
+      "heading": "Management",
+      "paragraphs": [
+        "As of 2019, the festival's management includes Viktoria Tigipko as President, Yuliia Sinkevych as General Producer, Yuliia Sharko as Administrative Director, Anna Machukh as Business Development Director, and Oleksandr Kholodenko as Executive Director."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernivtsi",
+    "full-scale-russo-ukrainian-war",
+    "odesa",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Odesa International Film Festival — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Odesa_International_Film_Festival",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

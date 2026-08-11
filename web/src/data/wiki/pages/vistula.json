@@ -1,0 +1,77 @@
+{
+  "qid": "Q548",
+  "slug": "vistula",
+  "title": "Vistula",
+  "type": "river",
+  "category": "geography",
+  "aliases": [
+    "Visla",
+    "Weichsel",
+    "Wisla",
+    "Wisła"
+  ],
+  "infobox": {
+    "label": "river",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Poland",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.6058, 19.0036",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Vistula is the longest river in Poland and the primary river draining into the Baltic Sea, measuring 1,047 kilometers (651 miles) in length. Its significance extends beyond Poland, impacting neighboring countries and playing a vital role in the cultural and historical identity of the region, including [[ukraine|Ukraine]].",
+  "sections": [
+    {
+      "heading": "Geographical Overview",
+      "paragraphs": [
+        "The Vistula River originates in the Silesian Beskids at Barania Góra, rising to 1,220 meters (4,000 ft) above sea level. It flows through key Polish cities such as Kraków, Warsaw, and Gdańsk before emptying into the Vistula Lagoon or directly into the Gdańsk Bay of the Baltic Sea.",
+        "The river basin spans 193,960 km2 (74,890 sq mi), with 168,868 km2 (65,200 sq mi) located within Poland. The basin's average altitude is 270 meters (886 feet) and features a notable asymmetry in its drainage."
+      ]
+    },
+    {
+      "heading": "Cultural and Historical Significance",
+      "paragraphs": [
+        "The Vistula is deeply intertwined with Polish culture and identity, serving as a natural symbol of the nation. The phrase 'Land on the Vistula' (kraj nad Wisłą) is often synonymous with Poland.",
+        "Historically, the river has been significant for various peoples, including the Baltic and German (Prussian) communities, influencing trade and cultural exchange in the region."
+      ]
+    },
+    {
+      "heading": "Etymology and Historical References",
+      "paragraphs": [
+        "The earliest known reference to the Vistula dates back to AD 40 by Pomponius Mela, with subsequent mentions by Pliny in AD 77 and Ptolemy using the Greek spelling 'Ouistoula'. Various names have been attributed to the river in different languages, including Weichsel in German and Visla in Russian."
+      ]
+    },
+    {
+      "heading": "Geological History",
+      "paragraphs": [
+        "The Vistula's geological history spans over 2 million years, shaped by multiple glaciations during the Quaternary period. The river's current form was established approximately 14,000 years ago following the retreat of the Scandinavian ice sheet.",
+        "The Vistula basin is a convergence point for three major geographical and geological regions of Europe, including the Eastern European Plain and the [[carpathians|Carpathian mountains]], which contribute to its ecological diversity."
+      ]
+    },
+    {
+      "heading": "Flooding and Environmental Concerns",
+      "paragraphs": [
+        "The Vistula has experienced significant flooding events throughout history, often leading to depopulation and resettlement in affected areas. Recent studies indicate that climate change may threaten the Vistula Delta region with increased flooding by 2100 due to rising sea levels."
+      ]
+    }
+  ],
+  "links_out": [
+    "carpathians",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Vistula — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vistula",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

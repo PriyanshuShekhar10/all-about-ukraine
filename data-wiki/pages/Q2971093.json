@@ -1,0 +1,72 @@
+{
+  "qid": "Q2971093",
+  "slug": "zolochiv-castle",
+  "title": "Zolochiv Castle",
+  "type": "castle",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "castle",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.8020, 24.9062",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Zolochiv Castle, located in Zolochiv, Lviv Oblast, Ukraine, is a historic residence originally built for the Sobieski noble family in the 17th century. The castle is notable for its architectural style and historical significance, including its use during various military conflicts and its transformation over the centuries.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Zolochiv Castle, known in [[ukrainian|Ukrainian]] as Золочівський замок (Zolochivs'kyi zamok), was constructed between 1634 and 1636 by Jakub Sobieski. It is situated on a hill at the confluence of two small rivers in the southeastern part of Zolochiv, [[galicia|Galicia]], which is now part of [[ukraine|Ukraine]]'s [[lviv-oblast|Lviv Oblast]]."
+      ]
+    },
+    {
+      "heading": "Architectural Features",
+      "paragraphs": [
+        "The castle is characterized by its rectangular fort design, featuring solid walls in the Dutch style of the time. It includes four pentagonal towers at each corner and a central structure known as the 'grand palace'. Additionally, a smaller structure called the Chinese Palace was added later in the century as a gift from King John III Sobieski to his wife, Queen Marie."
+      ]
+    },
+    {
+      "heading": "Military History",
+      "paragraphs": [
+        "In 1672, Zolochiv Castle was captured after a six-day siege by the Turks under Kapudan Pasa. It withstood another siege by the Ottoman army three years later. Following the death of Jakub Ludwik Sobieski in 1737, the castle was inherited by the Radziwiłł princely family and later passed to Count Łukasz Komarnicki-Pawlikowicz in 1801, whose heirs sold it to the Austrian crown in 1834."
+      ]
+    },
+    {
+      "heading": "Later Uses and Commemoration",
+      "paragraphs": [
+        "During the 19th century, the castle was repurposed as a hospital and barracks, and it became a prison in 1872, remaining in use after the September Campaign. A chapel on the grounds commemorates the victims of the NKVD. Additionally, thousands of Jewish individuals from Zolochiv were tragically killed by German forces during the onset of Operation Barbarossa."
+      ]
+    },
+    {
+      "heading": "Restoration and Current Status",
+      "paragraphs": [
+        "Since 1985, Zolochiv Castle has been managed by the [[borys-voznytskyi-lviv-national-art-gallery|Lviv Art Gallery]] and is currently undergoing restoration. The site has recently begun to welcome visitors, showcasing exhibits that include over 25 European coats of arms, dinosaur bone chandeliers, and a replica of a royal crown from the 13th century, reminiscent of that belonging to Daniel of Galicia."
+      ]
+    }
+  ],
+  "links_out": [
+    "borys-voznytskyi-lviv-national-art-gallery",
+    "galicia",
+    "lviv-oblast",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Zolochiv Castle — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zolochiv_Castle",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

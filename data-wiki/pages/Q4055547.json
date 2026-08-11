@@ -1,0 +1,82 @@
+{
+  "qid": "Q4055547",
+  "slug": "avdeyevka-coke-and-chemical-plant",
+  "title": "Avdeyevka Coke and Chemical Plant",
+  "type": "business",
+  "category": "economy",
+  "aliases": [
+    "Avdiivka Coke Plant"
+  ],
+  "infobox": {
+    "label": "business",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1963",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Avdiivka",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Avdiivka Coke and Chemical Plant, located in Donetsk Oblast, Ukraine, was the largest producer of coke in the country and a significant player in the European market. Owned by Metinvest, the plant faced severe destruction during the ongoing conflict in Ukraine, particularly during the Russian offensive in late 2023 and early 2024.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Avdiivka Coke and Chemical Plant ([[ukrainian|Ukrainian]]: Авдіївський коксохімічний завод, romanized: Avdiivskyi koksokhimichnyi zavod, AKHZ) was established in 1963 by the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]] to meet the coke requirements of the nearby [[mariupol|Mariupol]] Steel Works. The plant was owned by [[metinvest|Metinvest]], a company controlled by Ukrainian oligarch Rinat Akhmetov.",
+        "In addition to coke, the plant produced various chemicals, including benzine, coal tar, coal oil ammonium sulphate, and coke gas. It comprised 13 main workshops, 30 auxiliary workshops, and several service structural divisions."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The plant originally opened with a single coke battery, which expanded to nine by 1980, benefiting from investments by the Soviet Union. By 1988, it had produced 100 million tons of coke, establishing itself as a major producer in Europe. Following [[ukraine|Ukraine]]'s independence in 1993, it was privatized and became the Open Joint Stock Company 'Avdeevskiy Coke-processing Works'.",
+        "In 2014, the plant was affected by the conflict in [[donetsk-oblast|Donetsk Oblast]], with significant damage occurring during fighting between Ukrainian forces and Russian separatists. The plant ceased operations on 17 August 2014 due to escalating violence."
+      ]
+    },
+    {
+      "heading": "Impact of Conflict",
+      "paragraphs": [
+        "After being recaptured by Ukrainian forces, the plant resumed production at one-third of its capacity, operating from a Soviet-era bunker to avoid shelling. However, it continued to suffer from ongoing conflict, including heavy shelling during the Battle of Avdiivka in January 2017, which caused further damage.",
+        "In 2022, during the full-scale Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], the plant was repeatedly shelled, leading to its conservation in May 2023 and eventual abandonment in November 2023. The situation escalated with intense fighting during the Battle of Avdiivka (2023–2024), culminating in a complete withdrawal of Ukrainian forces on 17 February 2024."
+      ]
+    },
+    {
+      "heading": "Production Capacity",
+      "paragraphs": [
+        "Before the onset of the [[donbas|Donbas]] conflict, the plant produced 12,000 tons of coke daily, valued at $2.4 million. This output significantly decreased due to the war, with Avdiivka Coke being one of the top five coke producers in Europe and the largest in Ukraine.",
+        "The plant produced approximately 40 different products, contributing over 20% of Ukraine's gross coke output. It supplied coke to major steel producers, including Azovstal, Yenakiieve Steel, and Ilyich Steel, as well as external customers like ArcelorMittal in [[kryvyi-rih|Kryvyi Rih]].",
+        "Prior to its destruction, the facility had received substantial investments in environmental technologies aimed at reducing emissions and energy consumption, highlighting its importance to the steel production sector in Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "donbas",
+    "donetsk-oblast",
+    "full-scale-russo-ukrainian-war",
+    "kryvyi-rih",
+    "mariupol",
+    "metinvest",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Avdiivka Coke Plant — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Avdiivka_Coke_Plant",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

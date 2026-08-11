@@ -1,0 +1,94 @@
+{
+  "qid": "Q55198",
+  "slug": "oleksandr-dovzhenko",
+  "title": "Oleksandr Dovzhenko",
+  "type": "human",
+  "category": "politics",
+  "aliases": [
+    "Alexander Petrovich Dovzhenko",
+    "Oleksandr Petrovych Dovzhenko"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1894-08-29",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1956-11-25",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Sosnytsia",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Oleksandr Dovzhenko was a prominent Soviet film director and screenwriter of Ukrainian descent, recognized as a key figure in early Soviet cinema and a pioneer of montage theory. His works, particularly the 'Ukraine Trilogy,' reflect the cultural and historical narratives of Ukraine during the early 20th century.",
+  "sections": [
+    {
+      "heading": "Biography",
+      "paragraphs": [
+        "Oleksandr Petrovich Dovzhenko, born on September 10, 1894, in the hamlet of Viunyshche in the [[chernihiv|Chernihiv]] Governorate of the Russian Empire (now part of Sosnytsia in [[chernihiv-oblast|Chernihiv Oblast]], [[ukraine|Ukraine]]), was the son of Petro Semenovych Dovzhenko and Odarka Yermolayivna Dovzhenko. He was the seventh of fourteen children, but only he and his sister Polina survived to adulthood. Despite his parents' lack of formal education, Dovzhenko's grandfather encouraged his studies, leading him to become a teacher at the age of 19. He avoided military service during World War I due to a heart condition and may have served briefly during the Civil War with the [[ukrainian-peoples-republic|Ukrainian People's Republic]].",
+        "In November 1918, while studying at the [[kyiv|Kyiv]] Commercial Institute, Dovzhenko participated in a demonstration against student mobilization, which resulted in several deaths. Following the Anti-[[hetman|hetman]] revolt, he represented [[ukrainian|Ukrainian]] workers during the entry of Directorate troops into Kyiv on December 19, 1918. After being imprisoned in 1919 on suspicion of espionage, he was released later that year and began teaching in the Red Army's officers' school. Dovzhenko joined the Borotbist party in 1920 and worked in Warsaw and Berlin before returning to the USSR in 1923, where he began his artistic career in [[kharkiv-oblast|Kharkiv]]."
+      ]
+    },
+    {
+      "heading": "Ukraine Trilogy",
+      "paragraphs": [
+        "Dovzhenko's most notable works include the 'Ukraine Trilogy,' consisting of Zvenigora, Arsenal, and Earth, produced during the New Economic Policy and the 'korenizatsiya' period, which fostered a revival of Ukrainian culture within the Soviet Union.",
+        "Zvenigora, the first film in the trilogy, presents a sweeping view of [[history-of-ukraine|Ukrainian history]], highlighting various peoples and cultures while questioning concepts of time and space. The film incorporates themes of victory over nature and the subjugation of individuality to collectivism.",
+        "Arsenal, released in 1928, depicts the Kyiv Arsenal Uprising from a unique perspective, reflecting Dovzhenko's earlier support for the Ukrainian People's Republic. Although it faced criticism from communist authorities, it gained favor with [[donetsk|Stalin]].",
+        "Earth, acclaimed as one of the greatest silent films, portrays the collectivization process positively. Despite its initial praise, it was criticized by Soviet authorities for perceived ideological shortcomings, leading to its removal from cinema schedules shortly after its premiere on April 8, 1930."
+      ]
+    },
+    {
+      "heading": "Appeal to Stalin",
+      "paragraphs": [
+        "Dovzhenko's subsequent film, Ivan, faced harsh criticism for its themes, prompting him to appeal directly to Stalin. Following this, he presented his next project, Aerograd, which was approved by Stalin, along with a suggestion to create a dramatized biography of Ukrainian guerrilla fighter Mykola Shchors.",
+        "During a major festival celebrating the Soviet film industry's anniversary in January 1935, Dovzhenko humorously criticized fellow director Sergei Eisenstein, which earned him the Order of Lenin from Stalin. However, he faced challenges with the script for Shchors, which was deemed politically flawed, leading to a strained relationship with the authorities."
+      ]
+    },
+    {
+      "heading": "Work for Soviet Propaganda",
+      "paragraphs": [
+        "Dovzhenko completed Aerograd in 1935 and began work on Shchors, navigating the complexities of Stalin's expectations. The film was released in January 1939, earning him significant recognition.",
+        "After the Soviet occupation of [[western-ukraine|Western Ukraine]] in 1939, Dovzhenko documented the 'liberation' of the region, participating in a People's Congress that legitimized the annexation. His documentary, Liberation, premiered in 1940, reflecting his involvement in Soviet propaganda efforts."
+      ]
+    },
+    {
+      "heading": "World War II and Later Works",
+      "paragraphs": [
+        "During World War II, Dovzhenko served as a war correspondent, capturing the struggles of [[ukrainians|Ukrainians]] under Nazi occupation. He resolved to honor their suffering through his art, leading to his writings on wartime experiences, including the film novel Ukraine in Flames.",
+        "Despite receiving accolades from figures like Nikita Khrushchev, Ukraine in Flames faced denunciation for its perceived nationalistic sentiments, illustrating the complex interplay between Dovzhenko's artistic vision and the political climate of the time."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernihiv",
+    "chernihiv-oblast",
+    "donetsk",
+    "hetman",
+    "history-of-ukraine",
+    "kharkiv-oblast",
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "ukrainians",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Alexander Dovzhenko — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Dovzhenko",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

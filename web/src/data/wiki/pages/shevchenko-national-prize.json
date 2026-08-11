@@ -1,0 +1,79 @@
+{
+  "qid": "Q2473104",
+  "slug": "shevchenko-national-prize",
+  "title": "Shevchenko National Prize",
+  "type": "state decoration",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "state decoration",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1961-05-20",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Shevchenko National Prize is the highest state award in Ukraine for achievements in culture and arts, established in 1961 and named after the influential Ukrainian poet Taras Shevchenko. It recognizes outstanding contributions across various artistic fields, reflecting the nation's cultural heritage.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The Shevchenko National Prize was established on May 20, 1961, by the Council of Ministers of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]], coinciding with the centenary of [[taras-shevchenko|Taras Shevchenko]]'s death. It aimed to honor Shevchenko's legacy and was part of broader commemorative events across the Soviet Union.",
+        "Initially named the Shevchenko Republican Prize, it was awarded to notable figures in literature, arts, music, theater, and architecture. The first recipients were announced on March 9, 1962, including [[pavlo-tychyna|Pavlo Tychyna]] and Oleksandr Honchar in literature, and Platon Mayboroda in music.",
+        "In 1969, the award was renamed the Shevchenko State Prize of the Ukrainian SSR, and following [[ukraine|Ukraine]]'s independence in 1992, it was reestablished as the State Prize of Ukraine named after Taras Shevchenko."
+      ]
+    },
+    {
+      "heading": "Modern Developments",
+      "paragraphs": [
+        "In September 1999, the [[president-of-ukraine|President of Ukraine]] approved the establishment of the Committee and Regulations for the National Prize, leading to its current designation as the Shevchenko National Prize. Since then, it has been awarded annually by presidential decree.",
+        "From 1962 to 2018, the prize has recognized 648 individuals and eight collective ensembles for their contributions to [[ukrainian|Ukrainian]] culture."
+      ]
+    },
+    {
+      "heading": "Award Structure",
+      "paragraphs": [
+        "The Shevchenko National Prize is awarded annually in up to five categories: Literature (fiction and non-fiction), Journalism, Performing Arts, and Other Arts. A special committee oversees the nomination process, which includes three stages before candidates are submitted to the State Committee of Awards and Heraldry for presidential approval.",
+        "The monetary award varies annually, with the prize amount for 2009 set at ₴160,000 per laureate, compared to ₴130,000 in 2008."
+      ]
+    },
+    {
+      "heading": "Eligibility and Nominations",
+      "paragraphs": [
+        "Nominations for the prize can be submitted by various cultural institutions, including the Ministry of Culture and Tourism of Ukraine and the Ukrainian National Academy of Sciences. Both Ukrainian citizens and foreigners are eligible for the award.",
+        "Works can be nominated for a second time if they reach the third stage but are limited to two nominations. The committee accepts submissions from August 1 to November 1 each year."
+      ]
+    },
+    {
+      "heading": "Notable Winners and Discontinued Categories",
+      "paragraphs": [
+        "Throughout its history, the Shevchenko National Prize has recognized significant contributions in various fields, including literature, music, and architecture. Prior to the establishment of the Dovzhenko State Prize in 1994, it also awarded achievements in cinematography.",
+        "In addition, the prize has occasionally been awarded for political reasons, such as to Nikita Khrushchev in 1964."
+      ]
+    }
+  ],
+  "links_out": [
+    "pavlo-tychyna",
+    "president-of-ukraine",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Shevchenko National Prize — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shevchenko_National_Prize",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

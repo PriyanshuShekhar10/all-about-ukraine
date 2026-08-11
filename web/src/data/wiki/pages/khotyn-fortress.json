@@ -1,0 +1,86 @@
+{
+  "qid": "Q141012",
+  "slug": "khotyn-fortress",
+  "title": "Khotyn Fortress",
+  "type": "fortress",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "fortress",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1325",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Austrian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.5219, 26.4983",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Khotyn Fortress is a significant fortification complex situated on the right bank of the Dniester River in Khotyn, Chernivtsi Oblast, Ukraine. Its historical relevance is underscored by its strategic location and extensive history, which includes periods of control by various powers, including Kievan Rus', Moldavia, the Ottoman Empire, and the Polish-Lithuanian Commonwealth.",
+  "sections": [
+    {
+      "heading": "Geographical and Historical Context",
+      "paragraphs": [
+        "Khotyn Fortress is located in southwestern [[ukraine|Ukraine]], specifically in [[chernivtsi-oblast|Chernivtsi Oblast]], on the right bank of the [[dniester|Dniester]] River. It is situated within the historical region of northern Bessarabia, an area that was formerly part of Romania until it was occupied by the Soviet Union in 1940 following the Molotov–Ribbentrop Pact. The fortress is in proximity to the notable Kamianets-Podilskyi Castle."
+      ]
+    },
+    {
+      "heading": "Early History",
+      "paragraphs": [
+        "The origins of Khotyn Fortress trace back to the [[khotyn|Khotyn]] Fort, established in the 10th century by Prince [[vladimir-the-great|Vladimir the Great]] as a border fortification for southwestern [[kievan-rus|Kievan Rus]]'. This fort was strategically placed on vital trade routes connecting Scandinavia and [[kyiv|Kyiv]] with the Black Sea through Moldavia and Wallachia. Initially constructed as a wooden fort, it underwent numerous reconstructions over the centuries, reflecting the changing powers in the region.",
+        "By the late 11th century, the fortress was under the control of the Principality of Terebovlia, later becoming part of the Principality of [[halych|Halych]] in the 1140s and the [[kingdom-of-galiciavolhynia|Kingdom of Galicia–Volhynia]] by 1199."
+      ]
+    },
+    {
+      "heading": "Reconstruction and Fortification",
+      "paragraphs": [
+        "Between 1250 and 1264, significant fortifications were added by Prince Danylo of Halych and his son Lev, including a stone wall and a moat. The fortress was later captured by Moldavian prince Dragoș in the 1340s and became part of Moldavia after 1375. Under Moldavian rulers Alexander the Good and Stephen the Great, the fortress was extensively renovated, leading to its current structure with thick stone walls and multiple towers.",
+        "The fortress played a crucial role in military conflicts, successfully resisting an attack from Sultan Mehmed II's forces in 1476. It changed hands multiple times between the Polish-Lithuanian Commonwealth and the Ottoman Empire throughout the 16th and 17th centuries."
+      ]
+    },
+    {
+      "heading": "19th Century to Modern Era",
+      "paragraphs": [
+        "Following the Russo-Turkish War (1806-1812), Khotyn became a permanent part of Russia and was designated as a district center in Bessarabia. The fortress suffered significant damage during the retreat of Turkish forces. In 1856, it ceased to function as a military fortification.",
+        "The 20th century saw Khotyn undergo political changes, including the establishment of the Moldovan Democratic Republic and subsequent incorporation into Romania. Following World War II, Khotyn was integrated into the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]]. In 2000, the Khotyn Fortress State Historical and Architectural Reserve was established to preserve its historical significance."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Khotyn Fortress has been featured in numerous films, often representing various castles in historical narratives. It is also surrounded by legends, including tales of tragic events that supposedly left marks on its walls.",
+        "Today, Khotyn is recognized as a significant industrial, tourist, and cultural center within Chernivtsi Oblast, celebrating its rich history and heritage."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernivtsi-oblast",
+    "dniester",
+    "halych",
+    "khotyn",
+    "kievan-rus",
+    "kingdom-of-galiciavolhynia",
+    "kyiv",
+    "ukraine",
+    "ukrainian-soviet-socialist-republic",
+    "vladimir-the-great"
+  ],
+  "sources": [
+    {
+      "title": "Khotyn Fortress — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Khotyn_Fortress",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

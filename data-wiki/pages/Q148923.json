@@ -1,0 +1,106 @@
+{
+  "qid": "Q148923",
+  "slug": "borshchiv",
+  "title": "Borshchiv",
+  "type": "city in Ukraine",
+  "category": "economy",
+  "aliases": [
+    "Borschtschiw",
+    "Borsciv",
+    "Borsciva",
+    "Borscivas",
+    "Borshchev",
+    "Borshchov",
+    "Borshchëv",
+    "Borshtchev",
+    "Borshtshev",
+    "Borsjtsjiv",
+    "Borsjtsjov",
+    "Borszczow",
+    "Borszczów",
+    "Borşçiv",
+    "Borščiva",
+    "Borščivas",
+    "Borșciv"
+  ],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1456",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Austrian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "10,803",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "3",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "237",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.8024, 26.0400",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Borshchiv is a city located in Chortkiv Raion, Ternopil Oblast, in [[western-ukraine|western Ukraine]], with a population of approximately 10,632 as of 2022. It has a rich historical background, having served various administrative roles and experienced significant events throughout its history.",
+  "sections": [
+    {
+      "heading": "Historical Overview",
+      "paragraphs": [
+        "Borshchiv has been documented since 1456 as the manor of the Dudinski family. In 1629, while under the Kingdom of Poland, it received a Magdeburg charter and adopted a coat of arms associated with the House of Vasa. The city was under Ottoman control from 1672 to 1683 and nominally until 1699, before being returned to Poland after the Treaty of Karlowitz. Following the First Partition of Poland in 1772, Borshchiv became part of the Habsburg Empire and was briefly controlled by the Russian Empire from 1809 to 1815.",
+        "In the 20th century, Borshchiv was occupied by Russian forces between 1914 and 1917, and from 1919 until September 1945, it was part of Poland. The proximity to the Polish-Soviet border led to the stationing of a Border Protection Corps Battalion in the city. During World War II, Borshchiv was occupied by the Soviet Union in September 1939, and later by Axis troops in July 1941, during which time significant atrocities against the Jewish population occurred.",
+        "After World War II, on August 16, 1945, Borshchiv was incorporated into the USSR, resulting in the forced relocation of the Polish majority. By 1968, the population was recorded at 8,600, with various factories operating in the city. In January 1989, the population increased to 11,306."
+      ]
+    },
+    {
+      "heading": "Administrative Changes",
+      "paragraphs": [
+        "Until July 18, 2020, Borshchiv was the administrative center of Borshchiv Raion. The administrative reform in [[ukraine|Ukraine]] that took place in July 2020 led to the abolition of the raion, merging its area into Chortkiv Raion, which reduced the number of raions in [[ternopil-oblast|Ternopil Oblast]] to three."
+      ]
+    },
+    {
+      "heading": "Geography and Geology",
+      "paragraphs": [
+        "Borshchiv is notable for the Borshov Horizon, a geological layer of marl and limestone from the lowermost Devonian period. This layer is found in the Upper [[dniester|Dniester]] valleys near Borshchiv, characterized by the presence of microscopic Margachitina chitinozoans, trilobites, and bryozoa. According to Pushkin, Bryozoa were the predominant life form in the shallow lagoons that shaped the Borschovian plains."
+      ]
+    },
+    {
+      "heading": "Cultural and Historical Significance",
+      "paragraphs": [
+        "Borshchiv is home to several notable individuals, including Bolesław Bronisław Duch, a Polish Major General, and Artur Dumanyuk, a [[ukrainian|Ukrainian]] professional footballer. Other significant figures include Oleksii Hunovskyi, a Ukrainian Greek Catholic priest and political figure, and Bohdan Sehin, a Ukrainian composer."
+      ]
+    }
+  ],
+  "links_out": [
+    "dniester",
+    "ternopil-oblast",
+    "ukraine",
+    "ukrainian",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Borshchiv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Borshchiv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

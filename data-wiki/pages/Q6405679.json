@@ -1,0 +1,73 @@
+{
+  "qid": "Q6405679",
+  "slug": "national-ballet-of-ukraine",
+  "title": "National Ballet of Ukraine",
+  "type": "ballet company",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "ballet company",
+    "fields": []
+  },
+  "summary": "The National Ballet of Ukraine, associated with the [[taras-shevchenko|Taras Shevchenko]] National Opera of Ukraine, is a prominent ballet company known for its classical performances and international tours. With a repertory of 24 ballets, it is one of the largest ballet companies globally and has a rich history intertwined with Ukraine's cultural development.",
+  "sections": [
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "The [[national-opera-of-ukraine|National Opera of Ukraine]] was founded in 1867, initially featuring a small ballet troupe that performed folk-style dances during opera shows. By 1893, this troupe expanded to stage full ballets, including productions based on [[ukrainian-folklore|Ukrainian folklore]].",
+        "In the 1910s, [[kyiv|Kyiv]] experienced significant advancements in classical ballet and contemporary dance, influenced by figures like Mikhail Mordkin and Bronislava Nijinska, who introduced modernist techniques and training in the city."
+      ]
+    },
+    {
+      "heading": "Achievements and Tours",
+      "paragraphs": [
+        "The National Ballet of Ukraine premiered its first full symphonic [[ukrainian|Ukrainian]] ballet, Mr. Kanyovsky, on October 18, 1931. The company gained international recognition, winning the gold medal at the London International Folklore Dance Festival in 1935 and the Étoile d'Or at the 1964 International Dance Festival in Paris.",
+        "International tours began in the 1950s, with performances in various countries, including Bulgaria, Yugoslavia, and France, establishing the company as a significant cultural ambassador for [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Modern Era",
+      "paragraphs": [
+        "Post-independence in 1990, the National Ballet of Ukraine expanded its international touring, performing across North America, Europe, and Asia. Under the direction of choreographer Anatoly Shekera from 1992 to 2000, the company flourished, currently employing around 150 dancers and staging numerous productions monthly in Kyiv.",
+        "Notable current members include Natalia Matsak, Sergii Kryvoken, and Kateryna Kukhar, while former members have included internationally acclaimed dancers such as Alina Cojocaru and Svetlana Zakharova."
+      ]
+    },
+    {
+      "heading": "Community Engagement and Recent Performances",
+      "paragraphs": [
+        "In 2022, the National Ballet of Ukraine participated in the Ukraine Ballet Benefit in Orlando, Florida, raising over $800,000 for humanitarian efforts in Ukraine amidst the ongoing conflict. This performance was broadcasted, reaching millions and emphasizing the resilience of Ukrainian culture.",
+        "The company is set to tour North America in 2024, showcasing Ukrainian culture through performances titled 'Nadiya Ukraine', which translates to 'Hope'. This tour will include multiple cities across Canada and the eastern United States."
+      ]
+    },
+    {
+      "heading": "Cultural Impact",
+      "paragraphs": [
+        "The Kyiv State Choreographic College, founded in 1949, is recognized as one of the leading ballet schools in the post-Soviet region, contributing significantly to the training of dancers for the National Ballet of Ukraine. The school has roots dating back to 1934 and has been influential in shaping the country's ballet culture."
+      ]
+    },
+    {
+      "heading": "Response to Current Events",
+      "paragraphs": [
+        "Following the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], the National Ballet of Ukraine announced a boycott of works by Russian composer Tchaikovsky, focusing instead on performances by international composers. The company has also addressed issues regarding misrepresentation by other ballet troupes touring Europe."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "kyiv",
+    "national-opera-of-ukraine",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-folklore"
+  ],
+  "sources": [
+    {
+      "title": "National Ballet of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_Ballet_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

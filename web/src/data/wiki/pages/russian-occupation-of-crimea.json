@@ -1,0 +1,76 @@
+{
+  "qid": "Q15859754",
+  "slug": "russian-occupation-of-crimea",
+  "title": "Russian occupation of Crimea",
+  "type": "military occupation",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "military occupation",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Russia",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Crimea",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The Russian occupation of Crimea, which began in 2014, has significant implications for Ukraine's territorial integrity and international relations. Following the military intervention by Russia, Crimea was annexed, a move that remains unrecognized by Ukraine and the majority of the global community.",
+  "sections": [
+    {
+      "heading": "Background and Initiation",
+      "paragraphs": [
+        "The occupation of the [[crimea|Crimean Peninsula]] commenced in 2014, coinciding with [[ukraine|Ukraine]]'s [[revolution-of-dignity|Revolution of Dignity]], which resulted in the removal of pro-Russian president [[viktor-yanukovych|Viktor Yanukovych]]. On 27 February 2014, Russian soldiers in unmarked uniforms were deployed to Crimea, marking the beginning of the [[full-scale-russo-ukrainian-war|Russo-Ukrainian war]]."
+      ]
+    },
+    {
+      "heading": "Military Occupation",
+      "paragraphs": [
+        "The military takeover began on 27 February 2014 when Russian special forces, referred to as 'little green men', seized control of key government buildings in Crimea. They raised Russian flags and established military checkpoints, effectively isolating Crimea from Ukraine. The Crimean parliament, under duress, voted to dismiss the local government and scheduled a referendum on the region's status."
+      ]
+    },
+    {
+      "heading": "Annexation and International Response",
+      "paragraphs": [
+        "On 18 March 2014, Russia formally annexed Crimea, reorganizing it as a Russian republic and designating [[sevastopol|Sevastopol]] as a federal city. The annexation was met with widespread condemnation, as the United Nations General Assembly adopted a resolution affirming Ukraine's territorial integrity and recognizing Crimea as occupied territory."
+      ]
+    },
+    {
+      "heading": "Human Rights Violations",
+      "paragraphs": [
+        "The United Nations Human Rights Office reported serious human rights violations in Crimea under Russian occupation, including restrictions on freedom of speech, assembly, and religion. Ethnic [[ukrainians|Ukrainians]] and [[crimean-tatar|Crimean Tatar]] Muslims faced discrimination, while residents who rejected Russian citizenship lost their rights to live and work in the region."
+      ]
+    },
+    {
+      "heading": "Ongoing Conflict and Strategic Importance",
+      "paragraphs": [
+        "Since the onset of the Russian invasion of mainland Ukraine in February 2022, Crimea has been utilized as a strategic base for military operations against Ukraine. The [[ukrainian|Ukrainian]] military has conducted operations targeting Russian forces in Crimea, with Ukraine's stated goal being the liberation of the territory."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "crimean-tatar",
+    "full-scale-russo-ukrainian-war",
+    "revolution-of-dignity",
+    "sevastopol",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "viktor-yanukovych"
+  ],
+  "sources": [
+    {
+      "title": "Russian occupation of Crimea — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Russian_occupation_of_Crimea",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

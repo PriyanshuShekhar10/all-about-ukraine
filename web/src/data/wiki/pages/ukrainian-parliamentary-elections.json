@@ -1,0 +1,55 @@
+{
+  "qid": "Q1095587",
+  "slug": "ukrainian-parliamentary-elections",
+  "title": "Ukrainian parliamentary elections",
+  "type": "Wikimedia disambiguation page",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "Ukrainian parliamentary elections are held to establish the membership of the Verkhovna Rada for a five-year term, reflecting the political landscape of Ukraine.",
+  "sections": [
+    {
+      "heading": "Overview of Parliamentary Elections",
+      "paragraphs": [
+        "Ukrainian parliamentary elections play a crucial role in shaping the legislative body known as the [[verkhovna-rada|Verkhovna Rada]], which serves as the highest representative authority in [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The history of parliamentary [[elections-in-ukraine|elections in Ukraine]] dates back to the early 20th century, with significant elections including the 1918 [[ukrainian|Ukrainian]] Constituent Assembly election and various elections for the Ukrainian Supreme Soviet from 1938 to 1985.",
+        "The transition to a more democratic electoral process began with the parliamentary elections in 1990, leading to subsequent elections in 1994, 1998, 2002, and beyond."
+      ]
+    },
+    {
+      "heading": "List of Notable Elections",
+      "paragraphs": [
+        "Key elections include the 1994 Ukrainian parliamentary election, the 2006 and 2007 parliamentary elections, the 2012 election, the 2014 election amid political upheaval, and the 2019 parliamentary election, each reflecting the evolving political dynamics in Ukraine."
+      ]
+    },
+    {
+      "heading": "Future Elections",
+      "paragraphs": [
+        "The next Ukrainian parliamentary election is anticipated to continue the tradition of shaping the country's legislative framework and addressing contemporary political challenges."
+      ]
+    }
+  ],
+  "links_out": [
+    "elections-in-ukraine",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian parliamentary elections — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_parliamentary_elections",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

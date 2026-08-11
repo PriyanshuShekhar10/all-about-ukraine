@@ -1,0 +1,101 @@
+{
+  "qid": "Q281201",
+  "slug": "zmiivka",
+  "title": "Zmiivka",
+  "type": "village of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Zmiivka, Kherson Oblast"
+  ],
+  "infobox": {
+    "label": "village of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1782",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "2,759",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "96",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "35",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "46.8703, 33.5831",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Zmiivka is a village located in Beryslav Raion, Kherson Oblast, Ukraine, notable for its historical community of Old Swedes and its experiences during significant historical events, including the Holodomor and the recent Russian invasion.",
+  "sections": [
+    {
+      "heading": "Geographical Context",
+      "paragraphs": [
+        "Zmiivka ([[ukrainian|Ukrainian]]: Зміївка) is situated in Beryslav Raion, within the [[kherson|Kherson]] Oblast of [[ukraine|Ukraine]]. The village is part of the Beryslav urban hromada, which is one of the administrative hromadas in Ukraine."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The village's history is closely tied to the establishment of Gammalsvenskby in 1782 by Swedish settlers from Dagö Island, who were deported following the Russian annexation of Estonia. In the early 19th century, three German villages were founded in the vicinity: Schlangendorf, Mühlhausendorf, and Klosterdorf. By 1886, Gammalsvenskby had a population of 515, while Klosterdorf had 773, Mühlhausendorf had 489, and Schlangendorf had 474."
+      ]
+    },
+    {
+      "heading": "Soviet Era Developments",
+      "paragraphs": [
+        "During [[holodomor|the Holodomor]] in 1932–1933, the village experienced severe famine, resulting in the death of one individual, Utas Oleksandr, as documented in the 'National Book of Memory of the Victims of the Holodomor of 1932-1933 in Ukraine.' The Soviet regime repressed villagers for spreading information about the famine. Post-World War II, the village underwent name changes: Gammalsvenskby became Verbivka, Schlangendorf was renamed Zmiivka, Mühlhausendorf became Mykhailivka, and Klosterdorf was called Kostyrka. Following the war, the German population was deported, and in 1951, a significant resettlement of 2,500 Boykos occurred from various locations, leading to the incorporation of Mykhailivka, Kostyrka, and Verbivka into Zmiivka."
+      ]
+    },
+    {
+      "heading": "Recent History and Cultural Significance",
+      "paragraphs": [
+        "In independent Ukraine, Zmiivka is home to three churches: an Orthodox church, a Lutheran church, and a Greek Catholic church. The village gained international attention when King Carl XVI Gustaf of Sweden and Queen Silvia visited on October 2, 2008. A memorial dedicated to the Heroes of Ukraine was inaugurated on August 23, 2010, coinciding with the Day of the National Flag."
+      ]
+    },
+    {
+      "heading": "Impact of the 2022 Russian Invasion",
+      "paragraphs": [
+        "During the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], Zmiivka was occupied by Russian forces. The village headman was abducted on April 30, 2022, and the Heroes of Ukraine monument was destroyed on July 30. Zmiivka was liberated on November 11, 2022, during the [[2022-kherson-counteroffensive|Kherson counteroffensive]]. However, on April 13, 2023, an airstrike by Russian troops targeted the secondary school, resulting in one fatality. Additionally, in October 2023, the village's house of culture was destroyed by another airstrike."
+      ]
+    },
+    {
+      "heading": "Demographics and Culture",
+      "paragraphs": [
+        "As of the 2001 census, Zmiivka had a population of 2,739. The village is culturally active, featuring a music band named 'Boikivchany' and a Swedish trio choir called 'Trykusen.'"
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-kherson-counteroffensive",
+    "2022-russian-invasion-of-ukraine",
+    "holodomor",
+    "kherson",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Zmiivka — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zmiivka",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

@@ -42,7 +42,7 @@
     {
       "heading": "Ethnic Composition",
       "paragraphs": [
-        "The region is known for its ethnic diversity, with inhabitants identifying as ethnic [[ukrainians|Ukrainians]], Rusyns, Hungarians, Romanians, Slovaks, and Poles. Additionally, there are small communities of Jewish and Romani minorities. In 1930, Jews constituted over 13% of the region's population prior to World War II, highlighting its historical demographic richness.",
+        "The region is known for its ethnic diversity, with inhabitants identifying as ethnic [[ukrainians|Ukrainians]], [[rusyns|Rusyns]], Hungarians, Romanians, Slovaks, and Poles. Additionally, there are small communities of Jewish and Romani minorities. In 1930, Jews constituted over 13% of the region's population prior to World War II, highlighting its historical demographic richness.",
         "The primary languages spoken in Transcarpathia include Rusyn, [[ukrainian|Ukrainian]], Hungarian, Romanian, Slovak, and Polish."
       ]
     },
@@ -71,6 +71,7 @@
   "links_out": [
     "carpathians",
     "kievan-rus",
+    "rusyns",
     "ukraine",
     "ukrainian",
     "ukrainian-soviet-socialist-republic",

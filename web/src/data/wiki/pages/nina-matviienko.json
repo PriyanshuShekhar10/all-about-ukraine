@@ -1,0 +1,79 @@
+{
+  "qid": "Q2011217",
+  "slug": "nina-matviienko",
+  "title": "Nina Matviienko",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Nina Matviyenko",
+    "Nina Mytrofanivna Matviienko"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1947-10-10",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "2023-10-08",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Nedilishche",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Nina Mytrofanivna Matviienko was a prominent Ukrainian singer, born on 10 October 1947 and passing away on 8 October 2023. She was renowned for her contributions to [[ukrainian-folk-music|Ukrainian folk music]] and her performances that celebrated the cultural heritage of Ukraine.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Nina Matviienko was born in the village of Nedilyshche, then part of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] in the Soviet Union, which is now [[ukraine|Ukraine]]. She was the fifth of eleven siblings, with parents Antonina Ilkivna and Mytrofan Ustynovych. Matviienko began her education at a local residential school and later worked as a copyist and crane-operator's assistant. She graduated with a degree in [[ukrainian|Ukrainian]] philology from [[taras-shevchenko-national-university-of-kyiv|Kyiv University]] in 1975."
+      ]
+    },
+    {
+      "heading": "Musical Career",
+      "paragraphs": [
+        "In 1968, Matviienko joined the vocal studio of the Ukrainian State Folk Choir named after Hryhory Veriovka, eventually becoming a soloist. She was part of the folk trio 'Zoloti kliuchi' starting in 1968 and performed with the [[kyiv|Kyiv]] Camerata orchestra and the Kostyantyn Chechenya Early Music Ensemble in her later years. Her repertoire featured numerous Ukrainian folk songs, and she was the first performer of works by notable composers such as Yevhen Stankovych and Myroslav Skoryk.",
+        "Matviienko's performances extended beyond Ukraine, taking her to countries including Mexico, Canada, the United States, Czechoslovakia, Poland, Finland, Korea, France, and throughout Latin America. She recorded many Ukrainian folk songs and published a book in 2009 that included around 250 folk songs, reflecting her life and career."
+      ]
+    },
+    {
+      "heading": "Recognition and Awards",
+      "paragraphs": [
+        "Matviienko received several prestigious awards throughout her career, including the [[taras-shevchenko|Taras Shevchenko]] National Prize in 1988, the International M. A. Kasyan Prize Fund – Order of Mykola Chudotvorets in 1996, and the Order of Princess Olga, third class in 1997. In 2006, she was honored as a Hero of Ukraine, and in 2017, she was named Person of the Year."
+      ]
+    },
+    {
+      "heading": "Legacy and Final Years",
+      "paragraphs": [
+        "In 2022, during the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], Matviienko's performance of Yevhen Stankovych’s opera-ballet When the Fern Blooms was live-streamed by the [[lviv|Lviv]] National Opera, highlighting her enduring relevance to Ukrainian culture. Matviienko passed away on 8 October 2023, just two days before her 76th birthday."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "lviv",
+    "taras-shevchenko",
+    "taras-shevchenko-national-university-of-kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-folk-music",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Nina Matviienko — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nina_Matviienko",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

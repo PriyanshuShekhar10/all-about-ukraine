@@ -1,0 +1,91 @@
+{
+  "qid": "Q7830",
+  "slug": "sudak",
+  "title": "Sudak",
+  "type": "city or town",
+  "category": "war",
+  "aliases": [
+    "Sudaq"
+  ],
+  "infobox": {
+    "label": "city or town",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Byzantine Empire, Republic of Venice",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "3,246",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "15",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "50",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "44.8514, 34.9725",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Sudak is a city located in Crimea, recognized by most countries as part of [[ukraine|Ukraine]] but annexed by Russia. It serves as the administrative center of Sudak Municipality and is known for its historical significance and tourist attractions, particularly the Genoese fortress.",
+  "sections": [
+    {
+      "heading": "Geographical Context",
+      "paragraphs": [
+        "Sudak is situated 57 km (35 mi) west of Feodosia, the nearest railway station, and 104 km (65 mi) east of Simferopol, the capital of [[crimea|Crimea]]. As of the 2014 Census, the population of Sudak was recorded at 16,492."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The origins of Sudak are uncertain, with the earliest written mention dating to the 7th century in the Ravenna Cosmography. Local tradition suggests a foundation in 212 CE, supported by archaeological evidence from Roman times. The city likely emerged under the influence of the Alans and was later Christianized under Byzantine control, becoming a bishopric by 787.",
+        "From the 11th to 14th centuries, Sudak flourished as a trading hub along the Silk Road, particularly noted for its harbor. The city experienced various changes in control, including Byzantine, Cuman, and Tatar rule, before being captured by the Genoese in 1365, who fortified it and established it as a trading colony."
+      ]
+    },
+    {
+      "heading": "Ottoman and Modern History",
+      "paragraphs": [
+        "In 1475, Sudak fell under Ottoman control, which diminished its military and commercial significance. The city was occupied by Russian forces in 1771 and officially became part of the Russian Empire in 1783. Following this transition, the population decreased significantly, and by the 1805 census, only 33 inhabitants were recorded.",
+        "Sudak was designated as a city in 1982, marking its contemporary administrative status."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "According to the 2001 [[ukrainian|Ukrainian]] census, Sudak had a population of 29,448, with a majority of ethnic Russians. The city also hosts significant Ukrainian and [[crimean-tatar|Crimean Tatar]] minorities, which together account for 35% of the population, alongside smaller groups of Belarusians, Armenians, Tatars, and Poles."
+      ]
+    },
+    {
+      "heading": "Notable Figures",
+      "paragraphs": [
+        "Sudak has been home to notable individuals such as Mahomed Kratov, a Ukrainian football player born in 2004; [[zlata-ognevich|Zlata Ognevich]], a Ukrainian singer born in 1986; and Nikolai Ziber, a Ukrainian economist who lived from 1844 to 1888."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "crimean-tatar",
+    "ukraine",
+    "ukrainian",
+    "zlata-ognevich"
+  ],
+  "sources": [
+    {
+      "title": "Sudak — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sudak",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

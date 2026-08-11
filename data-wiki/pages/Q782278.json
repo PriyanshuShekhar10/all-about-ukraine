@@ -1,0 +1,85 @@
+{
+  "qid": "Q782278",
+  "slug": "nafpaktos",
+  "title": "Nafpaktos",
+  "type": "city",
+  "category": "economy",
+  "aliases": [
+    "Epachtos",
+    "Lepanto",
+    "Naupactus"
+  ],
+  "infobox": {
+    "label": "city",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Greece",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "12,950",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "15",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "38.3917, 21.8275",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Nafpaktos is a town located in the Nafpaktia region of Aetolia-Acarnania in West Greece, historically significant for its strategic maritime position and its connection to various military conflicts, including the Battle of Lepanto. The town's rich history and cultural heritage are relevant to understanding the broader historical context of the Mediterranean, including its interactions with [[history-of-ukraine|Ukrainian history]] through trade and military alliances.",
+  "sections": [
+    {
+      "heading": "Geographical Context",
+      "paragraphs": [
+        "Nafpaktos, also known as Naupactus, is situated on the northern coast of the Gulf of Corinth, approximately 3 km (2 mi) west of the Mornos River's mouth. The town is positioned 9 km (6 mi) northeast of Antirrio and 18 km (11 mi) northeast of Patras, making it a significant location for maritime activities."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "The town's name, Naupaktos, translates to 'boatyard' and reflects its historical importance as an Athenian naval station during the Peloponnesian War. Throughout the Crusades and the Ottoman–Venetian Wars, Nafpaktos changed hands multiple times due to its strategic location controlling access to the Gulf of Corinth. The town was known as Lepanto during the 15th century when it was under Venetian control.",
+        "Nafpaktos was the site of the pivotal Battle of Lepanto in 1571, where the Holy League achieved a significant naval victory against the Ottoman Empire. This battle is a notable event in European history, illustrating the shifting power dynamics in the Mediterranean, which also had implications for [[ukraine|Ukraine]]'s historical maritime trade routes."
+      ]
+    },
+    {
+      "heading": "Modern Development",
+      "paragraphs": [
+        "In the 19th century, Nafpaktos became part of independent Greece in March 1829. The modern municipality was established in 1946 and later merged into the larger Nafpaktia municipality during the 2010 administrative reform. As of the 2011 census, the population of Nafpaktos was approximately 20,000."
+      ]
+    },
+    {
+      "heading": "Cultural Heritage",
+      "paragraphs": [
+        "Nafpaktos is characterized by its well-preserved Venetian architecture, particularly its port and castle, which attract tourists and serve as reminders of the town's historical significance. The port features monuments commemorating the Battle of Lepanto, and a statue of Miguel de Cervantes, who fought in the battle, is located nearby. These landmarks are part of the cultural heritage that connects Nafpaktos to the broader history of the Mediterranean, including the interactions with [[ukrainian|Ukrainian]] maritime history."
+      ]
+    },
+    {
+      "heading": "Demographics and Infrastructure",
+      "paragraphs": [
+        "The town's residential areas stretch along the Gulf of Corinth, with the EO48 road facilitating transportation. The municipal unit of Nafpaktos is divided into several communities, contributing to its demographic diversity. The town's infrastructure includes local museums and recreational areas, enhancing its appeal as a destination."
+      ]
+    }
+  ],
+  "links_out": [
+    "history-of-ukraine",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Nafpaktos — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nafpaktos",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

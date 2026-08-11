@@ -1,0 +1,76 @@
+{
+  "qid": "Q1322328",
+  "slug": "dnieper-ukraine",
+  "title": "Dnieper Ukraine",
+  "type": "Ukrainian historical regions",
+  "category": "history",
+  "aliases": [
+    "Dnipro Ukraine",
+    "Naddniprianshchyna"
+  ],
+  "infobox": {
+    "label": "Ukrainian historical regions",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Kyiv",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.3200, 32.7400",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Dnieper Ukraine, or Наддніпрянщина, refers to the territories flanking the middle course of the Dnieper River, integral to [[history-of-ukraine|Ukrainian history]] and identity. This region is often considered the heart of Ukraine and is historically significant due to its connection with the nation's past.",
+  "sections": [
+    {
+      "heading": "Geographical Overview",
+      "paragraphs": [
+        "Dnieper Ukraine encompasses areas on both sides of the [[dnieper|Dnieper River]]'s middle course. The name originates from the [[ukrainian|Ukrainian]] words nad- (meaning 'above, over'), Dnipró (referring to the Dnieper), and -shchyna (a suffix denoting a geographic region).",
+        "The region is typically divided into three parts: Upper Dnieper Ukraine, Central Dnieper Ukraine, and Lower Dnieper Ukraine, aligned with the river's flow. The separation between Upper and Central Dnieper Ukraine occurs at the Desna River's mouth, which is approximately aligned with [[kyiv|Kyiv]], while Lower and Central Dnieper Ukraine converge around [[khortytsia|Khortytsia]] in [[zaporizhzhia|Zaporizhia]]."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "The term Dnieper Ukraine emerged following the partitions of Poland, when [[ukraine|Ukraine]], previously part of the Polish–Lithuanian Commonwealth, was divided between the Russian Empire and the Austrian Empire, referring specifically to the Russian-controlled areas.",
+        "This designation was gradually phased out after 1939. In Ukrainian discourse, it is sometimes referred to as Great Ukraine (Velyka Ukraina)."
+      ]
+    },
+    {
+      "heading": "Cultural Heritage",
+      "paragraphs": [
+        "The Ukrainian Unification Act of 1919 references Dnieper Ukraine, stating: 'From now on into one merge torn away one from other portions of United Ukraine, the West-[[ukrainian-peoples-republic|Ukrainian People's Republic]] ([[galicia|Galicia]], [[bukovina|Bukovina]], Ugric Ruthenia) and the Dnieper Great Ukraine.'",
+        "In terms of cultural heritage, the region hosts the Museum of Folk Architecture and Way of Life of Central Naddniprianshchyna in Pereiaslav. This open-air museum features thirteen themed museums, one hundred twenty-two examples of national architecture, and over thirty thousand historical cultural objects."
+      ]
+    }
+  ],
+  "links_out": [
+    "bukovina",
+    "dnieper",
+    "galicia",
+    "history-of-ukraine",
+    "khortytsia",
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "zaporizhzhia"
+  ],
+  "sources": [
+    {
+      "title": "Dnieper Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dnieper_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

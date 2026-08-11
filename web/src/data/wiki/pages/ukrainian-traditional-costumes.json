@@ -20,7 +20,7 @@
     {
       "heading": "Shirts",
       "paragraphs": [
-        "The embroidered sorochka shirt, known as vyshyvanka, is a central component of Ukrainian attire. Typically crafted from hemp or linen, vyshyvankas vary significantly in design and decoration across different regions. The earliest examples emerged in Ukrainian villages during the mid-18th century, although the tradition of Ukrainian embroidery dates back to the 10th and 11th centuries, originally associated with the feudal nobility. In rural contexts, vyshyvankas evolved into symbols of magic and personal identity, with wedding shirts being particularly significant, featuring elaborate adornments and crafted from a single piece of fabric."
+        "The embroidered sorochka shirt, known as vyshyvanka, is a central component of Ukrainian attire. Typically crafted from hemp or linen, vyshyvankas vary significantly in design and decoration across different regions. The earliest examples emerged in Ukrainian villages during the mid-18th century, although the tradition of [[ukrainian-embroidery|Ukrainian embroidery]] dates back to the 10th and 11th centuries, originally associated with the feudal nobility. In rural contexts, vyshyvankas evolved into symbols of magic and personal identity, with wedding shirts being particularly significant, featuring elaborate adornments and crafted from a single piece of fabric."
       ]
     },
     {
@@ -50,7 +50,7 @@
     {
       "heading": "Regional Variations",
       "paragraphs": [
-        "The clothing styles in the Polissia region, which includes areas like Volhynian Polissya and [[kyiv|Kyiv]] Polissia, show influences from Polish, Belarusian, and Russian traditions. The Lisostep region, encompassing Volyn and Galicia, features colorful garments with floral and geometric designs. The Steppe region, including [[odesa|Odesa]] and [[crimea|Crimea]], reflects a mix of Moldovan, Bulgarian, and [[crimean-tatar|Crimean Tatar]] influences, though historical details are scarce. In the Carpathians, local clothing traditions are colorful and heavily influenced by neighboring cultures, with a rich variety of floral embroidery."
+        "The clothing styles in the Polissia region, which includes areas like Volhynian Polissya and [[kyiv|Kyiv]] Polissia, show influences from Polish, Belarusian, and Russian traditions. The Lisostep region, encompassing Volyn and [[galicia|Galicia]], features colorful garments with floral and geometric designs. The Steppe region, including [[odesa|Odesa]] and [[crimea|Crimea]], reflects a mix of Moldovan, Bulgarian, and [[crimean-tatar|Crimean Tatar]] influences, though historical details are scarce. In the Carpathians, local clothing traditions are colorful and heavily influenced by neighboring cultures, with a rich variety of floral embroidery."
       ]
     }
   ],
@@ -58,12 +58,14 @@
     "carpathians",
     "crimea",
     "crimean-tatar",
+    "galicia",
     "hutsuls",
     "kyiv",
     "odesa",
     "polesia",
     "ukraine",
     "ukrainian",
+    "ukrainian-embroidery",
     "ukrainians",
     "vyshyvanka",
     "western-ukraine"

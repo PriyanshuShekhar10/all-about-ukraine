@@ -1,0 +1,76 @@
+{
+  "qid": "Q140420",
+  "slug": "rusyns",
+  "title": "Rusyns",
+  "type": "ethnic group",
+  "category": "history",
+  "aliases": [
+    "Carpathian Ruthenians",
+    "Carpatho-Russians",
+    "Carpatho-Rusyns",
+    "Carpatho-Ruthenians",
+    "Carpatho-Ukrainians",
+    "Rusnaks",
+    "Ruthenes",
+    "Ruthenians",
+    "Uhro-Rusyns"
+  ],
+  "infobox": {
+    "label": "ethnic group",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Czechoslovakia, Slovakia",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Rusyns, also referred to as Carpatho-Rusyns or Ruthenians, are an East Slavic ethnic group primarily located in the Eastern Carpathians, with a significant presence in Ukraine. They speak the Rusyn language, which is debated as either a separate language or a dialect of Ukrainian, and have a unique cultural identity recognized in several Central and Eastern European countries.",
+  "sections": [
+    {
+      "heading": "Ethnic Identity and Recognition",
+      "paragraphs": [
+        "Rusyns, known by various names including Carpatho-Rusyns, Carpatho-Russians, and Rusnaks, primarily identify as a distinct ethnic group. They are recognized as such in countries like Croatia, Hungary, Poland, Romania, Serbia, and Slovakia, where they hold official minority status. However, in [[ukraine|Ukraine]], they are classified as a subgroup of [[ukrainians|Ukrainians]]."
+      ]
+    },
+    {
+      "heading": "Language and Religion",
+      "paragraphs": [
+        "The Rusyn language is an East Slavic variety that is sometimes considered a separate language and at other times viewed as a dialect of [[ukrainian|Ukrainian]]. The majority of Rusyns practice Eastern Catholicism, while a minority adhere to Eastern Orthodoxy."
+      ]
+    },
+    {
+      "heading": "Historical Origins",
+      "paragraphs": [
+        "The origins of the Rusyn people are complex, with theories suggesting descent from early Slavic populations influenced by various migrations and invasions. The region of the Eastern [[carpathians|Carpathians]] has been populated by different tribes, including the White Croats and other East Slavic groups, contributing to the formation of the modern Rusyn identity."
+      ]
+    },
+    {
+      "heading": "Anthropological and Genetic Studies",
+      "paragraphs": [
+        "Anthropological research indicates that the Eastern Carpathian population represents a sub-regional group within the broader Ukrainian population. Genetic studies have shown that Rusyns share common ancestry with other European populations, with specific Y-DNA studies revealing their close genetic ties to Ukrainians and Slovaks."
+      ]
+    },
+    {
+      "heading": "Cultural Revival",
+      "paragraphs": [
+        "Since the Revolutions of 1989, there has been a resurgence in Rusyn cultural identity, particularly in regions where they reside. This revival has led to increased recognition and a reaffirmation of their distinct heritage within the context of Ukraine and neighboring countries."
+      ]
+    }
+  ],
+  "links_out": [
+    "carpathians",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Rusyns — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rusyns",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

@@ -1,0 +1,119 @@
+{
+  "qid": "Q167859",
+  "slug": "volyn-oblast",
+  "title": "Volyn Oblast",
+  "type": "oblast of Ukraine",
+  "category": "economy",
+  "aliases": [
+    "Volyn Province",
+    "Volyn Region",
+    "Volyn'",
+    "Volyn, Ukraine",
+    "Wolyn'"
+  ],
+  "infobox": {
+    "label": "oblast of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1939-12-04",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Lutsk",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "1,041,000",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "20,143",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Head of government",
+        "value": "Yurii Pohuliaiko",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.7414, 25.3539",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Volyn Oblast, located in northwestern Ukraine, is a province bordered by Rivne Oblast, Lviv Oblast, Poland, and Belarus. Its administrative center is Lutsk, and as of 2022, it has a population of 1,021,356.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Volyn Oblast, known in [[ukrainian|Ukrainian]] as Волинська область, is situated in the northwestern part of [[ukraine|Ukraine]]. The province shares borders with [[rivne-oblast|Rivne Oblast]] to the east, [[lviv-oblast|Lviv Oblast]] to the south, Poland to the west, and Belarus to the north. [[lutsk|Lutsk]] serves as the administrative center of the oblast, while Kovel is noted as the westernmost town in Ukraine, marking the last stop on the rail line connecting [[kyiv|Kyiv]] to Warsaw."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Historically, Volyn was part of [[kievan-rus|Kievan Rus]]' and later became an independent principality within the [[kingdom-of-galiciavolhynia|Kingdom of Galicia–Volhynia]]. In the 15th century, it fell under the Grand Duchy of Lithuania's control, then passed to Poland in 1569, and subsequently became part of the Russian Empire in 1795 until World War I. During the interwar period, most of Volyn was governed as Wołyń Voivodeship under Polish authority.",
+        "Following the invasion of Poland in 1939, Volyn was annexed to [[ukrainian-soviet-socialist-republic|Soviet Ukraine]], officially organized as an oblast on December 4, 1939. While many [[ukrainians|Ukrainians]] celebrated this reunification, the Polish minority faced severe repression, with thousands deported to Siberia, resulting in high mortality rates in labor camps. The region was invaded by Nazi Germany in 1941, leading to significant atrocities, including the Holocaust of the Jewish population.",
+        "Partisan activities began in Volyn during the German occupation, with local populations participating in resistance movements. The [[ukrainian-insurgent-army|Ukrainian Insurgent Army]] (UPA) initially allied with Nazi Germany but later turned against various ethnic groups, leading to tragic events known as the Massacres of Poles in Volhynia. The Red Army recaptured Volyn in January 1944, and post-war border adjustments integrated the region into the Ukrainian SSR, prompting the forced migration of many Poles."
+      ]
+    },
+    {
+      "heading": "Demographics and Language",
+      "paragraphs": [
+        "As per the 2001 Ukrainian census, ethnic Ukrainians constituted 96.9% of Volyn Oblast's population, while ethnic Russians made up 2.4%. The region has largely retained its Ukrainian linguistic identity, with 94-95% of the population speaking Ukrainian during the Soviet era.",
+        "Ukrainian is the sole official language in Volyn Oblast. In December 2018, the Volyn Oblast Council imposed a moratorium on the public use of Russian-language cultural products. A 2018 poll indicated that 85% of residents supported Ukrainian as the only state language in Ukraine. In the 2023-2024 school year, all pupils in general secondary education institutions in Volyn were instructed in Ukrainian."
+      ]
+    },
+    {
+      "heading": "Cultural and Historical Sites",
+      "paragraphs": [
+        "Volyn Oblast is home to several significant historical and cultural sites, including the Upper Castle, the Volodymyr historical-cultural complex, and the Villa-museum of [[lesya-ukrainka|Lesia Ukrainka]], all of which were nominated for the Seven Wonders of Ukraine in 2007."
+      ]
+    },
+    {
+      "heading": "Notable Figures",
+      "paragraphs": [
+        "Volyn has produced notable individuals such as Oleh Skvira, a professional football player, Vitaliy Kvartsyanyi, a football manager and former player, and Lesya Ukrainka, a prominent Ukrainian poet and playwright born on February 25, 1871."
+      ]
+    },
+    {
+      "heading": "Administrative Structure",
+      "paragraphs": [
+        "Volyn Oblast is administratively divided into four raions (districts), facilitating local governance and administration."
+      ]
+    }
+  ],
+  "links_out": [
+    "kievan-rus",
+    "kingdom-of-galiciavolhynia",
+    "kyiv",
+    "lesya-ukrainka",
+    "lutsk",
+    "lviv-oblast",
+    "rivne-oblast",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-insurgent-army",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Volyn Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Volyn_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

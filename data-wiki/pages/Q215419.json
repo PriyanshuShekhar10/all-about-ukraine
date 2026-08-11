@@ -33,12 +33,12 @@
       }
     ]
   },
-  "summary": "The Chernobyl Nuclear Power Plant (ChNPP) is a decommissioning nuclear power facility located in northern Ukraine, near the city of Pripyat. It is historically significant due to the catastrophic disaster that occurred in 1986, which has had lasting impacts on nuclear safety and environmental policy in Ukraine and beyond.",
+  "summary": "The Chernobyl Nuclear Power Plant (ChNPP) is a decommissioning nuclear power facility located in northern Ukraine, near the city of [[pripyat|Pripyat]]. It is historically significant due to the catastrophic disaster that occurred in 1986, which has had lasting impacts on nuclear safety and environmental policy in Ukraine and beyond.",
   "sections": [
     {
       "heading": "Location and Structure",
       "paragraphs": [
-        "The Chernobyl Nuclear Power Plant is situated approximately 16.5 kilometers (10 miles) northwest of [[chernobyl|Chernobyl]] and 16 kilometers (10 miles) from the Belarus–[[ukraine|Ukraine]] border, around 100 kilometers (62 miles) north of [[kyiv|Kyiv]]. The facility was originally cooled by a pond fed by the [[pripyat|Pripyat]] River, located about 5 kilometers (3 miles) from its confluence with the [[dnieper|Dnieper River]].",
+        "The Chernobyl Nuclear Power Plant is situated approximately 16.5 kilometers (10 miles) northwest of [[chernobyl|Chernobyl]] and 16 kilometers (10 miles) from the Belarus–[[ukraine|Ukraine]] border, around 100 kilometers (62 miles) north of [[kyiv|Kyiv]]. The facility was originally cooled by a pond fed by the [[pripyat-river|Pripyat River]], located about 5 kilometers (3 miles) from its confluence with the [[dnieper|Dnieper River]].",
         "The plant features an RBMK type graphite-moderated reactor, which is noted for its cost efficiency but is considered less safe compared to other reactor designs, such as the VVER pressurized water reactor."
       ]
     },
@@ -76,6 +76,7 @@
     "full-scale-russo-ukrainian-war",
     "kyiv",
     "pripyat",
+    "pripyat-river",
     "ukraine"
   ],
   "sources": [

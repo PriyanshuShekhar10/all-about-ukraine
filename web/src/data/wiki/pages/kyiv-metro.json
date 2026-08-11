@@ -1,0 +1,83 @@
+{
+  "qid": "Q215871",
+  "slug": "kyiv-metro",
+  "title": "Kyiv Metro",
+  "type": "rapid transit",
+  "category": "history",
+  "aliases": [
+    "Metro in Kyiv"
+  ],
+  "infobox": {
+    "label": "rapid transit",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1960-11-06",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4500, 30.5236",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Kyiv Metro is a rapid transit system located in Kyiv, Ukraine, operated by the city-owned company Kyivskyi Metropoliten. Opened on 6 November 1960, it was the first metro system in Ukraine and remains a vital component of the city's public transportation network.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Kyiv Metro is owned by the [[kyiv|Kyiv]] City Council and serves as a crucial rapid transit system in Kyiv, [[ukraine|Ukraine]]. It was initially launched on 6 November 1960, featuring a single 5.24 km (3.26 mi) line with five stations. This system marked the first rapid transit in Ukraine and was the third in the former Soviet Union, following the Moscow Metro and Leningrad Metro.",
+        "Currently, the Kyiv Metro comprises three lines and 52 stations, covering a total route length of 69.6 kilometers (43.2 mi), with 67.6 km (42.00 mi) dedicated to revenue service. Arsenalna station, located on the Sviatoshynsko-Brovarska Line, is notable for being the second deepest metro station globally, at 105.5 m (346 ft 1.5 in) below ground level."
+      ]
+    },
+    {
+      "heading": "Ridership and Impact",
+      "paragraphs": [
+        "In 2016, the Kyiv Metro recorded an annual ridership of 484.56 million passengers, averaging approximately 1.32 million passengers daily. In 2014, the metro accounted for 46.7% of the public transport load in Kyiv, highlighting its significance in the city's transportation infrastructure."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "The concept of an underground railway in Kyiv dates back to 1884, when Dmytro Andrievskiy proposed a project for tunnels connecting the Kyiv-Pasazhyrskyi railway station. Despite initial interest, the project was ultimately rejected by the city council.",
+        "Following the move of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]'s capital from [[kharkiv-oblast|Kharkiv]] to Kyiv in 1934, there were renewed discussions about constructing a metro system. The first serious planning efforts began in 1936, but construction was interrupted by World War II. After the war, a resolution on 5 August 1944 initiated preparations for the metro's construction, which officially began in 1949."
+      ]
+    },
+    {
+      "heading": "Construction and Opening",
+      "paragraphs": [
+        "The construction of the first line (M1) commenced in August 1949, initially planned to include seven stations. However, the project faced numerous challenges, including funding issues and construction difficulties. The first section of the metro, extending 5.24 km (3.26 mi) from Vokzalna to [[dnieper|Dnipro]], was finally opened on 6 November 1960, coinciding with the anniversary of the October Revolution.",
+        "Public access to the metro began on 13 November 1960, following a week of restricted access. The opening highlighted logistical challenges, including the need for an underground train depot, which was temporarily resolved with a depot next to Dnipro station."
+      ]
+    },
+    {
+      "heading": "Related Transport Systems",
+      "paragraphs": [
+        "In addition to the Kyiv Metro, the city also features the Kyiv Light Rail (rapid tram) and the Kyiv Urban Electric Train (commuter rail), which operate independently under different management (Kyivpastrans and [[ukrainian-railways|Ukrainian Railways]], respectively). These systems complement the metro, enhancing the overall public transport framework in Kyiv."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnieper",
+    "kharkiv-oblast",
+    "kyiv",
+    "ukraine",
+    "ukrainian-railways",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Kyiv Metro — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kyiv_Metro",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

@@ -1,0 +1,87 @@
+{
+  "qid": "Q697658",
+  "slug": "first-battle-of-kharkov",
+  "title": "First Battle of Kharkov",
+  "type": "battle",
+  "category": "war",
+  "aliases": [
+    "1941 Battle of Kharkov",
+    "1st Battle of Kharkov",
+    "Battle of Kharkov 1941"
+  ],
+  "infobox": {
+    "label": "battle",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Kharkiv",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.9900, 36.2200",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The First Battle of Kharkov, fought from 20 to 24 October 1941, was a significant conflict for control of Kharkov in the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] during Operation Barbarossa. The battle involved the German 6th Army and the Soviet Southwestern Front, ultimately leading to the capture of the city by German forces.",
+  "sections": [
+    {
+      "heading": "Battle Overview",
+      "paragraphs": [
+        "The First Battle of Kharkov occurred from 20 to 24 October 1941, as part of the final phase of Operation Barbarossa. The German 6th Army, part of Army Group South, engaged the Soviet Southwestern Front, with the Soviet 38th Army responsible for defending the city while its industrial facilities were evacuated."
+      ]
+    },
+    {
+      "heading": "Strategic Importance of Kharkov",
+      "paragraphs": [
+        "[[kharkiv|Kharkov]] held significant strategic value due to its extensive rail and air connections, serving as a critical junction within [[ukraine|Ukraine]] and the broader Soviet Union. It connected various regions, including [[crimea|Crimea]], the Caucasus, the [[dnieper|Dnieper]] area, and the [[donbas|Donbass]].",
+        "As one of the largest industrial centers in the Soviet Union, Kharkov contributed substantially to military production. Notable facilities included the Kharkov Tractor Plant, which was vital in developing the T-34 tank, and other key plants producing aircraft, artillery, and ammunition. The German command recognized the economic importance of Kharkov, believing that its capture would undermine the Soviet economy."
+      ]
+    },
+    {
+      "heading": "Pre-Battle Context",
+      "paragraphs": [
+        "Following the [[battle-of-kiev|Battle of Kiev]], the German Army High Command redirected forces to attack Moscow, leaving Army Group South to advance toward Kharkov. The 6th Army, under General Walther von Reichenau, and the 17th Army were tasked with capturing the city, which was deemed essential for protecting their southern flank and securing vital industrial resources.",
+        "As the Germans advanced, the Soviet Southwestern Front, which had suffered heavy losses, was reinforced under Marshal Semyon Timoshenko, but remained vulnerable due to the urgent need for troops in other areas."
+      ]
+    },
+    {
+      "heading": "Course of the Battle",
+      "paragraphs": [
+        "The German LV. Armeekorps, led by General Erwin Vierow, was assigned to attack Kharkov, comprising the 101st Light Division and the 57th Infantry Division. The Soviet defense was primarily organized by the 216th Rifle Division, which faced significant challenges due to a lack of support.",
+        "By 21 October, the 101st Light Division had advanced close to Kharkov, engaging in skirmishes with Soviet forces. The German attack commenced on 23 October, coinciding with the evacuation of industrial equipment, which was nearly complete by the time of the city's capture on 24 October."
+      ]
+    },
+    {
+      "heading": "Aftermath and Occupation",
+      "paragraphs": [
+        "Following the battle, Kharkov was occupied by German forces until 16 February 1943. The city was not incorporated into the Reichskommissariat Ukraine due to its proximity to the front lines. The occupation was marked by terror tactics against the local population, including public executions and the confinement of the Jewish community.",
+        "The German command, under the authority of the Reichenau-Befehl, implemented brutal measures against suspected communists and instilled fear among the remaining residents, leading to further chaos in the city."
+      ]
+    }
+  ],
+  "links_out": [
+    "battle-of-kiev",
+    "crimea",
+    "dnieper",
+    "donbas",
+    "kharkiv",
+    "ukraine",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "First Battle of Kharkov — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/First_Battle_of_Kharkov",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

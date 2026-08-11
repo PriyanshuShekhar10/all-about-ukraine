@@ -1,0 +1,91 @@
+{
+  "qid": "Q1551183",
+  "slug": "chernivtsi-university",
+  "title": "Chernivtsi University",
+  "type": "national university",
+  "category": "culture",
+  "aliases": [
+    "Chernivetskyi derzhavnyi universytet",
+    "Chernivtsi National University",
+    "Yuriy Fedkovych Chernivtsi National University"
+  ],
+  "infobox": {
+    "label": "national university",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1875",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Austria–Hungary",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.2969, 25.9244",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Yuriy Fedkovych Chernivtsi National University is a prominent public university located in Chernivtsi, [[western-ukraine|Western Ukraine]]. Established in 1875, it has a rich history tied to the region's cultural and educational development, and it is recognized as a UNESCO World Heritage Site.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The university was founded in 1875 as Franz-Josephs-Universität Czernowitz, during a time when [[chernivtsi|Chernivtsi]] was the capital of the Duchy of [[bukovina|Bukovina]] under the Austro-Hungarian Empire. The establishment of the university was a response to the local demand for higher education, as students previously had to travel to western parts of the monarchy for their studies.",
+        "The university was inaugurated on October 4, 1875, and initially offered instruction primarily in German, with separate departments for [[ukrainian|Ukrainian]] and Romanian. Its first rector was Constantin Tomashchuk, a notable figure in the region's educational landscape."
+      ]
+    },
+    {
+      "heading": "Transformation and Expansion",
+      "paragraphs": [
+        "Following World War I and the dissolution of Austria-Hungary, the university was renamed Universitatea Regele Carol I din Cernăuți when Bukovina became part of Romania. During this period, the university underwent significant Romanization, with a decline in Ukrainian representation among students and faculty.",
+        "In 1940, after the Soviet occupation, the university was renamed Chernivtsi State University, and the primary language of instruction shifted to Ukrainian. The university expanded significantly during this time, with a notable increase in student enrollment."
+      ]
+    },
+    {
+      "heading": "Modern Developments",
+      "paragraphs": [
+        "In 1989, the university adopted its current name, Yuriy Fedkovych Chernivtsi National University, honoring the Ukrainian writer and cultural figure Yuriy Fedkovych. It gained national university status in 2000 and has since enhanced its international presence in education and research.",
+        "The university is ranked third among Ukrainian higher education institutions according to the Scopus database as of April 2019, reflecting its academic achievements and contributions."
+      ]
+    },
+    {
+      "heading": "Campus and Facilities",
+      "paragraphs": [
+        "The university's main campus, the Residence of Bukovinian and Dalmatian Metropolitans, is recognized as a UNESCO World Heritage Site and features a unique architectural ensemble. The university encompasses 17 buildings covering a total area of 110,800 square meters, including a botanical garden with diverse plant species.",
+        "The university library, established in 1852, is the first public library in Bukovina and houses over 2.5 million volumes, including a substantial collection of scientific literature."
+      ]
+    },
+    {
+      "heading": "International Relations",
+      "paragraphs": [
+        "Yuriy Fedkovych Chernivtsi National University maintains partnerships with various universities across Europe, Asia, and North America, participating in numerous international educational projects and programs such as ERASMUS and TEMPUS."
+      ]
+    },
+    {
+      "heading": "Notable Alumni and Faculty",
+      "paragraphs": [
+        "The university has produced numerous influential figures, including Alexandrina Cernov, a prominent academic and literary historian, and Sydir Vorobkevych, a notable Ukrainian composer and writer. Its alumni and faculty reflect the institution's diverse academic heritage and its impact on the cultural and educational landscape of [[ukraine|Ukraine]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "bukovina",
+    "chernivtsi",
+    "ukraine",
+    "ukrainian",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Chernivtsi University — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chernivtsi_University",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

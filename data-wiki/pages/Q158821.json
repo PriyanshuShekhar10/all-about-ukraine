@@ -1,0 +1,109 @@
+{
+  "qid": "Q158821",
+  "slug": "drohobych",
+  "title": "Drohobych",
+  "type": "city of regional significance of Ukraine",
+  "category": "economy",
+  "aliases": [
+    "Dobrovlyany",
+    "Dobrowlany",
+    "Drobich",
+    "Drogobich",
+    "Drogobych",
+    "Drogobycz",
+    "Drohobich",
+    "Drohobics",
+    "Drohobitch",
+    "Drohobyc",
+    "Drohobycz",
+    "Drohobytsch"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1387",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Austrian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "74,610",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "41",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "297",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.3500, 23.5000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Drohobych is a city of regional significance located in Lviv Oblast, Ukraine, serving as the administrative center of Drohobych Raion and hosting the Drohobych urban hromada. Historically significant as a trading post and industrial hub, it has a rich cultural heritage and notable historical figures associated with it.",
+  "sections": [
+    {
+      "heading": "Historical Overview",
+      "paragraphs": [
+        "Drohobych was established at the end of the eleventh century, functioning as a vital trading post and transport link between [[kievan-rus|Kievan Rus]]' and western territories. Following the decline of the local [[ruthenian|Ruthenian]] dynasty, the city became part of the Polish Kingdom by 1349 and evolved into a mercantile and saltworks center by the fifteenth century.",
+        "The city was incorporated into the Habsburg Empire in 1772 after the first partition of the Polish–Lithuanian Commonwealth. In the mid-nineteenth century, Drohobych emerged as Europe's largest oil extraction center, which significantly accelerated its growth. After World War II, Drohobych was integrated into the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]], becoming part of independent [[ukraine|Ukraine]] in 1991."
+      ]
+    },
+    {
+      "heading": "Demographics and Geography",
+      "paragraphs": [
+        "As of 2022, Drohobych has an estimated population of 73,682, making it the second largest city in [[lviv-oblast|Lviv Oblast]]. The city is situated along the Tysmenytsia River within the Subcarpathia region, positioned on an upland with elevations between 300 and 400 meters above sea level."
+      ]
+    },
+    {
+      "heading": "Economic Significance",
+      "paragraphs": [
+        "Drohobych is part of the Drohobych-Boryslav industrial area, recognized as the oldest and most significant oil basin in Ukraine. The oil industry began in the 1850s, with a major refinery established in 1909, which was one of the largest in Europe before World War II. Currently, the city hosts various industries, including saltworks, oil refineries, and food processing."
+      ]
+    },
+    {
+      "heading": "Cultural Heritage and Notable Figures",
+      "paragraphs": [
+        "Drohobych is known for its cultural heritage, with several historical churches and synagogues, including St. George's Church and the Choral Synagogue. It is the birthplace of notable individuals such as [[ivan-franko|Ivan Franko]], a prominent [[ukrainian|Ukrainian]] poet, and Bruno Schulz, a Polish-Jewish writer.",
+        "The city has also produced significant political and military figures, including Zenon Kossak and Andriy Melnyk, as well as notable artists and intellectuals like Elisabeth Bergner and Yuriy Drohobych, the first doctor of medicine in Ukraine."
+      ]
+    },
+    {
+      "heading": "Administrative Changes",
+      "paragraphs": [
+        "Until July 18, 2020, Drohobych was classified as a city of oblast significance and was part of Drohobych Municipality. Following administrative reforms aimed at reducing the number of raions in Lviv Oblast, Drohobych Municipality was merged into Drohobych Raion."
+      ]
+    }
+  ],
+  "links_out": [
+    "ivan-franko",
+    "kievan-rus",
+    "lviv-oblast",
+    "ruthenian",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Drohobych — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Drohobych",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

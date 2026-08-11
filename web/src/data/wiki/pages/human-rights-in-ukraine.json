@@ -42,7 +42,7 @@
     {
       "heading": "Electoral Rights and Judicial Fairness",
       "paragraphs": [
-        "Elections in Ukraine, such as the local elections in 2015 and the presidential elections in 2019, have generally been peaceful and competitive, although issues like vote-buying and media bias persist. The right to a fair trial has been compromised by constitutional amendments that reintroduced general supervision by the prosecutor's office, leading to concerns about judicial independence and corruption."
+        "[[elections-in-ukraine|Elections in Ukraine]], such as the local elections in 2015 and the presidential elections in 2019, have generally been peaceful and competitive, although issues like vote-buying and media bias persist. The right to a fair trial has been compromised by constitutional amendments that reintroduced general supervision by the prosecutor's office, leading to concerns about judicial independence and corruption."
       ]
     },
     {
@@ -59,6 +59,7 @@
     }
   ],
   "links_out": [
+    "elections-in-ukraine",
     "ukraine",
     "ukrainian",
     "viktor-yanukovych"

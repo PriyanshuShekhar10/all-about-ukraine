@@ -1,0 +1,81 @@
+{
+  "qid": "Q1626421",
+  "slug": "ihor-kolomoyskyi",
+  "title": "Ihor Kolomoyskyi",
+  "type": "human",
+  "category": "economy",
+  "aliases": [
+    "Ihor Valeriyovych Kolomoyskyi"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1963-02-13",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Dnipro",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Ihor Kolomoyskyi is a prominent Ukrainian-born Israeli billionaire businessman and former oligarch, known for his significant influence in Ukraine's economic and political landscape. He co-founded PrivatBank and has been involved in various sectors, including media and finance, while facing numerous allegations of corruption.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Ihor Valeriyovych Kolomoyskyi was born on 13 February 1963 into a Jewish family in [[dnipro|Dnipropetrovsk]], [[ukrainian-soviet-socialist-republic|Ukrainian SSR]], Soviet Union. His parents were both engineers, with his mother working at a university and his father at a metallurgical plant. Kolomoyskyi was recognized for his determination and diligence from a young age, excelling in sports and chess. He graduated from Gymnasium 21 in [[dnieper|Dnipro]] and pursued graduate studies in engineering at the Leonid Brezhnev Dnipropetrovsk Metallurgical Institute, graduating in 1985."
+      ]
+    },
+    {
+      "heading": "Business Career",
+      "paragraphs": [
+        "Kolomoyskyi began his business career in 1986 with the Fianit trading cooperative and later co-founded a joint enterprise in 1990 that imported foreign goods. In March 1992, he co-founded [[privatbank|PrivatBank]], which became a significant player in [[ukraine|Ukraine]]'s banking sector. By the early 2000s, Kolomoyskyi had gained control over various companies, including [[ukrnafta|Ukrnafta]] and several airlines. His media holdings expanded significantly, culminating in the acquisition of 1+1 Media Group in 2010, which operates multiple television channels in Ukraine."
+      ]
+    },
+    {
+      "heading": "Political Involvement",
+      "paragraphs": [
+        "From 2014 to 2015, Kolomoyskyi served as the Governor of [[dnipropetrovsk-oblast|Dnipropetrovsk Oblast]], a position he held until his dismissal by President [[petro-poroshenko|Petro Poroshenko]]. His media influence played a crucial role in supporting [[volodymyr-zelenskyy|Volodymyr Zelenskyy]]'s presidential campaign in 2019, which resulted in the ousting of Poroshenko."
+      ]
+    },
+    {
+      "heading": "Allegations and Legal Issues",
+      "paragraphs": [
+        "Kolomoyskyi has faced numerous allegations of corruption and financial misconduct. In 2016, his bank, PrivatBank, was nationalized due to concerns over its financial stability and accusations of fraud involving billions of dollars. In 2020, he was indicted in the United States for large-scale bank fraud, and in 2021, he and his family were banned from entering the U.S. In 2022, he reportedly lost his [[ukrainian|Ukrainian]] citizenship, and many of his assets deemed strategically important were nationalized amid the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]]. In 2023, Kolomoyskyi was arrested by the [[security-service-of-ukraine|Security Service of Ukraine]] on charges of money laundering and fraud."
+      ]
+    },
+    {
+      "heading": "Contributions to the Jewish Community",
+      "paragraphs": [
+        "Kolomoyskyi has been an influential figure in Ukraine's Jewish community, serving as the President of the United Jewish Community of Ukraine since 2008. He has funded significant projects, including the Menorah Centre in Dnipro, which is one of the largest Jewish community centers in Europe. He also played a role in establishing the European Jewish Union, aimed at representing Jewish interests in the European Union."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnieper",
+    "dnipro",
+    "dnipropetrovsk-oblast",
+    "full-scale-russo-ukrainian-war",
+    "petro-poroshenko",
+    "privatbank",
+    "security-service-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "ukrnafta",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "Ihor Kolomoyskyi — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ihor_Kolomoyskyi",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

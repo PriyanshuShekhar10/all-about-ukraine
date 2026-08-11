@@ -1,0 +1,91 @@
+{
+  "qid": "Q64632862",
+  "slug": "iryna-venediktova",
+  "title": "Iryna Venediktova",
+  "type": "human",
+  "category": "politics",
+  "aliases": [
+    "Iryna Romanov",
+    "Iryna Valentynivna Venediktova",
+    "Venediktova Romanov"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1978-09-21",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Kharkiv",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "Prosecutor General of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Iryna Venediktova is a prominent Ukrainian politician, lawyer, and academic known for her significant roles in Ukraine's legal and political landscape, including serving as the first female Prosecutor General. As of November 2022, she holds the position of Ambassador Extraordinary and Plenipotentiary of Ukraine to Switzerland and Liechtenstein.",
+  "sections": [
+    {
+      "heading": "Biography",
+      "paragraphs": [
+        "Iryna Valentynivna Venediktova was born on 21 September 1978 in [[kharkiv-oblast|Kharkiv]], [[ukrainian-soviet-socialist-republic|Ukrainian SSR]], into a family of legal professionals. Her father, Valentyn Semenovych Venediktov, was a major general of the police and a distinguished lawyer, while her mother, Valentyna Mykhailivna Venediktova, also holds a PhD in Law and worked in academia."
+      ]
+    },
+    {
+      "heading": "Education and Academic Career",
+      "paragraphs": [
+        "Venediktova began her academic career as a lecturer at the Kharkiv Humanitarian Institute of the People's [[ukrainian|Ukrainian]] Academy from 2000 to 2004. She earned her PhD in Law in 2003 and later became an associate professor at VN Karazin Kharkiv National University, where she led the Department of Civil Law from 2005 to 2019. She also holds the title of professor and has published over 100 scientific works."
+      ]
+    },
+    {
+      "heading": "Political Activity",
+      "paragraphs": [
+        "In 2018, Venediktova became an advisor on legal matters to [[volodymyr-zelenskyy|President Volodymyr Zelenskyy]] and was elected to the [[verkhovna-rada|Verkhovna Rada]] as a Member of Parliament for the [[servant-of-the-people|Servant of the People]] party in July 2019. She served as Chairman of the Parliamentary Committee on Legal Policy, contributing to significant legislative reforms."
+      ]
+    },
+    {
+      "heading": "Director of the State Bureau of Investigation",
+      "paragraphs": [
+        "On 27 December 2019, Venediktova was appointed Director of the State Bureau of Investigation ad interim, making her the first woman to lead a state law enforcement agency in [[ukraine|Ukraine]]. During her brief tenure, she implemented a new organizational structure and established a separate investigative unit for the Maidan case."
+      ]
+    },
+    {
+      "heading": "Prosecutor General",
+      "paragraphs": [
+        "Venediktova was appointed Prosecutor General on 17 March 2020, becoming the first woman to hold this position in Ukraine. She oversaw significant reforms within the prosecutor's office, including the certification of prosecutors and the establishment of new regional offices, which resulted in a notable reduction in the number of prosecutors."
+      ]
+    },
+    {
+      "heading": "High-Profile Cases and Reforms",
+      "paragraphs": [
+        "As Prosecutor General, Venediktova managed high-profile criminal cases, including those involving members of parliament and the investigation of crimes during the [[euromaidan|Maidan protests]]. She also completed the investigation of the assault on activist Kateryna Handziuk and initiated criminal charges against former executives of [[privatbank|PrivatBank]] for embezzlement."
+      ]
+    }
+  ],
+  "links_out": [
+    "euromaidan",
+    "kharkiv-oblast",
+    "privatbank",
+    "servant-of-the-people",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "verkhovna-rada",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "Iryna Venediktova — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Iryna_Venediktova",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

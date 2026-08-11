@@ -1,0 +1,79 @@
+{
+  "qid": "Q11043224",
+  "slug": "national-museum-of-literature-of-ukraine",
+  "title": "National Museum of Literature of Ukraine",
+  "type": "museum",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "museum",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1986",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4453, 30.5163",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The National Museum of Literature of Ukraine is a prominent institution located in Kyiv, dedicated to the evolution of Ukrainian literature from the 9th century to the present. It serves as a vital cultural repository, showcasing the contributions of notable Ukrainian authors and the historical significance of literature in the nation.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The museum is situated in a 19th-century architectural landmark, originally built in 1871 in the late-classical style by architect O. Ya. Schille, at the intersection of [[bohdan-khmelnytsky|Bohdan Khmelnytskyi]] and Tereshchenkivska Streets. This building has housed the Pavlo Galagan College, a prestigious private school in [[kyiv|Kyiv]], since its inception, earning the nickname 'Nursery of [[ukraine|Ukraine]]' from the tsarist Okhranka. The college has a rich history of involvement with [[ukrainian-literature|Ukrainian literature]], including visits from prominent literary figures.",
+        "Notably, the esteemed [[ukrainian|Ukrainian]] writer [[ivan-franko|Ivan Franko]] utilized the college's library in 1885 and 1886, which features an ornate two-story mahogany interior crafted by Italian artisans. The college was also associated with the Church of St. Paul, and it was here that Olga Khoruzhynska and Ivan Franko were married in May 1886."
+      ]
+    },
+    {
+      "heading": "Establishment and National Status",
+      "paragraphs": [
+        "The National Museum of Literature of Ukraine was founded as the State Museum of Literature of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] on 5 August 1981, following a decree from the Council of Ministers of the Ukrainian SSR. The museum officially opened its doors to the public on 2 July 1986. On 19 May 1999, the [[president-of-ukraine|President of Ukraine]] granted the museum national status, acknowledging its significant role in preserving the cultural heritage of Ukraine and its importance in the nation's spiritual life."
+      ]
+    },
+    {
+      "heading": "Volunteer Initiatives",
+      "paragraphs": [
+        "Since January 2015, a volunteer group known as 'Museum Bees' has been active within the museum, focusing on supporting soldiers involved in the Ukrainian-Russian conflict in Eastern Ukraine. Under the leadership of Yulia Kozachok and with assistance from museum staff, volunteers have produced camouflage nets and kikimora outfits, creating 51 kikimora and 57 nets by January 2016. This initiative gained recognition in the documentary 'Origin of Kikimora' by Lithuanian filmmaker Arturas Morozovas, which was showcased in Kyiv and Eastern Ukraine in the summer of 2015."
+      ]
+    },
+    {
+      "heading": "Exhibitions and Collections",
+      "paragraphs": [
+        "The museum features a permanent exhibition that highlights the historical significance of the Pavlo Galagan College in Ukrainian culture and education. Among its collections are a section dedicated to 19th-century literature, showcasing lifetime editions of works by notable authors such as [[ivan-kotliarevskyi|Ivan Kotliarevsky]], [[taras-shevchenko|Taras Shevchenko]], and [[lesya-ukrainka|Lesya Ukrainka]], along with manuscripts and memorial items.",
+        "The 20th-century section includes works from modernist writers, artists from the 1920s and 1930s, dissident writers, and Ukrainian authors in exile. The museum regularly updates its exhibits, which encompass around 5,000 valuable items, including rare books, manuscripts, photographs, and works of art, catering to visitors of all ages."
+      ]
+    }
+  ],
+  "links_out": [
+    "bohdan-khmelnytsky",
+    "ivan-franko",
+    "ivan-kotliarevskyi",
+    "kyiv",
+    "lesya-ukrainka",
+    "president-of-ukraine",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-literature",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "National Museum of Literature of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_Museum_of_Literature_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

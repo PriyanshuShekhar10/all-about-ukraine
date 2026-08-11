@@ -1,0 +1,61 @@
+{
+  "qid": "Q59599",
+  "slug": "civic-nationalism",
+  "title": "civic nationalism",
+  "type": "political ideology",
+  "category": "politics",
+  "aliases": [
+    "liberal nationalism",
+    "progressive nationalism",
+    "state nationalism"
+  ],
+  "infobox": {
+    "label": "political ideology",
+    "fields": []
+  },
+  "summary": "Civic nationalism, also referred to as democratic nationalism, is a political ideology that emphasizes liberal values such as freedom, tolerance, and equality, distinguishing itself from ethnocentric forms of nationalism. This ideology is particularly relevant in the context of Ukraine, where national identity plays a crucial role in shaping civic engagement and democratic governance.",
+  "sections": [
+    {
+      "heading": "Definition and Principles",
+      "paragraphs": [
+        "Civic nationalism is characterized by its adherence to traditional liberal values, including freedom, tolerance, equality, and individual rights, while rejecting ethnocentrism. It posits that a national identity is essential for individuals to lead meaningful lives and for democratic societies to function effectively. Membership in a civic nation is based on shared citizenship rather than cultural or ethnic identity."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Civic nationalism has roots in rationalism and liberalism and is often contrasted with ethnic nationalism. Early proponents, such as philosopher Ernest Renan, defined the nation as a 'daily referendum' based on the collective will to coexist. The principles of civic nationalism have influenced the development of democratic frameworks in various countries, including the United States and France, which are relevant to [[ukraine|Ukraine]]'s own democratic aspirations."
+      ]
+    },
+    {
+      "heading": "Civic Nationalism in Ukraine",
+      "paragraphs": [
+        "In Ukraine, civic nationalism has been a significant factor in shaping national identity, especially in the context of its ongoing struggle for sovereignty and democratic governance. The emphasis on shared citizenship and civic values resonates with the diverse cultural and ethnic landscape of Ukraine, promoting unity among its citizens regardless of their ethnic backgrounds."
+      ]
+    },
+    {
+      "heading": "Critiques and Challenges",
+      "paragraphs": [
+        "Critics, including scholars like Yael Tamir and Bernard Yack, argue that the distinctions between civic and ethnic nationalism can be ambiguous. They contend that civic nationalism may still harbor underlying ethnic concepts of belonging, complicating its application in multi-ethnic societies like Ukraine. This critique raises important questions about inclusivity and the potential for civic nationalism to become exclusionary."
+      ]
+    },
+    {
+      "heading": "Global Perspectives",
+      "paragraphs": [
+        "Civic nationalism is not confined to Ukraine; it has been observed in various global contexts, including movements in Corsica, Scotland, and Cyprus, where it emphasizes shared political identity over ethnic divisions. These examples highlight the potential for civic nationalism to foster unity in diverse societies, a principle that can be applied to Ukraine's ongoing nation-building efforts."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Civic nationalism — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Civic_nationalism",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

@@ -1,0 +1,87 @@
+{
+  "qid": "Q155620",
+  "slug": "second-battle-of-kharkov",
+  "title": "Second Battle of Kharkov",
+  "type": "battle",
+  "category": "war",
+  "aliases": [
+    "1942 Battle of Kharkov",
+    "3nd Battle of Kharkov",
+    "Battle of Kharkov 1942",
+    "Battles of Izyum"
+  ],
+  "infobox": {
+    "label": "battle",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Kharkiv",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.2300, 37.1281",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Second Battle of Kharkov, also known as Operation Fredericus, was an Axis counter-offensive that took place from May 12 to May 28, 1942, in the Kharkov region of [[ukraine|Ukraine]] during World War II. This battle aimed to eliminate the Soviet Izium bridgehead and resulted in a significant German victory, impacting the course of the war on the Eastern Front.",
+  "sections": [
+    {
+      "heading": "Background",
+      "paragraphs": [
+        "By late February 1942, the Soviet winter counter-offensive had pushed German forces back from Moscow but had also exhausted Soviet resources. [[donetsk|Stalin]], believing the Germans were weakened, decided to launch a new offensive in the spring, despite objections from his military advisors who recommended a more defensive approach.",
+        "The Soviet leadership anticipated that the Germans would focus their offensives towards Moscow and the south, similar to previous operations. Although the Stavka believed the Germans had been defeated, the threat from the German forces remained significant. Stalin ordered preparations for several local offensives, including one in the [[kharkiv|Kharkov]] area."
+      ]
+    },
+    {
+      "heading": "Soviet Preparations",
+      "paragraphs": [
+        "By May 11, 1942, the Red Army had organized six armies across two fronts in preparation for the offensive. The Southwestern Front included the 21st, 28th, 38th, and 6th Armies, while the Southern Front comprised the 57th and 9th Armies, supported by numerous divisions and tank corps.",
+        "However, logistical issues such as the rasputitsa, which turned the terrain into mud, delayed the Soviet preparations and allowed the Germans to anticipate Soviet movements. Commanders faced criticism for their management of forces and lack of effective planning."
+      ]
+    },
+    {
+      "heading": "German Counter-Offensive",
+      "paragraphs": [
+        "Unbeknownst to the Soviets, the German 6th Army was preparing for Operation Fredericus, which aimed to eliminate the Soviet forces in the Izium salient. The Germans reinforced their positions and were ready for a counter-offensive by mid-May 1942, with a strategic focus on the Caucasus and Stalingrad.",
+        "The German command anticipated a Soviet attack and had prepared their forces accordingly, setting the stage for a decisive confrontation."
+      ]
+    },
+    {
+      "heading": "Course of the Battle",
+      "paragraphs": [
+        "The Soviet offensive commenced on May 12, 1942, with an initial artillery bombardment followed by ground assaults. The Red Army made early gains, pushing into German defenses. However, German air superiority and counterattacks halted the Soviet advance.",
+        "Despite initial successes, critical miscalculations by Soviet leadership allowed the Germans to execute a pincer movement that encircled Soviet forces. By May 22, Soviet troops were trapped and subjected to intense bombardment and attacks.",
+        "The battle concluded with a catastrophic defeat for the Soviets, resulting in approximately 280,000 Soviet casualties compared to 20,000 for the Germans. The German Army Group South capitalized on this victory, leading to further offensives in the region."
+      ]
+    },
+    {
+      "heading": "Aftermath and Significance",
+      "paragraphs": [
+        "The Second Battle of Kharkov marked a significant turning point in the Eastern Front of World War II, demonstrating the effectiveness of German military strategy and the vulnerabilities of the Soviet forces. The overwhelming German victory had lasting implications for subsequent operations, including the launch of Case Blue on June 28, 1942.",
+        "This battle not only underscored the strategic importance of Kharkov and its surrounding [[administrative-territorial-entity-of-ukraine|areas in Ukraine]] but also highlighted the challenges faced by the Red Army in rebuilding its capabilities in the wake of earlier defeats."
+      ]
+    }
+  ],
+  "links_out": [
+    "administrative-territorial-entity-of-ukraine",
+    "donetsk",
+    "kharkiv",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Second Battle of Kharkov — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Kharkov",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

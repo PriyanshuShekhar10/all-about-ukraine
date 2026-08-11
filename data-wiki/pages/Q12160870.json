@@ -1,0 +1,78 @@
+{
+  "qid": "Q12160870",
+  "slug": "ternopil-regional-art-museum",
+  "title": "Ternopil Regional Art Museum",
+  "type": "museum",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "museum",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1991-05-01",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Ternopil",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.5573, 25.5927",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Ternopil Regional Art Museum is a significant cultural institution located in [[ternopil|Ternopil]], Ukraine, established on May 1, 1991. It serves to preserve and exhibit a diverse collection of artworks, emphasizing both Ukrainian and Western European art.",
+  "sections": [
+    {
+      "heading": "Foundation and History",
+      "paragraphs": [
+        "The Ternopil Regional Art Museum was founded on May 1, 1991, originating from a former art gallery that was part of the regional ethnography museum. Its roots trace back to the Podil'skyi Regional Museum, which was inaugurated on April 13, 1913, by Professor S. Sorokivskyi, who also created the first museum guide.",
+        "The museum's collection has faced challenges, including destruction during the First World War, but it was restored in 1925. Initially, it consisted of four sections: historical, ethnographic, modern art, and nature, with a focus on regional art.",
+        "The museum was officially reopened on November 9, 1930, and its collections were further enriched in 1939 with works from nationalized collections. After a hiatus during World War II, it resumed operations on July 15, 1945."
+      ]
+    },
+    {
+      "heading": "Exhibitions and Collections",
+      "paragraphs": [
+        "As of January 1, 2009, the museum's collection comprised 8,011 exhibits, including 765 paintings, 6,965 graphics, 140 sculptures, and 141 arts and crafts. The permanent exhibition is organized chronologically and highlights the art of [[ukraine|Ukraine]] and Western Europe.",
+        "Significant pieces include icons from the 17th to 19th centuries, works by J.G. Pinsel and Anton Osinskyi, and historical books with engravings from the 18th century. The museum also features a hall dedicated to the works of Dioniziy Sholdra, a museum restorer and artist who contributed 50 paintings to the museum."
+      ]
+    },
+    {
+      "heading": "Notable Events and Developments",
+      "paragraphs": [
+        "The museum's first exhibition of works by Andrew Patrick took place on August 9, 1991. In October of the same year, an exhibition showcasing both [[ukrainian|Ukrainian]] and foreign art was launched, which continues to be a highlight of the museum's programming.",
+        "In September 1998, the Memorial Hall of D. Sholdra was opened, displaying his works, photographs, documents, and restoration tools, thereby enhancing the museum's focus on conservation and restoration."
+      ]
+    },
+    {
+      "heading": "Leadership",
+      "paragraphs": [
+        "Ihor Duda served as the director of the Ternopil Regional Art Museum from its founding in 1991 until 2021. Hryhorii Sherhei has been the director since 2021, continuing the museum's mission to promote and preserve art in Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "ternopil",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ternopil Regional Art Museum — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ternopil_Regional_Art_Museum",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

@@ -1,0 +1,81 @@
+{
+  "qid": "Q2380199",
+  "slug": "borys-hrinchenko",
+  "title": "Borys Hrinchenko",
+  "type": "human",
+  "category": "politics",
+  "aliases": [
+    "Borys Dmytrovych Grinchenko",
+    "Borys Dmytrovych Hrinchenko",
+    "Borys Dmytrovych Hrinchenko (Grinchenko)",
+    "Vasyl Chaichenko"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1863-12-09",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1910-05-06",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Kharkov Governorate",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Borys Dmytrovych Hrinchenko was a prominent Ukrainian prose writer, political activist, historian, publicist, and ethnographer, born on December 9, 1863, and passing on May 6, 1910. He played a crucial role in the Ukrainian cultural revival during the late 19th and early 20th centuries, notably contributing to the development of the Ukrainian language and education.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Borys Hrinchenko was born on December 9, 1863, in the khutir of Vilkhovy Yar, located in the [[kharkiv-oblast|Kharkiv]] Governorate of the Russian Empire, which is now the village of Prylisne in Kharkiv Raion. He was baptized in the Archangel-Michael church in Borshcheve. His father was a retired army officer of noble descent, and his mother, Poliksenia Litryova, was the daughter of a colonel. The family owned 19 desyatinas (approximately 20.76 hectares) of land, primarily forest and a water mill. Although his father spoke [[ukrainian|Ukrainian]] with local peasants, the family primarily communicated in Russian at home.",
+        "Hrinchenko was homeschooled before attending the Kharkiv Real School from 1874 to 1879. Influenced by the works of [[taras-shevchenko|Taras Shevchenko]], he began collecting folklore materials during this time. He cited authors such as Walter Scott and Alexander Pushkin as significant influences on his literary development."
+      ]
+    },
+    {
+      "heading": "Literary and Political Contributions",
+      "paragraphs": [
+        "Hrinchenko was an active member of the Ukrainian cultural and political landscape. He was one of the founders of the Ukrainian Democratic Party and contributed to various Ukrainian periodicals. His literary works included poetry collections, short stories, and novels, with notable titles such as 'Songs of Vasyl Chaichenko' (1884) and 'In the Middle of the Dark Night' (1900).",
+        "He was instrumental in the publication of the first Ukrainian-language dictionary, which he compiled with his wife, Maria Hrinchenko, and published between 1907 and 1909. This dictionary was recognized with an academic award and included 70,000 words from literary and folklore sources."
+      ]
+    },
+    {
+      "heading": "Advocacy for Ukrainian Language and Education",
+      "paragraphs": [
+        "Hrinchenko was a strong advocate for the Ukrainian language in education and public life. He authored several textbooks in Ukrainian, including 'Native Word,' and was involved in the establishment of the All-Ukrainian Teachers' Union in 1905. His works often addressed the importance of teaching in the native language and the need for cultural revival among [[ukrainians|Ukrainians]].",
+        "He also published critical works highlighting the oppressive policies of the Russian government towards Ukrainians, such as his 1895 brochure 'A Nation Under Oppression.'"
+      ]
+    },
+    {
+      "heading": "Later Life and Legacy",
+      "paragraphs": [
+        "In 1902, Hrinchenko moved to [[kyiv|Kyiv]], where he continued his literary and political work until his death on May 6, 1910, in Ospedaletti, Italy. He was buried in Baikove Cemetery in Kyiv. His health had deteriorated due to tuberculosis, a condition exacerbated by his earlier imprisonment.",
+        "Hrinchenko's contributions to Ukrainian culture and education are commemorated through various honors, including the Borys Hrinchenko Prize awarded by the Taras Shevchenko All-Ukrainian Enlightenment Society. Streets in [[lviv|Lviv]] and Kyiv are named after him, and a monument was unveiled in Kyiv on August 22, 2011."
+      ]
+    }
+  ],
+  "links_out": [
+    "kharkiv-oblast",
+    "kyiv",
+    "lviv",
+    "taras-shevchenko",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Borys Hrinchenko — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Borys_Hrinchenko",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

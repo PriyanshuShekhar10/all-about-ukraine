@@ -24,7 +24,7 @@
       "heading": "Great Northern War and World War I",
       "paragraphs": [
         "During the Great Northern War, the Storming of Lemberg in 1704 resulted in the capture and looting of Lwów by Swedish forces.",
-        "In World War I, the Battle of Lemberg in 1914, also known as the Battle of Galicia, led to the capture of Lemberg by Russian troops at the war's outset.",
+        "In World War I, the Battle of Lemberg in 1914, also known as the Battle of [[galicia|Galicia]], led to the capture of Lemberg by Russian troops at the war's outset.",
         "The following year, in 1915, [[lviv|Lviv]] was recaptured by Austria-Hungary during another battle involving the 4th Division."
       ]
     },
@@ -45,6 +45,7 @@
     }
   ],
   "links_out": [
+    "galicia",
     "hetman",
     "lviv",
     "ukraine",

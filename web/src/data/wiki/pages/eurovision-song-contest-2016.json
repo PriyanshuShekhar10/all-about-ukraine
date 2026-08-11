@@ -1,0 +1,83 @@
+{
+  "qid": "Q6015709",
+  "slug": "eurovision-song-contest-2016",
+  "title": "Eurovision Song Contest 2016",
+  "type": "Eurovision Song Contest edition",
+  "category": "people",
+  "aliases": [
+    "ESC 2016",
+    "Eurovision 2016"
+  ],
+  "infobox": {
+    "label": "Eurovision Song Contest edition",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2016-05",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Sweden",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Avicii Arena",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "59.2936, 18.0832",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Eurovision Song Contest 2016 marked the 61st iteration of the annual music competition, featuring Ukraine's significant victory with the song '1944' performed by Jamala. The event took place in Stockholm, Sweden, and highlighted Ukraine's cultural contributions and the relevance of its music on an international stage.",
+  "sections": [
+    {
+      "heading": "Event Overview",
+      "paragraphs": [
+        "The Eurovision Song Contest 2016 was held at the Ericsson Globe in Stockholm, Sweden, comprising two semi-finals on 10 and 12 May, and a final on 14 May 2016. This edition was organized by the European Broadcasting Union (EBU) and Sveriges Television (SVT), following Sweden's victory in the previous year with the song 'Heroes' by Måns Zelmerlöw."
+      ]
+    },
+    {
+      "heading": "Participation and Results",
+      "paragraphs": [
+        "A total of forty-two countries participated in the contest, with notable returns from [[ukraine|Ukraine]], Bosnia and Herzegovina, Bulgaria, and Croatia after recent absences. Ukraine achieved a historic win with the song '1944', performed and written by [[jamala|Jamala]], marking the first time a song featuring lyrics in [[crimean-tatar|Crimean Tatar]] won the contest. In the final standings, Ukraine placed second in both the jury and televote categories, with Australia winning the jury vote and Russia winning the televote."
+      ]
+    },
+    {
+      "heading": "Voting System Changes",
+      "paragraphs": [
+        "The 2016 contest introduced a significant change to the voting system, the first since 1975. While the professional jury points were announced as in previous years, the results of the national televote were combined and revealed in reverse order. This change aimed to enhance the suspense of the voting process."
+      ]
+    },
+    {
+      "heading": "Venue and Related Events",
+      "paragraphs": [
+        "The Ericsson Globe, with a capacity of approximately 16,000 attendees, hosted the contest for the second time, the first being in 2000. Additionally, the Eurovision Village served as a fan area during the event week, while the EuroClub hosted official after-parties for accredited participants. A live event titled 'Eurovision the Party' was also held alongside the final, allowing fans to engage with the contest in a celebratory atmosphere."
+      ]
+    },
+    {
+      "heading": "Cultural Significance for Ukraine",
+      "paragraphs": [
+        "Ukraine's victory in the Eurovision Song Contest 2016 with '1944' not only showcased its musical talent but also brought attention to the cultural and historical narratives associated with the Crimean Tatar community. This win was significant for Ukraine amid ongoing geopolitical tensions and served to elevate the country's cultural presence on an international platform."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimean-tatar",
+    "jamala",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Eurovision Song Contest 2016 — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2016",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

@@ -1,0 +1,81 @@
+{
+  "qid": "Q9364596",
+  "slug": "ukrainian-red-cross-society",
+  "title": "Ukrainian Red Cross Society",
+  "type": "National Red Cross and Red Crescent society",
+  "category": "war",
+  "aliases": [
+    "Red Cross of Ukraine",
+    "URCS"
+  ],
+  "infobox": {
+    "label": "National Red Cross and Red Crescent society",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1918-04-18",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Ukrainian Red Cross Society is a non-profit humanitarian organization based in Ukraine, engaged in various humanitarian efforts including disaster management, health care, and support for vulnerable populations. It has been a member of the International Federation of Red Cross/Red Crescent Societies since 1993.",
+  "sections": [
+    {
+      "heading": "Foundation and Early History",
+      "paragraphs": [
+        "The Ukrainian Red Cross Society was founded on April 18, 1918, in [[kyiv|Kyiv]] as an independent humanitarian organization of the [[ukrainian-peoples-republic|Ukrainian People's Republic]]. Its primary objectives included assisting refugees and prisoners of war, caring for individuals with disabilities, orphaned children, combating famine and epidemics, and organizing hospitals and public canteens.",
+        "From the 1920s, following the incorporation of [[ukrainian|Ukrainian]] territory into the Soviet Union, the Ukrainian Red Cross operated as a branch of the Soviet Red Cross until [[ukraine|Ukraine]]'s independence in 1991."
+      ]
+    },
+    {
+      "heading": "Role During World War II",
+      "paragraphs": [
+        "In 1943, the Ukrainian Red Cross was re-established as a separate entity from the Soviet Red Cross, coinciding with the unification of the [[ukrainian-insurgent-army|Ukrainian Insurgent Army]] (UPA). The organization provided care for sick and wounded UPA soldiers, recruited skilled medical professionals, and facilitated the supply and production of medicine.",
+        "Additionally, the Ukrainian Red Cross set up underground hospitals and conducted training for new physicians and UPA soldiers, while doctors worked in regional military hospitals treating those injured by German, Soviet, or Polish punitive actions."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "The [[verkhovna-rada|Ukrainian parliament]] passed the Red Cross law in 1999, formalizing the organization's role in humanitarian efforts. By 2001, the Ukrainian Red Cross had engaged over 6.3 million supporters and activists, and its Visiting Nurses Service comprised 3,200 qualified nurses.",
+        "The organization participates in more than 40 humanitarian programs across Ukraine, primarily funded through public donations and corporate partnerships. It estimates that it provides services to over 105,000 lonely elderly individuals, around 23,000 people with disabilities from World War II, more than 25,000 war veterans, and over 8,000 adults disabled since childhood, along with assistance for orphaned and disabled children."
+      ]
+    },
+    {
+      "heading": "Response to the 2022 Russian Invasion",
+      "paragraphs": [
+        "In response to the ongoing conflict resulting from the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], the Ukrainian Red Cross Society has collaborated closely with the International Committee of the Red Cross and the International Federation of Red Cross and Red Crescent Societies.",
+        "The Society's efforts include providing protection and assistance to civilians, distributing relief supplies, offering first aid and health services in accordance with international humanitarian law, and supporting dignified management of deceased individuals.",
+        "Furthermore, it focuses on reestablishing family connections among separated members, particularly unaccompanied minors and vulnerable populations such as the elderly and disabled, while promoting respect for international humanitarian law."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-insurgent-army",
+    "ukrainian-peoples-republic",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Red Cross Society — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Red_Cross_Society",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}

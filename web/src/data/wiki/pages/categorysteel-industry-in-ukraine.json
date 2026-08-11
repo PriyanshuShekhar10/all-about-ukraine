@@ -1,0 +1,66 @@
+{
+  "qid": "Q6822757",
+  "slug": "categorysteel-industry-in-ukraine",
+  "title": "Category:Steel industry in Ukraine",
+  "type": "Wikimedia category",
+  "category": "economy",
+  "aliases": [
+    "metal production"
+  ],
+  "infobox": {
+    "label": "Wikimedia category",
+    "fields": []
+  },
+  "summary": "The steel industry is a crucial component of Ukraine's economy, being the country's leading heavy industry and a significant player in global iron and steel production. In 2007, Ukraine ranked as the eighth largest producer and third largest exporter of iron and steel worldwide.",
+  "sections": [
+    {
+      "heading": "Economic Impact",
+      "paragraphs": [
+        "The iron and steel sector in [[ukraine|Ukraine]] accounts for approximately 2% of global crude steel output, contributes 5% to 6% of the national gross domestic product, and represents 34% of the country's export revenue as of 2007. In that year, the industry employed around 420,000 individuals, which constituted 10% of the industrial workforce and 2% of the total labor force in Ukraine."
+      ]
+    },
+    {
+      "heading": "Production and Challenges",
+      "paragraphs": [
+        "The [[ukrainian|Ukrainian]] steel industry reached its peak production of 42.8 million tonnes in 2007, but this figure declined to 29.8 million tonnes in 2009 due to the global financial crisis. The industry is primarily concentrated in central, southern, and eastern regions, including [[kryvyi-rih|Kryvyi Rih]], [[zaporizhzhia|Zaporizhia]], and the [[donbas|Donets Basin]], with major production facilities having capacities ranging from 4 to 7 million tonnes annually. As of 2006, a significant portion of steel production relied on outdated open hearth furnaces, posing challenges related to modernization and rising energy costs."
+      ]
+    },
+    {
+      "heading": "Natural Resources",
+      "paragraphs": [
+        "Ukraine is endowed with vast natural reserves of iron ore, estimated at 30 billion tonnes, which accounts for about one-fifth of the global total. The country ranks third in the world for iron reserves, with the majority of mining concentrated in the Kryvyi Rih Ore Basin. Additionally, Ukraine has significant reserves of manganese and coal, although the coal mining sector faces financial difficulties."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "The history of metal production in Ukraine can be traced back to ancient times, with significant developments occurring during the Iron Age and continuing through the 19th and 20th centuries. The establishment of the Hughes factory in the late 19th century marked a pivotal moment in Ukraine's metallurgical industry, leading to the rapid growth of the town of [[donetsk|Hughesovka]] (Yuzovka) and the expansion of iron and steel production in the region."
+      ]
+    },
+    {
+      "heading": "Current Industry Structure",
+      "paragraphs": [
+        "As of 2007, the Ukrainian steel industry is characterized by a consolidation of production into vertically-integrated companies, with key players including [[arcelormittal-kryvyi-rih|Kryvorizhstal]] (ArcelorMittal), Evraz, and [[metinvest|Metinvest]]. The industry also encompasses various non-ferrous metal sectors, with significant production of manganese and aluminum, although the latter is constrained by energy costs."
+      ]
+    }
+  ],
+  "links_out": [
+    "arcelormittal-kryvyi-rih",
+    "donbas",
+    "donetsk",
+    "kryvyi-rih",
+    "metinvest",
+    "ukraine",
+    "ukrainian",
+    "zaporizhzhia"
+  ],
+  "sources": [
+    {
+      "title": "Metal production in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Metal_production_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-11",
+  "status": "published"
+}
