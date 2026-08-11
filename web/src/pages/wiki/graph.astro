@@ -1,0 +1,55 @@
+---
+import Base from "@/layouts/Base.astro";
+import KnowledgeGraph from "@/components/KnowledgeGraph.astro";
+import { getKnowledgeGraph, wikiCounts } from "@/lib/wiki";
+
+const graph = getKnowledgeGraph();
+const description =
+  "Interactive knowledge graph of Ukraine encyclopedia entries — nodes are pages, edges are cross-links. Grows as the corpus grows.";
+
+const site = "https://ukraineporn.com";
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  name: "Knowledge graph",
+  description,
+  url: `${site}/wiki/graph/`,
+  isPartOf: {
+    "@type": "WebSite",
+    name: "Ukraine Encyclopedia",
+    url: `${site}/`,
+  },
+};
+---
+
+<Base title="Knowledge graph" description={description} jsonLd={jsonLd}>
+  <div class="doc mx-auto max-w-[960px] px-5 py-8 sm:py-10">
+    <nav aria-label="Breadcrumb" class="ui mb-4 text-sm text-mute">
+      <a href="/" class="hover:underline">Home</a>
+      <span aria-hidden="true"> › </span>
+      <span>Knowledge graph</span>
+    </nav>
+
+    <header class="border-b border-hairline pb-4">
+      <h1 class="text-3xl font-bold leading-tight text-ink sm:text-4xl">
+        Knowledge graph
+      </h1>
+      <p class="mt-2 max-w-prose text-body">
+        Every entry is a node; every cross-link in the encyclopedia is an edge.
+        The map is rebuilt whenever new pages are added, so it grows with the
+        corpus ({wikiCounts.pages} entries, {graph.edges.length} links).
+      </p>
+    </header>
+
+    <div class="mt-6">
+      <KnowledgeGraph data={graph} height={640} />
+    </div>
+
+    <p class="ui mt-6 text-sm text-mute">
+      Prefer a list? See the
+      <a href="/wiki/a-z" class="doclink">A–Z index</a>
+      or
+      <a href="/wiki/search" class="doclink">search</a>.
+    </p>
+  </div>
+</Base>

@@ -33,7 +33,8 @@ export default defineConfig({
         const u = item.url;
         if (u === `${SITE}/`) item.priority = 1.0;
         else if (u.includes("/wiki/category/")) item.priority = 0.6;
-        else if (u === `${SITE}/wiki/a-z/`) item.priority = 0.5;
+        else if (u === `${SITE}/wiki/a-z/` || u === `${SITE}/wiki/graph/`)
+          item.priority = 0.55;
         else if (u.startsWith(`${SITE}/wiki/`)) item.priority = 0.7;
         else item.priority = 0.5;
         item.changefreq = "weekly";

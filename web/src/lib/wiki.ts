@@ -51,6 +51,26 @@ export interface WikiIndexEntry {
 
 interface Graph {
   backlinks: Record<string, string[]>;
+  /** Optional: written by resolve_links.py; derived on the fly if absent. */
+  nodes?: GraphNode[];
+  edges?: GraphEdge[];
+}
+
+export interface GraphNode {
+  id: string;
+  title: string;
+  category: string;
+  degree: number;
+}
+
+export interface GraphEdge {
+  source: string;
+  target: string;
+}
+
+export interface KnowledgeGraph {
+  nodes: GraphNode[];
+  edges: GraphEdge[];
 }
 
 /** Display name + short blurb for each category slug. */
@@ -162,6 +182,7 @@ export function ogKeyForPath(pathname: string): string {
   const clean = pathname.replace(/^\/+|\/+$/g, "");
   if (clean === "") return "index";
   if (clean === "wiki/a-z") return "wiki/a-z";
+  if (clean === "wiki/graph") return "wiki/graph";
   const cat = clean.match(/^wiki\/category\/([a-z0-9-]+)$/);
   if (cat && getCategory(cat[1])) return clean;
   const slug = clean.match(/^wiki\/([a-z0-9-]+)$/);
@@ -187,6 +208,74 @@ export function getBacklinks(slug: string): WikiIndexEntry[] {
     .map((s) => wikiIndex.find((e) => e.slug === s))
     .filter((e): e is WikiIndexEntry => Boolean(e))
     .sort((a, b) => a.title.localeCompare(b.title));
+}
+
+/**
+ * Full knowledge graph for the Obsidian-style viz. Prefers the explicit
+ * nodes/edges written by `resolve_links.py` (regenerated on every grow run);
+ * otherwise derives them from page `links_out` (or backlinks) so the page
+ * still works before the next pipeline pass.
+ */
+export function getKnowledgeGraph(): KnowledgeGraph {
+  if (graph.nodes?.length && graph.edges) {
+    return {
+      nodes: graph.nodes.map((n) => ({
+        ...n,
+        title: displayTitle(n.title),
+      })),
+      edges: graph.edges,
+    };
+  }
+
+  const degree = new Map<string, number>();
+  const edges: GraphEdge[] = [];
+  const seen = new Set<string>();
+
+  const addEdge = (source: string, target: string) => {
+    const key = `${source}\0${target}`;
+    if (seen.has(key)) return;
+    seen.add(key);
+    edges.push({ source, target });
+    degree.set(source, (degree.get(source) ?? 0) + 1);
+    degree.set(target, (degree.get(target) ?? 0) + 1);
+  };
+
+  let usedLinksOut = false;
+  for (const page of pagesBySlug.values()) {
+    const outs = page.links_out ?? [];
+    if (!outs.length) continue;
+    usedLinksOut = true;
+    for (const target of outs) addEdge(page.slug, target);
+  }
+
+  if (!usedLinksOut) {
+    for (const [target, sources] of Object.entries(graph.backlinks)) {
+      for (const source of sources) addEdge(source, target);
+    }
+  }
+
+  const nodes: GraphNode[] = wikiIndex.map((e) => ({
+    id: e.slug,
+    title: displayTitle(e.title),
+    category: e.category,
+    degree: degree.get(e.slug) ?? 0,
+  }));
+
+  return { nodes, edges };
+}
+
+/** Neighborhood around a page (focus + direct links in/out). */
+export function getLocalGraph(slug: string): KnowledgeGraph {
+  const full = getKnowledgeGraph();
+  const keep = new Set<string>([slug]);
+  for (const e of full.edges) {
+    if (e.source === slug) keep.add(e.target);
+    if (e.target === slug) keep.add(e.source);
+  }
+  return {
+    nodes: full.nodes.filter((n) => keep.has(n.id)),
+    edges: full.edges.filter((e) => keep.has(e.source) && keep.has(e.target)),
+  };
 }
 
 export interface WikiCategory {

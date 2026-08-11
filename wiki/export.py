@@ -4,7 +4,7 @@
 Produces:
   web/src/data/wiki/pages/<slug>.json   one file per page
   web/src/data/wiki/index.json          lightweight list for portal/search/A-Z
-  web/src/data/wiki/graph.json          backlinks + categories
+  web/src/data/wiki/graph.json          backlinks + nodes/edges for the knowledge graph
   web/src/data/wiki/redirects.json      alias -> slug
 
 Usage: python wiki/export.py

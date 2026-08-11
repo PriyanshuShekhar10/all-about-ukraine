@@ -2,7 +2,9 @@ name: Grow wiki (daily)
 
 # Adds new encyclopedia entries once a day — evenly across all sections — and
 # commits them to the repo. It only ADDS to the existing corpus; it never
-# replaces what is already there.
+# replaces what is already there. Each run also re-resolves cross-links and
+# regenerates graph.json (nodes/edges), so the knowledge-graph page grows
+# automatically with the corpus.
 #
 # Rate: throttled to ~100 entries/day (14 per section x 7 sections = 98).
 # Bump `per_category` (or add more scheduled runs) later to grow faster.

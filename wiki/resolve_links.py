@@ -106,12 +106,35 @@ def main() -> int:
     for k in categories:
         categories[k] = sorted(set(categories[k]))
 
+    # Explicit node/edge lists for the interactive knowledge-graph UI. Rebuilt
+    # every resolve pass so the viz grows automatically with the corpus.
+    edges = [
+        {"source": page["slug"], "target": t}
+        for page in pages
+        for t in page.get("links_out", [])
+    ]
+    nodes = []
+    for page in pages:
+        slug = page["slug"]
+        degree = len(page.get("links_out", [])) + len(backlinks.get(slug, []))
+        nodes.append(
+            {
+                "id": slug,
+                "title": page["title"],
+                "category": page.get("category", "other"),
+                "degree": degree,
+            }
+        )
+    nodes.sort(key=lambda n: n["id"])
+
     write_json(
         DATA_WIKI / "graph.json",
         {
             "backlinks": backlinks,
             "categories": categories,
             "category_names": CATEGORIES,
+            "nodes": nodes,
+            "edges": edges,
         },
     )
 

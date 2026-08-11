@@ -8,6 +8,7 @@ const TAGLINE = "No fantasies. Just centuries of Ukraine’s story, uncensored."
 const pages: Record<string, { title: string; description: string }> = {
   index: { title: "An Encyclopedia of Ukraine", description: TAGLINE },
   "wiki/a-z": { title: "A–Z Index", description: TAGLINE },
+  "wiki/graph": { title: "Knowledge Graph", description: TAGLINE },
 };
 for (const c of getCategories()) {
   pages[`wiki/category/${c.slug}`] = { title: c.name, description: TAGLINE };
