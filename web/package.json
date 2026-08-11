@@ -17,6 +17,7 @@
     "@tailwindcss/vite": "^4.3.3",
     "astro": "^7.2.0",
     "astro-og-canvas": "^0.13.0",
+    "force-graph": "^1.51.4",
     "tailwindcss": "^4.3.3"
   },
   "devDependencies": {

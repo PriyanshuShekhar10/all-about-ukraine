@@ -6,14 +6,13 @@ interface Props {
   data: KG;
   /** Highlight this node (local graph on an article). */
   focus?: string;
-  /** Canvas height in CSS pixels (before devicePixelRatio). */
+  /** Canvas height in CSS pixels. */
   height?: number;
   /** Compact chrome for embedding on article pages. */
   compact?: boolean;
 }
 
 const { data, focus, height = 560, compact = false } = Astro.props;
-const id = `kg-${focus ?? "global"}`;
 
 const legend = CATEGORY_ORDER.filter((slug) =>
   data.nodes.some((n) => n.category === slug),
@@ -26,24 +25,25 @@ const payload = {
   nodes: data.nodes,
   edges: data.edges,
   focus: focus ?? null,
+  compact,
 };
 ---
 
 <figure
   class:list={["knowledge-graph", compact && "knowledge-graph--compact"]}
   data-kg-root
-  data-kg-id={id}
   style={`--kg-h: ${height}px`}
 >
   {
     !compact && (
       <div class="ui mb-3 flex flex-wrap items-center justify-between gap-3 text-sm">
         <p class="text-mute">
-          {data.nodes.length} entries · {data.edges.length} links. Drag to pan,
-          scroll to zoom, click a node to open it.
+          {data.nodes.length} entries · {data.edges.length} links. Drag the
+          background to pan, scroll to zoom, drag a node to move it, click to
+          open.
         </p>
         <label class="flex items-center gap-2 text-body">
-          <span class="sr-only">Filter by title</span>
+          <span class="sr-only">Find an entry</span>
           <input
             type="search"
             data-kg-filter
@@ -60,10 +60,10 @@ const payload = {
     class="relative overflow-hidden border border-hairline bg-canvas-soft"
     style="height: var(--kg-h)"
   >
-    <canvas data-kg-canvas class="block size-full touch-none" aria-label="Knowledge graph"></canvas>
+    <div data-kg-mount class="size-full" aria-label="Knowledge graph"></div>
     <p
       data-kg-hint
-      class="ui pointer-events-none absolute bottom-2 left-2 max-w-[70%] truncate rounded-sm bg-canvas/90 px-2 py-1 text-xs text-mute"
+      class="ui pointer-events-none absolute bottom-2 left-2 z-10 max-w-[75%] truncate rounded-sm bg-canvas/90 px-2 py-1 text-xs text-mute"
       aria-live="polite"
     >
     </p>
@@ -89,20 +89,20 @@ const payload = {
   <script
     type="application/json"
     data-kg-json
+    is:inline
     set:html={JSON.stringify(payload).replace(/</g, "\\u003c")}
   />
 </figure>
 
 <style>
   .knowledge-graph--compact {
-    --kg-h: 280px;
+    --kg-h: 300px;
   }
   @media (min-width: 640px) {
     .knowledge-graph:not(.knowledge-graph--compact) {
-      --kg-h: 640px;
+      --kg-h: 680px;
     }
   }
-  /* Category swatches — dull encyclopedia tones; darkened in .dark */
   [data-kg-swatch="geography"] {
     background: #6b7f9a;
   }
@@ -154,398 +154,8 @@ const payload = {
 </style>
 
 <script>
-  type SimNode = {
-    id: string;
-    title: string;
-    category: string;
-    degree: number;
-    x: number;
-    y: number;
-    vx: number;
-    vy: number;
-  };
+  import { initKnowledgeGraphs } from "@/scripts/knowledge-graph";
 
-  type SimEdge = { source: string; target: string };
-
-  const COLORS: Record<string, [string, string]> = {
-    // [light, dark]
-    geography: ["#6b7f9a", "#8fa3bc"],
-    history: ["#8a7360", "#b39a84"],
-    war: ["#8f5e5a", "#b88884"],
-    politics: ["#6f6b8a", "#9a96b4"],
-    people: ["#5f7a72", "#88a49c"],
-    culture: ["#8a7a52", "#b4a474"],
-    economy: ["#5f7a5f", "#88a488"],
-    other: ["#7a7a7a", "#9a9a9a"],
-  };
-
-  function isDark() {
-    const root = document.documentElement;
-    if (root.classList.contains("dark")) return true;
-    if (root.classList.contains("light")) return false;
-    return window.matchMedia("(prefers-color-scheme: dark)").matches;
-  }
-
-  function nodeColor(category: string) {
-    const pair = COLORS[category] ?? COLORS.other;
-    return isDark() ? pair[1] : pair[0];
-  }
-
-  function initGraph(root: HTMLElement) {
-    const jsonEl = root.querySelector<HTMLScriptElement>("[data-kg-json]");
-    const canvas = root.querySelector<HTMLCanvasElement>("[data-kg-canvas]");
-    const hint = root.querySelector<HTMLElement>("[data-kg-hint]");
-    const filterInput = root.querySelector<HTMLInputElement>("[data-kg-filter]");
-    if (!jsonEl || !canvas) return;
-
-    let payload: {
-      nodes: { id: string; title: string; category: string; degree: number }[];
-      edges: SimEdge[];
-      focus: string | null;
-    };
-    try {
-      payload = JSON.parse(jsonEl.textContent || "{}");
-    } catch {
-      return;
-    }
-
-    const nodes: SimNode[] = payload.nodes.map((n) => ({
-      ...n,
-      x: 0,
-      y: 0,
-      vx: 0,
-      vy: 0,
-    }));
-    const edges = payload.edges.filter(
-      (e) => nodes.some((n) => n.id === e.source) && nodes.some((n) => n.id === e.target),
-    );
-    const byId = new Map(nodes.map((n) => [n.id, n]));
-    const focusId = payload.focus;
-
-    // Seed positions in a loose circle (stable-ish across reloads).
-    const n = Math.max(nodes.length, 1);
-    nodes.forEach((node, i) => {
-      const angle = (i / n) * Math.PI * 2;
-      const r = 40 + Math.min(node.degree, 24) * 4;
-      node.x = Math.cos(angle) * r;
-      node.y = Math.sin(angle) * r;
-    });
-    if (focusId && byId.has(focusId)) {
-      byId.get(focusId)!.x = 0;
-      byId.get(focusId)!.y = 0;
-    }
-
-    let width = 0;
-    let height = 0;
-    let dpr = 1;
-    let scale = 1;
-    let tx = 0;
-    let ty = 0;
-    let running = true;
-    let alpha = 1;
-    let filter = "";
-    let hover: SimNode | null = null;
-    let drag: SimNode | null = null;
-    let panning = false;
-    let lastX = 0;
-    let lastY = 0;
-    let moved = false;
-
-    const ctx = canvas.getContext("2d");
-    if (!ctx) return;
-
-    function resize() {
-      const rect = canvas!.parentElement!.getBoundingClientRect();
-      width = Math.max(1, rect.width);
-      height = Math.max(1, rect.height);
-      dpr = Math.min(window.devicePixelRatio || 1, 2);
-      canvas!.width = Math.floor(width * dpr);
-      canvas!.height = Math.floor(height * dpr);
-      canvas!.style.width = `${width}px`;
-      canvas!.style.height = `${height}px`;
-      ctx!.setTransform(dpr, 0, 0, dpr, 0, 0);
-      if (tx === 0 && ty === 0) {
-        tx = width / 2;
-        ty = height / 2;
-      }
-    }
-
-    function screenToWorld(sx: number, sy: number) {
-      return { x: (sx - tx) / scale, y: (sy - ty) / scale };
-    }
-
-    function hitTest(sx: number, sy: number): SimNode | null {
-      const { x, y } = screenToWorld(sx, sy);
-      let best: SimNode | null = null;
-      let bestD = Infinity;
-      for (const node of nodes) {
-        const r = 4 + Math.min(node.degree, 20) * 0.45;
-        const dx = node.x - x;
-        const dy = node.y - y;
-        const d = dx * dx + dy * dy;
-        if (d <= r * r * 2.2 && d < bestD) {
-          best = node;
-          bestD = d;
-        }
-      }
-      return best;
-    }
-
-    function matchesFilter(node: SimNode) {
-      if (!filter) return true;
-      return node.title.toLowerCase().includes(filter);
-    }
-
-    function tick() {
-      if (!running && !drag) return;
-      const cool = 0.92;
-      alpha *= cool;
-      if (alpha < 0.02 && !drag) {
-        running = false;
-        alpha = 0;
-      }
-
-      // Repulsion
-      for (let i = 0; i < nodes.length; i++) {
-        for (let j = i + 1; j < nodes.length; j++) {
-          const a = nodes[i];
-          const b = nodes[j];
-          let dx = b.x - a.x;
-          let dy = b.y - a.y;
-          let dist = Math.sqrt(dx * dx + dy * dy) || 0.01;
-          const force = (1400 / (dist * dist)) * Math.max(alpha, 0.05);
-          dx = (dx / dist) * force;
-          dy = (dy / dist) * force;
-          a.vx -= dx;
-          a.vy -= dy;
-          b.vx += dx;
-          b.vy += dy;
-        }
-      }
-
-      // Springs along edges
-      for (const e of edges) {
-        const a = byId.get(e.source);
-        const b = byId.get(e.target);
-        if (!a || !b) continue;
-        const dx = b.x - a.x;
-        const dy = b.y - a.y;
-        const dist = Math.sqrt(dx * dx + dy * dy) || 0.01;
-        const ideal = 70;
-        const force = (dist - ideal) * 0.02 * Math.max(alpha, 0.15);
-        const fx = (dx / dist) * force;
-        const fy = (dy / dist) * force;
-        a.vx += fx;
-        a.vy += fy;
-        b.vx -= fx;
-        b.vy -= fy;
-      }
-
-      // Mild centering
-      for (const node of nodes) {
-        if (drag === node) {
-          node.vx = 0;
-          node.vy = 0;
-          continue;
-        }
-        node.vx += -node.x * 0.005;
-        node.vy += -node.y * 0.005;
-        node.vx *= 0.85;
-        node.vy *= 0.85;
-        node.x += node.vx;
-        node.y += node.vy;
-      }
-    }
-
-    function draw() {
-      ctx!.clearRect(0, 0, width, height);
-      ctx!.save();
-      ctx!.translate(tx, ty);
-      ctx!.scale(scale, scale);
-
-      const ink = getComputedStyle(document.documentElement)
-        .getPropertyValue("--color-hairline")
-        .trim() || "#cbcbcd";
-      const mute = getComputedStyle(document.documentElement)
-        .getPropertyValue("--color-mute")
-        .trim() || "#85888e";
-      const inkText = getComputedStyle(document.documentElement)
-        .getPropertyValue("--color-ink")
-        .trim() || "#24262a";
-
-      // Edges
-      ctx!.lineWidth = 1 / scale;
-      for (const e of edges) {
-        const a = byId.get(e.source);
-        const b = byId.get(e.target);
-        if (!a || !b) continue;
-        const dim =
-          filter &&
-          !(matchesFilter(a) || matchesFilter(b));
-        ctx!.strokeStyle = dim ? `${ink}55` : ink;
-        ctx!.beginPath();
-        ctx!.moveTo(a.x, a.y);
-        ctx!.lineTo(b.x, b.y);
-        ctx!.stroke();
-      }
-
-      // Nodes
-      for (const node of nodes) {
-        const r = 3.5 + Math.min(node.degree, 20) * 0.4;
-        const dim = filter && !matchesFilter(node);
-        const isFocus = focusId === node.id;
-        const isHover = hover === node;
-        ctx!.beginPath();
-        ctx!.arc(node.x, node.y, isFocus ? r + 1.5 : r, 0, Math.PI * 2);
-        ctx!.fillStyle = dim ? `${nodeColor(node.category)}55` : nodeColor(node.category);
-        ctx!.fill();
-        if (isFocus || isHover) {
-          ctx!.lineWidth = 1.5 / scale;
-          ctx!.strokeStyle = inkText;
-          ctx!.stroke();
-        }
-      }
-
-      // Labels: focus, hover, and filtered matches (or all when few nodes)
-      const labelNodes = nodes.filter((node) => {
-        if (node === hover || node.id === focusId) return true;
-        if (filter && matchesFilter(node)) return true;
-        if (nodes.length <= 28) return true;
-        return node.degree >= 8 && scale > 0.85;
-      });
-      ctx!.font = `${11 / scale}px system-ui, sans-serif`;
-      ctx!.textAlign = "center";
-      ctx!.textBaseline = "top";
-      for (const node of labelNodes) {
-        const r = 3.5 + Math.min(node.degree, 20) * 0.4;
-        ctx!.fillStyle = mute;
-        ctx!.fillText(node.title, node.x, node.y + r + 2 / scale);
-      }
-
-      ctx!.restore();
-    }
-
-    function frame() {
-      tick();
-      draw();
-      if (running || drag || hover) requestAnimationFrame(frame);
-    }
-
-    function kick() {
-      alpha = Math.max(alpha, 0.4);
-      if (!running) {
-        running = true;
-        requestAnimationFrame(frame);
-      }
-    }
-
-    function pointerPos(ev: PointerEvent) {
-      const rect = canvas!.getBoundingClientRect();
-      return { x: ev.clientX - rect.left, y: ev.clientY - rect.top };
-    }
-
-    canvas.addEventListener("pointerdown", (ev) => {
-      const { x, y } = pointerPos(ev);
-      const hit = hitTest(x, y);
-      moved = false;
-      lastX = x;
-      lastY = y;
-      if (hit) {
-        drag = hit;
-        canvas.setPointerCapture(ev.pointerId);
-      } else {
-        panning = true;
-        canvas.setPointerCapture(ev.pointerId);
-      }
-      kick();
-    });
-
-    canvas.addEventListener("pointermove", (ev) => {
-      const { x, y } = pointerPos(ev);
-      if (drag) {
-        const w = screenToWorld(x, y);
-        drag.x = w.x;
-        drag.y = w.y;
-        moved = true;
-        kick();
-      } else if (panning) {
-        tx += x - lastX;
-        ty += y - lastY;
-        lastX = x;
-        lastY = y;
-        moved = true;
-        draw();
-      } else {
-        const next = hitTest(x, y);
-        if (next !== hover) {
-          hover = next;
-          canvas.style.cursor = next ? "pointer" : "grab";
-          if (hint) hint.textContent = next ? next.title : "";
-          kick();
-        }
-      }
-    });
-
-    canvas.addEventListener("pointerup", (ev) => {
-      const { x, y } = pointerPos(ev);
-      const hit = hitTest(x, y);
-      if (drag && !moved && hit) {
-        window.location.href = `/wiki/${hit.id}/`;
-      }
-      drag = null;
-      panning = false;
-    });
-
-    canvas.addEventListener(
-      "wheel",
-      (ev) => {
-        ev.preventDefault();
-        const { x, y } = pointerPos(ev as unknown as PointerEvent);
-        const before = screenToWorld(x, y);
-        const factor = ev.deltaY < 0 ? 1.08 : 0.92;
-        scale = Math.min(4, Math.max(0.25, scale * factor));
-        const after = screenToWorld(x, y);
-        tx += (after.x - before.x) * scale;
-        ty += (after.y - before.y) * scale;
-        draw();
-      },
-      { passive: false },
-    );
-
-    filterInput?.addEventListener("input", () => {
-      filter = filterInput.value.trim().toLowerCase();
-      if (filter) {
-        const match = nodes.find((n) => matchesFilter(n));
-        if (match) {
-          tx = width / 2 - match.x * scale;
-          ty = height / 2 - match.y * scale;
-        }
-      }
-      draw();
-    });
-
-    const ro = new ResizeObserver(() => {
-      resize();
-      draw();
-    });
-    ro.observe(canvas.parentElement!);
-    resize();
-    requestAnimationFrame(frame);
-
-    // Re-tint when theme flips.
-    const mo = new MutationObserver(() => draw());
-    mo.observe(document.documentElement, {
-      attributes: true,
-      attributeFilter: ["class"],
-    });
-  }
-
-  function boot() {
-    document.querySelectorAll<HTMLElement>("[data-kg-root]").forEach(initGraph);
-  }
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", boot);
-  } else {
-    boot();
-  }
+  initKnowledgeGraphs();
+  document.addEventListener("astro:page-load", initKnowledgeGraphs);
 </script>
