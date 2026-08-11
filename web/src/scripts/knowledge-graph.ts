@@ -207,24 +207,49 @@ function initRoot(root: HTMLElement) {
   new ResizeObserver(() => resize()).observe(host.parentElement!);
   resize();
 
+  function focusNode(id: string, opts: { clearFilter?: boolean } = {}) {
+    const match = byId.get(id);
+    if (!match) return;
+    if (opts.clearFilter !== false) {
+      filter = "";
+      if (filterInput) filterInput.value = "";
+    }
+    highlightIds.clear();
+    highlightLinks.clear();
+    highlightIds.add(match.id);
+    neighbors.get(match.id)?.forEach((nid) => highlightIds.add(nid));
+    incident.get(match.id)?.forEach((l) => highlightLinks.add(l));
+    Graph.centerAt(match.x ?? 0, match.y ?? 0, 700);
+    Graph.zoom(compact ? 2.6 : 2.4, 700);
+    if (hint) hint.textContent = match.title;
+    Graph.nodeColor(Graph.nodeColor());
+
+    root.querySelectorAll<HTMLElement>("[data-kg-goto]").forEach((btn) => {
+      const active = btn.dataset.kgGoto === id;
+      btn.classList.toggle("bg-canvas-soft", active);
+      btn.classList.toggle("font-semibold", active);
+    });
+  }
+
   filterInput?.addEventListener("input", () => {
     filter = filterInput.value.trim().toLowerCase();
     highlightIds.clear();
     highlightLinks.clear();
     if (filter) {
       const match = nodes.find((n) => n.title.toLowerCase().includes(filter));
-      if (match) {
-        Graph.centerAt(match.x ?? 0, match.y ?? 0, 700);
-        Graph.zoom(2.6, 700);
-        highlightIds.add(match.id);
-        neighbors.get(match.id)?.forEach((id) => highlightIds.add(id));
-        incident.get(match.id)?.forEach((l) => highlightLinks.add(l));
-        if (hint) hint.textContent = match.title;
-      }
+      if (match) focusNode(match.id, { clearFilter: false });
+      else Graph.nodeColor(Graph.nodeColor());
     } else if (hint) {
       hint.textContent = "";
+      Graph.nodeColor(Graph.nodeColor());
     }
-    Graph.nodeColor(Graph.nodeColor());
+  });
+
+  root.querySelectorAll<HTMLButtonElement>("[data-kg-goto]").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const id = btn.dataset.kgGoto;
+      if (id) focusNode(id);
+    });
   });
 
   const refreshTheme = () => {

@@ -21,6 +21,10 @@ const legend = CATEGORY_ORDER.filter((slug) =>
   name: CATEGORY_META[slug]?.name ?? slug,
 }));
 
+const ranked = [...data.nodes]
+  .sort((a, b) => b.degree - a.degree || a.title.localeCompare(b.title))
+  .slice(0, 40);
+
 const payload = {
   nodes: data.nodes,
   edges: data.edges,
@@ -57,16 +61,78 @@ const payload = {
   }
 
   <div
-    class="relative overflow-hidden border border-hairline bg-canvas-soft"
-    style="height: var(--kg-h)"
+    class:list={[
+      "kg-stage",
+      !compact && "flex flex-col gap-4 lg:flex-row lg:items-stretch",
+    ]}
   >
-    <div data-kg-mount class="size-full" aria-label="Knowledge graph"></div>
-    <p
-      data-kg-hint
-      class="ui pointer-events-none absolute bottom-2 left-2 z-10 max-w-[75%] truncate rounded-sm bg-canvas/90 px-2 py-1 text-xs text-mute"
-      aria-live="polite"
+    <div
+      class:list={[
+        "relative min-w-0 flex-1 overflow-hidden border border-hairline bg-canvas-soft",
+        !compact && "lg:min-h-0",
+      ]}
+      style="height: var(--kg-h)"
+      data-kg-viewport
     >
-    </p>
+      <div data-kg-mount class="size-full" aria-label="Knowledge graph"></div>
+      <p
+        data-kg-hint
+        class="ui pointer-events-none absolute bottom-2 left-2 z-10 max-w-[75%] truncate rounded-sm bg-canvas/90 px-2 py-1 text-xs text-mute"
+        aria-live="polite"
+      >
+      </p>
+    </div>
+
+    {
+      !compact && ranked.length > 0 && (
+        <aside
+          class="ui flex w-full shrink-0 flex-col border border-hairline bg-canvas lg:w-64"
+          aria-label="Most connected entries"
+          style="max-height: var(--kg-h)"
+        >
+          <div class="border-b border-hairline px-3 py-2">
+            <h2 class="text-xs font-semibold uppercase tracking-wide text-mute">
+              Most connected
+            </h2>
+            <p class="mt-0.5 text-[11px] text-mute">
+              Ranked by number of cross-links
+            </p>
+          </div>
+          <ol
+            class="m-0 min-h-0 flex-1 list-none overflow-y-auto p-0"
+            data-kg-ranklist
+          >
+            {ranked.map((n, i) => (
+              <li class="border-b border-hairline last:border-b-0">
+                <button
+                  type="button"
+                  data-kg-goto={n.id}
+                  class="flex w-full items-baseline gap-2 px-3 py-2 text-left hover:bg-canvas-soft"
+                >
+                  <span class="w-5 shrink-0 tabular-nums text-xs text-mute">
+                    {i + 1}
+                  </span>
+                  <span class="min-w-0 flex-1 truncate text-sm text-ink">
+                    {n.title}
+                  </span>
+                  <span class="shrink-0 tabular-nums text-xs text-mute">
+                    {n.degree}
+                  </span>
+                </button>
+              </li>
+            ))}
+          </ol>
+          <p class="border-t border-hairline px-3 py-2 text-[11px] text-mute">
+            Click a name to focus it on the map. Open the entry from the graph,
+            or via the
+            <a href="/wiki/a-z" class="doclink">
+              A–Z index
+            </a>
+            .
+          </p>
+        </aside>
+      )
+    }
   </div>
 
   {
