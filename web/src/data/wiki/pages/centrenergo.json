@@ -42,7 +42,7 @@
     {
       "heading": "Structure",
       "paragraphs": [
-        "Centrenergo operates three thermal power plants: Trypillya Power Station in [[kyiv|Kyiv]] Oblast, Zmiivska Power Station in [[kharkiv-oblast|Kharkiv Oblast]], and Vuhlehirska Power Station in [[donetsk-oblast|Donetsk Oblast]]. Additionally, it has a division named Remenergo located in [[cherkasy|Cherkasy]]. The company's total installed capacity is 7690 MW, representing about 14% of the total power plant capacity in Ukraine. The production process utilizes pulverized coal, natural gas, and oil."
+        "Centrenergo operates three thermal power plants: Trypillya Power Station in [[kyiv|Kyiv]] Oblast, Zmiivska Power Station in [[kharkiv-oblast|Kharkiv Oblast]], and Vuhlehirska Power Station in [[donetsk-oblast|Donetsk Oblast]]. Additionally, it has a division named Remenergo located in [[cherkasy|Cherkasy]]. The company's total installed capacity is 7690 MW, representing about 14% of the total power plant capacity [[coal-in-ukraine|in Ukraine]]. The production process utilizes pulverized coal, natural gas, and oil."
       ]
     },
     {
@@ -54,6 +54,7 @@
   ],
   "links_out": [
     "cherkasy",
+    "coal-in-ukraine",
     "donetsk-oblast",
     "energy-in-ukraine",
     "kharkiv-oblast",

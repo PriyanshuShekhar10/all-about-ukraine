@@ -22,8 +22,8 @@
     {
       "heading": "Cultural Significance in Ukraine",
       "paragraphs": [
-        "In [[ukraine|Ukraine]], potato pancakes, or деруни, are a traditional dish that reflects the agricultural heritage of the region. They are particularly popular in the northern and eastern parts of the country and are often served with sour cream. Deruny can also be accompanied by mushrooms, onions, or other vegetables, with regional variations incorporating ingredients like cabbage or cheese.",
-        "Since 2008, the town of Korosten in northern Ukraine has hosted the International Deruny Festival, celebrating this beloved dish through cooking competitions, tastings, and demonstrations of traditional cooking methods."
+        "[[coal-in-ukraine|In Ukraine]], potato pancakes, or деруни, are a traditional dish that reflects the agricultural heritage of the region. They are particularly popular in the northern and eastern parts of the country and are often served with sour cream. Deruny can also be accompanied by mushrooms, onions, or other vegetables, with regional variations incorporating ingredients like cabbage or cheese.",
+        "Since 2008, the town of Korosten in northern [[ukraine|Ukraine]] has hosted the International Deruny Festival, celebrating this beloved dish through cooking competitions, tastings, and demonstrations of traditional cooking methods."
       ]
     },
     {
@@ -35,6 +35,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "ukraine",
     "ukrainian",
     "ukrainian-cuisine"

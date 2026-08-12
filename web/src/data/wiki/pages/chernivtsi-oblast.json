@@ -52,7 +52,7 @@
     {
       "heading": "Geography",
       "paragraphs": [
-        "Chernivtsi Oblast spans an area of 8,097 square kilometers (3,126 square miles), making it the smallest oblast in [[ukraine|Ukraine]] and accounting for 1.3% of the country's total territory. The region features a variety of landforms, including the [[carpathians|Carpathian Mountains]], hills, and a partly forested plain situated between the [[dniester|Dniester]] and Prut rivers.",
+        "Chernivtsi Oblast spans an area of 8,097 square kilometers (3,126 square miles), making it the smallest oblast [[coal-in-ukraine|in Ukraine]] and accounting for 1.3% of the country's total territory. The region features a variety of landforms, including the [[carpathians|Carpathian Mountains]], hills, and a partly forested plain situated between the [[dniester|Dniester]] and Prut rivers.",
         "The oblast is home to 75 rivers exceeding 10 kilometers in length, with the Dniester (290 km), Prut (128 km), and Siret (113 km) being the largest. It encompasses three geographic zones: a forest steppe region between the Prut and Dnister rivers, a foothill region adjacent to the Carpathian Mountains, and the mountainous Bukovinian portion of the Carpathians.",
         "Chernivtsi Oblast shares borders with [[ivano-frankivsk|Ivano-Frankivsk]], [[ternopil|Ternopil]], Khmelnytskyi, and [[vinnytsia|Vinnytsia]] Oblasts, as well as international borders with Romania (226 km) and Moldova (198 km)."
       ]
@@ -60,7 +60,7 @@
     {
       "heading": "History",
       "paragraphs": [
-        "Chernivtsi Oblast was established on August 7, 1940, following the Soviet occupation of Bessarabia and Northern [[bukovina|Bukovina]]. It was formed from parts of the Kingdom of Romania's Ținutul Suceava and included areas from the historical regions of Bukovina, Bessarabia, and Hertsa.",
+        "Chernivtsi Oblast was established on August 7, 1940, following the Soviet occupation of [[bessarabia|Bessarabia]] and Northern [[bukovina|Bukovina]]. It was formed from parts of the Kingdom of Romania's Ținutul Suceava and included areas from the historical regions of Bukovina, Bessarabia, and Hertsa.",
         "The region has a rich archaeological history, with evidence of human habitation dating back to 43,000–45,000 BC. It was part of various historical entities, including [[kievan-rus|Kievan Rus]]', the Principality of [[halych|Halych]], and Moldavia, before being annexed by the Habsburg monarchy in 1775. After World War I, it became part of Romania until the Soviet occupation in 1940.",
         "During the Soviet era, significant deportations occurred, particularly in June 1941, when thousands of residents were sent to Siberia and Kazakhstan. The demographic composition of the region changed drastically due to these events, with many ethnic groups, including Jews and Romanians, facing persecution."
       ]
@@ -69,7 +69,7 @@
       "heading": "Demographics",
       "paragraphs": [
         "As of the 2001 [[ukrainian|Ukrainian]] Census, the population of Chernivtsi Oblast was 919,028, with [[ukrainians|Ukrainians]] making up 74.98% (689,056), followed by Romanians at 12.46% (114,555), Moldovans at 7.31% (67,225), and Russians at 4.12% (37,881). Other nationalities, including Poles, Belarusians, and Jews, accounted for approximately 1.2%.",
-        "The region has a significant Ukrainian ethnic majority, and during the 1991 independence referendum, 92% of the oblast's residents supported Ukraine's independence, reflecting a strong national identity."
+        "The region has a significant Ukrainian ethnic majority, and during the 1991 independence referendum, 92% of the oblast's residents supported [[ukraine|Ukraine]]'s independence, reflecting a strong national identity."
       ]
     },
     {
@@ -80,9 +80,11 @@
     }
   ],
   "links_out": [
+    "bessarabia",
     "bukovina",
     "carpathians",
     "chernivtsi",
+    "coal-in-ukraine",
     "dniester",
     "halych",
     "ivano-frankivsk",

@@ -1,0 +1,71 @@
+{
+  "qid": "Q56355808",
+  "slug": "latin-church-in-ukraine",
+  "title": "Latin Church in Ukraine",
+  "type": "Catholic Church of an area",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "Catholic Church of an area",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Latin Church in Ukraine (LCiU), also known as the Roman Catholic Church in Ukraine (RCCiU), represents the Latin branch of the Catholic Church in Ukraine, one of four sui iuris Catholic churches in the country. Established since the 10th century, the Latin Church has played a significant role in Ukraine's religious, cultural, and historical development.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Latin Church in Ukraine (LCiU) is officially referred to as the Roman [[catholic-church-in-ukraine|Catholic Church in Ukraine]] (RCCiU). It is one of the four sui iuris Catholic churches [[coal-in-ukraine|in Ukraine]], alongside the [[ukrainian-greek-catholic-church|Ukrainian Greek Catholic Church]], the [[ruthenian|Ruthenian]] Greek Catholic Church, and the Armenian Catholic Church, all of which maintain full communion with the Pope. The Latin Church conducts its liturgies according to the Latin liturgical rites."
+      ]
+    },
+    {
+      "heading": "Historical Presence",
+      "paragraphs": [
+        "The Latin Church has been present in [[ukrainian|Ukrainian]] territories since the 10th century, originating during the era of [[kievan-rus|Kievan Rus]]'. Its influence grew significantly during the Polish–Lithuanian Commonwealth from the 14th to the 18th centuries, when it became a leader in Western European culture and science within [[ukraine|Ukraine]]. However, during the Russian Empire and the Soviet period, the Latin Church faced persecution and was forced to operate underground. Following Ukraine's independence in 1991, the Church resumed its official activities."
+      ]
+    },
+    {
+      "heading": "Current Structure",
+      "paragraphs": [
+        "As of 2021, the Latin Church in Ukraine comprises 19 dioceses, 1,134 parishes, and is supported by 3 higher theological seminaries. The Church is led by 12 bishops and approximately 700 priests, with around half being foreign nationals. The number of adherents is estimated at about 1.5 million. Since 2008, the Church has been under the leadership of [[lviv|Lviv]] Archbishop-Metropolitan Mieczysław Mokrzycki, and it is governed by a conference of bishops."
+      ]
+    },
+    {
+      "heading": "Cultural and Educational Contributions",
+      "paragraphs": [
+        "The largest pilgrimage center for the Latin Church in Ukraine is the Berdychiv Carmelite Monastery. The main institution for lay education is the Thomas Aquinas Institute located in [[kyiv|Kyiv]], which serves to further the theological education and formation of the laity within the Church."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "The introduction of Christianity to Ukraine is linked to the legend of St. Andrew the Apostle. The first documented Christian communities appeared in the Crimean region at the end of the 1st century, founded by Pope Clement I during his exile. The baptism of Prince Vladimir in 988 marked a pivotal moment for the Christianization of Rus, despite the Kiev metropolitanate at that time being a subsidiary of the Constantinople Patriarchate. The Church in Rus maintained connections with the Holy See, receiving relics and support from various Popes, which helped solidify the ecclesiastical and political power of the princes."
+      ]
+    }
+  ],
+  "links_out": [
+    "catholic-church-in-ukraine",
+    "coal-in-ukraine",
+    "kievan-rus",
+    "kyiv",
+    "lviv",
+    "ruthenian",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-greek-catholic-church"
+  ],
+  "sources": [
+    {
+      "title": "Latin Church in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Latin_Church_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

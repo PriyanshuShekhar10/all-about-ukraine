@@ -1,0 +1,85 @@
+{
+  "qid": "Q3516605",
+  "slug": "chervonohryhorivka",
+  "title": "Chervonohryhorivka",
+  "type": "human settlement",
+  "category": "geography",
+  "aliases": [
+    "Chernovogrigorovka",
+    "Chernyshevka",
+    "Chernyshiovka",
+    "Chernyshovka",
+    "Chernyshyovka",
+    "Krasno-Grigorovka",
+    "Krasnogrigorovka",
+    "Krasnohryhorivka"
+  ],
+  "infobox": {
+    "label": "human settlement",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "6,348",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "39",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "47.6233, 34.5309",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Chervonohryhorivka is a rural settlement located in the Nikopol Raion of Dnipropetrovsk Oblast, Ukraine, with a population of 6,030 as of 2022. It serves as the administrative center for the Chervonohryhorivka settlement hromada.",
+  "sections": [
+    {
+      "heading": "Geographical Context",
+      "paragraphs": [
+        "Chervonohryhorivka is situated east of Nikopol, previously on the right bank of the Kakhovka Reservoir. It is classified as a rural settlement within the [[dnipropetrovsk-oblast|Dnipropetrovsk Oblast]] of [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Administrative Status",
+      "paragraphs": [
+        "Until 26 January 2024, Chervonohryhorivka was recognized as an urban-type settlement. Following the enactment of a new law on that date, its status was changed to a rural settlement."
+      ]
+    },
+    {
+      "heading": "Population",
+      "paragraphs": [
+        "According to the 2022 estimate, the population of Chervonohryhorivka is 6,030. In the 2001 [[ukrainian|Ukrainian]] census, the population was recorded at 6,710."
+      ]
+    },
+    {
+      "heading": "Economy and Transportation",
+      "paragraphs": [
+        "Chervonohryhorivka features two railway stations on the line connecting Nikopol and [[zaporizhzhia|Zaporizhia]], named Revun and 111 km, although passenger traffic is infrequent. The settlement is also accessible via Highway H23, which links [[kryvyi-rih|Kryvyi Rih]] and Zaporizhia through Nikopol."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnipropetrovsk-oblast",
+    "kryvyi-rih",
+    "ukraine",
+    "ukrainian",
+    "zaporizhzhia"
+  ],
+  "sources": [
+    {
+      "title": "Chervonohryhorivka — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chervonohryhorivka",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

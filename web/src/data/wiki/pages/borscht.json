@@ -30,7 +30,7 @@
     "label": "topic",
     "fields": []
   },
-  "summary": "Borscht is a sour soup that is particularly associated with [[ukrainian-cuisine|Ukrainian cuisine]], characterized by its use of red beetroots, which impart a distinctive red color. This dish has deep cultural significance in Ukraine and has evolved into various regional interpretations across Eastern Europe.",
+  "summary": "Borscht is a sour soup that is particularly associated with [[ukrainian-cuisine|Ukrainian cuisine]], characterized by its use of red beetroots, which impart a distinctive red color. This dish has deep cultural significance [[coal-in-ukraine|in Ukraine]] and has evolved into various regional interpretations across Eastern Europe.",
   "sections": [
     {
       "heading": "Culinary Significance in Ukraine",
@@ -68,6 +68,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "eastern-europe",
     "full-scale-russo-ukrainian-war",
     "kyiv",

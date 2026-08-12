@@ -1,0 +1,51 @@
+{
+  "qid": "Q60907185",
+  "slug": "crimea-crisis",
+  "title": "Crimea crisis",
+  "type": "Wikimedia disambiguation page",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "The Crimea crisis encompasses significant historical and contemporary events related to the region of Crimea, particularly its conflicts and geopolitical implications for Ukraine. Key events include the Crimean War and the ongoing Russian occupation and [[russian-annexation-of-crimea|annexation of Crimea]], which are critical to understanding Ukraine's territorial integrity and national sovereignty.",
+  "sections": [
+    {
+      "heading": "Crimean War (1853–1856)",
+      "paragraphs": [
+        "The [[crimean-war|Crimean War]] was a military conflict that took place from 1853 to 1856, involving several powers, including the Russian Empire and an alliance of the Ottoman Empire, France, Britain, and Sardinia. This war had significant implications for the region, including [[crimea|Crimea]], which is located on the northern coast of the Black Sea, and is integral to [[ukraine|Ukraine]]'s historical narrative."
+      ]
+    },
+    {
+      "heading": "Russian Occupation of Crimea (2014–present)",
+      "paragraphs": [
+        "The [[russian-occupation-of-crimea|Russian occupation of Crimea]] began in 2014 and is considered a critical aspect of the ongoing [[full-scale-russo-ukrainian-war|Russo-Ukrainian war]]. This occupation has profound implications for Ukraine's territorial integrity and has been met with international condemnation."
+      ]
+    },
+    {
+      "heading": "Annexation of Crimea by the Russian Federation (2014)",
+      "paragraphs": [
+        "In 2014, the Russian Federation annexed Crimea following a disputed referendum, which has not been recognized by Ukraine and the majority of the international community. This annexation has led to ongoing tensions and conflicts between Ukraine and Russia, highlighting the strategic importance of Crimea in the context of [[ukrainian|Ukrainian]] sovereignty."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "crimean-war",
+    "full-scale-russo-ukrainian-war",
+    "russian-annexation-of-crimea",
+    "russian-occupation-of-crimea",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Crimea crisis — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Crimea_crisis",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

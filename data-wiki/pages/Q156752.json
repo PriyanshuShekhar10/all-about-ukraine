@@ -79,7 +79,7 @@
       "heading": "Economy and Infrastructure",
       "paragraphs": [
         "Sumy is home to various industrial enterprises, including the Sumy Engineering Science and Production Association and the Sumykhimprom chemical plant. The city also features an international airport, several railway stations, and major road routes connecting it to other regions.",
-        "The city's infrastructure supports its role as a significant industrial center in Ukraine."
+        "The city's infrastructure supports its role as a significant industrial center [[coal-in-ukraine|in Ukraine]]."
       ]
     },
     {
@@ -91,6 +91,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "cossacks",
     "sumy-oblast",
     "ukraine",

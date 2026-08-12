@@ -33,7 +33,7 @@
     {
       "heading": "Background",
       "paragraphs": [
-        "The Treaty of Moscow was signed during a time when neither the Republic of Turkey nor the Soviet Union had been officially established. The recognized Turkish government was that of Sultan Mehmed VI, who was not a party to the treaty, which was in contrast to the Turkish National Movement that had repudiated the Treaty of Sèvres."
+        "The Treaty of Moscow was signed during a time when neither the Republic of Turkey nor [[soviet-union|the Soviet Union]] had been officially established. The recognized Turkish government was that of Sultan Mehmed VI, who was not a party to the treaty, which was in contrast to the Turkish National Movement that had repudiated the Treaty of Sèvres."
       ]
     },
     {
@@ -57,6 +57,7 @@
     }
   ],
   "links_out": [
+    "soviet-union",
     "ukraine"
   ],
   "sources": [

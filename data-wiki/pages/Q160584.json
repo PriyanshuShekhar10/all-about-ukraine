@@ -1,0 +1,109 @@
+{
+  "qid": "Q160584",
+  "slug": "siverskodonetsk",
+  "title": "Siverskodonetsk",
+  "type": "city of regional significance of Ukraine",
+  "category": "economy",
+  "aliases": [
+    "Severodonetsk",
+    "Sievierodonetsk",
+    "Siverodonetsk",
+    "Si︠e︡verodonet︠s︡ʹk",
+    "Syeverodonets'k"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1934-04-29",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "150,000",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "42",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "51",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.9481, 38.4933",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Siverskodonetsk, previously known as Sievierodonetsk, is a city of regional significance located in Luhansk Oblast, eastern Ukraine. It has a rich industrial history and has been significantly impacted by the ongoing conflict in the region.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Siverskodonetsk is situated to the northeast of the left bank of the [[donets|Donets River]], approximately 110 km (68 mi) northwest of [[luhansk|Luhansk]], the administrative center of [[luhansk-oblast|Luhansk Oblast]]. The city is positioned across the river from Lysychansk."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The modern history of Siverskodonetsk began with the construction of the Lysychansk Nitrogen Fertilizer Plant in 1934. Initially known as Lyskhimstroi, the settlement evolved with the establishment of schools and residential buildings. It was officially renamed Severodonetsk in 1950, reflecting its connection to the Seversky Donets River.",
+        "During World War II, the area was occupied by German forces but was later recaptured by Soviet troops. The city developed further post-war, with significant industrial growth."
+      ]
+    },
+    {
+      "heading": "Recent Conflicts",
+      "paragraphs": [
+        "Siverskodonetsk has been at the center of military conflict since the onset of the [[war-in-donbas|war in Donbas]] in 2014, when pro-Russian forces captured the city. Following a brief period of [[ukrainian|Ukrainian]] control, heavy fighting resumed, culminating in a complete military occupation by Russian and separatist forces in June 2022.",
+        "The city has faced extensive destruction during these conflicts, with a significant reduction in its population, which was estimated at 99,067 in 2022."
+      ]
+    },
+    {
+      "heading": "Demographics and Economy",
+      "paragraphs": [
+        "As of the 2001 census, Siverskodonetsk had a population of 120,225, with a majority identifying as ethnic [[ukrainians|Ukrainians]], although many residents speak Russian as their primary language. The city was home to several chemical industries, including the notable Azot chemical plant, which is one of the largest in Europe."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Siverskodonetsk hosted the first Ukrainian championship in bandy in February 2012, highlighting its cultural contributions. The city has established twin town relationships with Jelenia Góra, Poland, and [[rivne|Rivne]], [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Name Changes",
+      "paragraphs": [
+        "The city underwent several name changes throughout its history, with the most recent official renaming to Siverskodonetsk occurring on 19 September 2024. This change reflects a broader effort to align the city's name with Ukrainian linguistic standards and to move away from Russian influences."
+      ]
+    }
+  ],
+  "links_out": [
+    "donets",
+    "luhansk",
+    "luhansk-oblast",
+    "rivne",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "war-in-donbas"
+  ],
+  "sources": [
+    {
+      "title": "Sievierodonetsk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sievierodonetsk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

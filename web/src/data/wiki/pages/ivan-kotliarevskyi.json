@@ -36,7 +36,7 @@
       "heading": "Biography",
       "paragraphs": [
         "Ivan Petrovych Kotliarevsky was born on 9 September [O.S. 29 August] 1769 in [[poltava|Poltava]], [[ukraine|Ukraine]], to a family of clerk Petro Kotliarevsky. While the Kotliarevskys were part of the [[ukrainian|Ukrainian]] nobility, they were not affluent, owning a small estate in Poltava and additional land nearby. He attended the Poltava Theological Seminary from 1780 to 1789 and subsequently worked as a tutor for the gentry, which allowed him to gain insight into Ukrainian folk life and the peasant vernacular.",
-        "Kotliarevsky served in the Imperial Russian Army from 1796 to 1808 in the Siversky Karabiner Regiment and participated in the Russo-Turkish War (1806–1812) as a staff-captain, notably during the siege of Izmail. He retired from military service in 1808 and became a trustee of an educational institution for impoverished noble children in 1810. In 1812, amidst the French invasion of Russia, he organized the 5th Ukrainian Cossack Regiment in Horoshyn, Poltava Governorate, with the intention of establishing it as a permanent military unit, earning the rank of major.",
+        "Kotliarevsky served in the Imperial Russian Army from 1796 to 1808 in the Siversky Karabiner Regiment and participated in the Russo-Turkish War (1806–1812) as a staff-captain, notably during the siege of [[izmail|Izmail]]. He retired from military service in 1808 and became a trustee of an educational institution for impoverished noble children in 1810. In 1812, amidst the French invasion of Russia, he organized the 5th Ukrainian Cossack Regiment in Horoshyn, Poltava Governorate, with the intention of establishing it as a permanent military unit, earning the rank of major.",
         "Kotliarevsky was involved in theatrical productions at the Poltava governor-general's residence and served as the artistic director of the Poltava Free Theater from 1812 to 1821. He joined the Poltava Freemasonry Lodge Liubov do istyny (Love of truth) in 1818, alongside Vasyl Lukashevych and V. Taranovsky. He played a role in the buyout of actor Mikhail Shchepkin from serfdom. From 1827 to 1835, he directed several philanthropic agencies. Kotliarevsky passed away on 10 November [O.S. 29 October] 1838 and was interred in Poltava after freeing his serfs and distributing his property to relatives and acquaintances."
       ]
     },
@@ -44,7 +44,7 @@
       "heading": "The First Modern Ukrainian Writer",
       "paragraphs": [
         "Kotliarevsky began writing poetry during his time at the Poltava Theological Seminary, with his early works published in the satirical almanac Poltavska mukha (Poltava fly). He initiated his most famous literary piece, the travesty poem Eneida (Ukrainian: Енеїда), in 1794. The initial three parts were published in Saint Petersburg in 1798 without his consent, marking the beginning of modern [[ukrainian-literature|Ukrainian literature]] as it was the first significant use of vernacular Ukrainian as a literary language. The fourth part was released in 1809, and the fifth and sixth parts were completed around 1820, though the first complete edition was published posthumously in 1842.",
-        "Eneida draws upon the tradition of travesties of Virgil's Aeneid found in European literature, particularly inspired by Nikolay Osipov's earlier work Aeneid Turned Inside Out. However, Kotliarevsky's rendition uniquely transforms the Trojan heroes into [[zaporozhian-cossacks|Zaporozhian Cossacks]] and depicts the Olympian gods as oppressive landlords, reflecting the historical context of the [[zaporizhian-sich|Zaporozhian Sich]]'s destruction and the prevalence of serfdom in Ukraine. The poem satirizes various social classes and gained immense popularity, influencing numerous imitations. Additionally, Kotliarevsky introduced accentual-syllabic verse into Ukrainian poetry, favoring it over the earlier syllabic form, and utilized iambic tetrameter in structured strophes.",
+        "Eneida draws upon the tradition of travesties of Virgil's Aeneid found in European literature, particularly inspired by Nikolay Osipov's earlier work Aeneid Turned Inside Out. However, Kotliarevsky's rendition uniquely transforms the Trojan heroes into [[zaporozhian-cossacks|Zaporozhian Cossacks]] and depicts the Olympian gods as oppressive landlords, reflecting the historical context of the [[zaporizhian-sich|Zaporozhian Sich]]'s destruction and the prevalence of serfdom [[coal-in-ukraine|in Ukraine]]. The poem satirizes various social classes and gained immense popularity, influencing numerous imitations. Additionally, Kotliarevsky introduced accentual-syllabic verse into Ukrainian poetry, favoring it over the earlier syllabic form, and utilized iambic tetrameter in structured strophes.",
         "His two plays, Natalka Poltavka (Natalka from Poltava, 1819) and Moskal-Charivnyk (The soldier-sorcerer), significantly contributed to the evolution of Ukrainian national theater."
       ]
     },
@@ -69,6 +69,8 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
+    "izmail",
     "kharkiv-oblast",
     "kyiv",
     "nikolai-gogol",

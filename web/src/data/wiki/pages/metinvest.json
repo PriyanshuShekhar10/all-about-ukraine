@@ -32,13 +32,13 @@
     {
       "heading": "Overview",
       "paragraphs": [
-        "Metinvest is a conglomerate of steel and mining enterprises that operates in [[ukraine|Ukraine]], Italy, Bulgaria, the UK, and the US. The company is engaged in various activities, including ore and coal mining, coke production, steel smelting, and the manufacturing of rolled products, pipes, and other steel goods. The operations of the group are overseen by Metinvest Holding LLC."
+        "Metinvest is a conglomerate of steel and mining enterprises that operates [[coal-in-ukraine|in Ukraine]], Italy, Bulgaria, the UK, and the US. The company is engaged in various activities, including ore and coal mining, coke production, steel smelting, and the manufacturing of rolled products, pipes, and other steel goods. The operations of the group are overseen by Metinvest Holding LLC."
       ]
     },
     {
       "heading": "History",
       "paragraphs": [
-        "Metinvest Holding LLC was established on 6 June 2006, acquiring a 100% stake in Leman Ukraine LLC and a 27% stake in Yenakiieve Iron and Steel Works.",
+        "Metinvest Holding LLC was established on 6 June 2006, acquiring a 100% stake in Leman [[ukraine|Ukraine]] LLC and a 27% stake in Yenakiieve Iron and Steel Works.",
         "In October 2007, Metinvest became the first [[ukrainian|Ukrainian]] member of the World Steel Association, and in November of the same year, it acquired 82.5% of Ingulets Iron Ore Mining and Processing Plant.",
         "The company continued to expand in 2008 with the acquisition of rolling businesses in Italy and the UK, as well as a 51% stake in NPO Incor & Co LLC.",
         "In 2009, Metinvest acquired a 100% stake in United Coal Company and became the first Ukrainian firm to receive Climate Action certification from the World Steel Association.",
@@ -68,6 +68,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "dtek",
     "full-scale-russo-ukrainian-war",
     "mariupol",

@@ -37,7 +37,7 @@
     {
       "heading": "Structure",
       "paragraphs": [
-        "The Constitutional Court consists of 18 judges, appointed equally by the President, the parliament, and the Congress of Judges. Judges must be [[ukrainian|Ukrainian]] citizens, at least 40 years old, possess a higher legal education with a minimum of 10 years of professional experience, have resided in Ukraine for the last 20 years, and be proficient in the Ukrainian language.",
+        "The Constitutional Court consists of 18 judges, appointed equally by the President, the parliament, and the Congress of Judges. Judges must be [[ukrainian|Ukrainian]] citizens, at least 40 years old, possess a higher legal education with a minimum of 10 years of professional experience, have resided [[coal-in-ukraine|in Ukraine]] for the last 20 years, and be proficient in the Ukrainian language.",
         "Judges serve a term of 9 years without the possibility of reappointment and must retire at the age of 65. The process of appointing judges can be complicated by political dynamics within the parliament."
       ]
     },
@@ -63,6 +63,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "constitution-of-ukraine",
     "ukraine",
     "ukrainian",

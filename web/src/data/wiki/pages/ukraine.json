@@ -63,7 +63,7 @@
     {
       "heading": "Historical Overview",
       "paragraphs": [
-        "Human habitation in Ukraine dates back to at least 32,000 BC, with significant cultural developments occurring throughout the Neolithic and Iron Ages.",
+        "Human habitation [[coal-in-ukraine|in Ukraine]] dates back to at least 32,000 BC, with significant cultural developments occurring throughout the Neolithic and Iron Ages.",
         "[[kievan-rus|Kievan Rus]]', a key state in the 9th century, became the most powerful realm in Europe during the 10th and 11th centuries but disintegrated by the 13th century due to internal conflicts and external invasions, notably by the Mongols.",
         "For the next 600 years, Ukraine was divided and ruled by various powers, including the Grand Duchy of Lithuania, the Kingdom of Poland, and the Russian Empire."
       ]
@@ -73,7 +73,7 @@
       "paragraphs": [
         "The [[cossack-hetmanate|Cossack Hetmanate]] emerged in central Ukraine in the 17th century, providing a form of governance for the local population until its absorption by the Russian Empire in the 18th century.",
         "[[ukrainian-nationalism|Ukrainian nationalism]] began to rise following the Russian Revolution in 1917, leading to the establishment of the short-lived [[ukrainian-peoples-republic|Ukrainian People's Republic]].",
-        "The [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]] was created after the Bolsheviks consolidated power, becoming a part of the Soviet Union in 1922."
+        "The [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]] was created after the Bolsheviks consolidated power, becoming a part of [[soviet-union|the Soviet Union]] in 1922."
       ]
     },
     {
@@ -101,6 +101,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "cossack-hetmanate",
     "dnieper",
     "donbas",
@@ -112,6 +113,7 @@
     "odesa",
     "orange-revolution",
     "russian-annexation-of-crimea",
+    "soviet-union",
     "ukrainian",
     "ukrainian-nationalism",
     "ukrainian-peoples-republic",

@@ -1,0 +1,60 @@
+{
+  "qid": "Q1756168",
+  "slug": "ostrih-bible",
+  "title": "Ostrih Bible",
+  "type": "version, edition or translation",
+  "category": "culture",
+  "aliases": [
+    "Ostrog Bible",
+    "Ostroh Bible"
+  ],
+  "infobox": {
+    "label": "version, edition or translation",
+    "fields": []
+  },
+  "summary": "The Ostrog Bible, published in 1581 in Ostrog, Ukraine, was the first complete printed edition of the Bible in Church Slavonic. Commissioned by Konstanty Wasyl Ostrogski and printed by Ivan Fyodorov, it played a crucial role in the development of Orthodox education in the region.",
+  "sections": [
+    {
+      "heading": "Publication Details",
+      "paragraphs": [
+        "The Ostrog Bible, known as Острозька Біблія in [[ukrainian|Ukrainian]], was published in Ostrog (now Ostroh, [[ukraine|Ukraine]]) in 1581. It was the first complete printed edition of the Bible in Church Slavonic, produced by the printer Ivan Fyodorov under the patronage of Konstanty Wasyl Ostrogski.",
+        "The Bible was printed on two significant dates: July 12, 1580, and August 12, 1581. The second edition differed from the original in terms of composition, ornamentation, and corrections of misprints."
+      ]
+    },
+    {
+      "heading": "Translation and Sources",
+      "paragraphs": [
+        "The primary source for the Ostrog Bible was Gennady's Bible, which had been completed in 1499 in Novgorod, Russia. Unlike many translations, the Ostrog Bible was not derived from the Hebrew Masoretic Text but from the Greek Septuagint.",
+        "This edition included seventy-six books of both the Old and New Testaments, along with a manuscript of the Codex Alexandrinus. Some sections were also based on translations by Francysk Skaryna."
+      ]
+    },
+    {
+      "heading": "Cultural and Historical Significance",
+      "paragraphs": [
+        "The Ostrog Bible is a monumental publication, comprising 1,256 pages and featuring elaborate decorations, including headpieces and initials specifically designed for it. It is notable for being the first Bible printed in Cyrillic type.",
+        "The publication had a profound impact on Orthodox education, particularly [[coal-in-ukraine|in Ukraine]] and Belarus, where it helped to counteract Catholic influence. Prince Ostrogski distributed copies to significant figures, including Pope Gregory XIII and Tsar Ivan the Terrible."
+      ]
+    },
+    {
+      "heading": "Legacy and Preservation",
+      "paragraphs": [
+        "Only 300 copies of the Ostrog Bible are known to exist today, with some copies held in prestigious collections, such as the Bodleian Library at Oxford University. The Bible served as a foundational text for subsequent Russian Bible publications, including the Moscow Bible of 1663 under Alexis of Russia.",
+        "The Ostrog Bible's influence extended beyond Ukraine, as it was recognized and valued in Russia, Belarus, and abroad, contributing significantly to the spread of Orthodox Christianity and education."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ostrog Bible — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ostrog_Bible",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

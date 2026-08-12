@@ -1,0 +1,95 @@
+{
+  "qid": "Q2350295",
+  "slug": "kreminna",
+  "title": "Kreminna",
+  "type": "city in Ukraine",
+  "category": "people",
+  "aliases": [
+    "Kremennaya"
+  ],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1680",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "18,417",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "15",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "56",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.0500, 38.2167",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Kreminna is a city located in [[siverskodonetsk|Sievierodonetsk]] Raion, [[luhansk-oblast|Luhansk Oblast]], in eastern Ukraine. Established in 1680, it has been significantly impacted by the ongoing Russo-Ukrainian War, particularly since the Russian invasion in February 2022.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Kreminna, known in [[ukrainian|Ukrainian]] as Кремінна and in Russian as Кременная, is situated in the historic region of Sloboda [[ukraine|Ukraine]]. As of January 2022, the city had an estimated population of 18,116."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Founded in 1680, Kreminna has a complex history, particularly during the [[ukrainian-war-of-independence|Ukrainian War of Independence]] from 1917 to 1920, when it changed hands among various factions. It became part of the [[donets|Donets]] Governorate of Ukraine and was granted city status in 1938. A local newspaper has been published in Kreminna since December 1943."
+      ]
+    },
+    {
+      "heading": "Impact of the Russo-Ukrainian War",
+      "paragraphs": [
+        "Kreminna has been a focal point of conflict during the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]]. In July 2014, the city experienced fighting during the [[war-in-donbas|war in Donbas]] but remained under Ukrainian control. The situation escalated in March 2022 when the pro-Russian mayor Volodymyr Struk was found murdered after being kidnapped, amid claims of Russian forces advancing towards the city.",
+        "On 11 March 2022, a residential care home for the elderly was attacked, resulting in the deaths of 56 residents, with 15 others taken by Russian military forces. Kreminna witnessed significant fighting during the battle of [[donbas|Donbas]], particularly on 18 April 2022, when Russian and LNR troops captured the city after clashes with Ukrainian forces.",
+        "By 13 September 2022, reports indicated that Russian forces had temporarily abandoned Kreminna, allowing local residents to raise the [[flag-of-ukraine|Ukrainian flag]], but the following day, Russian troops returned and removed the flag. The conflict continued into early October 2022, with ongoing military operations in the area."
+      ]
+    },
+    {
+      "heading": "Notable Residents",
+      "paragraphs": [
+        "Among the notable individuals from Kreminna are Yuriy Aharkov, a Ukrainian cyclist born in 1987, and Olena Borysenko, a Ukrainian archer born in 1996."
+      ]
+    }
+  ],
+  "links_out": [
+    "donbas",
+    "donets",
+    "flag-of-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "luhansk-oblast",
+    "siverskodonetsk",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-war-of-independence",
+    "war-in-donbas"
+  ],
+  "sources": [
+    {
+      "title": "Kreminna — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kreminna",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

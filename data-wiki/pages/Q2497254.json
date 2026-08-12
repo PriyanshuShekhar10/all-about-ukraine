@@ -1,0 +1,80 @@
+{
+  "qid": "Q2497254",
+  "slug": "soviet-famine-of-19321933",
+  "title": "Soviet famine of 1932–1933",
+  "type": "famine",
+  "category": "history",
+  "aliases": [
+    "Hladamor in Soviet Union",
+    "Holodomor in Russia",
+    "Holodomor in Soviet Union",
+    "Holodomor in USSR"
+  ],
+  "infobox": {
+    "label": "famine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Soviet Union",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Soviet famine of 1932–1933 was a catastrophic event that primarily affected Ukraine and other grain-producing regions of the Soviet Union, resulting in millions of deaths due to starvation. The famine was largely driven by policies of forced collectivization and grain procurement mandated by the Soviet government under Joseph Stalin.",
+  "sections": [
+    {
+      "heading": "Overview of the Famine",
+      "paragraphs": [
+        "The Soviet famine of 1930–1933 occurred in major grain-producing areas of [[soviet-union|the Soviet Union]], particularly impacting [[ukraine|Ukraine]]. This famine was characterized by forced collectivization of agriculture and aggressive grain procurement from farmers, which were part of the First Five-Year Plan. A significant decline in the agricultural workforce, due to these policies and a focus on heavy industry, contributed to the famine's severity.",
+        "Estimates suggest that between 5.7 to 8.7 million people died from starvation across the Soviet Union during this period, with an additional 50 to 70 million individuals experiencing starvation but ultimately surviving."
+      ]
+    },
+    {
+      "heading": "Role of Collectivization and State Policies",
+      "paragraphs": [
+        "Under [[donetsk|Stalin]]'s orders, kulaks, or land-owning peasants, were targeted for liquidation as a class. The campaign against kulaks intensified between 1929 and 1932, resulting in widespread arrests, deportations, and executions. In response, some kulaks resorted to sabotage, such as killing livestock and destroying crops intended for factory workers.",
+        "Despite the high death toll early in the famine, Stalin continued to prioritize the Five-Year Plan and collectivization, which aimed to establish a base of heavy industry at the expense of agricultural productivity."
+      ]
+    },
+    {
+      "heading": "Scholarly Perspectives on Causes",
+      "paragraphs": [
+        "Historians have debated the causes of the famine, with some attributing it to natural disasters, such as two poor harvests in 1931 and 1932, while others emphasize the role of state policies. For example, the 1932–1933 grain exports amounted to 1.8 million tonnes, which could have fed approximately 5 million people for a year.",
+        "Research indicates that the collectivization policies disproportionately affected Ukraine, where grain quotas were set at unsustainable levels. Some scholars argue that discrimination against ethnic [[ukrainians|Ukrainians]] played a significant role in the famine's mortality rates."
+      ]
+    },
+    {
+      "heading": "Impact on Ukraine",
+      "paragraphs": [
+        "Ukraine was particularly hard hit by the famine, with many regions experiencing severe grain shortages due to high procurement quotas. Some areas, like [[kyiv|Kyiv]] and [[kharkiv-oblast|Kharkiv]], faced doubled quotas after initially meeting their targets, exacerbating the crisis.",
+        "The famine's effects were compounded by peasant resistance and subsequent repression, which targeted [[ukrainian|Ukrainian]] national identity as being associated with 'fascism and bourgeois nationalism' according to Soviet authorities."
+      ]
+    },
+    {
+      "heading": "Historical Recognition and Discussion",
+      "paragraphs": [
+        "Public discourse surrounding the famine was largely suppressed in the Soviet Union until the glasnost period initiated by [[mikhail-gorbachev|Mikhail Gorbachev]] in the 1980s. In 2008, the Russian State Duma formally condemned the Soviet regime for neglecting human lives in pursuit of economic and political objectives.",
+        "The classification of the famine as a genocide against Ukrainians remains a contentious issue among scholars, with debates centering on the motivations behind the policies that led to such widespread suffering."
+      ]
+    }
+  ],
+  "links_out": [
+    "donetsk",
+    "kharkiv-oblast",
+    "kyiv",
+    "mikhail-gorbachev",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Soviet famine of 1930–1933 — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Soviet_famine_of_1930–1933",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

@@ -44,7 +44,7 @@
     {
       "heading": "Overview",
       "paragraphs": [
-        "The Taras Shevchenko National University of Kyiv, also referred to as Kyiv University or KNU, is a public educational institution situated in [[kyiv|Kyiv]], [[ukraine|Ukraine]]. It is the third-oldest university in the country, following the University of [[lviv|Lviv]] and the University of [[kharkiv-oblast|Kharkiv]], and comprises 15 faculties and five institutes."
+        "The Taras Shevchenko National University of Kyiv, also referred to as Kyiv University or KNU, is a public educational institution situated in [[kyiv|Kyiv]], [[ukraine|Ukraine]]. It is the third-oldest university in the country, following the [[lviv-university|University of Lviv]] and the University of [[kharkiv-oblast|Kharkiv]], and comprises 15 faculties and five institutes."
       ]
     },
     {
@@ -57,7 +57,7 @@
     {
       "heading": "Academic Excellence",
       "paragraphs": [
-        "Taras Shevchenko University is regarded as the most prestigious university in Ukraine, training approximately 30,000 students across various fields. It has consistently ranked as the top university in Ukraine in numerous academic assessments and is recognized for its high research output."
+        "Taras Shevchenko University is regarded as the most prestigious university [[coal-in-ukraine|in Ukraine]], training approximately 30,000 students across various fields. It has consistently ranked as the top university in Ukraine in numerous academic assessments and is recognized for its high research output."
       ]
     },
     {
@@ -81,9 +81,10 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "kharkiv-oblast",
     "kyiv",
-    "lviv",
+    "lviv-university",
     "taras-shevchenko",
     "ukraine",
     "ukrainian",

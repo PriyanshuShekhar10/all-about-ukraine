@@ -1,0 +1,114 @@
+{
+  "qid": "Q161961",
+  "slug": "myrhorod",
+  "title": "Myrhorod",
+  "type": "city of regional significance of Ukraine",
+  "category": "war",
+  "aliases": [
+    "Mirgorod"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1575",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "40,160",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "19",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "105",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.9640, 33.6124",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Myrhorod is a city of regional significance located in [[poltava-oblast|Poltava Oblast]], central Ukraine, serving as the administrative center of Myrhorod Raion and hosting the Myrhorod urban hromada. The city, situated on the Khorol River, had an estimated population of 37,886 in 2022.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Myrhorod was established in either the 12th or 13th century as a fort along the eastern border of [[kievan-rus|Kievan Rus]]'. Legend suggests that the fort was a site for peace negotiations, leading to its name, which translates to 'City of Peace'.",
+        "From 1471 to 1667, Myrhorod was incorporated into the Kiev Voivodeship of the Grand Duchy of Lithuania and later the Crown of the Kingdom of Poland. The city was first documented in chronicles in 1575, when Stephen Báthory designated it as a regiment city. Some historians suggest an earlier mention in 1530, coinciding with the establishment of the city coat of arms, symbolizing the triumph of Christianity over Islam.",
+        "Myrhorod served as a regimental base for the Myrhorod [[cossacks|Cossacks]], who played a significant role in various [[ukrainian|Ukrainian]] Cossack uprisings, notably during the revolt of 1638 led by [[hetman|Hetman]] Yakiv Ostrianytsia against Polish nobility. The Myrhorod Cossack regiment was recognized as one of the finest units in Hetman [[bohdan-khmelnytsky|Bohdan Khmelnytsky]]'s army during the [[khmelnytsky-uprising|Khmelnytsky Uprising]] (1648–1654).",
+        "Following the [[treaty-of-pereyaslav|Treaty of Pereyaslav]], Myrhorod became an uezd city and the center for the Myrhorod regiment. The renowned Sorochyntsy Fair is located 25 kilometers from the city.",
+        "Since 1912, Myrhorod has been noted for its underground mineral waters, and it gained recognition as a resort town in 1920. The city was classified as a city of oblast significance until July 18, 2020, when it was integrated into Myrhorod Raion as part of [[ukraine|Ukraine]]'s administrative reform."
+      ]
+    },
+    {
+      "heading": "Recent Events",
+      "paragraphs": [
+        "On April 2, 2022, Myrhorod experienced missile strikes by invading forces, targeting infrastructure facilities. The air defense units of the [[armed-forces-of-ukraine|Armed Forces of Ukraine]] successfully intercepted several enemy cruise missiles, although the attacks resulted in damage to the runway of Myrhorod air base and other infrastructure.",
+        "Further shelling occurred on the night of April 8–9, 2022, targeting another infrastructure site in the city, leading to reported casualties."
+      ]
+    },
+    {
+      "heading": "Tourism and Health Resorts",
+      "paragraphs": [
+        "Myrhorod is famous for its mineral water, known as 'Myrhorodska', which is characterized as slightly mineralized natrium chloride water. It is recommended by health professionals for various digestive disorders and is also consumed as table water.",
+        "The city features several health resorts, with Myrhorod Resort being the most prominent. This resort comprises four specialized sanatoria catering to different health issues and operates six days a week. The resort is situated in a large wooded area along the Khorol River, offering various recreational activities and amenities.",
+        "Another sanatorium, 'Rainbow', is located within the same grounds but is marketed as an elite facility. Other less maintained resorts exist further from the city center, attracting a different clientele."
+      ]
+    },
+    {
+      "heading": "Notable Individuals",
+      "paragraphs": [
+        "Myrhorod has been home to several notable figures, including Vladimir Borovikovsky, Boris Grekov, Davit Guramishvili, Vasily Kapnist, [[taras-shevchenko|Taras Shevchenko]], and [[hryhorii-skovoroda|Hryhorii Skovoroda]], contributing to the cultural and historical significance of the city."
+      ]
+    },
+    {
+      "heading": "Transport and Infrastructure",
+      "paragraphs": [
+        "The city is served by Myrhorod Air Base, located approximately 5 kilometers south of the city center, facilitating air travel and transport."
+      ]
+    },
+    {
+      "heading": "International Relations",
+      "paragraphs": [
+        "Since 1991, Myrhorod has established international partnerships with three foreign towns, focusing on cooperation in economics, commerce, and culture. The partner towns include Gorna Oryahovitsa (1991), Randolph, Vermont (1999), and Zgorzelec (2007)."
+      ]
+    }
+  ],
+  "links_out": [
+    "armed-forces-of-ukraine",
+    "bohdan-khmelnytsky",
+    "cossacks",
+    "hetman",
+    "hryhorii-skovoroda",
+    "khmelnytsky-uprising",
+    "kievan-rus",
+    "poltava-oblast",
+    "taras-shevchenko",
+    "treaty-of-pereyaslav",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Myrhorod — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Myrhorod",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

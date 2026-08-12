@@ -20,12 +20,12 @@
       }
     ]
   },
-  "summary": "The Shevchenko National Prize is the highest state award in Ukraine for achievements in culture and arts, established in 1961 and named after the influential Ukrainian poet Taras Shevchenko. It recognizes outstanding contributions across various artistic fields, reflecting the nation's cultural heritage.",
+  "summary": "The Shevchenko National Prize is the highest state award [[coal-in-ukraine|in Ukraine]] for achievements in culture and arts, established in 1961 and named after the influential Ukrainian poet Taras Shevchenko. It recognizes outstanding contributions across various artistic fields, reflecting the nation's cultural heritage.",
   "sections": [
     {
       "heading": "Historical Background",
       "paragraphs": [
-        "The Shevchenko National Prize was established on May 20, 1961, by the Council of Ministers of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]], coinciding with the centenary of [[taras-shevchenko|Taras Shevchenko]]'s death. It aimed to honor Shevchenko's legacy and was part of broader commemorative events across the Soviet Union.",
+        "The Shevchenko National Prize was established on May 20, 1961, by the Council of Ministers of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]], coinciding with the centenary of [[taras-shevchenko|Taras Shevchenko]]'s death. It aimed to honor Shevchenko's legacy and was part of broader commemorative events across [[soviet-union|the Soviet Union]].",
         "Initially named the Shevchenko Republican Prize, it was awarded to notable figures in literature, arts, music, theater, and architecture. The first recipients were announced on March 9, 1962, including [[pavlo-tychyna|Pavlo Tychyna]] and Oleksandr Honchar in literature, and Platon Mayboroda in music.",
         "In 1969, the award was renamed the Shevchenko State Prize of the Ukrainian SSR, and following [[ukraine|Ukraine]]'s independence in 1992, it was reestablished as the State Prize of Ukraine named after Taras Shevchenko."
       ]
@@ -60,8 +60,10 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "pavlo-tychyna",
     "president-of-ukraine",
+    "soviet-union",
     "taras-shevchenko",
     "ukraine",
     "ukrainian",

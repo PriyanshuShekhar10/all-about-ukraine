@@ -6088,5 +6088,1043 @@
     "aliases": [],
     "notability": 14,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q691833",
+    "slug": "kremenets-castle",
+    "name": "Kremenets Castle",
+    "wp_title": "Kremenets Castle",
+    "type": "castle",
+    "category": "geography",
+    "aliases": [],
+    "notability": 10,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2084457",
+    "slug": "national-historical-museum-of-ukraine",
+    "name": "National Historical Museum of Ukraine",
+    "wp_title": "National Museum of the History of Ukraine",
+    "type": "national museum",
+    "category": "geography",
+    "aliases": [
+      "National Museum of the History of Ukraine"
+    ],
+    "notability": 23,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q943794",
+    "slug": "pidhirtsi-castle",
+    "name": "Pidhirtsi Castle",
+    "wp_title": "Pidhirtsi Castle",
+    "type": "castle",
+    "category": "geography",
+    "aliases": [
+      "Podhorce Palace"
+    ],
+    "notability": 24,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q830054",
+    "slug": "saint-sophia-cathedral",
+    "name": "Saint Sophia Cathedral",
+    "wp_title": "Saint Sophia Cathedral, Kyiv",
+    "type": "Eastern Orthodox cathedral",
+    "category": "geography",
+    "aliases": [
+      "Saint Sophia's Cathedral",
+      "Sofiiskyi sobor",
+      "St Sophia Cathedral",
+      "St Sophia's Cathedral",
+      "St. Sophia Cathedral",
+      "St. Sophia's Cathedral"
+    ],
+    "notability": 61,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q142917",
+    "slug": "mother-ukraine-monument",
+    "name": "Mother Ukraine Monument",
+    "wp_title": "Mother Ukraine",
+    "type": "colossal statue",
+    "category": "geography",
+    "aliases": [
+      "Motherland Monument"
+    ],
+    "notability": 33,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q46001",
+    "slug": "alushta",
+    "name": "Alushta",
+    "wp_title": "Alushta",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 71,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2619251",
+    "slug": "bohuslav-raion",
+    "name": "Bohuslav Raion",
+    "wp_title": "Bohuslav Raion",
+    "type": "former raion of Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 18,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q836716",
+    "slug": "borzsa",
+    "name": "Borzsa",
+    "wp_title": "Borzhava",
+    "type": "river",
+    "category": "geography",
+    "aliases": [
+      "Borzawa",
+      "Borzhava"
+    ],
+    "notability": 14,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q3516605",
+    "slug": "chervonohryhorivka",
+    "name": "Chervonohryhorivka",
+    "wp_title": "Chervonohryhorivka",
+    "type": "human settlement",
+    "category": "geography",
+    "aliases": [
+      "Chernovogrigorovka",
+      "Chernyshevka",
+      "Chernyshiovka",
+      "Chernyshovka",
+      "Chernyshyovka",
+      "Krasno-Grigorovka",
+      "Krasnogrigorovka",
+      "Krasnohryhorivka"
+    ],
+    "notability": 17,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q269438",
+    "slug": "zavodske",
+    "name": "Zavodske",
+    "wp_title": "Zavodske, Poltava Oblast",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 32,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q458368",
+    "slug": "divisions-of-the-carpathians",
+    "name": "divisions of the Carpathians",
+    "wp_title": "Divisions of the Carpathians",
+    "type": "categorization",
+    "category": "geography",
+    "aliases": [],
+    "notability": 9,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q998227",
+    "slug": "horishni-plavni",
+    "name": "Horishni Plavni",
+    "wp_title": "Horishni Plavni",
+    "type": "city of regional significance of Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Komsomolsk"
+    ],
+    "notability": 42,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q147739",
+    "slug": "izmail",
+    "name": "Izmail",
+    "wp_title": "Izmail",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Ismail",
+      "Izmayil",
+      "Smil",
+      "Tuchkov"
+    ],
+    "notability": 70,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q193965",
+    "slug": "kamianets-podilskyi",
+    "name": "Kamianets-Podilskyi",
+    "wp_title": "Kamianets-Podilskyi",
+    "type": "city of regional significance of Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Camenița",
+      "Kamaniçe",
+      "Kamenetz-Podolsk",
+      "Kamianets-Podilsky",
+      "Kamieniec Podolski",
+      "Kamyanets-Podilskyy"
+    ],
+    "notability": 75,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1058572",
+    "slug": "sviatoslav-i-of-kiev",
+    "name": "Sviatoslav I of Kiev",
+    "wp_title": "Sviatoslav I",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Sviatoslav I",
+      "Sviatoslav I Igorevich",
+      "Sviatoslav I Ihorovych",
+      "Sviatoslav Khorobryi",
+      "Sviatoslav Zavoiovnyk",
+      "Sviatoslav the Brave",
+      "Sviatoslav the Conqueror",
+      "Svjatoslav Ihorovyč",
+      "Svyatoslav"
+    ],
+    "notability": 76,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q19929701",
+    "slug": "ukrainian-civil-war",
+    "name": "Ukrainian Civil War",
+    "wp_title": "Ukrainian Civil War",
+    "type": "Wikimedia disambiguation page",
+    "category": "people",
+    "aliases": [],
+    "notability": 2,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q926594",
+    "slug": "ukrainian-independence-referendum",
+    "name": "Ukrainian independence referendum",
+    "wp_title": "1991 Ukrainian independence referendum",
+    "type": "independence referendum",
+    "category": "people",
+    "aliases": [
+      "Ukrainian referendum on independence"
+    ],
+    "notability": 34,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q264253",
+    "slug": "bohdan-stupka",
+    "name": "Bohdan Stupka",
+    "wp_title": "Bohdan Stupka",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Bogdan Stupka",
+      "Bohdan Sylvestrovych Stupka"
+    ],
+    "notability": 30,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2350295",
+    "slug": "kreminna",
+    "name": "Kreminna",
+    "wp_title": "Kreminna",
+    "type": "city in Ukraine",
+    "category": "people",
+    "aliases": [
+      "Kremennaya"
+    ],
+    "notability": 52,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q80207",
+    "slug": "lviv-university",
+    "name": "Lviv University",
+    "wp_title": "University of Lviv",
+    "type": "public university",
+    "category": "people",
+    "aliases": [
+      "Ivan Franko National University of Lviv",
+      "University of Lviv"
+    ],
+    "notability": 50,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1218641",
+    "slug": "museum-of-the-great-patriotic-war",
+    "name": "Museum of the Great Patriotic War",
+    "wp_title": "Museum of the Great Patriotic War",
+    "type": "Wikimedia disambiguation page",
+    "category": "people",
+    "aliases": [],
+    "notability": 4,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4449488",
+    "slug": "tawrija",
+    "name": "Tawrija",
+    "wp_title": "Tavria",
+    "type": "Wikimedia disambiguation page",
+    "category": "people",
+    "aliases": [
+      "Tavria"
+    ],
+    "notability": 7,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q278813",
+    "slug": "myroslav-skoryk",
+    "name": "Myroslav Skoryk",
+    "wp_title": "Myroslav Skoryk",
+    "type": "human",
+    "category": "culture",
+    "aliases": [
+      "Myroslav Mykhailovych Skoryk"
+    ],
+    "notability": 31,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q13222773",
+    "slug": "podil",
+    "name": "Podil",
+    "wp_title": "Podil",
+    "type": "historic district",
+    "category": "culture",
+    "aliases": [
+      "Podol"
+    ],
+    "notability": 17,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q183644",
+    "slug": "pravda",
+    "name": "Pravda",
+    "wp_title": "Pravda",
+    "type": "government gazette",
+    "category": "culture",
+    "aliases": [],
+    "notability": 69,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q7878484",
+    "slug": "ukrainian-national-womens-league-of-america",
+    "name": "Ukrainian National Women's League of America",
+    "wp_title": "Ukrainian National Women's League of America",
+    "type": "organization",
+    "category": "culture",
+    "aliases": [],
+    "notability": 2,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q592734",
+    "slug": "vernadsky-national-library-of-ukraine",
+    "name": "Vernadsky National Library of Ukraine",
+    "wp_title": "Vernadsky National Library of Ukraine",
+    "type": "national library",
+    "category": "culture",
+    "aliases": [],
+    "notability": 31,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4528818",
+    "slug": "vladimir-shcherbakov",
+    "name": "Vladimir Shcherbakov",
+    "wp_title": "Vladimir Shcherbakov",
+    "type": "Wikimedia disambiguation page",
+    "category": "culture",
+    "aliases": [],
+    "notability": 3,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1517383",
+    "slug": "chervona-ruta",
+    "name": "Chervona Ruta",
+    "wp_title": "Chervona ruta",
+    "type": "legend",
+    "category": "culture",
+    "aliases": [],
+    "notability": 8,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1088444",
+    "slug": "khrushchyovka",
+    "name": "Khrushchyovka",
+    "wp_title": "Khrushchevka",
+    "type": "housing series",
+    "category": "culture",
+    "aliases": [
+      "Commie bloc"
+    ],
+    "notability": 39,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q148554",
+    "slug": "national-museum-of-natural-history",
+    "name": "National Museum of Natural History",
+    "wp_title": "National Museum of Natural History",
+    "type": "natural history museum",
+    "category": "culture",
+    "aliases": [
+      "Museum of Natural History",
+      "NMNH",
+      "National Museum of Natural History, Smithsonian Institution",
+      "Smithsonian National Museum of Natural History",
+      "Smithsonian's NMNH",
+      "Smithsonian's National Museum of Natural History",
+      "U.S. Museum of Natural History",
+      "USNM"
+    ],
+    "notability": 47,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1756168",
+    "slug": "ostrih-bible",
+    "name": "Ostrih Bible",
+    "wp_title": "Ostrog Bible",
+    "type": "version, edition or translation",
+    "category": "culture",
+    "aliases": [
+      "Ostrog Bible",
+      "Ostroh Bible"
+    ],
+    "notability": 21,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q202135",
+    "slug": "book-of-wisdom",
+    "name": "Book of Wisdom",
+    "wp_title": "Book of Wisdom",
+    "type": "religious text",
+    "category": "culture",
+    "aliases": [
+      "Solomon's Wisdom",
+      "Wisdom",
+      "Wisdom of Solomon"
+    ],
+    "notability": 77,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q894184",
+    "slug": "borscht-belt",
+    "name": "Borscht Belt",
+    "wp_title": "Borscht Belt",
+    "type": "region",
+    "category": "culture",
+    "aliases": [
+      "Borsht Belt"
+    ],
+    "notability": 11,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1389472",
+    "slug": "dumka",
+    "name": "Dumka",
+    "wp_title": "Dumka",
+    "type": "city",
+    "category": "culture",
+    "aliases": [],
+    "notability": 32,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q163886",
+    "slug": "easter-egg",
+    "name": "easter egg",
+    "wp_title": "Easter egg",
+    "type": "topic",
+    "category": "culture",
+    "aliases": [],
+    "notability": 76,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4469097",
+    "slug": "coal-in-ukraine",
+    "name": "coal in Ukraine",
+    "wp_title": "Coal in Ukraine",
+    "type": "coal industry",
+    "category": "economy",
+    "aliases": [
+      "in Ukraine"
+    ],
+    "notability": 6,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q760617",
+    "slug": "enerhodar",
+    "name": "Enerhodar",
+    "wp_title": "Enerhodar",
+    "type": "city of regional significance of Ukraine",
+    "category": "economy",
+    "aliases": [
+      "Energodar"
+    ],
+    "notability": 55,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2378739",
+    "slug": "kharkiv-tractor-plant",
+    "name": "Kharkiv Tractor Plant",
+    "wp_title": "Kharkiv Tractor Plant",
+    "type": "business",
+    "category": "economy",
+    "aliases": [],
+    "notability": 17,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2393032",
+    "slug": "kryvbas",
+    "name": "Kryvbas",
+    "wp_title": "Kryvbas",
+    "type": "sedimentary basin",
+    "category": "economy",
+    "aliases": [
+      "Kryvorizkyi zalizorudnyi basein",
+      "Kryvyi Rih iron-ore basin"
+    ],
+    "notability": 14,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1809427",
+    "slug": "nuclear-power-in-ukraine",
+    "name": "nuclear power in Ukraine",
+    "wp_title": "Nuclear power in Ukraine",
+    "type": "aspect in a geographic region",
+    "category": "economy",
+    "aliases": [],
+    "notability": 16,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2105985",
+    "slug": "postbank",
+    "name": "Postbank",
+    "wp_title": "Postbank",
+    "type": "Wikimedia disambiguation page",
+    "category": "economy",
+    "aliases": [],
+    "notability": 4,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1642605",
+    "slug": "rusal",
+    "name": "Rusal",
+    "wp_title": "Rusal",
+    "type": "business",
+    "category": "economy",
+    "aliases": [
+      "RUSAL"
+    ],
+    "notability": 30,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q160584",
+    "slug": "siverskodonetsk",
+    "name": "Siverskodonetsk",
+    "wp_title": "Sievierodonetsk",
+    "type": "city of regional significance of Ukraine",
+    "category": "economy",
+    "aliases": [
+      "Severodonetsk",
+      "Sievierodonetsk",
+      "Siverodonetsk",
+      "Si︠e︡verodonet︠s︡ʹk",
+      "Syeverodonets'k"
+    ],
+    "notability": 72,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q7603543",
+    "slug": "state-statistics-service-of-ukraine",
+    "name": "State Statistics Service of Ukraine",
+    "wp_title": "State Statistics Service of Ukraine",
+    "type": "statistical service",
+    "category": "economy",
+    "aliases": [
+      "Derzhstat",
+      "SSSU",
+      "Statistics Ukraine",
+      "Ukrstat"
+    ],
+    "notability": 12,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q12165937",
+    "slug": "state-property-fund-of-ukraine",
+    "name": "State Property Fund of Ukraine",
+    "wp_title": "State Property Fund of Ukraine",
+    "type": "foundation",
+    "category": "economy",
+    "aliases": [],
+    "notability": 3,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4880025",
+    "slug": "beer-in-ukraine",
+    "name": "beer in Ukraine",
+    "wp_title": "Beer in Ukraine",
+    "type": "aspect in a geographic region",
+    "category": "economy",
+    "aliases": [],
+    "notability": 3,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q851367",
+    "slug": "pivdenmash",
+    "name": "Pivdenmash",
+    "wp_title": "Pivdenmash",
+    "type": "business",
+    "category": "economy",
+    "aliases": [
+      "A.M. Makarov Southern Machine-Building Plant",
+      "PA Pivdenmash",
+      "PA Yuzhmash",
+      "Plant 586",
+      "Plant No. 586",
+      "Yuzhmash"
+    ],
+    "notability": 27,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q63184986",
+    "slug": "dmytro-razumkov",
+    "name": "Dmytro Razumkov",
+    "wp_title": "Dmytro Razumkov",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "Dmytro Olexandrovych Razumkov"
+    ],
+    "notability": 25,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4329764",
+    "slug": "education-in-ukraine",
+    "name": "education in Ukraine",
+    "wp_title": "Education in Ukraine",
+    "type": "education in country or region",
+    "category": "politics",
+    "aliases": [
+      "Ukraine education",
+      "education of Ukraine"
+    ],
+    "notability": 21,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4406892",
+    "slug": "independent-ukraine",
+    "name": "Independent Ukraine",
+    "wp_title": "Independent Ukraine",
+    "type": "work",
+    "category": "politics",
+    "aliases": [],
+    "notability": 4,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4149683",
+    "slug": "mykola-hrinchenko",
+    "name": "Mykola Hrinchenko",
+    "wp_title": "Mykola Hrinchenko",
+    "type": "human",
+    "category": "politics",
+    "aliases": [],
+    "notability": 5,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1988375",
+    "slug": "oleh-skrypka",
+    "name": "Oleh Skrypka",
+    "wp_title": "Oleh Skrypka",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "Oleg Skripka",
+      "Oleg Yuriyovych Skrypka",
+      "Oleg Yuryevich Skripka",
+      "Oleh Yuriyovych Skrypka"
+    ],
+    "notability": 23,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q15180",
+    "slug": "soviet-union",
+    "name": "Soviet Union",
+    "wp_title": "Soviet Union",
+    "type": "federal republic",
+    "category": "politics",
+    "aliases": [
+      "CCCP",
+      "SU",
+      "Soviets",
+      "The Soviets",
+      "The USSR",
+      "U.S.S.R",
+      "U.S.S.R.",
+      "URS",
+      "Union of Soviet Socialist Republics",
+      "the Soviet Union",
+      "the Union of Soviet Socialist Republics"
+    ],
+    "notability": 281,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q7747",
+    "slug": "vladimir-putin",
+    "name": "Vladimir Putin",
+    "wp_title": "Vladimir Putin",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "President Putin",
+      "Putin",
+      "Vladimir Vladimirovich Putin"
+    ],
+    "notability": 313,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q60907185",
+    "slug": "crimea-crisis",
+    "name": "Crimea crisis",
+    "wp_title": "Crimea crisis",
+    "type": "Wikimedia disambiguation page",
+    "category": "politics",
+    "aliases": [],
+    "notability": 5,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q174994",
+    "slug": "bessarabia",
+    "name": "Bessarabia",
+    "wp_title": "Bessarabia",
+    "type": "historical region",
+    "category": "politics",
+    "aliases": [],
+    "notability": 74,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q65200615",
+    "slug": "andrii-yermak",
+    "name": "Andrii Yermak",
+    "wp_title": "Andriy Yermak",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "Andrii Borysovych Yermak"
+    ],
+    "notability": 33,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q139960724",
+    "slug": "ukrainian-historiography",
+    "name": "Ukrainian historiography",
+    "wp_title": "Ukrainian historiography",
+    "type": "aspect in a geographic region",
+    "category": "politics",
+    "aliases": [],
+    "notability": 1,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q56355808",
+    "slug": "latin-church-in-ukraine",
+    "name": "Latin Church in Ukraine",
+    "wp_title": "Latin Church in Ukraine",
+    "type": "Catholic Church of an area",
+    "category": "politics",
+    "aliases": [],
+    "notability": 6,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q14947002",
+    "slug": "chechenrussian-conflict",
+    "name": "Chechen–Russian conflict",
+    "wp_title": "Chechen–Russian conflict",
+    "type": "armed conflict",
+    "category": "history",
+    "aliases": [
+      "Chechen-Russian conflict",
+      "Russian-Chechen conflict",
+      "Russian–Chechen conflict",
+      "conflict between Chechens and Russians",
+      "conflict between Chechnya and Russia",
+      "conflict between Russia and Chechnya",
+      "conflict between Russians and Chechens"
+    ],
+    "notability": 30,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1775286",
+    "slug": "deportation-of-the-crimean-tatars",
+    "name": "deportation of the Crimean Tatars",
+    "wp_title": "Deportation of the Crimean Tatars",
+    "type": "forced displacement",
+    "category": "history",
+    "aliases": [
+      "Surgunlik",
+      "Sürgünlik",
+      "genocide of the Crimean Tatars"
+    ],
+    "notability": 49,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q30487",
+    "slug": "mikhail-gorbachev",
+    "name": "Mikhail Gorbachev",
+    "wp_title": "Mikhail Gorbachev",
+    "type": "human",
+    "category": "history",
+    "aliases": [
+      "Gorbachev",
+      "Gorbi",
+      "Gorby",
+      "M. Gorbachev",
+      "M.S. Gorbachev",
+      "Mikhail Gorbachyov",
+      "Mikhail Sergeevich Gorbachev",
+      "Mikhail Sergeyevich Gorbachyov"
+    ],
+    "notability": 200,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2497254",
+    "slug": "soviet-famine-of-19321933",
+    "name": "Soviet famine of 1932–1933",
+    "wp_title": "Soviet famine of 1930–1933",
+    "type": "famine",
+    "category": "history",
+    "aliases": [
+      "Hladamor in Soviet Union",
+      "Holodomor in Russia",
+      "Holodomor in Soviet Union",
+      "Holodomor in USSR"
+    ],
+    "notability": 30,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1427503",
+    "slug": "golden-gate",
+    "name": "Golden Gate",
+    "wp_title": "Golden Gate, Kyiv",
+    "type": "gate",
+    "category": "history",
+    "aliases": [
+      "Golden Gate, Kyiv"
+    ],
+    "notability": 33,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4350651",
+    "slug": "peremyshl",
+    "name": "Peremyshl",
+    "wp_title": "Peremyshl",
+    "type": "Wikimedia disambiguation page",
+    "category": "history",
+    "aliases": [],
+    "notability": 6,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1195059",
+    "slug": "great-famine",
+    "name": "Great Famine",
+    "wp_title": "Great Famine",
+    "type": "Wikimedia disambiguation page",
+    "category": "history",
+    "aliases": [],
+    "notability": 6,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2474461",
+    "slug": "ukrainian-grammar",
+    "name": "Ukrainian grammar",
+    "wp_title": "Ukrainian grammar",
+    "type": "topic",
+    "category": "history",
+    "aliases": [],
+    "notability": 14,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2034609",
+    "slug": "ukrainian-national-assembly-ukrainian-national-self-defence",
+    "name": "Ukrainian National Assembly – Ukrainian National Self Defence",
+    "wp_title": "Ukrainian National Assembly – Ukrainian People's Self-Defence",
+    "type": "political party",
+    "category": "history",
+    "aliases": [
+      "UNA–UNSO",
+      "Українська Національна Асамблея — Українська Народна Самооборона"
+    ],
+    "notability": 25,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q7530",
+    "slug": "volhynia",
+    "name": "Volhynia",
+    "wp_title": "Volhynia",
+    "type": "Ukrainian historical regions",
+    "category": "history",
+    "aliases": [
+      "Volyn",
+      "Volynia"
+    ],
+    "notability": 54,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q133274",
+    "slug": "kremlin",
+    "name": "Kremlin",
+    "wp_title": "Kremlin",
+    "type": "kremlin",
+    "category": "war",
+    "aliases": [
+      "Moscow Kremlin"
+    ],
+    "notability": 96,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q161961",
+    "slug": "myrhorod",
+    "name": "Myrhorod",
+    "wp_title": "Myrhorod",
+    "type": "city of regional significance of Ukraine",
+    "category": "war",
+    "aliases": [
+      "Mirgorod"
+    ],
+    "notability": 51,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q188940",
+    "slug": "southern-bug",
+    "name": "Southern Bug",
+    "wp_title": "Southern Bug",
+    "type": "river",
+    "category": "war",
+    "aliases": [
+      "Boh River",
+      "Buh Pivdennyi",
+      "Hipanis",
+      "Pivdennyi Buh"
+    ],
+    "notability": 67,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1149375",
+    "slug": "catholic-church-in-ukraine",
+    "name": "Catholic Church in Ukraine",
+    "wp_title": "Catholic Church in Ukraine",
+    "type": "Catholic Church of an area",
+    "category": "war",
+    "aliases": [
+      "Ukrainian Catholic Church"
+    ],
+    "notability": 16,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2305266",
+    "slug": "soviet-invasion-of-poland",
+    "name": "Soviet invasion of Poland",
+    "wp_title": "Soviet invasion of Poland",
+    "type": "invasion",
+    "category": "war",
+    "aliases": [],
+    "notability": 54,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q25050824",
+    "slug": "vasyl-slipak",
+    "name": "Vasyl Slipak",
+    "wp_title": "Vasyl Slipak",
+    "type": "human",
+    "category": "war",
+    "aliases": [
+      "Vasyl Yaroslavovych Slipak",
+      "Wassyl Slipak"
+    ],
+    "notability": 31,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q284078",
+    "slug": "yevhen-konoplyanka",
+    "name": "Yevhen Konoplyanka",
+    "wp_title": "Yevhen Konoplyanka",
+    "type": "human",
+    "category": "war",
+    "aliases": [
+      "Yevhen Olehovych Konoplianka",
+      "Yevhen Olehovych Konoplyanka"
+    ],
+    "notability": 47,
+    "status": "synthesized"
   }
 ]

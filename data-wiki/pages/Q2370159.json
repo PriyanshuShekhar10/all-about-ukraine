@@ -16,22 +16,22 @@
     {
       "heading": "Historical Context",
       "paragraphs": [
-        "The roots of rock music in Ukraine trace back to the late 1950s, coinciding with the spread of beat music among youth in the Soviet Union. This led to the formation of VIA youth collectives, which were a compromise between the Soviet authorities' ban on Western music and the demand for modern entertainment during the Khrushchev Thaw.",
+        "The roots of rock music in Ukraine trace back to the late 1950s, coinciding with the spread of beat music among youth in [[soviet-union|the Soviet Union]]. This led to the formation of VIA youth collectives, which were a compromise between the Soviet authorities' ban on Western music and the demand for modern entertainment during the Khrushchev Thaw.",
         "The government imposed heavy censorship, forcing many musicians to perform underground. This environment led to eclectic musical compositions that integrated various styles, while also reflecting a desire to assert national identity through folkloric elements."
       ]
     },
     {
       "heading": "Development in the 1960s and 1970s",
       "paragraphs": [
-        "In the 1960s, bands such as Berezen', Dzvony, and Druhe Dykhannia began to perform modern [[music-of-ukraine|Ukrainian music]], often incorporating folk instruments. The first beat music festival in [[ukraine|Ukraine]] occurred on January 1, 1966, in [[kharkiv-oblast|Kharkiv]], marking a significant moment in the genre's history.",
+        "In the 1960s, bands such as Berezen', Dzvony, and Druhe Dykhannia began to perform modern [[music-of-ukraine|Ukrainian music]], often incorporating folk instruments. The first beat music festival [[coal-in-ukraine|in Ukraine]] occurred on January 1, 1966, in [[kharkiv-oblast|Kharkiv]], marking a significant moment in the genre's history.",
         "The 1970s saw the rise of VIA bands, which were officially registered and performed in regulated environments. Despite restrictions, these bands managed to introduce Western musical trends while maintaining a distinct [[ukrainian|Ukrainian]] identity. [[lviv|Lviv]] became a center of artistic resistance, producing bands like Super Vujky, which faced government crackdowns."
       ]
     },
     {
       "heading": "Cultural Impact in the 1980s",
       "paragraphs": [
-        "The 1980s brought a partial relaxation of government restrictions, enabling a resurgence of rock music influenced by punk and alternative genres. The establishment of Ukraine's first official rock club, 'Kuznia', in 1986 facilitated the growth of local bands.",
-        "The Chervona Ruta music festival, first held in 1989, became a pivotal event for Ukrainian rock, showcasing a range of performers and solidifying the genre's place in the cultural landscape."
+        "The 1980s brought a partial relaxation of government restrictions, enabling a resurgence of rock music influenced by punk and alternative genres. The establishment of [[ukraine|Ukraine]]'s first official rock club, 'Kuznia', in 1986 facilitated the growth of local bands.",
+        "The [[chervona-ruta|Chervona Ruta]] music festival, first held in 1989, became a pivotal event for Ukrainian rock, showcasing a range of performers and solidifying the genre's place in the cultural landscape."
       ]
     },
     {
@@ -49,10 +49,13 @@
     }
   ],
   "links_out": [
+    "chervona-ruta",
+    "coal-in-ukraine",
     "full-scale-russo-ukrainian-war",
     "kharkiv-oblast",
     "lviv",
     "music-of-ukraine",
+    "soviet-union",
     "ukraine",
     "ukrainian"
   ],

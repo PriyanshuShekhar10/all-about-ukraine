@@ -40,7 +40,7 @@
     {
       "heading": "Literary Career",
       "paragraphs": [
-        "Hutsalo began his literary career with his first publication in 1960. Throughout the 1960s, he was recognized as part of the 'shestydesyatnyky' movement, which consisted of writers who opposed the oppressive communist regime in Ukraine. However, he later opted to align himself as an official writer within the system.",
+        "Hutsalo began his literary career with his first publication in 1960. Throughout the 1960s, he was recognized as part of the 'shestydesyatnyky' movement, which consisted of writers who opposed the oppressive communist regime [[coal-in-ukraine|in Ukraine]]. However, he later opted to align himself as an official writer within the system.",
         "His literary output includes over 25 collections of novellas and short stories, several of which are aimed at children, a trilogy of novels, and three poetry collections. Hutsalo's works are distinguished by their detailed and lyrical depictions of nature, psychological insights, and rich use of rural vernacular."
       ]
     },
@@ -58,6 +58,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "kyiv",
     "ukraine",
     "ukrainian",

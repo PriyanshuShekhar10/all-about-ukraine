@@ -46,7 +46,7 @@
     {
       "heading": "Historical Development",
       "paragraphs": [
-        "The Verkhovna Rada emerged from the Soviet Union's Supreme Soviet system, which was first established on 26 June 1938 as a legislative body for the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] following the dissolution of the Congress of Soviets.",
+        "The Verkhovna Rada emerged from [[soviet-union|the Soviet Union]]'s Supreme Soviet system, which was first established on 26 June 1938 as a legislative body for the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] following the dissolution of the Congress of Soviets.",
         "The twelfth convocation of the Supreme Soviet, elected in 1990, declared Ukraine's independence and transitioned to the Verkhovna Rada of Ukraine. Currently, the parliament is in its ninth convocation, with 424 deputies due to the absence of elections in [[crimea|Crimea]] and parts of [[donbas|Donbas]] since the 2014 and 2019 elections."
       ]
     },
@@ -66,7 +66,7 @@
     {
       "heading": "Legislative Authority and Function",
       "paragraphs": [
-        "As the sole legislative authority in Ukraine, the Verkhovna Rada is responsible for determining domestic and foreign policy, amending the Constitution, adopting laws, and approving the state budget, among other functions.",
+        "As the sole legislative authority [[coal-in-ukraine|in Ukraine]], the Verkhovna Rada is responsible for determining domestic and foreign policy, amending the Constitution, adopting laws, and approving the state budget, among other functions.",
         "The parliament operates under the condition that at least two-thirds of its members (300 or more deputies) are elected, and it typically processes around 200 bills annually."
       ]
     },
@@ -79,9 +79,11 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "crimea",
     "donbas",
     "kyiv",
+    "soviet-union",
     "ukraine",
     "ukrainian-soviet-socialist-republic"
   ],

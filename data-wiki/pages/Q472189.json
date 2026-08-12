@@ -28,7 +28,7 @@
       }
     ]
   },
-  "summary": "The Ukrainian Greek Catholic Church (UGCC) is an autonomous Eastern Catholic church based in Ukraine, in full communion with the Holy See. It traces its origins to the Christianization of [[kievan-rus|Kievan Rus]]' in 988 and has played a significant role in the development of Ukrainian identity and culture.",
+  "summary": "The Ukrainian Greek Catholic Church (UGCC) is an autonomous Eastern Catholic church based [[coal-in-ukraine|in Ukraine]], in full communion with the Holy See. It traces its origins to the Christianization of [[kievan-rus|Kievan Rus]]' in 988 and has played a significant role in the development of Ukrainian identity and culture.",
   "sections": [
     {
       "heading": "Historical Background",
@@ -62,6 +62,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "kievan-rus",
     "religion-in-ukraine",
     "ruthenian",

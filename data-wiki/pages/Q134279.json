@@ -47,7 +47,7 @@
       }
     ]
   },
-  "summary": "Luhansk is a city of regional significance located in eastern [[ukraine|Ukraine]], specifically within the Donbas region. As of 2022, it is the 12th-largest city in Ukraine, with a population of approximately 397,677.",
+  "summary": "Luhansk is a city of regional significance located in eastern [[ukraine|Ukraine]], specifically within the Donbas region. As of 2022, it is the 12th-largest city [[coal-in-ukraine|in Ukraine]], with a population of approximately 397,677.",
   "sections": [
     {
       "heading": "Geographical and Administrative Overview",
@@ -65,7 +65,7 @@
     {
       "heading": "Impact of the Russo-Ukrainian War",
       "paragraphs": [
-        "In 2014, pro-Russian separatists seized control of Luhansk, declaring it the capital of the self-proclaimed [[luhansk-peoples-republic|Luhansk People's Republic]]. The city has since been a focal point of the ongoing conflict in the [[donbas|Donbas]] region, leading to significant military and civilian casualties, and resulting in the temporary relocation of the [[ukrainian|Ukrainian]] administrative center to Sievierodonetsk."
+        "In 2014, pro-Russian separatists seized control of Luhansk, declaring it the capital of the self-proclaimed [[luhansk-peoples-republic|Luhansk People's Republic]]. The city has since been a focal point of the ongoing conflict in the [[donbas|Donbas]] region, leading to significant military and civilian casualties, and resulting in the temporary relocation of the [[ukrainian|Ukrainian]] administrative center to [[siverskodonetsk|Sievierodonetsk]]."
       ]
     },
     {
@@ -83,8 +83,10 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "donbas",
     "luhansk-peoples-republic",
+    "siverskodonetsk",
     "taras-shevchenko",
     "ukraine",
     "ukrainian",

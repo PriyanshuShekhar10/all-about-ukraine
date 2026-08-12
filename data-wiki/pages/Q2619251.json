@@ -1,0 +1,81 @@
+{
+  "qid": "Q2619251",
+  "slug": "bohuslav-raion",
+  "title": "Bohuslav Raion",
+  "type": "former raion of Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "former raion of Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Bohuslav",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "40,575",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "772",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.5467, 30.8728",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Bohuslav Raion was a district located in Kyiv Oblast, Ukraine, with its administrative center in the city of Bohuslav. The raion was dissolved on 18 July 2020 as part of an administrative reform aimed at streamlining local governance in the region.",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Overview",
+      "paragraphs": [
+        "Bohuslav Raion ([[ukrainian|Ukrainian]]: Богуславський район) was situated within [[kyiv|Kyiv]] Oblast, [[ukraine|Ukraine]]. The administrative center of the raion was the city of Bohuslav."
+      ]
+    },
+    {
+      "heading": "Dissolution and Reorganization",
+      "paragraphs": [
+        "On 18 July 2020, Bohuslav Raion was abolished as part of Ukraine's administrative reform, which aimed to reduce the number of raions in Kyiv Oblast to seven. Following this reform, the territory of Bohuslav Raion was divided between the newly defined [[bila-tserkva|Bila Tserkva]] and Obukhiv Raions."
+      ]
+    },
+    {
+      "heading": "Population and Structure",
+      "paragraphs": [
+        "At the time of its disestablishment, the estimated population of Bohuslav Raion was 33,318. The raion was composed of one city, Bohuslav, and 40 villages."
+      ]
+    },
+    {
+      "heading": "Hromadas",
+      "paragraphs": [
+        "Before its abolition, Bohuslav Raion included two hromadas. The Bohuslav urban hromada, which had its administration in the city of Bohuslav, was transferred to Obukhiv Raion. The Medvyn rural hromada, with its administration located in the selo of Medvyn, was transferred to [[bila-tserkva-raion|Bila Tserkva Raion]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "bila-tserkva",
+    "bila-tserkva-raion",
+    "kyiv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Bohuslav Raion — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bohuslav_Raion",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

@@ -13,7 +13,7 @@
     "label": "isolated human group",
     "fields": []
   },
-  "summary": "The Zaporozhian Cossacks, also referred to as the Zaporozhian Cossack Army or Zaporozhian Host, were a significant group of Cossacks in Ukraine, primarily composed of [[rusyns|Ruthenians]] and other ethnicities, who established a notable military and political presence from the 15th to the 18th century.",
+  "summary": "The Zaporozhian Cossacks, also referred to as the Zaporozhian Cossack Army or Zaporozhian Host, were a significant group of Cossacks [[coal-in-ukraine|in Ukraine]], primarily composed of [[rusyns|Ruthenians]] and other ethnicities, who established a notable military and political presence from the 15th to the 18th century.",
   "sections": [
     {
       "heading": "Historical Context",
@@ -51,6 +51,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "cossack-hetmanate",
     "cossacks",
     "dnieper",

@@ -29,7 +29,7 @@
       }
     ]
   },
-  "summary": "Iryna Venediktova is a prominent Ukrainian politician, lawyer, and academic known for her significant roles in Ukraine's legal and political landscape, including serving as the first female Prosecutor General. As of November 2022, she holds the position of Ambassador Extraordinary and Plenipotentiary of Ukraine to Switzerland and Liechtenstein.",
+  "summary": "Iryna Venediktova is a prominent Ukrainian politician, lawyer, and academic known for her significant roles in Ukraine's legal and political landscape, including serving as the first female Prosecutor General. As of November 2022, she holds the position of Ambassador Extraordinary and Plenipotentiary of [[ukraine|Ukraine]] to Switzerland and Liechtenstein.",
   "sections": [
     {
       "heading": "Biography",
@@ -52,7 +52,7 @@
     {
       "heading": "Director of the State Bureau of Investigation",
       "paragraphs": [
-        "On 27 December 2019, Venediktova was appointed Director of the State Bureau of Investigation ad interim, making her the first woman to lead a state law enforcement agency in [[ukraine|Ukraine]]. During her brief tenure, she implemented a new organizational structure and established a separate investigative unit for the Maidan case."
+        "On 27 December 2019, Venediktova was appointed Director of the State Bureau of Investigation ad interim, making her the first woman to lead a state law enforcement agency [[coal-in-ukraine|in Ukraine]]. During her brief tenure, she implemented a new organizational structure and established a separate investigative unit for the Maidan case."
       ]
     },
     {
@@ -69,6 +69,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "euromaidan",
     "kharkiv-oblast",
     "privatbank",

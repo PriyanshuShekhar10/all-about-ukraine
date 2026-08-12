@@ -1,0 +1,95 @@
+{
+  "qid": "Q2084457",
+  "slug": "national-historical-museum-of-ukraine",
+  "title": "National Historical Museum of Ukraine",
+  "type": "national museum",
+  "category": "geography",
+  "aliases": [
+    "National Museum of the History of Ukraine"
+  ],
+  "infobox": {
+    "label": "national museum",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1899",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Kyiv",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4583, 30.5161",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The National Museum of the History of Ukraine, known as MIST, is a prominent institution that showcases the historical narrative of Ukraine from ancient times to the present. With a collection of approximately 800,000 items, it plays a vital role in preserving and presenting Ukrainian heritage.",
+  "sections": [
+    {
+      "heading": "Foundation and Early History",
+      "paragraphs": [
+        "The museum commenced its journey in 1899 with an archaeological exhibition in [[kyiv|Kyiv]], originally named the Museum of Antiquities and Arts. It was established in an unfinished building designed by architect Vladyslav Horodetsky, with funding from local residents.",
+        "The first department created was the archaeological section, led by the notable [[ukrainian|Ukrainian]] archaeologist Vikentiy Khvoyka. Mykola Biliashivsky served as the inaugural director from 1902, significantly contributing to the museum's collection development.",
+        "In 1904, it was renamed the Emperor Nicholas II Kyiv Art, Industry and Science Museum, supported by patrons such as the Tereshchenko and Khanenko families, who funded archaeological expeditions and contributed to the collection of historical artifacts."
+      ]
+    },
+    {
+      "heading": "Ukrainian War of Independence and Soviet Era",
+      "paragraphs": [
+        "During the [[ukrainian-war-of-independence|Ukrainian War of Independence]] from 1917 to 1921, the museum's role in ideological and educational matters grew. Following the Bolshevik takeover, the museum was nationalized in 1919 and renamed the First State Museum.",
+        "In 1924, it became the [[taras-shevchenko|Taras Shevchenko]] Ukrainian Historical Museum, focusing on archaeological artifacts and household items. The museum faced significant changes in 1934 when it was evicted from its original location, with most exhibits moved to the [[kyiv-pechersk-lavra|Kyiv Pechersk Lavra]].",
+        "By 1935, it was renamed the Taras Shevchenko Central Historical Museum and was evacuated during World War II, returning to Kyiv in 1944 after the city was liberated."
+      ]
+    },
+    {
+      "heading": "Post-Independence Developments",
+      "paragraphs": [
+        "In 1991, following [[ukraine|Ukraine]]'s independence, the museum was renamed the [[lviv-national-museum|National Museum]] of [[history-of-ukraine|History of Ukraine]]. It has since hosted exhibitions on various topics, including the Trypillia culture and [[holodomor|the Holodomor]].",
+        "In 2020, the museum was rebranded as MIST, symbolizing a connection between the past and future. The museum has also taken custody of artifacts from [[crimea|Crimea]], asserting Ukraine's claims following the region's annexation by Russia in 2014."
+      ]
+    },
+    {
+      "heading": "Main Building and Collection",
+      "paragraphs": [
+        "The museum is currently located on Volodymyrska Street in Kyiv, in a building designed by Joseph Karakis, constructed between 1937 and 1939. It houses a collection of about 800,000 items, with approximately 22,000 on permanent display.",
+        "The collection includes significant archaeological artifacts, ethnographic materials, historical paintings, and numismatic items, showcasing the rich cultural heritage of Ukraine."
+      ]
+    },
+    {
+      "heading": "Branches and Additional Museums",
+      "paragraphs": [
+        "The museum has several branches, including the Kyiv City Teacher's House, which exhibits documents from the Ukrainian Revolution, and the Museum of Historical Treasures of Ukraine, known as the 'golden treasury of Ukraine', housing over 56,000 exhibits from various historical periods."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "history-of-ukraine",
+    "holodomor",
+    "kyiv",
+    "kyiv-pechersk-lavra",
+    "lviv-national-museum",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-war-of-independence"
+  ],
+  "sources": [
+    {
+      "title": "National Museum of the History of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_Museum_of_the_History_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

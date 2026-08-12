@@ -1,0 +1,95 @@
+{
+  "qid": "Q264253",
+  "slug": "bohdan-stupka",
+  "title": "Bohdan Stupka",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Bogdan Stupka",
+    "Bohdan Sylvestrovych Stupka"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1941-08-27",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "2012-07-22",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Kulykiv",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "minister of culture",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Bohdan Sylvestrovych Stupka was a prominent Ukrainian actor and the minister of [[culture-of-ukraine|culture of Ukraine]], known for his extensive contributions to film and theater. His legacy is commemorated through various honors and memorials across Ukraine.",
+  "sections": [
+    {
+      "heading": "Early Life and Career",
+      "paragraphs": [
+        "Bohdan Sylvestrovych Stupka was born on 27 August 1941 in Kulykiv, General Government, to [[ukrainian|Ukrainian]] parents. He became a significant figure in Ukrainian culture, both as an actor and as the minister of culture."
+      ]
+    },
+    {
+      "heading": "Film and Theater Contributions",
+      "paragraphs": [
+        "Stupka's career included over a hundred film roles and more than fifty theatrical performances. He received numerous accolades, including the titles of Merited Artist of [[ukraine|Ukraine]], People's Artist of [[soviet-union|the USSR]], and Hero of Ukraine.",
+        "He was a member of the jury at the 23rd Moscow International Film Festival in 2001 and won the Best Actor award at the 26th Moscow International Film Festival for his performance in 'Our Own'."
+      ]
+    },
+    {
+      "heading": "Awards and Recognition",
+      "paragraphs": [
+        "Throughout his career, Stupka received several prestigious awards, including the [[kyiv|Kyiv]] Pectoral Award for Best Male Role in 2001, the Golden Aries Award for Best Male Role in 2004, and multiple Golden Eagle Awards in various categories from 2005 to 2012."
+      ]
+    },
+    {
+      "heading": "Commemoration and Legacy",
+      "paragraphs": [
+        "In honor of Bohdan Stupka, streets in multiple cities, including [[vinnytsia|Vinnytsia]] and Kyiv, have been named after him. An asteroid, 269252 Bohdanstupka, was named in his honor following its discovery on his 67th birthday.",
+        "A postage stamp dedicated to him was issued by Ukrposhta on 5 October 2016. The Bohdan Stupka Museum Room was established in Kulykiv in 2016, and a bust was unveiled there in 2017. Further commemorations included a bas-relief and memorial plaque in Kyiv on 27 August 2021, marking his 80th birthday."
+      ]
+    },
+    {
+      "heading": "Family",
+      "paragraphs": [
+        "Bohdan Stupka's legacy continues through his son, Ostap Stupka, who is also an actor, contributing to the cultural landscape of Ukraine."
+      ]
+    },
+    {
+      "heading": "Final Resting Place",
+      "paragraphs": [
+        "Bohdan Stupka passed away on 22 July 2012 and was laid to rest at Baikove Cemetery in Kyiv, leaving behind a rich cultural heritage [[coal-in-ukraine|in Ukraine]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "culture-of-ukraine",
+    "kyiv",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "vinnytsia"
+  ],
+  "sources": [
+    {
+      "title": "Bohdan Stupka — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bohdan_Stupka",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

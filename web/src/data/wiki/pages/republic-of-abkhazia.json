@@ -65,7 +65,7 @@
     {
       "heading": "Historical Context",
       "paragraphs": [
-        "The region was granted autonomy as the Abkhaz Autonomous Soviet Socialist Republic within the Georgian Soviet Socialist Republic during the late 1980s, coinciding with the Soviet Union's disintegration. Ethnic tensions between the Abkhaz and Georgians escalated, leading to the 1992–1993 War in Abkhazia, which resulted in Georgia losing control over most of the region and the subsequent ethnic cleansing of Georgians."
+        "The region was granted autonomy as the Abkhaz Autonomous Soviet Socialist Republic within the Georgian Soviet Socialist Republic during the late 1980s, coinciding with [[soviet-union|the Soviet Union]]'s disintegration. Ethnic tensions between the Abkhaz and Georgians escalated, leading to the 1992–1993 War in Abkhazia, which resulted in Georgia losing control over most of the region and the subsequent ethnic cleansing of Georgians."
       ]
     },
     {
@@ -94,6 +94,7 @@
     }
   ],
   "links_out": [
+    "soviet-union",
     "ukraine"
   ],
   "sources": [

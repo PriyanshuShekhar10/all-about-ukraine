@@ -51,7 +51,7 @@
       }
     ]
   },
-  "summary": "Kharkiv, the second-largest city in Ukraine, serves as the administrative center of Kharkiv Oblast and Kharkiv Raion. It has a rich history as a cultural, industrial, and educational hub, significantly influencing the development of Ukrainian identity and politics.",
+  "summary": "Kharkiv, the second-largest city [[coal-in-ukraine|in Ukraine]], serves as the administrative center of Kharkiv Oblast and Kharkiv Raion. It has a rich history as a cultural, industrial, and educational hub, significantly influencing the development of Ukrainian identity and politics.",
   "sections": [
     {
       "heading": "Geographical and Demographic Overview",
@@ -68,7 +68,7 @@
     {
       "heading": "Cultural and Industrial Significance",
       "paragraphs": [
-        "Kharkiv has played a vital role as a cultural, scientific, educational, transport, and industrial center in independent Ukraine. Key landmarks include the Annunciation and Dormition cathedrals, the Derzhprom building in Freedom Square, the Kharkiv Railway Station, the National University of Kharkiv, and the Kharkiv Tractor Factory (HTZ). The city is known for its leading industries, including machinery, electronics, and military hardware."
+        "Kharkiv has played a vital role as a cultural, scientific, educational, transport, and industrial center in [[independent-ukraine|independent Ukraine]]. Key landmarks include the Annunciation and Dormition cathedrals, the Derzhprom building in Freedom Square, the Kharkiv Railway Station, the National University of Kharkiv, and the Kharkiv Tractor Factory (HTZ). The city is known for its leading industries, including machinery, electronics, and military hardware."
       ]
     },
     {
@@ -85,7 +85,9 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "full-scale-russo-ukrainian-war",
+    "independent-ukraine",
     "kharkiv-oblast",
     "ukraine",
     "ukrainian",

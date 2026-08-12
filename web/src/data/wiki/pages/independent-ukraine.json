@@ -1,0 +1,48 @@
+{
+  "qid": "Q4406892",
+  "slug": "independent-ukraine",
+  "title": "Independent Ukraine",
+  "type": "work",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "work",
+    "fields": []
+  },
+  "summary": "Independent Ukraine is a political pamphlet authored by Mykola Mikhnovsky in 1900, advocating for a sovereign Ukrainian state. This work is significant in the context of [[ukraine|Ukraine]]'s national identity and political aspirations.",
+  "sections": [
+    {
+      "heading": "Background",
+      "paragraphs": [
+        "Independent Ukraine was published in 1900 by Mykola Mikhnovsky, a prominent figure in the [[ukrainian|Ukrainian]] nationalist movement."
+      ]
+    },
+    {
+      "heading": "Significance",
+      "paragraphs": [
+        "This pamphlet is recognized as one of the earliest expressions advocating for a modern, independent Ukrainian state, reflecting the growing national consciousness among [[ukrainians|Ukrainians]] at the turn of the 20th century."
+      ]
+    },
+    {
+      "heading": "Political Context",
+      "paragraphs": [
+        "The publication emerged in support of the Revolutionary Ukrainian Party, which aimed to promote Ukrainian self-determination and sovereignty during a time of significant political upheaval in [[eastern-europe|Eastern Europe]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "eastern-europe",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Independent Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Independent_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

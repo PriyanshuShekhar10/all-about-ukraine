@@ -1,0 +1,77 @@
+{
+  "qid": "Q1642605",
+  "slug": "rusal",
+  "title": "Rusal",
+  "type": "business",
+  "category": "economy",
+  "aliases": [
+    "RUSAL"
+  ],
+  "infobox": {
+    "label": "business",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2007",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Jersey",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Moscow",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "United Company Rusal is the world's second-largest aluminium producer, with significant operations and historical ties to [[ukraine|Ukraine]], particularly through its ownership of the Nikolaev alumina refinery. Founded by Oleg Deripaska, Rusal has undergone various mergers and expansions since its inception in 2000.",
+  "sections": [
+    {
+      "heading": "Company Overview",
+      "paragraphs": [
+        "United Company Rusal, established in 2000, is recognized as the second-largest aluminium company globally by primary production output, accounting for nearly 9% of the world's primary aluminium output and 9% of alumina production as of 2016. The company emerged from a merger involving Rusal, SUAL, and Glencore's alumina assets in March 2007, forming a conglomerate with operations in 17 countries."
+      ]
+    },
+    {
+      "heading": "Historical Context and Ukrainian Operations",
+      "paragraphs": [
+        "Rusal's origins trace back to Oleg Deripaska's ventures in the metals industry during the early 1990s. Notably, the [[mykolaiv|Nikolaev]] alumina refinery [[coal-in-ukraine|in Ukraine]] has been a significant asset, with Rusal increasing its ownership to 100% by 2006. This refinery plays a crucial role in Rusal's supply chain for alumina, essential for aluminium production."
+      ]
+    },
+    {
+      "heading": "Growth and Expansion",
+      "paragraphs": [
+        "Following its establishment, Rusal pursued aggressive growth strategies, acquiring various aluminium and alumina assets worldwide. By 2002, the company had secured controlling stakes in multiple facilities, including the Nikolaev alumina refinery. Rusal's strategic focus on upstream operations led to significant acquisitions, including the Boxitogorsk alumina refinery and partnerships in projects across Russia and Guinea."
+      ]
+    },
+    {
+      "heading": "Financial Developments and Challenges",
+      "paragraphs": [
+        "Throughout its history, Rusal has faced financial challenges, particularly during the 2008 financial crisis, which necessitated restructuring and debt consolidation efforts. The company received a substantial loan from Vnesheconombank to manage its debts, reflecting the interconnectedness of its financial health with broader economic conditions."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "In recent years, Rusal has continued to adapt to market conditions, including forming joint ventures with international partners and exploring new markets. The company has also announced plans to demerge its high carbon assets and rebrand as AL+, indicating a shift towards more sustainable practices."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "mykolaiv",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Rusal — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rusal",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

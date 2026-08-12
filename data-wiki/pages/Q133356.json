@@ -50,12 +50,12 @@
       }
     ]
   },
-  "summary": "The Ukrainian Soviet Socialist Republic (Ukrainian SSR) was a key constituent republic of the Soviet Union from 1922 until 1991, playing a significant role in Ukraine's historical and political landscape. Governed by the Communist Party of the Soviet Union through its Ukrainian branch, the republic underwent numerous territorial and political changes during its existence.",
+  "summary": "The Ukrainian Soviet Socialist Republic (Ukrainian SSR) was a key constituent republic of the Soviet Union from 1922 until 1991, playing a significant role [[coal-in-ukraine|in Ukraine]]'s historical and political landscape. Governed by the Communist Party of the Soviet Union through its Ukrainian branch, the republic underwent numerous territorial and political changes during its existence.",
   "sections": [
     {
       "heading": "Formation and Governance",
       "paragraphs": [
-        "The Ukrainian Soviet Socialist Republic, abbreviated as the Ukrainian SSR, was established as part of the Soviet Union in 1922, following the Russian Revolution. It was governed under the one-party system of the Communist Party of the Soviet Union, specifically through the Communist Party of [[ukraine|Ukraine]]."
+        "The Ukrainian Soviet Socialist Republic, abbreviated as the Ukrainian SSR, was established as part of [[soviet-union|the Soviet Union]] in 1922, following the Russian Revolution. It was governed under the one-party system of the Communist Party of the Soviet Union, specifically through the Communist Party of [[ukraine|Ukraine]]."
       ]
     },
     {
@@ -73,7 +73,7 @@
     {
       "heading": "Territorial Changes",
       "paragraphs": [
-        "Throughout its existence, the borders of the Ukrainian SSR fluctuated, generally moving towards areas with a majority ethnic Ukrainian population. Significant territorial gains included [[eastern-galicia|Eastern Galicia]] and Volhynia in 1939, parts of Romania in 1940, and [[transcarpathia|Carpathian Ruthenia]] in 1945, which were annexed as a result of the Molotov–Ribbentrop Pact."
+        "Throughout its existence, the borders of the Ukrainian SSR fluctuated, generally moving towards areas with a majority ethnic Ukrainian population. Significant territorial gains included [[eastern-galicia|Eastern Galicia]] and [[volhynia|Volhynia]] in 1939, parts of Romania in 1940, and [[transcarpathia|Carpathian Ruthenia]] in 1945, which were annexed as a result of the Molotov–Ribbentrop Pact."
       ]
     },
     {
@@ -90,14 +90,17 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "constitution-of-ukraine",
     "eastern-galicia",
     "kharkiv",
+    "soviet-union",
     "transcarpathia",
     "ukraine",
     "ukrainian",
     "ukrainian-peoples-republic",
-    "ukrainian-war-of-independence"
+    "ukrainian-war-of-independence",
+    "volhynia"
   ],
   "sources": [
     {

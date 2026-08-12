@@ -1,0 +1,98 @@
+{
+  "qid": "Q147739",
+  "slug": "izmail",
+  "title": "Izmail",
+  "type": "city in Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Ismail",
+    "Izmayil",
+    "Smil",
+    "Tuchkov"
+  ],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "71,594",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "53",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "31",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "45.3418, 28.8346",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Izmail is a city and municipality located on the Danube River in Odesa Oblast, Ukraine. It serves as the administrative center of Izmail Raion and is recognized as the largest port in the Danube Delta, playing a significant role [[coal-in-ukraine|in Ukraine]]'s economy and maritime activities.",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Context",
+      "paragraphs": [
+        "Izmail is situated on the left bank of the Chilia branch of the Danube Delta in south-[[western-ukraine|western Ukraine]], within [[odesa-oblast|Odesa Oblast]]. It is surrounded by various lakes, including Yalpuh, Kuhurluy, and Kotlabuh, and is part of the Budjak steppe region.",
+        "As the administrative center of Izmail Raion, Izmail is the only locality that constitutes the Izmail urban hromada, a form of [[local-government-in-ukraine|local government in Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "The fortress of Izmail was established by Genoese merchants in the 12th century and has a rich history involving various rulers, including the Ottomans and Russians. It gained notoriety during the 18th century when Russian general Alexander Suvorov stormed the Ottoman fortress in 1790, a pivotal event in Russo-Turkish relations.",
+        "Izmail was part of the Ottoman Empire until it was ceded to Russia in 1812 following the Treaty of Bucharest. The city underwent significant rebuilding during the Russian period, with several churches constructed during this time."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "As of the 2022 estimate, Izmail has a population of 69,932. Historically, the city has been home to a diverse population, including [[ukrainians|Ukrainians]], Russians, Bulgarians, and Moldovans.",
+        "In the 2001 census, the population included 32,500 individuals identifying as ethnic Ukrainians, 37,166 as ethnic Russians, and smaller communities of Bulgarians and Moldovans, showcasing the multicultural fabric of the city."
+      ]
+    },
+    {
+      "heading": "Economic Role",
+      "paragraphs": [
+        "Izmail is recognized as the largest [[ukrainian|Ukrainian]] port in the Danube Delta, serving as a crucial hub for maritime trade and the food processing industry. The city is also a center for ship repair and is strategically important for the Ukrainian Navy and Sea Guard units."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "Since [[ukraine|Ukraine]]'s independence on August 24, 1991, Izmail has been an integral part of the country. Following the administrative reform in July 2020, it was incorporated into Izmail Raion.",
+        "The city has faced challenges due to the ongoing conflict, including a missile and drone attack on September 27, 2024, highlighting its strategic significance in contemporary geopolitics."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "local-government-in-ukraine",
+    "odesa-oblast",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Izmail — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Izmail",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

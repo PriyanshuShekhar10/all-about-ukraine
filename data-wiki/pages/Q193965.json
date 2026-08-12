@@ -1,0 +1,116 @@
+{
+  "qid": "Q193965",
+  "slug": "kamianets-podilskyi",
+  "title": "Kamianets-Podilskyi",
+  "type": "city of regional significance of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Camenița",
+    "Kamaniçe",
+    "Kamenetz-Podolsk",
+    "Kamianets-Podilsky",
+    "Kamieniec Podolski",
+    "Kamyanets-Podilskyy"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1062",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "100,462",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "27",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "360",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Mikhaylo Simashkevich, Mykhailo Positko",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.6806, 26.5806",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Kamianets-Podilskyi is a city of regional significance in western Ukraine, located on the Smotrych River. Historically significant as a center of the Podillia region, it has served various administrative roles and was briefly the capital of the Ukrainian People's Republic during the Ukrainian–Soviet War.",
+  "sections": [
+    {
+      "heading": "Geography and Administration",
+      "paragraphs": [
+        "Kamianets-Podilskyi is situated on the Smotrych River in [[western-ukraine|western Ukraine]], northeast of [[chernivtsi|Chernivtsi]]. It was formerly the administrative center of Khmelnytskyi Oblast and is currently the administrative center of Kamianets-Podilskyi Raion within the same oblast. The city also hosts the administration of Kamianets-Podilskyi urban hromada."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Kamianets-Podilskyi has a rich historical background, serving as a capital for various entities such as the Duchy of [[podolia|Podolia]], the Podolian Voivodeship, the Podolia Eyalet, and the Podolia Governorate. Notably, during the [[ukrainiansoviet-war|Ukrainian–Soviet War]], it functioned as the temporary capital of the [[ukrainian-peoples-republic|Ukrainian People's Republic]] from 1919 to 1920."
+      ]
+    },
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "The city was originally known as Kamianets, and its name was changed following the partitions of Poland and the occupation by the Russian Empire in 1795. The first part of the name derives from 'kamin' (meaning 'stone' in Old Slavic), while the second part refers to the historic region of Podillia, making the name translate to 'The Stone of Podilia.'"
+      ]
+    },
+    {
+      "heading": "Historical Timeline",
+      "paragraphs": [
+        "Kamianets-Podilskyi was first documented in 1062, initially part of the principality of Terebovlia, later becoming associated with [[halych|Halych]] principality and the [[kingdom-of-galiciavolhynia|Kingdom of Galicia–Volhynia]]. The city came under Polish rule in 1352 and was granted Magdeburg Law in 1374. It was captured by the Ottoman Empire in 1672 and returned to Poland in 1699.",
+        "Following the Second Partition of Poland in 1793, Kamianets-Podilskyi became part of the Russian Empire and served as the capital of the Podolia Governorate. During World War I, it was occupied by Austria-Hungary in 1915 and later became part of the Ukrainian People's Republic in 1918, before being occupied by the Red Army in late 1920."
+      ]
+    },
+    {
+      "heading": "Cultural and Demographic Aspects",
+      "paragraphs": [
+        "Throughout its history, Kamianets-Podilskyi has been a multiethnic and multi-religious city, with significant populations of Poles, Jews, [[ukrainians|Ukrainians]], and Armenians. The city has been a center for cultural activities, including the establishment of a Polish theater in 1798 and a local seminary that contributed to the rise of notable [[ukrainian|Ukrainian]] activists."
+      ]
+    },
+    {
+      "heading": "Impact of Soviet Rule",
+      "paragraphs": [
+        "Under Soviet rule, Kamianets-Podilskyi faced severe persecutions, with many Poles deported to Central Asia. The city was affected by [[holodomor|the Holodomor]] of 1932-1933, although the situation was somewhat less dire than in other regions due to its proximity to the western border. The city has also been a site of significant unrest against Soviet authorities, particularly during the collectivization campaign."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernivtsi",
+    "halych",
+    "holodomor",
+    "kingdom-of-galiciavolhynia",
+    "podolia",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "ukrainians",
+    "ukrainiansoviet-war",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Kamianets-Podilskyi — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kamianets-Podilskyi",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

@@ -1,0 +1,62 @@
+{
+  "qid": "Q4449488",
+  "slug": "tawrija",
+  "title": "Tawrija",
+  "type": "Wikimedia disambiguation page",
+  "category": "people",
+  "aliases": [
+    "Tavria"
+  ],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "Tavria is a geographic term referring to a subregion in Southern Ukraine, notable for its steppe landscape situated between the Dnipro and Molochna rivers and the Crimean peninsula. The term also encompasses historical administrative divisions and contemporary institutions relevant to Ukraine.",
+  "sections": [
+    {
+      "heading": "Geographic Significance",
+      "paragraphs": [
+        "Tavria denotes a geographic area in Southern [[ukraine|Ukraine]] characterized by steppe regions located between the [[dnieper|Dnipro]] and Molochna rivers, extending to the [[crimea|Crimean peninsula]]."
+      ]
+    },
+    {
+      "heading": "Historical Administrative Divisions",
+      "paragraphs": [
+        "The term Tavria has historical significance, referring to Tavria Okruha, which existed from 1918 to 1920. This area represented the northern section of the Taurida Governorate, encompassing most of the current [[kherson|Kherson]] and southern [[zaporizhzhia|Zaporizhzhia]] oblasts.",
+        "Additionally, Tavria served as an alternative designation for the entire Taurida Governorate from 1802 until its dissolution in 1918."
+      ]
+    },
+    {
+      "heading": "Cultural and Educational Institutions",
+      "paragraphs": [
+        "In contemporary contexts, Tavria is associated with the ZAZ Tavria, a model of automobile produced [[coal-in-ukraine|in Ukraine]].",
+        "Furthermore, the Tavria State Agrotechnological Academy, located in [[melitopol|Melitopol]], is an educational institution that contributes to agricultural education and research in the region."
+      ]
+    },
+    {
+      "heading": "Cultural References",
+      "paragraphs": [
+        "The term Tavria may also refer to Tauria, which is linked to the Poseidon festival at Ephesus, where participants were known as ταῦρoι, though this connection is more historical and less relevant to the [[ukrainian|Ukrainian]] context."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "crimea",
+    "dnieper",
+    "kherson",
+    "melitopol",
+    "ukraine",
+    "ukrainian",
+    "zaporizhzhia"
+  ],
+  "sources": [
+    {
+      "title": "Tavria — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tavria",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

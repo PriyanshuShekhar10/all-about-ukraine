@@ -25,7 +25,7 @@
       }
     ]
   },
-  "summary": "The Ukrainian Insurgent Army (UPA) was a nationalist military formation established on 14 October 1942 by the Banderite faction of the Organisation of Ukrainian Nationalists. It played a significant role in [[ukraine|Ukraine]]'s struggle for independence during World War II, engaging in guerrilla warfare against both Soviet and Nazi forces until the 1950s.",
+  "summary": "The Ukrainian Insurgent Army (UPA) was a nationalist military formation established on 14 October 1942 by the Banderite faction of the Organisation of Ukrainian Nationalists. It played a significant role [[coal-in-ukraine|in Ukraine]]'s struggle for independence during World War II, engaging in guerrilla warfare against both Soviet and Nazi forces until the 1950s.",
   "sections": [
     {
       "heading": "Formation and Goals",
@@ -36,7 +36,7 @@
     {
       "heading": "Military Engagements",
       "paragraphs": [
-        "The UPA engaged in guerrilla warfare against the Soviet Union, Polish forces, and Nazi Germany. Initially motivated by anti-German sentiment, the UPA collaborated with German forces by late 1944. The organization was involved in violent confrontations, including massacres of Polish civilians in Volhynia and [[eastern-galicia|Eastern Galicia]], resulting in the deaths of up to 100,000 individuals, which Poland recognizes as genocide.",
+        "The UPA engaged in guerrilla warfare against [[soviet-union|the Soviet Union]], Polish forces, and Nazi Germany. Initially motivated by anti-German sentiment, the UPA collaborated with German forces by late 1944. The organization was involved in violent confrontations, including massacres of Polish civilians in [[volhynia|Volhynia]] and [[eastern-galicia|Eastern Galicia]], resulting in the deaths of up to 100,000 individuals, which Poland recognizes as genocide.",
         "The UPA continued its resistance against Soviet forces until 1949 and attempted to prevent the deportation of [[ukrainians|Ukrainians]] from western [[galicia|Galicia]] until 1947."
       ]
     },
@@ -63,11 +63,13 @@
   ],
   "links_out": [
     "cabinet-of-ministers-of-ukraine",
+    "coal-in-ukraine",
     "eastern-galicia",
     "galicia",
-    "ukraine",
+    "soviet-union",
     "ukrainian",
-    "ukrainians"
+    "ukrainians",
+    "volhynia"
   ],
   "sources": [
     {

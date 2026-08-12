@@ -1,0 +1,68 @@
+{
+  "qid": "Q12165937",
+  "slug": "state-property-fund-of-ukraine",
+  "title": "State Property Fund of Ukraine",
+  "type": "foundation",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "foundation",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The State Property Fund of Ukraine is a central executive body that oversees the management and privatization of state property in Ukraine, operating under the administration of the Cabinet of Ministers.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The State Property Fund of Ukraine ([[ukrainian|Ukrainian]]: Фонд державного майна України, romanized: Fond derzhavnoho maina Ukrainy) serves as a central body of executive power [[coal-in-ukraine|in Ukraine]], possessing a special status and functioning under the [[cabinet-of-ministers-of-ukraine|Cabinet of Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Responsibilities",
+      "paragraphs": [
+        "The Fund is accountable to the [[president-of-ukraine|President of Ukraine]] and has established 12 regional offices across the country. Its operations encompass seven key areas: asset management, privatization, land banking, asset leasing, asset evaluation, asset expropriation, and the development and management of state registers."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The State Property Fund of Ukraine was founded in 1991, following the Cabinet of Ministers' Resolution N.158, aimed at implementing the state policy regarding the privatization of state property. The Fund's activities are governed by the 'Law on the State Property Fund of Ukraine,' which was enacted in December 2011.",
+        "Notably, two former directors of the Fund, Mykhailo Chechetov and Valentyna Semenyuk-Samsonenko, tragically took their own lives following the [[euromaidan|Euromaidan]] events and the departure of former President [[viktor-yanukovych|Viktor Yanukovych]] in February 2014."
+      ]
+    },
+    {
+      "heading": "Leadership",
+      "paragraphs": [
+        "The leadership of the State Property Fund has seen a number of directors since its establishment. The directors have included: Volodymyr Pryadko (1991–1994), Yuriy Yekhanurov (1994–1997), Volodymyr Lanovy (acting, 1997–1998), Oleksandr Bondar (1998–2003), Mykhailo Chechetov (2003–2005), Valentyna Semenyuk-Samsonenko (2005–2008), Dmytro Parfenenko (acting, 2008–2010), Oleksandr Ryabchenko (2010–2014), Dmytro Parfenenko (acting, 2014–2015), Ihor Bilous (2015–2017), Dmytro Parfenenko (acting, 2017), Vitaliy Trubarov (acting, 2017–2019), Dmytro Sennychenko (2019–2022), Olha Batova (acting, 2022), Rustem Umierov (2022–2023), Olha Pishchanska (2023), Vitaliy Koval (2023–2024), and Dmytro Natalukha (2026–present)."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "coal-in-ukraine",
+    "euromaidan",
+    "president-of-ukraine",
+    "ukrainian",
+    "viktor-yanukovych"
+  ],
+  "sources": [
+    {
+      "title": "State Property Fund of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/State_Property_Fund_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

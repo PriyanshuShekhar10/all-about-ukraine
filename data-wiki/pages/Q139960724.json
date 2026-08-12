@@ -1,0 +1,78 @@
+{
+  "qid": "Q139960724",
+  "slug": "ukrainian-historiography",
+  "title": "Ukrainian historiography",
+  "type": "aspect in a geographic region",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "aspect in a geographic region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Ukrainian historiography encompasses the academic study of Ukraine's history, significantly shaped by its interactions with Russia and the contributions of Ukrainian immigrant historians, particularly in Canada. This field has evolved through various interpretations and schools of thought, reflecting Ukraine's complex past and national identity.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Ukrainian historiography has been heavily influenced by the historical relationship between [[ukraine|Ukraine]] and Russia. Until recently, much of the knowledge about Ukraine outside its borders was derived from Russian secondary sources, particularly after the Russian Empire's control over significant [[ukrainian|Ukrainian]] territories from the late seventeenth century.",
+        "Russian writers often incorporated Ukraine into Russian history, referring to [[kievan-rus|Kyivan Rus]] as 'Kievan Russia' and its inhabitants as 'Kievan Russian' or 'Old Russian'. Various terms such as '[[little-russia|Little Russia]]', 'South Russia', 'West Russia', and 'New Russia' were used to describe parts of Ukraine, while areas beyond Russian control were labeled as Ruthenia."
+      ]
+    },
+    {
+      "heading": "Emergence of Ukrainian Historiography",
+      "paragraphs": [
+        "The scholarly study of [[history-of-ukraine|Ukrainian history]] began to take shape in the late 19th century, influenced by German Romanticism. Key figures included Volodymyr Antonovych (1834–1908) and his student [[mykhailo-hrushevskyi|Mykhailo Hrushevsky]] (1866–1934), who challenged the Russian narrative with Hrushevsky's 1904 article that advocated for a rational organization of Eastern Slavic history.",
+        "Despite the emergence of new historical methodologies, the dissemination of ideas contrary to government narratives faced significant obstacles, leading to the establishment of exile schools of historians in central Europe and Canada after 1920."
+      ]
+    },
+    {
+      "heading": "Historiographical Schools",
+      "paragraphs": [
+        "Ukrainian historiography is characterized by four main schools: Russophile, Sovietophile, Eastern Slavic, and Ukrainophile. [[soviet-union|The Soviet Union]] experienced a significant shift in historiography after 1921, with Mikhail Pokrovsky leading a Marxist interpretation that marginalized national histories.",
+        "Under [[donetsk|Stalin]], official historiography adopted a distinctly Russian character, promoting Russocentrism. In [[independent-ukraine|independent Ukraine]], the Ukrainophile school has gained prominence, emphasizing a national identity separate from Russia, while the Russophile and Sovietophile schools have become less influential."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "In recent years, historians have sought to move beyond national narratives, exploring multiethnic and transnational histories of Ukraine. This approach recognizes the diverse peoples within Ukraine and positions it as a border zone for various empires.",
+        "Since 2015, there has been a renewed focus on integrating the histories of different ethnic groups, such as the [[crimean-tatars|Crimean Tatars]], into the national narrative, reflecting a broader understanding of Ukraine's past amid ongoing political tensions with Russia."
+      ]
+    },
+    {
+      "heading": "Canadian Contributions",
+      "paragraphs": [
+        "Twentieth-century historians in [[ukrainian-soviet-socialist-republic|Soviet Ukraine]] faced significant restrictions, leading to the development of independent scholarship among Ukrainian émigrés in Canada. Scholars like George W. Simpson and Orest Subtelny played pivotal roles in promoting Ukrainian studies, focusing on themes of nationalism and identity.",
+        "Post-1991, Canadian historians assisted in liberating Ukrainian scholarship from Soviet-Marxist influences, fostering a collaborative environment for exploring Ukrainian nation-building and identity formation, with scholars from both Ukraine and Canada engaging in global academic discourse."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimean-tatars",
+    "donetsk",
+    "history-of-ukraine",
+    "independent-ukraine",
+    "kievan-rus",
+    "little-russia",
+    "mykhailo-hrushevskyi",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian historiography — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_historiography",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

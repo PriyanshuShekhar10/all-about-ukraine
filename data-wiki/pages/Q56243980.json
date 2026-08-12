@@ -9,7 +9,7 @@
     "label": "Wikimedia disambiguation page",
     "fields": []
   },
-  "summary": "Zakarpattia refers to various entities associated with the region of Zakarpattia Oblast in Ukraine, including its administrative structure, historical context, and cultural significance.",
+  "summary": "Zakarpattia refers to various entities associated with the region of Zakarpattia Oblast [[coal-in-ukraine|in Ukraine]], including its administrative structure, historical context, and cultural significance.",
   "sections": [
     {
       "heading": "Zakarpattia Oblast",
@@ -55,6 +55,7 @@
   ],
   "links_out": [
     "carpathians",
+    "coal-in-ukraine",
     "hoverla",
     "modern-history-of-ukraine",
     "transcarpathia",

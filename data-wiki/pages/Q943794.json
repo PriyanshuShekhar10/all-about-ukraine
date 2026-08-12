@@ -1,0 +1,85 @@
+{
+  "qid": "Q943794",
+  "slug": "pidhirtsi-castle",
+  "title": "Pidhirtsi Castle",
+  "type": "castle",
+  "category": "geography",
+  "aliases": [
+    "Podhorce Palace"
+  ],
+  "infobox": {
+    "label": "castle",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1635",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.9431, 24.9835",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Pidhirtsi Castle, located in the village of Pidhirtsi in [[lviv-oblast|Lviv Oblast]], [[ukraine|Ukraine]], is a historically significant residential castle-fortress built between 1635 and 1640. It is recognized as a valuable example of the palace-garden complexes from the Polish-Lithuanian Commonwealth era.",
+  "sections": [
+    {
+      "heading": "Construction and Historical Significance",
+      "paragraphs": [
+        "Pidhirtsi Castle was constructed by Guillaume Le Vasseur de Beauplan between 1635 and 1640 under the commission of Stanisław Koniecpolski, Grand Crown [[hetman|Hetman]] of the Polish-Lithuanian Commonwealth. The castle replaced an older fortress and became part of the Crown's property in the Kingdom of Poland, noted for its architectural and historical value in the eastern borderlands of the former Commonwealth."
+      ]
+    },
+    {
+      "heading": "Architectural Features",
+      "paragraphs": [
+        "The castle is designed in the palazzo in fortezza style, made of brick and stone, and is situated at 399 meters above sea level on the northern side of the Woroniaki hills. It overlooks the Styr River valley and features a moat, drawbridge, and fortified walls with bastions. The structure forms an open square nearly 100 meters per side and consists of three floors, with the western section serving as an official residence for guests."
+      ]
+    },
+    {
+      "heading": "Interior Design and Furnishings",
+      "paragraphs": [
+        "During its peak under Jakub Ludwik Sobieski, the castle was lavishly furnished with various rooms including a library, a Guardroom, and several color-themed rooms. The interiors featured around 200 portraits, marble fireplaces, and artworks, including 106 paintings by Szymon Czechowicz. The castle also housed valuable items acquired by Stanisław Koniecpolski during military campaigns."
+      ]
+    },
+    {
+      "heading": "Historical Events and Ownership Changes",
+      "paragraphs": [
+        "Pidhirtsi Castle faced attacks during the Khmelnytskyi Uprising in 1648 but remained unconquered due to its fortifications. The castle changed hands multiple times, eventually being inherited by Wacław Rzewuski, who expanded the structure and made it his permanent residence. Following the partitions of Poland, it became part of Austria and remained with the Rzewuski family until 1869."
+      ]
+    },
+    {
+      "heading": "20th Century and Restoration Efforts",
+      "paragraphs": [
+        "During World War I, the castle was looted and suffered damage, and in 1956, a significant fire destroyed much of its interior. In 1997, it was acquired by the [[lviv|Lviv]] Gallery of Painting, which has since aimed to restore the castle. Despite the challenges of funding and restoration, the castle remains an important architectural site [[coal-in-ukraine|in Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Cultural Impact",
+      "paragraphs": [
+        "Pidhirtsi Castle has been featured in popular culture, including the TV series 'Mysteries of the Abandoned.' The castle's rich history, including tales of its second owner Wacław Rzewuski and his tragic love story, continues to capture public interest."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "hetman",
+    "lviv",
+    "lviv-oblast",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Pidhirtsi Castle — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pidhirtsi_Castle",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

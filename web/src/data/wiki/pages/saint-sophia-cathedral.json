@@ -1,0 +1,101 @@
+{
+  "qid": "Q830054",
+  "slug": "saint-sophia-cathedral",
+  "title": "Saint Sophia Cathedral",
+  "type": "Eastern Orthodox cathedral",
+  "category": "geography",
+  "aliases": [
+    "Saint Sophia's Cathedral",
+    "Sofiiskyi sobor",
+    "St Sophia Cathedral",
+    "St Sophia's Cathedral",
+    "St. Sophia Cathedral",
+    "St. Sophia's Cathedral"
+  ],
+  "infobox": {
+    "label": "Eastern Orthodox cathedral",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1001",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "29",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Location",
+        "value": "Kyiv",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4528, 30.5144",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Saint Sophia Cathedral, located in Kyiv, [[ukraine|Ukraine]], is a significant architectural monument from the era of [[kievan-rus|Kyivan Rus]]'. It is recognized as a UNESCO World Heritage site and serves as a museum and a key component of the National Reserve 'Sophia of Kyiv'.",
+  "sections": [
+    {
+      "heading": "Architectural Significance",
+      "paragraphs": [
+        "Saint Sophia Cathedral, known in [[ukrainian|Ukrainian]] as Софійський собор (Sofiiskyi sobor), is one of [[kyiv|Kyiv]]'s most prominent landmarks and was the first heritage site [[coal-in-ukraine|in Ukraine]] to be inscribed on the UNESCO World Heritage List in conjunction with the Kyiv Cave Monastery complex.",
+        "The cathedral complex includes supporting structures such as a bell tower and the House of Metropolitan, and it is managed by the National Reserve 'Sophia of Kyiv', which oversees its preservation along with other historic sites."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The cathedral was constructed during the reign of Yaroslav the Wise, with its foundation date debated among historians, ranging from 1011 to 1037. The most widely accepted date, according to the Primary Chronicle, is 1037.",
+        "The site is believed to have been established following Yaroslav's victory over the Pechenegs in 1036, and it served as a burial place for Yaroslav and his descendants."
+      ]
+    },
+    {
+      "heading": "Medieval and Early Modern History",
+      "paragraphs": [
+        "Throughout the medieval period, the cathedral became a significant religious center, though it faced numerous challenges, including destruction and looting during invasions by the Mongols and other forces.",
+        "In the 16th to 19th centuries, the cathedral underwent various restorations, notably by Bogusz Gulkevych-Glibovsky in 1577 and during the reign of Petro Mohyla in the mid-17th century, which transformed its appearance to reflect Baroque influences."
+      ]
+    },
+    {
+      "heading": "20th Century Developments",
+      "paragraphs": [
+        "In the 20th century, the cathedral survived attempts at demolition during the Soviet anti-religious campaigns and was designated as a state architectural and historical reserve in 1934, allowing for restoration efforts.",
+        "Despite the challenges posed by World War II and subsequent political tensions, the cathedral has remained a focal point for religious and cultural activities in Ukraine, with various Orthodox and Catholic groups vying for its use."
+      ]
+    },
+    {
+      "heading": "Recent Events",
+      "paragraphs": [
+        "As of June 2013, the cathedral, along with [[kyiv-pechersk-lavra|Kyiv Pechersk Lavra]], was reaffirmed as a UNESCO World Heritage site, highlighting its ongoing significance in Ukrainian heritage.",
+        "The cathedral continues to be a site of religious and cultural importance, reflecting the complex [[history-of-ukraine|history of Ukraine]]'s spiritual landscape."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "history-of-ukraine",
+    "kievan-rus",
+    "kyiv",
+    "kyiv-pechersk-lavra",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Saint Sophia Cathedral, Kyiv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Saint_Sophia_Cathedral,_Kyiv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

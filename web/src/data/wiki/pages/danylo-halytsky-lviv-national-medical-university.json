@@ -33,7 +33,7 @@
       }
     ]
   },
-  "summary": "Danylo Halytsky Lviv National Medical University (LNMU) is one of the oldest and largest medical institutions in Ukraine, tracing its origins back to 1784. Named after King Daniel of [[galicia|Galicia]], the university has played a significant role in the development of medical education in Ukraine.",
+  "summary": "Danylo Halytsky Lviv National Medical University (LNMU) is one of the oldest and largest medical institutions in Ukraine, tracing its origins back to 1784. Named after King Daniel of [[galicia|Galicia]], the university has played a significant role in the development of medical [[education-in-ukraine|education in Ukraine]].",
   "sections": [
     {
       "heading": "Historical Background",
@@ -60,7 +60,7 @@
       "heading": "Academic Structure and Achievements",
       "paragraphs": [
         "Danylo Halytsky Lviv National Medical University currently comprises six faculties and 78 departments, with a strong emphasis on research and education. The university library holds over 530,000 volumes, supporting a robust academic environment.",
-        "The university consistently ranks among the top medical institutions in [[ukraine|Ukraine]], achieving notable positions in various international rankings, reflecting its commitment to excellence in medical education and research."
+        "The university consistently ranks among the top medical institutions [[coal-in-ukraine|in Ukraine]], achieving notable positions in various international rankings, reflecting its commitment to excellence in medical education and research."
       ]
     },
     {
@@ -72,9 +72,10 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
+    "education-in-ukraine",
     "galicia",
     "lviv",
-    "ukraine",
     "ukrainian"
   ],
   "sources": [

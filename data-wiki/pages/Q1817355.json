@@ -28,19 +28,19 @@
       }
     ]
   },
-  "summary": "Lviv Polytechnic National University is a prominent public university located in Lviv, Ukraine, established in 1816. It holds a significant position in the [[ukrainian|Ukrainian]] higher education system, ranking first among technical institutions and second overall as of 2024.",
+  "summary": "Lviv Polytechnic National University is a prominent public university located in Lviv, [[ukraine|Ukraine]], established in 1816. It holds a significant position in the [[ukrainian|Ukrainian]] higher education system, ranking first among technical institutions and second overall as of 2024.",
   "sections": [
     {
       "heading": "Historical Background",
       "paragraphs": [
-        "The Lviv Polytechnic National University, originally founded as the Imperial-Royal Real School on 7 March 1816, has a rich history that spans multiple political regimes, including the Austrian Empire, the Second Polish Republic, the Nazi German occupation, the Soviet Union, and independent [[ukraine|Ukraine]].",
+        "The Lviv Polytechnic National University, originally founded as the Imperial-Royal Real School on 7 March 1816, has a rich history that spans multiple political regimes, including the Austrian Empire, the Second Polish Republic, the Nazi German occupation, [[soviet-union|the Soviet Union]], and [[independent-ukraine|independent Ukraine]].",
         "The institution was initially focused on natural sciences and modern languages, adapting German educational programs to local needs. It underwent several transformations, becoming the Imperial-Royal School of Technical Sciences and Trade in 1825, and later the Imperial-Royal Real-Trade Academy in 1835."
       ]
     },
     {
       "heading": "Development and Recognition",
       "paragraphs": [
-        "In 1844, the academy was recognized as one of the first academic technical schools in Europe and the first in Ukraine. The establishment of a new building in 1877, designed by architect Julian Zachariewicz, marked a significant milestone in its development.",
+        "In 1844, the academy was recognized as one of the first academic technical schools in Europe and the first [[coal-in-ukraine|in Ukraine]]. The establishment of a new building in 1877, designed by architect Julian Zachariewicz, marked a significant milestone in its development.",
         "The institution was renamed Lviv Polytechnic Institute in 1939 and achieved university status in June 1993, receiving the highest level of accreditation. By 2000, it was designated as a national university."
       ]
     },
@@ -59,7 +59,10 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
+    "independent-ukraine",
     "lviv",
+    "soviet-union",
     "ukraine",
     "ukrainian"
   ],

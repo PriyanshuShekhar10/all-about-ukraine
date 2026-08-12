@@ -30,13 +30,13 @@
     {
       "heading": "Foundation and History",
       "paragraphs": [
-        "The Kyiv National Academic Theatre of Operetta was founded in 1934, marking its establishment as a key institution for performing arts in [[ukraine|Ukraine]]."
+        "The Kyiv National Academic Theatre of Operetta was founded in 1934, marking its establishment as a key institution for performing arts [[coal-in-ukraine|in Ukraine]]."
       ]
     },
     {
       "heading": "Cultural Significance",
       "paragraphs": [
-        "As a national theatre, it contributes to the rich cultural heritage of Ukraine, focusing on the operetta genre, which combines elements of opera and musical theatre."
+        "As a national theatre, it contributes to the rich cultural heritage of [[ukraine|Ukraine]], focusing on the operetta genre, which combines elements of opera and musical theatre."
       ]
     },
     {
@@ -47,6 +47,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "kyiv",
     "ukraine"
   ],

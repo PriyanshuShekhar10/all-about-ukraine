@@ -1,0 +1,86 @@
+{
+  "qid": "Q7747",
+  "slug": "vladimir-putin",
+  "title": "Vladimir Putin",
+  "type": "human",
+  "category": "politics",
+  "aliases": [
+    "President Putin",
+    "Putin",
+    "Vladimir Vladimirovich Putin"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1952-10-07",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "V.F. Snegiryov Maternity Hospital No.6, Saint Petersburg",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "President of Russia, President of Russia",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Vladimir Vladimirovich Putin, born on 7 October 1952, is a prominent Russian politician and former intelligence officer who has held the presidency of Russia since 2012, with a previous term from 2000 to 2008. His actions and policies have significantly impacted Ukraine, particularly through military interventions and territorial annexations.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Putin was born in Leningrad, now known as Saint Petersburg, in the Russian SFSR of [[soviet-union|the Soviet Union]]. He is the youngest of three children in his family. His early life was marked by the deaths of two brothers during World War II, which shaped his family's experiences during the siege of Leningrad.",
+        "He began his education at School No. 193 and later attended Saint Petersburg State University, where he studied law and graduated in 1975. His academic focus included international law, and he later obtained a degree in economics."
+      ]
+    },
+    {
+      "heading": "Intelligence Career",
+      "paragraphs": [
+        "Putin joined the KGB in 1975, where he served for 16 years, including a notable posting in East Germany. His experiences there, particularly during the fall of the Berlin Wall, contributed to his later political ideology and strategies.",
+        "He resigned from the KGB in 1991, shortly after the failed coup against [[mikhail-gorbachev|Mikhail Gorbachev]], marking the beginning of his political career in Saint Petersburg."
+      ]
+    },
+    {
+      "heading": "Political Career",
+      "paragraphs": [
+        "Putin's political ascent began in the Saint Petersburg administration under Mayor Anatoly Sobchak. He was appointed as an advisor in 1990 and later became the head of the Committee for External Relations, where he facilitated international ties and foreign investments.",
+        "He moved to Moscow in 1996, joining Boris Yeltsin's administration, and quickly rose through the ranks, becoming Prime Minister in 1999."
+      ]
+    },
+    {
+      "heading": "Presidency and Ukraine Relations",
+      "paragraphs": [
+        "Putin first became President of Russia in 2000, and his leadership has been characterized by significant military actions affecting [[ukraine|Ukraine]]. Notably, during his third presidential term, Russia occupied and annexed [[crimea|Crimea]] in 2014, a move widely condemned internationally.",
+        "In February 2022, he initiated a full-scale [[full-scale-russo-ukrainian-war|invasion of Ukraine]], leading to severe international backlash and sanctions against Russia. His government has been accused of war crimes, including illegal child abductions, prompting an arrest warrant from the International Criminal Court in March 2023."
+      ]
+    },
+    {
+      "heading": "Authoritarian Rule and Human Rights",
+      "paragraphs": [
+        "Under Putin's leadership, Russia has transitioned into an authoritarian regime marked by a personality cult, widespread corruption, and human rights violations. Political opponents face imprisonment, and independent media is heavily censored.",
+        "International indices consistently rank Russia low in terms of democracy and corruption, reflecting the significant deterioration of civil liberties during his tenure."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "full-scale-russo-ukrainian-war",
+    "mikhail-gorbachev",
+    "soviet-union",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Vladimir Putin — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

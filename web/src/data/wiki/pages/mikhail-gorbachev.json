@@ -1,0 +1,87 @@
+{
+  "qid": "Q30487",
+  "slug": "mikhail-gorbachev",
+  "title": "Mikhail Gorbachev",
+  "type": "human",
+  "category": "history",
+  "aliases": [
+    "Gorbachev",
+    "Gorbi",
+    "Gorby",
+    "M. Gorbachev",
+    "M.S. Gorbachev",
+    "Mikhail Gorbachyov",
+    "Mikhail Sergeevich Gorbachev",
+    "Mikhail Sergeyevich Gorbachyov"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1931-03-02",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "2022-08-30",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Privolnoye",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "General Secretary of the Communist Party of the Soviet Union, President of the Soviet Union",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Mikhail Sergeyevich Gorbachev (2 March 1931 – 30 August 2022) was a prominent Soviet and Russian politician, serving as the last leader of the Soviet Union from 1985 until its dissolution in 1991. His policies of reform had significant implications for Ukraine, particularly in the context of the Soviet Union's eventual collapse.",
+  "sections": [
+    {
+      "heading": "Early Life and Background",
+      "paragraphs": [
+        "Mikhail Gorbachev was born on 2 March 1931 in Privolnoye, located in the North Caucasus Krai of the Russian SFSR, which is now part of the Stavropol Krai. His family had Russian and [[ukrainian|Ukrainian]] roots, with his paternal lineage originating from Voronezh and his maternal family hailing from [[chernihiv|Chernigov]] [[coal-in-ukraine|in Ukraine]]. Gorbachev's upbringing was marked by the hardships of rural life and the political climate under Joseph [[donetsk|Stalin]]."
+      ]
+    },
+    {
+      "heading": "Political Ascendancy",
+      "paragraphs": [
+        "Gorbachev joined the Communist Party and quickly rose through its ranks, becoming the first party secretary of the Stavropol Regional Committee in 1970. His political career advanced as he returned to Moscow in 1978 to serve as a secretary of the party's Central Committee, and he became a member of the Politburo in 1980. His leadership was characterized by a commitment to reforming [[soviet-union|the Soviet Union]] while maintaining its Marxist-Leninist foundations."
+      ]
+    },
+    {
+      "heading": "Reforms and Policies",
+      "paragraphs": [
+        "As General Secretary from 1985, Gorbachev implemented significant reforms known as glasnost (openness) and perestroika (restructuring), which aimed to introduce more political freedoms and economic efficiency. These policies had a profound impact on [[ukraine|Ukraine]], contributing to the rise of nationalist movements within the republics of the Soviet Union and ultimately leading to Ukraine's independence in 1991."
+      ]
+    },
+    {
+      "heading": "Legacy and Impact",
+      "paragraphs": [
+        "Gorbachev's leadership is often viewed as a pivotal moment in 20th-century history, particularly for its role in ending the Cold War and facilitating the democratization of [[eastern-europe|Eastern Europe]]. His policies allowed for greater freedom of expression and political participation in Ukraine, influencing the country's path towards sovereignty. Despite his controversial legacy, Gorbachev received numerous accolades, including the Nobel Peace Prize, for his contributions to global peace and reform."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernihiv",
+    "coal-in-ukraine",
+    "donetsk",
+    "eastern-europe",
+    "soviet-union",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Mikhail Gorbachev — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mikhail_Gorbachev",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

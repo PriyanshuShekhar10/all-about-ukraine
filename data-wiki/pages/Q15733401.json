@@ -33,7 +33,7 @@
       }
     ]
   },
-  "summary": "The Revolution of Dignity, also known as the Maidan Revolution, occurred in Ukraine in February 2014 as a culmination of the Euromaidan protests. This civil disorder led to the ousting of President Viktor Yanukovych and significant political changes in Ukraine, ultimately contributing to the Russo-Ukrainian war.",
+  "summary": "The Revolution of Dignity, also known as the Maidan Revolution, occurred [[coal-in-ukraine|in Ukraine]] in February 2014 as a culmination of the Euromaidan protests. This civil disorder led to the ousting of President Viktor Yanukovych and significant political changes in Ukraine, ultimately contributing to the Russo-Ukrainian war.",
   "sections": [
     {
       "heading": "Background and Causes",
@@ -67,6 +67,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "euromaidan",
     "full-scale-russo-ukrainian-war",
     "kyiv",

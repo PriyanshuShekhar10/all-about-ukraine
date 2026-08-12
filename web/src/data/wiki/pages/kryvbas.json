@@ -1,0 +1,76 @@
+{
+  "qid": "Q2393032",
+  "slug": "kryvbas",
+  "title": "Kryvbas",
+  "type": "sedimentary basin",
+  "category": "economy",
+  "aliases": [
+    "Kryvorizkyi zalizorudnyi basein",
+    "Kryvyi Rih iron-ore basin"
+  ],
+  "infobox": {
+    "label": "sedimentary basin",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1881",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.0000, 33.4167",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Kryvbas, or the Kryvyi Rih Iron Ore Basin, is a significant economic and historical region in Ukraine known for its extensive iron ore mining and steel industry. Located primarily around the city of Kryvyi Rih, it is recognized as the leading iron ore region in [[eastern-europe|Eastern Europe]].",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "The Kryvbas region is named after the city of [[kryvyi-rih|Kryvyi Rih]] and is situated in the western part of [[dnipropetrovsk-oblast|Dnipropetrovsk Oblast]], with small portions extending into [[kropyvnytskyi|Kirovohrad]] and [[mykolaiv|Mykolaiv]] oblasts. It lies within a valley formed by the Inhulets and Saksahan rivers, both of which are tributaries of the [[dnieper|Dnipro River]]. The basin extends in a narrow strip, measuring 2 to 7 kilometers in width and stretching nearly 100 kilometers from Zhovti Vody to the Dnipro River, encompassing a total area of 300 square kilometers."
+      ]
+    },
+    {
+      "heading": "Industrial Significance",
+      "paragraphs": [
+        "Kryvbas serves as a major hub for heavy industry [[coal-in-ukraine|in Ukraine]], housing significant deposits of iron ore and various metallurgical ores. The region saw the establishment of its first international mining companies in the late 19th century, which were later succeeded by larger enterprises in the mid-20th century, primarily located in Kryvyi Rih. The city itself is home to 45 iron ore mines, 41 quarries, 89 stockpiles, and numerous industrial facilities, including 6 energy, 5 metallurgical, 28 machine-building, and 5 chemical enterprises."
+      ]
+    },
+    {
+      "heading": "Modern Developments",
+      "paragraphs": [
+        "[[arcelormittal-kryvyi-rih|ArcelorMittal Kryvyi Rih]] stands as the largest and most advanced steel company in both the region and [[ukraine|Ukraine]]. It operates ore facilities and the only major steel mill in Kryvyi Rih. Other ore companies in the area supply raw materials either to ArcelorMittal or to steel mills located outside the region. Aside from ArcelorMittal, the steel sector is predominantly managed by Rudomain LLC and [[metinvest|Metinvest]], both of which transitioned from state ownership during the privatization era following Ukraine's independence in the 1990s.",
+        "In the early 21st century, the Kryvyi Rih Mining and Processing Plant of Oxidized Ores (KRMPPOO) was under construction in the nearby town of Dolynska, [[kirovohrad-oblast|Kirovohrad Oblast]]. This high-tech project received funding from the governments of Ukraine, Romania, and Slovakia, with Rudomain LLC acquiring the [[ukrainian|Ukrainian]] share in the project in January 2022."
+      ]
+    }
+  ],
+  "links_out": [
+    "arcelormittal-kryvyi-rih",
+    "coal-in-ukraine",
+    "dnieper",
+    "dnipropetrovsk-oblast",
+    "eastern-europe",
+    "kirovohrad-oblast",
+    "kropyvnytskyi",
+    "kryvyi-rih",
+    "metinvest",
+    "mykolaiv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Kryvbas — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kryvbas",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

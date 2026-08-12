@@ -47,7 +47,7 @@
       }
     ]
   },
-  "summary": "Makiivka is an industrial city located in [[donetsk-oblast|Donetsk Oblast]], eastern Ukraine, with a significant history of coal mining and metallurgy. As of 2022, it has an estimated population of 338,968 and is currently under Russian occupation following the conflict in the Donbas region.",
+  "summary": "Makiivka is an industrial city located in [[donetsk-oblast|Donetsk Oblast]], eastern [[ukraine|Ukraine]], with a significant history of coal mining and metallurgy. As of 2022, it has an estimated population of 338,968 and is currently under Russian occupation following the conflict in the Donbas region.",
   "sections": [
     {
       "heading": "Geography and Demographics",
@@ -67,7 +67,7 @@
     {
       "heading": "Industry and Economy",
       "paragraphs": [
-        "Makiivka is a key industrial center in the [[donbas|Donets Basin]], primarily known for its coal mining and metallurgical industries. The city hosts one of the largest integrated iron and steel works in [[ukraine|Ukraine]], alongside various metalworking and coke-chemical plants.",
+        "Makiivka is a key industrial center in the [[donbas|Donets Basin]], primarily known for its coal mining and metallurgical industries. The city hosts one of the largest integrated iron and steel works [[coal-in-ukraine|in Ukraine]], alongside various metalworking and coke-chemical plants.",
         "Major enterprises in Makiivka include the State enterprise 'Makeyevugol', 'Makeyevsky Metallurgical Works', and the 'Yasinovsky Coke-chemical Plant'. In 2005, the Makiivka metallurgical plant produced 1.029 million tons of steel and 825,000 tons of pig iron."
       ]
     },
@@ -87,6 +87,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "donbas",
     "donetsk",
     "donetsk-oblast",

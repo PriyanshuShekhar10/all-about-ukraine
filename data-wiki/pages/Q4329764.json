@@ -1,0 +1,87 @@
+{
+  "qid": "Q4329764",
+  "slug": "education-in-ukraine",
+  "title": "education in Ukraine",
+  "type": "education in country or region",
+  "category": "politics",
+  "aliases": [
+    "Ukraine education",
+    "education of Ukraine"
+  ],
+  "infobox": {
+    "label": "education in country or region",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1992-07-08",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Ukraine",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "Education in Ukraine is structured into multiple levels, beginning with preschool and culminating in postgraduate education. The system has undergone significant changes, including a transition to a 12-year schooling framework that started in September 2018.",
+  "sections": [
+    {
+      "heading": "Overview of the Educational System",
+      "paragraphs": [
+        "The educational framework [[coal-in-ukraine|in Ukraine]] is divided into five levels: preschool, primary, secondary, upper secondary, and postgraduate education. As of 2016/17, there were 3,846,000 students in primary and secondary schools, 285,800 in vocational schools, and 1,586,700 in higher education institutions."
+      ]
+    },
+    {
+      "heading": "Schooling Structure",
+      "paragraphs": [
+        "Schooling in Ukraine typically begins at age 6, with students attending until age 17. The system includes various types of general education institutions, such as Middle Schools of General Education (ZOSh), lyceums, and grammar schools. The curriculum covers subjects including [[ukrainian|Ukrainian language]], literature, history, geography, and sciences.",
+        "The examination system for grades 9 and 12 has evolved, with Independent Government Tests (IGTs) introduced to facilitate university admissions without separate entrance exams. The IGTs became standard for determining eligibility in 2008, with further changes implemented in 2010."
+      ]
+    },
+    {
+      "heading": "Higher Education",
+      "paragraphs": [
+        "Higher education in Ukraine is available through both state-funded and private institutions. Students at state expense may receive scholarships based on academic performance, although government subsidies often do not cover living costs. Degrees conferred include bachelor's (4 years) and master's (5-6 years), in line with the Bologna process.",
+        "Postgraduate education allows students to pursue advanced degrees, such as the Kandydat Nauk, which requires passing qualifying exams and defending a dissertation. The process can take several years, with many candidates continuing their academic careers in universities or research institutions."
+      ]
+    },
+    {
+      "heading": "Home and International Schools",
+      "paragraphs": [
+        "Home schooling is legally permitted in Ukraine, as outlined in Articles 59 and 60 of the Education Law. Additionally, several international schools operate in Ukraine, including Meridian International School, [[kyiv|Kyiv]] International School, and the French Lycee Anne of Kyiv."
+      ]
+    },
+    {
+      "heading": "Language of Instruction",
+      "paragraphs": [
+        "A law signed on 25 September 2017 mandates Ukrainian as the language of instruction from the fifth grade onwards, with exceptions for certain subjects. This law has faced criticism from various international bodies and officials from neighboring countries. In January 2020, amendments allowed for teaching in multiple languages, including English and other EU languages, in non-state funded schools."
+      ]
+    },
+    {
+      "heading": "Educational Outcomes",
+      "paragraphs": [
+        "[[ukraine|Ukraine]] boasts a literacy rate of 99.4%. The grading system in universities employs a traditional 5-point scale, while secondary schools transitioned to a 12-point scale in 2000. This dual grading system reflects the ongoing adaptation of educational standards in Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "kyiv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Education in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Education_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

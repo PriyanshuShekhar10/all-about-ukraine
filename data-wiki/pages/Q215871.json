@@ -32,7 +32,7 @@
     {
       "heading": "Overview",
       "paragraphs": [
-        "The Kyiv Metro is owned by the [[kyiv|Kyiv]] City Council and serves as a crucial rapid transit system in Kyiv, [[ukraine|Ukraine]]. It was initially launched on 6 November 1960, featuring a single 5.24 km (3.26 mi) line with five stations. This system marked the first rapid transit in Ukraine and was the third in the former Soviet Union, following the Moscow Metro and Leningrad Metro.",
+        "The Kyiv Metro is owned by the [[kyiv|Kyiv]] City Council and serves as a crucial rapid transit system in Kyiv, [[ukraine|Ukraine]]. It was initially launched on 6 November 1960, featuring a single 5.24 km (3.26 mi) line with five stations. This system marked the first rapid transit [[coal-in-ukraine|in Ukraine]] and was the third in the former [[soviet-union|Soviet Union]], following the Moscow Metro and Leningrad Metro.",
         "Currently, the Kyiv Metro comprises three lines and 52 stations, covering a total route length of 69.6 kilometers (43.2 mi), with 67.6 km (42.00 mi) dedicated to revenue service. Arsenalna station, located on the Sviatoshynsko-Brovarska Line, is notable for being the second deepest metro station globally, at 105.5 m (346 ft 1.5 in) below ground level."
       ]
     },
@@ -64,9 +64,11 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "dnieper",
     "kharkiv-oblast",
     "kyiv",
+    "soviet-union",
     "ukraine",
     "ukrainian-railways",
     "ukrainian-soviet-socialist-republic"

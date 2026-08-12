@@ -23,7 +23,7 @@
       }
     ]
   },
-  "summary": "The Khmelnytsky Uprising was a significant Cossack rebellion that occurred between 1648 and 1657 in the eastern territories of the Polish–Lithuanian Commonwealth, primarily in [[dnieper-ukraine|Dnieper Ukraine]]. Led by Cossack Hetman Bohdan Khmelnytsky, the uprising resulted in a Cossack victory and the establishment of the Cossack Hetmanate, marking a pivotal moment in Ukraine's history and its relations with Poland and Russia.",
+  "summary": "The Khmelnytsky Uprising was a significant Cossack rebellion that occurred between 1648 and 1657 in the eastern territories of the Polish–Lithuanian Commonwealth, primarily in [[dnieper-ukraine|Dnieper Ukraine]]. Led by Cossack Hetman Bohdan Khmelnytsky, the uprising resulted in a Cossack victory and the establishment of the Cossack Hetmanate, marking a pivotal moment [[coal-in-ukraine|in Ukraine]]'s history and its relations with Poland and Russia.",
   "sections": [
     {
       "heading": "Historical Context",
@@ -56,6 +56,7 @@
   ],
   "links_out": [
     "bohdan-khmelnytsky",
+    "coal-in-ukraine",
     "cossack-hetmanate",
     "cossacks",
     "dnieper-ukraine",

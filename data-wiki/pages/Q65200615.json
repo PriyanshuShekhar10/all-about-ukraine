@@ -1,0 +1,88 @@
+{
+  "qid": "Q65200615",
+  "slug": "andrii-yermak",
+  "title": "Andrii Yermak",
+  "type": "human",
+  "category": "politics",
+  "aliases": [
+    "Andrii Borysovych Yermak"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1971-11-21",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Kyiv",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "Head of the Office of the President of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Andriy Borysovych Yermak is a Ukrainian politician and former film producer who served as the head of the Office of the President of Ukraine from 2020 to 2025, playing a significant role in the country's political landscape during a critical period of conflict and reform.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Andriy Yermak was born on 21 November 1971 in [[kyiv|Kyiv]], [[ukraine|Ukraine]], which was then part of [[soviet-union|the Soviet Union]]. His mother, Maria, is Russian, while his father, Borys, is Jewish and a native of Kyiv. The couple married in 1971, and Yermak has a younger brother named Denys.",
+        "In 1995, Yermak graduated from the Institute of International Relations at [[taras-shevchenko|Taras Shevchenko]] National University in Kyiv with a master's degree in international private law. He obtained his law practice license the same year."
+      ]
+    },
+    {
+      "heading": "Career in Law and Media",
+      "paragraphs": [
+        "Following his graduation, Yermak began working for the 'Proxen' law firm at the request of a professor. In 1997, he established his own law firm, focusing on intellectual property and commercial law, and became a member of the Association of Lawyers of Ukraine.",
+        "Yermak also ventured into media, founding the Garnet International Media Group in 2012 and producing films such as 'Rules of the Fight' and 'The Line.' He is a member of both the [[ukrainian|Ukrainian]] Film Academy and the European Film Academy since 2017."
+      ]
+    },
+    {
+      "heading": "Political Involvement",
+      "paragraphs": [
+        "Yermak became acquainted with [[volodymyr-zelenskyy|Volodymyr Zelenskyy]] in 2011 and later contributed to Zelenskyy's presidential campaign in 2019. On 21 May 2019, he was appointed as Presidential Aide for Foreign Policy Issues, where he played a key role in negotiating prisoner exchanges with Russia during the [[war-in-donbas|war in Donbas]].",
+        "On 11 February 2020, Yermak was appointed as the Head of the Office of the [[president-of-ukraine|President of Ukraine]], becoming a crucial advisor and member of the National Security and Defense Council the following day."
+      ]
+    },
+    {
+      "heading": "Influence and Controversies",
+      "paragraphs": [
+        "As head of the presidential office, Yermak was seen as a significant power broker [[coal-in-ukraine|in Ukraine]], with Politico referring to him as Kyiv's 'Green Cardinal' in 2023. He was influential in military and foreign policy decisions, including advocating for the defense of [[bakhmut|Bakhmut]] in 2022.",
+        "However, his tenure was marked by controversies, including allegations of eroding democratic checks and balances and involvement in corruption scandals. Following a raid on his home by anti-corruption agents on 28 November 2025, Yermak resigned from his position, and he was formally removed from key government bodies by presidential decree on 6 December 2025."
+      ]
+    },
+    {
+      "heading": "Personal Life",
+      "paragraphs": [
+        "Yermak has lived in Kyiv throughout his life. He is currently single and has no children."
+      ]
+    }
+  ],
+  "links_out": [
+    "bakhmut",
+    "coal-in-ukraine",
+    "kyiv",
+    "president-of-ukraine",
+    "soviet-union",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian",
+    "volodymyr-zelenskyy",
+    "war-in-donbas"
+  ],
+  "sources": [
+    {
+      "title": "Andriy Yermak — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Andriy_Yermak",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

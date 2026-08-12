@@ -25,7 +25,7 @@
       }
     ]
   },
-  "summary": "Artem Sytnyk is a prominent Ukrainian lawyer and anti-corruption advocate, known for his role as the first director of the National Anti-Corruption Bureau of Ukraine from 2015 to 2022. He has held various significant positions in Ukraine's legal and governmental frameworks, emphasizing the fight against corruption and promoting transparency.",
+  "summary": "Artem Sytnyk is a prominent Ukrainian lawyer and anti-corruption advocate, known for his role as the first director of the National Anti-Corruption Bureau of Ukraine from 2015 to 2022. He has held various significant positions [[coal-in-ukraine|in Ukraine]]'s legal and governmental frameworks, emphasizing the fight against corruption and promoting transparency.",
   "sections": [
     {
       "heading": "Biography",
@@ -70,6 +70,7 @@
   ],
   "links_out": [
     "arsen-avakov",
+    "coal-in-ukraine",
     "kirovohrad-oblast",
     "kropyvnytskyi",
     "kyiv",

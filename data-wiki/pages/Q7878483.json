@@ -46,7 +46,7 @@
     {
       "heading": "Exhibitions and Events",
       "paragraphs": [
-        "The museum features an exhibit titled 'Ukrainian Genocide - [[holodomor|Holodomor]] of 1932-1933', which presents photographs, documents, and newspaper articles aimed at educating the public about the forced famine in [[ukraine|Ukraine]].",
+        "The museum features an exhibit titled 'Ukrainian Genocide - [[holodomor|Holodomor]] of 1932-1933', which presents photographs, documents, and newspaper articles aimed at educating the public about the forced famine [[coal-in-ukraine|in Ukraine]].",
         "Additionally, an exhibition developed in collaboration with the [[lviv-national-museum|National Museum]] of the Holodomor Genocide, titled 'We Were Killed Because We Are [[ukrainians|Ukrainians]]', was presented in August 2020, highlighting the museum's commitment to addressing historical injustices."
       ]
     },
@@ -59,9 +59,9 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "holodomor",
     "lviv-national-museum",
-    "ukraine",
     "ukrainian",
     "ukrainian-embroidery",
     "ukrainian-museum",

@@ -15,7 +15,7 @@
       }
     ]
   },
-  "summary": "Hopak is a traditional Ukrainian folk dance that originated as a male dance among the [[zaporozhian-cossacks|Zaporozhian Cossacks]] and has evolved to include couples and mixed groups. It is often celebrated as the 'National Dance of [[ukraine|Ukraine]]' and is performed by various dance ensembles both in Ukraine and internationally.",
+  "summary": "Hopak is a traditional Ukrainian folk dance that originated as a male dance among the [[zaporozhian-cossacks|Zaporozhian Cossacks]] and has evolved to include couples and mixed groups. It is often celebrated as the 'National Dance of [[ukraine|Ukraine]]' and is performed by various dance ensembles both [[coal-in-ukraine|in Ukraine]] and internationally.",
   "sections": [
     {
       "heading": "Etymology",
@@ -54,6 +54,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "cossacks",
     "dance-in-ukraine",
     "donetsk",

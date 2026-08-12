@@ -29,7 +29,7 @@
       }
     ]
   },
-  "summary": "The Seversky Donets, also known as Siverskyi Donets, is a significant river located in eastern Ukraine, playing a crucial role in the region's ecology and economy. It is the fourth-longest river in Ukraine and the largest in eastern Ukraine, flowing through key industrial areas and contributing to the water supply of major cities.",
+  "summary": "The Seversky Donets, also known as Siverskyi Donets, is a significant river located in eastern Ukraine, playing a crucial role in the region's ecology and economy. It is the fourth-longest river [[coal-in-ukraine|in Ukraine]] and the largest in eastern Ukraine, flowing through key industrial areas and contributing to the water supply of major cities.",
   "sections": [
     {
       "heading": "Etymology",
@@ -67,6 +67,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "donbas",
     "donetsk",
     "kharkiv-oblast",

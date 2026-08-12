@@ -1,0 +1,51 @@
+{
+  "qid": "Q1517383",
+  "slug": "chervona-ruta",
+  "title": "Chervona Ruta",
+  "type": "legend",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "legend",
+    "fields": []
+  },
+  "summary": "Chervona Ruta, or 'Red Rue', refers to both a mythological flower and an actual plant species significant in Ukrainian culture. The legend surrounding this flower is intertwined with Ukrainian traditions and has inspired various cultural expressions, including music and festivals.",
+  "sections": [
+    {
+      "heading": "Biology",
+      "paragraphs": [
+        "Chervona ruta may denote a species within the rue genus of the Rutaceae family or the rhododendron genus of the Ericaceae family. The common rue (Ruta graveolens L.), a sweet-scented herb-of-grace, is found in Southern [[ukraine|Ukraine]], particularly in [[crimea|Crimea]], where it grows on rocky slopes. This subshrub can reach heights of up to 40 cm and features pinnately dissected leaves with a corymb inflorescence in the form of a panicle."
+      ]
+    },
+    {
+      "heading": "Legend",
+      "paragraphs": [
+        "In [[ukrainian|Ukrainian]], 'chervona' translates to red. According to legend, the ruta flower, which typically has yellow blooms, turns red briefly on the eve of Ivan Kupala Day, celebrated on June 23 or sometimes July 7, coinciding with the summer solstice. It is said that the flower brings fortune to those who discover it. Various tales suggest that it can grant [[lutsk|luck]], wealth, or the ability to understand animal speech, but the flower is protected by evil spirits. The choice to pick the flower or leave it untouched is left to the individual, as the earthly riches it offers have never truly benefited anyone."
+      ]
+    },
+    {
+      "heading": "Popular Culture",
+      "paragraphs": [
+        "'Chervona Ruta' is a notable Ukrainian song composed by Volodymyr Ivasyuk in 1968, which has been performed by numerous artists, including the Ukrainian group 'Smerichka' and singer [[sofia-rotaru|Sofia Rotaru]], who later established the Chervona Ruta ensemble. The song's popularity led to the creation of a 1971 Ukrainian musical film titled 'Chervona Ruta', written by Miroslav Skochilyas and directed by Roman Oleksiv, featuring Sofia Rotaru and Vasyl Zinkevych among other well-known Soviet Ukrainian ensembles. Additionally, the Chervona Ruta Festival, a biennial music event [[coal-in-ukraine|in Ukraine]], commenced in 1989, celebrating [[music-of-ukraine|Ukrainian music]] and culture."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "crimea",
+    "lutsk",
+    "music-of-ukraine",
+    "sofia-rotaru",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Chervona ruta — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chervona_ruta",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

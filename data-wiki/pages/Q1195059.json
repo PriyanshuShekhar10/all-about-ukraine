@@ -1,0 +1,51 @@
+{
+  "qid": "Q1195059",
+  "slug": "great-famine",
+  "title": "Great Famine",
+  "type": "Wikimedia disambiguation page",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "The Great Famine, specifically the Holodomor, refers to the devastating famine that occurred in Ukraine from 1932 to 1933, resulting in millions of deaths and significant historical implications for the region.",
+  "sections": [
+    {
+      "heading": "Holodomor in Ukraine",
+      "paragraphs": [
+        "[[holodomor|The Holodomor]], also known as the Great Famine, took place [[coal-in-ukraine|in Ukraine]] between 1932 and 1933. This catastrophic event is characterized by widespread starvation and is estimated to have led to the deaths of millions of [[ukrainians|Ukrainians]].",
+        "The famine was a result of the policies implemented by the Soviet government, which included forced collectivization and grain requisition quotas that were unattainable for the peasant population."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The Holodomor is often regarded as a man-made famine, with many historians and scholars arguing that it was a deliberate act of genocide against the Ukrainian people. This perspective highlights the political motivations behind the Soviet policies that exacerbated the famine.",
+        "The impact of the Holodomor has had lasting effects on [[ukraine|Ukraine]]'s national identity and collective memory, influencing contemporary discussions about sovereignty and historical accountability."
+      ]
+    },
+    {
+      "heading": "Recognition and Legacy",
+      "paragraphs": [
+        "In recent years, the Holodomor has gained recognition as a significant historical tragedy, with numerous countries acknowledging it as a genocide against the Ukrainian people. Various memorials and educational initiatives have been established to honor the victims and raise awareness about the famine.",
+        "The legacy of the Holodomor continues to shape Ukraine's cultural and political landscape, serving as a reminder of the struggles faced by the nation throughout its history."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "holodomor",
+    "ukraine",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Great Famine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Great_Famine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

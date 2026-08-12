@@ -55,7 +55,7 @@
     {
       "heading": "Geography and Demographics",
       "paragraphs": [
-        "Kryvyi Rih is situated at the confluence of the Saksahan and Inhulets rivers and is part of the Kryvyi Rih Metropolitan Region. The city is recognized as the second largest by area in [[ukraine|Ukraine]] and is claimed to be the longest city in Europe.",
+        "Kryvyi Rih is situated at the confluence of the Saksahan and Inhulets rivers and is part of the Kryvyi Rih Metropolitan Region. The city is recognized as the second largest by area [[coal-in-ukraine|in Ukraine]] and is claimed to be the longest city in Europe.",
         "As of 2022, the estimated population of Kryvyi Rih is 603,904, making it the seventh-most populous city in Ukraine."
       ]
     },
@@ -63,13 +63,13 @@
       "heading": "Historical Background",
       "paragraphs": [
         "Founded in 1775 as a military staging post, Kryvyi Rih's early history is closely tied to the [[zaporozhian-cossacks|Zaporozhian Cossacks]], who named the area 'Kryvyi Rih', meaning 'crooked horn' or 'curved cape'.",
-        "The city gained its official status in 1919 and underwent significant urban-industrial growth in the late 19th century due to investments from Belgium, France, and Britain in the local iron-ore deposits known as Kryvbas."
+        "The city gained its official status in 1919 and underwent significant urban-industrial growth in the late 19th century due to investments from Belgium, France, and Britain in the local iron-ore deposits known as [[kryvbas|Kryvbas]]."
       ]
     },
     {
       "heading": "Industrial Development",
       "paragraphs": [
-        "The establishment of the [[arcelormittal-kryvyi-rih|Kryvorizhstal]] metallurgical plant in 1934 marked a pivotal moment in the city's industrialization during the [[donetsk|Stalin]] era. This plant became the largest integrated metallurgical works in the Soviet Union.",
+        "The establishment of the [[arcelormittal-kryvyi-rih|Kryvorizhstal]] metallurgical plant in 1934 marked a pivotal moment in the city's industrialization during the [[donetsk|Stalin]] era. This plant became the largest integrated metallurgical works in [[soviet-union|the Soviet Union]].",
         "Post-World War II, Kryvyi Rih continued to expand industrially until the economic challenges following the dissolution of the Soviet Union in the 1990s led to high unemployment and population decline."
       ]
     },
@@ -77,7 +77,7 @@
       "heading": "Recent History and Conflicts",
       "paragraphs": [
         "The privatization of Kryvorizhstal in 2005 spurred foreign investment and urban regeneration. However, the city has also faced significant labor unrest, including major protests and strikes beginning in 2017.",
-        "Since the onset of the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in February 2022, Kryvyi Rih has been subjected to frequent missile strikes and was a focal point in the southern Ukraine campaign, with Russian ground advances halted approximately 50 kilometers south of the city."
+        "Since the onset of the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in February 2022, Kryvyi Rih has been subjected to frequent missile strikes and was a focal point in the southern [[ukraine|Ukraine]] campaign, with Russian ground advances halted approximately 50 kilometers south of the city."
       ]
     },
     {
@@ -90,9 +90,12 @@
   ],
   "links_out": [
     "arcelormittal-kryvyi-rih",
+    "coal-in-ukraine",
     "dnipropetrovsk-oblast",
     "donetsk",
     "full-scale-russo-ukrainian-war",
+    "kryvbas",
+    "soviet-union",
     "ukraine",
     "zaporozhian-cossacks"
   ],

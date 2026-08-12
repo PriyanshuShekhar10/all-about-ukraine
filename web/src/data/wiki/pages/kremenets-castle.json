@@ -1,0 +1,71 @@
+{
+  "qid": "Q691833",
+  "slug": "kremenets-castle",
+  "title": "Kremenets Castle",
+  "type": "castle",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "castle",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.0950, 25.7308",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Kremenets Castle, located in the city of Kremenets, [[ternopil-oblast|Ternopil Oblast]], [[ukraine|Ukraine]], is a historic fortress known for its strategic significance and architectural features. Built primarily of limestone, it has served as a stronghold against various invasions throughout its history.",
+  "sections": [
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Kremenets Castle has a rich history dating back to at least 1064 when it was recognized as a fortified town. It was initially opened to the forces of Bolesław II the Generous during his campaign against [[kievan-rus|Kievan Rus]]'.",
+        "The castle endured multiple attacks, including those by the Mongols and [[cossacks|Cossacks]], and played a crucial role in the regional power struggles of the 14th century. In 1261, it was dismantled by Vasyl’ko Romanovich under the orders of Khan Boroldai.",
+        "Revived in the 1290s by Mstislav Danilovych, the castle faced further challenges due to the shifting political landscape, eventually coming under the control of the Grand Duchy of Lithuania in 1396."
+      ]
+    },
+    {
+      "heading": "Architectural Features",
+      "paragraphs": [
+        "Originally constructed in the 11th or 12th century, Kremenets Castle was situated on a 400-meter-high hill and featured a complex design typical of early Gothic defense architecture. Its dimensions were significantly expanded in the 1290s, with a perimeter that increased fourfold.",
+        "The castle included a moat, stone bastions, and various wooden structures for the town's affluent dwellers. The main entry was through a double-decker portal tower, which served as a strategic point for defense."
+      ]
+    },
+    {
+      "heading": "Folklore and Cultural Impact",
+      "paragraphs": [
+        "Kremenets Castle is steeped in folklore, particularly surrounding the figure of Bona Sforza, the wife of Polish King Sigismund I. Legends suggest she sought eternal youth through dark means, contributing to the castle's mystique.",
+        "Despite historical accounts indicating she never visited the castle, local tales have woven her into its narrative, enhancing its cultural significance and attracting visitors."
+      ]
+    },
+    {
+      "heading": "Decline and Preservation Efforts",
+      "paragraphs": [
+        "The castle's decline began after it was besieged in September 1648 by [[maksym-kryvonis|Maksym Kryvonis]]' forces, marking its fall and subsequent abandonment. Archaeological excavations in the 1970s have been conducted, yet efforts to restore the castle have faced challenges due to a lack of funding.",
+        "Today, Kremenets Castle remains a site of historical interest, drawing tourists to explore its ruins and the scenic views it offers of the surrounding area."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossacks",
+    "kievan-rus",
+    "maksym-kryvonis",
+    "ternopil-oblast",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Kremenets Castle — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kremenets_Castle",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

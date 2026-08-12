@@ -1,0 +1,62 @@
+{
+  "qid": "Q163886",
+  "slug": "easter-egg",
+  "title": "easter egg",
+  "type": "topic",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "topic",
+    "fields": []
+  },
+  "summary": "Easter eggs, also known as Paschal eggs, are decorated eggs associated with the Christian celebration of Easter, symbolizing the resurrection of Jesus. This tradition is particularly significant in Ukraine and other Central and Eastern European cultures, where the practice of dyeing and painting eggs has deep historical roots.",
+  "sections": [
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "The tradition of decorating eggs dates back thousands of years, with evidence of decorated ostrich eggs found in Africa that are approximately 60,000 years old. In ancient Egypt and Mesopotamia, eggs were linked to themes of death and rebirth, often placed in graves as symbols of new life.",
+        "The custom of Easter eggs is believed to have originated among early Christians in Mesopotamia, who stained eggs red to commemorate the blood of Christ. This practice spread through [[eastern-europe|Eastern Europe]] and into [[ukraine|Ukraine]] via Orthodox Christianity, and later through Catholic and Protestant traditions."
+      ]
+    },
+    {
+      "heading": "Symbolism in Christianity",
+      "paragraphs": [
+        "In Christian symbolism, eggs represent the empty tomb of Jesus, with the shell signifying the sealed tomb and the cracking of the egg symbolizing resurrection. The tradition of blessing Easter eggs is observed in various Christian denominations, including the Orthodox Church [[coal-in-ukraine|in Ukraine]], where eggs are blessed during the Paschal Vigil."
+      ]
+    },
+    {
+      "heading": "Ukrainian Traditions",
+      "paragraphs": [
+        "In Ukraine, the art of decorating Easter eggs, known as pysanky, employs a wax-resist technique to create intricate designs. This practice is deeply embedded in [[ukrainian|Ukrainian]] culture and is celebrated as a form of folk art, often passed down through generations.",
+        "The use of red-dyed eggs, symbolizing the blood of Christ, is prevalent in Ukrainian Easter traditions, where eggs are often exchanged among family and friends during Easter festivities."
+      ]
+    },
+    {
+      "heading": "Modern Practices",
+      "paragraphs": [
+        "Contemporary customs surrounding Easter eggs have evolved to include chocolate eggs and plastic eggs filled with candy, particularly in Western cultures. However, the traditional practice of dyeing eggs remains strong in Ukraine and other Eastern European countries, where natural dyes from onion skins and other materials are commonly used."
+      ]
+    },
+    {
+      "heading": "Cultural Variations",
+      "paragraphs": [
+        "Different cultures have unique practices related to Easter eggs. For instance, in Poland, the blessing of decorative baskets containing Easter eggs is a cherished tradition. In Greece, women dye eggs with onion skins, while in Palestine, red-dyed eggs are shared among families after the Paschal service."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "eastern-europe",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Easter egg — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Easter_egg",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

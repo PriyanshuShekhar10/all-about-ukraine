@@ -1,0 +1,92 @@
+{
+  "qid": "Q851367",
+  "slug": "pivdenmash",
+  "title": "Pivdenmash",
+  "type": "business",
+  "category": "economy",
+  "aliases": [
+    "A.M. Makarov Southern Machine-Building Plant",
+    "PA Pivdenmash",
+    "PA Yuzhmash",
+    "Plant 586",
+    "Plant No. 586",
+    "Yuzhmash"
+  ],
+  "infobox": {
+    "label": "business",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1944-07-21",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Dnipro",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.4378, 34.9956",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Pivdenmash, officially known as the State Enterprise 'Production Amalgamation Southern Machine-Building Plant named after O.M. Makarov', is a state-owned aerospace and defense manufacturer [[coal-in-ukraine|in Ukraine]], located in Dnipro. Established as a Soviet factory, Pivdenmash has played a significant role in missile production and space exploration, contributing to [[ukraine|Ukraine]]'s industrial and technological landscape.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Pivdenmash originated as 'plant 586' in [[soviet-union|the Soviet Union]], where it was established in 1954 by aviation engineer Mikhail Yangel, who founded the autonomous design bureau OKB-586. This bureau evolved into the Southern Design Bureau, known as KB Pivdenne, and the plant was renamed Southern Machine-Building Plant in 1966, focusing on ballistic missile design and production.",
+        "The facility produced several notable missiles, including the first nuclear-armed Soviet rocket R-5M and the R-16, the first widely deployed ICBM. At its peak, Pivdenmash was capable of manufacturing up to 120 ICBMs annually. In the late 1980s, it became the main production site for the RT-2PM2 Topol-M ICBM.",
+        "Post-1991, with the decline in military production, Pivdenmash expanded its product line to include civilian machinery, such as trolleybuses. [[leonid-kuchma|Leonid Kuchma]], who managed the company from 1986 to 1992, later became the Prime Minister and [[president-of-ukraine|President of Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Structure and Operations",
+      "paragraphs": [
+        "Pivdenmash's operations include various facilities, such as the Pavlohrad Mechanical Plant, which specializes in solid-fuel missiles, and the [[dnieper|Dnipro]] Tractor Factory. The company also encompasses production complexes for technological equipment and energy, alongside social facilities including sanatoriums and a sports complex.",
+        "The company is known for its contributions to the military and space industries, earning Dnipro the nickname 'Rocket City'."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "In February 2015, Pivdenmash faced challenges following Russia's withdrawal from joint space programs, which threatened its operations. Despite initial bankruptcy concerns, the company managed to avert this crisis.",
+        "In July 2022, during the ongoing Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], Pivdenmash's facility was targeted by missile strikes, impacting its production capabilities. Subsequent attacks occurred in November 2022.",
+        "On August 1, 2023, the final Antares 230 launch vehicle, which utilized a core from Pivdenmash, successfully lifted off, though future missions would not involve the company due to the ongoing conflict."
+      ]
+    },
+    {
+      "heading": "Military and Space Contributions",
+      "paragraphs": [
+        "Pivdenmash has been a key player in the production of missiles and space launch vehicles, contributing to various Soviet and [[ukrainian|Ukrainian]] military programs. Its notable missile systems include the R-5 Pobeda, R-12 Dvina, and R-36M families, among others.",
+        "The company has also developed several space launch vehicles, including the Dnepr and Tsyklon series, and has produced rocket engines such as the RD-843. Additionally, Pivdenmash was involved in the development of the Dead Hand automatic nuclear-control system."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "dnieper",
+    "full-scale-russo-ukrainian-war",
+    "leonid-kuchma",
+    "president-of-ukraine",
+    "soviet-union",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Pivdenmash — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pivdenmash",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

@@ -1,0 +1,46 @@
+{
+  "qid": "Q4350651",
+  "slug": "peremyshl",
+  "title": "Peremyshl",
+  "type": "Wikimedia disambiguation page",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "Peremyshl refers to multiple locations, including a village in Russia and a historical town in Muscovy, with relevance to the broader context of Eastern European geography.",
+  "sections": [
+    {
+      "heading": "Peremyshl in Russia",
+      "paragraphs": [
+        "Peremyshl is a village located in Kaluga Oblast, Russia."
+      ]
+    },
+    {
+      "heading": "Historical Context of Peremyshl",
+      "paragraphs": [
+        "Peremyshl also refers to a former town in Muscovy, which is significant in understanding the historical landscape of [[eastern-europe|Eastern Europe]]."
+      ]
+    },
+    {
+      "heading": "Connection to Ukraine",
+      "paragraphs": [
+        "The name Peremyshl is similar to Przemyśl, a city in Poland that has historical ties to [[ukraine|Ukraine]], highlighting the interconnectedness of regional histories."
+      ]
+    }
+  ],
+  "links_out": [
+    "eastern-europe",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Peremyshl — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Peremyshl",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

@@ -1,0 +1,82 @@
+{
+  "qid": "Q1809427",
+  "slug": "nuclear-power-in-ukraine",
+  "title": "nuclear power in Ukraine",
+  "type": "aspect in a geographic region",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "aspect in a geographic region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Ukraine",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "Nuclear power plays a significant role in Ukraine's energy landscape, with four nuclear power plants, including the largest in Europe, the Zaporizhzhia Nuclear Power Plant. Despite challenges, including occupation and conflict, Ukraine continues to rely heavily on nuclear energy for electricity generation.",
+  "sections": [
+    {
+      "heading": "Overview of Nuclear Power in Ukraine",
+      "paragraphs": [
+        "[[ukraine|Ukraine]] is home to four nuclear power plants, with a total of 15 reactors that have an installed capacity exceeding 13 GWe. The state enterprise [[energoatom|Energoatom]] operates these facilities, making Ukraine one of the few nations where nuclear power constitutes a major source of electricity."
+      ]
+    },
+    {
+      "heading": "Zaporizhzhia Nuclear Power Plant",
+      "paragraphs": [
+        "The [[zaporizhzhia|Zaporizhzhia]] Nuclear Power Plant is the largest in Europe. It has been occupied and claimed by Russia, leading to its shutdown. The Russian government has expressed intentions to restart the plant through Rosatom."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The [[chernobyl-disaster|Chernobyl disaster]], which occurred on April 26, 1986, at the [[chernobyl-nuclear-power-plant|Chernobyl Nuclear Power Plant]] in northern Ukraine, remains the most severe nuclear accident in history. This event released significant radioactive contamination and is classified as a level 7 incident on the International Nuclear Event Scale.",
+        "At the time of the Chernobyl disaster, there were additional nuclear stations in various stages of development, with plans for around 40 nuclear units [[coal-in-ukraine|in Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Recent Developments and Challenges",
+      "paragraphs": [
+        "The [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]] has impacted Ukraine's nuclear infrastructure, leading to rolling blackouts due to a lack of coal for power stations and the shutdown of one of the reactors at the Zaporizhzhia Nuclear Power Plant.",
+        "In 2022, Russian forces seized the Zaporizhzhia Nuclear Power Plant, which continues to operate under compromised safety conditions, as reported by the International Atomic Energy Agency."
+      ]
+    },
+    {
+      "heading": "Future Prospects",
+      "paragraphs": [
+        "Plans were announced in 2006 to construct 11 new reactors by 2030, potentially doubling Ukraine's nuclear capacity. In April 2024, the government approved the completion of units No. 3 and No. 4 of the Khmelnytskyi Nuclear Power Plant, and construction of new units No. 5 and No. 6 is set to begin."
+      ]
+    },
+    {
+      "heading": "Nuclear Fuel Supply and Production",
+      "paragraphs": [
+        "Historically, Ukraine relied on Russia for nuclear fuel but has diversified its sources since 2008, with Westinghouse becoming a significant supplier. By 2016, Westinghouse provided fuel for six of Ukraine's VVER-1000 reactors, and efforts to produce nuclear fuel domestically have been initiated."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernobyl-disaster",
+    "chernobyl-nuclear-power-plant",
+    "coal-in-ukraine",
+    "energoatom",
+    "full-scale-russo-ukrainian-war",
+    "ukraine",
+    "zaporizhzhia"
+  ],
+  "sources": [
+    {
+      "title": "Nuclear power in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nuclear_power_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

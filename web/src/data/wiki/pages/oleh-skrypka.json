@@ -1,0 +1,86 @@
+{
+  "qid": "Q1988375",
+  "slug": "oleh-skrypka",
+  "title": "Oleh Skrypka",
+  "type": "human",
+  "category": "politics",
+  "aliases": [
+    "Oleg Skripka",
+    "Oleg Yuriyovych Skrypka",
+    "Oleg Yuryevich Skripka",
+    "Oleh Yuriyovych Skrypka"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1964-05-24",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Ghafurov",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Oleh Yuriyovych Skrypka is a prominent Ukrainian musician, vocalist, composer, and leader of the rock group Vopli Vidoplyasova, known for his significant contributions to the [[music-of-ukraine|Ukrainian music]] scene and cultural identity.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Oleh Skrypka was born on 24 May 1964 in Sovetabad, now known as Ghafurov, Tajikistan. His father, Yurii Pavlovych, a radiologist, originated from Hiltsi, a village in the [[poltava|Poltava]] region of [[ukraine|Ukraine]], while his mother, Hanna Oleksiyivna, was a teacher from a small village in the Kursk region of Russia. In 1972, the Skrypka family relocated to the Murmansk region of Russia due to Hanna's dissatisfaction with the climate in Tajikistan.",
+        "In 1987, Skrypka graduated from the [[kyiv|Kyiv]] Polytechnic Institute and co-founded the rock group Vopli Vidopliassova (VV) with Yurii Zdorenko, Oleksandr Pipa, and mutual friend Serhii Sakhno. That same year, VV joined the Kyiv rock club, won first prize at the Kyiv rock festival 'Rock-parade', and released their hit 'Танцi' ('dancing')."
+      ]
+    },
+    {
+      "heading": "Career",
+      "paragraphs": [
+        "In 1990, Vopli Vidopliassova toured France and Switzerland, gaining attention from major media outlets, including Le Monde. Skrypka and his group resided in France from 1991 to 1996, during which time they continued to perform. In 1996, Skrypka returned to Kyiv, where he resumed performing concerts [[coal-in-ukraine|in Ukraine]] and abroad, including regular visits to Moscow before 2014.",
+        "The group performed in various international locations, including Riga, London, and New York in the early 2000s. In 2004, Skrypka played a key role in organizing the Krayina Mriy festival, which promotes [[ukrainian-rock|Ukrainian rock]] culture. He also founded the 'Rock Sich' festival, aimed at supporting national rock music, which gained international status in 2013.",
+        "In 2007, Skrypka secured second place in the project 'Dances With the Stars 2'. In 2009, there were attempts to nominate him for the presidency of Ukraine, which he declined. Following the onset of the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]], Skrypka announced in 2014 that he and VV would no longer perform in Russia."
+      ]
+    },
+    {
+      "heading": "Controversy and Political Views",
+      "paragraphs": [
+        "In April 2017, Skrypka faced controversy after being recorded making remarks about non-[[ukrainian|Ukrainian]] speakers, which he later denied. A prank call from Russian prankster Vladimir Kuznetsov brought further attention to his comments, leading to a delayed apology from Skrypka.",
+        "In September 2023, he expressed his belief that Ukrainian artists continuing their careers in Russia after 2014 committed a 'cultural crime' and suggested they bore some responsibility for the Russian invasion of Ukraine. Additionally, he made controversial statements regarding feminism and the LGBT movement, viewing them as detrimental to humanity.",
+        "In October 2025, Skrypka supported the idea of a 'military coup' to restrict government roles to military personnel, emphasizing the need for thorough vetting."
+      ]
+    },
+    {
+      "heading": "Personal Life and Language Skills",
+      "paragraphs": [
+        "Skrypka is fluent in Ukrainian, Russian, English, and French. Although Russian was his first language, he was first exposed to Ukrainian in 1974 during a family visit to Hiltsi and did not achieve fluency in Ukrainian until 1994."
+      ]
+    },
+    {
+      "heading": "Discography and Filmography",
+      "paragraphs": [
+        "Skrypka's discography includes several albums such as 'Inkoly' (2001), 'Vidrada' (2004), 'Serce u mene vrazilve' (2009), 'Shchedryk' (2010), 'Jorjina' (2011), 'Humanisty' (2011, featuring Les Poderv'yansky), and 'Ukrayina' (2016, a cover of Nokturnal Mortum).",
+        "His filmography features roles in various productions, including 'Evenings on a khutor Near Dikanka' (2001) as blacksmith Vakula, 'Cinderella' (2002) as Troubadour, and 'My Mermaid, My Lorelyay' (2013) as a policeman, among others."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "music-of-ukraine",
+    "poltava",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-rock"
+  ],
+  "sources": [
+    {
+      "title": "Oleh Skrypka — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oleh_Skrypka",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

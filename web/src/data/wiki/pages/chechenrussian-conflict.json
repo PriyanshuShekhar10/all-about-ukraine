@@ -1,0 +1,74 @@
+{
+  "qid": "Q14947002",
+  "slug": "chechenrussian-conflict",
+  "title": "Chechen–Russian conflict",
+  "type": "armed conflict",
+  "category": "history",
+  "aliases": [
+    "Chechen-Russian conflict",
+    "Russian-Chechen conflict",
+    "Russian–Chechen conflict",
+    "conflict between Chechens and Russians",
+    "conflict between Chechnya and Russia",
+    "conflict between Russia and Chechnya",
+    "conflict between Russians and Chechens"
+  ],
+  "infobox": {
+    "label": "armed conflict",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2017-02-07",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Location",
+        "value": "North Caucasus",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The Chechen–Russian conflict is a prolonged ethnic and political struggle between Chechen forces and various Russian governments, including the Imperial, Soviet, and modern Russian states. This conflict has historical roots dating back to the 18th century and has significant implications for regional stability, including impacts on Ukraine through ongoing armed groups.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The Chechen–Russian conflict has origins that date back to 1785, with elements of the struggle traceable to even earlier periods. The Russian Empire initially showed limited interest in the North Caucasus, primarily viewing it as a route for trade and military communication. However, tensions escalated due to Russian activities in the region, leading to uprisings by Chechen forces.",
+        "The Russian Empire's conquest of the North Caucasus was marked by significant military campaigns, culminating in the defeat of Chechen forces in 1877. The region's strategic importance has been a focal point for various powers throughout history."
+      ]
+    },
+    {
+      "heading": "Soviet Era and Deportation",
+      "paragraphs": [
+        "During the Russian Civil War, Chechens experienced a brief period of independence before being incorporated into [[soviet-union|the Soviet Union]] in 1921. In 1944, under dubious allegations of collaboration with German forces, the entire Chechen population was deported to Central Asia, a traumatic event that has had lasting effects on Chechen national identity."
+      ]
+    },
+    {
+      "heading": "Recent Conflicts",
+      "paragraphs": [
+        "The modern phase of the Chechen–Russian conflict began in the 1990s after the dissolution of the Soviet Union. In 1991, Chechnya declared independence, leading to the First Chechen War in late 1994. This conflict resulted in a ceasefire in August 1996 but was followed by renewed hostilities in 1999, leading to the Second Chechen War.",
+        "The Russian military regained control over Chechnya by April 2000, but insurgency and violence continued for years. The Russian government declared the end of the conflict in 2017, although armed Chechen groups remain active in opposition to Russian forces, notably [[coal-in-ukraine|in Ukraine]] and Syria."
+      ]
+    },
+    {
+      "heading": "Geopolitical Implications",
+      "paragraphs": [
+        "The Chechen–Russian conflict has broader implications for regional stability, particularly in relation to [[ukraine|Ukraine]]. Armed Chechen groups, opposed to Russian authority, have been involved in conflicts in Ukraine, highlighting the interconnectedness of regional struggles and the impact of historical grievances on contemporary conflicts."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "soviet-union",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Chechen–Russian conflict — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chechen–Russian_conflict",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

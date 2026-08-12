@@ -56,7 +56,7 @@
     {
       "heading": "Social Initiatives",
       "paragraphs": [
-        "Since 2005, Roshen has contributed to social projects in Ukraine, notably by installing 80 children's playgrounds in various cities. However, the project was halted in 2019 due to vandalism issues. Additionally, from 2015 to 2018, Roshen supported the Okhmatdyt children's hospital in Kyiv through significant donations for medical equipment and facility improvements."
+        "Since 2005, Roshen has contributed to social projects [[coal-in-ukraine|in Ukraine]], notably by installing 80 children's playgrounds in various cities. However, the project was halted in 2019 due to vandalism issues. Additionally, from 2015 to 2018, Roshen supported the Okhmatdyt children's hospital in Kyiv through significant donations for medical equipment and facility improvements."
       ]
     },
     {
@@ -67,6 +67,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "full-scale-russo-ukrainian-war",
     "kyiv",
     "mariupol",

@@ -35,13 +35,13 @@
       "heading": "Historical Context",
       "paragraphs": [
         "The geographical features of Ukraine have historically influenced its economic development, with fertile soils making it a significant agricultural area since ancient times. The region's mineral resources spurred industrialization, particularly in the [[donbas|Donbas]] region, from the 19th century onward.",
-        "Ukraine declared independence from the Soviet Union on 24 August 1991, but the economy faced severe challenges in the following years, including hyperinflation and a dramatic decline in output."
+        "Ukraine declared independence from [[soviet-union|the Soviet Union]] on 24 August 1991, but the economy faced severe challenges in the following years, including hyperinflation and a dramatic decline in output."
       ]
     },
     {
       "heading": "Economic Growth and Challenges (2000-2014)",
       "paragraphs": [
-        "Economic growth resumed in Ukraine in 2000, continuing until the 2008-2009 financial crisis. During this period, exports increased significantly, particularly in traditional industries such as metals and food.",
+        "Economic growth resumed [[coal-in-ukraine|in Ukraine]] in 2000, continuing until the 2008-2009 financial crisis. During this period, exports increased significantly, particularly in traditional industries such as metals and food.",
         "The economy faced a downturn in 2013 due to stricter customs controls imposed by Russia, leading to a recession. By the end of 2013, Ukraine's economy was stagnant, with no growth in GDP."
       ]
     },
@@ -61,9 +61,11 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "donbas",
     "hryvnia",
     "russian-annexation-of-crimea",
+    "soviet-union",
     "ukraine",
     "ukrainian"
   ],

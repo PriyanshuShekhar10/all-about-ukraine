@@ -1,0 +1,85 @@
+{
+  "qid": "Q133274",
+  "slug": "kremlin",
+  "title": "Kremlin",
+  "type": "kremlin",
+  "category": "war",
+  "aliases": [
+    "Moscow Kremlin"
+  ],
+  "infobox": {
+    "label": "kremlin",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1420",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Russia, Russian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "27",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "55.7517, 37.6178",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Moscow Kremlin, a fortified complex in Moscow, Russia, serves as a significant historical and political symbol. It is not only a UNESCO World Heritage site but also represents the seat of power for the Russian government, influencing [[ukraine|Ukraine]]'s historical and political landscape, especially during periods of conflict and governance.",
+  "sections": [
+    {
+      "heading": "Geographical and Architectural Overview",
+      "paragraphs": [
+        "The Moscow Kremlin is located in the historic center of Moscow and includes five palaces, four cathedrals, and an enclosing wall with numerous towers. It overlooks the [[moskva|Moskva]] River, Red Square, and Alexander Garden."
+      ]
+    },
+    {
+      "heading": "Etymology and Political Significance",
+      "paragraphs": [
+        "In Russian, 'kreml'' signifies a 'fortress within a city', with many historical cities having their own kremlins. The Moscow Kremlin is particularly notable as a metonym for the Government of Russia, especially during the Cold War when it referred to [[soviet-union|the Soviet Union]]'s leadership."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "The site of the Kremlin has been inhabited since the 2nd century BCE, with Slavic occupation beginning in the 11th century. The term 'Kremlin' first appeared in historical records in 1331. Significant developments occurred under various rulers, including the construction of a strong citadel by Dmitri Donskoi in the late 14th century and extensive renovations by Ivan III in the 15th century, which included inviting Italian architects.",
+        "During the Time of Troubles, the Kremlin was occupied by Polish forces from September 21, 1610, to October 26, 1612, until it was liberated by Russian forces."
+      ]
+    },
+    {
+      "heading": "Imperial and Soviet Eras",
+      "paragraphs": [
+        "Throughout the Imperial period, the Kremlin underwent significant changes, including the construction of the Grand Kremlin Palace from 1839 to 1849. The Soviet government moved to the Kremlin in 1918, with Lenin and later [[donetsk|Stalin]] residing there. The complex was closed to tourists until 1955 and underwent various restorations and alterations during the Soviet era, leading to the destruction of many historic buildings.",
+        "The State Kremlin Palace, built between 1959 and 1961, replaced several heritage structures and was designed for Communist Party meetings."
+      ]
+    },
+    {
+      "heading": "Architectural Features",
+      "paragraphs": [
+        "The Kremlin Wall and its towers were constructed by Italian masters from 1485 to 1495, enclosing an area of 275,000 square meters. The wall's height varies from 5 to 19 meters, and it originally featured eighteen towers, which increased to twenty by the 17th century. Cathedral Square, the heart of the Kremlin, includes significant structures such as the Cathedral of the Dormition, completed in 1479, which served as the main church for the coronation of Tsars."
+      ]
+    }
+  ],
+  "links_out": [
+    "donetsk",
+    "moskva",
+    "soviet-union",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Kremlin — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kremlin",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

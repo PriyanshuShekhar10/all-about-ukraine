@@ -47,7 +47,7 @@
     {
       "heading": "Overview",
       "paragraphs": [
-        "The National Academy of Sciences of Ukraine (NASU; [[ukrainian|Ukrainian]]: Національна академія наук України) is a self-governing state-funded organization that acts as the main center for the development of science and technology in [[ukraine|Ukraine]]. It coordinates a system of research institutes throughout the country and is one of the leading research-oriented organizations in Ukraine, alongside five other specialized academies."
+        "The National Academy of Sciences of Ukraine (NASU; [[ukrainian|Ukrainian]]: Національна академія наук України) is a self-governing state-funded organization that acts as the main center for the development of science and technology [[coal-in-ukraine|in Ukraine]]. It coordinates a system of research institutes throughout the country and is one of the leading research-oriented organizations in Ukraine, alongside five other specialized academies."
       ]
     },
     {
@@ -78,9 +78,9 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "kyiv",
     "lviv",
-    "ukraine",
     "ukrainian",
     "ukrainiansoviet-war",
     "western-ukraine"

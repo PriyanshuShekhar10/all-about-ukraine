@@ -1,0 +1,91 @@
+{
+  "qid": "Q1058572",
+  "slug": "sviatoslav-i-of-kiev",
+  "title": "Sviatoslav I of Kiev",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Sviatoslav I",
+    "Sviatoslav I Igorevich",
+    "Sviatoslav I Ihorovych",
+    "Sviatoslav Khorobryi",
+    "Sviatoslav Zavoiovnyk",
+    "Sviatoslav the Brave",
+    "Sviatoslav the Conqueror",
+    "Svjatoslav Ihorovyč",
+    "Svyatoslav"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "0942",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "0972",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Kyiv",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "Grand Prince of Kiev, Grand Prince of Novgorod",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Sviatoslav I of Kiev (c. 943 – 972) was a significant ruler of the Kievan Rus', known for his military campaigns that led to the decline of Khazaria and the First Bulgarian Empire. His reign marked a period of territorial expansion and the establishment of Kievan Rus' as a major power in Eastern Europe.",
+  "sections": [
+    {
+      "heading": "Early Life and Ascension",
+      "paragraphs": [
+        "Sviatoslav I, also referred to as Svyatoslav I Igorevich, was born around 943 and became Prince of Kiev in 945 following the death of his father, Igor. His mother, Olga, served as regent until Sviatoslav reached maturity around 963. During his youth, he was tutored by a Varangian named Asmud and spent much of his early life in military pursuits rather than administration."
+      ]
+    },
+    {
+      "heading": "Religious Beliefs",
+      "paragraphs": [
+        "Despite his mother Olga's conversion to Orthodox Christianity in 957, Sviatoslav remained a lifelong pagan. His adherence to paganism was partly motivated by a belief that his warriors would lose respect for him if he converted. This commitment to paganism was evident in treaties, such as the one made in 971 with the Byzantine emperor John I Tzimiskes, where Sviatoslav swore by pagan gods."
+      ]
+    },
+    {
+      "heading": "Military Campaigns and Expansion",
+      "paragraphs": [
+        "Sviatoslav's reign was characterized by extensive military campaigns that expanded the influence of [[kievan-rus|Kievan Rus]]'. He successfully conquered Khazaria, a significant power in [[eastern-europe|Eastern Europe]], and led campaigns against the Volga Bulgars and various East Slavic tribes. His military strategies included rallying local tribes and employing mercenaries to enhance his forces.",
+        "In the Balkans, Sviatoslav allied with the Byzantine Empire against Bulgaria, capturing significant territories and defeating the Bulgarian ruler Boris II. His refusal to relinquish control of his conquests to the Byzantines led to tensions between the two powers."
+      ]
+    },
+    {
+      "heading": "Political Structure and Succession",
+      "paragraphs": [
+        "In 970, Sviatoslav appointed his sons Yaropolk and Oleg as subordinate princes of Kiev and Drelinia, respectively, while designating Vladimir, his son by Malusha, as the prince of Novgorod. However, Sviatoslav's abrupt death in 972 resulted in a lack of a stable succession plan, leading to internal conflict among his sons, which ultimately resulted in the deaths of Yaropolk and Oleg, with Vladimir emerging as the sole ruler."
+      ]
+    },
+    {
+      "heading": "Legacy",
+      "paragraphs": [
+        "Sviatoslav I's military achievements and territorial expansions significantly shaped the early [[history-of-ukraine|history of Ukraine]] and the Kievan Rus'. His conquests laid the groundwork for the future power dynamics in Eastern Europe and set the stage for the eventual Christianization of the region under his son, Vladimir."
+      ]
+    }
+  ],
+  "links_out": [
+    "eastern-europe",
+    "history-of-ukraine",
+    "kievan-rus"
+  ],
+  "sources": [
+    {
+      "title": "Sviatoslav I — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sviatoslav_I",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

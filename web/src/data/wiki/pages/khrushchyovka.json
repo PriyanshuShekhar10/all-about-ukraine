@@ -1,0 +1,78 @@
+{
+  "qid": "Q1088444",
+  "slug": "khrushchyovka",
+  "title": "Khrushchyovka",
+  "type": "housing series",
+  "category": "culture",
+  "aliases": [
+    "Commie bloc"
+  ],
+  "infobox": {
+    "label": "housing series",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1956",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Soviet Union",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Khrushchyovkas are a series of low-cost, multi-story apartment buildings that emerged in the Soviet Union during the leadership of Nikita Khrushchev in the early 1960s. These structures played a significant role in addressing the housing crisis in Ukraine and other Soviet republics, symbolizing the architectural shift towards industrialized construction methods.",
+  "sections": [
+    {
+      "heading": "Definition and Characteristics",
+      "paragraphs": [
+        "Khrushchyovkas (Russian: хрущёвка, romanized: khrushchyovka) are low-cost, concrete-paneled or brick apartment buildings, typically three to five stories tall, designed and constructed in [[soviet-union|the Soviet Union]] starting in the early 1960s. They were named after Nikita Khrushchev, who was the leader of the Soviet Union during this period.",
+        "These buildings marked a shift in Soviet housing development towards industrial construction methods. Compared to the earlier 'Stalinkas', which were primarily brick-built, Khrushchyovkas featured smaller apartments and a functionalist architectural style characterized by simplicity. Their introduction from 1956 to the mid-1970s significantly alleviated the acute housing shortage faced in urban areas."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The origins of Khrushchyovkas can be traced back to the 1920s when Soviet officials studied Germany's social housing construction methods. A major push for industrialization and standardization in Soviet building was initiated by a 1936 decree from the Council of People's Commissars and the Communist Party Central Committee.",
+        "Post-World War II, the USSR began adopting large-panel housing designs to address the housing crisis exacerbated by urbanization and war devastation. By the late 1940s, standardized designs were developed, and in 1949, large-panel housing construction began [[coal-in-ukraine|in Ukraine]], notably in cities like Makeevka and [[kyiv|Kyiv]]."
+      ]
+    },
+    {
+      "heading": "Khrushchyovka Development",
+      "paragraphs": [
+        "The first large-panel houses were constructed in Ukraine under the guidance of engineer A.S. Vatsenko in [[kharkiv|Kharkov]] in 1931, and further developments occurred in the 1940s with the introduction of experimental frame-panel houses in Moscow. By the mid-1950s, the housing crisis prompted a shift towards standardized construction, leading to the widespread development of Khrushchyovkas.",
+        "Khrushchyovkas were designed to be cost-effective, with construction costs reduced by over 30% compared to previous [[donetsk|Stalin]]-era buildings. They were seen as symbols of democratization, providing affordable housing for the general population."
+      ]
+    },
+    {
+      "heading": "Architectural Reform and Impact",
+      "paragraphs": [
+        "Khrushchyovkas represented a departure from the ornate Stalinist architecture that preceded them. In a speech on December 7, 1954, Khrushchev criticized the extravagance of Stalinist designs and advocated for industrialized construction methods. This marked a significant shift in Soviet architecture towards utilitarianism and standardization.",
+        "The construction of Khrushchyovkas was part of a broader reform movement that sought to address the housing needs of a growing urban population. This reform emphasized the importance of urban planning and engineering over traditional architectural aesthetics, leading to a new approach in Soviet residential construction."
+      ]
+    },
+    {
+      "heading": "Legacy",
+      "paragraphs": [
+        "Khrushchyovkas remain one of the most common types of housing in Ukraine and other former Soviet republics. They symbolize the 'Khrushchev Thaw' era and the shift towards a more egalitarian approach to urban living. Despite their simplicity, these buildings played a crucial role in providing housing solutions during a time of significant social and economic change."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "donetsk",
+    "kharkiv",
+    "kyiv",
+    "soviet-union"
+  ],
+  "sources": [
+    {
+      "title": "Khrushchevka — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Khrushchevka",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

@@ -30,13 +30,13 @@
     {
       "heading": "Company Overview",
       "paragraphs": [
-        "DTEK ([[ukrainian|Ukrainian]]: ДТЕК) is recognized as the foremost private investor in [[ukraine|Ukraine]]'s energy industry. The company operates various enterprises that generate electricity from solar, wind, and thermal power plants, extract coal and natural gas, and engage in energy trading both domestically and internationally. Additionally, DTEK is involved in electricity distribution and supply to consumers and is developing a network of supercharger stations for electric vehicles. The company's headquarters is situated in [[kyiv|Kyiv]], and it is owned by SCM Holdings."
+        "DTEK ([[ukrainian|Ukrainian]]: ДТЕК) is recognized as the foremost private investor [[coal-in-ukraine|in Ukraine]]'s energy industry. The company operates various enterprises that generate electricity from solar, wind, and thermal power plants, extract coal and natural gas, and engage in energy trading both domestically and internationally. Additionally, DTEK is involved in electricity distribution and supply to consumers and is developing a network of supercharger stations for electric vehicles. The company's headquarters is situated in [[kyiv|Kyiv]], and it is owned by SCM Holdings."
       ]
     },
     {
       "heading": "Business Operations",
       "paragraphs": [
-        "DTEK functions through seven primary business units: DTEK Renewables, which focuses on wind and solar energy; DTEK Renewables International (DRI), which develops renewable projects outside Ukraine; DTEK Energy, which manages coal-based electricity production; DTEK Grids, responsible for electricity distribution in multiple regions; D.Solutions, which handles retail electricity supply and energy efficiency services; DTEK Oil & Gas, overseeing oil and gas operations; and D.Trading, which focuses on energy trading and management."
+        "DTEK functions through seven primary business units: DTEK Renewables, which focuses on wind and solar energy; DTEK Renewables International (DRI), which develops renewable projects outside [[ukraine|Ukraine]]; DTEK Energy, which manages coal-based electricity production; DTEK Grids, responsible for electricity distribution in multiple regions; D.Solutions, which handles retail electricity supply and energy efficiency services; DTEK Oil & Gas, overseeing oil and gas operations; and D.Trading, which focuses on energy trading and management."
       ]
     },
     {
@@ -65,6 +65,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "crimea",
     "eastern-europe",
     "kyiv",

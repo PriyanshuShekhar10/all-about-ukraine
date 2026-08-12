@@ -27,7 +27,7 @@
       }
     ]
   },
-  "summary": "The Ukrainian Defense Industry, known as Ukroboronprom, is the largest arms manufacturer in Ukraine and ranks among the top 50 companies in the global arms sector. Established in 2010, it has adapted its operations in response to the ongoing conflict with Russia, including relocating parts of its production abroad since the 2022 invasion.",
+  "summary": "The Ukrainian Defense Industry, known as Ukroboronprom, is the largest arms manufacturer [[coal-in-ukraine|in Ukraine]] and ranks among the top 50 companies in the global arms sector. Established in 2010, it has adapted its operations in response to the ongoing conflict with Russia, including relocating parts of its production abroad since the 2022 invasion.",
   "sections": [
     {
       "heading": "Overview",
@@ -69,6 +69,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "ukraine",
     "ukrainian",
     "zhytomyr"

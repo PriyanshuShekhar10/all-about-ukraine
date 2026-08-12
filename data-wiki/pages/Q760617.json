@@ -1,0 +1,102 @@
+{
+  "qid": "Q760617",
+  "slug": "enerhodar",
+  "title": "Enerhodar",
+  "type": "city of regional significance of Ukraine",
+  "category": "economy",
+  "aliases": [
+    "Energodar"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1970",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "53,567",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "635",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "29",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "47.4989, 34.6558",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Enerhodar is a city of regional significance located in the northwest of Zaporizhzhia Oblast, [[ukraine|Ukraine]], known primarily for its electricity generation industry, including coal-fired and nuclear power plants. As of 2022, it had an estimated population of 52,237 and has been under Russian occupation since early 2022.",
+  "sections": [
+    {
+      "heading": "Geography and Industry",
+      "paragraphs": [
+        "Enerhodar is situated on the left bank of the [[dnieper|Dnieper River]], opposite Nikopol and [[chervonohryhorivka|Chervonohryhorivka]], across the Kakhovka Reservoir. The city is primarily focused on electricity generation, housing significant coal-fired and nuclear power stations, with approximately 11,000 residents employed at the nuclear facility."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The city was established on 12 June 1970 to support the construction and operation of the [[zaporizhzhia|Zaporizhzhia]] thermal power station. Initially unnamed for two years, it was officially designated as Enerhodar on 23 November 1972. The city's development was closely linked to the thermal power plant's construction, which included residential areas, kindergartens, and cultural facilities. Enerhodar achieved city status in 1985 and became part of [[independent-ukraine|independent Ukraine]] in 1991, with the Zaporizhzhia Nuclear Power Plant, the largest in Europe, built in the 1980s."
+      ]
+    },
+    {
+      "heading": "Russo-Ukrainian War",
+      "paragraphs": [
+        "On 28 February 2022, Russia announced the capture of Enerhodar and its nuclear power plant, a claim that was refuted by the city's mayor, Dmytro Orlov. In response to the threat of Russian advancement, civilians constructed barricades to protect the nuclear facility. The [[ukrainian|Ukrainian]] military administration confirmed the city's occupation by Russian forces on 7 March 2022."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "According to the 2001 Ukrainian national census, Enerhodar had a population of 56,180, making it the fourth-largest city in [[zaporizhzhia-oblast|Zaporizhzhia Oblast]]. The population is predominantly Ukrainian, with a significant ethnic Russian minority, along with smaller communities of Belarusians, Bulgarians, and Armenians. Language use in the city reflects this diversity, with around 62% of residents primarily speaking Russian and nearly 38% speaking Ukrainian."
+      ]
+    },
+    {
+      "heading": "Points of Interest",
+      "paragraphs": [
+        "Key points of interest in Enerhodar include the Enerhodar Dnipro Powerline Crossing, the Zaporizhzhia Nuclear Power Plant, and the Zaporizhzhia thermal power station (Zaporizhzhia DRES), which are central to the city's identity and economy."
+      ]
+    },
+    {
+      "heading": "Notable People",
+      "paragraphs": [
+        "Notable individuals from Enerhodar include Liudmyla Babak, a Ukrainian canoeist born in 1997, and boxers Valeriy Sydorenko and Volodymyr Sydorenko, both born in 1976."
+      ]
+    }
+  ],
+  "links_out": [
+    "chervonohryhorivka",
+    "dnieper",
+    "independent-ukraine",
+    "ukraine",
+    "ukrainian",
+    "zaporizhzhia",
+    "zaporizhzhia-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Enerhodar — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Enerhodar",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

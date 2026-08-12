@@ -32,7 +32,7 @@
     {
       "heading": "Geographical Overview",
       "paragraphs": [
-        "The Carpathian Mountains form an arc across Central and Southeast Europe, stretching from the Western Carpathians in Austria, the Czech Republic, Slovakia, and Poland, to the Eastern Carpathians in [[ukraine|Ukraine]] and Romania, and further to the Southern Carpathians in Romania and Serbia. The range covers an area of 190,000 km2 (73,000 sq mi) and includes significant portions in Ukraine, which accounts for 10% of the total range."
+        "The Carpathian Mountains form an arc across Central and Southeast Europe, stretching from the Western Carpathians in Austria, the Czech Republic, Slovakia, and Poland, to the Eastern Carpathians [[coal-in-ukraine|in Ukraine]] and Romania, and further to the Southern Carpathians in Romania and Serbia. The range covers an area of 190,000 km2 (73,000 sq mi) and includes significant portions in Ukraine, which accounts for 10% of the total range."
       ]
     },
     {
@@ -56,11 +56,12 @@
     {
       "heading": "Cultural and Economic Relevance",
       "paragraphs": [
-        "The Carpathians are not only a natural landmark but also a cultural symbol for the regions they span, including Ukraine. The mountains influence local economies through tourism, forestry, and natural resources, while also serving as a site for traditional practices and local heritage."
+        "The Carpathians are not only a natural landmark but also a cultural symbol for the regions they span, including [[ukraine|Ukraine]]. The mountains influence local economies through tourism, forestry, and natural resources, while also serving as a site for traditional practices and local heritage."
       ]
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "ukraine",
     "ukrainian",
     "ukrainian-carpathians"

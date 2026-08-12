@@ -25,14 +25,14 @@
       }
     ]
   },
-  "summary": "The Black Sea Shipping Company, established in 1833 and based in [[kyiv|Kyiv]], is a significant [[ukrainian|Ukrainian]] shipping enterprise with a historical legacy as one of the world's largest shipping companies during the Soviet era. It played a crucial role in Ukraine's maritime trade and economic development.",
+  "summary": "The Black Sea Shipping Company, established in 1833 and based in [[kyiv|Kyiv]], is a significant [[ukrainian|Ukrainian]] shipping enterprise with a historical legacy as one of the world's largest shipping companies during the Soviet era. It played a crucial role [[coal-in-ukraine|in Ukraine]]'s maritime trade and economic development.",
   "sections": [
     {
       "heading": "Historical Background",
       "paragraphs": [
         "The origins of the Black Sea Shipping Company can be traced back to 16 May 1833, when the Black Sea Society of Steamships (ROPiT) was founded to facilitate regular communication between [[odesa|Odessa]] and Istanbul. However, the company ceased operations following the [[crimean-war|Crimean War]] of the 1850s.",
         "The company was re-established on 13 June 1922 as Black Sea - Azov Sea Shipping by the Council of Labour and Defence, operating under the People's Commissariat of Communication Routes and managed by the Central Administration of State Merchant Fleet (Gostorgflot). After World War II, it was divided into the Black Sea Shipping Company, Azov Sea Shipping Company, and Georgian Shipping Company. A further division occurred in 1964, creating the [[dnipro|Novorossiysk]] Shipping Company from the tanker division of the Black Sea Shipping Company.",
-        "In 1990, the Black Sea Shipping Company was recognized as the largest shipping company in Europe and the second largest globally. Following the dissolution of the Soviet Union, the company transitioned from the Ministry of Sea Fleet of the Soviet Union to a state company of [[ukraine|Ukraine]] and was later registered with the State Property Fund of Ukraine."
+        "In 1990, the Black Sea Shipping Company was recognized as the largest shipping company in Europe and the second largest globally. Following the dissolution of [[soviet-union|the Soviet Union]], the company transitioned from the Ministry of Sea Fleet of the Soviet Union to a state company of [[ukraine|Ukraine]] and was later registered with the [[state-property-fund-of-ukraine|State Property Fund of Ukraine]]."
       ]
     },
     {
@@ -57,6 +57,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "crimean-war",
     "dnipro",
     "kherson",
@@ -65,6 +66,8 @@
     "mykolaiv",
     "odesa",
     "sevastopol",
+    "soviet-union",
+    "state-property-fund-of-ukraine",
     "ukraine",
     "ukrainian"
   ],

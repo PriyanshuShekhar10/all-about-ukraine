@@ -16,14 +16,14 @@
     {
       "heading": "Historical Context",
       "paragraphs": [
-        "[[ukraine|Ukraine]]'s relations with NATO began in 1991 after the country gained independence from the Soviet Union. Throughout the 1990s and 2000s, Ukraine sought to strengthen ties with NATO while maintaining a neutral status.",
+        "[[ukraine|Ukraine]]'s relations with NATO began in 1991 after the country gained independence from [[soviet-union|the Soviet Union]]. Throughout the 1990s and 2000s, Ukraine sought to strengthen ties with NATO while maintaining a neutral status.",
         "In 1994, Ukraine joined NATO's Partnership for Peace, and in 1997, the NATO-Ukraine Commission was established to enhance cooperation."
       ]
     },
     {
       "heading": "Key Developments in Relations",
       "paragraphs": [
-        "Ukraine's parliament voted to pursue NATO membership in December 2014 after Russia's [[russian-annexation-of-crimea|annexation of Crimea]] and military intervention in eastern Ukraine. This commitment was further enshrined in Ukraine's constitution in 2018.",
+        "Ukraine's parliament voted to pursue NATO membership in December 2014 after Russia's [[russian-annexation-of-crimea|annexation of Crimea]] and military intervention in eastern Ukraine. This commitment was further enshrined [[coal-in-ukraine|in Ukraine]]'s constitution in 2018.",
         "Despite initial resistance from NATO, the 2008 Bucharest summit acknowledged Ukraine's future membership, although it did not provide a Membership Action Plan."
       ]
     },
@@ -50,9 +50,11 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "full-scale-russo-ukrainian-war",
     "leonid-kuchma",
     "russian-annexation-of-crimea",
+    "soviet-union",
     "ukraine",
     "viktor-yanukovych",
     "viktor-yushchenko"

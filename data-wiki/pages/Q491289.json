@@ -44,7 +44,7 @@
     {
       "heading": "Foundation and Development",
       "paragraphs": [
-        "Following the establishment of the Soviet Union, planning for an integrated steel plant began in 1929, aimed at combining iron ore and carbon mining with steel production. A decree for construction was signed in 1931, and the first metal was produced in August 1934 at Kryvorizhstal. Before World War II, the plant operated with three blast furnaces and two open hearth furnaces. In 1941, additional facilities were added before the Nazi occupation led to significant destruction. Post-war, the plant was rebuilt and expanded, becoming the largest in Europe by the late 1970s."
+        "Following the establishment of [[soviet-union|the Soviet Union]], planning for an integrated steel plant began in 1929, aimed at combining iron ore and carbon mining with steel production. A decree for construction was signed in 1931, and the first metal was produced in August 1934 at Kryvorizhstal. Before World War II, the plant operated with three blast furnaces and two open hearth furnaces. In 1941, additional facilities were added before the Nazi occupation led to significant destruction. Post-war, the plant was rebuilt and expanded, becoming the largest in Europe by the late 1970s."
       ]
     },
     {
@@ -56,7 +56,7 @@
     {
       "heading": "Investment and Production",
       "paragraphs": [
-        "From 2006 to 2022, ArcelorMittal Kryvyi Rih invested approximately $10 billion in [[ukraine|Ukraine]], focusing on production development and modernization projects. Key investments included the reconstruction of coke oven batteries and blast furnaces, as well as environmental initiatives. However, the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in February 2022 led to the suspension of several major projects, although essential operations continued. As of September 2024, the company aims to maintain its operations amid challenges such as declining iron ore prices and workforce mobilization."
+        "From 2006 to 2022, ArcelorMittal Kryvyi Rih invested approximately $10 billion [[coal-in-ukraine|in Ukraine]], focusing on production development and modernization projects. Key investments included the reconstruction of coke oven batteries and blast furnaces, as well as environmental initiatives. However, the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in February 2022 led to the suspension of several major projects, although essential operations continued. As of September 2024, the company aims to maintain its operations amid challenges such as declining iron ore prices and workforce mobilization."
       ]
     },
     {
@@ -67,10 +67,11 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "economy-of-ukraine",
     "full-scale-russo-ukrainian-war",
     "kryvyi-rih",
-    "ukraine"
+    "soviet-union"
   ],
   "sources": [
     {

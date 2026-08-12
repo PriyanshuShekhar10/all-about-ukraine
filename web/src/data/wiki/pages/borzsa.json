@@ -1,0 +1,66 @@
+{
+  "qid": "Q836716",
+  "slug": "borzsa",
+  "title": "Borzsa",
+  "type": "river",
+  "category": "geography",
+  "aliases": [
+    "Borzawa",
+    "Borzhava"
+  ],
+  "infobox": {
+    "label": "river",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "113",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.1108, 22.7067",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Borzhava, also known as Borzsa in Hungarian, is a significant right tributary of the Tisza River located in the [[transcarpathia|Zakarpattia]] Oblast of western Ukraine. It plays an important role in the region's hydrology and geography.",
+  "sections": [
+    {
+      "heading": "Geographical Overview",
+      "paragraphs": [
+        "The Borzhava river rises in the Eastern [[carpathians|Carpathians]], contributing to the diverse landscape of [[western-ukraine|western Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Hydrological Characteristics",
+      "paragraphs": [
+        "The river has a basin that spans an area of 1,450 km2 (560 sq mi), indicating its significance in the local ecosystem and water management."
+      ]
+    },
+    {
+      "heading": "Confluence with Tisza",
+      "paragraphs": [
+        "The Borzhava discharges into the Tisza River near the town of Vary, which is situated on the border with Hungary, highlighting its role in cross-border hydrology."
+      ]
+    }
+  ],
+  "links_out": [
+    "carpathians",
+    "transcarpathia",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Borzhava — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Borzhava",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

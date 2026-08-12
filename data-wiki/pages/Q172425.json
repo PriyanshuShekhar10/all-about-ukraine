@@ -28,7 +28,7 @@
       }
     ]
   },
-  "summary": "Mykola Vitaliiovych Lysenko was a prominent Ukrainian composer, pianist, conductor, and ethnomusicologist, born on 22 March 1842 and passing on 6 November 1912. He played a crucial role in establishing a national music tradition in Ukraine during the late Romantic period, influencing future generations of Ukrainian musicians.",
+  "summary": "Mykola Vitaliiovych Lysenko was a prominent Ukrainian composer, pianist, conductor, and ethnomusicologist, born on 22 March 1842 and passing on 6 November 1912. He played a crucial role in establishing a national music tradition [[coal-in-ukraine|in Ukraine]] during the late Romantic period, influencing future generations of Ukrainian musicians.",
   "sections": [
     {
       "heading": "Early Life",
@@ -67,6 +67,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "kharkiv-oblast",
     "kyiv",
     "music-of-ukraine",

@@ -47,14 +47,14 @@
       }
     ]
   },
-  "summary": "Poltava Oblast, known as Poltavshchyna, is a province located in central Ukraine, with its administrative center in the city of Poltava. The oblast, which has a population of approximately 1,352,283 as of 2022, is historically significant as part of the Cossack Hetmanate and plays a crucial role in Ukraine's cultural and economic landscape.",
+  "summary": "Poltava Oblast, known as Poltavshchyna, is a province located in central Ukraine, with its administrative center in the city of Poltava. The oblast, which has a population of approximately 1,352,283 as of 2022, is historically significant as part of the Cossack Hetmanate and plays a crucial role [[coal-in-ukraine|in Ukraine]]'s cultural and economic landscape.",
   "sections": [
     {
       "heading": "History",
       "paragraphs": [
-        "Poltava Oblast was formed on 22 September 1937 following a resolution by the Central Executive Committee of the Soviet Union. Its establishment was based on districts from [[kharkiv-oblast|Kharkiv Oblast]] and some from [[kyiv|Kyiv]] Oblast, aligning with the historical boundaries of the [[poltava|Poltava]] Governorate, which existed from 1802 to 1925.",
+        "Poltava Oblast was formed on 22 September 1937 following a resolution by the Central Executive Committee of [[soviet-union|the Soviet Union]]. Its establishment was based on districts from [[kharkiv-oblast|Kharkiv Oblast]] and some from [[kyiv|Kyiv]] Oblast, aligning with the historical boundaries of the [[poltava|Poltava]] Governorate, which existed from 1802 to 1925.",
         "During the occupation by Nazi Germany from 1941 to 1943, much of the region fell under the Kiew Generalbezirke, while other parts were designated as military rear areas. After the German withdrawal, the oblast was restored to its previous borders, although it lost some territory to the newly established [[cherkasy-oblast|Cherkasy Oblast]] in the 1950s, and additional areas were submerged due to the creation of the [[kremenchuk-reservoir|Kremenchuk Reservoir]] in 1959.",
-        "In 2020, Poltava Oblast underwent administrative reform, resulting in a reduction of its raions by increasing their size. During the ongoing Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], the town of Myrhorod experienced bombing, but the oblast remains under [[ukrainian|Ukrainian]] control without ground fighting."
+        "In 2020, Poltava Oblast underwent administrative reform, resulting in a reduction of its raions by increasing their size. During the ongoing Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], the town of [[myrhorod|Myrhorod]] experienced bombing, but the oblast remains under [[ukrainian|Ukrainian]] control without ground fighting."
       ]
     },
     {
@@ -94,6 +94,7 @@
     "cherkasy",
     "cherkasy-oblast",
     "chernihiv",
+    "coal-in-ukraine",
     "cossack-hetmanate",
     "dnieper",
     "dnipro",
@@ -103,8 +104,10 @@
     "kropyvnytskyi",
     "kyiv",
     "lviv-national-museum",
+    "myrhorod",
     "poltava",
     "president-of-ukraine",
+    "soviet-union",
     "sumy",
     "ukraine",
     "ukrainian",

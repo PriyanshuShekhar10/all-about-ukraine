@@ -1,0 +1,72 @@
+{
+  "qid": "Q284078",
+  "slug": "yevhen-konoplyanka",
+  "title": "Yevhen Konoplyanka",
+  "type": "human",
+  "category": "war",
+  "aliases": [
+    "Yevhen Olehovych Konoplianka",
+    "Yevhen Olehovych Konoplyanka"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1989-09-29",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Kropyvnytskyi",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Yevhen Olehovych Konoplyanka is a retired Ukrainian professional footballer known for his role as a winger. He had a significant impact on Ukrainian football, representing the national team and achieving success at club level both domestically and internationally.",
+  "sections": [
+    {
+      "heading": "Early Life and Youth Career",
+      "paragraphs": [
+        "Yevhen Konoplyanka was born on 29 September 1989. He began his athletic journey at the age of seven, enrolling in karate classes while also playing football. He developed his football skills in the youth system of Olimpik [[kropyvnytskyi|Kirovohrad]], coached by Yuriy Kevlych, and participated in the [[ukrainian|Ukrainian]] National Youth Competition with DYuSSh-2 Kirovohrad."
+      ]
+    },
+    {
+      "heading": "Club Career",
+      "paragraphs": [
+        "Konoplyanka's professional career commenced at [[dnieper|Dnipro]] [[dnipro|Dnipropetrovsk]], where he debuted in the Ukrainian Premier League on 26 August 2007. During his time at Dnipro, he played 211 matches, netting 45 goals, and was instrumental in the team's journey to the 2015 UEFA Europa League Final.",
+        "In July 2015, he transferred to Sevilla on a free transfer, where he won the UEFA Europa League in his first season. Following a loan to Schalke 04, Konoplyanka returned to [[ukraine|Ukraine]] in 2019, signing with Shakhtar [[donetsk|Donetsk]]. He later had brief stints with Cracovia and CFR Cluj, where he announced his retirement from professional football on 17 July 2024."
+      ]
+    },
+    {
+      "heading": "International Career",
+      "paragraphs": [
+        "Konoplyanka was first called up to the Ukrainian national team in April 2010, making his debut on 25 May 2010. He earned over 80 caps and scored 21 goals for Ukraine, participating in the UEFA European Championships in 2012 and 2016. He played a key role [[coal-in-ukraine|in Ukraine]]'s qualification for Euro 2016, serving as captain during the playoff against Slovenia."
+      ]
+    },
+    {
+      "heading": "Achievements and Honors",
+      "paragraphs": [
+        "At the club level, Konoplyanka was part of Dnipro Dnipropetrovsk's squad that finished as runners-up in the UEFA Europa League in 2014-15 and won the Ukrainian Premier League with Shakhtar Donetsk in 2019-20. Individually, he was named Ukrainian Footballer of the Year three times (2010, 2012, 2013) and was included in the UEFA Europa League Squad of the Season for 2014-15."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "dnieper",
+    "dnipro",
+    "donetsk",
+    "kropyvnytskyi",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Yevhen Konoplyanka — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yevhen_Konoplyanka",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

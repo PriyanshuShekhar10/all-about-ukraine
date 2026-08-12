@@ -30,7 +30,7 @@
     {
       "heading": "Company Overview",
       "paragraphs": [
-        "Astarta Holding, also known as Astarta-[[kyiv|Kyiv]] and Astarta Holding PLC, is a public European company that operates as a vertically integrated agro-industrial holding in [[ukraine|Ukraine]]. Founded by Viktor Ivanchyk in March 1993, he has served as CEO since its inception. The company focuses on producing food products and has its shares listed on the Warsaw Stock Exchange since 2006 under the ticker AST."
+        "Astarta Holding, also known as Astarta-[[kyiv|Kyiv]] and Astarta Holding PLC, is a public European company that operates as a vertically integrated agro-industrial holding [[coal-in-ukraine|in Ukraine]]. Founded by Viktor Ivanchyk in March 1993, he has served as CEO since its inception. The company focuses on producing food products and has its shares listed on the Warsaw Stock Exchange since 2006 under the ticker AST."
       ]
     },
     {
@@ -38,7 +38,7 @@
       "paragraphs": [
         "Astarta's primary operations include crop production, sugar production, dairy and meat farming, soybean processing, grain logistics, and bioenergy. The company manages approximately 213 thousand hectares of agricultural land across seven regions in Ukraine, producing key crops such as sugar beet, soybeans, rapeseed, wheat, corn, and sunflower. Its annual production includes up to two million tonnes of sugar beet and one million tonnes of grains and oilseeds.",
         "In sugar production, Astarta operates refineries in the [[poltava|Poltava]], [[vinnytsia|Vinnytsia]], and Khmelnytsky regions, producing between 250,000 and 500,000 tonnes of sugar annually. The company also processes soybeans at its Globinsky plant, with a capacity of 230 thousand tonnes, producing high-protein meal and unrefined oil.",
-        "Astarta is recognized as Ukraine's largest industrial milk producer, generating 119,000 tonnes of milk annually from a cattle population exceeding 30,000 head. Additionally, the company owns a bioenergy complex capable of producing over 50 million m3 of biogas per year."
+        "Astarta is recognized as [[ukraine|Ukraine]]'s largest industrial milk producer, generating 119,000 tonnes of milk annually from a cattle population exceeding 30,000 head. Additionally, the company owns a bioenergy complex capable of producing over 50 million m3 of biogas per year."
       ]
     },
     {
@@ -63,6 +63,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "kyiv",
     "poltava",
     "ukraine",

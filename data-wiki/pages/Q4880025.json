@@ -1,0 +1,67 @@
+{
+  "qid": "Q4880025",
+  "slug": "beer-in-ukraine",
+  "title": "beer in Ukraine",
+  "type": "aspect in a geographic region",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "aspect in a geographic region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Beer production in Ukraine has a significant history and presence, with notable breweries and brands contributing to the national market. The industry has shown resilience, particularly during challenging times such as the 2022 Russian invasion of Ukraine.",
+  "sections": [
+    {
+      "heading": "Production Growth",
+      "paragraphs": [
+        "In 2011, the production of beer in Ukraine increased by 3.3%, reaching a total of 31 million hectoliters. The [[ukrainian|Ukrainian]] beer market experienced a growth of 5.5% in 2010, amounting to 28.3 million hectoliters, according to trade balance data. The market's value also rose by 18% to 22.4 billion hryvnias (approximately $2.6 billion)."
+      ]
+    },
+    {
+      "heading": "Major Breweries and Brands",
+      "paragraphs": [
+        "Prominent Ukrainian beer brands include Chernihivske, Obolon, and Lvivske. Leading brewing companies [[coal-in-ukraine|in Ukraine]] encompass Anheuser-Busch InBev, which produces local brands such as Chernihivske, Rohan, Yantar, and Chezz; Carlsberg Group [[ukraine|Ukraine]], known for brands like Slavutych, Lvivske, Arsenal, and Khmilne; and Obolon CJSC, which offers beers like Obolon, Desant, Hike, Zibert, and Magnat. Other notable breweries include Desna Brewery in [[chernihiv|Chernihiv]], Rohan Brewery in [[kharkiv-oblast|Kharkiv]], and Yantar Brewery in [[mykolaiv|Mykolaiv]]."
+      ]
+    },
+    {
+      "heading": "Local Breweries",
+      "paragraphs": [
+        "Numerous local breweries contribute to the diversity of beer in Ukraine. These include Berdychiv Brewery, Kalusky Brewery, Karpatska Brewery, Kreminsky Brewery, Krym Brewery, Lyspy Brewery, [[luhansk|Luhansk]] Brewery, [[lutsk|Lutsk]] Brewery, [[melitopol|Melitopol]] Brewery, Mikulinetsky Brovar, Brovar Brewery, Pavlivsky Brewery, Mikulychyn Brewery, Poltavpyvo, Riven Brewery, Rovenky Brewery, Savativsky Brewery, Slavutsky Brewery, Opillya Brewery, Umnpyvo, Nova Bavaria, Khmelpyvo, and Shale Brewery."
+      ]
+    },
+    {
+      "heading": "Impact of the 2022 Invasion",
+      "paragraphs": [
+        "In response to the onset of the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], [[pravda|Pravda]] Beer Theatre temporarily halted its beer production to manufacture Molotov cocktails. The brewery also disseminated its beer recipes and artwork to craft breweries globally, encouraging them to create their versions and contribute to relief efforts for Ukraine. Many international breweries began producing beer with a portion of the proceeds directed to support Ukraine, as highlighted by the initiative brewforukraine.beer. Additionally, brewmaster Jeremy Duncan collaborated with the Anheuser-Busch brewery in Newark, which produces Chernigivske, to raise funds for humanitarian aid in Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "chernihiv",
+    "coal-in-ukraine",
+    "kharkiv-oblast",
+    "luhansk",
+    "lutsk",
+    "melitopol",
+    "mykolaiv",
+    "pravda",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Beer in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Beer_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

@@ -33,7 +33,7 @@
       }
     ]
   },
-  "summary": "Nikolay Aleksandrovich Tikhonov was a prominent Soviet Russian-Ukrainian statesman who played a significant role during the Cold War, particularly as Chairman of the Council of Ministers from 1980 to 1985. His political career began in Ukraine, and he was influential in the economic and cultural administration of the Soviet Union during a period of stagnation.",
+  "summary": "Nikolay Aleksandrovich Tikhonov was a prominent Soviet Russian-Ukrainian statesman who played a significant role during the Cold War, particularly as Chairman of the Council of Ministers from 1980 to 1985. His political career began [[coal-in-ukraine|in Ukraine]], and he was influential in the economic and cultural administration of [[soviet-union|the Soviet Union]] during a period of stagnation.",
   "sections": [
     {
       "heading": "Early Life and Education",
@@ -56,7 +56,7 @@
     {
       "heading": "Later Political Developments",
       "paragraphs": [
-        "Following the death of Leonid Brezhnev and the rise of Yuri Andropov and Konstantin Chernenko, Tikhonov remained a key figure in Soviet politics. However, he faced challenges, including speculation about his replacement. With the ascension of Mikhail Gorbachev, Tikhonov's influence waned, and he was compelled to retire from active politics in 1989."
+        "Following the death of Leonid Brezhnev and the rise of Yuri Andropov and Konstantin Chernenko, Tikhonov remained a key figure in Soviet politics. However, he faced challenges, including speculation about his replacement. With the ascension of [[mikhail-gorbachev|Mikhail Gorbachev]], Tikhonov's influence waned, and he was compelled to retire from active politics in 1989."
       ]
     },
     {
@@ -73,10 +73,13 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "dnipro",
     "donetsk",
     "full-scale-russo-ukrainian-war",
     "kharkiv-oblast",
+    "mikhail-gorbachev",
+    "soviet-union",
     "ukraine",
     "ukrainian"
   ],

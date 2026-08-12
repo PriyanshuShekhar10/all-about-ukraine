@@ -33,7 +33,7 @@
       }
     ]
   },
-  "summary": "The Chernobyl Nuclear Power Plant (ChNPP) is a decommissioning nuclear power facility located in northern Ukraine, near the city of [[pripyat|Pripyat]]. It is historically significant due to the catastrophic disaster that occurred in 1986, which has had lasting impacts on nuclear safety and environmental policy in Ukraine and beyond.",
+  "summary": "The Chernobyl Nuclear Power Plant (ChNPP) is a decommissioning nuclear power facility located in northern Ukraine, near the city of [[pripyat|Pripyat]]. It is historically significant due to the catastrophic disaster that occurred in 1986, which has had lasting impacts on nuclear safety and environmental policy [[coal-in-ukraine|in Ukraine]] and beyond.",
   "sections": [
     {
       "heading": "Location and Structure",
@@ -72,6 +72,7 @@
   "links_out": [
     "chernobyl",
     "chernobyl-exclusion-zone",
+    "coal-in-ukraine",
     "dnieper",
     "full-scale-russo-ukrainian-war",
     "kyiv",

@@ -25,13 +25,13 @@
       }
     ]
   },
-  "summary": "Mezhyhirya is an estate in Ukraine that served as the residence of Viktor Yanukovych during his tenure as Prime Minister and President. It has since become a museum that reflects Yanukovych's opulent lifestyle and the controversies surrounding his administration.",
+  "summary": "Mezhyhirya is an estate [[coal-in-ukraine|in Ukraine]] that served as the residence of Viktor Yanukovych during his tenure as Prime Minister and President. It has since become a museum that reflects Yanukovych's opulent lifestyle and the controversies surrounding his administration.",
   "sections": [
     {
       "heading": "Historical Background",
       "paragraphs": [
         "Mezhyhirya was originally established as the Savior-Transfiguration Monastery, which existed until it was closed by the Bolsheviks in 1923. The site has a rich history, including a brief restoration as a female monastery at the end of the 19th century and its use as a state government residence from 1935 onward.",
-        "During World War II, the estate was occupied by Nazi officials, and it later became a state recreation complex under the Soviet Union and independent [[ukraine|Ukraine]]."
+        "During World War II, the estate was occupied by Nazi officials, and it later became a state recreation complex under [[soviet-union|the Soviet Union]] and [[independent-ukraine|independent Ukraine]]."
       ]
     },
     {
@@ -66,10 +66,12 @@
   ],
   "links_out": [
     "2022-russian-invasion-of-ukraine",
+    "coal-in-ukraine",
     "euromaidan",
+    "independent-ukraine",
     "president-of-ukraine",
     "servant-of-the-people",
-    "ukraine",
+    "soviet-union",
     "ukrainian",
     "ukrainians",
     "verkhovna-rada",

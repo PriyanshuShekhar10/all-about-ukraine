@@ -35,7 +35,7 @@
     {
       "heading": "Community Engagement and Recent Performances",
       "paragraphs": [
-        "In 2022, the National Ballet of Ukraine participated in the Ukraine Ballet Benefit in Orlando, Florida, raising over $800,000 for humanitarian efforts in Ukraine amidst the ongoing conflict. This performance was broadcasted, reaching millions and emphasizing the resilience of Ukrainian culture.",
+        "In 2022, the National Ballet of Ukraine participated in the Ukraine Ballet Benefit in Orlando, Florida, raising over $800,000 for humanitarian efforts [[coal-in-ukraine|in Ukraine]] amidst the ongoing conflict. This performance was broadcasted, reaching millions and emphasizing the resilience of Ukrainian culture.",
         "The company is set to tour North America in 2024, showcasing Ukrainian culture through performances titled 'Nadiya Ukraine', which translates to 'Hope'. This tour will include multiple cities across Canada and the eastern United States."
       ]
     },
@@ -54,6 +54,7 @@
   ],
   "links_out": [
     "2022-russian-invasion-of-ukraine",
+    "coal-in-ukraine",
     "kyiv",
     "national-opera-of-ukraine",
     "taras-shevchenko",

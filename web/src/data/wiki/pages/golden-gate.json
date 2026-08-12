@@ -1,0 +1,78 @@
+{
+  "qid": "Q1427503",
+  "slug": "golden-gate",
+  "title": "Golden Gate",
+  "type": "gate",
+  "category": "history",
+  "aliases": [
+    "Golden Gate, Kyiv"
+  ],
+  "infobox": {
+    "label": "gate",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1018",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4483, 30.5131",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Golden Gate of Kyiv served as a principal entrance in the 11th-century fortifications of Kyiv, the capital of [[kievan-rus|Kievan Rus]]'. Originally constructed between 1017 and 1024, it has undergone several reconstructions and remains a significant historical and cultural symbol [[coal-in-ukraine|in Ukraine]].",
+  "sections": [
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "The Golden Gate, known in [[ukrainian|Ukrainian]] as Золоті ворота (Zoloti vorota), was one of three main gates built by Yaroslav the Wise during the years 1017 to 1024, coinciding with the construction of [[saint-sophia-cathedral|Saint Sophia Cathedral]]. Initially referred to as the Southern Gate, it became known as the Great Gate of [[kyiv|Kyiv]] after the nearby Blahovist Church was constructed, contributing to its prominence.",
+        "The gate's passageway measured approximately 12 metres (40 ft) in height and 6 metres (20 ft) in width, serving as a Triumphal Arch for nearly five centuries. Its design was inspired by the Golden Gate of Constantinople, and it was partially destroyed in 1240 by Batu Khan's forces."
+      ]
+    },
+    {
+      "heading": "Reconstruction and Modern History",
+      "paragraphs": [
+        "The Golden Gate was dismantled in the Middle Ages, and its remnants were excavated in 1832 under Metropolitan Eugenius. A museum was established in the 1970s to showcase the gate's history. In 1982, the gate was fully reconstructed for Kyiv's 1500th anniversary, a move that sparked controversy due to the lack of surviving images of the original structure.",
+        "The reconstruction includes features such as wall segments made of Roman brick and stone, and it houses the Museum of the Golden Gate, which provides insights into the history of the gate and ancient Kyiv."
+      ]
+    },
+    {
+      "heading": "Architectural Features",
+      "paragraphs": [
+        "The original remnants of the Golden Gate consist of two wall segments, measuring 24 m (79 ft) and 13 m (43 ft) in length. The reconstructed gate features suspended slopes and wooden bunks at the top, with internal structures depicted at the ends. The façade includes warehouses, and visitors can access a balcony offering panoramic views of the city.",
+        "The medieval portions of the gate are protected as an architectural and historic monument of national significance, while the reconstructed sections are not designated as a cultural heritage site."
+      ]
+    },
+    {
+      "heading": "Cultural Context",
+      "paragraphs": [
+        "The Golden Gate's historical and cultural relevance is further emphasized by the nearby Zoloti Vorota metro station, opened in 1989, which reflects the architectural style of ancient [[ruthenian|Ruthenian]] churches. In 1997, a monument to Yaroslav the Wise was unveiled near the gate, commemorating its historical significance.",
+        "The area surrounding the Golden Gate was developed into a square in the late 19th century, and in 1972, a botanical natural monument was established, enhancing the cultural landscape of this iconic site in Kyiv."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "kievan-rus",
+    "kyiv",
+    "ruthenian",
+    "saint-sophia-cathedral",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Golden Gate, Kyiv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Golden_Gate,_Kyiv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

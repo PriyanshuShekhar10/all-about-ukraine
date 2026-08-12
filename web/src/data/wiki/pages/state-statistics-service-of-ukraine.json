@@ -1,0 +1,86 @@
+{
+  "qid": "Q7603543",
+  "slug": "state-statistics-service-of-ukraine",
+  "title": "State Statistics Service of Ukraine",
+  "type": "statistical service",
+  "category": "economy",
+  "aliases": [
+    "Derzhstat",
+    "SSSU",
+    "Statistics Ukraine",
+    "Ukrstat"
+  ],
+  "infobox": {
+    "label": "statistical service",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1920",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Head of government",
+        "value": "Arsen Makarchuk",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4395, 30.5216",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The State Statistics Service of Ukraine is the governmental agency tasked with the collection and dissemination of statistical data in Ukraine. Established in 2010, it plays a crucial role in aligning Ukrainian statistics with international standards and supporting the country's European integration efforts.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The State Statistics Service of Ukraine ([[ukrainian|Ukrainian]]: Державна служба статистики України, romanized: Derzhavna Sluzhba Statystyky Ukrainy) is the agency responsible for the collection and dissemination of statistics [[coal-in-ukraine|in Ukraine]]. Commonly referred to as Derzhstat or Ukrstat, the agency was restructured from the State Statistics Committee of [[ukraine|Ukraine]] and officially formed in 2010 following a national administrative reform."
+      ]
+    },
+    {
+      "heading": "International Cooperation",
+      "paragraphs": [
+        "The State Statistics Service actively engages with international organizations to ensure that Ukrainian statistical practices align with global standards. It participates in Eurostat programs aimed at harmonizing statistical data within the framework of Ukraine's European integration. Additionally, the agency is a member of the UN Statistical Committee and collaborates with various international institutions, including the World Bank and the International Monetary Fund.",
+        "In the context of Ukraine's integration with the European Union, the State Statistics Service plays a critical role in harmonizing Ukrainian legislation with EU standards. Representatives from the agency are involved in negotiations under Cluster 1, Fundamentals, which is essential for the negotiation process, highlighting the significance of statistics for effective integration."
+      ]
+    },
+    {
+      "heading": "Research Institutions",
+      "paragraphs": [
+        "The Science and Research Institute of Statistics is associated with the State Statistics Service and is responsible for maintaining the Classification of objects of the [[administrative-territorial-entity-of-ukraine|administrative-territorial]] system of Ukraine."
+      ]
+    },
+    {
+      "heading": "Related Topics",
+      "paragraphs": [
+        "The State Statistics Service is linked to various statistical activities in Ukraine, including the Ukrainian Census conducted in 2001 and other census activities within the country."
+      ]
+    }
+  ],
+  "links_out": [
+    "administrative-territorial-entity-of-ukraine",
+    "coal-in-ukraine",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "State Statistics Service of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/State_Statistics_Service_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

@@ -1,0 +1,78 @@
+{
+  "qid": "Q4469097",
+  "slug": "coal-in-ukraine",
+  "title": "coal in Ukraine",
+  "type": "coal industry",
+  "category": "economy",
+  "aliases": [
+    "in Ukraine"
+  ],
+  "infobox": {
+    "label": "coal industry",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Ukraine",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The coal industry has played a significant role in Ukraine's economy and energy sector, particularly in the eastern regions. Historically, Ukraine has been a major coal producer in Europe, with substantial reserves primarily located in the Donets basin.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Coal mining in Ukraine began in 1870 during its time as part of the Russian Empire. By 1913, the [[donbas|Donets basin]] was responsible for 87% of the Empire's coal production and 50% of the metallurgical coal for [[soviet-union|the Soviet Union]]. The industry contributed to social infrastructure, including schools and hospitals. By 2013, [[ukraine|Ukraine]] had become the third largest coal producer in Europe."
+      ]
+    },
+    {
+      "heading": "Coal Reserves and Production",
+      "paragraphs": [
+        "A 1996 World Bank report estimated Ukraine's coal reserves at 52 billion tonnes, with 23 billion tonnes classified as proven and probable, and 10 billion tonnes considered economically extractable. As of 2022, Ukraine held the sixth-largest coal reserves globally, with 90% located in the [[donets|Donets]] Coalfield. However, challenges such as geological depth and high operational costs hinder the economic viability of many reserves.",
+        "In 2013, coal accounted for 95% of Ukraine's domestic energy resources. The ongoing conflict in Eastern Ukraine led to restrictions on coal movement from the Donets basin, impacting national production."
+      ]
+    },
+    {
+      "heading": "Impact of Conflict on Coal Mining",
+      "paragraphs": [
+        "The [[war-in-donbas|war in Donbas]], which escalated in 2014, led to the closure of several mines and a 22.4% decrease in coal production from its 2013 levels, resulting in imports from South Africa and Russia. This situation caused significant power shortages, particularly in December 2014, when coal shortages affected coal-fired power stations and the [[zaporizhzhia|Zaporizhzhia]] Nuclear Power Plant."
+      ]
+    },
+    {
+      "heading": "Consumption and Economic Challenges",
+      "paragraphs": [
+        "In 2012, Ukraine's coal consumption reached 61.207 million tonnes, primarily for public utilities and power generation. Despite this, domestic coal only met 50% of the country's electricity needs, necessitating imports from Russia and Poland. By 2014, coal powered 38% of Ukraine's electrical generation, but economic factors made domestic coal less competitive.",
+        "In 2016, Ukraine imported 15.648 million tonnes of coal and anthracite, while exports were significantly lower at 520,585 tonnes. The government has since prioritized coal usage to reduce reliance on imported natural gas."
+      ]
+    },
+    {
+      "heading": "Safety and Corruption Issues",
+      "paragraphs": [
+        "Mine safety in Ukraine is a critical concern, particularly in the Donbas region, where geological conditions and high methane levels contribute to hazardous working environments. The Zasiadko mine, operational since 1958, exemplifies these challenges, having experienced multiple major accidents.",
+        "Additionally, the coal industry faces issues of corruption, with some mines reportedly operated by mafia-like organizations. This has resulted in underfunding, delayed salaries for workers, and a decline in production capacity."
+      ]
+    }
+  ],
+  "links_out": [
+    "donbas",
+    "donets",
+    "soviet-union",
+    "ukraine",
+    "war-in-donbas",
+    "zaporizhzhia"
+  ],
+  "sources": [
+    {
+      "title": "Coal in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Coal_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

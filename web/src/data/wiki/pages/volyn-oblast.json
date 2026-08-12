@@ -56,13 +56,13 @@
     {
       "heading": "Geography",
       "paragraphs": [
-        "Volyn Oblast, known in [[ukrainian|Ukrainian]] as Волинська область, is situated in the northwestern part of [[ukraine|Ukraine]]. The province shares borders with [[rivne-oblast|Rivne Oblast]] to the east, [[lviv-oblast|Lviv Oblast]] to the south, Poland to the west, and Belarus to the north. [[lutsk|Lutsk]] serves as the administrative center of the oblast, while Kovel is noted as the westernmost town in Ukraine, marking the last stop on the rail line connecting [[kyiv|Kyiv]] to Warsaw."
+        "Volyn Oblast, known in [[ukrainian|Ukrainian]] as Волинська область, is situated in the northwestern part of [[ukraine|Ukraine]]. The province shares borders with [[rivne-oblast|Rivne Oblast]] to the east, [[lviv-oblast|Lviv Oblast]] to the south, Poland to the west, and Belarus to the north. [[lutsk|Lutsk]] serves as the administrative center of the oblast, while Kovel is noted as the westernmost town [[coal-in-ukraine|in Ukraine]], marking the last stop on the rail line connecting [[kyiv|Kyiv]] to Warsaw."
       ]
     },
     {
       "heading": "Historical Background",
       "paragraphs": [
-        "Historically, Volyn was part of [[kievan-rus|Kievan Rus]]' and later became an independent principality within the [[kingdom-of-galiciavolhynia|Kingdom of Galicia–Volhynia]]. In the 15th century, it fell under the Grand Duchy of Lithuania's control, then passed to Poland in 1569, and subsequently became part of the Russian Empire in 1795 until World War I. During the interwar period, most of Volyn was governed as Wołyń Voivodeship under Polish authority.",
+        "Historically, [[volhynia|Volyn]] was part of [[kievan-rus|Kievan Rus]]' and later became an independent principality within the [[kingdom-of-galiciavolhynia|Kingdom of Galicia–Volhynia]]. In the 15th century, it fell under the Grand Duchy of Lithuania's control, then passed to Poland in 1569, and subsequently became part of the Russian Empire in 1795 until World War I. During the interwar period, most of Volyn was governed as Wołyń Voivodeship under Polish authority.",
         "Following the invasion of Poland in 1939, Volyn was annexed to [[ukrainian-soviet-socialist-republic|Soviet Ukraine]], officially organized as an oblast on December 4, 1939. While many [[ukrainians|Ukrainians]] celebrated this reunification, the Polish minority faced severe repression, with thousands deported to Siberia, resulting in high mortality rates in labor camps. The region was invaded by Nazi Germany in 1941, leading to significant atrocities, including the Holocaust of the Jewish population.",
         "Partisan activities began in Volyn during the German occupation, with local populations participating in resistance movements. The [[ukrainian-insurgent-army|Ukrainian Insurgent Army]] (UPA) initially allied with Nazi Germany but later turned against various ethnic groups, leading to tragic events known as the Massacres of Poles in Volhynia. The Red Army recaptured Volyn in January 1944, and post-war border adjustments integrated the region into the Ukrainian SSR, prompting the forced migration of many Poles."
       ]
@@ -94,6 +94,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "kievan-rus",
     "kingdom-of-galiciavolhynia",
     "kyiv",
@@ -105,7 +106,8 @@
     "ukrainian",
     "ukrainian-insurgent-army",
     "ukrainian-soviet-socialist-republic",
-    "ukrainians"
+    "ukrainians",
+    "volhynia"
   ],
   "sources": [
     {

@@ -1,0 +1,82 @@
+{
+  "qid": "Q188940",
+  "slug": "southern-bug",
+  "title": "Southern Bug",
+  "type": "river",
+  "category": "war",
+  "aliases": [
+    "Boh River",
+    "Buh Pivdennyi",
+    "Hipanis",
+    "Pivdennyi Buh"
+  ],
+  "infobox": {
+    "label": "river",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.6313, 26.4289",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Southern Bug, also known as Southern Buh, is a navigable river located entirely within Ukraine, recognized as the second-longest river in the country. It plays a significant role in the geography, history, and [[economy-of-ukraine|economy of Ukraine]].",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "The Southern Bug, referred to in [[ukrainian|Ukrainian]] as Південний Буг (Pivdennyi Buh), is situated [[coal-in-ukraine|in Ukraine]] and flows exclusively within its borders. The river originates in the Volhynian-Podolian Upland in [[western-ukraine|western Ukraine]], approximately 145 kilometres (90 miles) from the Polish border, and flows southeasterly into the Bug Estuary, part of the Black Sea basin. It spans a length of 806 kilometres (501 miles) and drains an area of 63,700 square kilometres (24,600 sq mi)."
+      ]
+    },
+    {
+      "heading": "Settlements",
+      "paragraphs": [
+        "Several important cities and towns in Ukraine are located along the Southern Bug. Starting from the west and moving downstream, these include Khmelnytskyi, Khmilnyk, [[vinnytsia|Vinnytsia]], Haivoron, Pervomaisk, Voznesensk, and [[mykolaiv|Mykolaiv]]."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Historically, the Southern Bug has served as an international border on multiple occasions. Following the 1768–1774 Russo-Turkish War, it became a boundary between Imperial Russia and the Ottoman Empire. During World War II, from 1941 to 1944, the river delineated the border between German-occupied [[ukraine|Ukraine]] and the Romanian-occupied region of Transnistria.",
+        "In the 16th to 18th centuries, the river was renamed Aq-su by Turkish colonists, meaning 'White river'. After the region was liberated from Turkish control in the 17th and 18th centuries, indigenous Slavic names were reinstated."
+      ]
+    },
+    {
+      "heading": "Ecology and Navigation",
+      "paragraphs": [
+        "The Southern Bug is ecologically significant, with efforts made to enhance its fish population; for instance, in October 2020, 350 kilograms (770 lb) of Hungarian carp and 50 kilograms (110 lb) of silver carp were introduced into the river at Khmelnytskyi.",
+        "The river is navigable for several kilometers from its mouth, with various river ports, including Mykolaiv. In 2011, plans were initiated to revive commercial freight navigation on the Southern Bug, particularly to support the growing grain export from Ukraine. By April 2018, freight navigation had resumed between the estuary and a newly constructed grain terminal in the village of Prybuzhany, Voznesensk Raion, within [[mykolaiv-oblast|Mykolaiv Oblast]]."
+      ]
+    },
+    {
+      "heading": "Bridges",
+      "paragraphs": [
+        "The Varvarivskyi Bridge, located in Mykolaiv, is a notable structure over the Southern Bug. It is a swing bridge with Europe's largest span of 134 meters (440 feet) and serves as the southernmost bridge across the river."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "economy-of-ukraine",
+    "mykolaiv",
+    "mykolaiv-oblast",
+    "ukraine",
+    "ukrainian",
+    "vinnytsia",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Southern Bug — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Southern_Bug",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

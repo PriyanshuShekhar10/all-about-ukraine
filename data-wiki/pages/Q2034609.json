@@ -1,0 +1,84 @@
+{
+  "qid": "Q2034609",
+  "slug": "ukrainian-national-assembly-ukrainian-national-self-defence",
+  "title": "Ukrainian National Assembly – Ukrainian National Self Defence",
+  "type": "political party",
+  "category": "history",
+  "aliases": [
+    "UNA–UNSO",
+    "Українська Національна Асамблея — Українська Народна Самооборона"
+  ],
+  "infobox": {
+    "label": "political party",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1990-11-04",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Ukrainian National Assembly – Ukrainian People's Self-Defence (UNA-UNSO) is a Ukrainian nationalist organization comprising a political wing and a paramilitary wing. Established in 1991, it has played a significant role in far-right politics in Ukraine and has participated in various international conflicts.",
+  "sections": [
+    {
+      "heading": "Formation and Early Years",
+      "paragraphs": [
+        "The [[ukrainian|Ukrainian]] National Assembly was founded on 30 June 1990 in [[lviv|Lviv]] as the Ukrainian Interparty Assembly. Following a congress in [[kyiv|Kyiv]] in November 1990, the organization evolved, and by 19 August 1991, it had formed squads of the [[ukrainians|Ukrainian People]]'s Self-Defense in response to the Soviet coup attempt. The organization was officially renamed the Ukrainian National Assembly – Ukrainian National Self-Defence after [[ukraine|Ukraine]]'s Declaration of Independence on 8 September 1991."
+      ]
+    },
+    {
+      "heading": "Political Activities and Influence",
+      "paragraphs": [
+        "The UNA-UNSO was registered as a political party in December 1994, and during the 1994 parliamentary elections, three of its members were elected to the [[verkhovna-rada|Verkhovna Rada]]. The organization gained notoriety for its anti-Russian activities, including the destruction of a Russian flag in parliament and participation in the First Chechen War alongside Chechen rebels. By the late 1990s, membership peaked at around 10,000, primarily among younger individuals."
+      ]
+    },
+    {
+      "heading": "International Conflicts",
+      "paragraphs": [
+        "UNA-UNSO members have participated in several international conflicts, including the Transnistria War, the War in [[republic-of-abkhazia|Abkhazia]], and the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]]. During the Transnistria War, they fought alongside separatists, while in Abkhazia, they supported Georgian forces against Russian-backed separatists. In the ongoing Russo-Ukrainian War, UNSO has been involved as part of various volunteer battalions."
+      ]
+    },
+    {
+      "heading": "Leadership and Structure",
+      "paragraphs": [
+        "The leadership of the UNA-UNSO has changed over the years, with notable leaders including Yuriy Shukhevych and Andriy Shkil. Following a ban imposed by the government in 1997, members responded with protests, and the organization has since undergone various transformations, including a merger with Right Sector in May 2014."
+      ]
+    },
+    {
+      "heading": "Ideology and Image",
+      "paragraphs": [
+        "The UNA-UNSO's ideology has been characterized as nationalist, envisioning Kyiv as the center of a pan-Slavic military bloc. Despite being described as a fringe movement, its visibility has had a notable impact on far-right politics [[coal-in-ukraine|in Ukraine]]. The organization's anthem is a rendition of 'Bella ciao'."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "lviv",
+    "republic-of-abkhazia",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian National Assembly – Ukrainian People's Self-Defence — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_National_Assembly_–_Ukrainian_People's_Self-Defence",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

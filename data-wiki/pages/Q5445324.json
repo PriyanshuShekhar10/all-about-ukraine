@@ -39,7 +39,7 @@
     {
       "heading": "Historical Context",
       "paragraphs": [
-        "The company was established in 1960 by the Soviet government as the '[[poltava|Poltava]] Mining and Extraction Combinat' to exploit iron ore reserves in Horishni Plavni, Ukraine. It began selling iron ore pellets in 1977. Ferrexpo plc was listed on the London Stock Exchange in June 2007, reporting a production of 8.6 million tonnes of iron ore pellets in the year preceding its listing. The company expanded its operations in 2008 and 2009 with new complexes around Horishni Plavni and Kremenchuk, and in 2011, it opened the Yeristovo mine, marking the first new mine established in Ukraine since its independence."
+        "The company was established in 1960 by the Soviet government as the '[[poltava|Poltava]] Mining and Extraction Combinat' to exploit iron ore reserves in [[horishni-plavni|Horishni Plavni]], Ukraine. It began selling iron ore pellets in 1977. Ferrexpo plc was listed on the London Stock Exchange in June 2007, reporting a production of 8.6 million tonnes of iron ore pellets in the year preceding its listing. The company expanded its operations in 2008 and 2009 with new complexes around Horishni Plavni and Kremenchuk, and in 2011, it opened the Yeristovo mine, marking the first new mine established [[coal-in-ukraine|in Ukraine]] since its independence."
       ]
     },
     {
@@ -64,7 +64,9 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "full-scale-russo-ukrainian-war",
+    "horishni-plavni",
     "poltava",
     "ukraine",
     "ukrainian"

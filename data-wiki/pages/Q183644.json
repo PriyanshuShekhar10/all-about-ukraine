@@ -1,0 +1,74 @@
+{
+  "qid": "Q183644",
+  "slug": "pravda",
+  "title": "Pravda",
+  "type": "government gazette",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "government gazette",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1912",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Russian Empire, Russian Republic",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Moscow",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Pravda is a historically significant Russian newspaper that served as the official publication of the Central Committee of the Communist Party of the Soviet Union. Its connection to Ukraine is evident through its early editorial influences and the involvement of various factions, including Ukrainian political groups, during its formative years.",
+  "sections": [
+    {
+      "heading": "Origins",
+      "paragraphs": [
+        "Pravda officially commenced publication on May 5, 1912, although its origins date back to 1903 when it was founded in Moscow by V.A. Kozhevnikov. Initially, it was a journal focused on arts, literature, and social life, lacking a political orientation.",
+        "The [[ukrainian|Ukrainian]] political party Spilka, a splinter group of the Russian Social Democratic Labour Party (RSDLP), later took control of the journal. Leon Trotsky became its editor in 1908, moving the publication to Vienna, where it gained a significant audience among Russian workers."
+      ]
+    },
+    {
+      "heading": "Political Shift and 1917 Revolution",
+      "paragraphs": [
+        "Following the February Revolution of 1917, Pravda was revived with new editors, including Vyacheslav Molotov and Alexander Shlyapnikov. However, the editorial board was soon taken over by Lev Kamenev and Joseph [[donetsk|Stalin]], who influenced the newspaper's tone towards the Provisional Government.",
+        "Pravda became an official organ of the RSDLP after the Menshevik faction was expelled in January 1912, marking a significant shift in its political alignment."
+      ]
+    },
+    {
+      "heading": "Soviet Period",
+      "paragraphs": [
+        "On March 3, 1918, Pravda's offices moved to Moscow, becoming the official publication of the Soviet Communist Party. It served as a key channel for announcing government policies until 1991, with mandatory subscriptions for state-run organizations.",
+        "Pravda was often viewed as a government mouthpiece, reflecting [[soviet-union|the Soviet Union]]'s official positions and policy changes. Various regional newspapers adopted the Pravda name, indicating its widespread influence across Soviet republics, including [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Post-Soviet Developments",
+      "paragraphs": [
+        "After the Soviet Union's dissolution, Pravda was sold to a Greek business family in 1992 and subsequently split into different entities in 1996 due to internal disputes. The Communist Party of the Russian Federation acquired the original Pravda paper, while some journalists established Pravda.ru, an online publication.",
+        "As of today, Pravda is published three times a week and continues to operate from its Moscow headquarters. The centenary celebration on May 5, 2012, highlighted its historical significance and connection to the Communist Party."
+      ]
+    }
+  ],
+  "links_out": [
+    "donetsk",
+    "soviet-union",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Pravda — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pravda",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

@@ -53,7 +53,7 @@
       }
     ]
   },
-  "summary": "Dnipro is the fourth-largest city in Ukraine, located in the eastern part of the country along the Dnipro River. With a population of approximately one million, it serves as the administrative center of Dnipropetrovsk Oblast and has a rich historical and industrial significance.",
+  "summary": "Dnipro is the fourth-largest city [[coal-in-ukraine|in Ukraine]], located in the eastern part of the country along the Dnipro River. With a population of approximately one million, it serves as the administrative center of Dnipropetrovsk Oblast and has a rich historical and industrial significance.",
   "sections": [
     {
       "heading": "Geographical and Administrative Significance",
@@ -89,6 +89,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "dnieper",
     "dnipropetrovsk-oblast",
     "euromaidan",

@@ -57,7 +57,7 @@
     {
       "heading": "Historical Context",
       "paragraphs": [
-        "The origins of military governance in Ukraine date back to 28 June 1917, with the establishment of the first military executive office under Symon Petliura. This evolved through various forms until the establishment of the Ministry of Defence in 1991, which inherited a significant military force from the Soviet Union, including 780,000 personnel and substantial military assets."
+        "The origins of military governance [[coal-in-ukraine|in Ukraine]] date back to 28 June 1917, with the establishment of the first military executive office under Symon Petliura. This evolved through various forms until the establishment of the Ministry of Defence in 1991, which inherited a significant military force from [[soviet-union|the Soviet Union]], including 780,000 personnel and substantial military assets."
       ]
     },
     {
@@ -75,7 +75,9 @@
   ],
   "links_out": [
     "armed-forces-of-ukraine",
+    "coal-in-ukraine",
     "president-of-ukraine",
+    "soviet-union",
     "ukraine",
     "ukrainian",
     "verkhovna-rada"

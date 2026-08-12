@@ -46,7 +46,7 @@
       }
     ]
   },
-  "summary": "Bakhmut is a city located in eastern Ukraine, serving as the administrative center of Bakhmut urban hromada and Bakhmut Raion in Donetsk Oblast. With a population of approximately 71,094 as of January 2022, Bakhmut has a rich history dating back to the 16th century and has been significantly impacted by various conflicts, including World War II and the ongoing Russo-Ukrainian War.",
+  "summary": "Bakhmut is a city located in eastern [[ukraine|Ukraine]], serving as the administrative center of Bakhmut urban hromada and Bakhmut Raion in Donetsk Oblast. With a population of approximately 71,094 as of January 2022, Bakhmut has a rich history dating back to the 16th century and has been significantly impacted by various conflicts, including World War II and the ongoing Russo-Ukrainian War.",
   "sections": [
     {
       "heading": "Geographical and Administrative Significance",
@@ -58,7 +58,7 @@
       "heading": "Historical Background",
       "paragraphs": [
         "Founded in the 16th century as a minor border post for the Russian state, Bakhmut's population grew significantly in the early 18th century. It served as the capital of Slavo-Serbia from 1753 to 1764, a colony established by Balkan settlers within the Russian Empire. The city received formal city status in 1783 and underwent extensive industrialization in the following centuries.",
-        "Bakhmut was known as Artemivsk from 1924 until 2016, named in honor of Bolshevik leader Fyodor Sergeyev, known as Comrade Artyom. The name change was part of a broader decommunization effort in [[ukraine|Ukraine]]."
+        "Bakhmut was known as Artemivsk from 1924 until 2016, named in honor of Bolshevik leader Fyodor Sergeyev, known as Comrade Artyom. The name change was part of a broader decommunization effort [[coal-in-ukraine|in Ukraine]]."
       ]
     },
     {
@@ -76,6 +76,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "donetsk",
     "donetsk-oblast",
     "full-scale-russo-ukrainian-war",

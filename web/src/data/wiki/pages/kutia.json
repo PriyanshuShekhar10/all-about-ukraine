@@ -16,7 +16,7 @@
     {
       "heading": "Cultural Significance in Ukraine",
       "paragraphs": [
-        "In [[ukraine|Ukraine]], kutia is one of the two essential ritual dishes served during the Christmas Eve supper, known as Svyata vecherya. Its ritual importance dates back to ancient times, with [[ukrainian|Ukrainian]] ethnographer Fedir Vovk tracing its origins to the Neolithic era.",
+        "[[coal-in-ukraine|In Ukraine]], kutia is one of the two essential ritual dishes served during the Christmas Eve supper, known as Svyata vecherya. Its ritual importance dates back to ancient times, with [[ukrainian|Ukrainian]] ethnographer Fedir Vovk tracing its origins to the Neolithic era.",
         "Before the Christmas dinner, kutia is placed in the icon corner of the home, a space reserved for religious icons, from Christmas on December 25 until New Year's Day, January 1. There is a custom of sending children with kutia to relatives, particularly grandparents and godparents."
       ]
     },
@@ -37,7 +37,7 @@
     {
       "heading": "Regional Variations",
       "paragraphs": [
-        "Kutia is also known in Poland, where it is served during Christmas Eve supper and has origins that predate Christianity. It is particularly found in eastern regions near the borders with Ukraine and Belarus.",
+        "Kutia is also known in Poland, where it is served during Christmas Eve supper and has origins that predate Christianity. It is particularly found in eastern regions near the borders with [[ukraine|Ukraine]] and Belarus.",
         "In Armenia, kutia is referred to as anoush abour, which differs in preparation by sometimes omitting poppy seeds and often includes pomegranate seeds. This dish is part of various festive occasions and is linked to communal sharing and gratitude."
       ]
     },
@@ -49,6 +49,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "ukraine",
     "ukrainian",
     "ukrainian-cuisine"

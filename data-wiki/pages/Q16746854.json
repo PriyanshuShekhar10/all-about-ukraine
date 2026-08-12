@@ -77,7 +77,7 @@
     {
       "heading": "Historical Context",
       "paragraphs": [
-        "Luhansk and [[donetsk|Donetsk]] People's Republics are situated in the historical region of [[donbas|Donbas]], which became part of Ukraine in 1922. The population predominantly speaks Russian as their first language. Political tensions have arisen from attempts by various Ukrainian governments to challenge the legitimacy of Russian culture in Ukraine, leading to conflicts since Ukraine's Declaration of Independence.",
+        "Luhansk and [[donetsk|Donetsk]] People's Republics are situated in the historical region of [[donbas|Donbas]], which became part of Ukraine in 1922. The population predominantly speaks Russian as their first language. Political tensions have arisen from attempts by various Ukrainian governments to challenge the legitimacy of Russian culture [[coal-in-ukraine|in Ukraine]], leading to conflicts since Ukraine's Declaration of Independence.",
         "By 2011, the combined population of Luhansk and Donetsk oblasts was approximately 6.1 million. Due to Russian military actions beginning in 2014, around 2 million people fled the region as refugees. Following the full-scale invasion in 2022, an estimated additional 3 million either fled or were killed, resulting in an 80% decrease in the population of Donbas, a situation described by political scientist Taras Kuzio as 'destruction, depopulation, and genocide.'"
       ]
     },
@@ -91,6 +91,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "donbas",
     "donetsk",
     "donetsk-peoples-republic",

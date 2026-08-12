@@ -38,14 +38,14 @@
       "heading": "Geographical and Historical Context",
       "paragraphs": [
         "Maidan Nezalezhnosti is located on Khreshchatyk Street in the Shevchenko Raion of [[kyiv|Kyiv]], the capital of [[ukraine|Ukraine]]. The square has evolved from a low-lying area known as Perevisyshche until the 10th century to a central commercial hub by the mid-19th century, marked by the construction of significant buildings and infrastructure.",
-        "Historically, the square has undergone several name changes, including Khreshchatyk Square in 1869, Duma Square in 1876, and Soviet Square in 1919, before being named Independence Square on 26 August 1991, shortly after Ukraine declared independence from the Soviet Union."
+        "Historically, the square has undergone several name changes, including Khreshchatyk Square in 1869, Duma Square in 1876, and Soviet Square in 1919, before being named Independence Square on 26 August 1991, shortly after Ukraine declared independence from [[soviet-union|the Soviet Union]]."
       ]
     },
     {
       "heading": "Political Significance",
       "paragraphs": [
         "Since the onset of Ukraine's independence movement in 1990, Maidan Nezalezhnosti has served as a focal point for political rallies and protests. Notable events include the 1990 Revolution on Granite, the 2001 Ukraine without Kuchma protests, the 2004 [[orange-revolution|Orange Revolution]], and the 2013–2014 [[euromaidan|Euromaidan]] demonstrations.",
-        "The square has become synonymous with political activism in Ukraine, hosting mass gatherings that have shaped the country's political landscape. The Orange Revolution, in particular, drew significant international attention as hundreds of thousands gathered to protest electoral fraud."
+        "The square has become synonymous with political activism [[coal-in-ukraine|in Ukraine]], hosting mass gatherings that have shaped the country's political landscape. The Orange Revolution, in particular, drew significant international attention as hundreds of thousands gathered to protest electoral fraud."
       ]
     },
     {
@@ -69,10 +69,12 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "euromaidan",
     "full-scale-russo-ukrainian-war",
     "kyiv",
     "orange-revolution",
+    "soviet-union",
     "ukraine",
     "ukrainian"
   ],

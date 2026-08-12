@@ -68,7 +68,7 @@
       "paragraphs": [
         "Vinnytsia Oblast is situated in the historic regions of [[podolia|Podolia]] and Right-bank Ukraine, sharing borders with seven other [[ukrainian|Ukrainian]] administrative oblasts. The [[dniester|Dniester]] River flows along the southwest boundary of the oblast, which also includes a 202 km long section of the state border with Moldova.",
         "The region is notable for its mineral resources, featuring 1,159 deposits of various minerals, including the world's largest kaolin deposits, estimated at 800 million tons. Additionally, medicinal mineral springs with health benefits similar to those found in Khmilnyk have been identified.",
-        "Vinnytsia is unique in Ukraine for its large pelicanite resources, with 39 deposits totaling about 170 million tons. The region also has lignite deposits suitable for energy production, with approximately 50 million tons preliminarily explored."
+        "Vinnytsia is unique [[coal-in-ukraine|in Ukraine]] for its large pelicanite resources, with 39 deposits totaling about 170 million tons. The region also has lignite deposits suitable for energy production, with approximately 50 million tons preliminarily explored."
       ]
     },
     {
@@ -95,6 +95,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "dniester",
     "podolia",
     "ukraine",

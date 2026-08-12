@@ -61,7 +61,7 @@
     {
       "heading": "Geography",
       "paragraphs": [
-        "Odesa Oblast is the largest oblast in [[ukraine|Ukraine]] by area, covering approximately 33,314 square kilometers (12,863 sq mi). The region features predominantly flat steppes, part of the Black Sea Lowland, and is bordered to the south by the Danube River. It boasts a coastline of about 300 km (190 mi), characterized by sandy beaches, estuaries, and lagoons.",
+        "Odesa Oblast is the largest oblast [[coal-in-ukraine|in Ukraine]] by area, covering approximately 33,314 square kilometers (12,863 sq mi). The region features predominantly flat steppes, part of the Black Sea Lowland, and is bordered to the south by the Danube River. It boasts a coastline of about 300 km (190 mi), characterized by sandy beaches, estuaries, and lagoons.",
         "The fertile soils, particularly chernozems, support intensive agriculture, with vineyards and orchards prevalent in the southwest and arable crops cultivated throughout the region."
       ]
     },
@@ -69,7 +69,7 @@
       "heading": "History",
       "paragraphs": [
         "The history of Odesa Oblast dates back to ancient times, with evidence of Neolithic cultures and Greek colonies established along the Black Sea coast. The region has seen various dominions, including the Republic of Genoa in the 14th century, the Grand Duchy of Lithuania in the 15th century, and later the Ottoman Empire.",
-        "In the late 18th century, the area came under Russian control, and it was officially designated as Odesa Oblast on 27 February 1932. The region experienced significant turmoil during the 20th century, including [[holodomor|the Holodomor]] and World War II, before becoming part of independent Ukraine following the 1991 referendum."
+        "In the late 18th century, the area came under Russian control, and it was officially designated as Odesa Oblast on 27 February 1932. The region experienced significant turmoil during the 20th century, including [[holodomor|the Holodomor]] and World War II, before becoming part of [[independent-ukraine|independent Ukraine]] following the 1991 referendum."
       ]
     },
     {
@@ -90,7 +90,7 @@
       "heading": "Cultural Significance",
       "paragraphs": [
         "Odesa Oblast is home to several points of interest, including the historic center of Odesa, which is recognized as a UNESCO World Heritage Site, along with landmarks such as the Odesa Opera, Akkerman fortress, and Potemkin Stairs.",
-        "The region's rich cultural heritage is a testament to its historical significance and diversity, contributing to its identity within Ukraine."
+        "The region's rich cultural heritage is a testament to its historical significance and diversity, contributing to its identity within [[ukraine|Ukraine]]."
       ]
     },
     {
@@ -101,7 +101,9 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "holodomor",
+    "independent-ukraine",
     "odesa",
     "ukraine",
     "ukrainian",

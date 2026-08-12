@@ -1,0 +1,91 @@
+{
+  "qid": "Q80207",
+  "slug": "lviv-university",
+  "title": "Lviv University",
+  "type": "public university",
+  "category": "people",
+  "aliases": [
+    "Ivan Franko National University of Lviv",
+    "University of Lviv"
+  ],
+  "infobox": {
+    "label": "public university",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1661",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Austrian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Main building of Lviv University",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.8405, 24.0225",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Ivan Franko National University of Lviv is a state-sponsored institution located in Lviv, [[ukraine|Ukraine]], and is recognized as the oldest university in continuous operation in [[modern-history-of-ukraine|modern Ukraine]], established in 1661. Named after the prominent Ukrainian poet Ivan Franko since 1940, the university has played a significant role in the educational and cultural landscape of Ukraine.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The university was established on 20 January 1661, when King John II Casimir granted a charter to the Jesuit Collegium, which had been founded in 1608. This charter elevated the institution to university status, reflecting the educational aspirations of the time amidst geopolitical challenges.",
+        "Throughout its history, the university has experienced various transformations, including suspensions and name changes, influenced by the shifting political landscape of [[eastern-europe|Eastern Europe]]."
+      ]
+    },
+    {
+      "heading": "Development Under Polish-Lithuanian Commonwealth and Austrian Rule",
+      "paragraphs": [
+        "In the Polish-Lithuanian Commonwealth, the university was recognized as an academy in 1758, with faculties in Theology and Philosophy. The institution faced challenges, including competition from the Jagiellonian University and resistance from local authorities.",
+        "Following the annexation of Lwów by Austria in 1772, the university was renamed Theresianum and later became a secular university in 1784 under Emperor Joseph II. The university expanded its faculties to include law and medicine, although it faced financial difficulties and temporary closures during the Napoleonic Wars."
+      ]
+    },
+    {
+      "heading": "Interwar Period and the Second Polish Republic",
+      "paragraphs": [
+        "During the Interbellum period, the university was known as Jan Kazimierz University, named in honor of its founder, and became a significant academic center in the Second Polish Republic. It was the third largest university in Poland, known for its contributions to various fields, including mathematics and law.",
+        "The university's library grew substantially, housing 420,000 volumes by September 1939. However, [[ukrainian|Ukrainian]] students faced discrimination through policies like 'Numerus clausus,' limiting their admissions."
+      ]
+    },
+    {
+      "heading": "Impact of World War II",
+      "paragraphs": [
+        "The university underwent significant changes during World War II, initially continuing under the Polish system until the Soviet administration took control in October 1939. The institution was renamed [[ivan-franko|Ivan Franko]] [[lviv|Lviv]] State University, with Ukrainian becoming the primary language of instruction.",
+        "The university faced closures and the loss of faculty members during the Nazi occupation, with over 20 Polish professors killed. Following the war, the university reopened amidst post-war border changes, leading to a demographic shift in the region."
+      ]
+    },
+    {
+      "heading": "Modern Era",
+      "paragraphs": [
+        "Since its reopening, the Ivan Franko National University of Lviv has continued to evolve, maintaining its status as a key educational institution [[coal-in-ukraine|in Ukraine]]. It has produced numerous notable scholars and continues to contribute to the cultural and intellectual life of the nation."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "eastern-europe",
+    "ivan-franko",
+    "lviv",
+    "modern-history-of-ukraine",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "University of Lviv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/University_of_Lviv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

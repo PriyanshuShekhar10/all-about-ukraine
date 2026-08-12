@@ -14,8 +14,8 @@
     {
       "heading": "Historical Significance",
       "paragraphs": [
-        "Ukrainian embroidery is an ancient tradition that has been documented as far back as 513 BC, when Herodotus noted its use by the Thracian-Dacian peoples in the region. Archaeological findings from the 1st century AD reveal embroidered clothing in [[ukraine|Ukraine]], and motifs from pre-Christian deities, such as Berehynia, have been identified in early examples.",
-        "By the 11th century, embroidered works were present in the Saint Sophia Cathedral in [[kyiv|Kyiv]], indicating the long-standing importance of this art form. Embroidery was a common practice among the populace until the 19th century, transitioning to a craft during that period. It served primarily to adorn clothing and domestic items, with the [[rushnyk|rushnyk]] being a particularly symbolic item used in various ceremonies."
+        "Ukrainian embroidery is an ancient tradition that has been documented as far back as 513 BC, when Herodotus noted its use by the Thracian-Dacian peoples in the region. Archaeological findings from the 1st century AD reveal embroidered clothing [[coal-in-ukraine|in Ukraine]], and motifs from pre-Christian deities, such as Berehynia, have been identified in early examples.",
+        "By the 11th century, embroidered works were present in the [[saint-sophia-cathedral|Saint Sophia Cathedral]] in [[kyiv|Kyiv]], indicating the long-standing importance of this art form. Embroidery was a common practice among the populace until the 19th century, transitioning to a craft during that period. It served primarily to adorn clothing and domestic items, with the [[rushnyk|rushnyk]] being a particularly symbolic item used in various ceremonies."
       ]
     },
     {
@@ -27,7 +27,7 @@
     {
       "heading": "Regional Variations",
       "paragraphs": [
-        "Ukrainian embroidery exhibits significant regional differences, yet it maintains a cohesive national style. The predominant colors are typically red and black, with various techniques employed across the country. In Central and Eastern Ukraine, geometric and plant motifs are common, while the [[poltava|Poltava]] Region is noted for its delicate color palette and white-on-white embroidery.",
+        "Ukrainian embroidery exhibits significant regional differences, yet it maintains a cohesive national style. The predominant colors are typically red and black, with various techniques employed across the country. In Central and Eastern [[ukraine|Ukraine]], geometric and plant motifs are common, while the [[poltava|Poltava]] Region is noted for its delicate color palette and white-on-white embroidery.",
         "In [[western-ukraine|Western Ukraine]], particularly in the Hutsul region, contrasting colors and geometric designs are prevalent. The Boiko region showcases a range of motifs, from simple patterns to intricate floral designs, while [[bukovina|Bukovina]] is recognized for its rich use of colors and stitches. Northern Ukraine preserves ancient needlework traditions, characterized by archaic geometric patterns."
       ]
     },
@@ -47,9 +47,11 @@
   "links_out": [
     "borshchiv",
     "bukovina",
+    "coal-in-ukraine",
     "kyiv",
     "poltava",
     "rushnyk",
+    "saint-sophia-cathedral",
     "ukraine",
     "ukrainian",
     "western-ukraine"

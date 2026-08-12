@@ -9,12 +9,12 @@
     "label": "Wikimedia disambiguation page",
     "fields": []
   },
-  "summary": "Ukrainian parliamentary elections are held to establish the membership of the Verkhovna Rada for a five-year term, reflecting the political landscape of Ukraine.",
+  "summary": "Ukrainian parliamentary elections are held to establish the membership of the Verkhovna Rada for a five-year term, reflecting the political landscape of [[ukraine|Ukraine]].",
   "sections": [
     {
       "heading": "Overview of Parliamentary Elections",
       "paragraphs": [
-        "Ukrainian parliamentary elections play a crucial role in shaping the legislative body known as the [[verkhovna-rada|Verkhovna Rada]], which serves as the highest representative authority in [[ukraine|Ukraine]]."
+        "Ukrainian parliamentary elections play a crucial role in shaping the legislative body known as the [[verkhovna-rada|Verkhovna Rada]], which serves as the highest representative authority [[coal-in-ukraine|in Ukraine]]."
       ]
     },
     {
@@ -38,6 +38,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "elections-in-ukraine",
     "ukraine",
     "ukrainian",

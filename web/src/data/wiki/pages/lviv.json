@@ -49,7 +49,7 @@
       }
     ]
   },
-  "summary": "Lviv is the fifth-largest city in Ukraine and the largest in the western region, with an estimated population of 723,403 in 2025. It serves as the administrative center of [[lviv-oblast|Lviv Oblast]] and is recognized as a key cultural hub in Ukraine.",
+  "summary": "Lviv is the fifth-largest city [[coal-in-ukraine|in Ukraine]] and the largest in the western region, with an estimated population of 723,403 in 2025. It serves as the administrative center of [[lviv-oblast|Lviv Oblast]] and is recognized as a key cultural hub in Ukraine.",
   "sections": [
     {
       "heading": "Historical Significance",
@@ -62,7 +62,7 @@
       "heading": "Cultural Heritage",
       "paragraphs": [
         "The city features a historical center characterized by cobblestone streets and a variety of architectural styles, including Renaissance, Baroque, Neo-classicist, and Art Nouveau. Lviv's historic city center is recognized as a UNESCO World Heritage Site and is currently listed as endangered due to the ongoing Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]].",
-        "Lviv is home to numerous cultural institutions, such as the Academic Symphony Orchestra of the Lviv Philharmonic and the [[lviv-theatre-of-opera-and-ballet|Lviv Theatre of Opera and Ballet]], as well as prominent educational establishments like Lviv University and [[lviv-polytechnic|Lviv Polytechnic]]."
+        "Lviv is home to numerous cultural institutions, such as the Academic Symphony Orchestra of the Lviv Philharmonic and the [[lviv-theatre-of-opera-and-ballet|Lviv Theatre of Opera and Ballet]], as well as prominent educational establishments like [[lviv-university|Lviv University]] and [[lviv-polytechnic|Lviv Polytechnic]]."
       ]
     },
     {
@@ -74,11 +74,12 @@
     {
       "heading": "Modern Developments",
       "paragraphs": [
-        "After the dissolution of the Soviet Union in 1991, Lviv remained part of [[ukraine|Ukraine]]. The city continues to play a vital role in the cultural and educational landscape of the country, reflecting its historical significance and ongoing relevance in contemporary Ukraine."
+        "After the dissolution of [[soviet-union|the Soviet Union]] in 1991, Lviv remained part of [[ukraine|Ukraine]]. The city continues to play a vital role in the cultural and educational landscape of the country, reflecting its historical significance and ongoing relevance in contemporary Ukraine."
       ]
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "full-scale-russo-ukrainian-war",
     "galicia",
     "halych",
@@ -86,7 +87,9 @@
     "lviv-oblast",
     "lviv-polytechnic",
     "lviv-theatre-of-opera-and-ballet",
+    "lviv-university",
     "ruthenian",
+    "soviet-union",
     "ukraine",
     "ukrainian",
     "western-ukraine"

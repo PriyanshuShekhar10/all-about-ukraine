@@ -1,0 +1,95 @@
+{
+  "qid": "Q148554",
+  "slug": "national-museum-of-natural-history",
+  "title": "National Museum of Natural History",
+  "type": "natural history museum",
+  "category": "culture",
+  "aliases": [
+    "Museum of Natural History",
+    "NMNH",
+    "National Museum of Natural History, Smithsonian Institution",
+    "Smithsonian National Museum of Natural History",
+    "Smithsonian's NMNH",
+    "Smithsonian's National Museum of Natural History",
+    "U.S. Museum of Natural History",
+    "USNM"
+  ],
+  "infobox": {
+    "label": "natural history museum",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1910-03-17",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "United States",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "National Mall",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "38.8913, -77.0259",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The National Museum of Natural History (NMNH) is a prominent natural history museum located in Washington, D.C., administered by the Smithsonian Institution. It houses the largest natural history collection in the world, with over 148 million specimens, and serves as a vital resource for research and education, including connections to [[ukrainian|Ukrainian]] natural history and cultural studies.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The National Museum of Natural History (NMNH) is situated on the National Mall in Washington, D.C., and is part of the Smithsonian Institution. It offers free admission and operates 364 days a year, attracting approximately 3.3 million visitors in 2025.",
+        "Since its opening in 1910, the museum has been a key facility for the Smithsonian, designed specifically to accommodate national collections and research. The main building spans an area of 1.5 million square feet (140,000 m2), including 325,000 square feet (30,200 m2) dedicated to exhibitions and public spaces, and employs over 1,000 staff members."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "The United States [[lviv-national-museum|National Museum]] was established in 1846 as part of the Smithsonian Institution, initially located in the Smithsonian Institution Building, known as the Smithsonian Castle. A formal exhibit hall was inaugurated in 1858, leading to the construction of the National Museum Building, which opened in March 1881.",
+        "On June 28, 1902, Congress authorized the construction of a new building for the museum, which opened to the public on March 17, 1910. The Neoclassical structure was the first to be built on the north side of the National Mall, following the McMillan Commission plan."
+      ]
+    },
+    {
+      "heading": "Leadership and Changes",
+      "paragraphs": [
+        "From 1981 to 2003, the museum experienced a succession of directors, including Richard S. Fiske and Robert W. Fri. Significant donations, such as a $20 million contribution from Kenneth E. Behring in 1997, were made during this period to enhance the museum's facilities.",
+        "Cristián Samper became the permanent director in 2003, overseeing the opening of major exhibits like the Behring Hall of Mammals and the Sant Hall of Oceans. His tenure was marked by controversies regarding the presentation of climate change issues in museum exhibits."
+      ]
+    },
+    {
+      "heading": "Research and Collections",
+      "paragraphs": [
+        "The NMNH's research is organized into seven departments: anthropology, botany, entomology, invertebrate zoology, mineral sciences, paleobiology, and vertebrate zoology. It represents approximately 90% of the Smithsonian's collections, making it one of the largest natural history collections globally.",
+        "The museum's holdings include 30 million insects, 4.5 million plant specimens, and 7 million fish. The National Collection of Amphibians and Reptiles has expanded significantly, reflecting the museum's commitment to biodiversity research and conservation."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "The NMNH plays an important role in the study of natural and cultural history, which includes aspects relevant to [[ukraine|Ukraine]]. The museum's extensive collections and research initiatives contribute to a broader understanding of global biodiversity and cultural heritage, including the natural [[history-of-ukraine|history of Ukraine]] and its ecological significance.",
+        "The museum's collections also include a variety of cultural artifacts, with a significant number of Native American remains, highlighting ongoing discussions about repatriation and cultural heritage."
+      ]
+    }
+  ],
+  "links_out": [
+    "history-of-ukraine",
+    "lviv-national-museum",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "National Museum of Natural History — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_Museum_of_Natural_History",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

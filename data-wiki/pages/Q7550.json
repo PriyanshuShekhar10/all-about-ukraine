@@ -69,7 +69,7 @@
     {
       "heading": "Historical Significance",
       "paragraphs": [
-        "Lutsk is first documented in 1085 and has nearly a millennium of history. It has served as an important administrative, cultural, and religious center in Volhynia. The city features several historical landmarks in diverse architectural styles, including Renaissance, Baroque, and Neoclassical, with Lubart's Castle being the most notable."
+        "Lutsk is first documented in 1085 and has nearly a millennium of history. It has served as an important administrative, cultural, and religious center in [[volhynia|Volhynia]]. The city features several historical landmarks in diverse architectural styles, including Renaissance, Baroque, and Neoclassical, with Lubart's Castle being the most notable."
       ]
     },
     {
@@ -95,16 +95,18 @@
     {
       "heading": "World War II Impact",
       "paragraphs": [
-        "During World War II, Lutsk experienced significant turmoil, first being bombed by German forces in 1939 and subsequently annexed by the Soviet Union. The city suffered from the deportation of its Polish inhabitants and the tragic events of the Katyn massacre. In 1941, Lutsk was captured by German forces, leading to further atrocities against the local population."
+        "During World War II, Lutsk experienced significant turmoil, first being bombed by German forces in 1939 and subsequently annexed by [[soviet-union|the Soviet Union]]. The city suffered from the deportation of its Polish inhabitants and the tragic events of the Katyn massacre. In 1941, Lutsk was captured by German forces, leading to further atrocities against the local population."
       ]
     }
   ],
   "links_out": [
     "khmelnytsky-uprising",
     "kievan-rus",
+    "soviet-union",
     "ukraine",
     "ukrainian",
     "ukrainians",
+    "volhynia",
     "volyn-oblast"
   ],
   "sources": [

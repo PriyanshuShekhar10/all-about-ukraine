@@ -1,0 +1,91 @@
+{
+  "qid": "Q46001",
+  "slug": "alushta",
+  "title": "Alushta",
+  "type": "city in Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "0501",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Russia, Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "208",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "6",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "50",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "44.6672, 34.3978",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Alushta is a city of regional significance located on the southern coast of the [[crimea|Crimean peninsula]], within the Autonomous Republic of Crimea, which is internationally recognized as part of [[ukraine|Ukraine]] but currently occupied by the Russian Federation. As of the 2014 Census, the city had a population of 29,078.",
+  "sections": [
+    {
+      "heading": "Geography and Climate",
+      "paragraphs": [
+        "Alushta is situated along the Black Sea coast, positioned on the route from Gurzuf to [[sudak|Sudak]] and is accessible via the Crimean Trolleybus line. The city features an arid, rocky landscape due to its proximity to the Crimean mountains. It experiences a humid subtropical climate, classified as Cfa, which is close to a hot-summer Mediterranean climate, classified as Csa."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The city has a rich history, with its name originating from Byzantine times when it was referred to as Alouston (Ἄλουστον), meaning 'Unwashed'. Remnants of a Byzantine defensive tower and a 15th-century Genoese fortress are present in the area. The name evolved to Lusta during the Genoese rule. In 1910, the Jewish population in Alushta was recorded at 544, making up 13% of the total population. By 1939, this number had decreased to 251, representing only 2.3% of the population. The city was occupied by German forces on November 4, 1941, and subsequently, tragic events occurred, including the murder of Jewish residents by SS units in late 1941."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "According to the [[ukrainian|Ukrainian]] national census conducted in 2001, Alushta's ethnic composition reflects the diverse population of the region, although specific figures are not detailed in the source material."
+      ]
+    },
+    {
+      "heading": "International Relations",
+      "paragraphs": [
+        "Alushta is twinned with several cities, promoting international cooperation and cultural exchange. The sister cities include Santa Cruz in the United States, Dzierżoniów in Poland, Äänekoski in Central Finland, and Jūrmala in Latvia."
+      ]
+    },
+    {
+      "heading": "Notable Individuals",
+      "paragraphs": [
+        "The city has been home to several notable figures, including Mykhailo Kotsiubynsky (1864–1913), a prominent Ukrainian author; Sabri Ülker (1920–2012), a Turkish businessman and founder of Ülker; Rustem Umerov (born 1982), a Ukrainian politician and former Minister of Defense; Oleksandr Vysotskyi (born 1986), a Ukrainian football player; and Oleksandr Nedovyesov (born 1987), a Ukrainian-Kazakhstani tennis player."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "sudak",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Alushta — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alushta",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

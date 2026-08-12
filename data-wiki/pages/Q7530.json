@@ -1,0 +1,92 @@
+{
+  "qid": "Q7530",
+  "slug": "volhynia",
+  "title": "Volhynia",
+  "type": "Ukrainian historical regions",
+  "category": "history",
+  "aliases": [
+    "Volyn",
+    "Volynia"
+  ],
+  "infobox": {
+    "label": "Ukrainian historical regions",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Grand Duchy of Lithuania, Russian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.7389, 25.3233",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Volhynia, a historic region in Central and [[eastern-europe|Eastern Europe]], is primarily located in northwestern Ukraine and has significant historical and cultural relevance to the country. It encompasses parts of several Ukrainian oblasts, including Volyn, [[rivne|Rivne]], and portions of [[zhytomyr|Zhytomyr]], [[ternopil|Ternopil]], and Khmelnytskyi Oblasts.",
+  "sections": [
+    {
+      "heading": "Geographical Context",
+      "paragraphs": [
+        "Volhynia is situated between southeastern Poland, southwestern Belarus, and northwestern [[ukraine|Ukraine]]. While the exact borders of the region are not distinctly defined, it generally corresponds to [[volyn-oblast|Volyn Oblast]], [[rivne-oblast|Rivne Oblast]], the western part of [[zhytomyr-oblast|Zhytomyr Oblast]], and the northern areas of Khmelnytskyi Oblast and [[ternopil-oblast|Ternopil Oblast]].",
+        "The geography of Volhynia includes the northern parts of the Volhynian-Podolian Upland and western areas of the Polesian Lowland along the [[pripyat-river|Pripyat River]] valley. It is located between the Western Bug River to the west and the upper streams of the Uzh and Teteriv rivers."
+      ]
+    },
+    {
+      "heading": "Historical Overview",
+      "paragraphs": [
+        "The earliest references to Volhynia can be found in Old East Slavic chronicles, which mention the Dulebes, Buzhans, and Volhynians. The region was likely part of [[kievan-rus|Kievan Rus]]' by the tenth century, with significant events such as Princess Olga's punitive raid against the Drevlians.",
+        "In 983, [[vladimir-the-great|Vladimir the Great]] appointed his son Vsevolod as the ruler of the Volhynian principality, and in 988, he founded the city of Volodymer. The late 12th century saw the emergence of the [[galicia|Galicia]]–Volhynia polity, which experienced several unifications and divisions until its disintegration around 1340."
+      ]
+    },
+    {
+      "heading": "Political Changes",
+      "paragraphs": [
+        "Following the disintegration of the Galicia–Volhynia polity, Volhynia was divided between the Kingdom of Poland and the Grand Duchy of Lithuania. By 1569, it was organized as a voivodeship within the Polish-Lithuanian Commonwealth. The region underwent significant demographic changes with the settlement of Poles and Jews.",
+        "After the partitions of Poland, Volhynia was annexed by the Russian Empire, becoming part of the Volhynian Governorate in 1795. The Russian government implemented substantial changes, including the suppression of the [[ukrainian-greek-catholic-church|Ukrainian Greek Catholic Church]]."
+      ]
+    },
+    {
+      "heading": "Cultural and Demographic Aspects",
+      "paragraphs": [
+        "As of 1897, Volhynia had a population of approximately 2,989,482, predominantly consisting of East Slavs (73.7 percent), with significant Jewish (13.2 percent), Polish (6.2 percent), and German (5.7 percent) communities. The area was characterized by its rural economy despite rapid development.",
+        "During World War I, Volhynia witnessed numerous battles and a revival of [[ukrainian|Ukrainian]] culture, although many local residents identified as 'Rus' or 'Little Russian' rather than Ukrainian. This prompted the establishment of Ukrainian schools by the Ukrainian [[sich-riflemen|Sich Riflemen]]."
+      ]
+    },
+    {
+      "heading": "Interwar Period and Beyond",
+      "paragraphs": [
+        "In 1919, Volhynia was incorporated into the Polish-controlled Volhynian District. The Peace of Riga in 1921 divided the region between Poland and [[soviet-union|the Soviet Union]], with Poland retaining the larger portion and establishing the Volhynian Voivodeship.",
+        "The interwar period saw mass settlement of Polish soldiers in Volhynia, which limited interaction with the Ukrainian majority. Meanwhile, the Soviet-controlled areas formed several Polish national districts and established a Ukrainian Catholic Apostolic Exarchate in 1931."
+      ]
+    }
+  ],
+  "links_out": [
+    "eastern-europe",
+    "galicia",
+    "kievan-rus",
+    "pripyat-river",
+    "rivne",
+    "rivne-oblast",
+    "sich-riflemen",
+    "soviet-union",
+    "ternopil",
+    "ternopil-oblast",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-greek-catholic-church",
+    "vladimir-the-great",
+    "volyn-oblast",
+    "zhytomyr",
+    "zhytomyr-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Volhynia — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Volhynia",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

@@ -39,7 +39,7 @@
     {
       "heading": "Participants and Objectives",
       "paragraphs": [
-        "The conference was attended by President Franklin D. Roosevelt of the United States, Prime Minister Winston Churchill of the United Kingdom, and General Secretary Joseph [[donetsk|Stalin]] of the Soviet Union. The primary aim was to establish a postwar peace framework that would ensure collective security and self-determination for liberated peoples in Europe, including those in [[ukraine|Ukraine]]."
+        "The conference was attended by President Franklin D. Roosevelt of the United States, Prime Minister Winston Churchill of the United Kingdom, and General Secretary Joseph [[donetsk|Stalin]] of [[soviet-union|the Soviet Union]]. The primary aim was to establish a postwar peace framework that would ensure collective security and self-determination for liberated peoples in Europe, including those [[coal-in-ukraine|in Ukraine]]."
       ]
     },
     {
@@ -52,7 +52,7 @@
     {
       "heading": "Impact on Ukraine and Eastern Europe",
       "paragraphs": [
-        "The decisions made at Yalta had lasting implications for Ukraine and [[eastern-europe|Eastern Europe]], as the Soviet Union solidified its influence over the region. The conference's agreements regarding Poland and the Soviet sphere of influence directly affected Ukraine's postwar status, as the Soviet Union sought to expand its territorial and political control.",
+        "The decisions made at Yalta had lasting implications for [[ukraine|Ukraine]] and [[eastern-europe|Eastern Europe]], as the Soviet Union solidified its influence over the region. The conference's agreements regarding Poland and the Soviet sphere of influence directly affected Ukraine's postwar status, as the Soviet Union sought to expand its territorial and political control.",
         "Additionally, the Declaration of Liberated Europe, which emerged from the conference, promised the establishment of democratic institutions across Europe, although the reality for many Eastern European nations, including Ukraine, would differ significantly from these ideals."
       ]
     },
@@ -65,9 +65,11 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "crimea",
     "donetsk",
     "eastern-europe",
+    "soviet-union",
     "ukraine",
     "ukrainian"
   ],

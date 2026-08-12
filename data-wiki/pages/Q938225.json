@@ -30,8 +30,8 @@
     {
       "heading": "Overview",
       "paragraphs": [
-        "The Public JSC National Nuclear Energy Generating Company 'Energoatom' was established in October 1996. It manages four nuclear power plants in [[ukraine|Ukraine]], comprising 15 reactors (13 VVER-1000 and 2 VVER-440) with a combined installed capacity of 13,835 MW. Additionally, Energoatom oversees two hydroelectric units at the Oleksandrivska Hydroelectric Plant (25 MW) and three units at the Tashlyk Pumped-Storage Power Plant (453 MW), with the third hydroelectric unit connected to the power system in 2022.",
-        "Ukraine ranks seventh globally and second in Europe for the number of operational nuclear reactors and total capacity. Energoatom supplies approximately 55% of the country's electricity. As of early 2022, the company employed 33,969 individuals."
+        "The Public JSC National Nuclear Energy Generating Company 'Energoatom' was established in October 1996. It manages four nuclear power plants [[coal-in-ukraine|in Ukraine]], comprising 15 reactors (13 VVER-1000 and 2 VVER-440) with a combined installed capacity of 13,835 MW. Additionally, Energoatom oversees two hydroelectric units at the Oleksandrivska Hydroelectric Plant (25 MW) and three units at the Tashlyk Pumped-Storage Power Plant (453 MW), with the third hydroelectric unit connected to the power system in 2022.",
+        "[[ukraine|Ukraine]] ranks seventh globally and second in Europe for the number of operational nuclear reactors and total capacity. Energoatom supplies approximately 55% of the country's electricity. As of early 2022, the company employed 33,969 individuals."
       ]
     },
     {
@@ -45,7 +45,7 @@
       "heading": "Economic Activities and Safety",
       "paragraphs": [
         "Energoatom's primary activities include electricity production, ensuring the safe operation of nuclear facilities, and maintaining readiness for emergencies. The company is responsible for purchasing nuclear fuel, managing spent fuel, and training personnel. It is classified as a strategic enterprise vital for Ukraine's economy and security.",
-        "The NPPs operated by Energoatom are considered city-forming enterprises, significantly impacting local populations in cities such as Energodar, Varash, Pivdennoukrainsk, and Netishyn."
+        "The NPPs operated by Energoatom are considered city-forming enterprises, significantly impacting local populations in cities such as [[enerhodar|Energodar]], Varash, Pivdennoukrainsk, and Netishyn."
       ]
     },
     {
@@ -66,6 +66,8 @@
   "links_out": [
     "cabinet-of-ministers-of-ukraine",
     "chernobyl-nuclear-power-plant",
+    "coal-in-ukraine",
+    "enerhodar",
     "rivne",
     "ukraine",
     "zaporizhzhia"

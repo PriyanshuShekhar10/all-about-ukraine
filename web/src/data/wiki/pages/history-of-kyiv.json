@@ -23,7 +23,7 @@
       "heading": "Origins",
       "paragraphs": [
         "The history of Kyiv, known as Kiev prior to 1991, is rooted in ancient legends and archaeological findings. According to the Primary Chronicle, early Slavic settlers called the Polyanians established the city, reportedly founded by the siblings Kyi, Shchek, Khoryv, and their sister Lybid, who named it [[kyiv|Kyiv]] after Kyi. This legend, alongside archaeological evidence, suggests that settlements existed in the area as far back as the end of the 5th century.",
-        "Archaeological studies indicate commercial activities in Kyiv's Podil district during the seventh or eighth centuries, although the city is believed to have developed into a significant urban center by the last quarter of the ninth century. Linguistic studies propose various origins for the name Kyiv, with connections to both Turkic and Proto-Slavic roots."
+        "Archaeological studies indicate commercial activities in Kyiv's [[podil|Podil]] district during the seventh or eighth centuries, although the city is believed to have developed into a significant urban center by the last quarter of the ninth century. Linguistic studies propose various origins for the name Kyiv, with connections to both Turkic and Proto-Slavic roots."
       ]
     },
     {
@@ -49,7 +49,7 @@
     {
       "heading": "Modern Era",
       "paragraphs": [
-        "Kyiv underwent significant changes during the late 19th century, prospering amid the Russian industrial revolution. Following the October Revolution of 1917, it served as the capital for several short-lived [[ukrainian|Ukrainian]] states. From December 1922, Kyiv became part of the Soviet Union and was established as the capital of [[ukrainian-soviet-socialist-republic|Soviet Ukraine]] in 1934. The city was devastated during World War II but quickly recovered, becoming the third-most important city in the Soviet Union and the capital of the second-most populous Soviet republic. Since [[ukraine|Ukraine]]'s independence in 1991, Kyiv has remained the capital of the sovereign nation."
+        "Kyiv underwent significant changes during the late 19th century, prospering amid the Russian industrial revolution. Following the October Revolution of 1917, it served as the capital for several short-lived [[ukrainian|Ukrainian]] states. From December 1922, Kyiv became part of [[soviet-union|the Soviet Union]] and was established as the capital of [[ukrainian-soviet-socialist-republic|Soviet Ukraine]] in 1934. The city was devastated during World War II but quickly recovered, becoming the third-most important city in the Soviet Union and the capital of the second-most populous Soviet republic. Since [[ukraine|Ukraine]]'s independence in 1991, Kyiv has remained the capital of the sovereign nation."
       ]
     }
   ],
@@ -57,6 +57,8 @@
     "crimean-tatars",
     "kievan-rus",
     "kyiv",
+    "podil",
+    "soviet-union",
     "ukraine",
     "ukrainian",
     "ukrainian-soviet-socialist-republic"

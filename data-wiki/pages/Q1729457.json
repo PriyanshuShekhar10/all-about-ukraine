@@ -37,7 +37,7 @@
     {
       "heading": "Geographical Boundaries",
       "paragraphs": [
-        "Western Ukraine refers to the western territories of [[ukraine|Ukraine]], though its exact boundaries are not universally defined. Typically included are the contemporary [[ukrainian|Ukrainian]] oblasts of [[chernivtsi|Chernivtsi]], [[ivano-frankivsk|Ivano-Frankivsk]], [[lviv|Lviv]], [[ternopil|Ternopil]], and [[transcarpathia|Zakarpattia]], which were part of the former Austro-Hungarian Empire. Additionally, Volyn and [[rivne|Rivne]] oblasts, annexed from the Polish–Lithuanian Commonwealth during its Third Partition, are also commonly recognized as part of this region.",
+        "Western Ukraine refers to the western territories of [[ukraine|Ukraine]], though its exact boundaries are not universally defined. Typically included are the contemporary [[ukrainian|Ukrainian]] oblasts of [[chernivtsi|Chernivtsi]], [[ivano-frankivsk|Ivano-Frankivsk]], [[lviv|Lviv]], [[ternopil|Ternopil]], and [[transcarpathia|Zakarpattia]], which were part of the former Austro-Hungarian Empire. Additionally, [[volhynia|Volyn]] and [[rivne|Rivne]] oblasts, annexed from the Polish–Lithuanian Commonwealth during its Third Partition, are also commonly recognized as part of this region.",
         "Modern sources often include Khmelnytskyi Oblast due to its geographical, linguistic, and cultural ties to Western Ukraine, although this inclusion lacks historical and political confirmation. The region encompasses several historical areas such as Carpathian Ruthenia, [[galicia|Halychyna]] (including Pokuttia), most of Volhynia, northern [[bukovina|Bukovina]], the Hertsa region, and [[podolia|Podolia]]."
       ]
     },
@@ -51,7 +51,7 @@
     {
       "heading": "World War II and Aftermath",
       "paragraphs": [
-        "During World War II, Western Ukraine was occupied by Nazi Germany, with the southern half incorporated into the semi-colonial Distrikt Galizien established on August 1, 1941. Following the war, in May 1945, the Soviet Union annexed all territories of present-day Western Ukraine into the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]. A population exchange between Poland and Soviet Ukraine occurred between 1944 and 1946, resulting in the relocation of ethnic Poles and Jews to post-war Poland and ethnic [[ukrainians|Ukrainians]] to the Ukrainian SSR."
+        "During World War II, Western Ukraine was occupied by Nazi Germany, with the southern half incorporated into the semi-colonial Distrikt Galizien established on August 1, 1941. Following the war, in May 1945, [[soviet-union|the Soviet Union]] annexed all territories of present-day Western Ukraine into the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]. A population exchange between Poland and Soviet Ukraine occurred between 1944 and 1946, resulting in the relocation of ethnic Poles and Jews to post-war Poland and ethnic [[ukrainians|Ukrainians]] to the Ukrainian SSR."
       ]
     },
     {
@@ -80,6 +80,7 @@
     "lviv",
     "podolia",
     "rivne",
+    "soviet-union",
     "ternopil",
     "transcarpathia",
     "ukraine",
@@ -87,7 +88,8 @@
     "ukrainian-carpathians",
     "ukrainian-soviet-socialist-republic",
     "ukrainians",
-    "uzhhorod"
+    "uzhhorod",
+    "volhynia"
   ],
   "sources": [
     {

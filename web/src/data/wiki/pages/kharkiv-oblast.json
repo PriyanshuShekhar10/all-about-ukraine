@@ -54,7 +54,7 @@
       }
     ]
   },
-  "summary": "Kharkiv Oblast, also known as Kharkivshchyna, is a province located in eastern Ukraine. It is the third-most populous oblast in the country and plays a significant role in Ukraine's industrial and agricultural sectors.",
+  "summary": "Kharkiv Oblast, also known as Kharkivshchyna, is a province located in eastern Ukraine. It is the third-most populous oblast in the country and plays a significant role [[coal-in-ukraine|in Ukraine]]'s industrial and agricultural sectors.",
   "sections": [
     {
       "heading": "Geographical Location",
@@ -88,7 +88,7 @@
       "heading": "Recent Developments",
       "paragraphs": [
         "During the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], Kharkiv Oblast faced significant military conflict, with parts of the region being occupied. However, a Ukrainian counteroffensive began in September 2022, resulting in the recapture of key areas.",
-        "As of 2023, fighting continues in the easternmost parts of the oblast, particularly around the Svatove–Kreminna line."
+        "As of 2023, fighting continues in the easternmost parts of the oblast, particularly around the Svatove–[[kreminna|Kreminna]] line."
       ]
     },
     {
@@ -101,10 +101,12 @@
   ],
   "links_out": [
     "2022-russian-invasion-of-ukraine",
+    "coal-in-ukraine",
     "dnipropetrovsk-oblast",
     "donetsk-oblast",
     "holodomor",
     "kharkiv",
+    "kreminna",
     "luhansk-oblast",
     "poltava-oblast",
     "sumy-oblast",

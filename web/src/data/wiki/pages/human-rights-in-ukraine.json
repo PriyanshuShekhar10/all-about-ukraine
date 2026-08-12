@@ -22,7 +22,7 @@
     {
       "heading": "Historical Context",
       "paragraphs": [
-        "Under Soviet rule, human rights in Ukraine were severely restricted, with a totalitarian regime suppressing freedom of speech and independent political activities. The Soviet Union was a one-party state until 1990, where dissent was met with punishment and movement was heavily controlled."
+        "Under Soviet rule, human rights in Ukraine were severely restricted, with a totalitarian regime suppressing freedom of speech and independent political activities. [[soviet-union|The Soviet Union]] was a one-party state until 1990, where dissent was met with punishment and movement was heavily controlled."
       ]
     },
     {
@@ -60,6 +60,7 @@
   ],
   "links_out": [
     "elections-in-ukraine",
+    "soviet-union",
     "ukraine",
     "ukrainian",
     "viktor-yanukovych"

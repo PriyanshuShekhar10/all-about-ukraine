@@ -34,7 +34,7 @@
     {
       "heading": "Academic Contributions",
       "paragraphs": [
-        "Motyl has held teaching positions at several institutions, including Columbia University, Lehigh University, the [[ukrainian|Ukrainian]] Free University, [[kyiv|Kyiv]]-Mohyla University, and Harvard University. Currently, he serves as a professor of political science at Rutgers University in Newark, New Jersey. His scholarly work encompasses eight academic books and over fifteen edited volumes, focusing on topics such as the Soviet Union, [[ukraine|Ukraine]], revolutions, and nationalism.",
+        "Motyl has held teaching positions at several institutions, including Columbia University, Lehigh University, the [[ukrainian|Ukrainian]] Free University, [[kyiv|Kyiv]]-Mohyla University, and Harvard University. Currently, he serves as a professor of political science at Rutgers University in Newark, New Jersey. His scholarly work encompasses eight academic books and over fifteen edited volumes, focusing on topics such as [[soviet-union|the Soviet Union]], [[ukraine|Ukraine]], revolutions, and nationalism.",
         "In his 2001 book, Imperial Ends, Motyl presents a theoretical framework for analyzing empires, categorizing them into continuous, discontinuous, and hybrid structures. He discusses the Russian example in his earlier work, The Post Soviet Nations."
       ]
     },
@@ -47,7 +47,7 @@
     {
       "heading": "Selected Works",
       "paragraphs": [
-        "Motyl's notable academic publications include The Turn to the Right: The Ideological Origins and Development of [[ukrainian-nationalism|Ukrainian Nationalism]], 1919-1929 (1980), Will the Non-Russians Rebel? State, Ethnicity, and Stability in the USSR (1987), and Dilemmas of Independence: Ukraine after Totalitarianism (1993). He has also co-edited significant works such as [[holodomor|The Holodomor]] Reader: A Sourcebook on the Famine of 1932-1933 in Ukraine (2012)."
+        "Motyl's notable academic publications include The Turn to the Right: The Ideological Origins and Development of [[ukrainian-nationalism|Ukrainian Nationalism]], 1919-1929 (1980), Will the Non-Russians Rebel? State, Ethnicity, and Stability in the USSR (1987), and Dilemmas of Independence: Ukraine after Totalitarianism (1993). He has also co-edited significant works such as [[holodomor|The Holodomor]] Reader: A Sourcebook on the Famine of 1932-1933 [[coal-in-ukraine|in Ukraine]] (2012)."
       ]
     },
     {
@@ -58,8 +58,10 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "holodomor",
     "kyiv",
+    "soviet-union",
     "ukraine",
     "ukrainian",
     "ukrainian-museum",

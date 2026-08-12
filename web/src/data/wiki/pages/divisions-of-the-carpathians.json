@@ -1,0 +1,60 @@
+{
+  "qid": "Q458368",
+  "slug": "divisions-of-the-carpathians",
+  "title": "divisions of the Carpathians",
+  "type": "categorization",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "categorization",
+    "fields": []
+  },
+  "summary": "The Carpathians are a significant mountain range in Ukraine, categorized into various divisions that highlight their geological and geographical complexity. This categorization includes major provinces and subdivisions, reflecting the diverse landscapes and cultural influences across the region.",
+  "sections": [
+    {
+      "heading": "Overview of Carpathian Divisions",
+      "paragraphs": [
+        "The [[carpathians|Carpathians]] are categorized into three primary provinces: Western Carpathians, Eastern Carpathians, and Southern Carpathians. This mountain system is a subsystem of the larger Alps-Himalaya System, which extends from western Europe to southern Asia."
+      ]
+    },
+    {
+      "heading": "Naming Conventions",
+      "paragraphs": [
+        "The classification of the Carpathians includes various naming conventions based on the languages of the countries involved, with specific ISO 3166-1 alpha-2 country codes assigned. For example, 'UA' represents [[ukraine|Ukraine]], while other codes denote Austria (AT), Czech Republic (CZ), Hungary (HU), Poland (PL), Romania (RO), Serbia (RS), and Slovakia (SK)."
+      ]
+    },
+    {
+      "heading": "Western Carpathians",
+      "paragraphs": [
+        "The Western Carpathians are divided into Outer and Inner subprovinces. The Outer Western Carpathians include areas such as the South-Moravian Carpathians and the Central Moravian Carpathians, while the Inner Western Carpathians feature regions like the Slovak Ore Mountains and the Fatra-Tatra Area."
+      ]
+    },
+    {
+      "heading": "Eastern Carpathians",
+      "paragraphs": [
+        "[[coal-in-ukraine|In Ukraine]], the Eastern Carpathians are recognized primarily in the northern part, north of the Prislop Pass. This province includes the Outer Eastern Carpathians, which feature subdivisions such as the Central Beskidian Piedmont and the Eastern Beskids, the latter encompassing the [[ukrainian-carpathians|Ukrainian Carpathians]]."
+      ]
+    },
+    {
+      "heading": "Cultural and Geological Significance",
+      "paragraphs": [
+        "The classification of the Carpathians reflects not only geological features but also the cultural diversity of the region. The Beskids, for instance, are classified into Western, Central, and Eastern divisions, each with distinct geological characteristics and cultural influences from the surrounding countries, including Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "carpathians",
+    "coal-in-ukraine",
+    "ukraine",
+    "ukrainian-carpathians"
+  ],
+  "sources": [
+    {
+      "title": "Divisions of the Carpathians — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Divisions_of_the_Carpathians",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

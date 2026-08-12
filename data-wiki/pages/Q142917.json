@@ -1,0 +1,83 @@
+{
+  "qid": "Q142917",
+  "slug": "mother-ukraine-monument",
+  "title": "Mother Ukraine Monument",
+  "type": "colossal statue",
+  "category": "geography",
+  "aliases": [
+    "Motherland Monument"
+  ],
+  "infobox": {
+    "label": "colossal statue",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "National Museum of the History of Ukraine in World War II",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4265, 30.5631",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Mother Ukraine Monument is a monumental statue located in Kyiv, Ukraine, symbolizing the nation's resilience and history. Originally constructed during the Soviet era, the monument has undergone significant changes, particularly in response to contemporary geopolitical events.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The Mother Ukraine Monument, known in [[ukrainian|Ukrainian]] as Батьківщина-Мати (Bat’kivszchyna-Maty), was initially named Mother Motherland, reflecting a common Soviet theme of national personification. The statue was part of a broader Soviet initiative to commemorate victory during the Second World War, specifically the Eastern Front, referred to in Soviet terms as the 'Great Patriotic War'.",
+        "On 29 July 2023, the monument's name was changed to Mother [[ukraine|Ukraine]], although as of 27 August 2023, this change had not been officially confirmed by the Ukrainian Ministry of Culture and Strategic Communications."
+      ]
+    },
+    {
+      "heading": "Design and Construction",
+      "paragraphs": [
+        "Standing at 62 meters (203 feet) tall, with a total height of 102 meters (335 feet) including its base, the statue weighs 560 tonnes. The sword in its right hand measures 16 meters (52 feet) and weighs 9 tonnes, while the shield in the left hand originally displayed the hammer and sickle emblem of [[soviet-union|the Soviet Union]].",
+        "The statue was designed by sculptor Yevgeny Vuchetich, who based it on the work of Ukrainian painter Nina Danyleiko. After Vuchetich's death in 1974, Vasyl Borodai continued the project, utilizing Halyna Kalchenko as the model. Construction began in 1979 and was completed in 1981, with the statue inaugurated on 9 May 1981."
+      ]
+    },
+    {
+      "heading": "Recent Changes and Decommunisation",
+      "paragraphs": [
+        "In 2023, amid ongoing conflict with Russia, the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] initiated the removal of Soviet symbols from the monument. On 1 August 2023, the Soviet emblem was officially removed, and the Ukrainian trident coat of arms was installed, with the process completed in preparation for Ukraine's Independence Day on 24 August.",
+        "This change was part of a broader decommunisation effort, which began in April 2015, although World War II monuments were exempt from these laws. Public support for the replacement of the Soviet imagery was significant, with 85% of consulted citizens favoring the change."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "The Mother Ukraine Monument has been featured in various cultural contexts, including the 2006 novel World War Z and the reality television series The Amazing Race 10. It also appears in the music video for the song 'Get Out' by Scottish band Frightened Rabbit, highlighting its prominence in both national and international narratives."
+      ]
+    },
+    {
+      "heading": "Controversies and Maintenance",
+      "paragraphs": [
+        "Since the dissolution of the Soviet Union, the monument has remained a topic of debate, with some advocating for its removal. Financial constraints have limited the maintenance of the monument, particularly concerning the flame that symbolizes victory, which can only be lit during major national holidays.",
+        "Concerns about the statue's structural integrity have also been raised, although the [[kyiv|Kyiv]] city government has denied claims of unstable foundations. In October 2023, it was reported that minor defects identified during inspections were addressed, concluding the decommunisation process."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "kyiv",
+    "soviet-union",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Mother Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mother_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

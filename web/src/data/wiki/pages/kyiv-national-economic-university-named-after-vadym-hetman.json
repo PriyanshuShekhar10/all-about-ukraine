@@ -29,7 +29,7 @@
       }
     ]
   },
-  "summary": "Kyiv National Economic University named after Vadym Hetman is a prominent self-governing public university located in Kyiv, Ukraine, founded in 1906. It is recognized as a leading institution for economic education in Ukraine and has been ranked highly in both national and international assessments.",
+  "summary": "Kyiv National Economic University named after Vadym Hetman is a prominent self-governing public university located in Kyiv, [[ukraine|Ukraine]], founded in 1906. It is recognized as a leading institution for economic [[education-in-ukraine|education in Ukraine]] and has been ranked highly in both national and international assessments.",
   "sections": [
     {
       "heading": "History of Formation and Development",
@@ -40,7 +40,7 @@
     {
       "heading": "General Information",
       "paragraphs": [
-        "The university is the largest economic educational establishment in [[ukraine|Ukraine]], serving approximately 15,000 students. Its academic infrastructure spans an area of 118,765 m2, which includes classrooms, seminar rooms, computer labs, and a total classroom area of 14,332.7 m2. Additionally, the university features a gym area of 6,709 m2, a stadium, and six dormitories. The mission of the university emphasizes contributing to social development through research and the education of competitive professionals."
+        "The university is the largest economic educational establishment [[coal-in-ukraine|in Ukraine]], serving approximately 15,000 students. Its academic infrastructure spans an area of 118,765 m2, which includes classrooms, seminar rooms, computer labs, and a total classroom area of 14,332.7 m2. Additionally, the university features a gym area of 6,709 m2, a stadium, and six dormitories. The mission of the university emphasizes contributing to social development through research and the education of competitive professionals."
       ]
     },
     {
@@ -69,6 +69,8 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
+    "education-in-ukraine",
     "hetman",
     "kyiv",
     "president-of-ukraine",

@@ -47,13 +47,13 @@
       }
     ]
   },
-  "summary": "Zhytomyr Oblast is a province located in northwestern Ukraine, with Zhytomyr as its administrative center. As of 2022, the population is estimated to be approximately 1,179,032, reflecting the region's significance within Ukraine.",
+  "summary": "Zhytomyr Oblast is a province located in northwestern [[ukraine|Ukraine]], with Zhytomyr as its administrative center. As of 2022, the population is estimated to be approximately 1,179,032, reflecting the region's significance within Ukraine.",
   "sections": [
     {
       "heading": "History",
       "paragraphs": [
         "Zhytomyr Oblast was established on September 22, 1937, as part of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]], formed from territories of [[vinnytsia|Vinnytsia]] and [[kyiv|Kyiv]] oblasts, as well as the Korosten and Novohrad-Volynsky okrugs.",
-        "The oblast encompasses parts of the historic regions of [[polesia|Polesia]], Volhynia, and [[podolia|Podolia]], which are depicted on its coat of arms.",
+        "The oblast encompasses parts of the historic regions of [[polesia|Polesia]], [[volhynia|Volhynia]], and [[podolia|Podolia]], which are depicted on its coat of arms.",
         "Historically, prior to the 18th century, the majority of the oblast was part of the Kyiv Voivodeship, while the smaller western section around Zviahel belonged to the Volyn Voivodeship. [[zhytomyr|Zhytomyr]] continued to serve as an administrative center for the Kyiv Voivodeship following the Treaty of Andrusovo.",
         "After the second partition of Poland, the newly annexed territories formed the Izyaslav Vice-royalty, which included former Polish lands in Volhynia, Podolia, and Kyiv, centered in Izyaslav. The Russian Empire later annexed additional territories during the third partition of Poland, leading to the dissolution of Polish statehood. Eventually, the territory of present-day Zhytomyr Oblast became part of the Russian Volhynian Governorate, with Zviahel, renamed Novohrad-Volynskyi, as its administrative center, before being moved to Zhytomyr.",
         "During the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], parts of Zhytomyr Oblast were occupied by Russian forces, but the region was fully liberated on April 4, 2022, when the Narodychi settlement hromada was declared free."
@@ -72,7 +72,7 @@
       "paragraphs": [
         "As of 2013, the estimated population of Zhytomyr Oblast was 1,268,903. According to the 2001 Ukrainian census, ethnic [[ukrainians|Ukrainians]] comprised 90.3% of the population, while ethnic Russians accounted for 5.0% and ethnic Poles for 3.5%.",
         "The demographic structure includes 15.8% of the population aged 0-14 years, 68.1% aged 15-64 years, and 16.1% aged 65 years and over, with a median age of 39.4 years.",
-        "The official language throughout Zhytomyr Oblast is Ukrainian. A moratorium on the public use of Russian-language cultural products was enacted on December 20, 2018, by the Zhytomyr Oblast Council. A 2018 poll indicated that 74% of residents supported Ukrainian as the sole state language in [[ukraine|Ukraine]]."
+        "The official language throughout Zhytomyr Oblast is Ukrainian. A moratorium on the public use of Russian-language cultural products was enacted on December 20, 2018, by the Zhytomyr Oblast Council. A 2018 poll indicated that 74% of residents supported Ukrainian as the sole state language [[coal-in-ukraine|in Ukraine]]."
       ]
     },
     {
@@ -94,6 +94,7 @@
     "2022-russian-invasion-of-ukraine",
     "chernobyl",
     "chernobyl-disaster",
+    "coal-in-ukraine",
     "kyiv",
     "podolia",
     "polesia",
@@ -102,6 +103,7 @@
     "ukrainian-soviet-socialist-republic",
     "ukrainians",
     "vinnytsia",
+    "volhynia",
     "zhytomyr"
   ],
   "sources": [

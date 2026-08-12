@@ -1,0 +1,69 @@
+{
+  "qid": "Q2305266",
+  "slug": "soviet-invasion-of-poland",
+  "title": "Soviet invasion of Poland",
+  "type": "invasion",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "invasion",
+    "fields": [
+      {
+        "label": "Location",
+        "value": "Poland",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "52.0000, 23.8000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Soviet invasion of Poland was a military operation conducted by the Soviet Union on 17 September 1939, occurring shortly after the Nazi invasion from the west. This invasion resulted in the division and annexation of Poland between the Soviet Union and Nazi Germany, significantly impacting [[ukraine|Ukraine]]'s borders and demographics.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "In early 1939, [[soviet-union|the Soviet Union]] engaged in strategic alliance negotiations with the United Kingdom and France against the militarization of Nazi Germany. The Molotov–Ribbentrop Pact, signed on 23 August 1939, included a secret protocol that outlined the division of Northern and [[eastern-europe|Eastern Europe]] into spheres of influence between Germany and the Soviet Union."
+      ]
+    },
+    {
+      "heading": "Invasion and Occupation",
+      "paragraphs": [
+        "The Soviet invasion commenced on 17 September 1939, targeting eastern Poland just 16 days after the German invasion from the west. The Red Army, significantly outnumbering Polish forces, faced limited resistance, leading to the capture of approximately 320,000 Polish soldiers as prisoners of war.",
+        "Following the invasion, the Soviet government began a campaign of mass persecution in the newly acquired territories, which included the annexation of Polish lands in November 1939. Approximately 13.5 million Polish citizens were made Soviet subjects through show elections held under the auspices of the NKVD secret police."
+      ]
+    },
+    {
+      "heading": "Repression and Deportation",
+      "paragraphs": [
+        "The Soviet regime initiated a campaign of political repression targeting Polish authority figures, resulting in numerous arrests and executions. Between 1939 and 1941, the NKVD deported hundreds of thousands of individuals from eastern Poland to Siberia and other remote areas of the Soviet Union.",
+        "The Soviet occupation of eastern Poland continued until the summer of 1941, when Germany launched Operation Barbarossa, invading the Soviet Union."
+      ]
+    },
+    {
+      "heading": "Post-War Developments",
+      "paragraphs": [
+        "After World War II, the [[yalta-conference|Yalta Conference]] allowed the Soviet Union to annex territories close to the Curzon Line, aligning with the areas specified in the Molotov–Ribbentrop Pact. The annexed regions were incorporated into the [[ukrainian|Ukrainian]], Byelorussian, and Lithuanian Soviet Socialist Republics.",
+        "On 16 August 1945, the Soviet Union signed the Polish–Soviet border agreement with the Polish Provisional Government, establishing the new official borders while returning certain territories back to Poland."
+      ]
+    }
+  ],
+  "links_out": [
+    "eastern-europe",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "yalta-conference"
+  ],
+  "sources": [
+    {
+      "title": "Soviet invasion of Poland — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Soviet_invasion_of_Poland",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

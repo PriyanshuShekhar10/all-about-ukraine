@@ -34,12 +34,12 @@
       }
     ]
   },
-  "summary": "The First Battle of Kiev, also referred to as the Kiev operation, was a significant military engagement during World War II that resulted in the encirclement of Soviet troops near Kiev, the capital of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]]. The battle, which lasted from 7 July to 26 September 1941, marked one of the largest encirclements in military history and had profound implications for the Soviet forces in Ukraine.",
+  "summary": "The First Battle of Kiev, also referred to as the Kiev operation, was a significant military engagement during World War II that resulted in the encirclement of Soviet troops near Kiev, the capital of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]]. The battle, which lasted from 7 July to 26 September 1941, marked one of the largest encirclements in military history and had profound implications for the Soviet forces [[coal-in-ukraine|in Ukraine]].",
   "sections": [
     {
       "heading": "Overview of the Battle",
       "paragraphs": [
-        "The First Battle of Kiev, known as the Battle of Kiev on the German side (German: Schlacht bei [[kyiv|Kiew]]), was a major confrontation during World War II that led to the encirclement of Soviet forces in the vicinity of Kiev. The battle occurred from 7 July to 26 September 1941 as part of Operation Barbarossa, the Axis invasion of the Soviet Union. Although Kiev was the focal point of the Soviet defenses, the city itself played a peripheral role in the overall battle, which was primarily a strategic defensive operation for the Soviets."
+        "The First Battle of Kiev, known as the Battle of Kiev on the German side (German: Schlacht bei [[kyiv|Kiew]]), was a major confrontation during World War II that led to the encirclement of Soviet forces in the vicinity of Kiev. The battle occurred from 7 July to 26 September 1941 as part of Operation Barbarossa, the Axis invasion of [[soviet-union|the Soviet Union]]. Although Kiev was the focal point of the Soviet defenses, the city itself played a peripheral role in the overall battle, which was primarily a strategic defensive operation for the Soviets."
       ]
     },
     {
@@ -69,9 +69,11 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "dnieper",
     "donetsk",
     "kyiv",
+    "soviet-union",
     "ukraine",
     "ukrainian-soviet-socialist-republic"
   ],

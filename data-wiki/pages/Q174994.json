@@ -1,0 +1,76 @@
+{
+  "qid": "Q174994",
+  "slug": "bessarabia",
+  "title": "Bessarabia",
+  "type": "historical region",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "historical region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Russian Empire, Russian Republic",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "46.8333, 29.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Bessarabia is a historical region in Eastern Europe, primarily located within modern-day Moldova, with a portion extending into Ukraine. Its complex history involves control by various empires and states, significantly impacting both Moldova and Ukraine's territorial and cultural landscapes.",
+  "sections": [
+    {
+      "heading": "Geographical Context",
+      "paragraphs": [
+        "Bessarabia is situated between the [[dniester|Dniester]] River to the east and the Prut River to the west, covering an area of 45,630 km² (17,620 sq mi). The region is predominantly characterized by hilly plains and flat steppes, known for its fertile land suitable for agriculture, including crops such as sugar beet, sunflower, and wine grapes."
+      ]
+    },
+    {
+      "heading": "Historical Overview",
+      "paragraphs": [
+        "The late 14th century marked the establishment of the Principality of Moldavia, which included what would later be recognized as Bessarabia. Over the centuries, the region experienced control by the Ottoman Empire, the Russian Empire, Romania, and [[soviet-union|the Soviet Union]], reflecting its strategic importance in [[eastern-europe|Eastern Europe]].",
+        "Following the Russo-Turkish War (1806–1812), parts of Bessarabia were ceded to the Russian Empire, which organized these territories into the Bessarabia Governorate. After the [[crimean-war|Crimean War]], some areas returned to Moldavian rule but were reannexed by Russia in 1878."
+      ]
+    },
+    {
+      "heading": "20th Century Developments",
+      "paragraphs": [
+        "In 1917, the Moldavian Democratic Republic was established amidst the Russian Revolution, leading to a brief period of independence before union with Romania. This union was contested by the Soviet Union, which later annexed Bessarabia in 1940 following the Molotov–Ribbentrop Pact. The region was integrated into the Moldavian Soviet Socialist Republic, with parts transferred to the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]].",
+        "Romania briefly regained control during World War II but lost it again in 1944. The post-war Treaty of Paris in 1947 recognized the Soviet-Romanian border along the Prut River."
+      ]
+    },
+    {
+      "heading": "Post-Soviet Era",
+      "paragraphs": [
+        "With the dissolution of the Soviet Union in 1991, both Moldova and [[ukraine|Ukraine]] emerged as independent states, maintaining the existing divisions of Bessarabia. The region has since seen the establishment of the unrecognized Pridnestrovian Moldavian Republic in Transnistria, which claims authority over parts of Bessarabia."
+      ]
+    },
+    {
+      "heading": "Cultural and Economic Significance",
+      "paragraphs": [
+        "Bessarabia's cities, including Chișinău, Bălți, and [[izmail|Izmail]], play important roles in the cultural and economic landscapes of Moldova and Ukraine. The region is known for its agricultural production and has historical significance due to its diverse cultural influences from various empires and nations."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimean-war",
+    "dniester",
+    "eastern-europe",
+    "izmail",
+    "soviet-union",
+    "ukraine",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Bessarabia — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bessarabia",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

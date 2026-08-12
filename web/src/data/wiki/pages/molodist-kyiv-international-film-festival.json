@@ -40,12 +40,12 @@
       }
     ]
   },
-  "summary": "The Molodist Kyiv International Film Festival is a prominent film festival held annually in October in Kyiv, Ukraine. Established in 1970, it has grown to become the largest film festival in the country, showcasing a diverse array of films and supporting the development of young filmmakers.",
+  "summary": "The Molodist Kyiv International Film Festival is a prominent film festival held annually in October in Kyiv, [[ukraine|Ukraine]]. Established in 1970, it has grown to become the largest film festival in the country, showcasing a diverse array of films and supporting the development of young filmmakers.",
   "sections": [
     {
       "heading": "History and Development",
       "paragraphs": [
-        "The Molodist Kyiv International Film Festival, also referred to as the Molodist International Film Festival, commenced in 1970 as a two-day event featuring 33 films produced by students of the [[kyiv|Kyiv]] State Institute of Theatrical Arts. Over the years, it has expanded significantly, presenting 439 films in 2010, which marked its status as the largest film festival in [[ukraine|Ukraine]]."
+        "The Molodist Kyiv International Film Festival, also referred to as the Molodist International Film Festival, commenced in 1970 as a two-day event featuring 33 films produced by students of the [[kyiv|Kyiv]] State Institute of Theatrical Arts. Over the years, it has expanded significantly, presenting 439 films in 2010, which marked its status as the largest film festival [[coal-in-ukraine|in Ukraine]]."
       ]
     },
     {
@@ -80,6 +80,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "kyiv",
     "ukraine"
   ],

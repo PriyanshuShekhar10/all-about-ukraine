@@ -1,0 +1,66 @@
+{
+  "qid": "Q202135",
+  "slug": "book-of-wisdom",
+  "title": "Book of Wisdom",
+  "type": "religious text",
+  "category": "culture",
+  "aliases": [
+    "Solomon's Wisdom",
+    "Wisdom",
+    "Wisdom of Solomon"
+  ],
+  "infobox": {
+    "label": "religious text",
+    "fields": []
+  },
+  "summary": "The Book of Wisdom, also referred to as the Wisdom of Solomon, is a deuterocanonical text recognized in some Christian biblical canons. It holds significance in the context of [[ukraine|Ukraine]]'s religious heritage, particularly within Eastern Orthodox and Catholic traditions.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Book of Wisdom is one of the seven sapiential books included in the Septuagint, alongside the Psalms, Book of Proverbs, Book of Ecclesiastes, Song of Songs, Book of Job, and the Wisdom of Sirach. It is recognized as part of the biblical canon by major non-Protestant Christian churches, while Protestant denominations classify it as apocryphal.",
+        "Composed in Greek by an Alexandrian Jewish author, most scholars date its composition to the first century BC, although some suggest a range from the reign of Solomon to that of Caligula."
+      ]
+    },
+    {
+      "heading": "Structure and Content",
+      "paragraphs": [
+        "The Book of Wisdom consists of 19 chapters, organized into three main sections: the Book of Eschatology, the Book of Wisdom, and the Book of History. The text addresses rulers, urging them to pursue righteousness and wisdom, contrasting the fate of the wicked with that of the just.",
+        "The work reflects themes common in ancient literature, particularly biblical wisdom literature, and is characterized by its exhortatory discourse aimed at persuading readers towards virtuous living."
+      ]
+    },
+    {
+      "heading": "Canonicity",
+      "paragraphs": [
+        "The canonicity of the Book of Wisdom has been debated since early Christian times, with references from figures such as Origen and Augustine indicating its contested status. It was ultimately recognized as canonical by several church councils, including those at Rome, Hippo, and Carthage, and is accepted as scripture by the Catholic Church and Eastern Orthodox Church.",
+        "Despite its disputed status, the book has been influential in Christian thought and practice, with references to it appearing in various theological discussions."
+      ]
+    },
+    {
+      "heading": "Composition and Historical Context",
+      "paragraphs": [
+        "Scholarly consensus suggests that the Book of Wisdom was written in Alexandria around the turn of the era, reflecting the experiences and challenges of the Jewish community in Egypt. The text employs Egyptian imagery and critiques idolatry, particularly in relation to the animal cults of Egypt.",
+        "The author likely drew from a range of sources, including the Septuagint and works of Jewish and Greek philosophy, indicating a rich Hellenistic cultural background."
+      ]
+    },
+    {
+      "heading": "Themes and Influences",
+      "paragraphs": [
+        "Central themes of the Book of Wisdom include the dichotomy of righteousness versus unrighteousness and the promise of immortality for the righteous. The figure of Lady Wisdom is emphasized, representing divine guidance and support for the faithful.",
+        "The book has influenced various aspects of Christian life and thought, including the concept of the fall of man and has been cited in memorial services and literary works, illustrating its lasting impact on religious and philosophical discourse."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Book of Wisdom — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Book_of_Wisdom",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

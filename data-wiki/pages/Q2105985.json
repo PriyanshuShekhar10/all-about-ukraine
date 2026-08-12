@@ -1,0 +1,59 @@
+{
+  "qid": "Q2105985",
+  "slug": "postbank",
+  "title": "Postbank",
+  "type": "Wikimedia disambiguation page",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "Postbank refers to various banking institutions and systems associated with postal services across different countries. This entry highlights the relevance of these institutions, including their potential connections to Ukraine and the broader context of postal banking services.",
+  "sections": [
+    {
+      "heading": "Postal Savings Systems",
+      "paragraphs": [
+        "Numerous countries have established postal savings systems, including Bulgarian Postbank, a retail bank in Bulgaria, and Deutsche Postbank, a retail bank in Germany. These institutions facilitate savings accounts and financial services, which may have implications for [[ukrainian|Ukrainian]] citizens and businesses engaging with these countries."
+      ]
+    },
+    {
+      "heading": "International Examples",
+      "paragraphs": [
+        "Examples of postal banking systems include Chunghwa Post in Taiwan, India Post Payments Bank, Japan Post Bank, and the Postal Savings Bank of China. Each of these banks serves as a financial resource within their respective nations, potentially impacting Ukrainian expatriates or businesses operating internationally."
+      ]
+    },
+    {
+      "heading": "Regional Institutions",
+      "paragraphs": [
+        "In the region, Post Bank (Russia) was established in 2016 as a joint venture between the VTB Group and Russian Post, while PostBank Uganda and Kenya Post Office Savings Bank serve their respective nations. The operations of these banks may influence cross-border financial interactions with [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Postbank N.V. was a former Dutch bank that is now part of the ING Group, while TT Hellenic Postbank operated in Greece from 1900 until 2013, with a new version founded in 2013. The evolution of such banks provides insight into the historical development of postal banking systems, which may inform discussions on similar systems [[coal-in-ukraine|in Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Architectural Significance",
+      "paragraphs": [
+        "The Austrian Postal Savings Bank, noted for its modernist architecture in Vienna, reflects the cultural and architectural significance of postal banking institutions. Such buildings may inspire similar developments in Ukraine's financial infrastructure."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Postbank — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Postbank",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

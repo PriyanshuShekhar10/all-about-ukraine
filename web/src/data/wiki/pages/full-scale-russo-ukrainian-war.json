@@ -46,7 +46,7 @@
     {
       "heading": "Background and Prelude to War",
       "paragraphs": [
-        "The conflict's roots trace back to the post-Soviet relations between Russia and [[ukraine|Ukraine]], which were initially cordial following the Soviet Union's dissolution in 1991. Ukraine's signing of the Nuclear Non-Proliferation Treaty in 1994 and the Budapest Memorandum underscored commitments to its sovereignty.",
+        "The conflict's roots trace back to the post-Soviet relations between Russia and [[ukraine|Ukraine]], which were initially cordial following [[soviet-union|the Soviet Union]]'s dissolution in 1991. Ukraine's signing of the Nuclear Non-Proliferation Treaty in 1994 and the Budapest Memorandum underscored commitments to its sovereignty.",
         "Tensions escalated with the 2013 [[euromaidan|Euromaidan]] protests against President Yanukovych's decision to reject an EU association agreement under Russian pressure, leading to his ousting in 2014. Shortly after, Russia annexed [[crimea|Crimea]] and supported separatist movements in [[donetsk|Donetsk]] and [[luhansk|Luhansk]], igniting the [[war-in-donbas|War in Donbas]]."
       ]
     },
@@ -67,16 +67,18 @@
     {
       "heading": "Economic Consequences",
       "paragraphs": [
-        "The war has inflicted significant economic costs, with estimates of over US$450 billion in direct costs for Russia and a reconstruction cost for Ukraine projected at US$588 billion by the World Bank Group. The conflict has also disrupted agricultural production and shipping in Ukraine, exacerbating global food crises and causing environmental damage described as ecocide."
+        "The war has inflicted significant economic costs, with estimates of over US$450 billion in direct costs for Russia and a reconstruction cost for Ukraine projected at US$588 billion by the World Bank Group. The conflict has also disrupted agricultural production and shipping [[coal-in-ukraine|in Ukraine]], exacerbating global food crises and causing environmental damage described as ecocide."
       ]
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "crimea",
     "donetsk",
     "euromaidan",
     "kyiv",
     "luhansk",
+    "soviet-union",
     "ukraine",
     "ukrainian",
     "ukrainians",

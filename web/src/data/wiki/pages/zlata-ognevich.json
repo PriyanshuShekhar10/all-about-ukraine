@@ -27,7 +27,7 @@
       }
     ]
   },
-  "summary": "Zlata Ognevich is a Ukrainian singer and former politician, notable for representing Ukraine in the Eurovision Song Contest 2013 and for her political involvement in the Verkhovna Rada. She has actively supported Ukrainian forces during conflicts and has been a prominent cultural figure in Ukraine.",
+  "summary": "Zlata Ognevich is a Ukrainian singer and former politician, notable for representing Ukraine in the Eurovision Song Contest 2013 and for her political involvement in the Verkhovna Rada. She has actively supported Ukrainian forces during conflicts and has been a prominent cultural figure [[coal-in-ukraine|in Ukraine]].",
   "sections": [
     {
       "heading": "Early Life",
@@ -63,6 +63,7 @@
   ],
   "links_out": [
     "armed-forces-of-ukraine",
+    "coal-in-ukraine",
     "crimea",
     "kryvyi-rih",
     "kyiv",

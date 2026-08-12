@@ -1,0 +1,57 @@
+{
+  "qid": "Q2474461",
+  "slug": "ukrainian-grammar",
+  "title": "Ukrainian grammar",
+  "type": "topic",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "topic",
+    "fields": []
+  },
+  "summary": "Ukrainian grammar is a complex system characterized by significant inflection and a relatively flexible word order, primarily following a subject-verb-object structure. It encompasses phonological, morphological, and syntactic rules that are essential for understanding the Ukrainian language.",
+  "sections": [
+    {
+      "heading": "Overview of Ukrainian Grammar",
+      "paragraphs": [
+        "Ukrainian grammar is distinguished by its high degree of inflection, featuring seven grammatical cases and two numbers for nominal declension. For verbal conjugation, it includes two aspects, three tenses, three moods, and two voices. Adjectives in [[ukrainian|Ukrainian]] must agree in number, gender, and case with the nouns they modify."
+      ]
+    },
+    {
+      "heading": "Phonological Rules",
+      "paragraphs": [
+        "Understanding Ukrainian grammar requires knowledge of its phonological rules, which simplify the learning process by reducing exceptions. Some of these rules can be traced back to Indo-European gradation, particularly in the differentiation between infinitive and present verb stems."
+      ]
+    },
+    {
+      "heading": "Vowel and Consonant Classification",
+      "paragraphs": [
+        "Ukrainian vowels can be classified historically into hard and soft categories, with modern classifications also recognizing iotated vowels. Consonants in Ukrainian are categorized into labials, post-alveolar sibilants, dentals, alveolar, and velars, each with specific phonetic characteristics and rules governing their use."
+      ]
+    },
+    {
+      "heading": "Historical and Current Changes",
+      "paragraphs": [
+        "Significant sound changes have occurred from the Common Slavic period to modern Ukrainian, including mutations in newly closed syllables and the effects of pleophony. Current changes involve palatalization and iotation processes that affect consonants when followed by specific vowels."
+      ]
+    },
+    {
+      "heading": "Morphological Structure",
+      "paragraphs": [
+        "Ukrainian nouns are categorized into seven grammatical cases, each serving distinct functions and adhering to grammatical gender. The language possesses four declension types, with specific rules governing noun endings and their corresponding plural forms."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian grammar — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_grammar",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

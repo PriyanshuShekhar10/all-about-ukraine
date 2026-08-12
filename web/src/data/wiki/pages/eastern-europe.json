@@ -39,7 +39,7 @@
     {
       "heading": "Cold War Context",
       "paragraphs": [
-        "During the Cold War from 1947 to 1991, Eastern Europe was synonymous with the Eastern Bloc, comprising communist states influenced by the Soviet Union. This geopolitical division has left a lasting impact on the region, including Ukraine, which was part of the Soviet Union until its independence in 1991."
+        "During the Cold War from 1947 to 1991, Eastern Europe was synonymous with the Eastern Bloc, comprising communist states influenced by [[soviet-union|the Soviet Union]]. This geopolitical division has left a lasting impact on the region, including Ukraine, which was part of the Soviet Union until its independence in 1991."
       ]
     },
     {
@@ -57,6 +57,7 @@
     }
   ],
   "links_out": [
+    "soviet-union",
     "ukraine",
     "ukrainian-greek-catholic-church"
   ],

@@ -22,7 +22,7 @@
       }
     ]
   },
-  "summary": "Hennadiy Valentynovych Avdyeyenko is a retired high jumper from Ukraine, born on November 4, 1963, in Odessa. He achieved significant success in athletics, representing both the USSR and Ukraine, and is known for winning gold medals at the Olympics and World Championships.",
+  "summary": "Hennadiy Valentynovych Avdyeyenko is a retired high jumper from Ukraine, born on November 4, 1963, in Odessa. He achieved significant success in athletics, representing both [[soviet-union|the USSR]] and Ukraine, and is known for winning gold medals at the Olympics and World Championships.",
   "sections": [
     {
       "heading": "Early Life and Training",
@@ -47,6 +47,7 @@
   ],
   "links_out": [
     "odesa",
+    "soviet-union",
     "ukraine"
   ],
   "sources": [

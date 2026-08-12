@@ -54,7 +54,7 @@
       }
     ]
   },
-  "summary": "The Chernobyl Exclusion Zone, also known as the 30-Kilometre Zone, is an administrative territorial entity in Ukraine established after the 1986 [[chernobyl-disaster|Chernobyl disaster]]. It encompasses approximately 2,600 km² and remains one of the most radioactive areas in the world, with significant implications for public health, environmental monitoring, and historical memory in Ukraine.",
+  "summary": "The Chernobyl Exclusion Zone, also known as the 30-Kilometre Zone, is an administrative territorial entity [[coal-in-ukraine|in Ukraine]] established after the 1986 [[chernobyl-disaster|Chernobyl disaster]]. It encompasses approximately 2,600 km² and remains one of the most radioactive areas in the world, with significant implications for public health, environmental monitoring, and historical memory in Ukraine.",
   "sections": [
     {
       "heading": "Establishment and Management",
@@ -98,6 +98,7 @@
     "chernobyl",
     "chernobyl-disaster",
     "chernobyl-nuclear-power-plant",
+    "coal-in-ukraine",
     "full-scale-russo-ukrainian-war",
     "kyiv",
     "polesia",

@@ -1,0 +1,88 @@
+{
+  "qid": "Q2378739",
+  "slug": "kharkiv-tractor-plant",
+  "title": "Kharkiv Tractor Plant",
+  "type": "business",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "business",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1931",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kharkiv, Heroes of Kharkiv Avenue",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Kharkiv Tractor Plant (KhTZ or HTZ) is a significant agricultural machinery manufacturer located in Kharkiv, Ukraine. Established in 1930-31 as part of the Soviet industrialization efforts, it became the largest tractor manufacturer in Ukraine, producing various types of tractors until its destruction during the Russian invasion of Ukraine in February 2022.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The Kharkiv Tractor Plant, situated on the southeast edge of [[kharkiv-oblast|Kharkiv]], was one of three major tractor plants built as part of [[donetsk|Stalin]]'s First Five-Year Plan. It was named after Sergo Ordzhonikidze, the Commissar for Heavy Industry. The plant aimed to enhance agricultural production through mechanization, particularly in a context where tractors were scarce [[coal-in-ukraine|in Ukraine]] during the late 1920s.",
+        "Construction began in April 1930, employing around 10,000 workers and utilizing significant resources, including 90 million bricks and 160,000 tons of steel. The plant was designed by architect Albert Kahn and completed its shell by July 1931, with full production commencing in October 1931."
+      ]
+    },
+    {
+      "heading": "Production and Development in the 1930s",
+      "paragraphs": [
+        "In October 1931, the plant began producing the SXTZ 15/30 wheel-type tractors, which were based on an American design. By 1932, the plant had produced 17,374 tractors and was awarded the Order of Lenin. The first mass-produced Soviet-designed caterpillar tractor, the SXTZ-NATI, was launched in 1937.",
+        "The plant's workforce included foreign specialists, but they faced significant challenges, including shortages and political purges. The quality of production suffered due to rushed training of engineers, leading to issues with machinery reliability."
+      ]
+    },
+    {
+      "heading": "Impact of World War II",
+      "paragraphs": [
+        "During World War II, the plant's equipment was evacuated to Siberia, where it contributed to the M. I. Kalinin Altai Tractor Plant. The original Kharkiv facility was largely destroyed during the war. After the Soviet liberation of Kharkiv in August 1943, reconstruction efforts began, and production resumed by the end of 1944."
+      ]
+    },
+    {
+      "heading": "Soviet Era to Independence",
+      "paragraphs": [
+        "From 1949, the plant produced the DT-54 diesel tractor, which became a staple in agriculture until 1962. The plant reached its peak productivity in the 1980s, manufacturing up to 70,000 tractors annually and exporting to 36 countries.",
+        "Throughout its history, the plant received several honors, including the Order of the Red Banner of Labour in 1948 and another Order of Lenin in 1967."
+      ]
+    },
+    {
+      "heading": "Post-Soviet Developments",
+      "paragraphs": [
+        "In 1994, following [[ukraine|Ukraine]]'s independence, the plant transitioned into an open joint stock company. By the early 21st century, it was producing various models of tractors and military products, including artillery tractors.",
+        "In 2016, allegations arose regarding a plot by Russian owners to dismantle the plant, which was thwarted by the [[security-service-of-ukraine|Security Service of Ukraine]], preserving its operations and workforce."
+      ]
+    },
+    {
+      "heading": "Recent Events",
+      "paragraphs": [
+        "The Kharkiv Tractor Plant was reported to have been destroyed due to extensive shelling and fires during the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in February 2022. This event marked a significant loss for Ukraine's agricultural machinery industry."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "donetsk",
+    "full-scale-russo-ukrainian-war",
+    "kharkiv-oblast",
+    "security-service-of-ukraine",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Kharkiv Tractor Plant — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kharkiv_Tractor_Plant",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

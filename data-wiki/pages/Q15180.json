@@ -1,0 +1,113 @@
+{
+  "qid": "Q15180",
+  "slug": "soviet-union",
+  "title": "Soviet Union",
+  "type": "federal republic",
+  "category": "politics",
+  "aliases": [
+    "CCCP",
+    "SU",
+    "Soviets",
+    "The Soviets",
+    "The USSR",
+    "U.S.S.R",
+    "U.S.S.R.",
+    "URS",
+    "Union of Soviet Socialist Republics",
+    "the Soviet Union",
+    "the Union of Soviet Socialist Republics"
+  ],
+  "infobox": {
+    "label": "federal republic",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1922-12-30",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Moscow",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "293,047,571",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "22,402,200",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Head of government",
+        "value": "Vladimir Lenin, Alexei Rykov",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "65.0000, 90.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Soviet Union, officially known as the Union of Soviet Socialist Republics (USSR), was a significant transcontinental entity from 1922 until its dissolution in 1991, encompassing a vast area of Eurasia, including Ukraine. As a federal union of national republics, the Soviet Union was characterized by its centralized governance and communist ideology, playing a crucial role in global events, particularly during World War II and the Cold War.",
+  "sections": [
+    {
+      "heading": "Formation and Governance",
+      "paragraphs": [
+        "The Soviet Union was established in 1922 following the Russian Civil War, evolving from the Russian Soviet Federative Socialist Republic (SFSR) founded after the October Revolution of 1917. Governed by the Communist Party under Marxism-Leninism, it operated through soviet councils, with Moscow as its capital.",
+        "The Soviet Union was a diverse multinational state, organized as a federal union of national republics, with the Russian SFSR being the largest and most populous. The government was characterized by a centrally planned economy."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The roots of the Soviet Union can be traced back to the October Revolution of 1917, led by Vladimir Lenin. Following Lenin's death in 1924, Joseph [[donetsk|Stalin]] emerged as the leader, initiating policies that included rapid industrialization and forced collectivization, which resulted in significant human suffering, including a famine in the 1930s.",
+        "During World War II, the Soviet Union suffered the highest casualties of any nation, with around 27 million deaths, and played a decisive role in defeating the Axis powers, subsequently establishing dominance over much of Central and [[eastern-europe|Eastern Europe]]."
+      ]
+    },
+    {
+      "heading": "Cold War Dynamics",
+      "paragraphs": [
+        "Post-World War II, the Soviet Union became one of the world's two superpowers, leading the Eastern Bloc against the Western Bloc during the Cold War. This period was marked by geopolitical tensions, an arms race, and proxy wars.",
+        "Under Nikita Khrushchev, the Soviet Union underwent a process of de-Stalinization, while the later leadership of Leonid Brezhnev saw economic stagnation despite some easing of relations with the United States."
+      ]
+    },
+    {
+      "heading": "Dissolution and Aftermath",
+      "paragraphs": [
+        "In the 1980s, [[mikhail-gorbachev|Mikhail Gorbachev]]'s reforms, including glasnost and perestroika, aimed to revitalize the Soviet system but instead led to increased nationalist movements within the republics. The failed coup attempt in August 1991 hastened the dissolution of the Soviet Union, which officially occurred on December 26, 1991.",
+        "Following its dissolution, [[ukraine|Ukraine]], along with other republics, declared independence, marking a significant shift in the geopolitical landscape of Eastern Europe and the post-Soviet space."
+      ]
+    },
+    {
+      "heading": "Geographical and Cultural Significance",
+      "paragraphs": [
+        "The Soviet Union was the largest country in the world, covering an area of 22,402,200 square kilometers, with Ukraine being the largest country entirely in Europe. The European portion of the USSR was culturally and economically significant, while the Asian territories were less populated.",
+        "The USSR's vast geography included diverse climates and ecosystems, contributing to its rich cultural tapestry, which included a variety of national identities, including that of Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "donetsk",
+    "eastern-europe",
+    "mikhail-gorbachev",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Soviet Union — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Soviet_Union",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

@@ -20,7 +20,7 @@
     {
       "heading": "Plot Summary",
       "paragraphs": [
-        "In the 1842 edition, the sons return from an Orthodox seminary, with Andriy developing a romantic attachment to a Polish noble girl. Taras Bulba encourages his sons to join the Cossack campaign against the Poles, who are depicted as oppressors of Orthodox Christians in Ukraine. The story follows their battles, including a siege at Dubno Castle, where Andriy's betrayal leads to tragedy.",
+        "In the 1842 edition, the sons return from an Orthodox seminary, with Andriy developing a romantic attachment to a Polish noble girl. Taras Bulba encourages his sons to join the Cossack campaign against the Poles, who are depicted as oppressors of Orthodox Christians [[coal-in-ukraine|in Ukraine]]. The story follows their battles, including a siege at Dubno Castle, where Andriy's betrayal leads to tragedy.",
         "Taras Bulba ultimately confronts his son Andriy over his allegiance to the Polish girl, resulting in a fatal confrontation. The narrative culminates in Taras's own demise, as he continues to fight against the Polish forces, emphasizing themes of loyalty and sacrifice."
       ]
     },
@@ -46,6 +46,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "cossacks",
     "history-of-the-cossacks",
     "mykola-lysenko",

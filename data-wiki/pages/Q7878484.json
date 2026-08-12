@@ -1,0 +1,85 @@
+{
+  "qid": "Q7878484",
+  "slug": "ukrainian-national-womens-league-of-america",
+  "title": "Ukrainian National Women's League of America",
+  "type": "organization",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "organization",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1925",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "United States",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "New York City",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Ukrainian National Women's League of America (UNWLA) is a Ukrainian-American charitable organization founded in 1925 in New York City, dedicated to supporting social welfare, culture, and education for Ukrainian communities both in Ukraine and the diaspora.",
+  "sections": [
+    {
+      "heading": "Organization Overview",
+      "paragraphs": [
+        "The UNWLA operates as an independent charitable and cultural organization and has received 501(c)(3) tax-exempt status from the Internal Revenue Service. Following the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in February 2022, the organization shifted its focus towards humanitarian aid and advocacy, raising approximately $750,000 for these purposes within a month, according to a report by the Diaspora Emergency Action & Coordination (DEMAC)."
+      ]
+    },
+    {
+      "heading": "Structure and Governance",
+      "paragraphs": [
+        "The internal governance of the UNWLA is outlined in its bylaws, which specify the roles and responsibilities of its various bodies. The highest decision-making body is the UNWLA Convention, which convenes every three years. The organizational structure includes a National Board, an executive committee, Regional Councils, Branches, and Members-at-Large."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Founded in 1925, the UNWLA has engaged in educational, humanitarian, and cultural initiatives. The organization emphasizes commitments to religious tolerance, political neutrality, and human rights while promoting awareness of [[ukraine|Ukraine]] and supporting the preservation of [[ukrainian|Ukrainian]] culture in the United States."
+      ]
+    },
+    {
+      "heading": "Founding and Early Activities",
+      "paragraphs": [
+        "The UNWLA was established in New York City by five Ukrainian women’s organizations, inspired by the Ukrainian Women’s League in [[western-ukraine|Western Ukraine]]. Its primary objectives included uniting Ukrainian women’s groups in the U.S., providing humanitarian support, and advocating for Ukrainian political independence. Additionally, the organization facilitated cultural and educational activities related to Ukrainian heritage and contributed to the establishment of churches, community centers, and cultural institutions."
+      ]
+    },
+    {
+      "heading": "Cultural Contributions",
+      "paragraphs": [
+        "On October 3, 1976, the UNWLA inaugurated the [[ukrainian-museum|Ukrainian Museum]] in New York City after five decades of collecting and cataloging Ukrainian artifacts. Initially located on Second Avenue, the museum became an independent institution in 1977 with its own charter. In 2005, it moved to a new facility designed by architect George Y. Sawicki, which encompasses approximately 24,000 square feet."
+      ]
+    },
+    {
+      "heading": "Participation in Broader Movements",
+      "paragraphs": [
+        "In its formative years, the UNWLA collaborated with the International Institutes of the YWCA and engaged in activities that showcased Ukrainian culture, including exhibitions and performances. The organization became an associate member of the General Federation of Women's Clubs in 1948 and was a founding member of the World Federation of Ukrainian Women's Organizations. It also joined the National Council of Women of the United States in 1952.",
+        "Since the escalation of the conflict [[coal-in-ukraine|in Ukraine]], the UNWLA has been a founding member of the American Coalition for Ukraine, advocating for Ukraine’s defense and sovereignty. Notably, its Member-at-Large, Marianna Tretiak, was elected President of the ACU, highlighting the organization's leadership role."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-museum",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian National Women's League of America — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_National_Women's_League_of_America",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

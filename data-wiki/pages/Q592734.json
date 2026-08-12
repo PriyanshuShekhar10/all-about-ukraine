@@ -1,0 +1,77 @@
+{
+  "qid": "Q592734",
+  "slug": "vernadsky-national-library-of-ukraine",
+  "title": "Vernadsky National Library of Ukraine",
+  "type": "national library",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "national library",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1918-08-02",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4042, 30.5188",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Vernadsky National Library of Ukraine (VNLU) serves as the primary academic library and scientific information center [[coal-in-ukraine|in Ukraine]], recognized as one of the largest national libraries globally. Established in 1918, it is located in Kyiv and houses approximately 15 million items, including significant collections of Slavic writings and archives related to Ukrainian scientists and cultural figures.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The Vernadsky National Library of Ukraine is the largest library in the country and serves as its main academic library and scientific information hub. Founded on 2 August 1918 by [[hetman|Hetman]] Pavlo Skoropadskyi, the library's Provisional Committee was established shortly thereafter, led by mineralogist Vladimir Vernadsky.",
+        "During World War II, specifically in August 1941, the library was evacuated to Ufa, where it was situated in the State Pedagogical Institute until its return to [[kyiv|Kyiv]] in May 1944. The current building was constructed between 1975 and 1989, featuring 27 floors and covering an area of 35,700 square meters (384,000 sq ft) with a roof height of 76.81 meters (252.0 ft).",
+        "The library has undergone several name changes throughout the 20th century, reflecting its evolving role in [[ukrainian|Ukrainian]] society and academia."
+      ]
+    },
+    {
+      "heading": "Holdings",
+      "paragraphs": [
+        "The Vernadsky National Library of Ukraine's collection exceeds 15 million items, primarily derived from extensive book collections of the 18th and 19th centuries. As a depository library, it systematically acquires new materials, receiving between 160,000 to 180,000 documents annually, including all Ukrainian publications and copies of candidate and doctoral theses.",
+        "The library maintains exchanges with over 1,500 research and academic institutions across 80 countries. As a United Nations depository library since 1964, it also receives all English and Russian language publications from the UN and its specialized agencies.",
+        "Notably, the library possesses significant collections of manuscripts, rare printed books, and incunabula, including the most comprehensive collection of Slavic writings and the Peresopnytsia Gospels, a prominent East Slavic manuscript."
+      ]
+    },
+    {
+      "heading": "Collections",
+      "paragraphs": [
+        "The library's collections encompass works related to the history and [[culture-of-ukraine|culture of Ukraine]] and its neighboring regions. Among its holdings are some of the oldest and rarest documents in the country, including the only surviving manuscript composition by the 18th-century Ukrainian composer Artemy Vedel.",
+        "The Orsha Gospel, dating back to the late 13th century, is one of the library's notable artifacts. This book is significant as one of the oldest Belarusian texts and features early Cyrillic script. Discovered by Napoleon's troops in 1812 after being discarded by a monastery, it was donated to the Kyiv Theological Academy in 1874.",
+        "Additionally, the library holds five first edition copies of 'Eneida,' the epic poem by [[ivan-kotliarevskyi|Ivan Kotliarevsky]], which is recognized as the first literary work written in common Ukrainian and the first to address Ukrainian culture and history."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "culture-of-ukraine",
+    "hetman",
+    "ivan-kotliarevskyi",
+    "kyiv",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Vernadsky National Library of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vernadsky_National_Library_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

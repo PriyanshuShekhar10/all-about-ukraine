@@ -23,7 +23,7 @@
       }
     ]
   },
-  "summary": "Ostap Bender is a fictional character created by Soviet authors Ilya Ilf and Yevgeny Petrov, serving as the central antihero in the novels The Twelve Chairs (1928) and The Little Golden Calf (1931). His character, originating from Odesa, embodies themes of entrepreneurship and satire relevant to the socio-economic landscape of Ukraine and the Soviet Union.",
+  "summary": "Ostap Bender is a fictional character created by Soviet authors Ilya Ilf and Yevgeny Petrov, serving as the central antihero in the novels The Twelve Chairs (1928) and The Little Golden Calf (1931). His character, originating from Odesa, embodies themes of entrepreneurship and satire relevant to the socio-economic landscape of [[ukraine|Ukraine]] and the Soviet Union.",
   "sections": [
     {
       "heading": "Literary Background",
@@ -41,7 +41,7 @@
     {
       "heading": "Plot Overview",
       "paragraphs": [
-        "In The Twelve Chairs, set in the Soviet Union during 1927, Bender seeks hidden diamonds within twelve chairs, ultimately facing betrayal from his partner, Ippolit Matveyevich Vorobyaninov. The sequel, The Little Golden Calf, published in 1931, sees Bender alive, humorously explaining his survival after a near-fatal incident. This novel satirizes aspects of Soviet life as Bender attempts to accumulate wealth from the underground millionaire Koreiko, only to find himself unable to utilize his gains within the USSR."
+        "In The Twelve Chairs, set in [[soviet-union|the Soviet Union]] during 1927, Bender seeks hidden diamonds within twelve chairs, ultimately facing betrayal from his partner, Ippolit Matveyevich Vorobyaninov. The sequel, The Little Golden Calf, published in 1931, sees Bender alive, humorously explaining his survival after a near-fatal incident. This novel satirizes aspects of Soviet life as Bender attempts to accumulate wealth from the underground millionaire Koreiko, only to find himself unable to utilize his gains within the USSR."
       ]
     },
     {
@@ -54,12 +54,14 @@
     {
       "heading": "Legacy and Commemoration",
       "paragraphs": [
-        "Ostap Bender's legacy continues to resonate in contemporary culture, with statues erected in various cities, including a commemorative plaque in Odesa, the city of his fictional origin. His character's evolution from a mere con man to an emblem of entrepreneurship reflects the changing perceptions of economic ambition in [[ukraine|Ukraine]] and the broader post-Soviet context."
+        "Ostap Bender's legacy continues to resonate in contemporary culture, with statues erected in various cities, including a commemorative plaque in Odesa, the city of his fictional origin. His character's evolution from a mere con man to an emblem of entrepreneurship reflects the changing perceptions of economic ambition [[coal-in-ukraine|in Ukraine]] and the broader post-Soviet context."
       ]
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "odesa",
+    "soviet-union",
     "ukraine"
   ],
   "sources": [

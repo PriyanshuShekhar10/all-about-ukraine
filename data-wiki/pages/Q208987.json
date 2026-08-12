@@ -48,7 +48,7 @@
     {
       "heading": "Geographical Features",
       "paragraphs": [
-        "Polesia is characterized by its marshy landscape along the Pripyat River, spanning Southern Belarus, Northern [[ukraine|Ukraine]] (including the Volyn, [[rivne|Rivne]], [[zhytomyr|Zhytomyr]], Kyiv, and [[chernihiv|Chernihiv]] Oblasts), and parts of Poland. The region is a flatland within the drainage basins of the Western Bug and [[pripyat|Pripyat]] rivers, which are connected by the [[dnieper|Dnieper]]-Bug Canal, constructed during the reign of Stanislaus II of Poland.",
+        "Polesia is characterized by its marshy landscape along the Pripyat River, spanning Southern Belarus, Northern [[ukraine|Ukraine]] (including the [[volhynia|Volyn]], [[rivne|Rivne]], [[zhytomyr|Zhytomyr]], Kyiv, and [[chernihiv|Chernihiv]] Oblasts), and parts of Poland. The region is a flatland within the drainage basins of the Western Bug and [[pripyat|Pripyat]] rivers, which are connected by the [[dnieper|Dnieper]]-Bug Canal, constructed during the reign of Stanislaus II of Poland.",
         "Key tributaries of the Pripyat River include the Horyn, Stokhid, Styr, Ptsich, and Yaselda rivers. Major towns in the Pripyat basin consist of Pinsk, Stolin, and Davyd-Haradok. From the 1960s to the 1980s, extensive marshlands were drained for agricultural purposes."
       ]
     },
@@ -61,7 +61,7 @@
     {
       "heading": "Tourism and Conservation",
       "paragraphs": [
-        "The Polish segment of Polesia features the Polesie National Park, established in 1990, which spans 97.6 square kilometers. This park, along with adjacent areas, forms part of the UNESCO-designated West Polesie Biosphere Reserve, which borders the Shatsk Biosphere Reserve in Ukraine. Additionally, the region's wooden architectural structures were added to the UNESCO World Heritage Tentative List on January 30, 2004."
+        "The Polish segment of Polesia features the Polesie National Park, established in 1990, which spans 97.6 square kilometers. This park, along with adjacent areas, forms part of the UNESCO-designated West Polesie Biosphere Reserve, which borders the Shatsk Biosphere Reserve [[coal-in-ukraine|in Ukraine]]. Additionally, the region's wooden architectural structures were added to the UNESCO World Heritage Tentative List on January 30, 2004."
       ]
     }
   ],
@@ -70,6 +70,7 @@
     "chernihiv",
     "chernobyl-disaster",
     "chernobyl-exclusion-zone",
+    "coal-in-ukraine",
     "dnieper",
     "eastern-europe",
     "kyiv",
@@ -78,6 +79,7 @@
     "rivne",
     "rivne-oblast",
     "ukraine",
+    "volhynia",
     "western-ukraine",
     "zhytomyr"
   ],

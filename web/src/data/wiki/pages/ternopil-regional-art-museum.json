@@ -35,7 +35,7 @@
     {
       "heading": "Foundation and History",
       "paragraphs": [
-        "The Ternopil Regional Art Museum was founded on May 1, 1991, originating from a former art gallery that was part of the regional ethnography museum. Its roots trace back to the Podil'skyi Regional Museum, which was inaugurated on April 13, 1913, by Professor S. Sorokivskyi, who also created the first museum guide.",
+        "The Ternopil Regional Art Museum was founded on May 1, 1991, originating from a former art gallery that was part of the regional ethnography museum. Its roots trace back to the [[podil|Podil]]'skyi Regional Museum, which was inaugurated on April 13, 1913, by Professor S. Sorokivskyi, who also created the first museum guide.",
         "The museum's collection has faced challenges, including destruction during the First World War, but it was restored in 1925. Initially, it consisted of four sections: historical, ethnographic, modern art, and nature, with a focus on regional art.",
         "The museum was officially reopened on November 9, 1930, and its collections were further enriched in 1939 with works from nationalized collections. After a hiatus during World War II, it resumed operations on July 15, 1945."
       ]
@@ -57,11 +57,13 @@
     {
       "heading": "Leadership",
       "paragraphs": [
-        "Ihor Duda served as the director of the Ternopil Regional Art Museum from its founding in 1991 until 2021. Hryhorii Sherhei has been the director since 2021, continuing the museum's mission to promote and preserve art in Ukraine."
+        "Ihor Duda served as the director of the Ternopil Regional Art Museum from its founding in 1991 until 2021. Hryhorii Sherhei has been the director since 2021, continuing the museum's mission to promote and preserve art [[coal-in-ukraine|in Ukraine]]."
       ]
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
+    "podil",
     "ternopil",
     "ukraine",
     "ukrainian"

@@ -32,7 +32,7 @@
       }
     ]
   },
-  "summary": "The Andrey Sheptytsky National Museum of Lviv is one of the largest museums in [[ukraine|Ukraine]], dedicated to showcasing the country's cultural heritage. Established in 1905 by Metropolitan Archbishop Andrey Sheptytsky, the museum has evolved significantly over the years, housing an extensive collection of Ukrainian art and artifacts.",
+  "summary": "The Andrey Sheptytsky National Museum of Lviv is one of the largest museums [[coal-in-ukraine|in Ukraine]], dedicated to showcasing the country's cultural heritage. Established in 1905 by Metropolitan Archbishop Andrey Sheptytsky, the museum has evolved significantly over the years, housing an extensive collection of Ukrainian art and artifacts.",
   "sections": [
     {
       "heading": "History",
@@ -68,11 +68,11 @@
   "links_out": [
     "2022-russian-invasion-of-ukraine",
     "buchach",
+    "coal-in-ukraine",
     "lviv",
     "ruthenian",
     "sheptytskyi",
     "taras-shevchenko",
-    "ukraine",
     "ukrainian",
     "western-ukraine"
   ],

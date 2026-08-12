@@ -40,19 +40,19 @@
       }
     ]
   },
-  "summary": "The Ukrainian People's Republic (UPR) was a historical state in [[eastern-europe|Eastern Europe]] that emerged during a period of national awakening in Ukraine following the February Revolution of 1917. It declared independence from Russia on 22 January 1918, amidst a backdrop of conflict involving various factions during the Ukrainian War of Independence.",
+  "summary": "The Ukrainian People's Republic (UPR) was a historical state in [[eastern-europe|Eastern Europe]] that emerged during a period of national awakening [[coal-in-ukraine|in Ukraine]] following the February Revolution of 1917. It declared independence from Russia on 22 January 1918, amidst a backdrop of conflict involving various factions during the Ukrainian War of Independence.",
   "sections": [
     {
       "heading": "Formation and Declaration of Independence",
       "paragraphs": [
-        "The Ukrainian People's Republic was established following the election of the Central Council of [[ukraine|Ukraine]] in March 1917, which sought [[ukrainian|Ukrainian]] autonomy within Russia. This autonomy was recognized by the Russian Provisional Government. After the October Revolution, the Central Council denounced the Bolshevik takeover and proclaimed the Ukrainian People's Republic, covering the territories of the Russian governorates of Kiev, Volhynia, [[kharkiv|Kharkov]], [[kherson|Kherson]], [[dnipro|Yekaterinoslav]], [[poltava|Poltava]], [[chernihiv|Chernigov]], and [[podolia|Podolia]].",
+        "The Ukrainian People's Republic was established following the election of the Central Council of [[ukraine|Ukraine]] in March 1917, which sought [[ukrainian|Ukrainian]] autonomy within Russia. This autonomy was recognized by the Russian Provisional Government. After the October Revolution, the Central Council denounced the Bolshevik takeover and proclaimed the Ukrainian People's Republic, covering the territories of the Russian governorates of Kiev, [[volhynia|Volhynia]], [[kharkiv|Kharkov]], [[kherson|Kherson]], [[dnipro|Yekaterinoslav]], [[poltava|Poltava]], [[chernihiv|Chernigov]], and [[podolia|Podolia]].",
         "The republic officially declared its independence from Russia on 22 January 1918."
       ]
     },
     {
       "heading": "Conflict and Opposition",
       "paragraphs": [
-        "In the aftermath of the October Revolution, an opposing government, the Ukrainian People's Republic of Soviets, was formed in [[kharkiv-oblast|Kharkiv]], which engaged in conflict with the UPR, receiving support from Soviet Russia. The UPR faced additional opposition from the White movement, Poland, Green armies, and anarchists, leading to the [[ukrainian-war-of-independence|Ukrainian War of Independence]], which was part of the broader Russian Civil War and resulted in significant casualties among [[ukrainians|Ukrainians]].",
+        "In the aftermath of the October Revolution, an opposing government, the Ukrainian People's Republic of [[soviet-union|Soviets]], was formed in [[kharkiv-oblast|Kharkiv]], which engaged in conflict with the UPR, receiving support from Soviet Russia. The UPR faced additional opposition from the White movement, Poland, Green armies, and anarchists, leading to the [[ukrainian-war-of-independence|Ukrainian War of Independence]], which was part of the broader Russian Civil War and resulted in significant casualties among [[ukrainians|Ukrainians]].",
         "Soviet Russia ultimately extended its control over the region, leading to the establishment of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]], which became a founding member of the Soviet Union in 1922."
       ]
     },
@@ -73,6 +73,7 @@
   ],
   "links_out": [
     "chernihiv",
+    "coal-in-ukraine",
     "dnipro",
     "eastern-europe",
     "full-scale-russo-ukrainian-war",
@@ -83,11 +84,13 @@
     "podolia",
     "poltava",
     "president-of-ukraine",
+    "soviet-union",
     "ukraine",
     "ukrainian",
     "ukrainian-soviet-socialist-republic",
     "ukrainian-war-of-independence",
     "ukrainians",
+    "volhynia",
     "west-ukrainian-peoples-republic"
   ],
   "sources": [

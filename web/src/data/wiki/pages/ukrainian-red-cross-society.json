@@ -28,13 +28,13 @@
       }
     ]
   },
-  "summary": "The Ukrainian Red Cross Society is a non-profit humanitarian organization based in Ukraine, engaged in various humanitarian efforts including disaster management, health care, and support for vulnerable populations. It has been a member of the International Federation of Red Cross/Red Crescent Societies since 1993.",
+  "summary": "The Ukrainian Red Cross Society is a non-profit humanitarian organization based [[coal-in-ukraine|in Ukraine]], engaged in various humanitarian efforts including disaster management, health care, and support for vulnerable populations. It has been a member of the International Federation of Red Cross/Red Crescent Societies since 1993.",
   "sections": [
     {
       "heading": "Foundation and Early History",
       "paragraphs": [
         "The Ukrainian Red Cross Society was founded on April 18, 1918, in [[kyiv|Kyiv]] as an independent humanitarian organization of the [[ukrainian-peoples-republic|Ukrainian People's Republic]]. Its primary objectives included assisting refugees and prisoners of war, caring for individuals with disabilities, orphaned children, combating famine and epidemics, and organizing hospitals and public canteens.",
-        "From the 1920s, following the incorporation of [[ukrainian|Ukrainian]] territory into the Soviet Union, the Ukrainian Red Cross operated as a branch of the Soviet Red Cross until [[ukraine|Ukraine]]'s independence in 1991."
+        "From the 1920s, following the incorporation of [[ukrainian|Ukrainian]] territory into [[soviet-union|the Soviet Union]], the Ukrainian Red Cross operated as a branch of the Soviet Red Cross until [[ukraine|Ukraine]]'s independence in 1991."
       ]
     },
     {
@@ -62,7 +62,9 @@
   ],
   "links_out": [
     "2022-russian-invasion-of-ukraine",
+    "coal-in-ukraine",
     "kyiv",
+    "soviet-union",
     "ukraine",
     "ukrainian",
     "ukrainian-insurgent-army",

@@ -1,0 +1,58 @@
+{
+  "qid": "Q4149683",
+  "slug": "mykola-hrinchenko",
+  "title": "Mykola Hrinchenko",
+  "type": "human",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1986-02-27",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Solonytsivka",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Mykola Volodymyrovych Hrinchenko is a retired Ukrainian professional football midfielder, born on 27 February 1986.",
+  "sections": [
+    {
+      "heading": "Early Life and Background",
+      "paragraphs": [
+        "Mykola Hrinchenko was born on 27 February 1986 [[coal-in-ukraine|in Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Football Career",
+      "paragraphs": [
+        "Hrinchenko had a professional career as a football midfielder, representing [[ukraine|Ukraine]] in various competitions."
+      ]
+    },
+    {
+      "heading": "Retirement",
+      "paragraphs": [
+        "Following his career as a professional footballer, Hrinchenko is recognized as a former player in the [[ukrainian|Ukrainian]] football community."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Mykola Hrinchenko — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mykola_Hrinchenko",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

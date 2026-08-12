@@ -1,0 +1,89 @@
+{
+  "qid": "Q13222773",
+  "slug": "podil",
+  "title": "Podil",
+  "type": "historic district",
+  "category": "culture",
+  "aliases": [
+    "Podol"
+  ],
+  "infobox": {
+    "label": "historic district",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1921",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "34",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4672, 30.5136",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Podil, also referred to as Podol, is a historic district in Kyiv, [[ukraine|Ukraine]], known as the Lower City. It is one of the oldest neighborhoods in the city, serving as a center for trade, commerce, and industry since its establishment.",
+  "sections": [
+    {
+      "heading": "Geographical and Historical Significance",
+      "paragraphs": [
+        "Podil is situated on a floodplain terrace over the [[dnieper|Dnieper River]], positioned between the [[kyiv|Kyiv]] Hills and the lower stream of the Pochaina River. As one of Kyiv's oldest neighborhoods, it is recognized as the birthplace of the city's trade and industry.",
+        "The name 'Podil' translates to 'downwards,' indicating its location. The area has been a trading and crafting hub, with neighborhoods named after various trades such as 'Dehtyari' for tar workers and 'Honchari' for potters. Archaeological findings in Podil date back to the first half of the first millennium BC, with its first mention in chronicles around 945."
+      ]
+    },
+    {
+      "heading": "Cultural and Architectural Heritage",
+      "paragraphs": [
+        "Podil is rich in architectural and historical landmarks, with many archaeological sites still being uncovered. The area has a cultural layer of 6–12 meters (20–39 feet) thick, containing numerous artefacts from the 9th to 18th centuries, including well-preserved wooden structures.",
+        "Key historical structures include the Church of Saint Elijah, mentioned in 945, and remnants of five masonry temples from the 12th century. The area also featured wooden fortifications known as 'Stolpiye' and was home to significant markets and churches, including the Pyrohoshcha Church."
+      ]
+    },
+    {
+      "heading": "Development and Urban Changes",
+      "paragraphs": [
+        "Following the Mongol invasion and the destruction of Kyiv, Podil became the main and most populated part of the city. It underwent significant transformation in the 15th century when it received Magdeburg rights, leading to the establishment of a rathaus and market square.",
+        "The 17th century saw intensive building, with notable structures such as the Hostynnyi Dvir and the Contracts House, built in 1817. The Great Podil fire of 1811 led to extensive damage and subsequent reconstruction, resulting in new streets and buildings designed by architects William Heste and Andrey Melensky."
+      ]
+    },
+    {
+      "heading": "Modern Transport and Accessibility",
+      "paragraphs": [
+        "Podil is well-connected to Kyiv's metro system, featuring stations such as Tarasa Shevchenka, Kontraktova Ploshcha, and Poshtova Ploshcha. The Kyiv Funicular provides a transport link between Podil and the historic Uppertown neighborhood.",
+        "Historically, the Kyiv River Port served passenger traffic on the Dnipro River, although it currently accommodates mainly tourist excursion boats."
+      ]
+    },
+    {
+      "heading": "Notable Landmarks",
+      "paragraphs": [
+        "Prominent attractions in Podil include the Frolivsky Convent, the [[national-university-of-kyiv-mohyla-academy|National University of Kyiv-Mohyla Academy]], the House of [[ivan-mazepa|Ivan Mazepa]], the House of Peter the Great, the Fountain of Samson, and the Pyrohoshcha Church.",
+        "Several historical landmarks have been lost over time, including the Kyiv magistrate and various churches that once stood in the area."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnieper",
+    "ivan-mazepa",
+    "kyiv",
+    "national-university-of-kyiv-mohyla-academy",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Podil — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Podil",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

@@ -34,7 +34,7 @@
     {
       "heading": "Geographical Features",
       "paragraphs": [
-        "The Dniester rises in [[ukraine|Ukraine]], near Turka, close to the Polish border, and flows toward the Black Sea. It delineates part of the border between Ukraine and Moldova and flows through Moldova for 398 kilometres (247 miles), separating the main territory from the breakaway region of Transnistria. The river then continues through Ukraine to its estuary, the Dniester Liman.",
+        "The Dniester rises [[coal-in-ukraine|in Ukraine]], near Turka, close to the Polish border, and flows toward the Black Sea. It delineates part of the border between [[ukraine|Ukraine]] and Moldova and flows through Moldova for 398 kilometres (247 miles), separating the main territory from the breakaway region of Transnistria. The river then continues through Ukraine to its estuary, the Dniester Liman.",
         "The western bank of the lower Dniester is characterized by high hills, while the eastern bank is low and flat, marking the end of the Eurasian Steppe. Key tributaries include Răut and Bîc."
       ]
     },
@@ -43,7 +43,7 @@
       "paragraphs": [
         "During the Neolithic period, the Dniester was home to the Cucuteni–[[cucutenitrypillia-culture|Trypillian culture]], which thrived from approximately 5300 to 2600 BC, establishing one of the earliest large farming communities with settlements of up to 15,000 inhabitants.",
         "Classical geographers and historians noted the Dniester as a significant river in European Sarmatia, with references by Herodotus and Ptolemy regarding its sources and navigability. The river also served as a trade route for the Varangians to the Greeks.",
-        "From the 14th century until 1812, the Dniester marked the eastern boundary of the Principality of Moldavia. It later became part of the border between Romania and the Soviet Union, witnessing military conflicts during World War II."
+        "From the 14th century until 1812, the Dniester marked the eastern boundary of the Principality of Moldavia. It later became part of the border between Romania and [[soviet-union|the Soviet Union]], witnessing military conflicts during World War II."
       ]
     },
     {
@@ -61,9 +61,11 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "cucutenitrypillia-culture",
     "dnieper",
     "eastern-europe",
+    "soviet-union",
     "ukraine",
     "ukrainian"
   ],

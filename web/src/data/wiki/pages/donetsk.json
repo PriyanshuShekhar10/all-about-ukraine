@@ -69,7 +69,7 @@
     {
       "heading": "Economic Significance",
       "paragraphs": [
-        "Donetsk has been a major economic and industrial center in Ukraine, characterized by a high concentration of heavy industries such as steel production, chemical manufacturing, and coal mining. The city faced ecological challenges due to its industrial activities.",
+        "Donetsk has been a major economic and industrial center [[coal-in-ukraine|in Ukraine]], characterized by a high concentration of heavy industries such as steel production, chemical manufacturing, and coal mining. The city faced ecological challenges due to its industrial activities.",
         "In 2008, Donetsk was recognized as the best city in the Commonwealth of Independent States for its development strategies, and in 2012 and 2013, it was noted as the best place for business in Ukraine."
       ]
     },
@@ -88,6 +88,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "donbas",
     "donetsk-oblast",
     "donetsk-peoples-republic",

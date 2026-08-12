@@ -40,7 +40,7 @@
     {
       "heading": "Strategic Importance of Kharkov",
       "paragraphs": [
-        "[[kharkiv|Kharkov]] held significant strategic value due to its extensive rail and air connections, serving as a critical junction within [[ukraine|Ukraine]] and the broader Soviet Union. It connected various regions, including [[crimea|Crimea]], the Caucasus, the [[dnieper|Dnieper]] area, and the [[donbas|Donbass]].",
+        "[[kharkiv|Kharkov]] held significant strategic value due to its extensive rail and air connections, serving as a critical junction within [[ukraine|Ukraine]] and the broader [[soviet-union|Soviet Union]]. It connected various regions, including [[crimea|Crimea]], the Caucasus, the [[dnieper|Dnieper]] area, and the [[donbas|Donbass]].",
         "As one of the largest industrial centers in the Soviet Union, Kharkov contributed substantially to military production. Notable facilities included the Kharkov Tractor Plant, which was vital in developing the T-34 tank, and other key plants producing aircraft, artillery, and ammunition. The German command recognized the economic importance of Kharkov, believing that its capture would undermine the Soviet economy."
       ]
     },
@@ -72,6 +72,7 @@
     "dnieper",
     "donbas",
     "kharkiv",
+    "soviet-union",
     "ukraine",
     "ukrainian-soviet-socialist-republic"
   ],

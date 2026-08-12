@@ -9,7 +9,7 @@
     "label": "Wikimedia disambiguation page",
     "fields": []
   },
-  "summary": "Renaissance Capital is an investment bank established in 1995, primarily focused on Russian and frontier markets, with significant operations in [[ukraine|Ukraine]] and other emerging economies. The firm, which became part of ONEXIM Group in 2012, offers a wide range of investment banking services and has a notable presence in Africa.",
+  "summary": "Renaissance Capital is an investment bank established in 1995, primarily focused on Russian and frontier markets, with significant operations [[coal-in-ukraine|in Ukraine]] and other emerging economies. The firm, which became part of ONEXIM Group in 2012, offers a wide range of investment banking services and has a notable presence in Africa.",
   "sections": [
     {
       "heading": "Foundation and Ownership",
@@ -32,7 +32,7 @@
     {
       "heading": "Major Transactions",
       "paragraphs": [
-        "Renaissance Capital has facilitated numerous significant capital markets transactions in Russia and other regions. Notable Russian IPOs include Beeline's $127.4 million IPO on the NYSE in November 1996, ALROSA's $1.3 billion IPO in October 2013, and RUSAL's $2.24 billion IPO in January 2010. The firm has also organized key transactions in frontier markets, including a GEL500 million bond issue for Bank of Georgia and a RUB15 billion issue for Kazakhstan Temir Zholy."
+        "Renaissance Capital has facilitated numerous significant capital markets transactions in Russia and other regions. Notable Russian IPOs include Beeline's $127.4 million IPO on the NYSE in November 1996, ALROSA's $1.3 billion IPO in October 2013, and [[rusal|RUSAL]]'s $2.24 billion IPO in January 2010. The firm has also organized key transactions in frontier markets, including a GEL500 million bond issue for Bank of Georgia and a RUB15 billion issue for Kazakhstan Temir Zholy."
       ]
     },
     {
@@ -43,7 +43,8 @@
     }
   ],
   "links_out": [
-    "ukraine"
+    "coal-in-ukraine",
+    "rusal"
   ],
   "sources": [
     {

@@ -1,0 +1,91 @@
+{
+  "qid": "Q269438",
+  "slug": "zavodske",
+  "title": "Zavodske",
+  "type": "city in Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1928",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "7,712",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "12",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "108",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4002, 33.3908",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Zavodske is a city located in Myrhorod Raion, Poltava Oblast, [[ukraine|Ukraine]], serving as the administrative center of the Zavodske urban hromada. As of 2022, the city has a population of 7,712 and is situated in the forest steppe zone of the Dnieper lowland.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Zavodske was established in 1928 and was originally named Stalinka until 1962 when it was renamed Chervonozavodske. In 1977, it was designated as a city of district subordination.",
+        "In early February 2016, following the 2015 law on decommunization, the city adopted its current name, Zavodske. Prior to July 18, 2020, Zavodske was part of Lokhvytsia Raion, which was dissolved during an administrative reform that consolidated the number of raions in [[poltava-oblast|Poltava Oblast]] to four."
+      ]
+    },
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Zavodske is positioned on the terraces of the left bank of the Sula River within the forest steppe zone of the [[dnieper|Dnieper]] lowland, approximately 70 km from [[myrhorod|Myrhorod]] and 160 km from [[poltava|Poltava]].",
+        "The city is surrounded by broad-leaved forests and meadow vegetation associated with the river floodplain. It experiences a temperate continental climate, with average temperatures of −6.0 °C in January and +20.0 °C in July, and receives 480–580 mm of precipitation annually, primarily during the summer months.",
+        "A regional highway runs near Zavodske, and the Bakhmach-Kremenchuk railway line, part of the Southern Railway, also traverses the city."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "According to the 2001 [[ukrainian|Ukrainian]] census, Zavodske had a population of 9,026 individuals. The demographic details regarding the ethnic composition of the population were recorded in this census."
+      ]
+    },
+    {
+      "heading": "Social Infrastructure",
+      "paragraphs": [
+        "Zavodske is equipped with two secondary schools and a vocational school, designated as Vocational School № 32. Additionally, it hosts Lokhvitsky College of Mechanics and Technology, affiliated with the Poltava State Agrarian Academy.",
+        "The city also features two cultural houses, a children's music school, and a children's studio named 'Soniachnyi Zaichyk.'"
+      ]
+    }
+  ],
+  "links_out": [
+    "dnieper",
+    "myrhorod",
+    "poltava",
+    "poltava-oblast",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Zavodske, Poltava Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zavodske,_Poltava_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

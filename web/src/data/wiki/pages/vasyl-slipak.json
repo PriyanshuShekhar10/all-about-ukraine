@@ -1,0 +1,81 @@
+{
+  "qid": "Q25050824",
+  "slug": "vasyl-slipak",
+  "title": "Vasyl Slipak",
+  "type": "human",
+  "category": "war",
+  "aliases": [
+    "Vasyl Yaroslavovych Slipak",
+    "Wassyl Slipak"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1974-12-20",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "2016-06-29",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Lviv",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Vasyl Yaroslavovych Slipak was a prominent Ukrainian baritone opera singer, recognized for his performances in France and his contributions to [[music-of-ukraine|Ukrainian music]]. He served as a volunteer in the Ukrainian army during the [[war-in-donbas|war in Donbas]] and was posthumously honored with the title of Hero of Ukraine.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Vasyl Slipak was born on 20 December 1974 in [[lviv|Lviv]], [[ukraine|Ukraine]]. He began singing at a young age, participating in family celebrations where music was a central theme. His first public performance occurred at the age of six during a village wedding, singing 'Tysha navkrugy' by the Marenich trio.",
+        "Despite no formal musical background in his family, Vasyl's talent is believed to have been inherited from his grandfather, who possessed a unique voice. He attended Lviv School No. 46 from 1981 to 1991."
+      ]
+    },
+    {
+      "heading": "Musical Career",
+      "paragraphs": [
+        "In 1983, at the age of nine, Vasyl joined the Lviv Choir Chapel 'Dudaryk,' where he sang until 1994. Mykola Katsal, the head of the chapel, played a significant role in shaping his musical career. Through 'Dudaryk,' Slipak was exposed to a repertoire that included works by [[ukrainian|Ukrainian]] composers, contributing to his development as an opera singer.",
+        "During his time with 'Dudaryk,' he performed in prestigious venues and participated in numerous concerts, including a notable performance at Carnegie Hall in New York in 1990. The choir also toured North America and participated in various international festivals."
+      ]
+    },
+    {
+      "heading": "Education and Recognition",
+      "paragraphs": [
+        "Vasyl Slipak faced challenges in gaining admission to the Lviv Higher State Music Institute named after M. V. Lysenko, eventually enrolling in 1992. Under the guidance of Professor Baiko Maria Yakivna, he mastered a significant repertoire and distinguished himself as a promising performer.",
+        "His career took a pivotal turn in 1994 when he won the Grand Prix and the Audience Prize at the 10th International Oratorio and Song Contest in Clermont-Ferrand, France. This success led to further opportunities, including a solo concert at the Vichy Opera."
+      ]
+    },
+    {
+      "heading": "Service and Legacy",
+      "paragraphs": [
+        "In addition to his musical achievements, Vasyl Slipak volunteered for the [[ukrainian-ground-forces|Ukrainian army]] during the conflict in [[donbas|Donbas]]. He was killed by a Russian sniper on 29 June 2016 near the village of Luhanske in the [[bakhmut|Bakhmut]] region.",
+        "Posthumously, he was awarded the title of Hero of Ukraine for his service as a volunteer soldier, highlighting his commitment to his country alongside his artistic contributions."
+      ]
+    }
+  ],
+  "links_out": [
+    "bakhmut",
+    "donbas",
+    "lviv",
+    "music-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-ground-forces",
+    "war-in-donbas"
+  ],
+  "sources": [
+    {
+      "title": "Vasyl Slipak — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vasyl_Slipak",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

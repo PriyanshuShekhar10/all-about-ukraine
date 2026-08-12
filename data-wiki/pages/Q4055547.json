@@ -39,7 +39,7 @@
     {
       "heading": "Historical Context",
       "paragraphs": [
-        "The plant originally opened with a single coke battery, which expanded to nine by 1980, benefiting from investments by the Soviet Union. By 1988, it had produced 100 million tons of coke, establishing itself as a major producer in Europe. Following [[ukraine|Ukraine]]'s independence in 1993, it was privatized and became the Open Joint Stock Company 'Avdeevskiy Coke-processing Works'.",
+        "The plant originally opened with a single coke battery, which expanded to nine by 1980, benefiting from investments by [[soviet-union|the Soviet Union]]. By 1988, it had produced 100 million tons of coke, establishing itself as a major producer in Europe. Following [[ukraine|Ukraine]]'s independence in 1993, it was privatized and became the Open Joint Stock Company 'Avdeevskiy Coke-processing Works'.",
         "In 2014, the plant was affected by the conflict in [[donetsk-oblast|Donetsk Oblast]], with significant damage occurring during fighting between Ukrainian forces and Russian separatists. The plant ceased operations on 17 August 2014 due to escalating violence."
       ]
     },
@@ -53,19 +53,21 @@
     {
       "heading": "Production Capacity",
       "paragraphs": [
-        "Before the onset of the [[donbas|Donbas]] conflict, the plant produced 12,000 tons of coke daily, valued at $2.4 million. This output significantly decreased due to the war, with Avdiivka Coke being one of the top five coke producers in Europe and the largest in Ukraine.",
+        "Before the onset of the [[donbas|Donbas]] conflict, the plant produced 12,000 tons of coke daily, valued at $2.4 million. This output significantly decreased due to the war, with Avdiivka Coke being one of the top five coke producers in Europe and the largest [[coal-in-ukraine|in Ukraine]].",
         "The plant produced approximately 40 different products, contributing over 20% of Ukraine's gross coke output. It supplied coke to major steel producers, including Azovstal, Yenakiieve Steel, and Ilyich Steel, as well as external customers like ArcelorMittal in [[kryvyi-rih|Kryvyi Rih]].",
         "Prior to its destruction, the facility had received substantial investments in environmental technologies aimed at reducing emissions and energy consumption, highlighting its importance to the steel production sector in Ukraine."
       ]
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "donbas",
     "donetsk-oblast",
     "full-scale-russo-ukrainian-war",
     "kryvyi-rih",
     "mariupol",
     "metinvest",
+    "soviet-union",
     "ukraine",
     "ukrainian",
     "ukrainian-soviet-socialist-republic"

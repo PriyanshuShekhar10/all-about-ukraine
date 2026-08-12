@@ -53,7 +53,7 @@
       "heading": "Collection",
       "paragraphs": [
         "The Kharkiv Art Museum boasts a collection of approximately 25,000 items, including pre-revolutionary Russian and Ukrainian art, Soviet-era works, and Western European art spanning from the 16th to the 20th centuries. The museum features notable pieces from prominent Russian artists such as Karl Bryullov, Ivan Aivazovsky, and Ilya Repin.",
-        "The museum is particularly recognized for housing the largest collection of Ilya Repin's works in Ukraine, which includes 11 paintings and 8 graphic sheets. Additionally, it showcases significant contributions from Ukrainian artists like Taras Shevchenko and Serhii Vasylkivsky."
+        "The museum is particularly recognized for housing the largest collection of Ilya Repin's works [[coal-in-ukraine|in Ukraine]], which includes 11 paintings and 8 graphic sheets. Additionally, it showcases significant contributions from Ukrainian artists like Taras Shevchenko and Serhii Vasylkivsky."
       ]
     },
     {
@@ -65,6 +65,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "kharkiv-oblast",
     "taras-shevchenko",
     "ukraine",

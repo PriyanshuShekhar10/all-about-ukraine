@@ -1,0 +1,56 @@
+{
+  "qid": "Q1218641",
+  "slug": "museum-of-the-great-patriotic-war",
+  "title": "Museum of the Great Patriotic War",
+  "type": "Wikimedia disambiguation page",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": [
+      {
+        "label": "Coordinates",
+        "value": "55.7306, 37.5039",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Museum of the Great Patriotic War refers to various history museums established in [[soviet-union|the Soviet Union]], focusing on the Eastern Front during World War II, with significant relevance to [[ukraine|Ukraine]]'s historical narrative.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Museum of the Great Patriotic War is a term that encompasses several history museums dedicated to the events of the Eastern Front during World War II."
+      ]
+    },
+    {
+      "heading": "Notable Museums",
+      "paragraphs": [
+        "One prominent example is the Museum of the Great Patriotic War located in Moscow, which serves as a major national site commemorating the conflict.",
+        "Another important institution is the Belarusian Great Patriotic War Museum, which also focuses on the war's impact on the region."
+      ]
+    },
+    {
+      "heading": "Ukrainian Context",
+      "paragraphs": [
+        "[[coal-in-ukraine|In Ukraine]], the [[national-museum-of-the-history-of-ukraine-in-world-war-ii|National Museum of the History of Ukraine in the Second World War]], previously known as the Museum of the Great Patriotic War in [[kyiv|Kyiv]], plays a crucial role in documenting and interpreting the country's experiences during the war."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "kyiv",
+    "national-museum-of-the-history-of-ukraine-in-world-war-ii",
+    "soviet-union",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Museum of the Great Patriotic War — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Museum_of_the_Great_Patriotic_War",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

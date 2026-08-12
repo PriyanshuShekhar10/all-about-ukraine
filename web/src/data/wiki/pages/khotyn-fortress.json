@@ -30,7 +30,7 @@
     {
       "heading": "Geographical and Historical Context",
       "paragraphs": [
-        "Khotyn Fortress is located in southwestern [[ukraine|Ukraine]], specifically in [[chernivtsi-oblast|Chernivtsi Oblast]], on the right bank of the [[dniester|Dniester]] River. It is situated within the historical region of northern Bessarabia, an area that was formerly part of Romania until it was occupied by the Soviet Union in 1940 following the Molotov–Ribbentrop Pact. The fortress is in proximity to the notable Kamianets-Podilskyi Castle."
+        "Khotyn Fortress is located in southwestern [[ukraine|Ukraine]], specifically in [[chernivtsi-oblast|Chernivtsi Oblast]], on the right bank of the [[dniester|Dniester]] River. It is situated within the historical region of northern [[bessarabia|Bessarabia]], an area that was formerly part of Romania until it was occupied by [[soviet-union|the Soviet Union]] in 1940 following the Molotov–Ribbentrop Pact. The fortress is in proximity to the notable [[kamianets-podilskyi|Kamianets-Podilskyi]] Castle."
       ]
     },
     {
@@ -63,13 +63,16 @@
     }
   ],
   "links_out": [
+    "bessarabia",
     "chernivtsi-oblast",
     "dniester",
     "halych",
+    "kamianets-podilskyi",
     "khotyn",
     "kievan-rus",
     "kingdom-of-galiciavolhynia",
     "kyiv",
+    "soviet-union",
     "ukraine",
     "ukrainian-soviet-socialist-republic",
     "vladimir-the-great"

@@ -26,7 +26,7 @@
     {
       "heading": "Okean Shipyard",
       "paragraphs": [
-        "Okean Shipyard is a merchant shipyard that is part of the shipbuilding landscape in Mykolaiv, supporting the commercial maritime sector in Ukraine."
+        "Okean Shipyard is a merchant shipyard that is part of the shipbuilding landscape in Mykolaiv, supporting the commercial maritime sector [[coal-in-ukraine|in Ukraine]]."
       ]
     },
     {
@@ -37,6 +37,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "mykolaiv",
     "ukraine",
     "ukrainian"

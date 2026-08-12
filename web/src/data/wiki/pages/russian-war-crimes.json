@@ -21,7 +21,7 @@
       }
     ]
   },
-  "summary": "Russian war crimes encompass violations of international criminal law, including war crimes, crimes against humanity, and genocide, attributed to Russian armed forces and associated paramilitary groups since the dissolution of the Soviet Union in 1991. These crimes have been particularly relevant in the context of Ukraine, where significant allegations have emerged during the ongoing conflict.",
+  "summary": "Russian war crimes encompass violations of international criminal law, including war crimes, crimes against humanity, and genocide, attributed to Russian armed forces and associated paramilitary groups since the dissolution of [[soviet-union|the Soviet Union]] in 1991. These crimes have been particularly relevant in the context of Ukraine, where significant allegations have emerged during the ongoing conflict.",
   "sections": [
     {
       "heading": "Nature of War Crimes",
@@ -33,7 +33,7 @@
       "heading": "Documentation and Reports",
       "paragraphs": [
         "Organizations such as Amnesty International and Human Rights Watch have documented Russian war crimes in various regions, including Chechnya, Georgia, [[ukraine|Ukraine]], and Syria. The United Nations High Commissioner for Human Rights (OHCHR) reported in 2017 that Russia used cluster and incendiary weapons in Syria, which constituted war crimes due to indiscriminate attacks in civilian areas.",
-        "The Independent International Commission of Inquiry on Ukraine, established by the OHCHR, found that Russia committed war crimes in Ukraine in 2022 and 2023. A report published by the Organization for Security and Co-operation in Europe (OSCE) on 13 April 2022 identified war crimes committed during the [[siege-of-mariupol|Siege of Mariupol]]."
+        "The Independent International Commission of Inquiry on Ukraine, established by the OHCHR, found that Russia committed war crimes [[coal-in-ukraine|in Ukraine]] in 2022 and 2023. A report published by the Organization for Security and Co-operation in Europe (OSCE) on 13 April 2022 identified war crimes committed during the [[siege-of-mariupol|Siege of Mariupol]]."
       ]
     },
     {
@@ -46,14 +46,17 @@
     {
       "heading": "Indictments and Accountability",
       "paragraphs": [
-        "Since 2023, the ICC has indicted six Russian officials, including President Vladimir Putin, for war crimes in Ukraine. Many Russian officials have been found guilty by local courts for war crimes committed in both Chechnya and Ukraine."
+        "Since 2023, the ICC has indicted six Russian officials, including President [[vladimir-putin|Vladimir Putin]], for war crimes in Ukraine. Many Russian officials have been found guilty by local courts for war crimes committed in both Chechnya and Ukraine."
       ]
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "russian-annexation-of-crimea",
     "siege-of-mariupol",
-    "ukraine"
+    "soviet-union",
+    "ukraine",
+    "vladimir-putin"
   ],
   "sources": [
     {

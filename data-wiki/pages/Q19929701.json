@@ -1,0 +1,56 @@
+{
+  "qid": "Q19929701",
+  "slug": "ukrainian-civil-war",
+  "title": "Ukrainian Civil War",
+  "type": "Wikimedia disambiguation page",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "The term 'Ukrainian Civil War' encompasses several significant conflicts in Ukraine's history, primarily during the early 20th century. These conflicts played a crucial role in shaping Ukraine's national identity and political landscape.",
+  "sections": [
+    {
+      "heading": "Ukrainian War of Independence (1917–21)",
+      "paragraphs": [
+        "The [[ukrainian-war-of-independence|Ukrainian War of Independence]] occurred from 1917 to 1921, marking a pivotal struggle for [[ukraine|Ukraine]]'s sovereignty following the collapse of the Russian Empire. This conflict involved various factions vying for control and recognition of an independent [[ukrainian|Ukrainian]] state."
+      ]
+    },
+    {
+      "heading": "Ukrainian–Soviet War (1917–21)",
+      "paragraphs": [
+        "The [[ukrainiansoviet-war|Ukrainian–Soviet War]], also taking place from 1917 to 1921, was characterized by the conflict between Ukrainian national forces and the Bolshevik government. This war was integral to the broader context of the Russian Civil War and had lasting implications for Ukraine's political future."
+      ]
+    },
+    {
+      "heading": "Anti-Hetman Uprising (1918)",
+      "paragraphs": [
+        "The Anti-[[hetman|Hetman]] Uprising of 1918 was a significant revolt against the Hetmanate, a regime established [[coal-in-ukraine|in Ukraine]] during the War of Independence. This uprising reflected the ongoing struggle for democratic governance and national self-determination in Ukraine during a tumultuous period."
+      ]
+    },
+    {
+      "heading": "Related Conflicts",
+      "paragraphs": [
+        "The Ukrainian Civil War is also related to various other conflicts in Ukraine's history, including a list of wars involving Ukraine and instances of invasions and occupations that have shaped its territorial and political boundaries."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "hetman",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-war-of-independence",
+    "ukrainiansoviet-war"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Civil War — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Civil_War",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

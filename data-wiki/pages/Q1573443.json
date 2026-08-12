@@ -12,7 +12,7 @@
     "label": "assimilation",
     "fields": []
   },
-  "summary": "Ukrainization is a policy aimed at promoting the Ukrainian language and culture across various public domains in Ukraine, as well as assimilating non-Ukrainians into Ukrainian cultural practices. This process has historical roots and has evolved through different political contexts in Ukraine.",
+  "summary": "Ukrainization is a policy aimed at promoting the Ukrainian language and culture across various public domains [[coal-in-ukraine|in Ukraine]], as well as assimilating non-Ukrainians into Ukrainian cultural practices. This process has historical roots and has evolved through different political contexts in Ukraine.",
   "sections": [
     {
       "heading": "Historical Background",
@@ -51,6 +51,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "kharkiv-oblast",
     "kyiv",
     "ruthenian",

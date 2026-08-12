@@ -9,7 +9,7 @@
     "label": "mythical character",
     "fields": []
   },
-  "summary": "Cossack Mamay, or Kozak Mamai, is a prominent folklore hero in Ukraine, symbolizing the spirit and culture of the [[cossacks|Cossacks]]. His image has been widely represented in various forms of Ukrainian art and literature, especially following the dissolution of the Zaporozhian Sich in 1775.",
+  "summary": "Cossack Mamay, or Kozak Mamai, is a prominent folklore hero [[coal-in-ukraine|in Ukraine]], symbolizing the spirit and culture of the [[cossacks|Cossacks]]. His image has been widely represented in various forms of Ukrainian art and literature, especially following the dissolution of the Zaporozhian Sich in 1775.",
   "sections": [
     {
       "heading": "Historical Overview",
@@ -43,6 +43,7 @@
     }
   ],
   "links_out": [
+    "coal-in-ukraine",
     "cossacks",
     "dnieper",
     "music-of-ukraine",

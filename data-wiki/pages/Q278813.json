@@ -1,0 +1,87 @@
+{
+  "qid": "Q278813",
+  "slug": "myroslav-skoryk",
+  "title": "Myroslav Skoryk",
+  "type": "human",
+  "category": "culture",
+  "aliases": [
+    "Myroslav Mykhailovych Skoryk"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1938-07-13",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "2020-06-01",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Lviv",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Myroslav Mykhailovych Skoryk (13 July 1938 – 1 June 2020) was a prominent Ukrainian composer and educator known for his contemporary musical style that incorporates elements of Ukrainian folk traditions. He received significant national honors, including the titles of People's Artist of Ukraine and Hero of Ukraine.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Myroslav Mykhailovych Skoryk was born in [[lviv|Lviv]] on 13 July 1938. His parents, both educated at the University of Vienna, became teachers; his father was a historian and ethnographer, while his mother was a chemist. Despite their lack of formal musical training, music was a part of Skoryk's upbringing, influenced by his mother's piano playing and his father's violin skills. His great aunt was the renowned [[ukrainian|Ukrainian]] soprano Solomiya Krushelnytska.",
+        "In 1945, Skoryk enrolled in the Lviv Music School, but his family was deported to Siberia two years later, where he spent his formative years until returning to Lviv in 1955."
+      ]
+    },
+    {
+      "heading": "Education and Early Career",
+      "paragraphs": [
+        "From 1955 to 1960, Skoryk studied at the Lviv Conservatory, focusing on musical composition and theory under notable teachers such as Stanyslav Lyudkevych and Roman Simovych. His final exam piece was a cantata titled Vesna ('Spring'), based on poetry by Ukrainian writer [[ivan-franko|Ivan Franko]]. He also composed various piano pieces during this period.",
+        "In 1960, Skoryk continued his education at the Moscow Conservatory, studying under composer Dmitry Kabalevsky for four years, during which he produced a range of symphonic, chamber, and vocal music."
+      ]
+    },
+    {
+      "heading": "Teaching Career",
+      "paragraphs": [
+        "After graduating in 1964, Skoryk became the youngest lecturer in composition at the Lviv Conservatory, a position he held until 1966. He then moved to the [[kyiv|Kyiv]] Conservatory, where he specialized in teaching contemporary harmony techniques. His dissertation focused on the music of Russian composer Sergei Prokofiev, and he published a significant work on 20th-century music theory in 1983.",
+        "Skoryk was a member of the National Union of Composers of [[ukraine|Ukraine]] from 1963 and served as co-chair from 2004 to 2010."
+      ]
+    },
+    {
+      "heading": "Later Years and Legacy",
+      "paragraphs": [
+        "In 1996, Skoryk relocated to Australia and became an Australian citizen, but he returned to Ukraine in 1999. He was appointed artistic director of the [[national-opera-of-ukraine|Kyiv Opera]] in April 2011, a role he held until 2016. Skoryk passed away on 1 June 2020 and was interred at Lviv's Lychakiv Cemetery.",
+        "His contributions to music include a wide array of compositions, from orchestral works to religious music, and he received the [[shevchenko-national-prize|Shevchenko National Prize]] in 1987 for his Cello Concerto. His opera Moses, premiered in 2001, marked a significant moment in [[music-of-ukraine|Ukrainian music]], being the first on a biblical theme in nearly a century."
+      ]
+    },
+    {
+      "heading": "Musical Contributions",
+      "paragraphs": [
+        "Skoryk's extensive body of work includes compositions for various ensembles and film scores, with notable pieces such as the Cello Concerto and the spiritual concerto Requiem. His later works, including the Liturgy of St. John Chrysostom and the opera Moses, reflect a deep engagement with Ukrainian cultural and religious themes.",
+        "His music has been performed by prominent Ukrainian musicians and ensembles, highlighting his influence on the contemporary Ukrainian music scene."
+      ]
+    }
+  ],
+  "links_out": [
+    "ivan-franko",
+    "kyiv",
+    "lviv",
+    "music-of-ukraine",
+    "national-opera-of-ukraine",
+    "shevchenko-national-prize",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Myroslav Skoryk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Myroslav_Skoryk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

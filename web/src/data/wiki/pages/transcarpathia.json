@@ -30,13 +30,13 @@
       }
     ]
   },
-  "summary": "Transcarpathia is a historical region primarily located in [[western-ukraine|western Ukraine]]'s Zakarpattia Oblast, characterized by its diverse ethnic composition and complex historical affiliations. It has been part of various states throughout history, including the Kingdom of Hungary, Czechoslovakia, and the Soviet Union, before becoming an integral part of independent Ukraine.",
+  "summary": "Transcarpathia is a historical region primarily located in [[western-ukraine|western Ukraine]]'s Zakarpattia Oblast, characterized by its diverse ethnic composition and complex historical affiliations. It has been part of various states throughout history, including the Kingdom of Hungary, Czechoslovakia, and the Soviet Union, before becoming an integral part of [[independent-ukraine|independent Ukraine]].",
   "sections": [
     {
       "heading": "Historical Overview",
       "paragraphs": [
         "Transcarpathia was predominantly part of the Kingdom of Hungary from the Hungarian conquest of the Carpathian Basin in the late 9th century until the end of World War I, marked by the Treaty of Trianon in 1920. In the interwar years, it became part of the First and Second Czechoslovak Republics, before being annexed again by Hungary prior to World War II.",
-        "After World War II, Transcarpathia was annexed by the Soviet Union and became part of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]]. Following the dissolution of the Soviet Union in 1991, it remained a part of [[ukraine|Ukraine]]."
+        "After World War II, Transcarpathia was annexed by [[soviet-union|the Soviet Union]] and became part of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]]. Following the dissolution of the Soviet Union in 1991, it remained a part of [[ukraine|Ukraine]]."
       ]
     },
     {
@@ -70,8 +70,10 @@
   ],
   "links_out": [
     "carpathians",
+    "independent-ukraine",
     "kievan-rus",
     "rusyns",
+    "soviet-union",
     "ukraine",
     "ukrainian",
     "ukrainian-soviet-socialist-republic",

@@ -1,0 +1,95 @@
+{
+  "qid": "Q926594",
+  "slug": "ukrainian-independence-referendum",
+  "title": "Ukrainian independence referendum",
+  "type": "independence referendum",
+  "category": "people",
+  "aliases": [
+    "Ukrainian referendum on independence"
+  ],
+  "infobox": {
+    "label": "independence referendum",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "1991-12-01",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Soviet Union",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Ukrainian independence referendum, held on 1 December 1991, was a pivotal event in Ukraine's history, marking the nation's formal declaration of independence from the Soviet Union. An overwhelming 92% of voters supported the declaration, which was a response to the failed August coup and the absence of a signed New Union Treaty.",
+  "sections": [
+    {
+      "heading": "Overview of the Referendum",
+      "paragraphs": [
+        "The referendum on the Act of Declaration of Independence took place [[coal-in-ukraine|in Ukraine]] on 1 December 1991. The vote was prompted by the failed coup in August 1991 and the lack of a signed New Union Treaty.",
+        "Voters were presented with the question, 'Do you confirm the [[declaration-of-independence-of-ukraine|Act of Declaration of Independence of Ukraine]]?' The text of the Declaration was included as a preamble to this question.",
+        "The [[verkhovna-rada|Parliament of Ukraine]] called for the referendum to validate the Act of Independence adopted on 24 August 1991. A total of 31,891,742 registered voters participated, representing 84.18% of the electorate, with 28,804,071 (92.3%) voting 'Yes'."
+      ]
+    },
+    {
+      "heading": "Concurrent Presidential Election",
+      "paragraphs": [
+        "On the same day as the referendum, a presidential election was conducted. In the month leading up to the election, all six candidates campaigned across [[ukraine|Ukraine]], advocating for independence from [[soviet-union|the Soviet Union]] and a 'Yes' vote in the referendum.",
+        "[[leonid-kravchuk|Leonid Kravchuk]], who was the chairman of the parliament and acted as the de facto head of state, was elected as the first [[president-of-ukraine|President of Ukraine]]."
+      ]
+    },
+    {
+      "heading": "International Recognition and Aftermath",
+      "paragraphs": [
+        "Following the referendum, Ukraine was recognized as an independent state by other countries starting on 2 December 1991. On the same day, Boris Yeltsin, the President of the Russian SFSR, acknowledged Ukraine's independence.",
+        "Soviet President [[mikhail-gorbachev|Mikhail Gorbachev]] sent a congratulatory telegram to Kravchuk, expressing hopes for close cooperation in forming a union of sovereign states.",
+        "Ukraine's secession, being the second-most powerful republic in the Soviet Union, significantly undermined Gorbachev's efforts to maintain the USSR. By December 1991, all former Soviet Republics, except the RSFSR and the Kazakh SSR, had formally declared independence."
+      ]
+    },
+    {
+      "heading": "Regional Support and Voter Sentiment",
+      "paragraphs": [
+        "The Act of Independence received majority support from voters in all 27 administrative [[administrative-territorial-entity-of-ukraine|regions of Ukraine]], including 24 oblasts, 1 autonomous republic, and 2 special municipalities ([[kyiv|Kyiv]] City and [[sevastopol|Sevastopol]] City).",
+        "Voter turnout was notably lower in Eastern and Southern Ukraine, with [[kharkiv-oblast|Kharkiv]], [[luhansk|Luhansk]], [[donetsk|Donetsk]], [[odesa|Odesa]] Oblasts, [[crimea|Crimea]], and Sevastopol recording the lowest percentages of 'Yes' votes, although a majority still voted affirmatively, except in Crimea and Sevastopol."
+      ]
+    },
+    {
+      "heading": "Impact on the Soviet Union",
+      "paragraphs": [
+        "Experts suggest that the 1991 Ukrainian independence referendum was a critical factor leading to the dissolution of the Soviet Union. Following the failed coup attempt, many Soviet republics declared independence, but Ukraine's declaration was the most significant.",
+        "By the end of September 1991, eight republics had declared independence, yet these declarations were largely symbolic. The [[ukrainian|Ukrainian]] referendum, with over 90% support for independence, made it clear that serious federal discussions were untenable without Ukraine's involvement.",
+        "Shortly after the referendum, on 6 December, the Supreme Soviet of Ukraine adopted a new military oath pledging loyalty to Ukraine, and on 13 December, Kravchuk declared himself Supreme Commander of the [[armed-forces-of-ukraine|Armed Forces of Ukraine]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "administrative-territorial-entity-of-ukraine",
+    "armed-forces-of-ukraine",
+    "coal-in-ukraine",
+    "crimea",
+    "declaration-of-independence-of-ukraine",
+    "donetsk",
+    "kharkiv-oblast",
+    "kyiv",
+    "leonid-kravchuk",
+    "luhansk",
+    "mikhail-gorbachev",
+    "odesa",
+    "president-of-ukraine",
+    "sevastopol",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "1991 Ukrainian independence referendum — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1991_Ukrainian_independence_referendum",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

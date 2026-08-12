@@ -1,0 +1,71 @@
+{
+  "qid": "Q894184",
+  "slug": "borscht-belt",
+  "title": "Borscht Belt",
+  "type": "region",
+  "category": "culture",
+  "aliases": [
+    "Borsht Belt"
+  ],
+  "infobox": {
+    "label": "region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "United States",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Borscht Belt, also known as the Yiddish Alps, is a historical region in New York State that served as a popular summer vacation destination for American Jews, particularly from New York City, from the 1920s to the 1960s. Its name is derived from borscht, a soup of Ukrainian origin, highlighting the cultural ties between the region and Ukrainian heritage.",
+  "sections": [
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "The term 'Borscht Belt' is derived from [[borscht|borscht]], a soup made primarily from beets and associated with [[ukrainian-cuisine|Ukrainian cuisine]]. This name reflects the influence of [[ukrainian|Ukrainian]] and Eastern European Jewish immigrants who brought their culinary traditions to the United States."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "Following the expansion of the railway system in the late 19th and early 20th centuries, the Catskill Mountains became a favored tourist destination due to their scenic beauty and opportunities for outdoor activities like fly fishing. Jewish families began visiting the area as early as the 1890s, seeking accommodations that accepted them, as many hotels at the time discriminated against Jewish guests.",
+        "By the 1920s, hundreds of hotels had emerged in the region, offering kosher meals and religious services, thus catering to the needs of Jewish families."
+      ]
+    },
+    {
+      "heading": "Rise of the Borscht Belt",
+      "paragraphs": [
+        "The Borscht Belt flourished with numerous hotels, bungalow colonies, and summer camps, providing a unique vacation experience characterized by a strong emphasis on Jewish cuisine and community activities. The area became known for its vibrant social scene, often referred to as the Yiddish Alps.",
+        "Resorts such as Grossinger's and the Concord were among the most notable establishments, with many originally established from farms owned by Jewish immigrants. The region became a hub for Jewish cultural life, leading to the creation of a rich tapestry of entertainment and social interaction."
+      ]
+    },
+    {
+      "heading": "Decline and Transformation",
+      "paragraphs": [
+        "The Borscht Belt peaked in the 1950s and 1960s, with over 500 resorts and numerous bungalows. However, by the late 1960s, the decline began due to various factors, including the rise of air travel, changing leisure preferences among younger Jewish Americans, and decreasing anti-Semitism, which allowed Jewish families to vacation in a wider range of locations.",
+        "Many resorts and bungalow colonies fell into disrepair, while others transitioned into different uses, such as religious summer camps or rehabilitation centers."
+      ]
+    },
+    {
+      "heading": "Current Status",
+      "paragraphs": [
+        "By the 2010s, the region saw a resurgence as a summer home for Orthodox Jewish families, with several former resorts repurposed for religious and community activities. The presence of Hasidic families has grown significantly, transforming the area into a year-round community.",
+        "Despite the decline of traditional Borscht Belt resorts, some remnants of its vibrant past remain, with ongoing cultural events and new establishments catering to the Orthodox community."
+      ]
+    }
+  ],
+  "links_out": [
+    "borscht",
+    "ukrainian",
+    "ukrainian-cuisine"
+  ],
+  "sources": [
+    {
+      "title": "Borscht Belt — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Borscht_Belt",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

@@ -1,0 +1,88 @@
+{
+  "qid": "Q1149375",
+  "slug": "catholic-church-in-ukraine",
+  "title": "Catholic Church in Ukraine",
+  "type": "Catholic Church of an area",
+  "category": "war",
+  "aliases": [
+    "Ukrainian Catholic Church"
+  ],
+  "infobox": {
+    "label": "Catholic Church of an area",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Catholic Church in Ukraine, comprising various rites including the Ukrainian Greek Catholic Church and the Latin Church, plays a significant role in the religious landscape of the country. Approximately 13-14% of Ukraine's population identifies as Catholic, with a majority belonging to the Ukrainian Greek Catholic Church.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Catholic Church in Ukraine (Latin: Ecclesia Catholica in Ucraina; [[ukrainian|Ukrainian]]: Католицька церква в Україні) is a segment of the global Catholic Church, under the spiritual guidance of the Pope in Rome. The Catholic demographic [[coal-in-ukraine|in Ukraine]] constitutes about 13-14% of the total population, with 80% of these individuals affiliated with the [[ukrainian-greek-catholic-church|Ukrainian Greek Catholic Church]] and the [[ruthenian|Ruthenian]] Greek Catholic Church, while others are part of the Latin Church and Armenian Catholic Church."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The roots of the Catholic Church in [[modern-history-of-ukraine|modern Ukraine]] can be traced back to the 10th century, when Christianity was established as the state religion in Ruthenia in 988, prior to the East-West Schism. Historical accounts indicate the presence of Christians and Christian structures in the Medieval state before this date. A notable event in the mid-10th century was the visit of a mission led by Bishop Adalbert of Magdeburg from Trier Monastery to [[kyiv|Kyiv]].",
+        "Following the East-West Schism, the Ruthenian Church, introduced to Kyiv by Byzantine Greeks, became affiliated with Eastern Orthodox Churches. The [[kingdom-of-galiciavolhynia|Kingdom of Ruthenia]] was annexed by the Kingdom of Poland during the [[galicia|Galicia]]–[[volhynia|Volhynia]] Wars, leading to the establishment of the Roman Catholic Archdiocese of [[lviv|Lviv]] in the 14th century. In the mid-15th century, Metropolitan of Kyiv Isidore sought to unite the Ruthenian Church with the Catholic Church by attending the Council of Florence.",
+        "In 1458, due to conflicts with the Grand Duchy of Moscow, the Ecumenical Patriarch of Constantinople, Isidore II, reorganized the Ruthenian Church, moving its metropolitan see to Vilnius. Until 1480, the metropolitan see was held by bishops appointed by the Pope, including Gregory the Bulgarian and Misail Pstruch. The Union of Brest in 1595 formally united the Ruthenian Church with the Catholic Church, fulfilling the aspirations of Metropolitan Isidore."
+      ]
+    },
+    {
+      "heading": "Modern Developments",
+      "paragraphs": [
+        "In 1839, under pressure from the Russian government, all bishops of the Ruthenian Uniate Church signed a union with the Russian Orthodox Church, while dioceses that became part of the Kingdom of Galicia and Lodomeria in the Austrian Empire were reorganized as the Greek-Catholic Church. The Armenian Catholic Church also saw developments, with a bishop signing a union with the Catholic Church in 1630, leading to the establishment of the Armenian Catholic diocese of Lviv.",
+        "In 1646, the Eastern Orthodox diocese of Mukachevo signed the Union of [[uzhhorod|Uzhhorod]], subsequently being overseen by the Archbishop of Eger in Hungary. A significant event occurred in 2001 when Pope John Paul II visited [[ukraine|Ukraine]], engaging with communities from both the Ukrainian Greek Catholic Church and the Latin Church, as well as non-Catholic religious groups, fostering hopes for spiritual and cultural renewal in a nation facing economic and social challenges."
+      ]
+    },
+    {
+      "heading": "Charitable Activities",
+      "paragraphs": [
+        "Caritas Ukraine serves as the charity organization for the Greek Catholic Church, while Caritas-Spes Ukraine is the official charity of the Roman Catholic Church in Ukraine. Both organizations have played crucial roles in humanitarian efforts, particularly in providing assistance to millions affected by the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in 2022."
+      ]
+    },
+    {
+      "heading": "Catholic Demographics",
+      "paragraphs": [
+        "The Catholic community in Ukraine is diverse, including not only [[ukrainians|Ukrainians]] but also Poles, Czechs, Hungarians, Filipinos, and other ethnic groups. The Ukrainian Greek Catholic Church operates under the Byzantine Rite and is in full communion with the Holy See, with its head titled Major Archbishop of Kyiv-[[halych|Halych]] and All Ruthenia, currently held by Major Archbishop Sviatoslav Shevchuk since March 2011."
+      ]
+    },
+    {
+      "heading": "Latin Catholic Church",
+      "paragraphs": [
+        "The Latin Catholic Church in Ukraine, as of 2007, comprised 905 communities, 88 monasteries, 656 monks and nuns, 527 priests, and 713 churches (with 74 under construction), alongside 39 missions and 8 educational institutions. The current Archbishop for the Latins is Mieczysław Mokrzycki, who was ordained on 29 September 2007 by Pope Benedict XVI."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "galicia",
+    "halych",
+    "kingdom-of-galiciavolhynia",
+    "kyiv",
+    "lviv",
+    "modern-history-of-ukraine",
+    "ruthenian",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-greek-catholic-church",
+    "ukrainians",
+    "uzhhorod",
+    "volhynia"
+  ],
+  "sources": [
+    {
+      "title": "Catholic Church in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Catholic_Church_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-12",
+  "status": "published"
+}

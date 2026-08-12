@@ -30,7 +30,7 @@
       }
     ]
   },
-  "summary": "Serhiy Nazarovych Bubka is a distinguished Ukrainian former pole vaulter, recognized as the 1988 Olympic Champion and a record six-time consecutive World Champion. His remarkable achievements in athletics and contributions to sports governance have made him a significant figure in Ukraine's sporting history.",
+  "summary": "Serhiy Nazarovych Bubka is a distinguished Ukrainian former pole vaulter, recognized as the 1988 Olympic Champion and a record six-time consecutive World Champion. His remarkable achievements in athletics and contributions to sports governance have made him a significant figure [[coal-in-ukraine|in Ukraine]]'s sporting history.",
   "sections": [
     {
       "heading": "Early Life and Career",
@@ -71,6 +71,7 @@
   ],
   "links_out": [
     "2022-russian-invasion-of-ukraine",
+    "coal-in-ukraine",
     "luhansk",
     "ukraine",
     "ukrainian",
