@@ -1,0 +1,89 @@
+{
+  "qid": "Q1003394",
+  "slug": "bukovel",
+  "title": "Bukovel",
+  "type": "ski resort",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "ski resort",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "1,000",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.3589, 24.3972",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Bukovel is the largest ski resort in [[eastern-europe|Eastern Europe]], located in Nadvirna Raion, [[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]], [[ukraine|Ukraine]]. Nestled in the Carpathian Mountains, it has gained recognition for its rapid growth and extensive recreational offerings.",
+  "sections": [
+    {
+      "heading": "Geographical Location",
+      "paragraphs": [
+        "Bukovel ([[ukrainian|Ukrainian]]: Буковель) is situated in [[western-ukraine|western Ukraine]], approximately 30 km (19 mi) southwest of the city of Yaremche. The resort is located near the village of Polianytsia, at an elevation of 900 m (3,000 ft) above sea level, on the ridge-lines of the [[carpathians|Carpathian Mountains]]."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The development of Bukovel began in 2000 through a collaboration between Scorzonera Ltd. and Horizont AL, aiming to create an all-year-round tourist complex. Initial research for ski fields and cableways was conducted with the assistance of Plan-Alp from Austria and Ecosign from Canada.",
+        "The first ski lift, measuring 691 meters, was launched by late 2001, and a 1000-meter ropeway was completed in September-October 2002. The resort saw a significant increase in visitors, from 48,000 in 2003 to 1,200,000 in the 2010-2011 winter season.",
+        "In December 2016, a portion of the resort became state-owned following the nationalization of [[privatbank|PrivatBank]], and by March 2020, it was announced that this part would be sold."
+      ]
+    },
+    {
+      "heading": "Infrastructure",
+      "paragraphs": [
+        "Currently, Bukovel features 17 ski lifts and approximately 60 km (37 mi) of pistes, categorized into 12 Blue (beginners), 41 Red (intermediates), and 8 Black (experts) runs. The longest piste measures 2,625 m (8,612 ft).",
+        "The resort encompasses five mountains: Bukovel, Chorna Kleva, Babyn Pohar, Dovha, and Bulchinokha, with the highest point at Mount Dovha, reaching 1,372 meters."
+      ]
+    },
+    {
+      "heading": "Recreational Facilities",
+      "paragraphs": [
+        "Bukovel provides a variety of recreational facilities, including 60 km of ski runs equipped with snow cannons, a ski school, rental shops, and a snow park. The resort can accommodate over 35,000 visitors per hour with its ski lifts.",
+        "In addition to skiing, Bukovel offers numerous activities such as dog sledding, horse riding, paintball, and extreme sports, making it a comprehensive destination for leisure and sports."
+      ]
+    },
+    {
+      "heading": "Health and Wellness",
+      "paragraphs": [
+        "Since 2008, Bukovel has developed into a health and balneotherapy center, addressing various health issues. It features a free pump room for mineral water and is known for its baths with mineral water and herbal extracts."
+      ]
+    },
+    {
+      "heading": "Environmental Initiatives",
+      "paragraphs": [
+        "In January 2025, Bukovel opened a Sustainable Development Office and joined the international Climate Friendly Travel program in December 2025, focusing on decarbonization and responsible tourism."
+      ]
+    }
+  ],
+  "links_out": [
+    "carpathians",
+    "eastern-europe",
+    "ivano-frankivsk-oblast",
+    "privatbank",
+    "ukraine",
+    "ukrainian",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Bukovel — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bukovel",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

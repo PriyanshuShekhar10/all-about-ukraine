@@ -34,7 +34,7 @@
     {
       "heading": "Geographical Extent",
       "paragraphs": [
-        "Polesia is one of the largest forested regions in Europe, situated in the southwestern part of the Eastern-European Lowland, specifically the Polesian Lowland. It encompasses the Bug River valley in Poland and the [[pripyat-river|Pripyat River]] valley in [[western-ukraine|Western Ukraine]]. Historically, the westernmost area of Polesia, near Brest, Belarus, was part of the Podlachia region. According to the late 19th-century Geographical Dictionary of the Kingdom of Poland, Polesia is defined as a triangle formed by the cities of Brest, Mogilev, and [[kyiv|Kyiv]].",
+        "Polesia is one of the largest forested regions in Europe, situated in the southwestern part of the Eastern-European Lowland, specifically the Polesian Lowland. It encompasses the [[western-bug|Bug River]] valley in Poland and the [[pripyat-river|Pripyat River]] valley in [[western-ukraine|Western Ukraine]]. Historically, the westernmost area of Polesia, near Brest, Belarus, was part of the Podlachia region. According to the late 19th-century Geographical Dictionary of the Kingdom of Poland, Polesia is defined as a triangle formed by the cities of Brest, Mogilev, and [[kyiv|Kyiv]].",
         "The central swampy areas of Polesia are referred to as the Pinsk Marshes. Following the [[chernobyl-disaster|Chernobyl disaster]], significant portions of this region were contaminated, leading to the establishment of the [[chernobyl-exclusion-zone|Chernobyl Exclusion Zone]] and the [[rivne-oblast|Polesie]] State Radioecological Reserve, which includes [[administrative-territorial-entity-of-ukraine|areas in Ukraine]] north-northwest of Kyiv."
       ]
     },
@@ -80,6 +80,7 @@
     "rivne-oblast",
     "ukraine",
     "volhynia",
+    "western-bug",
     "western-ukraine",
     "zhytomyr"
   ],

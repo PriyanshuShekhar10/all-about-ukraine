@@ -64,23 +64,25 @@
       "heading": "Products and Activities",
       "paragraphs": [
         "Antonov's primary focus includes the design and manufacturing of large military transport aircraft, as well as airliners and various derivatives. The company has produced notable models such as the An-2, An-124, and An-148.",
-        "In addition to aircraft production, Antonov is involved in cargo air transport through Antonov Airlines, aircraft maintenance, testing, and aerospace research."
+        "In addition to aircraft production, Antonov is involved in cargo air transport through [[antonov-airlines|Antonov Airlines]], aircraft maintenance, testing, and aerospace research."
       ]
     },
     {
       "heading": "Facilities and Composition",
       "paragraphs": [
-        "Antonov's key production facilities include the Antonov Serial Production Plant in Kyiv and the [[kharkiv-oblast|Kharkiv]] Aviation Factory. The company operates from airfields such as Sviatoshyn Airfield and Hostomel Airport.",
+        "Antonov's key production facilities include the Antonov Serial Production Plant in Kyiv and the [[kharkiv-oblast|Kharkiv]] Aviation Factory. The company operates from airfields such as [[sviatoshyn|Sviatoshyn]] Airfield and Hostomel Airport.",
         "The consolidation of production capabilities has allowed Antonov to maintain a full manufacturing cycle, although it continues to collaborate with various contractors for assembly and production."
       ]
     }
   ],
   "links_out": [
+    "antonov-airlines",
     "cabinet-of-ministers-of-ukraine",
     "full-scale-russo-ukrainian-war",
     "kharkiv-oblast",
     "kyiv",
     "russian-annexation-of-crimea",
+    "sviatoshyn",
     "ukraine",
     "ukrainian"
   ],

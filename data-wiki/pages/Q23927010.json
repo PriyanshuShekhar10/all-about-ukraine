@@ -1,0 +1,71 @@
+{
+  "qid": "Q23927010",
+  "slug": "crimea-gold-and-secrets-of-the-black-sea",
+  "title": "Crimea – Gold and Secrets of the Black Sea",
+  "type": "museum exhibition",
+  "category": "history",
+  "aliases": [
+    "Crimea – Golden Island in the Black Sea",
+    "Crimea – The Golden Island in the Black Sea",
+    "Crimea: Gold and Secrets of the Black Sea",
+    "Crimea: Golden Island in the Black Sea",
+    "Crimea: The Golden Island in the Black Sea",
+    "Scythian Gold"
+  ],
+  "infobox": {
+    "label": "museum exhibition",
+    "fields": [
+      {
+        "label": "Location",
+        "value": "Allard Pierson",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The exhibition 'Crimea – Gold and Secrets of the Black Sea,' also known as 'Scythian Gold,' is a significant cultural showcase that highlights the historical artifacts of Ukraine, particularly those from Crimea. It was held in Germany and the Netherlands from 2013 to 2014 and became embroiled in legal disputes following the Russian annexation of Crimea.",
+  "sections": [
+    {
+      "heading": "Exhibition Overview",
+      "paragraphs": [
+        "'Crimea – Gold and Secrets of the Black Sea,' referred to as 'Scythian Gold,' is an exhibition of historical and cultural significance that commenced on July 3, 2013, at the Rheinisches Landesmuseum Bonn. It later moved to the Allard Pierson Museum in Amsterdam, running from February 7 to August 31, 2014. The exhibition was curated from the collections of six [[ukrainian|Ukrainian]] museums and historical reserves, covering a timeline from antiquity to the early Middle Ages."
+      ]
+    },
+    {
+      "heading": "Legal Disputes",
+      "paragraphs": [
+        "Following the Russian invasion of [[crimea|Crimea]] in early 2014, the exhibition became a focal point of legal disputes involving [[ukraine|Ukraine]], the Allard Pierson Museum, and Crimean museums. In September 2014, part of the exhibits belonging to mainland Ukrainian museums were returned to Ukraine. On December 14, 2016, an Amsterdam court ruled that the exhibits from Crimea should be considered property of Ukraine rather than the Russian-occupied Crimea, marking a significant legal precedent in modern [[history-of-ukraine|Ukrainian history]]."
+      ]
+    },
+    {
+      "heading": "Collection Details",
+      "paragraphs": [
+        "The 'Scythian Gold' exhibition featured artifacts from six Ukrainian museums and historical reserves, including the [[national-historical-museum-of-ukraine|National Museum of the History of Ukraine]], the [[odesa|Odesa]] Archaeological Museum, and several museums in temporarily occupied Crimea. Notably, the Republic of Crimea Regional Museum contributed 451 artifacts from the [[scythians|Scythian]] Neapolis, showcasing items such as bronze and silver ornaments and 4th-century stucco vessels. Additionally, the Bakhchysarai State Historical and Cultural Reserve provided 215 artifacts from the Ust-Almin necropolis, enriching the exhibition with jewelry, decorative art, household items, and weaponry, collectively representing the Scythian, Goth, and Sarmatian cultures of Crimea."
+      ]
+    },
+    {
+      "heading": "Exhibition Attendance",
+      "paragraphs": [
+        "During its display at the Rheinisches Landesmuseum Bonn from July 3, 2013, to January 20, 2014, the exhibition attracted over 53,000 visitors. The Rhine Regional Museum organized the exhibition, which was initially scheduled to return to Ukraine in June 2014, but the [[russian-annexation-of-crimea|annexation of Crimea]] delayed this process and led to the complex legal situation surrounding the ownership of the exhibits."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "history-of-ukraine",
+    "national-historical-museum-of-ukraine",
+    "odesa",
+    "russian-annexation-of-crimea",
+    "scythians",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Crimea – Gold and Secrets of the Black Sea — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Crimea_–_Gold_and_Secrets_of_the_Black_Sea",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

@@ -1,0 +1,68 @@
+{
+  "qid": "Q302045",
+  "slug": "post-soviet-states",
+  "title": "Post-Soviet states",
+  "type": "cultural region",
+  "category": "history",
+  "aliases": [
+    "New Independent States",
+    "Post-Soviet republics",
+    "former Soviet Union"
+  ],
+  "infobox": {
+    "label": "cultural region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Estonia, Latvia",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The post-Soviet states, consisting of 15 independent nations that emerged following the dissolution of the Soviet Union in 1991, play a significant role in the geopolitical landscape of Ukraine and its neighboring regions. This cultural region includes countries that were once Union Republics and highlights the complex historical and political ties among them.",
+  "sections": [
+    {
+      "heading": "Overview of Post-Soviet States",
+      "paragraphs": [
+        "The post-Soviet states, also known as the former Soviet Union or former Soviet republics, are the independent sovereign nations that emerged from the dissolution of [[soviet-union|the Soviet Union]] in 1991. Prior to their independence, these nations existed as Union Republics, the top-level constituents of the Soviet Union. The 15 post-Soviet states are Armenia, Azerbaijan, Belarus, Estonia, Georgia, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Moldova, Russia, Tajikistan, Turkmenistan, [[ukraine|Ukraine]], and Uzbekistan."
+      ]
+    },
+    {
+      "heading": "Political Context and Recognition",
+      "paragraphs": [
+        "Following the dissolution of the Soviet Union, the international community recognized Russia as the only continuator state to the Soviet Union, while the other post-Soviet states were acknowledged as successors only to their respective Union Republics. The Baltic states were the first to declare independence in 1990, with the remaining Union Republics following suit and forming the Commonwealth of Independent States (CIS). Ukraine, alongside Georgia, has actively pursued NATO membership in response to Russian interference in their domestic affairs."
+      ]
+    },
+    {
+      "heading": "Economic Transition",
+      "paragraphs": [
+        "The economic landscape of the post-Soviet states underwent significant transformation following the Soviet Union's collapse. The transition from a command economy to a market economy began in the early 1990s, leading to severe economic declines, with GDP dropping by over 40% from 1990 to 1995. By 2007, 10 of the 15 post-Soviet states had recovered their 1991 GDP levels. However, as of 2015, Ukraine and several others had not yet returned to their pre-transition economic outputs."
+      ]
+    },
+    {
+      "heading": "Demographics and Urban Centers",
+      "paragraphs": [
+        "The post-Soviet region is home to 30 cities with populations exceeding one million, with Russia having the most, followed by Kazakhstan and Ukraine. As of 2025, the combined population of the 15 post-Soviet states is approximately 298.79 million, with Ukraine being a significant demographic contributor."
+      ]
+    },
+    {
+      "heading": "Regional Organizations",
+      "paragraphs": [
+        "Various regional organizations have emerged since the dissolution of the Soviet Union, with Ukraine being a founding member of the Commonwealth of Independent States (CIS) in 1991. However, Ukraine ceased participation in 2018. The Baltic states have opted for integration into the European Union and NATO, distancing themselves from post-Soviet organizations."
+      ]
+    }
+  ],
+  "links_out": [
+    "soviet-union",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Post-Soviet states — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Post-Soviet_states",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

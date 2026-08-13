@@ -1,0 +1,119 @@
+{
+  "qid": "Q181568",
+  "slug": "ivan-aivazovsky",
+  "title": "Ivan Aivazovsky",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Aivasovsky",
+    "Aiwasowski",
+    "Ajvazovskij",
+    "Hovhannes Aivazovsky",
+    "Hovhannēs Ayvazean",
+    "Hovhannēs Ayvazian",
+    "Hovhannēs Ayvazyan",
+    "Hovhannēs Gosdantini Ayvazovsgi",
+    "Hovhannēs Kostandinian Ayvaziantsʻ",
+    "Hovhannēs Kostandinian Ayvazovski",
+    "I. Aiwasowski",
+    "I. Const. Aiwasowsky",
+    "I.K. AIWASOWSKI",
+    "Ivan Ajvazovs'kyj",
+    "Ivan Ayvazovsky",
+    "Ivan Constantinovich Aivazovski",
+    "Ivan Haivazovsky",
+    "Ivan Hajvazovs'kyj",
+    "Ivan Hayvazovski",
+    "Ivan Konstantinovic Ajvazovskij",
+    "Ivan Konstantinovich Aivazovskii",
+    "Ivan Konstantinovich Aivazovsky",
+    "Ivan Konstantinovich Aivazowsky",
+    "Ivan Konstantinovich Aiwasoffski",
+    "Ivan Konstantinovich Alwasoffski",
+    "Ivan Konstantinovich Ayvazovsky",
+    "Ivan Konstantinovich Aĭvazovskĭi",
+    "Ivan Konstantinovitsch Aivasovsky",
+    "Ivan Konstantinovič Ajvazovskij",
+    "Ivan Kosti︠a︡ntynovych Aĭvazovsʹkyĭ",
+    "Ivan Kosti︠a︡ntynovych Haĭvazovsʹkyĭ",
+    "Iwan Aiwasoffski",
+    "Iwan Aiwasowski",
+    "Iwan C. Aiwasowski",
+    "Iwan C. Aiwasowsky",
+    "Iwan Constantinowitsch Aivasovsky",
+    "Iwan Constantinowitsch Aiwasowski",
+    "Iwan Konstantino Witsch Aiwasowski",
+    "Iwan Konstantinowitsch Aiwasowski",
+    "Iwan Konstantinowitsch Aiwasówskij",
+    "Iwan konstantin. aiwasowski",
+    "J. Aivasovsky",
+    "J. K. Aivasovsky",
+    "John Ayvazovsky",
+    "iwan k. aiwasowski",
+    "iwan k. aiwasowsky",
+    "İvan Konstantinoviç Ayvazovski"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1817-07-17",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1900-04-19",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Feodosiia",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Ivan Konstantinovich Aivazovsky was a prominent Russian Romantic painter, renowned for his mastery in marine art. Born in Feodosia, Crimea, to Armenian parents, Aivazovsky's works are significant within the Ukrainian context, with many of his paintings housed in Ukrainian museums.",
+  "sections": [
+    {
+      "heading": "Background",
+      "paragraphs": [
+        "Ivan Aivazovsky was born on 29 July [O.S. 17 July] 1817 in Feodosia, [[crimea|Crimea]], then part of the Russian Empire. His baptismal records from the St. Sargis Armenian Apostolic Church list him as Hovhannes, son of Gevorg Aivazian. His family, originally from Western Armenia, had migrated to Europe in the 18th century. Aivazovsky's father, Konstantin, was an Armenian merchant who settled in Feodosia, where Aivazovsky grew up."
+      ]
+    },
+    {
+      "heading": "Education",
+      "paragraphs": [
+        "Aivazovsky received his early education at the St. Sargis Armenian Church in Feodosia and later attended a Russian gymnasium in Simferopol. He moved to Saint Petersburg in 1833 to study at the Imperial Academy of Arts, where he graduated with a gold medal in 1837. His education and experiences in Crimea greatly influenced his artistic development."
+      ]
+    },
+    {
+      "heading": "Artistic Career and Prominence",
+      "paragraphs": [
+        "Aivazovsky became the official artist of the Russian Navy and gained recognition for his seascapes and battle scenes. His career flourished after his return from Europe in the mid-1840s, where he had been influenced by Italian art. He participated in military maneuvers and painted scenes during the [[crimean-war|Crimean War]], further establishing his reputation.",
+        "Throughout his career, Aivazovsky created around 6,000 paintings, many of which are now held in museums across Russia, [[ukraine|Ukraine]], Armenia, and Turkey. His works often depicted themes relevant to the Black Sea region and the Armenian experience, highlighting his connection to Ukraine."
+      ]
+    },
+    {
+      "heading": "Later Life and Legacy",
+      "paragraphs": [
+        "In his later years, Aivazovsky continued to receive accolades and was involved in various cultural initiatives, including the establishment of an archaeological museum in Feodosia. He married a young Armenian widow, Anna Burnazian, in 1882, expressing a desire to connect more closely with his heritage. Aivazovsky's legacy endures, with his works celebrated in both [[ukrainian|Ukrainian]] and international art circles."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "crimean-war",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ivan Aivazovsky — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ivan_Aivazovsky",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

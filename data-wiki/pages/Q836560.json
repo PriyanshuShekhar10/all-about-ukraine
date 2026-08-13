@@ -1,0 +1,101 @@
+{
+  "qid": "Q836560",
+  "slug": "ukraine-international-airlines",
+  "title": "Ukraine International Airlines",
+  "type": "airline",
+  "category": "economy",
+  "aliases": [
+    "UIA",
+    "UU",
+    "UUA",
+    "Ukraine Air",
+    "Ukraine Airline",
+    "Ukraine Airlines",
+    "Ukraine International",
+    "Ukraine International Air"
+  ],
+  "infobox": {
+    "label": "airline",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1992",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Ukraine International Airlines PJSC, commonly known as UIA, served as the flag carrier and largest airline in Ukraine, headquartered in Kyiv with its primary hub at Boryspil International Airport. The airline provided both domestic and international passenger and cargo services until its operations were severely impacted by the Russo-Ukrainian war, leading to its suspension and subsequent bankruptcy in 2023.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Ukraine International Airlines PJSC, often referred to as UIA, was the flag carrier and the largest airline [[coal-in-ukraine|in Ukraine]]. Its head office was located in [[kyiv|Kyiv]], and its main hub was at [[boryspil-international-airport|Boryspil International Airport]]. UIA operated domestic and international flights, as well as cargo services to various regions including Europe, the Middle East, the United States, Canada, and Asia."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "UIA was founded as an alternative to Ukraine Airlines, which was a remnant of the Soviet aviation system. In early 1992, an agreement was reached to lease two Boeing 737-400s from Guinness Peat Aviation, leading to the establishment of the airline aimed at meeting international safety and service standards. The first flight took place on 25 November 1992 from Kyiv to London, followed by routes to several major European cities.",
+        "The airline became notable as one of the first joint ventures with foreign capital in Ukraine and was the first in the [[post-soviet-states|former Soviet Union]] to operate the Boeing 737-400. Over the years, UIA expanded its operations, including cargo services starting on 13 November 1994."
+      ]
+    },
+    {
+      "heading": "Operational Developments",
+      "paragraphs": [
+        "By the first half of 2013, UIA saw a significant increase in passenger numbers, reaching 2,200,000. The airline launched new routes following the collapse of competitor Aerosvit and began non-stop flights to New York City in April 2014. However, in October 2015, UIA faced operational restrictions when the Russian government barred its flights to Russia in response to [[ukraine|Ukraine]]'s ban on Russian airlines.",
+        "In 2022, the [[full-scale-russo-ukrainian-war|Russo-Ukrainian war]] led to the closure of [[ukrainian|Ukrainian]] airspace, forcing UIA to suspend flights starting 24 February. The airline's operations were further complicated by internal conflicts among stakeholders, leading to a complete suspension of operations by late 2022."
+      ]
+    },
+    {
+      "heading": "Bankruptcy and Legal Issues",
+      "paragraphs": [
+        "As of late 2022, UIA was facing significant debts, which culminated in the company being placed into bankruptcy administration on 22 November 2023. The airline's assets were auctioned, and the company faced legal challenges, including a lawsuit filed by Ukreximbank for financial obligations exceeding 20 billion [[hryvnia|hryvnia]].",
+        "In 2024, the [[security-service-of-ukraine|Security Service of Ukraine]] seized several aircraft linked to tax evasion, and in 2025, sanctions were imposed on prominent oligarchs associated with the airline. The situation was exacerbated by allegations of unpaid fees to Boryspil International Airport and missing aircraft components."
+      ]
+    },
+    {
+      "heading": "Corporate Affairs",
+      "paragraphs": [
+        "In February 2011, the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] divested its 61.6% stake in UIA, leading to a shift in ownership primarily to Capital Investment Project LLC and Ontobet Promotions Limited. The airline experienced financial difficulties in subsequent years, reporting substantial losses and accumulating unpaid fees to state regulators.",
+        "Despite efforts to modernize its fleet and expand operations, UIA's financial instability led to a significant reduction in services, with the airline ultimately unable to recover from the impacts of the war and internal disputes."
+      ]
+    },
+    {
+      "heading": "Destinations and Services",
+      "paragraphs": [
+        "Before the suspension of operations, UIA connected Ukraine to over 80 destinations across Europe, Asia, the Middle East, and North America, operating more than 1000 flights per week from its base in Kyiv. Although not classified as a budget airline, UIA's competitive pricing made it a popular choice among travelers."
+      ]
+    }
+  ],
+  "links_out": [
+    "boryspil-international-airport",
+    "cabinet-of-ministers-of-ukraine",
+    "coal-in-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "hryvnia",
+    "kyiv",
+    "post-soviet-states",
+    "security-service-of-ukraine",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ukraine International Airlines — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukraine_International_Airlines",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

@@ -1,0 +1,64 @@
+{
+  "qid": "Q1364972",
+  "slug": "intermarium",
+  "title": "Intermarium",
+  "type": "proposed state merger",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "proposed state merger",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "1918",
+        "source": "wikidata:P585"
+      }
+    ]
+  },
+  "summary": "Intermarium was a geopolitical initiative proposed by Józef Piłsudski after World War I aimed at uniting the lands of the former Polish–Lithuanian Commonwealth into a federation. This plan included various Central and Eastern European nations, including Ukraine, and sought to counterbalance Russian and German imperialism.",
+  "sections": [
+    {
+      "heading": "Concept and Goals",
+      "paragraphs": [
+        "Intermarium, known as Międzymorze in Polish, was conceived by Józef Piłsudski as a post-World War I plan to unite the territories of the former Polish–Lithuanian Commonwealth. The federation was intended to encompass regions between the Baltic, Black, and Adriatic Seas, and aimed to include countries such as Lithuania, Latvia, Estonia, Finland, Belarus, [[ukraine|Ukraine]], Hungary, Romania, Yugoslavia, and Czechoslovakia.",
+        "The federation was envisioned as a revival of the Polish–Lithuanian Commonwealth, which had existed from the late 16th century until the late 18th century. Piłsudski's initiative was also linked to his broader geopolitical strategy known as Prometheism, which sought the disintegration of the Russian Empire and the liberation of its subjugated nations."
+      ]
+    },
+    {
+      "heading": "Historical Precedents",
+      "paragraphs": [
+        "The idea of a Polish–Lithuanian union dates back to the Union of Krewo in 1385 and was solidified with the establishment of the Polish–Lithuanian Commonwealth in 1569. This alliance lasted until the Third Partition of Poland in 1795 and was one of the largest states in Europe at its height.",
+        "Earlier proposals for a renewed Polish–Lithuanian Commonwealth were made by figures like Prince Adam Jerzy Czartoryski in the 19th century, who sought to unite various Slavic nations against common threats, particularly from Russia and Prussia."
+      ]
+    },
+    {
+      "heading": "Challenges and Opposition",
+      "paragraphs": [
+        "Piłsudski's Intermarium faced significant opposition from various groups. [[soviet-union|The Soviet Union]] viewed the plan as a direct threat to its influence, while many Western powers were skeptical of its feasibility. Both Lithuania and Ukraine, seeking their own independence, were wary of potential Polish domination.",
+        "Within Poland, there was resistance from nationalists who favored a homogeneous Polish state and opposed the idea of a multiethnic federation. This internal division, along with conflicts such as the Polish–Soviet War and the Polish–[[full-scale-russo-ukrainian-war|Ukrainian War]], hindered the realization of the Intermarium vision."
+      ]
+    },
+    {
+      "heading": "Decline and Legacy",
+      "paragraphs": [
+        "Following the Polish–Soviet War and the establishment of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]], the prospects for the Intermarium federation diminished significantly. Piłsudski's later attempts to form alliances with Baltic and Balkan states also failed due to mutual distrust and regional tensions.",
+        "Piłsudski's death in 1935 marked the decline of the Intermarium concept, although his protégé Józef Beck attempted a reduced version of the idea with the 'Third Europe' proposal in the late 1930s, which similarly failed to gain traction due to the dominance of Nazi Germany in the region."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "soviet-union",
+    "ukraine",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Intermarium — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Intermarium",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

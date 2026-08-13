@@ -1,0 +1,107 @@
+{
+  "qid": "Q128499",
+  "slug": "yalta",
+  "title": "Yalta",
+  "type": "human settlement",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "human settlement",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1154",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Byzantine Empire, Principality of Theodoro",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "32,683",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "283",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "200",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Pavlenko Yanina Petrovna",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "44.4994, 34.1553",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Yalta is a resort city located on the southern coast of the [[crimea|Crimean Peninsula]], recognized internationally as part of [[ukraine|Ukraine]] and serving as the administrative center of Yalta Municipality. Despite its official status, Yalta has been under de facto Russian control since the [[russian-annexation-of-crimea|annexation of Crimea]] in 2014.",
+  "sections": [
+    {
+      "heading": "Geographical and Historical Context",
+      "paragraphs": [
+        "Yalta is situated on the site of the ancient Greek colony of Yalita, founded by Greek settlers seeking a safe landing shore. The city is located on a deep bay facing south towards the Black Sea, surrounded by the Ai-Petri mountain range. It has a humid subtropical climate and is characterized by numerous vineyards and orchards.",
+        "The earliest known reference to Yalta dates back to the 12th century when an Arab geographer described it as a Byzantine port. It became part of a network of Genoese trading colonies in the 14th century, known as Etalita or Galita. Following its annexation by the Russian Empire in 1783, Yalta gained prominence as a resort destination for the Russian aristocracy in the 19th century."
+      ]
+    },
+    {
+      "heading": "Significant Events",
+      "paragraphs": [
+        "Yalta gained international recognition during the [[yalta-conference|Yalta Conference]] in 1945, where leaders from [[soviet-union|the Soviet Union]], the United States, and the United Kingdom convened to discuss post-World War II arrangements.",
+        "The city was occupied by German forces from November 9, 1941, to April 16, 1944, during World War II."
+      ]
+    },
+    {
+      "heading": "Cultural and Economic Aspects",
+      "paragraphs": [
+        "In the 20th century, Yalta served as a major holiday resort for the Soviet Union, with a focus on providing recreation for workers. The transformation of the region included the establishment of numerous sanatoria for the working class.",
+        "Following the dissolution of the Soviet Union in 1991, Yalta faced economic challenges as tourism declined. The city remains a popular destination for tourists from the [[post-soviet-states|former Soviet Union]], with a notable seafront promenade and various attractions."
+      ]
+    },
+    {
+      "heading": "Demographics and Notable Figures",
+      "paragraphs": [
+        "As of the 2014 Census, Yalta had a population of 76,746. The demographic composition includes a majority of Russians (65.5%), followed by [[ukrainians|Ukrainians]] (27.7%), Belarusians (1.6%), and [[crimean-tatars|Crimean Tatars]] (1.3%).",
+        "Notable individuals from Yalta include Oleksandr Lignau, a [[ukrainian|Ukrainian]] general, and various artists and athletes such as Julia Vakulenko and Nathalia Edenmont."
+      ]
+    },
+    {
+      "heading": "Tourist Attractions",
+      "paragraphs": [
+        "Yalta features several significant attractions, including the renovated Sea Promenade, Saint Hripsime Church, and the White Dacha, which was home to Anton Chekhov. The city is also known for its parks, beaches, and historical sites like the Livadia Palace and Massandra Palace.",
+        "The region's natural beauty is complemented by its mild climate, making it one of the warmest locations [[coal-in-ukraine|in Ukraine]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "crimea",
+    "crimean-tatars",
+    "post-soviet-states",
+    "russian-annexation-of-crimea",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "yalta-conference"
+  ],
+  "sources": [
+    {
+      "title": "Yalta — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yalta",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

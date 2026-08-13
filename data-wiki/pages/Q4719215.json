@@ -53,7 +53,7 @@
     {
       "heading": "Public Engagement",
       "paragraphs": [
-        "Motyl actively engages in public discourse through opinion columns in various publications, including Foreign Policy, 19FortyFive, and The Kyiv Post. His commentary often addresses contemporary issues related to Ukraine and its geopolitical context."
+        "Motyl actively engages in public discourse through opinion columns in various publications, including Foreign Policy, 19FortyFive, and The [[kyiv-post|Kyiv Post]]. His commentary often addresses contemporary issues related to Ukraine and its geopolitical context."
       ]
     }
   ],
@@ -61,6 +61,7 @@
     "coal-in-ukraine",
     "holodomor",
     "kyiv",
+    "kyiv-post",
     "soviet-union",
     "ukraine",
     "ukrainian",

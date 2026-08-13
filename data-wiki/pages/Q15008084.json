@@ -1,0 +1,85 @@
+{
+  "qid": "Q15008084",
+  "slug": "national-university-yuri-kondratyuk-poltava-polytechnic",
+  "title": "National University «Yuri Kondratyuk Poltava Polytechnic»",
+  "type": "university",
+  "category": "politics",
+  "aliases": [
+    "Poltava Engineering and Construction Institute",
+    "Poltava Institute of Agricultural Construction",
+    "Poltava National Technical University named after Yury Kondratyuk",
+    "Poltava National Technical Yuri Kondratyuk University"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1818",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.5761, 34.5671",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The National University 'Yuri Kondratyuk Poltava Polytechnic' is a prominent public university located in Poltava, Ukraine, recognized for its extensive educational programs and historical significance.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The Central Building of the university, constructed between 1828 and 1832 in the classical style by architect Louis Charlemagne, serves as a notable architectural monument from the first half of the 19th century.",
+        "The university's origins trace back to December 12, 1818, when Varvara Riepina established the Institute of Noble Maidens in [[poltava|Poltava]], which was the first educational institution for noble girls in the Russian Empire's provincial capital.",
+        "In January 1918, the Institute of Noble Maidens was evacuated to Vladikavkaz due to the October Revolution, where it initiated the establishment of a municipal girls' school. From 1918 to 1930, the Central Building was repurposed for various educational and social functions.",
+        "During the 1930s, Poltava became a center for training agricultural construction engineers, leading to the establishment of the Poltava Institute of Agricultural Construction in 1930, which occupied the former Institute of Noble Maidens building.",
+        "As World War II commenced, the institute was evacuated to Oral, Kazakhstan, where students and faculty contributed to the war effort. They returned to Poltava in October 1942, facing the challenge of rebuilding the war-damaged institute.",
+        "In the post-war decade, the institution expanded its facilities and academic offerings, with new faculties being established between 1954 and 1971."
+      ]
+    },
+    {
+      "heading": "The Period of Independent Ukraine",
+      "paragraphs": [
+        "In 1992, the institution transitioned from a specialized construction institute to a university offering 26 fields of study, including economics, electromechanics, and architecture. It achieved the highest accreditation level IV and was renamed a technical university on August 29, 1994.",
+        "On March 27, 2002, the university was granted the status of 'National University' by Presidential Decree No. 302/2002.",
+        "To honor the centenary of Yuri Kondratyuk's birth, the university was named after him on June 21, 1997, by a government decree.",
+        "On August 2, 2019, the institution was officially renamed to National University 'Yuri Kondratyuk Poltava Polytechnic' by the Decree of the Minister of Education and Science of [[ukraine|Ukraine]], Liliia Hrynevych."
+      ]
+    },
+    {
+      "heading": "Campuses and Facilities",
+      "paragraphs": [
+        "The university comprises several buildings, including the historical Central studying building and nine additional study buildings designated by letters from 'Л' to 'Н'.",
+        "It also features laboratory facilities, a stadium, a sports complex, and a campus that includes five dormitories for students and a dispensary."
+      ]
+    },
+    {
+      "heading": "Academic Structure",
+      "paragraphs": [
+        "The university offers a variety of faculties, including Architectural, Construction, Electromechanical, Oil-gas and Nature Management, Finance and Economics, Management and Business, Information and Telecommunication Technologies and Systems, and Humanitarian studies.",
+        "Additionally, it has a Centre of Postgraduate Education and a preparation department for foreign students.",
+        "Separate divisions include the Poltava Petroleum Exploration College and [[myrhorod|Myrhorod]] State Art Industrial College."
+      ]
+    }
+  ],
+  "links_out": [
+    "myrhorod",
+    "poltava",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Poltava National Technical University — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Poltava_National_Technical_University",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

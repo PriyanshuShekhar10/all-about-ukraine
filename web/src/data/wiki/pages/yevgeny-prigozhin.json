@@ -1,0 +1,105 @@
+{
+  "qid": "Q20850503",
+  "slug": "yevgeny-prigozhin",
+  "title": "Yevgeny Prigozhin",
+  "type": "human",
+  "category": "war",
+  "aliases": [
+    "Eugeniy Prigozhin",
+    "Evgenii Prigozhin",
+    "Evgenij Viktorovich Prigozhin",
+    "Prigozhin",
+    "Prigozhin, Yevgeny",
+    "Putin’s chef",
+    "Yevgeniy Prigozhin",
+    "Yevgeniy Vicktorovich Prigozhin",
+    "Yevgeny Viktorovich Prigozhin"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1961-06-01",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "2023-08-23",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Saint Petersburg",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "Leader of the Wagner Group, commanding officer",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Yevgeny Viktorovich Prigozhin (1 June 1961 – 23 August 2023) was a Russian mercenary leader and oligarch known for his leadership of the Wagner Group, a private military company involved in the conflict in Ukraine. He was a significant figure in the Russian military operations and political landscape, particularly regarding Russia's actions in Ukraine and his connections to the Kremlin.",
+  "sections": [
+    {
+      "heading": "Background and Early Life",
+      "paragraphs": [
+        "Yevgeny Viktorovich Prigozhin was born on 1 June 1961 in Leningrad, [[soviet-union|Soviet Union]] (now Saint Petersburg, Russia). He was raised in a family with a military background, as his grandfather served in the Red Army during World War II. Prigozhin spent part of his childhood in Zhovti Vody, [[ukraine|Ukraine]], where he worked in an open-pit uranium mine.",
+        "Prigozhin graduated from Leningrad Sports Boarding School No. 62 in 1977, aspiring to be a professional skier. However, an injury led him to abandon this career and work as a fitness trainer."
+      ]
+    },
+    {
+      "heading": "Criminal History and Imprisonment",
+      "paragraphs": [
+        "In 1979, Prigozhin was convicted of theft and received a suspended sentence. His criminal activities escalated, leading to a twelve-year sentence in a high-security penal colony for robbery and fraud. He served nine years before being released in 1990, after which he attempted to pursue a degree in pharmaceuticals but did not complete his studies."
+      ]
+    },
+    {
+      "heading": "Rise to Prominence",
+      "paragraphs": [
+        "After his release, Prigozhin entered the food industry, initially selling hot dogs and later establishing a successful restaurant business. His connections with Russian political leaders, including [[vladimir-putin|Vladimir Putin]], grew during this time, leading to lucrative government contracts for his catering businesses.",
+        "By 2012, Prigozhin's companies were awarded significant contracts, including a $1.2 billion deal to supply meals to the Russian military, which would later fund the Wagner Group."
+      ]
+    },
+    {
+      "heading": "Wagner Group and Involvement in Ukraine",
+      "paragraphs": [
+        "The Wagner Group, founded by Prigozhin in 2014, played a crucial role in supporting Russian separatist forces during the [[war-in-donbas|Donbas War]] and later in the 2022 [[full-scale-russo-ukrainian-war|invasion of Ukraine]]. The group was utilized to further Russian interests while providing the [[kremlin|Kremlin]] with plausible deniability.",
+        "Prigozhin publicly acknowledged his role in the Wagner Group, claiming it was established to protect Russian interests [[coal-in-ukraine|in Ukraine]], particularly in response to the perceived genocide of the Russian population in the [[donbas|Donbas]] region."
+      ]
+    },
+    {
+      "heading": "Criticism and Rebellion",
+      "paragraphs": [
+        "Throughout the conflict in Ukraine, Prigozhin criticized the Russian Defense Ministry for its handling of the war and the reasons given for the invasion. His discontent culminated in a brief rebellion against Russian military leadership in June 2023, during which Wagner forces captured Rostov-on-Don and advanced toward Moscow.",
+        "The rebellion was called off the following day, and Prigozhin relocated to Belarus after charges against him were dropped."
+      ]
+    },
+    {
+      "heading": "Death and Legacy",
+      "paragraphs": [
+        "On 23 August 2023, Prigozhin died in a plane crash in Tver Oblast, north of Moscow, two months after his rebellion. Speculations regarding the cause of the crash suggest possible sabotage. His death marked the end of a controversial figure whose actions had significant implications for Russia's military operations in Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "donbas",
+    "full-scale-russo-ukrainian-war",
+    "kremlin",
+    "soviet-union",
+    "ukraine",
+    "vladimir-putin",
+    "war-in-donbas"
+  ],
+  "sources": [
+    {
+      "title": "Yevgeny Prigozhin — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yevgeny_Prigozhin",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

@@ -1,0 +1,85 @@
+{
+  "qid": "Q487125",
+  "slug": "viktor-tsoi",
+  "title": "Viktor Tsoi",
+  "type": "human",
+  "category": "culture",
+  "aliases": [
+    "Victor Tsoy",
+    "Viktor Robertovich Tsoi",
+    "Viktor Robertovich Tsoj"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1962-06-21",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1990-08-15",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Saint Petersburg",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Viktor Tsoi was a prominent Soviet singer-songwriter and actor, co-founder of the influential band Kino, which played a significant role in the development of rock music in the Soviet Union. His work resonated with youth across the region, including Ukraine, particularly during the transformative period of Perestroika.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Viktor Robertovich Tsoi was born on 21 June 1962 in Leningrad, now known as Saint Petersburg. He was the only child of Valentina Vasilyevna Tsoi, a Russian schoolteacher, and Robert Maximovich Tsoi, a Soviet Korean engineer from Kyzylorda, Kazakhstan. Tsoi's family heritage traces back to the Korean clan Wonju Choe, and he grew up in the vicinity of Moskovsky Victory Park, where he began his artistic journey."
+      ]
+    },
+    {
+      "heading": "Musical Beginnings",
+      "paragraphs": [
+        "Tsoi began writing songs at the age of 17 during a time when rock music was an underground phenomenon in Leningrad. He initially performed with various bands, including Palata No. 6 and Avtomaticheskie udovletvoriteli, before gaining recognition in the Leningrad Rock Club, a rare venue for rock performances in [[soviet-union|the Soviet Union]]."
+      ]
+    },
+    {
+      "heading": "Formation of Kino",
+      "paragraphs": [
+        "In 1981, Tsoi, along with Alexei Rybin and Oleg Valinsky, formed the band Garin i giperboloydy, which was later renamed Kino. The band's debut album, 45, was recorded in 1982 and marked the beginning of Kino's rise in the Soviet rock scene. Tsoi's lyrics and music began to resonate with the youth, setting the stage for their later success."
+      ]
+    },
+    {
+      "heading": "Cultural Impact and Fame",
+      "paragraphs": [
+        "The release of Kino's sixth album, Gruppa krovi, in 1987 marked a significant turning point for the band, leading to a phenomenon known as 'Kinomania.' The album's themes and sound captured the essence of the youth's aspirations during the Perestroika era, and Tsoi's music became a voice for a generation across the Soviet republics, including [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Film Career",
+      "paragraphs": [
+        "Tsoi also ventured into acting, starring in the 1988 film The Needle, which highlighted social issues and featured music from Kino. His role in the film further solidified his cultural significance and showcased his artistic versatility."
+      ]
+    },
+    {
+      "heading": "Tragic Death",
+      "paragraphs": [
+        "On 15 August 1990, Tsoi died in a car accident in Latvia, a loss that deeply affected his fans across the [[post-soviet-states|former Soviet Union]], including Ukraine. His death prompted widespread mourning, and he was remembered as a symbol of authenticity and connection to the youth, with many regarding him as a hero of rock music."
+      ]
+    }
+  ],
+  "links_out": [
+    "post-soviet-states",
+    "soviet-union",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Viktor Tsoi — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Viktor_Tsoi",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

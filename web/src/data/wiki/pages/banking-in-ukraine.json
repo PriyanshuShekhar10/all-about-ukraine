@@ -1,0 +1,71 @@
+{
+  "qid": "Q12080841",
+  "slug": "banking-in-ukraine",
+  "title": "banking in Ukraine",
+  "type": "aspect in a geographic region",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "aspect in a geographic region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Banking in Ukraine has evolved significantly since the country's independence in 1991, marked by periods of mergers, acquisitions, and financial crises. The sector has seen fluctuations in the number of operating banks and their financial health, reflecting broader economic challenges and reforms.",
+  "sections": [
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "The origins of banking in Ukraine can be traced back to 22 December 1917, when the Central Council of [[ukraine|Ukraine]] established the [[ukrainian|Ukrainian]] State Bank, which assumed the roles of the Russian State Bank and other financial institutions. Following a decree on 14 December 1917, banks were nationalized, and the Ukrainian State Bank began issuing its own currency on 5 January 1918.",
+        "After World War I, Ukraine fell under the control of the Russian Soviet Federative Socialist Republic, which implemented a policy of War Communism that prohibited banking. In 1921, branches of the State Bank of the Russian SFSR were established [[coal-in-ukraine|in Ukraine]], which later became part of the Central Bank of [[soviet-union|the USSR]]."
+      ]
+    },
+    {
+      "heading": "Post-Independence Banking Landscape",
+      "paragraphs": [
+        "The [[national-bank-of-ukraine|National Bank of Ukraine]] emerged as the central banking authority in early 1991, inheriting a challenging financial landscape marked by hyperinflation during the 1990s. On 20 March 1991, the [[verkhovna-rada|Verkhovna Rada]] adopted a resolution that recognized various banks under Ukrainian ownership, including the Ukrainian Republic Bank of the State Bank of the USSR.",
+        "In the years leading up to the 2008–2009 financial crisis, foreign firms invested in Ukrainian banks with expectations of rapid economic growth. However, the subsequent economic downturn led to a significant decline in bank valuations and ownership changes, as foreign investors divested their stakes."
+      ]
+    },
+    {
+      "heading": "Impact of Economic Crises",
+      "paragraphs": [
+        "The presidency of [[viktor-yanukovych|Viktor Yanukovych]] (2010-2014) saw a loss of confidence among foreign bank owners, who sold their assets to local businessmen at significantly reduced prices. Following the [[revolution-of-dignity|Revolution of Dignity]] and the onset of the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]], the [[economy-of-ukraine|Ukrainian economy]] contracted by 6.8% in 2014, leading to a halt in bank mergers and acquisitions.",
+        "From early 2014 to November 2015, the National Bank of Ukraine declared 62 banks insolvent, and by early 2016, 117 banks were operational with total assets of ₴1.254 trillion. The financial sector faced substantial losses, with all solvent banks collectively reporting a loss of ₴66.6 billion in 2015."
+      ]
+    },
+    {
+      "heading": "Recovery and Current Status",
+      "paragraphs": [
+        "In December 2016, [[privatbank|PrivatBank]], which held a significant portion of individual deposits, was nationalized to stabilize the banking system. By 2018, the banking sector reported a profit of ₴21.7 billion, marking a recovery from previous losses.",
+        "As of 1 October 2018, there were 81 solvent licensed banks in Ukraine, with assets totaling ₴1.355 trillion ($48 billion). By August 2025, the number of operating banks decreased to 60, with total assets amounting to ₴3.516 trillion ($83.137 billion), indicating growth in the banking sector."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "economy-of-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "national-bank-of-ukraine",
+    "privatbank",
+    "revolution-of-dignity",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada",
+    "viktor-yanukovych"
+  ],
+  "sources": [
+    {
+      "title": "Banking in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Banking_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

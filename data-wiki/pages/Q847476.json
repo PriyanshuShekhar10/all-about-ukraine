@@ -1,0 +1,77 @@
+{
+  "qid": "Q847476",
+  "slug": "ukraine-womens-national-football-team",
+  "title": "Ukraine women's national football team",
+  "type": "women's national association football team",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "women's national association football team",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1992-06-30",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Ukraine women's national football team represents Ukraine in international women's football and is governed by the [[ukrainian|Ukrainian]] Association of Football. Established on 30 June 1992, the team has participated in various international competitions, including the UEFA Women's Euro 2009.",
+  "sections": [
+    {
+      "heading": "Team Formation and Early History",
+      "paragraphs": [
+        "The Ukraine women's national football team was formed on 30 June 1992, during a match against Moldova. Prior to their first official tournament, the team played several friendly matches, including four against Belarus in 1993. The inaugural team featured players such as Tetyana Ovcharenko, Olena Mazurenko, and Svitlana Balynska, among others."
+      ]
+    },
+    {
+      "heading": "Major Tournaments",
+      "paragraphs": [
+        "The first significant tournament for which [[ukraine|Ukraine]] qualified was the UEFA Women's Euro 2009, held in Finland. This marked a pivotal moment in the team's history, showcasing their development and competitive spirit on an international stage."
+      ]
+    },
+    {
+      "heading": "Team Identity",
+      "paragraphs": [
+        "The team is colloquially referred to as the 'Zhinky.' This nickname reflects the team's identity and connection to women's football [[coal-in-ukraine|in Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Home Stadium",
+      "paragraphs": [
+        "The Ukraine women's national football team plays its home matches at Arena [[lviv|Lviv]]. Prior to the escalation of conflict in the region, matches were held at Stadion imeni Gagarina."
+      ]
+    },
+    {
+      "heading": "Recent Achievements",
+      "paragraphs": [
+        "In terms of honors, the team has won the Albena Cup in 2000 and the Turkish Women's Cup in 2022, highlighting their success in friendly competitions."
+      ]
+    },
+    {
+      "heading": "Current Status",
+      "paragraphs": [
+        "As of February 12, 2026, the coaching staff and player roster are actively preparing for upcoming matches, including the 2027 FIFA Women's World Cup qualification matches against Iceland and England scheduled for June 5 and June 9, 2026."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "lviv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ukraine women's national football team — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukraine_women's_national_football_team",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

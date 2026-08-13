@@ -1,0 +1,96 @@
+{
+  "qid": "Q85449",
+  "slug": "igor-sikorsky-kyiv-polytechnic-institute",
+  "title": "Igor Sikorsky Kyiv Polytechnic Institute",
+  "type": "university",
+  "category": "politics",
+  "aliases": [
+    "Igor Sikorsky KPI",
+    "KPI",
+    "Kyiv Polytechnic Institute",
+    "NTUU KPI",
+    "National Technical University of Ukraine",
+    "National Technical University of Ukraine \"Igor Sikorsky Kyiv Polytechnic Institute\"",
+    "National Technical University of Ukraine «Kyiv Polytechnical Institute»"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1898",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Kyiv",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4497, 30.4608",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Igor Sikorsky Kyiv Polytechnic Institute, also known as KPI, is a prominent national public technological university located in Kyiv, Ukraine. Established in 1898, it has significantly contributed to the scientific and technological advancement of the country.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Founded as the Kiev Polytechnic Institute of Emperor Alexander II on 31 August 1898, the university was established through collaboration between the state and private sector, notably influenced by Sergei Witte, the finance minister of the Russian Empire. Initial funding came from the [[kyiv|Kyiv]] City Duma and private benefactors, including the Tereshchenko family and Lazar Brodsky. The construction of its current building complex was completed in 1902, and the institute initially comprised four departments: Mechanical, Chemical, Agricultural, and Civil Engineering, with an initial enrollment of 360 students."
+      ]
+    },
+    {
+      "heading": "Evolution of the Institution",
+      "paragraphs": [
+        "Over the years, the institute has undergone several name changes, reflecting its evolving status and focus. It was known as the Kiev Polytechnic Institute of Emperor Alexander II from 1898 to 1918, then as Kyiv Polytechnic Institute until 1934, followed by Kyiv Industrial Institute until 1948. From 1948 to 1968, it was called the Order of Lenin Kyiv Polytechnic Institute, and from 1968 to 1992, it was named in memory of the 50th anniversary of the Great October Socialist Revolution. The institute was rebranded as the National Technical University of Ukraine 'Kyiv Polytechnic Institute' in 1995 and has been known as the National Technical University of Ukraine 'Igor Sikorsky Kyiv Polytechnic Institute' since 2016."
+      ]
+    },
+    {
+      "heading": "Impact on Education and Society",
+      "paragraphs": [
+        "Throughout its history, KPI has played a vital role in the educational landscape of [[ukraine|Ukraine]]. By 1913, the student population had increased to 2,313, reflecting a diverse social background. The institute was involved in significant historical events, including the 1899 All-Russian student strike and the revolutionary movements in Kyiv during the early 20th century. Notable figures such as Igor Sikorsky and Fedir Tereshchenko were associated with the institute, contributing to advancements in aviation and engineering."
+      ]
+    },
+    {
+      "heading": "Modern Developments and Challenges",
+      "paragraphs": [
+        "In the context of [[independent-ukraine|independent Ukraine]], KPI was reformed into a university in 1995, gaining national status. The university faced new challenges during the [[full-scale-russo-ukrainian-war|Russo-Ukrainian war]], particularly in 2022, when it actively supported the defense of Ukraine by establishing a charity fund for military equipment and collaborating with international institutions like the University of Sheffield for practical assistance. Additionally, KPI has adapted its digital infrastructure to ensure continuity in education during the conflict."
+      ]
+    },
+    {
+      "heading": "Campus and Facilities",
+      "paragraphs": [
+        "The university's main campus is located in Kyiv, near the city center, and features various facilities, including dormitories for approximately 9,000 students. The campus includes the Knowledge Square, which serves as a central gathering place for events, and an assembly hall with a capacity of 1,750 seats. KPI also offers numerous sports facilities and has a strong focus on organized leisure activities for students."
+      ]
+    },
+    {
+      "heading": "Academic Structure",
+      "paragraphs": [
+        "KPI comprises several institutes and faculties focused on diverse fields such as Applied Mathematics, Biomedical Engineering, and Aerospace Technologies. It also hosts various laboratories and organizations, including the Scientific Society of Students and Post-graduates and the UNESCO Chair in Higher Technical Education, which contribute to its role as a leading educational institution [[coal-in-ukraine|in Ukraine]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "independent-ukraine",
+    "kyiv",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Kyiv Polytechnic Institute — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kyiv_Polytechnic_Institute",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

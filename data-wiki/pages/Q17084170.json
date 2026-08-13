@@ -1,0 +1,77 @@
+{
+  "qid": "Q17084170",
+  "slug": "prykarpattia",
+  "title": "Prykarpattia",
+  "type": "region",
+  "category": "history",
+  "aliases": [
+    "Carpathian foothills",
+    "Ciscarpathia",
+    "Precarpathia",
+    "Prycarpathia"
+  ],
+  "infobox": {
+    "label": "region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Prykarpattia, also referred to as Subcarpathia, is a geographical region [[coal-in-ukraine|in Ukraine]] located at the northeastern foothills of the [[carpathians|Carpathian Mountains]]. It primarily encompasses Ivano-Frankivsk Oblast and parts of Lviv Oblast, forming a significant part of the historic region of [[galicia|Galicia]].",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Prykarpattia was initially part of [[kievan-rus|Kievan Rus]]' and later became associated with the Principality of [[halych|Halych]], eventually integrating into the Kingdom of Poland.",
+        "Following the Partitions of Poland in 1772, the region came under the control of the Habsburg monarchy.",
+        "After World War I and the collapse of Austria-Hungary, Prykarpattia became contested territory between Poland and the short-lived [[west-ukrainian-peoples-republic|West Ukrainian People's Republic]], ultimately remaining part of Poland after the Polish-Soviet War.",
+        "With the 1939 invasion and partition of Poland by Nazi Germany and [[soviet-union|the Soviet Union]], the area was incorporated into the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]], later falling under Nazi control until 1944. Today, it is part of [[modern-history-of-ukraine|modern Ukraine]], specifically the [[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]]."
+      ]
+    },
+    {
+      "heading": "Geographical Features",
+      "paragraphs": [
+        "Prykarpattia is often used interchangeably with the region of Pokuttya, although no official borders distinguish them. The term Prykarpattia generally refers to the entirety of Ivano-Frankivsk Oblast, while Pokuttya is specifically associated with the eastern part of the same region.",
+        "Certain areas of southern [[lviv-oblast|Lviv Oblast]], including the cities of Stryi, [[truskavets|Truskavets]], and [[drohobych|Drohobych]], are sometimes considered part of Prykarpattia.",
+        "The [[dniester|Dnister River]] serves as the primary waterway in the region, with numerous smaller rivers flowing into it. Major urban centers in Prykarpattia include Halych, Kalush, and [[ivano-frankivsk|Ivano-Frankivsk]]."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Prykarpattia is home to various [[ukrainian|Ukrainian]] ethnic groups, including the [[hutsuls|Hutsuls]], Lemky, and Boyky, each contributing to the region's rich cultural tapestry."
+      ]
+    }
+  ],
+  "links_out": [
+    "carpathians",
+    "coal-in-ukraine",
+    "dniester",
+    "drohobych",
+    "galicia",
+    "halych",
+    "hutsuls",
+    "ivano-frankivsk",
+    "ivano-frankivsk-oblast",
+    "kievan-rus",
+    "lviv-oblast",
+    "modern-history-of-ukraine",
+    "soviet-union",
+    "truskavets",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "west-ukrainian-peoples-republic"
+  ],
+  "sources": [
+    {
+      "title": "Prykarpattia — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Prykarpattia",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

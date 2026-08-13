@@ -1,0 +1,40 @@
+{
+  "qid": "Q17361834",
+  "slug": "vostok-battalion",
+  "title": "Vostok Battalion",
+  "type": "Wikimedia disambiguation page",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "Vostok Battalion refers to a Russian militant group that has operated in the Donbas region of Ukraine and was later integrated into the Russian Armed Forces. It is also associated with former Spetsnaz units of the Russian military intelligence based in Chechnya.",
+  "sections": [
+    {
+      "heading": "Russian Military Units",
+      "paragraphs": [
+        "The term Vostok Battalion can denote Special Battalions Vostok and Zapad, which were previously Spetsnaz units of the Russian military intelligence (GRU) located in Chechnya."
+      ]
+    },
+    {
+      "heading": "Vostok Battalion in Ukraine",
+      "paragraphs": [
+        "The Vostok Battalion is recognized as a Russian militant group that has been active in the [[donbas|Donbas]] region of [[ukraine|Ukraine]]. This group later became officially incorporated into the Russian Armed Forces."
+      ]
+    }
+  ],
+  "links_out": [
+    "donbas",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Vostok Battalion — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vostok_Battalion",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

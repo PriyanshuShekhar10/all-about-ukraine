@@ -41,7 +41,7 @@
     {
       "heading": "Collections",
       "paragraphs": [
-        "The Dnipro Art Museum's collection is organized into two main sections: Russian and [[ukrainian|Ukrainian]] art from the 17th and 18th centuries, and art from the 19th and 20th centuries. Notable works include landscape paintings by artists such as Konstantin Trutovsky, Ivan Aivazovsky, and Ilya Repin, along with sculptures by Vladimir Beklemishev.",
+        "The Dnipro Art Museum's collection is organized into two main sections: Russian and [[ukrainian|Ukrainian]] art from the 17th and 18th centuries, and art from the 19th and 20th centuries. Notable works include landscape paintings by artists such as Konstantin Trutovsky, [[ivan-aivazovsky|Ivan Aivazovsky]], and Ilya Repin, along with sculptures by Vladimir Beklemishev.",
         "The museum also features Soviet-era artworks by Russian painters and a significant collection of contemporary Ukrainian art. Among its highlights is the work of Mikhail Sapozhnikov, a symbolist artist from Yekaterinoslav. The collection includes nationalized pieces from private collections and displays both decorative and visual arts."
       ]
     }
@@ -49,6 +49,7 @@
   "links_out": [
     "dnieper",
     "dnipro",
+    "ivan-aivazovsky",
     "taras-shevchenko",
     "ukraine",
     "ukrainian"

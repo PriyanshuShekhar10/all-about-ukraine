@@ -1,0 +1,70 @@
+{
+  "qid": "Q2467624",
+  "slug": "kyiv-fortress",
+  "title": "Kyiv Fortress",
+  "type": "architectural heritage monument",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "architectural heritage monument",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Russian Empire, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4344, 30.5278",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Kyiv Fortress, also known as the New Pechersk Fortress, is a significant historical and architectural monument located in Kyiv, Ukraine. Constructed from the 17th to the 19th centuries, it represents a complex of fortifications that played a vital role in the city's defense and military history.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The fortification [[history-of-kyiv|history of Kyiv]] dates back to the end of the 5th and beginning of the 6th century, starting with a settlement on Old [[kyiv|Kyiv]] hill, which was protected by earthen ramparts and ditches. As Kyiv became the capital of [[kievan-rus|Kievan Rus]], an extensive system of city fortifications was developed, with each area having its own defense mechanisms. After the siege by Batu Khan in 1240, these fortifications fell into disrepair.",
+        "During the Polish-Lithuanian rule, a fortress-castle was established on Mount Khorivytsia in [[podil|Podil]]. Under the Muscovite Kingdom, further fortress constructions were added from Khreshchatyk to Pechersk to prevent enemy incursions into [[ukraine|Ukraine]]. In 1679, Cossack troops led by [[hetman|Hetman]] Samoilovich initiated efforts to merge the Old Kyiv and Pechersk fortifications, culminating in the formation of a large fortress by the late 17th century."
+      ]
+    },
+    {
+      "heading": "Architectural Composition",
+      "paragraphs": [
+        "The Kyiv Fortress complex includes several key components, such as the Old Pechersk fortresses built between 1655 and 1803, the Kyiv Arsenal, and the New Pechersk Fortress established in 1831. The citadel, known as Askold's Grave, dates back to 1706, while the hospital fortifications were constructed on Cherepanova Hora in 1836. Other significant structures include the Vasylkiv fortifications and various separately built fortifications, which consist of towers and barracks.",
+        "The fortress complex is divided into four primary areas: the western side featuring the hospital and Vasylkiv fortifications, the northern side containing the Kyiv Arsenal and government buildings, the southern side with the Kyiv-Pechersk citadel, and the Zvirynets fortification further south."
+      ]
+    },
+    {
+      "heading": "Current State and Museum",
+      "paragraphs": [
+        "Today, many of the remaining structures of the Kyiv Fortress have been designated as historic sites. The complex includes the Kyiv Fortress Museum, located in a 19th-century building that was once part of the fortress. This semi-underground museum showcases the rich history and architectural significance of the fortress.",
+        "In the 20th century, as the military relevance of the fortress diminished, its buildings were repurposed for various uses, including barracks and storage facilities. Some of these structures, like the Kosyi Caponier, gained notoriety as prisons for political inmates during the early 1900s."
+      ]
+    },
+    {
+      "heading": "Notable Individuals",
+      "paragraphs": [
+        "One prominent figure associated with the Kyiv Fortress is Constantine Ypsilantis, who served as the commandant of the Pechersk Fortress from 1807 to 1816."
+      ]
+    }
+  ],
+  "links_out": [
+    "hetman",
+    "history-of-kyiv",
+    "kievan-rus",
+    "kyiv",
+    "podil",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Kyiv Fortress — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kyiv_Fortress",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

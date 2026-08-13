@@ -1,0 +1,80 @@
+{
+  "qid": "Q1986941",
+  "slug": "ukrainian-dramatic-theatre-of-maria-zankovetska",
+  "title": "Ukrainian Dramatic Theatre of Maria Zankovetska",
+  "type": "theatre building",
+  "category": "economy",
+  "aliases": [
+    "Skarbek Theatre",
+    "Teatr Skarbkovski",
+    "Zanovetska Theatre"
+  ],
+  "infobox": {
+    "label": "theatre building",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Austrian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Lviv",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.8439, 24.0272",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Ukrainian Dramatic Theatre of Maria Zankovetska, located in Lviv, Ukraine, is a historical drama theatre with roots dating back to the mid-19th century. Originally established as the Skarbek Theatre, it has undergone various transformations and remains a significant cultural institution [[coal-in-ukraine|in Ukraine]].",
+  "sections": [
+    {
+      "heading": "Location and Architecture",
+      "paragraphs": [
+        "The theatre is situated in the center of [[lviv|Lviv]], at the intersection of Lesya Ukrayinka Street and Prospekt Svobody. The neoclassical building was constructed in the mid-19th century, initially serving as the home of the Galician parliament. Its foundation was made of 16,000 oak logs, and it was built on the site of bastions surrounding the Lower Castle."
+      ]
+    },
+    {
+      "heading": "Founding and Early History",
+      "paragraphs": [
+        "The theatre was founded by Count Stanisław Marcin Skarbek (1780–1848), who sought permission from the Austrian Imperial authorities to construct the building following the final Partition of Poland. Construction commenced in 1837, with architects Jan Salzmann and Ludwig Pichl overseeing the project. The theatre opened on March 28, 1842, with a performance of a play by Franz Grillparzer in German, followed by Aleksander Fredro's Śluby panieńskie in Polish the next day."
+      ]
+    },
+    {
+      "heading": "Evolution of Performances",
+      "paragraphs": [
+        "Initially, performances were held in both Polish and German languages until 1871, when the theatre transitioned to exclusively Polish-language productions. In 1872, it expanded its repertoire to include operas, becoming the sole opera venue in [[galicia|Galicia]]."
+      ]
+    },
+    {
+      "heading": "20th Century Developments",
+      "paragraphs": [
+        "As the late 19th century approached, the theatre complex became inadequate, leading to the construction of the Grand Theatre in 1900. Subsequently, the Skarbek Theatre was repurposed as a philharmonic and later as a cinema. Today, it serves as the Ukrainian Dramatic Theatre of Maria Zankovetska."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "On May 18, 2008, the theatre hosted celebrations marking the 50th anniversary of the Polish People's Theatre of Lviv, featuring a performance of a play by Marian Hemar. This event underscores the theatre's ongoing relevance in the cultural landscape of [[ukraine|Ukraine]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "galicia",
+    "lviv",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Maria Zankovetska Theatre — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maria_Zankovetska_Theatre",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

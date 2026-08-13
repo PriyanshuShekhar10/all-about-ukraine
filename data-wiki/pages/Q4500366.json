@@ -1,0 +1,83 @@
+{
+  "qid": "Q4500366",
+  "slug": "khotyn-national-nature-park",
+  "title": "Khotyn National Nature Park",
+  "type": "national nature park",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "national nature park",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2010-01-22",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "94",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.4497, 26.5781",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Khotyn National Nature Park is a significant national park [[coal-in-ukraine|in Ukraine]], encompassing a portion of the Dniester River Canyon and the Dniester River Reservoir, located in Chernivtsi Oblast near the Romanian border.",
+  "sections": [
+    {
+      "heading": "Geographical Location",
+      "paragraphs": [
+        "Khotyn National Nature Park is situated in the western part of [[ukraine|Ukraine]], bordering Romania. The park covers a segment of the [[dniester|Dniester]] River Canyon and the Dniester River Reservoir, and is administratively part of Dnistrovskyi Raion in [[chernivtsi-oblast|Chernivtsi Oblast]]."
+      ]
+    },
+    {
+      "heading": "Topography",
+      "paragraphs": [
+        "The park extends for 160 km along the Dniester River. The geological features of the [[dniester-canyon|Dniester Canyon]] include granite and gneisses that are up to 2,000 million years old, alongside more recent sedimentary and limestone rocks from the Cenozoic era, which dates back 10 to 12 million years. The area also features a karst landscape that hosts numerous caves."
+      ]
+    },
+    {
+      "heading": "Climate and Ecoregion",
+      "paragraphs": [
+        "Khotyn National Nature Park experiences a humid continental climate characterized by warm summers and cold, snowy winters. The Köppen climate classification for the region is Dfb, indicating significant temperature variations both daily and seasonally."
+      ]
+    },
+    {
+      "heading": "Biodiversity",
+      "paragraphs": [
+        "The park is noted for its high biodiversity due to the diverse terrain, habitats, and micro-climates present. It is home to over 1,500 species of vascular plants, 57 species of fish, 187 species of birds, and 40 species of mammals."
+      ]
+    },
+    {
+      "heading": "Cultural and Recreational Aspects",
+      "paragraphs": [
+        "In addition to the [[khotyn-fortress|Khotyn Fortress]] State Historical and Architectural Reserve, which is located adjacent to the park, there are numerous archaeological and cultural sites within its boundaries. The park offers several developed excursion routes for hiking and ecological studies, enhancing public engagement with the natural and cultural heritage of the area."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernivtsi-oblast",
+    "coal-in-ukraine",
+    "dniester",
+    "dniester-canyon",
+    "khotyn-fortress",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Khotyn National Nature Park — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Khotyn_National_Nature_Park",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

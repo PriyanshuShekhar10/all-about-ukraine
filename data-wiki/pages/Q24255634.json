@@ -1,0 +1,73 @@
+{
+  "qid": "Q24255634",
+  "slug": "ukrainian-opera",
+  "title": "Ukrainian opera",
+  "type": "opera genre",
+  "category": "culture",
+  "aliases": [
+    "Opera in Ukraine"
+  ],
+  "infobox": {
+    "label": "opera genre",
+    "fields": []
+  },
+  "summary": "Ukrainian opera is a genre that emerged in the late 19th century, blending European theatrical traditions with Ukrainian folk music. It has evolved through various historical phases, reflecting the cultural and political landscape of Ukraine.",
+  "sections": [
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "The national school of opera in Ukraine began to take shape in the last third of the 19th century, rooted in European theatre traditions and [[ukrainian-folk-music|Ukrainian folk music]]. The first opera by a [[ukrainian|Ukrainian]] composer, Maxim Berezovsky's Demofont, premiered in 1773, while the oldest opera in the Ukrainian repertoire, A Zaporozhye Cossack on the Danube by Semen Hulak-Artemovsky, was written in 1863.",
+        "[[mykola-lysenko|Mykola Lysenko]], recognized as the founder of Ukrainian opera, composed significant works such as Natalka Poltavka and [[taras-bulba|Taras Bulba]]. The establishment of professional opera houses in the 1920s marked a period of flourishing for Ukrainian opera, with notable productions like Borys Lyatoshynsky's The Golden Ring in 1929."
+      ]
+    },
+    {
+      "heading": "Influence of Soviet Era",
+      "paragraphs": [
+        "From 1930 until the end of [[soviet-union|the Soviet Union]] in the late 1980s, Ukrainian opera was largely shaped by the principles of Soviet socialist realism. This era saw the production of operas like The Young Guard by Yuliy Meitus, which premiered in 1947. The Khrushchev Thaw from the mid-1950s to the mid-1960s allowed for a resurgence in creativity, leading to works by composers such as Vitaly Kyreiko and Yevhen Stankovych."
+      ]
+    },
+    {
+      "heading": "Contemporary Scene",
+      "paragraphs": [
+        "In the 21st century, the opera Moses by [[myroslav-skoryk|Myroslav Skoryk]] remains a prominent part of the local repertoire. [[ukraine|Ukraine]] is home to seven opera houses, including the [[taras-shevchenko|Taras Shevchenko]] National Academic Opera and Ballet Theatre of Ukraine in [[kyiv|Kyiv]], the [[odesa|Odesa]] Opera House, and the [[lviv-theatre-of-opera-and-ballet|Lviv Opera]] House, where operas are performed in music conservatories and major theatres."
+      ]
+    },
+    {
+      "heading": "Origins and Early Influences",
+      "paragraphs": [
+        "The roots of opera in Ukraine can be traced back to the 18th century, with Italian and French operas performed in noble estates. The Lemberger Oper, established in 1772 in [[lviv|Lviv]], was the first opera house in the territory of [[modern-history-of-ukraine|modern Ukraine]]. Early Ukrainian composers, such as Dmytro Bortnyansky, contributed to the operatic landscape by writing operas in Italian and French."
+      ]
+    },
+    {
+      "heading": "Cultural Challenges",
+      "paragraphs": [
+        "The development of Ukrainian-language opera faced significant obstacles during the 19th century, including a lack of venues and the minority status of [[ukrainians|Ukrainians]] in many urban areas. The Ems Ukaz of 1876 prohibited theatrical productions in Ukrainian, hindering the growth of the genre until its repeal in 1881. Despite these challenges, the establishment of the first permanent Ukrainian theatre in Lviv in 1864 laid the groundwork for future developments."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "lviv",
+    "lviv-theatre-of-opera-and-ballet",
+    "modern-history-of-ukraine",
+    "mykola-lysenko",
+    "myroslav-skoryk",
+    "odesa",
+    "soviet-union",
+    "taras-bulba",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-folk-music",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Opera in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Opera_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

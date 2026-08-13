@@ -1,0 +1,61 @@
+{
+  "qid": "Q4131389",
+  "slug": "yelena-gagarina",
+  "title": "Yelena Gagarina",
+  "type": "human",
+  "category": "war",
+  "aliases": [
+    "Yelena Yurievna Gagarina"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1959-04-17",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Zapolyarny",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Yelena Yurievna Gagarina is a Russian art historian and the general director of Moscow Kremlin Museums since 2001. She is notably recognized as the daughter of Yuri Gagarin, the first human in space, and has connections to significant cultural and political events related to Ukraine.",
+  "sections": [
+    {
+      "heading": "Early Life and Background",
+      "paragraphs": [
+        "Yelena Yurievna Gagarina was born on 17 April 1959. She is the daughter of the renowned Soviet cosmonaut Yuri Gagarin and Valentina Ivanovna Gagarina. Gagarina spent her childhood in the space training facility known as Star City, located in Zvyozdny gorodok."
+      ]
+    },
+    {
+      "heading": "Education and Career",
+      "paragraphs": [
+        "Gagarina graduated from the Faculty of History at Moscow State University, specializing in the history of art. Since 2001, she has served as the general director of the [[kremlin|Moscow Kremlin]] Museums, where she oversees a significant collection of Russian art and history."
+      ]
+    },
+    {
+      "heading": "Involvement with UNESCO and Political Context",
+      "paragraphs": [
+        "On 16 March 2005, Gagarina became a member of the Commission of the Russian Federation for UNESCO, contributing to cultural initiatives on an international level. In 2014, she was one of the cultural figures from the Russian Federation who signed a collective appeal supporting President [[vladimir-putin|Vladimir Putin]]'s policies regarding [[ukraine|Ukraine]] and [[crimea|Crimea]], reflecting her engagement in the political discourse surrounding these issues."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "kremlin",
+    "ukraine",
+    "vladimir-putin"
+  ],
+  "sources": [
+    {
+      "title": "Yelena Gagarina — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yelena_Gagarina",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

@@ -1,0 +1,82 @@
+{
+  "qid": "Q4150130",
+  "slug": "volodymyr-hroisman",
+  "title": "Volodymyr Hroisman",
+  "type": "human",
+  "category": "war",
+  "aliases": [
+    "Volodymyr Borysovych Hroisman",
+    "Volodymyr Groysman"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1978-01-20",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Vinnytsia",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "People's Deputy of Ukraine, mayor of Vinnytsia",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Volodymyr Hroisman is a prominent [[ukrainian|Ukrainian]] politician and businessman who held the position of Prime Minister of Ukraine from 2016 to 2019. His political career has been marked by significant contributions to local governance and national reforms, particularly in decentralization and public administration.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Volodymyr Borysovych Hroisman was born on 20 January 1978 in [[vinnytsia|Vinnytsia]], part of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]]. He graduated from Vinnytsia Secondary School No. 35 in 1994 and began his career at the age of 14 as a locksmith at a cooperative founded by his father.",
+        "Hroisman held various commercial positions in his father's enterprises before pursuing higher education. He graduated from the Vinnytsia Institute of Regional Economy and Management in 1999 with a junior specialist degree in law and later earned a law degree from the Interregional Academy of Personnel Management in 2003. In 2010, he completed a master’s degree in Public Development Management at the National Academy of Public Administration of the [[president-of-ukraine|President of Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Political Career",
+      "paragraphs": [
+        "Hroisman began his political career in 2002 when he was elected to the Vinnytsia City Council at the age of 24. He subsequently became the youngest council member and served as Secretary of the Vinnytsia City Council before being elected Mayor of Vinnytsia in 2006. He was re-elected in 2010 with 77.8% of the vote, during which he implemented various urban development projects.",
+        "In 2014, he was appointed Deputy [[prime-minister-of-ukraine|Prime Minister of Ukraine]] and Minister of Regional Development, Construction, and Communal Services, focusing on decentralization and local governance reform. He later served as Speaker of the [[verkhovna-rada|Verkhovna Rada]], where he initiated significant legislative reforms."
+      ]
+    },
+    {
+      "heading": "Prime Minister of Ukraine",
+      "paragraphs": [
+        "Hroisman was appointed Prime Minister of Ukraine on 14 April 2016, with support from multiple political factions. Initially perceived as closely aligned with President [[petro-poroshenko|Petro Poroshenko]], he gradually distanced himself and began advocating for reforms in healthcare, infrastructure, and decentralization.",
+        "During his tenure, he oversaw the establishment of a single gas price for consumers, increased funding for road repairs, and initiated a healthcare reform concept. His government also focused on economic recovery, with a projected 3% GDP growth and significant budget allocations for education and healthcare."
+      ]
+    },
+    {
+      "heading": "Legacy and Impact",
+      "paragraphs": [
+        "Hroisman’s leadership is noted for advancing decentralization reforms and improving local governance [[coal-in-ukraine|in Ukraine]]. His tenure as Prime Minister was marked by efforts to stabilize the economy and implement significant reforms in various sectors, including healthcare and infrastructure.",
+        "His initiatives, such as the 'Affordable Medicines' program and the focus on economic growth, aimed to enhance the quality of life for [[ukrainians|Ukrainians]] and support the country's development amidst ongoing challenges."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "petro-poroshenko",
+    "president-of-ukraine",
+    "prime-minister-of-ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainians",
+    "verkhovna-rada",
+    "vinnytsia"
+  ],
+  "sources": [
+    {
+      "title": "Volodymyr Groysman — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Volodymyr_Groysman",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

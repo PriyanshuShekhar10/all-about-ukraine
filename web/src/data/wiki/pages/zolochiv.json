@@ -1,0 +1,53 @@
+{
+  "qid": "Q4193694",
+  "slug": "zolochiv",
+  "title": "Zolochiv",
+  "type": "Wikimedia disambiguation page",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "Zolochiv refers to multiple locations within [[ukraine|Ukraine]], primarily associated with [[lviv|Lviv]] and Kharkiv Oblasts. These include cities, raions, and hromadas that play a role in the administrative and cultural landscape of the country.",
+  "sections": [
+    {
+      "heading": "Zolochiv in Lviv Oblast",
+      "paragraphs": [
+        "Zolochiv is a city located in [[lviv-oblast|Lviv Oblast]], which serves as a significant urban center in the region.",
+        "Zolochiv Raion is a subdivision named after the city, highlighting its administrative importance.",
+        "The Zolochiv urban hromada is situated within this raion, contributing to local governance and community organization."
+      ]
+    },
+    {
+      "heading": "Zolochiv in Kharkiv Oblast",
+      "paragraphs": [
+        "In [[kharkiv-oblast|Kharkiv Oblast]], Zolochiv is designated as an urban-type settlement, reflecting its status and population density.",
+        "Zolochiv Raion in Kharkiv Oblast was a former subdivision, indicating historical administrative changes in the region."
+      ]
+    },
+    {
+      "heading": "Zolochivska Rural Hromada",
+      "paragraphs": [
+        "Zolochivska rural hromada is located southeast of [[kyiv|Kyiv]], emphasizing the diverse administrative structures present [[coal-in-ukraine|in Ukraine]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "kharkiv-oblast",
+    "kyiv",
+    "lviv",
+    "lviv-oblast",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Zolochiv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zolochiv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

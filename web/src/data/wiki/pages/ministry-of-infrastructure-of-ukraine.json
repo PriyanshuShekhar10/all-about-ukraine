@@ -1,0 +1,79 @@
+{
+  "qid": "Q4294418",
+  "slug": "ministry-of-infrastructure-of-ukraine",
+  "title": "Ministry of Infrastructure of Ukraine",
+  "type": "infrastructure ministry",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "infrastructure ministry",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2010-12-07",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Ministry of Infrastructure of Ukraine Building",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Ministry of Infrastructure of Ukraine serves as the primary executive authority overseeing the nation's transportation infrastructure, including roads, railways, and communications, as well as tourism policy implementation.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The Ministry of Infrastructure of Ukraine was established following an announcement by President [[viktor-yanukovych|Viktor Yanukovych]] in December 2010, which reorganized the former Transport and Communications Ministry into the new entity. The ministry's head office is located in [[kyiv|Kyiv]] and was officially recognized as the successor to the Transport and Communications Ministry on 12 May 2011.",
+        "On 2 December 2022, the Shmyhal Government merged the Ministry of Infrastructure with the Ministry of Communities and Territories Development, forming the Ministry of Development of Communities, Territories and Infrastructure. However, on 16 July 2026, the Ministry of Infrastructure was reestablished as a separate entity, with Mykola Kalashnyk appointed as its new head."
+      ]
+    },
+    {
+      "heading": "Structure",
+      "paragraphs": [
+        "The Ministry is organized with a central body led by the minister, a first deputy, and other deputies who assist in various functions. It also includes several state administrations that focus on specific areas and coordinate the activities of government companies.",
+        "The ministry is responsible for implementing government policies in the transport and communication sectors, as well as ensuring transport security. The transportation of fossil fuels, such as oil and gas, is managed in conjunction with the Ministry of Energy and Fuel, while most security-related matters fall under the jurisdiction of the Ministry of Interior or other state agencies."
+      ]
+    },
+    {
+      "heading": "Subordinated Agencies",
+      "paragraphs": [
+        "The Ministry of Infrastructure oversees several key agencies, including the State Aviation Service of [[ukraine|Ukraine]], the State Agency of Automobile Roads of Ukraine (Ukravtodor), the State Service of Ukraine for Security on Transport, and the State Transport Special Service."
+      ]
+    },
+    {
+      "heading": "Reorganized and Liquidated Agencies",
+      "paragraphs": [
+        "Several agencies have been reorganized or liquidated under the Ministry's purview. The State Agency of Ukraine in Tourism and Resorts was liquidated, and its successor remains unknown. The State Administration of Rail Transport was incorporated into the public stock company [[ukrainian-railways|Ukrzaliznytsia]] in 2015. Other agencies, such as the State Auto Transportation Service and the State Service of Maritime and River Transport of Ukraine, have also undergone significant changes."
+      ]
+    },
+    {
+      "heading": "Former State Agencies",
+      "paragraphs": [
+        "Notable companies that were once state agencies under the Ministry include Ukrposhta, Ukrzaliznytsia, the [[ukrainian|Ukrainian]] Sea Ports Authority, and the Maritime Search and Rescue Service."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-railways",
+    "viktor-yanukovych"
+  ],
+  "sources": [
+    {
+      "title": "Ministry of Infrastructure (Ukraine) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ministry_of_Infrastructure_(Ukraine)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

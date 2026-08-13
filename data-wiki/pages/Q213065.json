@@ -1,0 +1,83 @@
+{
+  "qid": "Q213065",
+  "slug": "pohrebyshche",
+  "title": "Pohrebyshche",
+  "type": "city in Ukraine",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "9,525",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "8",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "228",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.4869, 29.2733",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Pohrebyshche is a small city located in Vinnytsia Oblast, Ukraine, historically significant as the administrative center of Pohrebyshche Raion until its dissolution in 2020. The city, with a population of 9,209 as of 2022, is situated near the Ros River and has a rich historical background dating back to its first mention in 1148.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Pohrebyshche is positioned near the sources of the Ros River in [[vinnytsia-oblast|Vinnytsia Oblast]], [[ukraine|Ukraine]]. As of the 2022 estimate, the population of the city stands at 9,209. According to the 2001 [[ukrainian|Ukrainian]] national census, the population was recorded at 10,673, predominantly composed of ethnic [[ukrainians|Ukrainians]]."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The origins of Pohrebyshche's name are not definitively known, with interpretations suggesting it means 'big cellar' in Ukrainian or relates to burial practices. The city was first documented in written records in 1148 and was part of the Kiev Voivodeship during the Polish–Lithuanian Commonwealth. It faced considerable destruction during the [[khmelnytsky-uprising|Khmelnytsky Uprising]] and subsequent conflicts in the 17th century.",
+        "In 1653, during the Khmelnytsky Uprising, the city was stormed by Stefan Czarniecki, resulting in the massacre of its entire population. This period of turmoil lasted until around 1720 when a more stable era began, ultimately leading to the city's incorporation into the Russian Empire in 1795."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Pohrebyshche has been home to notable figures, including Countess Ewelina Hańska, born on January 6, 1805. She was a Polish noblewoman who later married the French novelist Honoré de Balzac in 1850. The city also had a significant Jewish community, which suffered greatly during the Holocaust, with many being murdered by Nazis and local collaborators."
+      ]
+    },
+    {
+      "heading": "Nearby Communities",
+      "paragraphs": [
+        "Pohrebyshche is located approximately 40 miles (64 km) ENE of [[vinnytsia|Vinnytsia]] and is surrounded by several other communities, including Plyskiv (8 miles S), Borshchahivka (12 miles E), and Ruzhyn (16 miles N). Other nearby settlements include Bilylivka, Samhorodok, Tetiiv, Lypovets, and several more within a 40-mile radius."
+      ]
+    }
+  ],
+  "links_out": [
+    "khmelnytsky-uprising",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "vinnytsia",
+    "vinnytsia-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Pohrebyshche — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pohrebyshche",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

@@ -1,0 +1,69 @@
+{
+  "qid": "Q20858523",
+  "slug": "bahmut",
+  "title": "Bahmut",
+  "type": "commune of Moldova",
+  "category": "people",
+  "aliases": [
+    "Commune of Bahmut"
+  ],
+  "infobox": {
+    "label": "commune of Moldova",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Moldova",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Bahmut",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "1,670",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Coordinates",
+        "value": "47.3167, 28.1167",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Bahmut is a commune located in the Călărași District of Moldova, comprising two villages: Bahmut and Bahmut station. Its geographical and cultural context is relevant to the broader region, including Ukraine.",
+  "sections": [
+    {
+      "heading": "Geographical Location",
+      "paragraphs": [
+        "Bahmut is situated in the Călărași District of Moldova, which is significant in understanding the area's regional dynamics and its proximity to [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Composition",
+      "paragraphs": [
+        "The commune consists of two distinct villages: Bahmut and Bahmut station, which together constitute the local administrative unit."
+      ]
+    },
+    {
+      "heading": "Cultural Context",
+      "paragraphs": [
+        "The commune of Bahmut, while located in Moldova, shares cultural and historical ties with Ukraine, reflecting the interconnectedness of the communities in this part of [[eastern-europe|Eastern Europe]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "eastern-europe",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Bahmut — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bahmut",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

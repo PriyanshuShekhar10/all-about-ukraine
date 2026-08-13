@@ -1,0 +1,71 @@
+{
+  "qid": "Q7696051",
+  "slug": "telecommunications-in-ukraine",
+  "title": "telecommunications in Ukraine",
+  "type": "aspect in a geographic region",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "aspect in a geographic region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Telecommunications in Ukraine is a rapidly evolving sector that has demonstrated resilience and growth, particularly during challenging times such as the ongoing conflict with Russia. The industry encompasses a wide range of services including mobile, fixed-line, and internet connectivity, significantly impacting the daily lives of [[ukrainians|Ukrainians]].",
+  "sections": [
+    {
+      "heading": "Overview of Telecommunications in Ukraine",
+      "paragraphs": [
+        "Telecommunications is a modern and diverse sector within [[ukraine|Ukraine]]'s economy, remaining largely insulated from global economic downturns. It ranks highly in both European and global contexts, contributing significantly to the country's economic landscape."
+      ]
+    },
+    {
+      "heading": "Internet Usage and Access",
+      "paragraphs": [
+        "As of January 2025, Ukraine had 31.5 million internet users, representing an 82.4% penetration rate of the population. Mobile broadband is the dominant mode of access, while fixed broadband subscriptions were recorded at 19.68 per 100 people in 2023. Despite wartime conditions, the usage of social media, digital government services like Diia, and e-commerce remains robust."
+      ]
+    },
+    {
+      "heading": "International Connectivity",
+      "paragraphs": [
+        "Ukraine's telecommunications infrastructure includes two new domestic trunk lines as part of the Trans-Asia-Europe (TAE) fibre-optic system and three links in the Trans-European Lines (TEL) project, which connects 18 countries. Additional international connectivity is provided through the Italy-Turkey-Ukraine-Russia (ITUR) submarine cable and various satellite systems. The country maintains multiple redundant fibre-optic routes to the European Union."
+      ]
+    },
+    {
+      "heading": "Mobile and Fixed Networks",
+      "paragraphs": [
+        "As of mid-2025, there were 47.5 million active mobile subscriptions [[coal-in-ukraine|in Ukraine]], which is approximately 119% of the estimated population, a decrease from a pre-war peak of about 60.8 million. The fixed telephone network had 1.43 million landlines in use in 2023, with a significant shift towards mobile and VoIP solutions."
+      ]
+    },
+    {
+      "heading": "Impact of the Russian Invasion",
+      "paragraphs": [
+        "The telecommunications sector in Ukraine faced significant challenges due to the Russian invasion, including infrastructure damage and population displacement. The military and government relied heavily on SpaceX's Starlink satellite services for communication, particularly during critical events such as the Siege of Azovstal. Starlink services were made available to civilians at no cost during the conflict, enhancing connectivity across the country."
+      ]
+    },
+    {
+      "heading": "Government and Regulatory Bodies",
+      "paragraphs": [
+        "Several government bodies oversee telecommunications in Ukraine, including the Ministry of Infrastructure, the State Special Communications Service, and the National Commission for the State Regulation of Communications and Informatization. These organizations play crucial roles in regulating and developing the sector."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ukraine",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Telecommunications in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Telecommunications_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

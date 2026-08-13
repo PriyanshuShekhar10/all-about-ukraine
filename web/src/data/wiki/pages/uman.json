@@ -1,0 +1,115 @@
+{
+  "qid": "Q208499",
+  "slug": "uman",
+  "title": "Uman",
+  "type": "city of regional significance of Ukraine",
+  "category": "history",
+  "aliases": [
+    "Humań"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1616",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Polish–Lithuanian Commonwealth",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "86,900",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "41",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "166",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Q134302120",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.7500, 30.2167",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Uman is a city of regional significance located in [[cherkasy-oblast|Cherkasy Oblast]], central Ukraine, known for its historical importance and cultural heritage. It serves as an administrative center and is recognized for its role in [[ukrainian-literature|Ukrainian literature]] and as a pilgrimage site for Breslov Hasidic Jews.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Uman is situated to the east of [[vinnytsia|Vinnytsia]], along the banks of the Umanka River, in the historical region of [[podolia|Podolia]]. As of 2022, the estimated population of Uman is 81,525. The city is the administrative center of Uman Raion and hosts the administration of Uman urban hromada, one of [[ukraine|Ukraine]]'s hromadas."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Uman was first documented in 1616 during Polish rule as part of the Polish–Lithuanian Commonwealth. It served as a defensive fort against Tatar raids and was later captured by Cossack forces in 1648. The city changed hands multiple times, including periods under the Ottoman Empire and the Potocki family, which contributed to its economic and cultural growth.",
+        "The city was involved in the haidamaky uprisings, particularly the 1768 Koliyivshchyna revolt, which resulted in significant violence against Jews and Poles. Uman became part of the Russian Empire after the Second Partition of Poland in 1793 and continued to develop industrially into the 20th century."
+      ]
+    },
+    {
+      "heading": "20th Century Events",
+      "paragraphs": [
+        "During the [[ukrainian-peoples-republic|Ukrainian People's Republic]], Uman was designated as the seat of Pobozhzhya in March 1918. It later fell under Soviet control and was occupied by German forces during World War II, leading to the encirclement of Soviet troops in the Battle of Uman in 1941.",
+        "The city experienced significant loss during the war, including the deportation and murder of approximately 17,000 Jews by Nazi forces."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Uman is notable among [[ukrainians|Ukrainians]] for its mention in [[taras-shevchenko|Taras Shevchenko]]'s poem 'Haidamaky' (1841). It is also a prominent pilgrimage destination for Breslov Hasidic Jews, particularly during Rosh Hashana, drawing tens of thousands of visitors annually to the burial site of Rebbe Nachman of Breslov.",
+        "The pilgrimage, which began in 1811, has seen fluctuating attendance due to historical events, including the Soviet era and the recent Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Modern Developments",
+      "paragraphs": [
+        "As of 2011, Uman hosts various industrial enterprises, including optical and farm machinery plants, a cannery, and a brewery. Following administrative reforms in 2020, Uman was merged into Uman Raion, enhancing its governance structure.",
+        "The city has faced challenges due to the ongoing conflict [[coal-in-ukraine|in Ukraine]], with Russian artillery strikes occurring in 2022 and 2023, resulting in casualties and damage to residential areas."
+      ]
+    },
+    {
+      "heading": "Heritage and Preservation Efforts",
+      "paragraphs": [
+        "Uman is home to the historic Sofiyivka Park, established in 1796 by Count Stanisław Szczęsny Potocki. The park is a significant cultural landmark, featuring waterfalls and architectural monuments.",
+        "The Jewish cemetery in Uman, which was destroyed during World War II, has been the focus of preservation efforts by local and international organizations, particularly concerning the grave of Rebbe Nachman. Despite legal protections, the site faces ongoing threats from unauthorized construction."
+      ]
+    }
+  ],
+  "links_out": [
+    "cherkasy-oblast",
+    "coal-in-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "podolia",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian-literature",
+    "ukrainian-peoples-republic",
+    "ukrainians",
+    "vinnytsia"
+  ],
+  "sources": [
+    {
+      "title": "Uman — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Uman",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

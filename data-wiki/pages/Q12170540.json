@@ -1,0 +1,98 @@
+{
+  "qid": "Q12170540",
+  "slug": "tetiana-chornovol",
+  "title": "Tetiana Chornovol",
+  "type": "human",
+  "category": "history",
+  "aliases": [
+    "Tanya Chernovol",
+    "Tat'yana Chernovol",
+    "Tetiana Czarnowol",
+    "Tetiana Mykolaivna Chornovol",
+    "Tetiana Mykolayivna Chornovol"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1979-06-04",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Kyiv",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "Commissioner for anti-corruption policy, People's Deputy of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Tetiana Mykolaivna Chornovol is a prominent Ukrainian journalist and civic activist known for her role in the Euromaidan protests and her investigative work on corruption in Ukraine. She has served in the Verkhovna Rada and has actively participated in military efforts during the ongoing conflict in Ukraine.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Tetiana Chornovol was born on 4 June 1979 in [[kyiv|Kyiv]], [[ukrainian-soviet-socialist-republic|Ukrainian SSR]], [[soviet-union|Soviet Union]]. Her family originates from [[cherkasy-oblast|Cherkasy Oblast]] in central [[ukraine|Ukraine]]. She currently resides in the suburb of Hora in [[boryspil|Boryspil]] Raion. Chornovol graduated from the Faculty of Journalism at the Kyiv International Institute of Linguistics and Law in 2001."
+      ]
+    },
+    {
+      "heading": "Journalistic Career",
+      "paragraphs": [
+        "Chornovol has worked for various [[ukrainian|Ukrainian]] publications, focusing on political issues and corruption. From 2001 to 2004, she was the head of the 'Theme of the week' section in 'Peak' magazine. In 2004, she specialized in investigative journalism, contributing to online newspapers such as Ukrainska [[pravda|Pravda]] and Obozrevatel, focusing on the illicit wealth of politicians and public servants.",
+        "In 2008, a judgment from the High Court of Justice in London was issued against Obozrevatel for failing to retract false statements made about businessman Rinat Akhmetov in articles by Chornovol. Despite the legal pressure, Chornovol did not issue an apology. Her investigations also included allegations against then-President [[viktor-yanukovych|Viktor Yanukovych]], notably regarding his lavish residence, [[mezhyhirya|Mezhyhirya]]."
+      ]
+    },
+    {
+      "heading": "Activism and Political Involvement",
+      "paragraphs": [
+        "Chornovol has a background in nationalist politics, having joined the Ukrainian National Assembly – [[ukrainians|Ukrainian People]]'s Self-Defence (UNA-UNSO) at age 17. She has participated in significant protests, including Ukraine without Kuchma in 2001, the [[orange-revolution|Orange Revolution]] in 2004, and the [[euromaidan|Euromaidan]] protests. During these events, she engaged in direct actions, including storming a suspected surveillance vehicle during Euromaidan.",
+        "In 2014, Chornovol was elected to the [[verkhovna-rada|Verkhovna Rada]] as a member of the 'People's Front' party and served on the Committee on National Security and Defense. She returned to parliament in September 2025 after replacing a vacancy."
+      ]
+    },
+    {
+      "heading": "Attack and Aftermath",
+      "paragraphs": [
+        "On 25 December 2013, Chornovol was severely beaten in an attack that drew widespread condemnation. The assault occurred shortly after she published an article about a luxurious residence linked to Minister of Internal Affairs Vitaliy Zakharchenko. Following the attack, there was significant public outcry, and Chornovol stated that her investigative work was likely the motive behind the assault.",
+        "The attack was characterized as attempted murder, and several suspects were arrested, with allegations of connections to organized crime. Chornovol's husband accused the authorities of downplaying the incident, and she believed it was ordered by President Viktor Yanukovych."
+      ]
+    },
+    {
+      "heading": "Political Career and Recent Developments",
+      "paragraphs": [
+        "Chornovol was appointed head of the National Anti-Corruption Committee on 5 March 2014 but resigned on 18 August 2014, citing a lack of political will to combat corruption [[coal-in-ukraine|in Ukraine]]. She became a founding member of the People's Front party on 10 September 2014. In addition to her political endeavors, Chornovol has been actively involved in the [[war-in-donbas|War in Donbas]] and rejoined the [[ukrainian-ground-forces|Ukrainian army]] following the Russian invasion in 2022."
+      ]
+    }
+  ],
+  "links_out": [
+    "boryspil",
+    "cherkasy-oblast",
+    "coal-in-ukraine",
+    "euromaidan",
+    "kyiv",
+    "mezhyhirya",
+    "orange-revolution",
+    "pravda",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-ground-forces",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainians",
+    "verkhovna-rada",
+    "viktor-yanukovych",
+    "war-in-donbas"
+  ],
+  "sources": [
+    {
+      "title": "Tetiana Chornovol — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tetiana_Chornovol",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

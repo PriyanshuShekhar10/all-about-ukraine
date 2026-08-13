@@ -1,0 +1,74 @@
+{
+  "qid": "Q2459274",
+  "slug": "kyiv-zoo",
+  "title": "Kyiv Zoo",
+  "type": "zoo",
+  "category": "geography",
+  "aliases": [
+    "Kyiv Zoo",
+    "Kyiv Zoological Park of National Importance"
+  ],
+  "infobox": {
+    "label": "zoo",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1909-03-21",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "39",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4555, 30.4647",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Kyiv Zoo, the largest zoo in Kyiv, [[ukraine|Ukraine]], and one of the largest in the [[post-soviet-states|former Soviet Union]], spans approximately 40 hectares and is home to around 2,600 animals from 328 species. The zoo plays a significant role in wildlife preservation and research [[coal-in-ukraine|in Ukraine]], attracting about 280,000 visitors each year.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Kyiv Zoo was established in 1909 by the Nature Lovers Society, with funding from private donors and philanthropic efforts. Initially, the zoo faced challenges, limiting its animal population to 15-20 species at a time. During its first winter, many animals had to be temporarily housed at the [[kyiv|Kyiv]]-Pasazhyrskyi railway station due to inadequate winter facilities, which were later improved at the A.V. Fomin Botanical Garden.",
+        "In 1913, the zoo received a permanent location on the outskirts of Kyiv, and by 1914, it had central heating for winter facilities. However, political instability in Imperial Russia hampered its development until the Russian Revolution in 1917, after which the zoo began to recover.",
+        "During World War II, Kyiv was occupied by Nazi forces, but the animals were evacuated and returned after the war. Significant developments occurred in subsequent decades, including the addition of a bird pavilion in 1970, which remains the largest in Europe, and the introduction of the Animals Island exhibit in 1982.",
+        "Kyiv Zoo became a member of the European Association of Zoos and Aquaria (EAZA) in 1996 but was expelled in 2017 due to poor conditions and animal mistreatment. As of April 2018, it is a 'Candidate for Membership' with EAZA, working towards regaining full status.",
+        "The zoo faced controversies regarding animal deaths in 2008 and 2010, with accusations of negligence and poor living conditions. A [[ukrainian|Ukrainian]] postage stamp was issued in 2009 to commemorate its centenary, and a full renovation was completed in 2020.",
+        "In response to the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], zoo director Kyrylo Trantin prepared for potential threats by stocking supplies and reinforcing enclosures. The zoo closed indefinitely after the invasion, with about 50 staff members and their families remaining on-site to care for the animals."
+      ]
+    },
+    {
+      "heading": "Description",
+      "paragraphs": [
+        "Kyiv Zoo covers an area of 40 hectares (99 acres) and houses approximately 2,600 animals from 328 species, including elephants. The zoo features 130 different species of trees and bushes across its islands.",
+        "In addition to being a recreational facility, Kyiv Zoo serves as a research center focused on acclimatizing foreign animals and conserving rare species such as Amur tigers, bisons, and Przewalski's Horses. The zoo has undergone refurbishments since 2017 to enhance the living conditions for its animals."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "coal-in-ukraine",
+    "kyiv",
+    "post-soviet-states",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Kyiv Zoo — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kyiv_Zoo",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

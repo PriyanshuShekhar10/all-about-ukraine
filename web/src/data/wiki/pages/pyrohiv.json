@@ -1,0 +1,76 @@
+{
+  "qid": "Q13424829",
+  "slug": "pyrohiv",
+  "title": "Pyrohiv",
+  "type": "subdivision of Kyiv",
+  "category": "geography",
+  "aliases": [
+    "Pirogov",
+    "Pirogovo"
+  ],
+  "infobox": {
+    "label": "subdivision of Kyiv",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.3544, 30.5122",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Pyrohiv is a former village that has evolved into a residential neighborhood located on the southern outskirts of Kyiv, within the Holosiivskyi District. It is notable for its historical significance and cultural institutions, including the National Museum of Folk Architecture and Folkways of Ukraine.",
+  "sections": [
+    {
+      "heading": "Geography and Infrastructure",
+      "paragraphs": [
+        "Pyrohiv is situated between the neighborhoods of Korchuvate, Kytaiv, and Vita-Lytovska. The primary thoroughfares in the area are Pyrohivsky Shlyach and Laureatska. The neighborhood is accessible via Kyivpastrans bus route 27 and trolleybus 11, which terminates near the entrance to the museum."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The territory of Pyrohiv has been inhabited since at least the Bronze Age, with artifacts from that period discovered in the region. The first documented mention of Pyrohiv (also referred to as Pyrohivka) dates back to 1627, when it was recorded as a property of the [[kyiv|Kyiv]]-Pechersk Lavra. The village was officially recognized in 1720 and transitioned to state ownership after secularization in 1786.",
+        "In 1821, the stone Vozdvizhenska church was constructed with funding from titular councilor I. Zuyevich, although it was later destroyed in the 1930s. Historically, Pyrohiv was part of the Khotiv Volost of the Kiev Uezd."
+      ]
+    },
+    {
+      "heading": "Demographics and Development",
+      "paragraphs": [
+        "According to records from Dominique de la Flise, in 1854, Pyrohiv had 33 yards and a population of 301. The Kalynivka River, a tributary of the [[dnieper|Dnipro]], ran through the village, which also featured Lake Babky, a dam, and a water mill.",
+        "By 1900, the village had grown to 178 yards and a population of 1,222, with amenities including a one-class folk school and several brick factories, forges, and water mills. In 1926, the population reached 1,738, and the village was part of the Budaiiv District of the Kyiv Okruga until the district's dissolution in 1927, after which it was directly governed by the Kyiv City Council."
+      ]
+    },
+    {
+      "heading": "Integration into Kyiv",
+      "paragraphs": [
+        "Pyrohiv was officially annexed into the city limits of Kyiv in 1957. Prior to this, the village was divided into various 'corners' without formal street names, including Khreshchatyk, Kovtunivshchyna, and others. The naming of streets was formalized by the Executive Committee of the Kyiv City Council of Workers' Deputies in 1957."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "The neighborhood is home to the [[lviv-national-museum|National Museum]] of Folk Architecture and Folkways of [[ukraine|Ukraine]], which showcases the cultural heritage of Ukraine. Additionally, other notable sites include the small Pyrohiv Cemetery, featuring the Church of the Exaltation of the Holy Cross, and Secondary School №150."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnieper",
+    "kyiv",
+    "lviv-national-museum",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Pyrohiv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pyrohiv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

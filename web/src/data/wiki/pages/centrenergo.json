@@ -25,7 +25,7 @@
       }
     ]
   },
-  "summary": "Centrenergo is a significant electric and thermal energy producer in central and eastern Ukraine, contributing approximately 8% to the country's electricity production and about 18% to thermal generation. The company plays a crucial role in maintaining Ukraine's energy balance.",
+  "summary": "Centrenergo is a significant electric and thermal energy producer in central and eastern [[ukraine|Ukraine]], contributing approximately 8% to the country's electricity production and about 18% to thermal generation. The company plays a crucial role in maintaining Ukraine's energy balance.",
   "sections": [
     {
       "heading": "Overview",
@@ -36,7 +36,7 @@
     {
       "heading": "History",
       "paragraphs": [
-        "Established in 1995 as the state enterprise 'Centrenergo', the company underwent privatization efforts initiated by the Ministry of Finance of [[ukraine|Ukraine]] in 1996. It was re-registered as an open joint stock company in 1998 and renamed PJSC 'Centrenergo' in March 2011. Various attempts to privatize the company have occurred, with the first effort in 2013 being halted due to a fatal accident at Vuhlehirska Power Station. A more recent attempt in December 2018 to sell a 78.3% stake was unsuccessful due to participant disqualifications. In 2020, a court temporarily prohibited privatization amid legal disputes. In 2025, discussions with the Swedish fund Swedfund regarding modernization efforts were complicated by concerns over coal demand, and in April 2026, the European Investment Bank signed an agreement to assist in the company's decarbonization strategy."
+        "Established in 1995 as the state enterprise 'Centrenergo', the company underwent privatization efforts initiated by the [[ministry-of-finance-of-ukraine|Ministry of Finance of Ukraine]] in 1996. It was re-registered as an open joint stock company in 1998 and renamed PJSC 'Centrenergo' in March 2011. Various attempts to privatize the company have occurred, with the first effort in 2013 being halted due to a fatal accident at Vuhlehirska Power Station. A more recent attempt in December 2018 to sell a 78.3% stake was unsuccessful due to participant disqualifications. In 2020, a court temporarily prohibited privatization amid legal disputes. In 2025, discussions with the Swedish fund Swedfund regarding modernization efforts were complicated by concerns over coal demand, and in April 2026, the European Investment Bank signed an agreement to assist in the company's decarbonization strategy."
       ]
     },
     {
@@ -59,6 +59,7 @@
     "energy-in-ukraine",
     "kharkiv-oblast",
     "kyiv",
+    "ministry-of-finance-of-ukraine",
     "ukraine",
     "ukrainian"
   ],

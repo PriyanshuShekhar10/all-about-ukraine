@@ -1,0 +1,100 @@
+{
+  "qid": "Q1989628",
+  "slug": "oles-honchar-dnipro-national-university",
+  "title": "Oles Honchar Dnipro National University",
+  "type": "university",
+  "category": "politics",
+  "aliases": [
+    "DNU",
+    "Oles Honchar Dnipropetrovsk National University"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1918-08-20",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Dnipro",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.4331, 35.0433",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Oles Honchar Dnipro National University (DNU) is a prominent state-sponsored educational institution in Dnipro, Ukraine, founded in 1918. It serves as a significant center for higher education and research, offering a wide range of programs and maintaining strong connections with international academic institutions.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Oles Honchar Dnipro National University originated as [[dnipro|Katerynoslav]] University in 1918, established during the [[ukrainian|Ukrainian]] State under Pavlo Skoropadsky. In 1920, it was transformed into the Katerynoslav Institute of Education, which functioned until 1933. The university was restored as Dnipropetrovsk State University in 1933, although its revival coincided with the oppressive Stalinist regime, resulting in significant personnel losses. During World War II, some faculty and students participated in the defense against Nazi forces, while others were involved in evacuation efforts.",
+        "In September 2000, Dnipropetrovsk State University attained national university status. The city was renamed [[dnieper|Dnipro]] in May 2016 as part of [[ukraine|Ukraine]]'s decommunization laws."
+      ]
+    },
+    {
+      "heading": "Structure",
+      "paragraphs": [
+        "The university consists of 14 faculties, 46 research laboratories, three research institutes, and four colleges. The faculties include areas such as Ukrainian and Foreign Philology, Social Sciences, History, Psychology, Applied Mathematics, Law, Physics, Economics, and Medical Technologies.",
+        "Additionally, DNU houses various scientific and cultural facilities, including a scientific library, botanical garden, and zoological museum, as well as research institutes focused on biology, chemistry, geology, and energy-efficient technologies."
+      ]
+    },
+    {
+      "heading": "Academic Programs and Research",
+      "paragraphs": [
+        "DNU offers 98 programs for bachelor's and master's degrees and provides training for PhD students in 35 fields. The university also allows for second higher education. Before the conflict in Eastern Ukraine in 2014, it had 20 faculties and approximately 22,000 students, including 3,000 international students.",
+        "The university is known for its strong scientific schools in various disciplines, including Mathematics, Mechanics, and Biotechnology, and has been involved in numerous international educational and research projects since 1993."
+      ]
+    },
+    {
+      "heading": "International Collaboration",
+      "paragraphs": [
+        "DNU actively pursues internationalization, maintaining 93 bilateral agreements with higher education institutions and research centers across Europe, Asia, the United States, and Canada. The university participates in global mobility programs such as Erasmus+ and has established partnerships with several prominent universities worldwide.",
+        "These collaborations facilitate academic exchanges and dual degree programs, enhancing the educational experience for both local and international students."
+      ]
+    },
+    {
+      "heading": "Awards and Reputation",
+      "paragraphs": [
+        "Oles Honchar Dnipro National University has received recognition in various rankings, including first place in the SCImago Institutions Rankings 2021 for Business, Management, and Accounting, and eleventh in the QS World University Rankings: EECA Region 2022. It ranked fourth in both the Times Higher Education Impact Rankings 2023 and the THE World University Rankings 2023.",
+        "According to AcademicInfluence.com, DNU is among the top 300 global universities in mathematics education."
+      ]
+    },
+    {
+      "heading": "Notable Alumni",
+      "paragraphs": [
+        "The university has produced several notable alumni, including [[oles-honchar|Oles Honchar]], a significant Ukrainian writer and academic; [[leonid-kuchma|Leonid Kuchma]], [[president-of-ukraine|President of Ukraine]] from 1994 to 2005; and [[yulia-tymoshenko|Yulia Tymoshenko]], former [[prime-minister-of-ukraine|Prime Minister of Ukraine]]. Other distinguished graduates include historians, scientists, and cultural figures who have contributed to Ukraine's intellectual and political landscape."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnieper",
+    "dnipro",
+    "leonid-kuchma",
+    "oles-honchar",
+    "president-of-ukraine",
+    "prime-minister-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "yulia-tymoshenko"
+  ],
+  "sources": [
+    {
+      "title": "Oles Honchar Dnipro National University — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oles_Honchar_Dnipro_National_University",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

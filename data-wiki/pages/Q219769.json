@@ -1,0 +1,112 @@
+{
+  "qid": "Q219769",
+  "slug": "zolotonosha",
+  "title": "Zolotonosha",
+  "type": "city of regional significance of Ukraine",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1576",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "27,847",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "2,165",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "99",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Q134302230",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.6667, 32.0333",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Zolotonosha is a city of regional significance located in Cherkasy Oblast, central [[ukraine|Ukraine]], serving as the administrative center of Zolotonosha Raion. As of 2022, its population is estimated at 27,206.",
+  "sections": [
+    {
+      "heading": "Geographical Context",
+      "paragraphs": [
+        "Zolotonosha is situated in the [[dnieper|Dnieper]] Lowland along the Zolotonoshka River, which is a tributary of the Dnipro River. The city is approximately 30 km (19 mi) from [[cherkasy|Cherkasy]], the administrative center of the oblast, and is traversed by the railroad line connecting Bakhmach to [[odesa|Odesa]], as well as major highways linking [[kyiv|Kyiv]] to Kremenchuk and Cherkasy to Shramkivka."
+      ]
+    },
+    {
+      "heading": "Administrative Status",
+      "paragraphs": [
+        "Prior to 18 July 2020, Zolotonosha held the designation of a city of oblast significance and was part of Zolotonosha Municipality, but it was not included in Zolotonosha Raion despite being its center. Following administrative reforms aimed at reducing the number of raions in [[cherkasy-oblast|Cherkasy Oblast]] to four, the city was integrated into Zolotonosha Raion."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The first recorded mention of Zolotonosha dates back to around 1576 when it was under Polish control, specifically within the Kijów Voivodeship of the Lesser Poland Province. In 1635, the town was granted Magdeburg rights, and it came under the ownership of various Polish nobility, including the Domont-Moszeński and Olekszyc families, before being acquired by the powerful magnate Jeremi Wiśniowiecki, whose family constructed a castle in the town.",
+        "Zolotonosha was later captured by [[cossacks|Cossacks]] and became a sotnia town of the Pereiaslav Regiment. Notably, in 1666, Cossacks from the Pereiaslav Regiment successfully defended against Shcherbatov's forces. The town experienced significant destruction due to a fire in 1680. After 1796, Zolotonosha was incorporated into Malorossia and became part of the [[poltava|Poltava]] Governorate in 1802, allowing for an influx of Jewish settlers.",
+        "Under Russian Empire rule, Zolotonosha developed as a center for trade, crafts, and agriculture, with its population growing from 7,200 in 1860 to 8,700 by 1897. However, the town faced violence, including a pogrom in October 1905, which resulted in extensive damage and targeted the Jewish community. During the [[ukrainian-war-of-independence|Ukrainian War of Independence]] from 1917 to 1921, Zolotonosha was part of the [[ukrainian-peoples-republic|Ukrainian People's Republic]] and later the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]. The town experienced further pogroms in 1919, leading to significant loss of life and property.",
+        "By 1933, the population was approximately 13,000, with a Jewish community of 2,087 individuals, representing 11.4% of the total population by 1939. Zolotonosha was occupied by German forces during World War II from September 1941 until September 1943, during which time mass executions of Jews occurred. The city was liberated by the Red Army in September 1943.",
+        "Under Soviet governance, Zolotonosha became a center for mechanical and processing industries and housed an agricultural school. Following the dissolution of [[soviet-union|the Soviet Union]] in 1991, Zolotonosha became part of an [[independent-ukraine|independent Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Cultural and Architectural Heritage",
+      "paragraphs": [
+        "Zolotonosha is home to several notable architectural monuments, including the Preobrazhenska Church of the Krasnohirsky Monastery, designed by Ivan Hryhorovych-Barskyi in the [[ukrainian-baroque|Ukrainian Baroque]] style and constructed between 1767 and 1771. Additionally, the Sviato-Uspenskyi Cathedral was built in 1909, and a statue of the renowned [[ukrainian|Ukrainian]] poet [[taras-shevchenko|Taras Shevchenko]] was erected between 1924 and 1926."
+      ]
+    },
+    {
+      "heading": "Notable Figures",
+      "paragraphs": [
+        "Several prominent individuals are associated with Zolotonosha, including Aleksei Barannikov (1890-1952), a Russian linguist; Isaac Boleslavsky (1919-1977), a Jewish chess grandmaster; Ber Borochov (1881-1917), a Jewish founder of the Poale Zion party; Mykhailo Drai-Khmara (1889-1939), a Ukrainian philologist and poet; and Ivan Poddubny (1871-1949), a world champion wrestler of Ukrainian descent."
+      ]
+    }
+  ],
+  "links_out": [
+    "cherkasy",
+    "cherkasy-oblast",
+    "cossacks",
+    "dnieper",
+    "independent-ukraine",
+    "kyiv",
+    "odesa",
+    "poltava",
+    "soviet-union",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-baroque",
+    "ukrainian-peoples-republic",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainian-war-of-independence"
+  ],
+  "sources": [
+    {
+      "title": "Zolotonosha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zolotonosha",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

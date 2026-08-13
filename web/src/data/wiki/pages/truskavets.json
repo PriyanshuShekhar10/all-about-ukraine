@@ -1,0 +1,93 @@
+{
+  "qid": "Q157440",
+  "slug": "truskavets",
+  "title": "Truskavets",
+  "type": "spa town",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "spa town",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "28,867",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "70",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "400",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.2806, 23.5050",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Truskavets is a city located in the Drohobych Raion of Lviv Oblast, Ukraine, renowned for its mineral springs and spa facilities. It serves as a significant health resort destination, attracting numerous visitors, primarily from Ukraine and Belarus.",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Context",
+      "paragraphs": [
+        "Truskavets ([[ukrainian|Ukrainian]]: Трускавець) is situated in [[western-ukraine|western Ukraine]]'s [[lviv-oblast|Lviv Oblast]], near the Polish border. It serves as the administrative center of the Truskavets urban hromada, one of [[ukraine|Ukraine]]'s local government units. As of 2022, the population of Truskavets is approximately 28,287."
+      ]
+    },
+    {
+      "heading": "Health Resort and Mineral Springs",
+      "paragraphs": [
+        "Truskavets is celebrated for its mineral springs, making it one of Ukraine's prominent resort towns. Visitors primarily come to partake in the local mineral waters, with 'Naftusia' being the most famous, characterized by its naphtha and sulfur scent and slightly saline taste. The town is located in a picturesque valley within the [[prykarpattia|Carpathian foothills]] and is accessible from [[lviv|Lviv]] by bus or train."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The first recorded mention of Truskavets dates back to 1469 when it was known as Truskawiec. The local waters were first described by Wojciech Oczko, a Polish royal doctor, in 1578. The village was part of the Polish Crown until the First Partition of Poland in 1772, after which it became part of Austria. The first baths in Truskavets opened in 1827, and by the mid-19th century, the area had developed into a spa destination.",
+        "After World War I, Truskawiec regained popularity as a spa town, and by the 1920s and 1930s, it had become a leading resort in Poland, hosting notable figures from various fields. However, the spa's operation was disrupted during World War II, leading to significant changes in ownership and management.",
+        "Following the war, Truskavets was annexed by [[soviet-union|the Soviet Union]], resulting in the destruction of many historic structures. The town was incorporated as a city of oblast significance until July 18, 2020, when it became part of [[drohobych|Drohobych]] Raion as part of administrative reforms [[coal-in-ukraine|in Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Cultural Significance and Notable Residents",
+      "paragraphs": [
+        "Truskavets has been associated with various notable individuals, including Taras Bobanych (1989–2022), a Ukrainian lawyer and soldier. The town is also recognized for its cultural connections, being twinned with several towns in Poland and Slovakia, including Działdowo and Limanowa."
+      ]
+    },
+    {
+      "heading": "Modern Developments",
+      "paragraphs": [
+        "In 2000, a special economic zone named 'Kurortopolis Truskavets' was established to promote investment in health and medical treatment, resulting in the approval of 13 investment projects. The modern coat of arms of Truskavets features a goose, symbolizing vigilance, kindness, and health."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "drohobych",
+    "lviv",
+    "lviv-oblast",
+    "prykarpattia",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Truskavets — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Truskavets",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

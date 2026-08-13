@@ -1,0 +1,74 @@
+{
+  "qid": "Q375856",
+  "slug": "odesa-catacombs",
+  "title": "Odesa Catacombs",
+  "type": "geological monument",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "geological monument",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "4",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "46.5467, 30.6306",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Odesa Catacombs are an extensive network of tunnels beneath the city of Odesa, Ukraine, primarily formed through stone mining. This labyrinth, which reaches depths of 60 metres and spans approximately 2,500 kilometres, has historical significance, having served various purposes from construction to wartime shelters.",
+  "sections": [
+    {
+      "heading": "Geological and Structural Features",
+      "paragraphs": [
+        "The Odesa Catacombs consist of a complex labyrinth of tunnels located under [[odesa|Odesa]] and its surrounding areas, with over 90% of the structure resulting from the mining of coquina stone. The catacombs are organized into three levels, descending to a depth of 60 metres (200 ft) below sea level."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The origins of the catacombs date back to the 19th century when limestone was mined extensively to provide materials for the construction of Odesa. By the second half of the 19th century, the mining activities had created significant challenges for the city.",
+        "Following the Russian Revolution of 1917, mining was prohibited in the central region of Odesa. During World War II, the catacombs became a refuge for Soviet partisans, including the group led by Vladimir Molodtsov, and were later utilized as bomb shelters during the Cold War."
+      ]
+    },
+    {
+      "heading": "Modern Exploration and Tourism",
+      "paragraphs": [
+        "As of 2019, there are more than 1,000 known entrances to the Odesa Catacombs, though only a small section is accessible to the public through the 'Museum of Partisan Glory' in Nerubaiske, located north of Odesa. Despite the dangers associated with exploring the catacombs, some extreme tourists venture into the tunnels, which remain largely unmapped and unsafe."
+      ]
+    },
+    {
+      "heading": "Fossil Discoveries",
+      "paragraphs": [
+        "The catacombs have also yielded significant paleontological finds, including fossils from the Pliocene epoch, approximately 3.5 million years ago. Notable discoveries include remains of various mammals such as the camel Paracamelus alexejevi and the sabertooth cats Megantereon and Homotherium, marking the site as one of the oldest records of these species."
+      ]
+    },
+    {
+      "heading": "Safety Concerns and Incidents",
+      "paragraphs": [
+        "There have been reports of individuals becoming lost in the catacombs, leading to tragic outcomes. A notable case involved a local student named Masha, who allegedly perished in the tunnels in 2005. However, subsequent investigations have cast doubt on the authenticity of this account, with claims of it being a hoax."
+      ]
+    }
+  ],
+  "links_out": [
+    "odesa"
+  ],
+  "sources": [
+    {
+      "title": "Odesa catacombs — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Odesa_catacombs",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

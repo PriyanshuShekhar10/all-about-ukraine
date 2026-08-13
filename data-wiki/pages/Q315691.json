@@ -1,0 +1,79 @@
+{
+  "qid": "Q315691",
+  "slug": "witold-pilecki",
+  "title": "Witold Pilecki",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Captain Pilecki"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1901-05-13",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1948-05-25",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Olonets, Vilnius",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Witold Pilecki was a Polish cavalry officer, intelligence agent, and resistance leader during World War II, known for his infiltration of Auschwitz and his efforts to document Nazi atrocities. His life and actions are significant in the context of both Polish and Ukrainian history during the war.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Witold Pilecki was born on 13 May 1901 in Olonets, Karelia, then part of the Russian Empire. He belonged to a Polish-speaking noble family of the Leliwa coat of arms, with ancestors deported from Lithuania for their involvement in the January 1863–64 Uprising.",
+        "In 1910, Pilecki moved to Vilnius with his mother and siblings to pursue education, joining the underground Polish Scouting and Guiding Association. He later attended a school in Oryol during World War I."
+      ]
+    },
+    {
+      "heading": "Military Career",
+      "paragraphs": [
+        "Following the Russian Revolution, Pilecki joined the Self-Defence of Lithuania and Belarus and later enlisted in the Polish Army. He fought in the Polish–Soviet War from 1919 to 1921 and was involved in key battles, including the Battle of Warsaw.",
+        "By the end of the Polish-Soviet War, Pilecki had risen to the rank of corporal and transitioned to army reserves, later engaging in military training and community support activities."
+      ]
+    },
+    {
+      "heading": "World War II Involvement",
+      "paragraphs": [
+        "During the September Campaign in 1939, Pilecki was mobilized and fought against the German invasion, ultimately opting to remain in Poland rather than retreat. He co-founded the Secret Polish Army in November 1939, which aimed to resist the German occupation.",
+        "In 1940, Pilecki voluntarily entered Auschwitz by allowing himself to be captured, where he organized a resistance movement among the inmates and documented the atrocities committed by the Nazis."
+      ]
+    },
+    {
+      "heading": "Resistance and Aftermath",
+      "paragraphs": [
+        "Pilecki's resistance efforts included the formation of the Military Organization Union at Auschwitz, which aimed to boost morale and gather intelligence. After escaping in 1943, he participated in the Warsaw Uprising.",
+        "Following the war, Pilecki returned to Poland to report on the situation under communist rule. He was arrested in 1947, tortured, and executed in 1948, with his contributions remaining largely unrecognized for decades."
+      ]
+    },
+    {
+      "heading": "Legacy",
+      "paragraphs": [
+        "Witold Pilecki's story gained recognition in the years following the fall of communism in Poland, highlighting his significant role in the resistance against both Nazi and Soviet oppression. His experiences, particularly at Auschwitz, have become integral to understanding the broader context of Polish and [[history-of-ukraine|Ukrainian history]] during World War II."
+      ]
+    }
+  ],
+  "links_out": [
+    "history-of-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Witold Pilecki — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Witold_Pilecki",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

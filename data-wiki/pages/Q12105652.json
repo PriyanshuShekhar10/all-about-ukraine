@@ -1,0 +1,75 @@
+{
+  "qid": "Q12105652",
+  "slug": "rail-transport-in-ukraine",
+  "title": "rail transport in Ukraine",
+  "type": "rail transport by country or region",
+  "category": "economy",
+  "aliases": [
+    "rail transportation in Ukraine"
+  ],
+  "infobox": {
+    "label": "rail transport by country or region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Rail transport in Ukraine serves as a critical mode of transportation for both passengers and freight, predominantly managed by the state-owned Ukrzaliznytsia. The railway network, largely established during the Russian Empire and the Soviet Union, has faced significant challenges due to ongoing conflicts and modernization efforts.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Rail transport in Ukraine is a major transport mode in the country. The majority of railway infrastructure is owned by the [[cabinet-of-ministers-of-ukraine|government of Ukraine]] through [[ukrainian-railways|Ukrzaliznytsia]] (Public JSC 'Ukrainian Railways'), which holds a de facto monopoly on both passenger and freight rail transport."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "The first railway tracks in what is now [[ukraine|Ukraine]] were built by Austria-Hungary in the western region, while most of the railway lines were constructed under the Russian Empire or [[soviet-union|the Soviet Union]], leading to a network primarily consisting of 1520 mm gauge railways. In the late 1990s, part of the rail network in eastern Ukraine was privatized, resulting in the establishment of Lemtrans, the largest private railway company in the country, focusing on freight transport."
+      ]
+    },
+    {
+      "heading": "Impact of Conflicts",
+      "paragraphs": [
+        "Since the onset of the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]] in 2014, exacerbated by the full-scale Russian invasion in February 2022, significant portions of the [[ukrainian|Ukrainian]] rail network have been occupied by Russian-aligned military forces. The Ukrainian government and Ukrzaliznytsia have made substantial efforts to repair and adapt the railway system to enhance logistical connections with the European Union and Moldova."
+      ]
+    },
+    {
+      "heading": "Key Historical Events",
+      "paragraphs": [
+        "The first railway line in the territory of [[modern-history-of-ukraine|modern Ukraine]] was constructed in January 1855 during the Siege of [[sevastopol|Sevastopol]]. The first regular railway line in the lands of contemporary Ukraine was built between 1859 and 1861 as part of the Galician Railway, connecting Przemyśl and [[lviv|Lviv]]. By 1914, the total length of railways in the Ukrainian parts of the Russian Empire reached 16,000 kilometers.",
+        "During World War I, new railway lines were established for strategic purposes, while the post-war period saw significant attention given to railway infrastructure by Ukrainian authorities. The Second World War caused extensive damage to the railways, with over 9,200 kilometers of tracks destroyed."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "Following the Russian invasion in 2022, railways became crucial for logistics, with railway nodes targeted to disrupt supply lines. The blockade of Black Sea ports led to a crisis in agricultural exports, making rail freight the primary alternative. Efforts to enhance rail freight capacity included the construction of new transloading stations and addressing the challenges posed by the break-of-gauge between Ukraine's railways and those of neighboring countries.",
+        "By October 2022, repair operations for damaged railway infrastructure were underway, underscoring the essential role of railways in military, civilian, and humanitarian logistics."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "lviv",
+    "modern-history-of-ukraine",
+    "sevastopol",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-railways"
+  ],
+  "sources": [
+    {
+      "title": "Rail transport in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rail_transport_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

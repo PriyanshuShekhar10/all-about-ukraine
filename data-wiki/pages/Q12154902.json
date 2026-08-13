@@ -1,0 +1,91 @@
+{
+  "qid": "Q12154902",
+  "slug": "ukrainian-womens-union",
+  "title": "Ukrainian Women's Union",
+  "type": "women's organization",
+  "category": "politics",
+  "aliases": [
+    "SU",
+    "Soiuz ukrainok",
+    "Sojuz Ukraïnok",
+    "UNWL",
+    "Ukrainian National Women’s League",
+    "Union of Ukrainian Women"
+  ],
+  "infobox": {
+    "label": "women's organization",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1920",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Ukrainian Women's Union (Ukrainian: Союз українок) was a prominent women's organization that operated from 1920 to 1938, primarily among Ukrainian women outside of [[ukrainian-soviet-socialist-republic|Soviet Ukraine]], advocating for both gender recognition and nationalist aims.",
+  "sections": [
+    {
+      "heading": "Founding and Objectives",
+      "paragraphs": [
+        "The Ukrainian Women's Union was established in 1920 in [[lviv|Lviv]] by Milena Rudnytska, along with Olena Fedak-Sheparovych, Iryna Sichynska, Olha Tsipanovska, and others. The organization aimed to organize women's journals, conferences, and cooperatives, succeeding the Women's Hromada in Lviv.",
+        "Initially, the UWU did not prioritize traditional feminist issues but focused on enhancing the social and economic lives of its predominantly peasant membership. By 1930, the union had an estimated membership of between 50,000 and 100,000, despite challenges in consolidating membership due to Polish authorities' restrictions."
+      ]
+    },
+    {
+      "heading": "Activities and Political Engagement",
+      "paragraphs": [
+        "The UWU engaged in community initiatives and self-improvement programs rather than a strictly feminist agenda. It sponsored art cooperatives to support peasant craftsmanship and foster market opportunities for their products.",
+        "The organization also acted as a nationalist entity, promoting political unity among [[ukrainians|Ukrainians]]. Its leadership was involved with the [[ukrainian|Ukrainian]] National Democratic Alliance and worked to address issues such as the suppression of Ukrainian language schools."
+      ]
+    },
+    {
+      "heading": "Cultural Contributions and Publications",
+      "paragraphs": [
+        "In 1934, the UWU hosted a congress in [[galicia|Galicia]] that attracted around 10,000 delegates, focusing on women's active participation in community affairs. In 1935, it launched a journal titled Zhinka (Woman), which addressed topics such as education, economic opportunity, and women's rights.",
+        "Despite facing criticism from various intellectual circles, the organization maintained its support among the peasant population until its operations were curtailed by the outbreak of World War II."
+      ]
+    },
+    {
+      "heading": "Dissolution and Revival",
+      "paragraphs": [
+        "On May 5, 1938, Polish authorities arrested the leadership of the UWU, effectively ending its activities. The organization was reformed in 1989 in Lviv and expanded to [[kyiv|Kyiv]] in 1991 as the All-Ukrainian Women's Public Education Organization.",
+        "Among the revivers were notable figures such as Kateryna Stetsenko and Olena Suslova. However, under the leadership of Lilia Hryhorovych, the organization lost its feminist character, leading to a departure of many founding members."
+      ]
+    },
+    {
+      "heading": "Commemoration and Legacy",
+      "paragraphs": [
+        "In January 2014, the Ukrainian Union joined the Committee of Women's Resistance, and in 2017, the [[verkhovna-rada|Ukrainian parliament]] officially commemorated the centenary of the founding of the original Union of Ukrainians in 1917."
+      ]
+    },
+    {
+      "heading": "Notable Members",
+      "paragraphs": [
+        "Prominent figures associated with the Ukrainian Women's Union include Mariia Biletska, Ivanna Blazhkevych, Sofia Fedak-Melnyk, Katrya Hrynevycheva, Olena Kysilevska, Konstantyna Malytska, and Milena Rudnytska."
+      ]
+    }
+  ],
+  "links_out": [
+    "galicia",
+    "kyiv",
+    "lviv",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainians",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Women's Union — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Women's_Union",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

@@ -1,0 +1,66 @@
+{
+  "qid": "Q5995412",
+  "slug": "rus",
+  "title": "Rus",
+  "type": "Wikimedia disambiguation page",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "The term 'Rus' or 'RUS' encompasses a variety of historical, cultural, and geographical references, particularly significant in the context of East Slavic history and its connection to Ukraine.",
+  "sections": [
+    {
+      "heading": "People",
+      "paragraphs": [
+        "The term 'Rus' refers to the East Slavic historical peoples known as Русь, which is foundational to the identities of [[modern-history-of-ukraine|modern Ukraine]], Russia, and Belarus.",
+        "The [[rus-people|Rus' people]] are those who inhabited the region historically associated with Rus'.",
+        "Additionally, 'Rus' is identified as a legendary eponymous ancestor, similar to figures such as Lech and Czech."
+      ]
+    },
+    {
+      "heading": "Historical Places",
+      "paragraphs": [
+        "[[kievan-rus|Kievan Rus]]' was a medieval East Slavic state centered in Kiev, which is now the capital of [[ukraine|Ukraine]] and a crucial part of its historical heritage.",
+        "The Rus' Khaganate was a ninth-century Eastern European state that played a role in the early formation of East Slavic identity.",
+        "Several other medieval states, such as Vladimirian Rus', Halychian Rus', and Volhynian Rus', were significant in the development of [[ukrainian|Ukrainian]] territories.",
+        "[[halych|Halych]]-Volhynian Rus', known as the [[kingdom-of-galiciavolhynia|Kingdom of Galicia–Volhynia]], united the regions of Halych and [[volhynia|Volhynia]], which are now part of modern Ukraine.",
+        "The Principality of Turov and the Principality of Polotsk also represent important historical entities within the context of East Slavic states.",
+        "Novgorodian Rus', centered in Novgorod, and Muscovite Rus', centered in Moscow, further illustrate the evolution of Rus' identity across different regions.",
+        "The Tsardom of Rus' and the historical regions of Minor Rus', Great Rus', White Rus', Red Rus', Black Rus', Carpathian Rus', and Subcarpathian Rus' highlight the diverse geographical aspects of Rus' history."
+      ]
+    },
+    {
+      "heading": "Acronyms and Codes",
+      "paragraphs": [
+        "The acronym 'RUS' is used in various contexts, including as an ISO code for Russia, which is relevant to discussions about the geopolitical landscape involving Ukraine."
+      ]
+    },
+    {
+      "heading": "Other Uses",
+      "paragraphs": [
+        "The term 'Rus' has appeared in various cultural contexts, such as the Russian newspaper published intermittently from 1903 to 1908, reflecting the historical narratives surrounding the region."
+      ]
+    }
+  ],
+  "links_out": [
+    "halych",
+    "kievan-rus",
+    "kingdom-of-galiciavolhynia",
+    "modern-history-of-ukraine",
+    "rus-people",
+    "ukraine",
+    "ukrainian",
+    "volhynia"
+  ],
+  "sources": [
+    {
+      "title": "Rus — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rus",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

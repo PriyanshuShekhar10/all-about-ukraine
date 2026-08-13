@@ -1,0 +1,51 @@
+{
+  "qid": "Q1182148",
+  "slug": "hetmanate",
+  "title": "Hetmanate",
+  "type": "Wikimedia disambiguation page",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "The Hetmanate refers to significant political entities in Ukrainian history, particularly the Cossack Hetmanate and the Ukrainian State, which are integral to the development of Ukraine's national identity and governance.",
+  "sections": [
+    {
+      "heading": "Cossack Hetmanate",
+      "paragraphs": [
+        "The [[cossack-hetmanate|Cossack Hetmanate]], known in [[ukrainian|Ukrainian]] as Гетьманат, was a Ukrainian Cossack state that existed from 1649 to 1764. This political entity played a crucial role in the [[history-of-ukraine|history of Ukraine]], representing a period of autonomy and governance by Cossack leaders."
+      ]
+    },
+    {
+      "heading": "Ukrainian State",
+      "paragraphs": [
+        "The Ukrainian State, which is sometimes referred to as the Second Hetmanate, emerged in 1918. This entity marked a significant moment [[coal-in-ukraine|in Ukraine]]'s quest for independence and self-determination during the tumultuous period following World War I."
+      ]
+    },
+    {
+      "heading": "Political Context",
+      "paragraphs": [
+        "The term '[[hetman|Hetman]]' denotes a political title that has historical significance in Central and [[eastern-europe|Eastern Europe]], particularly in the context of leadership within the Cossack communities of [[ukraine|Ukraine]]. This title is closely associated with the governance structures of the Hetmanate."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "cossack-hetmanate",
+    "eastern-europe",
+    "hetman",
+    "history-of-ukraine",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Hetmanate — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hetmanate",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

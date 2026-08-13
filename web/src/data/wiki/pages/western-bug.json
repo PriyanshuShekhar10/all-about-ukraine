@@ -1,0 +1,69 @@
+{
+  "qid": "Q156237",
+  "slug": "western-bug",
+  "title": "Western Bug",
+  "type": "river",
+  "category": "geography",
+  "aliases": [
+    "Bug River"
+  ],
+  "infobox": {
+    "label": "river",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Poland, Belarus",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.8927, 25.0166",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Western Bug is a significant river in [[eastern-europe|Eastern Europe]], flowing through Ukraine, Poland, and Belarus, with a total length of 774 kilometres (481 mi). It serves as a natural border between Ukraine and Poland for 185 kilometres (115 mi) and is connected to the [[dnieper|Dnieper River]] through the Dnieper–Bug Canal.",
+  "sections": [
+    {
+      "heading": "Geographic Overview",
+      "paragraphs": [
+        "The Western Bug is a left tributary of the Narew River, originating in the [[lviv-oblast|Lviv Oblast]] of [[ukraine|Ukraine]] and flowing northwards into the [[volyn-oblast|Volyn Oblast]]. It delineates part of the border between Ukraine and Poland, as well as the border between Poland and Belarus, before entering Poland, where it traverses the Masovian and Podlaskie Voivodeships. The river meets the Narew at Serock, upstream of the artificial Zegrze Lake, completed in 1963."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Historically, the Bug River has been viewed as an ethnographic boundary separating Eastern and Western cultures, as well as Orthodox and Catholic populations. It played a pivotal role in the territorial divisions following the Third Partition of Poland in 1795 and was a significant line of demarcation during various historical conflicts, including World War II."
+      ]
+    },
+    {
+      "heading": "Basin Characteristics",
+      "paragraphs": [
+        "The drainage basin of the Bug covers an area of 38,712 square kilometres (14,947 mi2), with approximately 50% located in Poland, 29% in Belarus, and 22% [[coal-in-ukraine|in Ukraine]]. The basin experiences a temperate climate, with seasonal variations in water levels influenced by snowmelt in spring and occasional summer floods."
+      ]
+    },
+    {
+      "heading": "Flooding Events",
+      "paragraphs": [
+        "Significant flooding events have occurred in the Bug River basin, particularly in Belarus, with notable floods recorded in 1958, 1962, 1967, 1971, and 1974. The most substantial spring flood occurred in 1979, with maximum water discharge reaching 269 cubic metres per second near Brest. The river last flooded in Poland and Ukraine in 2010, while Belarus experienced its last significant flood in 1999."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "dnieper",
+    "eastern-europe",
+    "lviv-oblast",
+    "ukraine",
+    "volyn-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Bug (river) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bug_(river)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

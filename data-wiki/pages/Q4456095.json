@@ -1,0 +1,80 @@
+{
+  "qid": "Q4456095",
+  "slug": "ternopil-castle",
+  "title": "Ternopil Castle",
+  "type": "castle",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "castle",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1548",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Austrian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.5533, 25.5875",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Ternopil Castle, known in [[ukrainian|Ukrainian]] as Тернопільський замок, is a historical stronghold that played a significant role in the development of the city of Ternopil, [[ukraine|Ukraine]]. Constructed in the 16th century, the castle served to protect the southern borders of the Kingdom of Poland and the Polish–Lithuanian Commonwealth.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Ternopil Castle was established as the residence of Polish nobleman Jan Amor Tarnowski in 1540, with construction authorized by King Sigismund the Old. The castle was built on the marshy banks of the Seret River, with construction occurring from 1540 to 1548. It was surrounded by a wooden fence and a deep moat, which was later connected to the castle pond.",
+        "The first recorded mention of [[ternopil|Ternopil]] dates back to April 15, 1540, when King Sigismund granted permission for the castle's construction. This fortification was intended to thwart nomadic incursions across the plains from Terebovlya to Busk."
+      ]
+    },
+    {
+      "heading": "Construction and Design",
+      "paragraphs": [
+        "The land for the castle was granted to Jan Tarnowski, the great Polish Crown [[hetman|Hetman]]. During its construction, a levee and dam were built in the Seret River valley, creating a new lake. The castle featured rectangular towers with embrasures, and the main building had multiple floors, including two underground levels.",
+        "The completion of the castle occurred in 1548, with subsequent renovations and upgrades carried out by Tarnowski's son, Krzysztof, and later by Tomasz Zamoyski, who inherited the city."
+      ]
+    },
+    {
+      "heading": "Military Significance",
+      "paragraphs": [
+        "Throughout its history, Ternopil Castle faced numerous attacks, particularly from the Tatars and Turks. The castle sustained significant damage during sieges in 1544, 1575, 1589, and 1672, culminating in its destruction by the Ottoman army in 1675.",
+        "During these assaults, local residents sought refuge in the castle's cellars, which were designed to withstand prolonged sieges. The castle also featured a network of underground passageways connecting it to nearby churches and synagogues."
+      ]
+    },
+    {
+      "heading": "19th and 20th Century Transformations",
+      "paragraphs": [
+        "In the early 19th century, Count Korytowski transformed the castle into a palace, demolishing many of its defensive structures. The castle was sold to the town community in 1843 and later repurposed by the Austrian army.",
+        "The Old Castle was burned by the Russian army during their retreat on July 21, 1917, but was restored on April 15, 1931. It served various functions, including as a military base during World War II."
+      ]
+    },
+    {
+      "heading": "Restoration Efforts",
+      "paragraphs": [
+        "The Old Castle underwent a significant reconstruction in 1956 and was used for sporting events. By 1969, it housed a Greco-Roman wrestling school. However, due to numerous reconstructions, little of the original structure remains, with only the foundation and some wall remnants preserved."
+      ]
+    }
+  ],
+  "links_out": [
+    "hetman",
+    "ternopil",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ternopil Castle — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ternopil_Castle",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

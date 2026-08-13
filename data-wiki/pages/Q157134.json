@@ -59,7 +59,7 @@
     {
       "heading": "History",
       "paragraphs": [
-        "The area of Makiivka has been inhabited for thousands of years, with archaeological findings indicating settlements from the Bronze Age and Scythian civilization. Makiivka was established in 1690 as a Cossack settlement named Yasinovka and was reorganized into a military settlement in 1777.",
+        "The area of Makiivka has been inhabited for thousands of years, with archaeological findings indicating settlements from the Bronze Age and [[scythians|Scythian]] civilization. Makiivka was established in 1690 as a Cossack settlement named Yasinovka and was reorganized into a military settlement in 1777.",
         "The city experienced significant industrial growth in the 1930s, with its population increasing from 79,000 in 1926 to 242,000 by 1939. During World War II, Makiivka was occupied by German forces from October 22, 1941, until September 6, 1943, during which many local residents, particularly Jews, were executed.",
         "Following the war, Makiivka was rebuilt and continued to grow, reaching a population of 381,000 by 1959. The city was renamed from Dmytriivsk to Makiivka in 1931."
       ]
@@ -93,6 +93,7 @@
     "donetsk-oblast",
     "donetsk-peoples-republic",
     "full-scale-russo-ukrainian-war",
+    "scythians",
     "ukraine",
     "ukrainian",
     "ukrainians"

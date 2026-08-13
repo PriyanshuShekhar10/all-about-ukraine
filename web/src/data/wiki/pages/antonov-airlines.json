@@ -1,0 +1,79 @@
+{
+  "qid": "Q24780",
+  "slug": "antonov-airlines",
+  "title": "Antonov Airlines",
+  "type": "airline",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "airline",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1989",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Antonov Airlines is a [[ukrainian|Ukrainian]] cargo airline, part of the Antonov aviation company, specializing in international charter services for oversized cargo. Its primary operations were based at Hostomel Airport near [[kyiv|Kyiv]] until the 2022 Russian invasion of Ukraine necessitated a relocation to Leipzig/Halle Airport in Germany.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Antonov Airlines was founded in 1989, initially operating through a marketing agreement with Air Foyle to promote [[antonov|Antonov]] An-124 Ruslan cargo charters globally. This partnership concluded in June 2006, coinciding with the establishment of a joint venture named Rusland International with Volga-[[dnieper|Dnepr]] Airlines, where both companies held equal stakes. This collaboration allowed the sharing of a combined fleet of seventeen An-124-100 aircraft, twelve of which were owned by Antonov Airlines.",
+        "In 2017, Antonov Airlines expanded its operations by opening an office in the United Kingdom at London Stansted Airport, with its inaugural flight occurring in February of that year."
+      ]
+    },
+    {
+      "heading": "Impact of the 2022 Russian Invasion",
+      "paragraphs": [
+        "During the onset of the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], the An-225 Mriya was at Antonov Airport in Hostomel for maintenance. The airport was captured during the Battle of Antonov Airport, resulting in the destruction of the An-225. [[ukrainian-defense-industry|UkrOboronProm]] estimated the cost of restoration to exceed 3 billion USD and projected a timeline of over five years, asserting that these costs should be borne by the Russian Federation due to the intentional damage inflicted on [[ukraine|Ukraine]]'s aviation sector.",
+        "Following the invasion, remaining Antonov Airlines aircraft were redirected to Leipzig/Halle Airport after completing their commercial missions, where the airline continued operations with five An-124 aircraft."
+      ]
+    },
+    {
+      "heading": "Notable Operations",
+      "paragraphs": [
+        "Antonov Airlines has been involved in numerous significant cargo operations, including the transport of an 88-ton water turbine for the Tashtakumska Hydroelectric Plant from [[kharkiv-oblast|Kharkiv]] to Tashkent, and civil engineering vehicles to assist with earthquake recovery efforts in Spitak, Armenia.",
+        "Other notable missions included transporting vehicles and systems for mine clearance during the Persian Gulf crisis, a 135.2-ton Siemens generator from Düsseldorf, Germany, to Delhi, India, and nuclear fuel from Habaniya, Iraq, to Yekaterinburg, Russia, under a UN disarmament program.",
+        "The airline also facilitated the delivery of a 102-ton locomotive from London, Ontario, Canada, to Dublin, Ireland, and a 70-ton generator from Doncaster Robin Hood, UK, to Lahore, Pakistan, among various other international cargo missions."
+      ]
+    },
+    {
+      "heading": "Fleet",
+      "paragraphs": [
+        "As of August 2025, Antonov Airlines operates a fleet that includes several An-124 aircraft. However, the airline suffered significant losses during the 2022 conflict, with the destruction of three aircraft: the Antonov An-26-100 (UR-13395), Antonov An-74T-100 (UR-74010), and the Antonov An-225-100 Mriya (UR-82060).",
+        "Historically, the fleet also included various Antonov models such as the An-12, An-26, An-28, An-32, An-74, An-178, An-140, and An-148."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "antonov",
+    "dnieper",
+    "kharkiv-oblast",
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-defense-industry"
+  ],
+  "sources": [
+    {
+      "title": "Antonov Airlines — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Antonov_Airlines",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

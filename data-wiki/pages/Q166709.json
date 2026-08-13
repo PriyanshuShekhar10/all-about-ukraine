@@ -58,9 +58,9 @@
     {
       "heading": "History",
       "paragraphs": [
-        "Vinnytsia Oblast was established on February 27, 1932, incorporating regions from several former okruhas of [[ukraine|Ukraine]]. These included Uman, Berdychiv, [[vinnytsia|Vinnytsia]], Mohyliv, Tulchyn, Shepetivka, Proskuriv, and Kamianets Okruhas.",
+        "Vinnytsia Oblast was established on February 27, 1932, incorporating regions from several former okruhas of [[ukraine|Ukraine]]. These included [[uman|Uman]], Berdychiv, [[vinnytsia|Vinnytsia]], Mohyliv, Tulchyn, Shepetivka, Proskuriv, and Kamianets Okruhas.",
         "In 1935, adjacent territories were reorganized into Soviet border districts, specifically Shepetivka Okrug, Proskuriv Okrug, and Kamianets Okrug, which led to the formation of Kamianets Oblast in 1937, later known as Khmelnytsky Oblast.",
-        "During World War II, the territory of Vinnytsia Oblast was divided by occupying Axis powers between the General District Shitomir and the Transnistria Governorate of Romania. In October 1941, a concentration camp was established by the Romanians, primarily detaining Jewish individuals."
+        "During World War II, the territory of Vinnytsia Oblast was divided by occupying Axis powers between the General District Shitomir and the [[transnistria|Transnistria]] Governorate of Romania. In October 1941, a concentration camp was established by the Romanians, primarily detaining Jewish individuals."
       ]
     },
     {
@@ -83,7 +83,7 @@
       "heading": "Historical Sites",
       "paragraphs": [
         "Vinnytsia Oblast is home to several historical sites that attract both domestic and international tourists. Notable locations include St. Pokrovsky Orthodox Church, St. Anna Roman Catholic Cathedral, and the Old Fortress in Bar.",
-        "The Villa of Mykola Pyrogov and the Nemyriv Scythian settlement are among the sites nominated for the Seven Wonders of Ukraine. The region is also known for its folk icon-painting tradition, with collections housed in local museums."
+        "The Villa of Mykola Pyrogov and the Nemyriv [[scythians|Scythian]] settlement are among the sites nominated for the Seven Wonders of Ukraine. The region is also known for its folk icon-painting tradition, with collections housed in local museums."
       ]
     },
     {
@@ -98,9 +98,12 @@
     "coal-in-ukraine",
     "dniester",
     "podolia",
+    "scythians",
+    "transnistria",
     "ukraine",
     "ukrainian",
     "ukrainians",
+    "uman",
     "vinnytsia"
   ],
   "sources": [

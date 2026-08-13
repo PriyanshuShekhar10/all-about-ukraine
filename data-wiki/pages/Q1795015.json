@@ -1,0 +1,86 @@
+{
+  "qid": "Q1795015",
+  "slug": "kyiv-post",
+  "title": "Kyiv Post",
+  "type": "periodical",
+  "category": "culture",
+  "aliases": [
+    "Kiïv post",
+    "KyivPost"
+  ],
+  "infobox": {
+    "label": "periodical",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1995-10-01",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Kyiv Post is the first and most notable English-language newspaper in Ukraine, founded in 1995. It serves as a significant source of news and information about Ukraine, particularly for expatriates and international audiences.",
+  "sections": [
+    {
+      "heading": "Foundation",
+      "paragraphs": [
+        "Kyiv Post was established on October 18, 1995, by American businessman Jed Sunden in [[kyiv|Kyiv]]. The newspaper was launched shortly after [[soviet-union|the Soviet Union]]'s collapse, beginning with an initial capital of $8,000, three computers, and a small team of seven staff members operating from a modest flat."
+      ]
+    },
+    {
+      "heading": "Ownership and Leadership Changes",
+      "paragraphs": [
+        "In 2009, the newspaper was sold to British businessman Mohammad Zahoor, who committed to maintaining its editorial independence. Following Zahoor's acquisition, the publication experienced a series of ownership changes, including the purchase by [[ukrainian|Ukrainian]] businessman Adnan Kivan in 2018 for over $3.5 million. After Kivan's death in 2024, ownership transitioned to his son, Ruslan Kivan. The current CEO is Luc Chénier, while Bohdan Nahaylo serves as Chief Editor."
+      ]
+    },
+    {
+      "heading": "Editorial Policy and Coverage",
+      "paragraphs": [
+        "Kyiv Post has historically advocated for democracy, Western integration, and free-market principles [[coal-in-ukraine|in Ukraine]]. It has published significant investigative reporting on various critical events, including the 2000 murder of journalist Georgiy Gongadze, the 2004 [[orange-revolution|Orange Revolution]], the 2013-2014 [[euromaidan|EuroMaidan]] Revolution, and the ongoing conflict in Eastern [[ukraine|Ukraine]]. The newspaper has also addressed issues related to corruption and governance in Ukraine.",
+        "During the EuroMaidan Revolution, Kyiv Post provided extensive coverage, documenting the events that led to the ousting of President [[viktor-yanukovych|Viktor Yanukovych]] in February 2014."
+      ]
+    },
+    {
+      "heading": "Digital Transition and Readership",
+      "paragraphs": [
+        "Kyiv Post launched an online paywall in March 2013 due to declining print advertising revenues. However, during significant national crises, such as the EuroMaidan Revolution and the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], it temporarily lifted the paywall to ensure broader access to its reporting. In November 2021, the paywall was permanently removed to enhance accessibility and increase readership globally.",
+        "As of October 2023, Kyiv Post achieved a 100% content transparency and accuracy rating for journalism standards from News Guard, making it the first news organization in Ukraine to receive this recognition."
+      ]
+    },
+    {
+      "heading": "Impact and Legacy",
+      "paragraphs": [
+        "Kyiv Post has played a crucial role in shaping public discourse in Ukraine and informing international audiences about the country's political and social landscape. The newspaper's commitment to editorial independence and quality journalism has established it as a vital source of information for both Ukrainian citizens and the expatriate community."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "euromaidan",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "orange-revolution",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "viktor-yanukovych"
+  ],
+  "sources": [
+    {
+      "title": "Kyiv Post — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kyiv_Post",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

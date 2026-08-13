@@ -1,0 +1,75 @@
+{
+  "qid": "Q4294799",
+  "slug": "ministry-of-finance-of-ukraine",
+  "title": "Ministry of Finance of Ukraine",
+  "type": "finance ministry",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "finance ministry",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1990",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Ukiranian Government Building",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Ministry of Finance of Ukraine is a key governmental body responsible for formulating and executing national financial and budgetary policies, as well as overseeing customs and taxation regulations [[coal-in-ukraine|in Ukraine]]. Its functions are vital for ensuring the state's financial stability and promoting economic growth.",
+  "sections": [
+    {
+      "heading": "Role and Responsibilities",
+      "paragraphs": [
+        "The Ministry of Finance of Ukraine is tasked with a variety of responsibilities, including regulating customs fees and tax collection, overseeing the administration of the single social insurance tax, and defining state policies to combat tax and customs law violations.",
+        "Additionally, it is involved in combating proceeds from crime and financing of terrorism, working in cooperation with the inter-governmental Financial Action Task Force (FATF) and other international anti-money laundering organizations.",
+        "The ministry also manages public funds through financial control, monitors compliance with accounting standards, administers lotteries, and regulates securities issuances along with transactions involving precious metals and gemstones.",
+        "It is responsible for analyzing and forecasting public revenue, drafting mid-term Budget Declarations and annual Budget Laws, and coordinating the implementation of the State Budget."
+      ]
+    },
+    {
+      "heading": "Structure and Leadership",
+      "paragraphs": [
+        "The Ministry of Finance is led by the Minister of Finance and includes various departments such as the Department for Strategic Planning and European Integration, State Budget Department, and Local Budgets Department.",
+        "There are also several Deputy Ministers overseeing specific areas, including customs and taxation, energy and fiscal risks, social and humanitarian affairs, defense and security, and financial policy and international cooperation."
+      ]
+    },
+    {
+      "heading": "Ministry Agencies",
+      "paragraphs": [
+        "Several central executive agencies operate under the Ministry of Finance, reporting directly to the Cabinet of Ministers. These include the State Treasury Service, State Tax Service, State Customs Service, State Financial Monitoring Service of [[ukraine|Ukraine]], and the State Audit Service of Ukraine.",
+        "Notably, prior to 10 September 2014, the State Assay Service was also included among these agencies but was closed as part of a governmental initiative to streamline executive structures."
+      ]
+    },
+    {
+      "heading": "Supporting Establishments",
+      "paragraphs": [
+        "The Ministry of Finance is supported by various establishments, including the State Gemological Center of Ukraine, the State Repository of Precious Metals and Stones, and the Museum of Decorative and Precious Stones.",
+        "Additional supporting entities include the [[kyiv|Kyiv]] Offset Factory, the Main Planning and Service Center of Computer Financial Technologies, and the Scientific-Researching Financial Institute."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "kyiv",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Ministry of Finance (Ukraine) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ministry_of_Finance_(Ukraine)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

@@ -1,0 +1,94 @@
+{
+  "qid": "Q80135",
+  "slug": "dmitri-shostakovich",
+  "title": "Dmitri Shostakovich",
+  "type": "human",
+  "category": "history",
+  "aliases": [
+    "Dimitri Shostakovich",
+    "Dmitri Dmitrievitch Chostakovitch",
+    "Dmitri Dmitriyevich Shostakovich",
+    "Dmitrii Dmitrievich Shostakovich",
+    "Dmitriii Dmitrievich Shostakovich",
+    "Dmitrij Šostakovič",
+    "Shostakovich",
+    "Shosty"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1906-09-25",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1975-08-09",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Saint Petersburg",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "deputy of the Supreme Soviet of the Soviet Union",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Dmitri Dmitriyevich Shostakovich was a prominent Soviet-era composer and pianist, born on 25 September 1906 in Saint Petersburg. His complex relationship with the Soviet government and his significant contributions to music, including symphonies and operas, have established him as a key figure in the cultural [[history-of-ukraine|history of Ukraine]] and the broader Soviet Union.",
+  "sections": [
+    {
+      "heading": "Early Life and Background",
+      "paragraphs": [
+        "Dmitri Dmitriyevich Shostakovich was born on 25 September [O.S. 12 September] 1906 on Podolskaya Street in Saint Petersburg, then the capital of the Russian Empire. He was the second of three children of Dmitri Boleslavovich Shostakovich and Sofiya Vasilievna Kokoulina. His ancestry includes Polish and Lithuanian roots, tracing back to his grandfather, Bolesław Szostakowicz, who was exiled for his revolutionary activities in the January Uprising of 1863–1864.",
+        "Shostakovich displayed musical talent early, beginning piano lessons at age 9. By 1918, he had composed a funeral march in memory of two murdered leaders of the Kadet Party. He was admitted to the Petrograd Conservatory in 1919, where he studied under notable instructors and began to develop his compositional style."
+      ]
+    },
+    {
+      "heading": "Musical Breakthrough",
+      "paragraphs": [
+        "Shostakovich's breakthrough came with the premiere of his First Symphony on 12 May 1926, which was well-received by audiences and marked the beginning of his recognition as a major composer. This symphony was written as his graduation piece at the age of 19 and celebrated his debut in the world of orchestral music.",
+        "Following his graduation, Shostakovich pursued a dual career as a concert pianist and composer, although he faced criticism for his performance style. His participation in the inaugural I International Chopin Piano Competition in Warsaw in 1927 showcased his talents, despite health issues that affected his performance."
+      ]
+    },
+    {
+      "heading": "Career Challenges and Successes",
+      "paragraphs": [
+        "Shostakovich's opera Lady Macbeth of Mtsensk, premiered in 1934, initially enjoyed success but later faced condemnation from the Soviet government, leading to significant challenges in his career. In 1948, his work was denounced under the [[mariupol|Zhdanov]] Doctrine, resulting in professional setbacks that lasted several years.",
+        "Despite these challenges, Shostakovich continued to compose and was involved in various governmental roles, including serving as a member of the Supreme Soviet of the RSFSR and the Supreme Soviet of [[soviet-union|the Soviet Union]], as well as chairman of the RSFSR Union of Composers."
+      ]
+    },
+    {
+      "heading": "Musical Style and Contributions",
+      "paragraphs": [
+        "Shostakovich's music is noted for its sharp contrasts, grotesque elements, and ambivalent tonality, reflecting a blend of neoclassicism and influences from composers such as Gustav Mahler. His extensive body of work includes 15 symphonies, six concerti, 15 string quartets, and numerous operas and ballets.",
+        "His compositions have continued to gain recognition posthumously, with increasing scholarly interest in the late 20th century regarding the interplay between his music and his political context within the Soviet regime."
+      ]
+    },
+    {
+      "heading": "Legacy",
+      "paragraphs": [
+        "Dmitri Shostakovich passed away on 9 August 1975, leaving behind a significant legacy that has influenced both [[ukrainian|Ukrainian]] and global music. His works remain a subject of study and admiration, reflecting the complexities of life under Soviet rule and the resilience of artistic expression."
+      ]
+    }
+  ],
+  "links_out": [
+    "history-of-ukraine",
+    "mariupol",
+    "soviet-union",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Dmitri Shostakovich — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dmitri_Shostakovich",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

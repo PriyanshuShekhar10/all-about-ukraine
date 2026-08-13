@@ -1,0 +1,58 @@
+{
+  "qid": "Q1315951",
+  "slug": "psycho-pass",
+  "title": "Psycho-Pass",
+  "type": "anime television series",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "anime television series",
+    "fields": []
+  },
+  "summary": "Psycho-Pass is a Japanese cyberpunk psychological thriller anime series that aired from October 2012 to March 2013, produced by Production I.G. The series explores themes of governance and morality within a dystopian society, and its relevance extends to Ukraine through discussions of surveillance and authoritarianism.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Psycho-Pass is a Japanese anime television series that presents a cyberpunk psychological thriller narrative. It was produced by Production I.G, co-directed by Naoyoshi Shiotani and Katsuyuki Motohiro, and features a screenplay by Gen Urobuchi, character designs by Akira Amano, and music by Yugo Kanno. The series was broadcast on Fuji TV's Noitamina programming block from October 2012 to March 2013."
+      ]
+    },
+    {
+      "heading": "Setting and Themes",
+      "paragraphs": [
+        "The narrative unfolds in a dystopian Japan governed by the Sibyl System, a biomechatronic network that constantly monitors the psychological states of citizens. The Psycho-Pass system assigns a numeric Crime Coefficient to individuals, indicating their potential for criminal behavior. This theme of surveillance and control resonates within the context of [[ukraine|Ukraine]], particularly in discussions surrounding governmental authority and individual freedoms."
+      ]
+    },
+    {
+      "heading": "Plot Summary",
+      "paragraphs": [
+        "The story centers on Akane Tsunemori, a rookie Inspector in the Public Safety Bureau's Criminal Investigation Division. She collaborates with Enforcers, including Shinya Kogami, to apprehend criminals, particularly the elusive Shogo Makishima, who evades the system's detection. The dynamics between the characters and their moral dilemmas reflect broader societal questions relevant to contemporary issues [[coal-in-ukraine|in Ukraine]] regarding justice and law enforcement."
+      ]
+    },
+    {
+      "heading": "Production and Development",
+      "paragraphs": [
+        "Psycho-Pass was developed as a successor to earlier works by Mamoru Oshii, with a focus on psychological themes aimed at youth. The series was influenced by various films, notably Blade Runner, and aimed to challenge trends in anime by avoiding typical tropes. The production faced challenges, particularly with animation quality, which were addressed in subsequent DVD releases."
+      ]
+    },
+    {
+      "heading": "Cultural Impact and Reception",
+      "paragraphs": [
+        "The first season of Psycho-Pass received critical acclaim both in Japan and internationally, praised for its character development and thematic depth. The series has inspired various adaptations, including manga and novels, and has sparked discussions on its portrayal of authority and morality, which are particularly pertinent in the context of Ukraine's ongoing socio-political landscape."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Psycho-Pass — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Psycho-Pass",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

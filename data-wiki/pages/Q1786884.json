@@ -1,0 +1,80 @@
+{
+  "qid": "Q1786884",
+  "slug": "ukrainian-wine",
+  "title": "Ukrainian wine",
+  "type": "aspect in a geographic region",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "aspect in a geographic region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The wine industry in Ukraine has a rich history and is characterized by its unique geographical regions, particularly near the Black Sea and in Zakarpattia Oblast. Despite challenges, including the ongoing conflict and the loss of significant vineyard areas, [[ukrainian|Ukrainian]] winemakers have continued to produce and export their wines.",
+  "sections": [
+    {
+      "heading": "Geographical Regions",
+      "paragraphs": [
+        "The primary wine-producing regions [[coal-in-ukraine|in Ukraine]] are located in Southern [[ukraine|Ukraine]], including [[mykolaiv|Mykolaiv]], [[kherson|Kherson]], [[dnipro|Dnipropetrovsk]], and [[odesa|Odesa]] oblasts, along with [[crimea|Crimea]] and [[bessarabia|Bessarabia]]/Budjak. Additionally, [[zakarpattia-oblast|Zakarpattia Oblast]], known for its [[transcarpathia|Carpathian Ruthenia]], contributes to the country's viticulture."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "Wine culture in Ukraine can be traced back to the 4th century BC along the southern coast of Crimea, where ancient presses and amphoras were discovered. However, the cultivation of wine in northern regions, such as [[kyiv|Kyiv]] and [[chernihiv|Chernihiv]], began in the 11th century, primarily by monks. During the [[hetmanate|Hetmanate]] period in the 17th and 18th centuries, viticulture was further developed by monks and local burghers, although most grapes were initially consumed as food rather than used for winemaking."
+      ]
+    },
+    {
+      "heading": "19th Century Developments",
+      "paragraphs": [
+        "In 1783, Crimea became part of the Russian Empire under Empress Catherine the Great. Count Mikhail Vorontsov established the first wine gardens in 1820, and the Magarach viticulture research institute was founded in 1828. Swiss winegrowers established a colony at Shabo in 1822, which gained international recognition at the 1893 World's Columbian Exposition in Chicago."
+      ]
+    },
+    {
+      "heading": "Soviet Era and Modern Times",
+      "paragraphs": [
+        "During the Soviet era, Ukraine was the largest wine supplier in [[soviet-union|the USSR]], covering 2,500 km2 (965 sq mi) of vineyards. However, a campaign against alcohol consumption initiated by [[mikhail-gorbachev|Mikhail Gorbachev]] in 1986 resulted in the destruction of approximately 800 km2 (309 sq mi) of vineyards. Since 2000, wine production and exports have seen significant growth. The [[russian-annexation-of-crimea|annexation of Crimea]] led to the loss of 17,000 hectares of vineyards and wineries that produced 60% of Ukraine's wines."
+      ]
+    },
+    {
+      "heading": "Wine Varietals and Special Wineries",
+      "paragraphs": [
+        "Key grape varietals cultivated in Ukraine include Aligoté, Muscat, Isabella, Traminer, Cabernet Sauvignon, Chardonnay, Pinot noir, Pinot gris, Rkatsiteli, and the Golubok grape variety, which was first grown in Ukraine. Notable wineries include the Magarach Wine Institute near [[yalta|Yalta]], which offers a selection of 20,000 different wines from 3,200 vine species, Massandra Winery, and the Shabo wine culture center."
+      ]
+    }
+  ],
+  "links_out": [
+    "bessarabia",
+    "chernihiv",
+    "coal-in-ukraine",
+    "crimea",
+    "dnipro",
+    "hetmanate",
+    "kherson",
+    "kyiv",
+    "mikhail-gorbachev",
+    "mykolaiv",
+    "odesa",
+    "russian-annexation-of-crimea",
+    "soviet-union",
+    "transcarpathia",
+    "ukraine",
+    "ukrainian",
+    "yalta",
+    "zakarpattia-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian wine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_wine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

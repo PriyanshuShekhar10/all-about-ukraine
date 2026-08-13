@@ -1,0 +1,106 @@
+{
+  "qid": "Q170213",
+  "slug": "zakarpattia-oblast",
+  "title": "Zakarpattia Oblast",
+  "type": "oblast of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Transcarpathia oblast",
+    "Zakarpatska oblast"
+  ],
+  "infobox": {
+    "label": "oblast of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1946-01-22",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Uzhhorod",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "1,258,800",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "12,777",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "579",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Hennadii Moskal, Oleksij Hennadijovytj Petrov",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.4100, 23.2900",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Zakarpattia Oblast is an administrative region in western Ukraine, situated in the Carpathian Mountains and historically known as Carpathian Ruthenia. It was established on January 22, 1946, and serves as a significant cultural and economic area, characterized by its diverse population and tourism industry.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Zakarpattia Oblast, also known as [[transcarpathia|Zakarpattia]], Subcarpathia, or Transcarpathia, is located in the [[carpathians|Carpathian Mountains]] of [[western-ukraine|western Ukraine]]. The oblast borders four countries: Poland, Slovakia, Hungary, and Romania. It encompasses a land area of nearly 13,000 square kilometers (5,000 sq mi), ranking 23rd in size among [[ukrainian|Ukrainian]] oblasts and 15th in population.",
+        "According to the 2001 Ukrainian Census, the population of Zakarpattia Oblast was recorded at 1,254,614, with an estimated population of approximately 1,244,476 in 2022. The region is home to a variety of nationalities, including significant minorities of Hungarians, Romanians, and [[rusyns|Rusyns]], with some cities, such as Berehove, having these groups as the majority."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The oblast was established on January 22, 1946, following Czechoslovakia's relinquishment of claims to Subcarpathian Ruthenia under a treaty with [[soviet-union|the Soviet Union]]. This territory was subsequently integrated into the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]].",
+        "Historically, the region has been influenced by various powers, including the Principality of Hungary from 895 AD, and it was part of Austria-Hungary from 1867 until World War I. The area briefly became part of the West Ukrainian National Republic in 1918 and was later occupied by Romania and Hungary during the interwar period."
+      ]
+    },
+    {
+      "heading": "World War II and Soviet Era",
+      "paragraphs": [
+        "During World War II, the region saw significant turmoil, including the brief declaration of Carpatho-[[ukraine|Ukraine]] as an independent republic, which was quickly annexed by Hungary. Following the war, on November 26, 1944, the First Congress of People's Committees of Zakarpattia Ukraine was held in Mukachevo, leading to the region's incorporation into the Soviet Union.",
+        "Under Soviet rule, the oblast faced severe repression, including the persecution of cultural institutions and religious organizations. The Greek Catholic Church was suppressed, and the region was declared a restricted zone in 1947, with strict controls on movement and cultural expression."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Zakarpattia Oblast is recognized for its cultural diversity, with a rich history that includes a significant Rusyn population. The region has been known by various names reflecting its historical and ethnic complexities, including Transcarpathian Ruthenia and Subcarpathian Rus'.",
+        "The Carpathian Mountains, known for their ski resorts and spa facilities, contribute significantly to the local economy, making tourism an essential aspect of life in Zakarpattia Oblast."
+      ]
+    }
+  ],
+  "links_out": [
+    "carpathians",
+    "rusyns",
+    "soviet-union",
+    "transcarpathia",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Zakarpattia Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zakarpattia_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

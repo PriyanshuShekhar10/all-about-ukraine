@@ -1,0 +1,66 @@
+{
+  "qid": "Q2997385",
+  "slug": "oleshky-sands",
+  "title": "Oleshky Sands",
+  "type": "semi-arid climate",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "semi-arid climate",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "161",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "46.5833, 33.0500",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Oleshky Sands is a semi-desert region located [[coal-in-ukraine|in Ukraine]], characterized by sand dunes known as kuchuhury, which can reach heights of up to five meters. This area is significant for its unique ecosystem and historical context within Kherson Oblast.",
+  "sections": [
+    {
+      "heading": "Origin",
+      "paragraphs": [
+        "The formation of Oleshky Sands is believed to have occurred during the most recent ice age through aeolian processes that accumulated sand and created cliffs along the lower sections of the nearby River [[dnieper|Dnipro]]. It is suggested that the introduction of sheep herds by Friedrich-Jacob Eduardovych Falz-Fein reduced the area's vegetation, transforming it from a weed-populated landscape into a pasture. In contemporary times, this region has been designated as the Oleshky Sands National Nature Park."
+      ]
+    },
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Oleshky Sands is situated in [[kherson|Kherson]] Raion, [[kherson-oblast|Kherson Oblast]], approximately 30 kilometers (about 20 miles) east of the city of Kherson. Prior to the Russian annexation of the Crimean Khanate in the late 18th century, the area was inhabited by the nomadic Nogai Hordes, particularly the Djambuilut Horde. Detailed historical records of the region are scarce.",
+        "The nearest settlement is located seven kilometers (approximately 4.5 miles) from the sands. During the Soviet era, the area served as an Air Force bombing range for pilots of the Warsaw Pact, and remnants of unexploded ordnance may still be present."
+      ]
+    },
+    {
+      "heading": "Environment",
+      "paragraphs": [
+        "The climate of Oleshky Sands is characterized as semi-arid, with the area measuring around 15 kilometers (9 miles) across and surrounded by dense afforestation intended to stabilize the sand dunes. This forest is prone to fires due to its density.",
+        "Despite being a relatively small sandy steppe, Oleshky Sands experiences sandstorms, which occur because the fine sand is easily lifted by the wind. The intensity of these sandstorms is generally mild."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "dnieper",
+    "kherson",
+    "kherson-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Oleshky Sands — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oleshky_Sands",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

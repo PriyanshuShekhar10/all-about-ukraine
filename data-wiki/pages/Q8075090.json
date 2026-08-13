@@ -1,0 +1,55 @@
+{
+  "qid": "Q8075090",
+  "slug": "zukra",
+  "title": "zukra",
+  "type": "topic",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "topic",
+    "fields": []
+  },
+  "summary": "The zukra, also known as zokra or zoughara, is a traditional Libyan bagpipe characterized by its double-chanter and cow horn ends. This instrument plays a significant role in Libyan cultural events such as feasts, weddings, and funerals, and is linked to ancient musical traditions in the region.",
+  "sections": [
+    {
+      "heading": "Description and Use",
+      "paragraphs": [
+        "The zukra is a Libyan bagpipe featuring a double-chanter that ends in two cow horns. It is primarily played as a bagpipe in southern and western Libya, while in the eastern regions, it is performed without a bag, resembling a double clarinet. The instrument is commonly used during celebrations, weddings, and funerals."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The modern Libyan zukra, also referred to as zokra or zoukra, is associated with traditional music in Libya. Although a direct connection between the contemporary zukra and ancient instruments described in Classical antiquity has not been definitively established, there are references in ancient Greek literature that link reed instruments and flute playing to the indigenous peoples of Libya."
+      ]
+    },
+    {
+      "heading": "Ancient Libyan Musical Traditions",
+      "paragraphs": [
+        "Athenaeus of Naucratis cites a Hellenistic historian, Duris of Samos, who mentions a Libyan named Seirites as the first inventor of flute-playing. This association underscores the historical significance of reed instruments in Libyan culture. The ancient term 'aulos' was referred to as the 'Libyan flute,' indicating a connection to the Libyan people."
+      ]
+    },
+    {
+      "heading": "Cultural Distinctions",
+      "paragraphs": [
+        "Classical sources, including Herodotus and Polybius, highlight the diversity among Libyan tribes, distinguishing them from other North African populations such as the Numidians. This distinction is crucial for understanding the cultural and historical context of musical traditions in Libya, including the zukra."
+      ]
+    },
+    {
+      "heading": "Modern Scholarship",
+      "paragraphs": [
+        "Recent studies, such as those by Paraskevas-Marios Tourtounis, have explored the continuity of flute traditions in ancient Libya, suggesting a possible Libyan origin for these musical practices. However, while ancient sources provide evidence of reed-instrument performance, they do not explicitly mention the modern term 'zukra,' leaving its historical lineage somewhat ambiguous."
+      ]
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "Zukra — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zukra",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

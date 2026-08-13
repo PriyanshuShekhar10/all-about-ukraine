@@ -28,8 +28,8 @@
     {
       "heading": "Geographical Context",
       "paragraphs": [
-        "Volhynia is situated between southeastern Poland, southwestern Belarus, and northwestern [[ukraine|Ukraine]]. While the exact borders of the region are not distinctly defined, it generally corresponds to [[volyn-oblast|Volyn Oblast]], [[rivne-oblast|Rivne Oblast]], the western part of [[zhytomyr-oblast|Zhytomyr Oblast]], and the northern areas of Khmelnytskyi Oblast and [[ternopil-oblast|Ternopil Oblast]].",
-        "The geography of Volhynia includes the northern parts of the Volhynian-Podolian Upland and western areas of the Polesian Lowland along the [[pripyat-river|Pripyat River]] valley. It is located between the Western Bug River to the west and the upper streams of the Uzh and Teteriv rivers."
+        "Volhynia is situated between southeastern Poland, southwestern Belarus, and northwestern [[ukraine|Ukraine]]. While the exact borders of the region are not distinctly defined, it generally corresponds to [[volyn-oblast|Volyn Oblast]], [[rivne-oblast|Rivne Oblast]], the western part of [[zhytomyr-oblast|Zhytomyr Oblast]], and the northern areas of [[khmelnytskyi-oblast|Khmelnytskyi Oblast]] and [[ternopil-oblast|Ternopil Oblast]].",
+        "The geography of Volhynia includes the northern parts of the Volhynian-Podolian Upland and western areas of the Polesian Lowland along the [[pripyat-river|Pripyat River]] valley. It is located between the [[western-bug|Western Bug]] River to the west and the upper streams of the Uzh and Teteriv rivers."
       ]
     },
     {
@@ -64,6 +64,7 @@
   "links_out": [
     "eastern-europe",
     "galicia",
+    "khmelnytskyi-oblast",
     "kievan-rus",
     "pripyat-river",
     "rivne",
@@ -77,6 +78,7 @@
     "ukrainian-greek-catholic-church",
     "vladimir-the-great",
     "volyn-oblast",
+    "western-bug",
     "zhytomyr",
     "zhytomyr-oblast"
   ],

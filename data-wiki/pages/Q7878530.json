@@ -1,0 +1,73 @@
+{
+  "qid": "Q7878530",
+  "slug": "ukrainian-avant-garde",
+  "title": "Ukrainian avant-garde",
+  "type": "art movement",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "art movement",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Ukrainian avant-garde represents a significant art movement in Ukraine from the late 1890s to the mid-1930s, encompassing various forms of artistic expression including painting, sculpture, literature, and theater. This movement is closely associated with notable Ukrainian artists and cities, reflecting the cultural and historical context of Ukraine during this period.",
+  "sections": [
+    {
+      "heading": "Overview of the Movement",
+      "paragraphs": [
+        "Ukrainian avant-garde is defined as the avant-garde movement in [[ukrainian|Ukrainian]] art from the end of the 1890s to the middle of the 1930s, involving artists across multiple disciplines including sculpture, painting, literature, cinema, theater, stage design, graphics, music, and architecture.",
+        "Prominent figures in this movement include Kazimir Malevich, Alexander Archipenko, Vladimir Tatlin, Sonia Delaunay, Vasyl Yermylov, Alexander Bogomazov, Aleksandra Ekster, David Burliuk, Vadym Meller, and Anatol Petrytsky. These artists were linked to Ukrainian cities such as [[kyiv|Kyiv]], [[kharkiv-oblast|Kharkiv]], [[lviv|Lviv]], and [[odesa|Odesa]] through their birth, education, language, national traditions, or identity.",
+        "Although the movement emerged while [[ukraine|Ukraine]] was part of the Russian Empire, critics often categorize it within the broader Russian avant-garde movement."
+      ]
+    },
+    {
+      "heading": "Key Developments and Exhibitions",
+      "paragraphs": [
+        "The first formal artistic group to adopt the name 'Avangarde' was established in Kharkiv in 1925. The term 'Ukrainian Avant-Garde' was utilized during discussions at Tatlin's dream exhibition, which took place in London in 1973 and featured works by Ukrainian artists Vasyl Yermylov and Alexander Bogomazov.",
+        "The initial international avant-garde exhibitions [[coal-in-ukraine|in Ukraine]], showcasing French, Italian, Ukrainian, and Russian artists, were held at the Izdebsky Salon in Odesa and Kyiv, with subsequent displays in St. Petersburg and Riga."
+      ]
+    },
+    {
+      "heading": "Timeline of Significant Events",
+      "paragraphs": [
+        "1908: The exhibition 'Zveno' occurs in Kyiv featuring works by Alexandra Exter, David Burliuk, Vladimir Burliuk, Yevgeny Agafonov, and Volodymyr Denisov.",
+        "1909: The 'Blue Lily' exhibition is held in Kharkiv, showcasing artists such as Eugene Agafonov, Maria Sinyakova, and Vasyl Yermilov.",
+        "1910: The 'Salon Izdebsky 2' exhibition takes place in Odesa and Kyiv, presenting works by Alexandra Exter, David and Vladimir Burliuk, and Wassily Kandinsky, alongside other prominent artists.",
+        "1910: The Ukrainian-Russian Futurist poets' association 'Hylaea' is founded in Chornianka, Kahovsky region, with notable members including David and Vladimir Burliuk and Vladimir Mayakovsky.",
+        "1913: Mykhaylo Semenko establishes the Ukrainian futurist group 'Quero' in Kyiv.",
+        "1925: The artistic association and magazine 'Avangarde' is founded in Kharkiv by Valerian Polishchuk and Vasyl Yermilov.",
+        "1927: The Union of Modern Artists of Ukraine (OSMU) is established in Kyiv, involving Victor Palmov, Anatol Petrytsky, and Pavel Golubyitnikov."
+      ]
+    },
+    {
+      "heading": "Influence and Legacy",
+      "paragraphs": [
+        "The Ukrainian avant-garde significantly influenced various artistic fields, including cinema, painting, sculpture, theater, stage design, and architecture, contributing to the cultural landscape of Ukraine.",
+        "Composers such as Borys Lyatoshynsky, Zinoviy Lysko, and Stefania Turkewich were also part of the avant-garde movement, further integrating the movement into the broader Ukrainian artistic context."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "kharkiv-oblast",
+    "kyiv",
+    "lviv",
+    "odesa",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian avant-garde — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_avant-garde",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

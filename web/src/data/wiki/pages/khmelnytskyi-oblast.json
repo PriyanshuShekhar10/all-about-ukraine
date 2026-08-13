@@ -1,0 +1,126 @@
+{
+  "qid": "Q171331",
+  "slug": "khmelnytskyi-oblast",
+  "title": "Khmelnytskyi Oblast",
+  "type": "oblast of Ukraine",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "oblast of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1937-09-22",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Khmelnytskyi, Kamianets-Podilskyi",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "1,285,300",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "20,629",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Head of government",
+        "value": "Serhiy Hamaliy",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.5300, 26.8700",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Khmelnytskyi Oblast is a province located in [[western-ukraine|western Ukraine]], encompassing parts of the historical regions of western Podolia and southern Volhynia. The oblast, with an estimated population of around 1,228,829 as of 2022, serves as an important administrative and cultural region within Ukraine.",
+  "sections": [
+    {
+      "heading": "Geographical Overview",
+      "paragraphs": [
+        "Khmelnytskyi Oblast spans an area of 20,600 km2 (7,953.70 sq mi), representing 3.4% of [[ukraine|Ukraine]]'s total area. The oblast is situated between 48°27' and 50°37' north latitude and between 26°09' and 27°56' east longitude, measuring 220 km (136.70 mi) from north to south and 120 km (74.56 mi) from east to west.",
+        "The region is historically linked to [[podolia|Podolia]], though it is divided between the northern [[volhynia|Volhynia]] and the southern Podolia areas. Key cities include Khmelnytskyi and [[kamianets-podilskyi|Kamianets-Podilskyi]] in the southern Podolian section, while smaller cities like Iziaslav, Starokostiantyniv, and Shepetivka are located in the northern Volhynian region.",
+        "Khmelnytskyi Oblast shares borders with [[rivne-oblast|Rivne Oblast]] to the northwest, [[zhytomyr-oblast|Zhytomyr Oblast]] to the northeast, [[vinnytsia-oblast|Vinnytsia Oblast]] to the east, [[chernivtsi-oblast|Chernivtsi Oblast]] to the south, and [[ternopil-oblast|Ternopil Oblast]] to the west."
+      ]
+    },
+    {
+      "heading": "Elevation and Natural Features",
+      "paragraphs": [
+        "The central part of Khmelnytskyi Oblast features the Podolian Upland, with elevations ranging from 270 to 370 meters above sea level. The northwestern regions belong to the Volyn highland, where the highest point reaches 329 m above sea level, while the northern areas are part of the historic [[polesia|Polissia]] region with elevations of 200 to 250 m.",
+        "The southwestern section is characterized by the Tovtry range, which includes Mount Velyka Buhaikha, the highest point in the oblast at 409 m above sea level. The lowest point is found at the [[dniester|Dniester]] Reservoir, situated at 121 m above sea level."
+      ]
+    },
+    {
+      "heading": "Hydrology",
+      "paragraphs": [
+        "Khmelnytskyi Oblast is home to 120 rivers that exceed 10 km (6.21 mi) in length. The Dniester River, flowing for 160 km (99.42 mi) within the oblast, along with its tributaries Smotrych, Ushytsia, and [[zbruch|Zbruch]], are the largest waterways. The Southern Buh River also traverses the region for 120 km (74.56 mi).",
+        "The oblast contains numerous lakes, primarily in the Horyn River basin, with the largest reservoirs being Shchedrivske, Novostavske, and Kuzmynske."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Khmelnytskyi Oblast was established on September 22, 1937, originally named Kamianets-Podilskyi Oblast. It was created from border okrugs of Vinnytsia Oblast. During World War II, the region was occupied by Nazi Germany from 1941 to 1944 but was liberated by Soviet troops in 1944.",
+        "The administrative center was relocated from Kamianets-Podilskyi to Proskuriv in March 1941, and in 1954, Proskuriv was renamed Khmelnytskyi, leading to the oblast's current name."
+      ]
+    },
+    {
+      "heading": "Demographics and Language",
+      "paragraphs": [
+        "As of the 2001 [[ukrainian|Ukrainian]] census, the population of Khmelnytskyi Oblast was approximately 1,401,140, with ethnic [[ukrainians|Ukrainians]] comprising 13.9%, ethnic Russians 3.6%, and ethnic Poles 1.6%. The population density was recorded at 69.5/km2.",
+        "Ukrainian is the sole official language in the oblast, with a strong emphasis on promoting its use in public life. A 2023 initiative aims to enhance the Ukrainian language's presence across various sectors."
+      ]
+    },
+    {
+      "heading": "Economic Significance",
+      "paragraphs": [
+        "The economy of Khmelnytskyi Oblast is primarily driven by the energy sector, transportation, and agriculture. The region is strategically located at a crossroads of major railway and highway routes connecting Central Europe to the Black Sea and Russia, with Shepetivka serving as a key railway junction.",
+        "The Khmelnyts’ka nuclear power plant, located in Netishyn, is the most significant industrial facility in the oblast, complemented by machinery, armament, and chemical industries."
+      ]
+    },
+    {
+      "heading": "Cultural and Historical Attractions",
+      "paragraphs": [
+        "Khmelnytskyi Oblast is notable for its cultural heritage, featuring attractions such as the Kamianets National Historical-Architectural Reserve, which includes the Old Town and the Castle, the Medzhybizh National Historical-Cultural Reserve with its fortress, and the Samchyky National Historical-Cultural Reserve."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernivtsi-oblast",
+    "dniester",
+    "kamianets-podilskyi",
+    "podolia",
+    "polesia",
+    "rivne-oblast",
+    "ternopil-oblast",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "vinnytsia-oblast",
+    "volhynia",
+    "western-ukraine",
+    "zbruch",
+    "zhytomyr-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Khmelnytskyi Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Khmelnytskyi_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

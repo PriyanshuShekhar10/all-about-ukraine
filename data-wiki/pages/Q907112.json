@@ -1,0 +1,118 @@
+{
+  "qid": "Q907112",
+  "slug": "transnistria",
+  "title": "Transnistria",
+  "type": "state with limited recognition",
+  "category": "history",
+  "aliases": [
+    "Moldavian Republic of Transdniestria",
+    "PMR",
+    "Pridnestria",
+    "Pridnestrovia",
+    "Pridnestrovian Moldavian Republic",
+    "Pridnestrovie",
+    "Republic of Pridnestrovie",
+    "Trans-Dniestr",
+    "Transdniester",
+    "Transdniestria",
+    "Transdniestrian Moldavian Republic",
+    "Transnistrian Moldavian Republic"
+  ],
+  "infobox": {
+    "label": "state with limited recognition",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1991-11-05",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Moldova",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Tiraspol",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "505,153",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "4,163",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "140",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Tatiana Turanskaya, Pyotr Stepanov",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "47.3000, 29.2500",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Transnistria, officially referred to as the Pridnestrovian Moldavian Republic (PMR), is a landlocked breakaway entity recognized internationally as part of Moldova. It is situated along the Dniester River and borders Ukraine, with significant implications for regional stability and ethnic relations.",
+  "sections": [
+    {
+      "heading": "Geographical Context",
+      "paragraphs": [
+        "Transnistria is located between the [[dniester|Dniester]] River and the Moldova–[[ukraine|Ukraine]] border, controlling a narrow strip of land. The capital and largest city of Transnistria is Tiraspol. The region is recognized by Moldova as the [[administrative-territorial-entity-of-ukraine|Administrative-Territorial]] Units of the Left Bank of the Dniester."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The origins of Transnistria can be traced back to the Moldavian Autonomous Soviet Socialist Republic (MASSR), established in 1924 within the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]. The area underwent significant changes during World War II, leading to the creation of the Moldavian Soviet Socialist Republic in 1940. In 1990, amidst [[soviet-union|the Soviet Union]]'s dissolution, the Pridnestrovian Moldavian Soviet Socialist Republic was declared, aiming to remain within the Soviet Union amid fears of Moldova's potential unification with Romania."
+      ]
+    },
+    {
+      "heading": "Conflict and Ceasefire",
+      "paragraphs": [
+        "A military conflict erupted between Transnistria and Moldova in March 1992, concluding with a ceasefire in July of the same year. This ceasefire led to the establishment of a Joint Control Commission involving Moldova, Russia, and Transnistria, along with a trilateral peacekeeping force."
+      ]
+    },
+    {
+      "heading": "Political Status and Citizenship",
+      "paragraphs": [
+        "Transnistria operates as a de facto independent semi-presidential republic, possessing its own government, military, and currency. Despite its unrecognized status, most residents hold Moldovan citizenship, with many also having Russian, Romanian, or [[ukrainian|Ukrainian]] citizenship. The population is primarily composed of Russians, Moldovans (Romanians), and [[ukrainians|Ukrainians]]."
+      ]
+    },
+    {
+      "heading": "International Relations and Recognition",
+      "paragraphs": [
+        "Transnistria is categorized as a post-Soviet 'frozen conflict' zone, alongside [[republic-of-abkhazia|Abkhazia]] and South Ossetia, and maintains friendly relations with these regions. In March 2022, the Parliamentary Assembly of the Council of Europe passed a resolution designating the territory as under military occupation by Russia."
+      ]
+    }
+  ],
+  "links_out": [
+    "administrative-territorial-entity-of-ukraine",
+    "dniester",
+    "republic-of-abkhazia",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Transnistria — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Transnistria",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

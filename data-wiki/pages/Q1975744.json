@@ -1,0 +1,84 @@
+{
+  "qid": "Q1975744",
+  "slug": "sviatoshyn",
+  "title": "Sviatoshyn",
+  "type": "historic district",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "historic district",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4550, 30.3681",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Sviatoshyn is a historic neighborhood and suburb of Kyiv, [[ukraine|Ukraine]], located on the western edge of the city. Originally a dacha village, it has evolved into a significant residential area with historical and cultural relevance.",
+  "sections": [
+    {
+      "heading": "Geographical Location",
+      "paragraphs": [
+        "Sviatoshyn is situated in the North-East of the [[dnieper|Dnieper]] Upland, specifically in the western part of [[kyiv|Kyiv]]. The suburb is positioned on both sides of Kyiv's Prospect Beresteiskyi and borders the Nyvka River to the west, with Sviatoshyn Forest Park located on the opposite bank.",
+        "The eastern boundary is defined by the Kyiv–Kovel railway. Adjacent neighborhoods include Bilychi, Akademmistechko, and Aviamistechko to the north, while Mykilska and Borshchahivka, along with Skarbovyi forest and the villages of Zhovtneve and Petropavlivska Borshchahivka, are situated to the south.",
+        "Sviatoshyn is approximately 13 km from the center of Kyiv, 10 km from the central railway station, and 12 km from [[boryspil-international-airport|Kyiv International Airport]] (Zhuliany). The suburb is also connected to Boryspil International Airport, located 44 km away."
+      ]
+    },
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "The name Sviatoshyn is derived from two hypotheses. One suggests it originates from a sacred site known as Saint Grove (Sviatyi, Святий гай), significant to pagans. The second theory links the name to Nikola Sviatosha, a 12th-century Prince of [[chernihiv|Chernigov]], who was known for his devoutness and was believed to have owned land in the vicinity.",
+        "The term 'Sviatoshyn' translates to 'Sviatosha's', indicating ownership or connection to the historical figure."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "Before the establishment of [[kievan-rus|Kievan Rus]]', the area that is now Sviatoshyn was inhabited by the Eastern Polans. It later became part of the Principality of Kiev during the Kievan Rus' and Grand Duchy of Lithuania.",
+        "The first documented reference to Sviatoshyn dates back to 1619, when it was part of the Kyiv Voivodeship under the Polish–Lithuanian Commonwealth. The area was later integrated into the Kyiv Viceroyalty of the Russian Empire in the 1780s."
+      ]
+    },
+    {
+      "heading": "Soviet Era and Modern Developments",
+      "paragraphs": [
+        "Following the [[ukrainiansoviet-war|Ukrainian–Soviet War]] and the Polish–Soviet War, Sviatoshyn was permanently included in the Kyiv City Council area in 1921. The Bolshevik government nationalized many dacha villas, repurposing them for state use.",
+        "In the late 20th century, Sviatoshyn saw significant developments, including the establishment of the [[antonov|Antonov]] aircraft factory and the construction of residential areas such as Akademmistechko."
+      ]
+    },
+    {
+      "heading": "Cultural Landmarks",
+      "paragraphs": [
+        "Sviatoshyn is home to the memorial for [[chernobyl-disaster|Chernobyl disaster]] victims, established in 1994, which honors those affected by the 1986 disaster. In addition, [[vasyl-stus|Vasyl Stus]] Garden Square commemorates the prominent [[ukrainian|Ukrainian]] poet and political prisoner Vasyl Stus, reflecting the area's cultural significance.",
+        "The Sviatoshyn Metro station, opened in 1971, serves as a key transport hub, enhancing accessibility to the neighborhood."
+      ]
+    }
+  ],
+  "links_out": [
+    "antonov",
+    "boryspil-international-airport",
+    "chernihiv",
+    "chernobyl-disaster",
+    "dnieper",
+    "kievan-rus",
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainiansoviet-war",
+    "vasyl-stus"
+  ],
+  "sources": [
+    {
+      "title": "Sviatoshyn — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sviatoshyn",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

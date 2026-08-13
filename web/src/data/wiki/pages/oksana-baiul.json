@@ -1,0 +1,83 @@
+{
+  "qid": "Q232995",
+  "slug": "oksana-baiul",
+  "title": "Oksana Baiul",
+  "type": "human",
+  "category": "culture",
+  "aliases": [
+    "Oksana Baiul-Farina",
+    "Oksana Serhiyivna Baiul-Farina"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1977-11-16",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Dnipro",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Oksana Serhiyivna Baiul-Farina is a retired [[ukrainian|Ukrainian]] figure skater, celebrated for winning the gold medal in ladies' singles at the 1994 Winter Olympics and the 1993 World Championship. She is recognized as the first Olympic champion from [[ukraine|Ukraine]] to compete under the [[flag-of-ukraine|Ukrainian flag]] and is a significant figure in the history of Ukrainian sports.",
+  "sections": [
+    {
+      "heading": "Early Life and Background",
+      "paragraphs": [
+        "Oksana Baiul was born on November 16, 1977, in [[dnipro|Dnipropetrovsk]], [[ukrainian-soviet-socialist-republic|Ukrainian SSR]], [[soviet-union|Soviet Union]]. Her early life was marked by familial challenges, including her parents' divorce when she was two years old. Raised primarily by her mother, Marina, a French teacher, and her maternal grandparents, Baiul also has Romanian-Jewish and Russian ancestry.",
+        "Tragedy struck when Baiul's mother passed away from ovarian cancer in 1991, leaving her to navigate her teenage years largely alone. After moving to [[odesa|Odesa]] in 1992, Baiul's skating talent was recognized, and her living expenses were supported by the state due to her promise in the sport."
+      ]
+    },
+    {
+      "heading": "Move to the United States",
+      "paragraphs": [
+        "Following her Olympic victory in 1994, Baiul relocated to the United States, initially settling in Simsbury, Connecticut. Over the years, she moved to various locations, including Richmond, Virginia, and Cliffside Park, New Jersey, before finally residing in Upper Makefield Township, Pennsylvania, in 2012.",
+        "Baiul faced personal challenges during her time in the U.S., including legal issues related to alcohol use, which led her to enter a rehabilitation program in 1997. She later reported achieving sobriety and emphasized the importance of this personal victory over her Olympic achievements."
+      ]
+    },
+    {
+      "heading": "Competitive Career",
+      "paragraphs": [
+        "Baiul's competitive career began with a silver medal at the 1993 European Championships. She then achieved remarkable success at the 1993 World Championships, becoming the world champion at the age of 15 despite injuries sustained prior to the event.",
+        "At the 1994 Winter Olympics, Baiul won the gold medal, becoming the first Olympic champion from [[independent-ukraine|independent Ukraine]] and the youngest figure skating Olympic champion at that time. Her victory was marked by a dramatic performance, overcoming injuries sustained just before the competition."
+      ]
+    },
+    {
+      "heading": "Professional Career and Life After Competition",
+      "paragraphs": [
+        "After turning professional in 1994, Baiul toured the United States and faced difficulties related to her personal life and health. She signed a lucrative contract with an American talent agency and participated in various skating productions.",
+        "Baiul has continued to engage in professional skating, including performances in productions like The Nutcracker on Ice and The Wizard of Oz on Ice. She has also been involved in fashion and television appearances, showcasing her versatility beyond competitive skating."
+      ]
+    },
+    {
+      "heading": "Cultural and Religious Identity",
+      "paragraphs": [
+        "Raised as a Russian Orthodox Christian, Baiul later identified as Jewish after discovering her maternal grandmother's heritage. This aspect of her identity became significant to her, and she expressed a sense of belonging to the Jewish community.",
+        "Baiul's journey to reconnect with her father, who had left the family, further highlighted her complex family history and personal growth."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnipro",
+    "flag-of-ukraine",
+    "independent-ukraine",
+    "odesa",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Oksana Baiul — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oksana_Baiul",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

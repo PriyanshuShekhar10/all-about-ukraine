@@ -1,0 +1,75 @@
+{
+  "qid": "Q634932",
+  "slug": "kryvyi-rih-metrotram",
+  "title": "Kryvyi Rih Metrotram",
+  "type": "premetro",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "premetro",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Soviet Union, Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kryvyi Rih",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Kryvyi Rih Metrotram, officially known as the Kryvyi Rih Rapid Tram, is a rapid transit light rail system located in Kryvyi Rih, Ukraine's seventh-largest city. It serves as a significant component of the city's public transportation network, with a mix of underground and surface routes.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The concept for the Kryvyi Rih Metrotram originated from socialist urban planning guidelines established in the 1960s, aimed at accommodating the growth of small settlements into full-fledged cities. Despite having an existing tram network, [[kryvyi-rih|Kryvyi Rih]] faced challenges such as overcrowding and congestion, prompting the need for a rapid transit system.",
+        "The city, which was rebuilt after World War II, was selected as a testing ground to determine if a full-scale metro could be avoided by implementing a light rail system that adhered to metro standards. The project was initiated in 1972 by the [[kharkiv-oblast|Kharkiv]] Institute 'UkrkomunNDIproekt' and other governmental bodies, with construction commencing in 1974."
+      ]
+    },
+    {
+      "heading": "Opening",
+      "paragraphs": [
+        "The first segment of the Kryvyi Rih Metrotram, measuring 8 km (5.0 mi) and consisting of four stations, was inaugurated on 26 December 1986. This made it the third underground rapid transit system [[coal-in-ukraine|in Ukraine]], following those in [[kyiv|Kyiv]] and Kharkiv. Additional segments were opened between 1988 and 1989, expanding the network further."
+      ]
+    },
+    {
+      "heading": "Post-Independence Developments",
+      "paragraphs": [
+        "Following [[ukraine|Ukraine]]'s independence in 1992, construction of a third line began, although it faced challenges due to the country's economic situation. The new line was opened on 26 October 1999, adding two stations, with further expansions occurring in the early 2000s.",
+        "By 2001, the Metrotram system had grown to nearly 18 km (11.2 mi) with 11 stations. Several stations were renamed in 2007 and 2016 as part of decommunization efforts, reflecting changes in the political landscape of Ukraine."
+      ]
+    },
+    {
+      "heading": "Current Operations and Challenges",
+      "paragraphs": [
+        "As of 2021, Kryvyi Rih became the first city in Ukraine to implement free public transport for its citizens, a policy that was expanded to all passengers in Spring 2022. However, the system faced disruptions, including damage from a missile strike on 8 January 2024, although services resumed shortly after.",
+        "The Kryvyi Rih Metrotram operates a total length of 17.7 km, with 40% of it underground, and includes 11 stations. The system is served by Tatra T3 tramcars and features several routes connecting key areas of the city."
+      ]
+    },
+    {
+      "heading": "Significance and Future Prospects",
+      "paragraphs": [
+        "The Kryvyi Rih Metrotram is a vital transportation artery, carrying approximately 40 million passengers annually, with a peak of 56 million in 1997. Its compatibility with existing tram systems and lower construction costs have established it as a more viable option compared to traditional metro systems in other post-Soviet cities."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "kharkiv-oblast",
+    "kryvyi-rih",
+    "kyiv",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Kryvyi Rih Metrotram — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kryvyi_Rih_Metrotram",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

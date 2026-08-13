@@ -1,0 +1,122 @@
+{
+  "qid": "Q163271",
+  "slug": "kherson-oblast",
+  "title": "Kherson Oblast",
+  "type": "oblast of Ukraine",
+  "category": "politics",
+  "aliases": [
+    "Kherson Region",
+    "Khersonshchyna"
+  ],
+  "infobox": {
+    "label": "oblast of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1944-03-30",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Soviet Union, Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Kherson",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "1,055,600",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "28,461",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "50",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Serhiy Kozyr, Hennadiy Lahuta",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "46.5000, 34.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Kherson Oblast is a province in southern Ukraine, situated just north of Crimea, with Kherson as its administrative center. Known for its agricultural output, the oblast has been significantly affected by the ongoing conflict with Russia, particularly since the full-scale invasion in 2022.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Kherson Oblast is bordered by [[dnipropetrovsk-oblast|Dnipropetrovsk Oblast]] to the north, the Black Sea and [[crimea|Crimea]] to the south, [[mykolaiv-oblast|Mykolaiv Oblast]] to the west, and the Azov Sea and [[zaporizhzhia-oblast|Zaporizhzhia Oblast]] to the east. The [[dnieper|Dnieper River]], along with the Kakhovka Reservoir, flows through the region.",
+        "Before the 2022 Russian invasion, the oblast was connected by two bridges across the Dnieper: the Kakhovka Bridge near Nova Kakhovka and the Antonivka Road Bridge at [[kherson|Kherson]]. The Daryivka Bridge also plays a crucial role in connecting Kherson to Beryslav via the M14 highway.",
+        "The Henichesk Raion of Kherson Oblast includes the northern section of the Arabat Spit, which is geographically part of the Crimean Peninsula. This area was the only part of Crimea under [[ukrainian|Ukrainian]] control prior to the 2022 invasion."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Throughout its history, Kherson Oblast has been ruled by various entities including Scythia, ancient Greeks, Old Great Bulgaria, Khazars, and the Byzantine Empire, among others. In medieval times, significant towns included Oleshia and Tawan/Kazikermen, now known as Beryslav.",
+        "The region became part of [[ukrainian-soviet-socialist-republic|Soviet Ukraine]] in 1920 after being controlled by [[ukrainians|Ukrainians]], Bolsheviks, and White Russians during the tumultuous years of 1917-1920. It was also the site of [[holodomor|the Holodomor]] and the Katyn massacre.",
+        "Kherson Oblast was officially established in 1944 within Soviet Ukraine, and in the 1991 independence referendum, 90.13% of its voters supported [[ukraine|Ukraine]]'s Declaration of Independence."
+      ]
+    },
+    {
+      "heading": "Russian Invasion",
+      "paragraphs": [
+        "Following the onset of the Russian invasion on February 24, 2022, most of Kherson Oblast fell under Russian military control. From April 28 to September 30, 2022, the region was governed by a Russian-appointed 'Kherson military–civilian administration.'",
+        "In September 2022, Russia conducted referendums in occupied territories, claiming support for annexation, which was widely condemned as illegal by the international community. On September 30, Russian President [[vladimir-putin|Vladimir Putin]] announced the annexation of Kherson Oblast.",
+        "By November 11, 2022, Ukrainian forces had successfully recaptured Kherson city and the right bank of the Dnieper, while the left bank remains under Russian control."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "As of 2022, Kherson Oblast had an estimated population of 1,001,598, accounting for approximately 2.4% of Ukraine's total population. The population density is about 38 people per square kilometer.",
+        "The demographic breakdown indicates that 61.5% of residents live in urban areas, while 38.5% reside in rural settings. The population is predominantly Ukrainian (82.0%), with a significant Russian minority (14.1%).",
+        "The age structure reveals that 15.1% of the population is aged 0-14 years, while 70.5% are between the ages of 15 and 64, and 14.4% are 65 years or older."
+      ]
+    },
+    {
+      "heading": "Administrative Divisions",
+      "paragraphs": [
+        "Prior to the 2020 administrative reorganization, Kherson Oblast was divided into 18 raions (districts) and 3 municipalities, including Kherson, Nova Kakhovka, and Kakhovka, which were directly subordinate to the oblast government.",
+        "The local administration is overseen by the Kherson Regional Council, with the governor serving as the speaker of the council and appointed by the [[president-of-ukraine|President of Ukraine]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "dnieper",
+    "dnipropetrovsk-oblast",
+    "holodomor",
+    "kherson",
+    "mykolaiv-oblast",
+    "president-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainians",
+    "vladimir-putin",
+    "zaporizhzhia-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Kherson Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kherson_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

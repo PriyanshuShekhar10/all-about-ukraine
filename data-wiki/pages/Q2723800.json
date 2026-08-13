@@ -1,0 +1,93 @@
+{
+  "qid": "Q2723800",
+  "slug": "transport-in-ukraine",
+  "title": "transport in Ukraine",
+  "type": "transport by country or region",
+  "category": "economy",
+  "aliases": [
+    "Ukraine transport",
+    "transportation in Ukraine"
+  ],
+  "infobox": {
+    "label": "transport by country or region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Ukraine",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "Transport in Ukraine encompasses various modes, including road, rail, water, air, and pipelines, playing a crucial role in the nation's economy and connectivity. The transportation sector contributes approximately 11% to the country's GDP and employs around 7% of the workforce.",
+  "sections": [
+    {
+      "heading": "Overview of Transport Modes",
+      "paragraphs": [
+        "Transport in Ukraine includes ground transportation (road and rail), water (sea and river), air transportation, and pipelines. The transportation sector accounts for roughly 11% of the country's gross domestic product and 7% of total employment."
+      ]
+    },
+    {
+      "heading": "Road Transport",
+      "paragraphs": [
+        "The total length of paved roads [[coal-in-ukraine|in Ukraine]] is 164,732 kilometres (102,360 mi). Major routes, designated with the letter 'M' for 'International' ([[ukrainian|Ukrainian]]: Міжнародний), connect all major cities and provide cross-border access to neighboring countries.",
+        "Despite the extensive road network, the development of public roads has lagged behind motorization rates. Approximately 51.1% of roads do not meet minimum standards, and 39.2% require significant repairs. The average speed on roads is 2–3 times lower than in Western countries."
+      ]
+    },
+    {
+      "heading": "Rail Transport",
+      "paragraphs": [
+        "[[rail-transport-in-ukraine|Rail transport in Ukraine]] connects all major urban areas, port facilities, and industrial centers with neighboring countries. The total length of railroad track is 22,473 kilometres (13,964 mi), with 9,250 kilometres (5,750 mi) electrified in the 2000s.",
+        "[[ukrainian-railways|Ukrzaliznytsia]], the state railway company, operates all passenger trains, except those in cooperation with foreign companies on international routes. The [[donbas|Donbas]] region has the highest concentration of railway tracks."
+      ]
+    },
+    {
+      "heading": "Aviation",
+      "paragraphs": [
+        "[[boryspil-international-airport|Kyiv Boryspil]] is the largest international airport in Ukraine, serving as the base for [[ukraine-international-airlines|Ukraine International Airlines]]. Other significant airports include those in [[kharkiv-oblast|Kharkiv]], [[lviv|Lviv]], and the now-destroyed [[donetsk|Donetsk]].",
+        "Since the Russian invasion in February 2022, [[ukraine|Ukraine]]'s civil aviation sector has been suspended, with all commercial flights grounded and major airports closed to civilian traffic."
+      ]
+    },
+    {
+      "heading": "Maritime Transport",
+      "paragraphs": [
+        "International maritime travel is primarily facilitated through the Port of [[odesa|Odesa]], where ferries operate routes to Istanbul, Varna, and Haifa, with Ukrferry being the largest ferry company.",
+        "Maritime exports faced disruption due to Black Sea blockades but resumed in August 2023 through the Ukrainian Maritime Export Corridor, allowing cargo shipments along the western Black Sea coast."
+      ]
+    },
+    {
+      "heading": "Wartime Developments",
+      "paragraphs": [
+        "Since the Russian invasion began on 24 February 2022, Ukraine's transport sector has experienced significant disruptions. Approximately 30% of the rail network has sustained damage, and the World Bank estimates that $77.5 billion will be required for transport sector reconstruction from 2024 to 2034.",
+        "Despite these challenges, rail freight volumes increased by 18% in 2024, and seaports handled 82.2 million tonnes of cargo in 2025, achieving 95.3% of annual targets."
+      ]
+    }
+  ],
+  "links_out": [
+    "boryspil-international-airport",
+    "coal-in-ukraine",
+    "donbas",
+    "donetsk",
+    "kharkiv-oblast",
+    "lviv",
+    "odesa",
+    "rail-transport-in-ukraine",
+    "ukraine",
+    "ukraine-international-airlines",
+    "ukrainian",
+    "ukrainian-railways"
+  ],
+  "sources": [
+    {
+      "title": "Transport in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Transport_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

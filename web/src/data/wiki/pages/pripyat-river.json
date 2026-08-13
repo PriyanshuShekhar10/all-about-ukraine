@@ -38,7 +38,7 @@
       "heading": "Geography",
       "paragraphs": [
         "The Pripyat River originates in the Volhynian Upland, specifically between the villages of Budnyky and Rohovi Smoliary in [[volyn-oblast|Volyn Oblast]], [[ukraine|Ukraine]]. It travels 204 km before crossing into Belarus, where it continues for 500 km through [[polesia|Polesia]], the largest wilderness area in Europe, characterized by the Pripet Marshes, a complex of swamps, bogs, and rivers within a forested basin. The river flows back into Ukraine for its final 50 kilometers, passing just south of [[chernobyl|Chernobyl]] before reaching the [[kyiv|Kyiv]] Reservoir.",
-        "The total length of the Pripyat River is 775 km, with a watershed area of 114,300 km². The floodplain width varies between 4 to 15 km, with occasional flooding extending up to 30 km. Of the river's total length, 495 km (308 mi) is located in Belarus, while the remainder is [[coal-in-ukraine|in Ukraine]]. The river is navigable up to Pinsk, where it connects to the [[dnieper|Dnieper]]-Bug Canal leading to the Bug River.",
+        "The total length of the Pripyat River is 775 km, with a watershed area of 114,300 km². The floodplain width varies between 4 to 15 km, with occasional flooding extending up to 30 km. Of the river's total length, 495 km (308 mi) is located in Belarus, while the remainder is [[coal-in-ukraine|in Ukraine]]. The river is navigable up to Pinsk, where it connects to the [[dnieper|Dnieper]]-Bug Canal leading to the [[western-bug|Bug River]].",
         "The Pripyat River is notable for its numerous oxbow lakes and channels, and it flows through the exclusion zone established around the site of the Chernobyl nuclear disaster. The nearby city of [[pripyat|Pripyat]], Ukraine, named after the river, was evacuated following the disaster, which impacted the local population of approximately 45,000."
       ]
     },
@@ -60,7 +60,8 @@
     "pripyat",
     "ukraine",
     "ukrainian",
-    "volyn-oblast"
+    "volyn-oblast",
+    "western-bug"
   ],
   "sources": [
     {

@@ -1,0 +1,85 @@
+{
+  "qid": "Q179075",
+  "slug": "fc-dynamo-kyiv",
+  "title": "FC Dynamo Kyiv",
+  "type": "association football club",
+  "category": "culture",
+  "aliases": [
+    "Dynamo Kyiv",
+    "Football Club Dynamo Kyiv"
+  ],
+  "infobox": {
+    "label": "association football club",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1927",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "FC Dynamo Kyiv is a professional football club based in Kyiv, Ukraine, founded in 1927. The club has a rich history in both Soviet and Ukrainian football, consistently competing at the highest levels and achieving significant domestic and international success.",
+  "sections": [
+    {
+      "heading": "Foundation and Early History",
+      "paragraphs": [
+        "FC Dynamo Kyiv was established on 13 May 1927 as part of the Soviet Dynamo Sports Society, which was linked to the Soviet state security KGB. The club was officially registered as a separate entity in 1989.",
+        "Dynamo Kyiv's first official match took place on 1 July 1928 against a local team, resulting in a 1–2 loss. The club quickly gained recognition, winning its first official tournament, the 1928 [[kyiv|Kyiv]] city championship."
+      ]
+    },
+    {
+      "heading": "Soviet Era and National Pride",
+      "paragraphs": [
+        "Throughout its history, Dynamo Kyiv has remained in the top league of Soviet and later [[ukrainian|Ukrainian]] football, never facing relegation. The club became a symbol of national pride for [[ukraine|Ukraine]], often seen as the unofficial national team during the Soviet era.",
+        "Dynamo Kyiv's rivalry with Moscow clubs, particularly Spartak Moscow, was notable, with the club achieving significant victories that challenged the dominance of Moscow teams."
+      ]
+    },
+    {
+      "heading": "Coaching and Achievements",
+      "paragraphs": [
+        "The club's most successful periods are linked to coach Valeriy Lobanovskyi, who led the team to numerous domestic and European titles. In 1961, Dynamo Kyiv became the first club to break the dominance of Moscow teams in the Soviet Top League.",
+        "Dynamo Kyiv has won 17 Ukrainian top-flight league titles, 13 Soviet top-flight league titles, 14 Ukrainian national cups, 9 Soviet national cups, and three continental titles, including two UEFA Cup Winners' Cups."
+      ]
+    },
+    {
+      "heading": "Impact During World War II",
+      "paragraphs": [
+        "During World War II, the club was affected by the German occupation of Kyiv. Players formed an amateur team named 'Start' and participated in exhibition matches, achieving notable victories against German teams.",
+        "The story of 'Start' and its players, some of whom faced severe repercussions for their actions, became part of the Soviet propaganda narrative, leading to the mythologized account known as 'The Death Match'."
+      ]
+    },
+    {
+      "heading": "Legacy and Recognition",
+      "paragraphs": [
+        "Dynamo Kyiv has been recognized as the Eastern European Club of the 20th Century by France-Presse. The three stars on the club's crest represent ten top-flight seasons won by the team.",
+        "The club has also served as a foundational team for both [[soviet-union|the Soviet Union]] and Ukraine national football teams, contributing significantly to the development of football [[coal-in-ukraine|in Ukraine]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "kyiv",
+    "soviet-union",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "FC Dynamo Kyiv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/FC_Dynamo_Kyiv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

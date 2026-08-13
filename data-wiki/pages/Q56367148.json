@@ -1,0 +1,86 @@
+{
+  "qid": "Q56367148",
+  "slug": "ukrainian-institute",
+  "title": "Ukrainian Institute",
+  "type": "cultural institution",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "cultural institution",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2017-06-21",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4557, 30.5203",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Ukrainian Institute is a public institution established in 2017 to promote Ukrainian culture globally and facilitate cultural diplomacy. It operates under the Ministry of Foreign Affairs of Ukraine and began its activities in 2018.",
+  "sections": [
+    {
+      "heading": "Founding and Purpose",
+      "paragraphs": [
+        "The Ukrainian Institute ([[ukrainian|Ukrainian]]: Український інститут, Ukrayinsʹkyy instytut) was founded by the [[cabinet-of-ministers-of-ukraine|Cabinet of Ministers of Ukraine]] in 2017. Its primary aim is to represent Ukrainian culture on the international stage, act as a tool for Ukrainian cultural diplomacy, and support international cooperation in creative industries, culture, education, and science.",
+        "The institute commenced its full operations in the summer of 2018, following the appointment of Volodymyr Sheiko as General Director through an open competition."
+      ]
+    },
+    {
+      "heading": "Objectives and Priorities",
+      "paragraphs": [
+        "The Ukrainian Institute's objectives include increasing international visibility of [[ukraine|Ukraine]], promoting the Ukrainian language and culture abroad, supporting international mobility, and facilitating professional exchanges. It also aims to share Ukraine's experiences in civil society development and commitment to democracy.",
+        "The program priorities were established through strategic sessions and consultations with experts in culture and education. Key priorities include presenting Ukrainian culture internationally, participating in global cultural events, and promoting Ukrainian studies and the Ukrainian language."
+      ]
+    },
+    {
+      "heading": "Activities and Programs",
+      "paragraphs": [
+        "The activities of the Ukrainian Institute are categorized into various sectors such as cinema, music, visual arts, literature, and performing arts. It organizes numerous programs and projects, including the Month of Cultural Diplomacy of Ukraine in Wikipedia, the International Forum of Cultural Diplomacy, and the Women in Arts Award.",
+        "In July 2020, the institute collaborated with the [[ministry-of-foreign-affairs-of-ukraine|Ministry of Foreign Affairs of Ukraine]] to hold discussions focused on cultural diplomacy and its strategic direction."
+      ]
+    },
+    {
+      "heading": "Leadership and Team",
+      "paragraphs": [
+        "The leadership team of the Ukrainian Institute includes General Director Volodymyr Sheiko, who has extensive experience in cultural management and international cooperation. Other key positions include Creative Director Tetyana Filevska, Executive Director Nataliya Neniuchenko, and Programme Director Iryna Prokofieva.",
+        "The institute comprises various departments, including programme, communications, finance, and legal departments, which support its diverse activities."
+      ]
+    },
+    {
+      "heading": "Supervisory Board",
+      "paragraphs": [
+        "The Supervisory Board serves as an advisory body, assisting in governance and priority setting for the Ukrainian Institute. It includes representatives from four ministries and notable figures in the Ukrainian arts and culture sector, such as Andriy Vitrenko, Emine Dzheppa, and Liliya Mlynarych.",
+        "The board's role is to help manage the institute's assets and monitor the implementation of its objectives."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "ministry-of-foreign-affairs-of-ukraine",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Institute — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Institute",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

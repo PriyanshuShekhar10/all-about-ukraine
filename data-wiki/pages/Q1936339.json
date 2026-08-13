@@ -1,0 +1,108 @@
+{
+  "qid": "Q1936339",
+  "slug": "bohuslav",
+  "title": "Bohuslav",
+  "type": "city in Ukraine",
+  "category": "history",
+  "aliases": [
+    "Boguslav",
+    "Boguslaw",
+    "Bohslov",
+    "Bohusław",
+    "Boslev",
+    "Boslov"
+  ],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1032",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Crown of the Kingdom of Poland",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "16,190",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "71",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "164",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.5500, 30.8833",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Bohuslav is a city located on the Ros River in Obukhiv Raion, Kyiv Oblast, Ukraine. It serves as the administrative center of the Bohuslav urban hromada and has a population of 15,789 as of 2022.",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Context",
+      "paragraphs": [
+        "Bohuslav ([[ukrainian|Ukrainian]]: Богуслав, IPA: [boɦʊˈslɑu̯]) is situated on the Ros River within Obukhiv Raion in [[kyiv|Kyiv]] Oblast, [[ukraine|Ukraine]]. It is the administrative hub of the Bohuslav urban hromada, which is one of the hromadas [[coal-in-ukraine|in Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The exact year of Bohuslav's establishment and the origin of its name remain uncertain. It is referenced in the Hypatian Codex as early as 1032, a date often regarded as its founding year. The city is documented in official records from 1195 when it was transferred from the Grand Prince of Kyiv Rurik II to Vsevolod III of Vladimir-Suzdal.",
+        "Bohuslav faced destruction during the Mongol invasion in 1240 but was later liberated in 1362 by the Grand Duchy of Lithuania. The settlement endured further invasions by Tatars, leading to significant population loss and slavery among its residents. It was eventually rebuilt, receiving a renovation privilege from Sigismund II Augustus.",
+        "In 1569, Bohuslav came under the control of the Kingdom of Poland. King Sigismund III Vasa designated it as the seat of a starostwo in 1591, granting it tax exemptions and establishing markets to encourage settlement. By 1620, the town had received Magdeburg rights and a city banner.",
+        "From 1648 to 1667, Bohuslav was part of the [[cossack-hetmanate|Cossack Hetmanate]] but reverted to Polish control after the Treaty of Andrusovo. The town experienced further turmoil, including destruction by Turkish-Tatar-Cossack forces in 1678. In 1685, it became a residence for appointed Hetmans until its governance shifted again in the early 18th century.",
+        "After the Second Partition of Poland in 1793, Bohuslav was integrated into the Russian Empire and served as the center of Bohuslav county until 1837. The county was reestablished under Soviet rule in 1919 and converted into [[bohuslav-raion|Bohuslav Raion]] in 1923.",
+        "The city had a significant Jewish population, with 7,445 Jews recorded in the 1897 census. This community faced devastation during the Holocaust. During World War II, Bohuslav was occupied by German forces from July 1941 until February 1944.",
+        "On 18 July 2020, Bohuslav ceased to be the administrative center of Bohuslav Raion due to administrative reforms in Ukraine, with its territory reassigned to Obukhiv Raion."
+      ]
+    },
+    {
+      "heading": "Economic Profile",
+      "paragraphs": [
+        "Historically, Bohuslav has been recognized as a center for the textile industry and granite production, contributing to its economic development."
+      ]
+    },
+    {
+      "heading": "Cultural Landmarks",
+      "paragraphs": [
+        "The oldest building in Bohuslav is a former heder, locally referred to as 'kamianytsia,' constructed in 1726. This structure has undergone various transformations, serving as a club for the deaf and mute during Soviet times and later becoming a museum of decorative art."
+      ]
+    },
+    {
+      "heading": "Notable Figures",
+      "paragraphs": [
+        "Bohuslav has been associated with several notable individuals, including Marusia Bohuslavka, a legendary Ukrainian freedom fighter; Neonila Lahodiuk, a Ukrainian jazz composer and pianist; and Ivan Soshenko, a Ukrainian painter and contemporary of [[taras-shevchenko|Taras Shevchenko]].",
+        "Other prominent figures include Hélène Sparrow, a Polish medical doctor; Herman Toll, a U.S. congressman with family roots in Bohuslav; Olympic champion Olexandra Tymoshenko; and Mikhail Sukernik, a chemist known for his contributions to the Russian-Yiddish Dictionary."
+      ]
+    }
+  ],
+  "links_out": [
+    "bohuslav-raion",
+    "coal-in-ukraine",
+    "cossack-hetmanate",
+    "kyiv",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Bohuslav — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bohuslav",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

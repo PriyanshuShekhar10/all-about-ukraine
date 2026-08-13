@@ -1,0 +1,93 @@
+{
+  "qid": "Q170842",
+  "slug": "sergei-korolev",
+  "title": "Sergei Korolev",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "S. P. Korolyov",
+    "Sergei Koroliov",
+    "Sergei Pavlovich Korolev",
+    "Sergei Pavlovich Korolyov"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1906-12-30",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1966-01-14",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Zhytomyr",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "director",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Sergei Pavlovich Korolev was a prominent Soviet rocket engineer and spacecraft designer, instrumental in the early Soviet space program and a key figure in the Space Race. His connections to Ukraine are significant, as he was born in Zhytomyr and spent formative years in the region.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Sergei Pavlovich Korolev was born on 12 January 1907 in [[zhytomyr|Zhytomyr]], which was then part of the Russian Empire and is now located [[coal-in-ukraine|in Ukraine]]. His father, Pavel Yakovlevich Korolev, was a Russian teacher, while his mother, Maria Nikolaevna Koroleva, had a diverse heritage including Zaporozhian Cossack, Greek, and Polish roots. After his parents' separation, Korolev was raised primarily by his maternal grandparents in Nizhyn, [[ukraine|Ukraine]].",
+        "During his childhood, Korolev faced social unrest due to World War I and experienced significant hardships, including a bout of typhus during food shortages in 1919. His early education was impacted by the tumultuous political climate, leading to a home-based study environment."
+      ]
+    },
+    {
+      "heading": "Education and Early Career",
+      "paragraphs": [
+        "Korolev's interest in aeronautical engineering was sparked by a 1913 air show, leading him to join the Society of Aviation and Aerial Navigation of Ukraine and the [[crimea|Crimea]] in 1923. He designed a glider at the age of 17 and pursued further education at the Kiev Polytechnic Institute in 1924, where he studied engineering, physics, and mathematics.",
+        "In 1926, Korolev transferred to Bauman Moscow State Technical University, where he was mentored by the renowned aircraft designer Andrei Tupolev. He graduated in 1929, producing a practical aircraft design that contributed to the urgent need for engineers in [[soviet-union|the Soviet Union]]."
+      ]
+    },
+    {
+      "heading": "Contributions to Rocketry",
+      "paragraphs": [
+        "Korolev's career advanced as he worked with leading Soviet designers and became involved in the development of liquid-fueled rocket engines. He co-founded the Group for the Study of Reactive Motion (GIRD) in 1931, which was pivotal in early Soviet rocket development.",
+        "Under Korolev's leadership, GIRD launched significant projects, including the first hybrid propellant rocket and the first liquid-fueled rocket. His work laid the groundwork for future advancements in rocketry and space exploration."
+      ]
+    },
+    {
+      "heading": "Imprisonment and Later Career",
+      "paragraphs": [
+        "Korolev was arrested during [[donetsk|Stalin]]'s Great Purge in 1938 on false charges, spending nearly six years in prison and labor camps, including a period in Kolyma. His release in 1944 led to his involvement in critical wartime projects, including the design of bombers.",
+        "After the war, Korolev became a central figure in the Soviet space program, directing the development of key missions that included launching the first artificial satellite, Sputnik 1, and sending the first human, Yuri Gagarin, into space."
+      ]
+    },
+    {
+      "heading": "Legacy",
+      "paragraphs": [
+        "Korolev's contributions to rocketry and space exploration have had a lasting impact on the field. His identity as the chief designer was kept secret during his lifetime, with his significant role in the Soviet space achievements becoming widely recognized only after his death on 14 January 1966.",
+        "Korolev's legacy continues to be celebrated, particularly in Ukraine, where his early life and education played a crucial role in shaping his future contributions to science and technology."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "crimea",
+    "donetsk",
+    "soviet-union",
+    "ukraine",
+    "zhytomyr"
+  ],
+  "sources": [
+    {
+      "title": "Sergei Korolev — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sergei_Korolev",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

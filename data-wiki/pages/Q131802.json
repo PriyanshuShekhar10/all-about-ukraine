@@ -1,0 +1,73 @@
+{
+  "qid": "Q131802",
+  "slug": "scythians",
+  "title": "Scythians",
+  "type": "historical ethnic group",
+  "category": "history",
+  "aliases": [
+    "Askuzai",
+    "Iskuzai",
+    "Sacans",
+    "Sai",
+    "Saka",
+    "Sakae",
+    "Scyth",
+    "Scythian",
+    "Scythian people",
+    "Scythæ",
+    "Skolots"
+  ],
+  "infobox": {
+    "label": "historical ethnic group",
+    "fields": [
+      {
+        "label": "Location",
+        "value": "Scythia",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The Scythians, also referred to as the Pontic Scythians, were an ancient nomadic people of Eastern Iranic origin who migrated to the Pontic Steppe in modern-day Ukraine and Southern Russia from Central Asia during the 9th to 8th centuries BC. They played a significant role in the history of the Eurasian Steppe until their eventual decline by the 3rd century AD.",
+  "sections": [
+    {
+      "heading": "Origins and Migration",
+      "paragraphs": [
+        "The Scythians, known for their equestrian skills, migrated from Central Asia to the Pontic Steppe between the 9th and 8th centuries BC. This migration was part of a larger movement of Iranic nomads, including groups such as the Cimmerians and Sauromatians.",
+        "The early Scythians were expelled from Central Asia by the Massagetae or the Issedones, prompting their westward movement into the Caucasian Steppe and eventually to the territories that are now part of [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Dominance in the Steppe",
+      "paragraphs": [
+        "By the 8th century BC, the Scythians had displaced the Cimmerians and Agathyrsi, establishing themselves as the dominant power in the western Eurasian Steppe. They often engaged in raids across the Caucasus Mountains into West Asia during the 7th century BC.",
+        "The Scythians settled in the Ciscaucasian Steppe, where they established their capital and began to extract tribute from local populations, leading to a mixed culture in the region."
+      ]
+    },
+    {
+      "heading": "Cultural and Political Influence",
+      "paragraphs": [
+        "The Scythians were known for their mounted warfare and sophisticated metalwork, including goldsmithing and bronze-casting, which are evidenced by archaeological finds in the region. Their culture was influenced by earlier Bronze Age traditions in the north Pontic area.",
+        "Through interactions with local tribes, such as the Maeotians, the Scythians contributed to a cultural exchange that shaped the development of the region's societies."
+      ]
+    },
+    {
+      "heading": "Decline and Legacy",
+      "paragraphs": [
+        "The Scythians faced expulsion from West Asia by the Medes in the 6th century BC and were eventually conquered by the Sarmatians in the 3rd to 2nd centuries BC. By the 3rd century AD, the remnants of the Scythians were assimilated into other populations in the region.",
+        "Following their disappearance, the name 'Scythians' was used by later authors to refer to various unrelated steppe populations, illustrating their lasting impact on the historical narrative of the region."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Scythians — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Scythians",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

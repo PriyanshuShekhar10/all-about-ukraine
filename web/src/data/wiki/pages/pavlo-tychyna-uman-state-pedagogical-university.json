@@ -1,0 +1,87 @@
+{
+  "qid": "Q3700286",
+  "slug": "pavlo-tychyna-uman-state-pedagogical-university",
+  "title": "Pavlo Tychyna Uman State Pedagogical University",
+  "type": "university",
+  "category": "politics",
+  "aliases": [
+    "Umans‘kyj deržavyj pedahohìčnyj unìversytet ìmenì Pavla Tyčyny"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1930",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Uman",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.7492, 30.2236",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Pavlo Tychyna Uman State Pedagogical University is a prominent educational institution located in Uman, [[cherkasy-oblast|Cherkasy Oblast]], Ukraine, known for its historical significance and contributions to teacher training.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Founded in August 1930 as the Institute of Social Education, the university initially offered four faculties and a three-year training program with 120 enrolled students. In 1933, it was renamed the Pedagogical Institute, extending the study period to four years and maintaining four faculties.",
+        "The institution underwent several name changes, becoming the Teacher's Institute in 1935 with two faculties. It temporarily ceased operations in 1941 due to the Nazi invasion but resumed in June 1944 with the restoration of its physical-mathematical and natural-geographical faculties.",
+        "Subsequent expansions included the restoration of the Faculty of History in 1946 and the integration of additional faculties from other institutes in 1947. In 1952, it was reorganized as [[uman|Uman]] State Pedagogical Institute, and in 1960, the Faculty of Pedagogy and Methods of Primary Education was established. The university was named after [[pavlo-tychyna|Pavlo Tychyna]] in 1967."
+      ]
+    },
+    {
+      "heading": "Campuses and Facilities",
+      "paragraphs": [
+        "The university operates across five buildings and includes two hotels, two canteens, workshops, and a sports complex. It also features a research agricultural station for student field practice, covering a total training area of 23.069 square meters, and has an Orthodox church on its premises.",
+        "The institution comprises 11 faculties and one educational-scientific institute, including the Faculty of Physics, Mathematics and Informatics, Faculty of History, Faculty of Preschool and Special Education, Faculty of Foreign Languages, Faculty of Arts, Faculty of Engineering and Pedagogical Education, Faculty of Social and Psychological Education, Faculty of [[ukrainian|Ukrainian]] Philology, Faculty of Physical Education, Faculty of Primary Education, Natural Sciences and Geography Faculty, and the Institute of Economics and Business Education."
+      ]
+    },
+    {
+      "heading": "Notable Alumni",
+      "paragraphs": [
+        "Among its distinguished alumni is Oleksandr Krykun, a bronze medalist at the 1996 Atlanta Olympics and a competitor in the Sydney Olympics, who is also a member of the National Olympic Committee of [[ukraine|Ukraine]].",
+        "Yuriy Bodrov, who served as the Mayor of Uman, and Maryna Pavlenko, a member of the National Union of Writers of Ukraine, are also notable graduates of the university."
+      ]
+    },
+    {
+      "heading": "Awards and Recognition",
+      "paragraphs": [
+        "The university has received several accolades, including a Diploma from the [[cabinet-of-ministers-of-ukraine|Cabinet of Ministers of Ukraine]] in 2006 and recognition at the International Exhibition 'Modern [[education-in-ukraine|Education in Ukraine]] – 2008' for its pedagogical achievements.",
+        "In various ratings from 2008 to 2012, the university achieved positions such as 159th and 142nd among higher educational institutions [[coal-in-ukraine|in Ukraine]], and in the 2011-2012 academic year, it reached the 4th position in the rating of higher educational establishments.",
+        "The institution has also been awarded multiple medals at international exhibitions for its contributions to education and innovations in teaching methods."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "cherkasy-oblast",
+    "coal-in-ukraine",
+    "education-in-ukraine",
+    "pavlo-tychyna",
+    "ukraine",
+    "ukrainian",
+    "uman"
+  ],
+  "sources": [
+    {
+      "title": "Pavlo Tychyna Uman State Pedagogical University — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pavlo_Tychyna_Uman_State_Pedagogical_University",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

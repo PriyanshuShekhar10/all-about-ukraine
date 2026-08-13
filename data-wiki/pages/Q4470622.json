@@ -1,0 +1,90 @@
+{
+  "qid": "Q4470622",
+  "slug": "moldovaukraine-relations",
+  "title": "Moldova–Ukraine relations",
+  "type": "bilateral relation",
+  "category": "politics",
+  "aliases": [
+    "Moldova-Ukraine relations",
+    "Ukraine-Moldova relations",
+    "Ukraine–Moldova relations"
+  ],
+  "infobox": {
+    "label": "bilateral relation",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Moldova, Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Moldova–Ukraine relations encompass the diplomatic ties between Moldova and Ukraine, two former Soviet republics that share a 985-kilometer border. The relationship is significant due to the presence of a substantial Ukrainian minority in Moldova and both nations' aspirations for European Union membership.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The early interactions between [[ukraine|Ukraine]] and Moldova can be traced back to November–December 1917, when the Central [[verkhovna-rada|Rada]] of the [[ukrainian-peoples-republic|Ukrainian People's Republic]] collaborated with the Sfatul Țării of the Moldavian Democratic Republic. Notably, the first session of the Moldovan Parliament occurred on November 21, 1917, in Chișinău, under the protection of Moldavian and [[ukrainian|Ukrainian]] troops.",
+        "Following the establishment of the Ukrainian People's Republic, its government prioritized defining its borders with Moldova."
+      ]
+    },
+    {
+      "heading": "Soviet Era Developments",
+      "paragraphs": [
+        "In 1946, the creation of the Academy of Sciences of Moldova marked a significant advancement in Ukrainian-Moldovan scientific collaboration, fostering cultural and scientific exchanges between the [[national-academy-of-sciences-of-ukraine|Academy of Sciences of the Ukrainian SSR]] and Moldova.",
+        "During the 1980s, Moldovan and Ukrainian ethnologists collaborated on the scientific collection titled 'Ukrainian-Moldovan Relations in the Period of Socialism,' which documented the histories of Moldovans [[coal-in-ukraine|in Ukraine]] and [[ukrainians|Ukrainians]] in Moldova."
+      ]
+    },
+    {
+      "heading": "Post-Independence Relations",
+      "paragraphs": [
+        "Ukraine recognized the independence of Moldova on December 21, 1991, and established diplomatic relations on March 10, 1992. The first official visit by President [[leonid-kravchuk|Leonid Kravchuk]] to Moldova occurred on October 23, 1992, during which the 'Treaty of Good Neighborliness, Friendship and Cooperation between Ukraine and the Republic of Moldova' was signed.",
+        "In 2001, Moldova and Ukraine, along with Georgia and Azerbaijan, founded the Organization for Democracy and Economic Development (GUAM)."
+      ]
+    },
+    {
+      "heading": "Economic Cooperation and Challenges",
+      "paragraphs": [
+        "From 2005 onward, Ukraine progressively granted Moldova several economic privileges, including gas and electricity supplies at reduced rates. Ukraine also allowed the European Union to monitor the Ukrainian-Moldovan border and implemented a unified customs procedure for the Transnistrian segment of the border.",
+        "Despite these advancements, unresolved issues persist, such as the lack of authorization for Aerosvit to operate daily flights to Chișinău and ongoing challenges with rail transport due to the Transnistrian conflict. Additionally, Moldova has not yet transferred the [[odesa|Odesa]]–Reni highway section to Ukraine, as stipulated in a 2001 treaty."
+      ]
+    },
+    {
+      "heading": "Political Dynamics and Recent Developments",
+      "paragraphs": [
+        "Under President Igor Dodon, Moldova's relations with Ukraine experienced a downturn due to Dodon's pro-Russian stance. Nonetheless, Moldova's government maintained cordial ties with [[kyiv|Kyiv]], with Prime Minister Pavel Filip affirming Moldova's support for Ukraine's sovereignty.",
+        "The election of pro-European Maia Sandu in 2020 marked a shift in relations, as she visited Kyiv in January 2021 and met with [[volodymyr-zelenskyy|President Volodymyr Zelenskyy]] to discuss bilateral issues. On February 24, 2022, Sandu condemned [[full-scale-russo-ukrainian-war|Russia's invasion of Ukraine]], reinforcing Moldova's support for Ukraine's territorial integrity.",
+        "On June 26, 2026, Ukraine's Minister of Foreign Affairs announced the inclusion of Moldova in a list of countries eligible for dual citizenship, facilitating citizenship for ethnic Ukrainians from Moldova."
+      ]
+    },
+    {
+      "heading": "Diplomatic Missions",
+      "paragraphs": [
+        "Moldova maintains an embassy in Kyiv and a consulate-general in Odesa, while Ukraine has an embassy in Chișinău and a consulate in Bălți. These diplomatic missions play a crucial role in fostering bilateral relations and addressing mutual interests."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "leonid-kravchuk",
+    "national-academy-of-sciences-of-ukraine",
+    "odesa",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "ukrainians",
+    "verkhovna-rada",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "Moldova–Ukraine relations — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Moldova–Ukraine_relations",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

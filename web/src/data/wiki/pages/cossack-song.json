@@ -1,0 +1,68 @@
+{
+  "qid": "Q12111341",
+  "slug": "cossack-song",
+  "title": "Cossack song",
+  "type": "music genre",
+  "category": "history",
+  "aliases": [
+    "cosaques",
+    "kozaki"
+  ],
+  "infobox": {
+    "label": "music genre",
+    "fields": []
+  },
+  "summary": "Cossack songs are a genre of folk music that originated among the Cossacks of Ukraine, particularly during the 16th and 17th centuries. These songs reflect the historical and cultural experiences of the Cossack community, emphasizing themes of heroism, separation, and the bond with horses.",
+  "sections": [
+    {
+      "heading": "Origins and Historical Context",
+      "paragraphs": [
+        "Cossack songs emerged in the 16th and 17th centuries among the Zaporozhian and Registered [[cossacks|Cossacks]] of [[ukraine|Ukraine]]. They often highlight the names and achievements of notable [[ukrainian|Ukrainian]] Cossack leaders such as Dmytro Vyshnevetsky, [[bohdan-khmelnytsky|Bohdan Khmelnytsky]], and [[ivan-mazepa|Ivan Mazepa]]."
+      ]
+    },
+    {
+      "heading": "Themes and Musical Characteristics",
+      "paragraphs": [
+        "The subjects of Ukrainian Cossack songs include themes of battle heroism, military life, separation from loved ones, and the uncertainties of fate. The horse, a vital companion to the Cossacks, is frequently celebrated in these songs. Musically, Cossack songs can be categorized into marches, lyrical chants, polyphonic compositions, and solo pieces."
+      ]
+    },
+    {
+      "heading": "Research and Documentation",
+      "paragraphs": [
+        "In the early 20th century, musicologist Dmytro Revutsky studied Ukrainian Cossack songs, publishing collections in 1927. However, research faced restrictions after [[soviet-union|the Soviet Union]]'s policies against [[ukrainization|Ukrainization]] in 1932. The first comprehensive transcription of Cossack songs was published in 1997 by [[bandura|bandura]] player Victor Kyrylenko, with further expeditions conducted in the early 2000s by [[dnipro|Dnipropetrovsk]] National University."
+      ]
+    },
+    {
+      "heading": "Notable Cossack Songs",
+      "paragraphs": [
+        "Prominent Cossack songs include 'Black soil is turned upside down,' 'Lovely, brothers, lovely,' and 'Oh, on the mountain a fire is burning.' Other significant titles are 'Song about Baida,' 'The Cossacks were ready to march at dawn,' and 'The Cossack rode beyond the Danube.'"
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Cossack songs from the Dnipropetrovsk region are recognized as an intangible cultural heritage in need of urgent safeguarding. The nomination for inclusion in the UNESCO Intangible Cultural Heritage List began in 2014, and in 2016, these songs were officially listed. The songs reflect the experiences of Cossack communities, maintaining a connection to their historical past."
+      ]
+    }
+  ],
+  "links_out": [
+    "bandura",
+    "bohdan-khmelnytsky",
+    "cossacks",
+    "dnipro",
+    "ivan-mazepa",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainization"
+  ],
+  "sources": [
+    {
+      "title": "Cossack songs — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cossack_songs",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-13",
+  "status": "published"
+}

@@ -48,7 +48,7 @@
     {
       "heading": "Historical Significance",
       "paragraphs": [
-        "The etymology of Khortytsia may trace back to the ancient Slavic god Khors. The island has been inhabited for approximately five millennia, with archaeological evidence indicating occupation during the Proto-Indo-European and Scythian periods. Notably, the nearby Small Khortytsia island contains Scythian artifacts and remnants of a Cossack fortress.",
+        "The etymology of Khortytsia may trace back to the ancient Slavic god Khors. The island has been inhabited for approximately five millennia, with archaeological evidence indicating occupation during the Proto-Indo-European and [[scythians|Scythian]] periods. Notably, the nearby Small Khortytsia island contains Scythian artifacts and remnants of a Cossack fortress.",
         "Emperor Constantine VII referenced the island of St. George, located downstream from the rapids, in his work De Administrando Imperio around 950. The island is also mentioned in the Primary Chronicle concerning a military campaign by Sviatopolk II in 1103."
       ]
     },
@@ -76,6 +76,7 @@
   "links_out": [
     "cossacks",
     "dnieper",
+    "scythians",
     "ukraine",
     "zaporizhzhia",
     "zaporozhian-cossacks"
