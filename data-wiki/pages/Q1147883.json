@@ -1,0 +1,77 @@
+{
+  "qid": "Q1147883",
+  "slug": "ruthenia",
+  "title": "Ruthenia",
+  "type": "region",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "region",
+    "fields": []
+  },
+  "summary": "Ruthenia is a historical region associated with the East Slavic peoples, particularly Ukrainians and Belarusians, encompassing parts of modern Belarus, Ukraine, Eastern Poland, and western Russia. The term has evolved over centuries, reflecting the complex historical and cultural ties of these territories to Ukraine.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Ruthenia, derived from Medieval Latin, was initially an exonym for the region known as Rus'. The term '[[rusyns|Ruthenians]]' referred to the East Slavic and Eastern Orthodox populations within the Grand Duchy of Lithuania and the Kingdom of Poland, later encompassing the Polish–Lithuanian Commonwealth and Austria-Hungary, primarily identifying [[ukrainians|Ukrainians]] and sometimes Belarusians.",
+        "Historically, Ruthenia referred broadly to all territories under the dominion of [[kievan-rus|Kievan Rus]]', particularly significant in the context of [[history-of-ukraine|Ukrainian history]]."
+      ]
+    },
+    {
+      "heading": "Geographical and Political Significance",
+      "paragraphs": [
+        "The Kingdom of [[galicia|Galicia]] and Lodomeria (1772–1918), which included parts of [[western-ukraine|Western Ukraine]], was known as Ruthenia, with its inhabitants referred to as Ruthenians. This area played a crucial role in the development of [[ukrainian|Ukrainian]] national identity, particularly during the 19th and 20th centuries.",
+        "The term 'Rusyn' is now predominantly used by a minority in the [[carpathians|Carpathian Mountains]], reflecting the historical identity of the people in this region."
+      ]
+    },
+    {
+      "heading": "Etymology and Early References",
+      "paragraphs": [
+        "The term Ruthenia originated as a Latin designation for the lands called Rus' by its inhabitants. It appeared in the 1520 Latin treatise by Johann Boemus, which described a territory extending from the Baltic to the Caspian Sea, highlighting its resources and the significant city of Moscow.",
+        "European manuscripts from the 11th century began using 'Ruthenia' to describe the broader area of Kievan Rus', illustrating the early connections between this term and the Ukrainian territories."
+      ]
+    },
+    {
+      "heading": "Cultural and Ethnic Identity",
+      "paragraphs": [
+        "In the early modern period, Ruthenia became associated with the lands of the Polish Crown and the [[cossack-hetmanate|Cossack Hetmanate]]. [[bohdan-khmelnytsky|Bohdan Khmelnytsky]]'s declaration of a [[ruthenian|Ruthenian]] state in 1649 marked a significant assertion of identity.",
+        "Post-1918, the term Ruthenia was confined to the area south of the Carpathians, known as [[transcarpathia|Carpathian Ruthenia]], which is now part of [[ukraine|Ukraine]]'s [[zakarpattia-oblast|Zakarpattia Oblast]]. The Carpatho-Ruthenians, who inhabit this region, continue to navigate their identity amidst the broader Ukrainian national narrative."
+      ]
+    },
+    {
+      "heading": "Modern Developments",
+      "paragraphs": [
+        "Following the dissolution of [[soviet-union|the Soviet Union]], the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] has recognized Rusyns as part of the Ukrainian nation, although some individuals in Zakarpattia identify primarily as Rusyn. This reflects the ongoing complexities of national identity [[coal-in-ukraine|in Ukraine]], where historical terms and ethnic identities continue to influence contemporary societal dynamics."
+      ]
+    }
+  ],
+  "links_out": [
+    "bohdan-khmelnytsky",
+    "cabinet-of-ministers-of-ukraine",
+    "carpathians",
+    "coal-in-ukraine",
+    "cossack-hetmanate",
+    "galicia",
+    "history-of-ukraine",
+    "kievan-rus",
+    "rusyns",
+    "ruthenian",
+    "soviet-union",
+    "transcarpathia",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "western-ukraine",
+    "zakarpattia-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Ruthenia — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ruthenia",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

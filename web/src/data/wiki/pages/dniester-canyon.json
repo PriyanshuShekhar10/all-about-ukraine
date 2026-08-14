@@ -27,7 +27,7 @@
     {
       "heading": "Geographical Location",
       "paragraphs": [
-        "The Dniester Canyon is situated in southwestern [[ukraine|Ukraine]], spanning a 250 km (160 mi) stretch of the [[dniester|Dniester]] River. It extends from the mouth of the Zolota Lypa River near the village of Nyzhniv in [[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]] to the Dniester Hydroelectric Station near Novodnistrovsk in [[chernivtsi-oblast|Chernivtsi Oblast]]. The canyon encompasses areas within [[ternopil|Ternopil]], [[ivano-frankivsk|Ivano-Frankivsk]], [[chernivtsi|Chernivtsi]], and Khmelnytskyi Oblasts, and is located on the Podolian Upland and [[khotyn|Khotyn]] Upland, northeast of the [[carpathians|Carpathian Mountains]].",
+        "The Dniester Canyon is situated in southwestern [[ukraine|Ukraine]], spanning a 250 km (160 mi) stretch of the [[dniester|Dniester]] River. It extends from the mouth of the Zolota Lypa River near the village of Nyzhniv in [[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]] to the Dniester Hydroelectric Station near Novodnistrovsk in [[chernivtsi-oblast|Chernivtsi Oblast]]. The canyon encompasses areas within [[ternopil|Ternopil]], [[ivano-frankivsk|Ivano-Frankivsk]], [[chernivtsi|Chernivtsi]], and [[khmelnytskyi|Khmelnytskyi]] Oblasts, and is located on the Podolian Upland and [[khotyn|Khotyn]] Upland, northeast of the [[carpathians|Carpathian Mountains]].",
         "The canyon reaches depths of 100–200 m (330–660 ft), contributing to its dramatic landscape."
       ]
     },
@@ -66,6 +66,7 @@
     "dniester",
     "ivano-frankivsk",
     "ivano-frankivsk-oblast",
+    "khmelnytskyi",
     "khotyn",
     "ternopil",
     "ukraine",

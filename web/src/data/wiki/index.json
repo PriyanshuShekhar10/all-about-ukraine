@@ -1,5 +1,58 @@
 [
   {
+    "slug": "2004-ukrainian-presidential-election",
+    "title": "2004 Ukrainian presidential election",
+    "type": "Ukrainian presidential election",
+    "category": "politics",
+    "summary": "The 2004 Ukrainian presidential election was a pivotal event [[coal-in-ukraine|in Ukraine]]'s political history, marked by widespread allegations of fraud and the subsequent Orange Revolution. The election culminated in a Supreme Court ruling that invalidated the initial results, leading to a re-run that resulted in Viktor Yushchenko's victory over Viktor Yanukovych.",
+    "aliases": [
+      "Ukrainian presidential election, 2004"
+    ]
+  },
+  {
+    "slug": "2006-ukrainian-parliamentary-election",
+    "title": "2006 Ukrainian parliamentary election",
+    "type": "Ukrainian parliamentary election",
+    "category": "politics",
+    "summary": "The 2006 Ukrainian parliamentary election, held on 26 March 2006, marked a significant political event [[coal-in-ukraine|in Ukraine]], following the constitutional amendments that transformed the country's governance structure. This election was characterized by a party-list proportional representation system and resulted in a coalition government formation amidst political turmoil.",
+    "aliases": [
+      "Ukrainian parliamentary election, 2006"
+    ]
+  },
+  {
+    "slug": "2010-ukrainian-presidential-election",
+    "title": "2010 Ukrainian presidential election",
+    "type": "Ukrainian presidential election",
+    "category": "politics",
+    "summary": "The 2010 Ukrainian presidential election was a significant political event in Ukraine, taking place on 17 January 2010, followed by a run-off on 7 February. Viktor Yanukovych emerged as the President-elect, marking a pivotal moment in Ukraine's political landscape.",
+    "aliases": [
+      "Ukrainian presidential election, 2010"
+    ]
+  },
+  {
+    "slug": "2012-ukrainian-parliamentary-election",
+    "title": "2012 Ukrainian parliamentary election",
+    "type": "Ukrainian parliamentary election",
+    "category": "politics",
+    "summary": "The 2012 parliamentary election [[coal-in-ukraine|in Ukraine]], held on 28 October, marked a significant political event characterized by a mixed electoral system and the emergence of new political parties. This election was notable for being the last in which Crimea participated before its annexation by Russia in 2014.",
+    "aliases": [
+      "2012 ukrainian parliamentary election",
+      "Ukrainian legislative election",
+      "Ukrainian parliamentary election of 2012",
+      "Ukrainian parliamentary election, 2012"
+    ]
+  },
+  {
+    "slug": "2019-ukrainian-presidential-election",
+    "title": "2019 Ukrainian presidential election",
+    "type": "Ukrainian presidential election",
+    "category": "politics",
+    "summary": "The 2019 Ukrainian presidential election, held on 31 March, resulted in a runoff on 21 April between Volodymyr Zelenskyy and incumbent president Petro Poroshenko, with Zelenskyy winning decisively. This election marked a significant political shift in Ukraine, as Poroshenko became the third incumbent president to lose reelection.",
+    "aliases": [
+      "Ukrainian presidential election, 2019"
+    ]
+  },
+  {
     "slug": "2022-kharkiv-counteroffensive",
     "title": "2022 Kharkiv counteroffensive",
     "type": "counter-offensive",
@@ -38,6 +91,16 @@
     "aliases": []
   },
   {
+    "slug": "abakan",
+    "title": "Abakan",
+    "type": "city",
+    "category": "history",
+    "summary": "Abakan is the capital city of Khakassia, Russia, situated at the confluence of the Yenisei and Abakan Rivers. It has a population of 165,214 as recorded in the 2010 Census, reflecting a slight increase from previous decades.",
+    "aliases": [
+      "Ust-Abakanskoe"
+    ]
+  },
+  {
     "slug": "administrative-territorial-entity-of-ukraine",
     "title": "administrative territorial entity of Ukraine",
     "type": "topic",
@@ -74,6 +137,17 @@
     ]
   },
   {
+    "slug": "alina-pash",
+    "title": "Alina Pash",
+    "type": "human",
+    "category": "war",
+    "summary": "Alina Ivanivna Pash, born on May 6, 1993, is a prominent Ukrainian singer, rapper, and songwriter known for her contributions to the music scene in Ukraine. She gained popularity with her single 'Bitanga' in 2018 and has participated in significant cultural events, including the Ukrainian Independence Day celebration and the Eurovision Song Contest selection.",
+    "aliases": [
+      "Alina Ivanivna Pash",
+      "Pash Alina Ivanivna"
+    ]
+  },
+  {
     "slug": "alushta",
     "title": "Alushta",
     "type": "city in Ukraine",
@@ -90,6 +164,21 @@
     "aliases": [
       "Anatoliy Borysovych Solovyanenko",
       "Anatoliy Solovianenko"
+    ]
+  },
+  {
+    "slug": "anatoly-shariy",
+    "title": "Anatoly Shariy",
+    "type": "human",
+    "category": "war",
+    "summary": "Anatoly Anatoliiovych Shariy is a Ukrainian politician, journalist, and YouTuber known for his opposition to the Ukrainian government and his controversial political views. He founded the Party of Shariy in 2019, which participated in Ukrainian elections and was later suspended amid accusations of ties to Russia.",
+    "aliases": [
+      "Anatoli Chariï",
+      "Anatoliy Sharij",
+      "Anatoliy Shariy",
+      "Anatoly Anatoliyevich Shariy",
+      "Anatoly Anatolyevich Shariy",
+      "Anatoly Sharij"
     ]
   },
   {
@@ -111,6 +200,16 @@
     "summary": "Andriy Borysovych Yermak is a Ukrainian politician and former film producer who served as the head of the Office of the President of Ukraine from 2020 to 2025, playing a significant role in the country's political landscape during a critical period of conflict and reform.",
     "aliases": [
       "Andrii Borysovych Yermak"
+    ]
+  },
+  {
+    "slug": "andriivskyi-descent",
+    "title": "Andriivskyi Descent",
+    "type": "descent",
+    "category": "history",
+    "summary": "Andriivskyi Descent, also known as Saint Andrew's Descent, is a historic street in Kyiv that connects the Upper Town and the Podil neighborhood. Renowned for its cultural significance and tourist appeal, the descent features numerous landmarks and has been a focal point for various reconstruction efforts.",
+    "aliases": [
+      "Andriivskyi Uzviz"
     ]
   },
   {
@@ -627,7 +726,7 @@
     "title": "Boryspil",
     "type": "city in Ukraine",
     "category": "geography",
-    "summary": "Boryspil is a city in northern and central [[ukraine|Ukraine]], serving as the administrative center of Boryspil Raion in Kyiv Oblast. With a population of approximately 64,117 as of 2022, it is notable for housing Boryspil International Airport, the largest airport in the country.",
+    "summary": "Boryspil is a city in northern and central [[ukraine|Ukraine]], serving as the administrative center of Boryspil Raion in [[kyiv-oblast|Kyiv Oblast]]. With a population of approximately 64,117 as of 2022, it is notable for housing Boryspil International Airport, the largest airport in the country.",
     "aliases": [
       "Borispol"
     ]
@@ -966,6 +1065,14 @@
     ]
   },
   {
+    "slug": "chop",
+    "title": "Chop",
+    "type": "Wikimedia disambiguation page",
+    "category": "history",
+    "summary": "Chop refers to various subjects, including a city in Ukraine, medical terms, and cultural references. The term is notably associated with the city of Chop, which plays a significant role in the region's geography and transport.",
+    "aliases": []
+  },
+  {
     "slug": "chornomornaftogaz",
     "title": "Chornomornaftogaz",
     "type": "business",
@@ -974,6 +1081,14 @@
     "aliases": [
       "Chornomornaftogazprom"
     ]
+  },
+  {
+    "slug": "chumak",
+    "title": "Chumak",
+    "type": "occupation",
+    "category": "economy",
+    "summary": "Chumak was a historical wagon-based trading occupation in Ukraine during the late Medieval and early Modern periods, characterized by the long-distance transport of goods using oxen-drawn carts. This occupation played a significant role in the trade of various commodities, particularly salt, and influenced Ukrainian culture and folklore.",
+    "aliases": []
   },
   {
     "slug": "chyhyryn",
@@ -1180,6 +1295,16 @@
     "aliases": []
   },
   {
+    "slug": "cyborgs-heroes-never-die",
+    "title": "Cyborgs: Heroes Never Die",
+    "type": "film",
+    "category": "economy",
+    "summary": "Cyborgs: Heroes Never Die is a 2017 Ukrainian war drama film that depicts the experiences of Ukrainian defenders during the Second Battle of Donetsk Airport amidst the ongoing conflict in [[donbas|Donbas]]. The film, which highlights themes of courage and patriotism, was both a critical and commercial success [[coal-in-ukraine|in Ukraine]].",
+    "aliases": [
+      "Heroes Never Die"
+    ]
+  },
+  {
     "slug": "dance-in-ukraine",
     "title": "dance in Ukraine",
     "type": "type of dance",
@@ -1190,11 +1315,19 @@
     ]
   },
   {
+    "slug": "daniel-of-galicia",
+    "title": "Daniel of Galicia",
+    "type": "human",
+    "category": "war",
+    "summary": "Daniel of Galicia (1201–1266) was a significant ruler in Ukrainian history, serving as Prince of Galicia and Volhynia, Grand Prince of Kiev, and King of Ruthenia. His reign marked the restoration of the Romanovichi dynasty's power and the establishment of the Kingdom of Galicia–Volhynia, making him a pivotal figure in the region's political landscape during the Mongol invasions.",
+    "aliases": []
+  },
+  {
     "slug": "danylo-halytsky-lviv-national-medical-university",
     "title": "Danylo Halytsky Lviv National Medical University",
     "type": "university",
     "category": "history",
-    "summary": "Danylo Halytsky Lviv National Medical University (LNMU) is one of the oldest and largest medical institutions in Ukraine, tracing its origins back to 1784. Named after King Daniel of [[galicia|Galicia]], the university has played a significant role in the development of medical [[education-in-ukraine|education in Ukraine]].",
+    "summary": "Danylo Halytsky Lviv National Medical University (LNMU) is one of the oldest and largest medical institutions in Ukraine, tracing its origins back to 1784. Named after King [[daniel-of-galicia|Daniel of Galicia]], the university has played a significant role in the development of medical [[education-in-ukraine|education in Ukraine]].",
     "aliases": [
       "Lviv National Medical University",
       "Lvov State Medical Institute"
@@ -1588,6 +1721,16 @@
     "aliases": []
   },
   {
+    "slug": "electricity-in-ukraine",
+    "title": "electricity in Ukraine",
+    "type": "aspect in a geographic region",
+    "category": "economy",
+    "summary": "Electricity generation in Ukraine is primarily nuclear, with a significant focus on energy security and decentralization, particularly in the context of the ongoing Russo-Ukrainian War. The country's electricity infrastructure has faced challenges, including damage from conflict, but efforts are underway to enhance resilience and integrate with European energy markets.",
+    "aliases": [
+      "electricity sector in Ukraine"
+    ]
+  },
+  {
     "slug": "energoatom",
     "title": "Energoatom",
     "type": "joint-stock company",
@@ -1771,6 +1914,14 @@
     ]
   },
   {
+    "slug": "gorodok",
+    "title": "Gorodok",
+    "type": "Wikimedia disambiguation page",
+    "category": "people",
+    "summary": "Gorodok is a term that can refer to various locations and entities, particularly in [[eastern-europe|Eastern Europe]], including connections to Ukraine. It encompasses several inhabited localities, historical military operations, and cultural references.",
+    "aliases": []
+  },
+  {
     "slug": "great-famine",
     "title": "Great Famine",
     "type": "Wikimedia disambiguation page",
@@ -1807,6 +1958,31 @@
     "aliases": []
   },
   {
+    "slug": "gullivers-travels",
+    "title": "Gulliver's Travels",
+    "type": "literary work",
+    "category": "economy",
+    "summary": "Gulliver's Travels is a 1726 satirical prose novel by Jonathan Swift that critiques human nature through the adventures of Lemuel Gulliver in various fantastical lands. Its themes and insights remain relevant in literary discussions, including those in Ukraine, where its social commentary resonates with ongoing societal reflections.",
+    "aliases": [
+      "1726 Gulliver's Travels",
+      "Travels into Several Remote Nations of the World. In Four parts. By Lemuel Gulliver, First a Surgeon, and then a Captain of Several Ships"
+    ]
+  },
+  {
+    "slug": "haidamaka",
+    "title": "Haidamaka",
+    "type": "paramilitary organization",
+    "category": "war",
+    "summary": "The Haidamaka, also known as haidamakas or haidamaky, were Ukrainian Cossack paramilitaries active in the eastern regions of the Polish-Lithuanian Commonwealth during the 18th century. Their emergence was fueled by ethnic, social, and religious tensions, leading to several significant uprisings against Polish nobility.",
+    "aliases": [
+      "Haidamak",
+      "Haidamaks",
+      "Haydamak",
+      "Haydamaka",
+      "Haydamaks"
+    ]
+  },
+  {
     "slug": "halič",
     "title": "Halič",
     "type": "municipality of Slovakia",
@@ -1833,6 +2009,14 @@
       "Hanna Vasylivna Maliar",
       "Hanna Vasylivna Malyar"
     ]
+  },
+  {
+    "slug": "henichesk",
+    "title": "Henichesk",
+    "type": "city in Ukraine",
+    "category": "economy",
+    "summary": "Henichesk is a port city situated along the Sea of Azov in [[kherson-oblast|Kherson Oblast]], southern Ukraine, functioning as the administrative center of Henichesk Raion. As of January 2022, it had an estimated population of 18,889 and has been under Russian occupation since the 2022 invasion of Ukraine.",
+    "aliases": []
   },
   {
     "slug": "hennadiy-avdyeyenko",
@@ -2231,6 +2415,14 @@
     ]
   },
   {
+    "slug": "ivan-sirko",
+    "title": "Ivan Sirko",
+    "type": "human",
+    "category": "people",
+    "summary": "Ivan Dmytrovych Sirko (c. 1605 – August 11, 1680) was a prominent Zaporozhian Cossack military leader and Koshovyi Otaman, renowned for his military campaigns against the Ottoman Empire and the Crimean Khanate. His legacy is closely tied to Ukraine's history, particularly through his undefeated record in battle and his role in significant military engagements during the 17th century.",
+    "aliases": []
+  },
+  {
     "slug": "ivano-frankivsk",
     "title": "Ivano-Frankivsk",
     "type": "city of regional significance of Ukraine",
@@ -2250,6 +2442,14 @@
       "Stanisławów",
       "Stanyslaviv"
     ]
+  },
+  {
+    "slug": "ivano-frankivsk-national-technical-university-of-oil-and-gas",
+    "title": "Ivano-Frankivsk National Technical University of Oil and Gas",
+    "type": "university",
+    "category": "geography",
+    "summary": "The Ivano-Frankivsk National Technical University of Oil and Gas is a higher education institution located in [[ivano-frankivsk|Ivano-Frankivsk]], [[ukraine|Ukraine]], established in 1967. It specializes in training professionals for the oil and gas sectors while also offering programs in economics, management, and law relevant to the energy industry.",
+    "aliases": []
   },
   {
     "slug": "ivano-frankivsk-oblast",
@@ -2401,6 +2601,30 @@
     "aliases": [
       "Cossack-Polish War",
       "Khmelnytsky insurrection"
+    ]
+  },
+  {
+    "slug": "khmelnytskyi",
+    "title": "Khmelnytskyi",
+    "type": "centre of oblast",
+    "category": "geography",
+    "summary": "Khmelnytskyi is a city in [[western-ukraine|western Ukraine]], serving as the administrative center of Khmelnytskyi Oblast and Khmelnytskyi Raion. With a population of 274,452 as of 2022, it is the second-largest city in the historical region of Podolia, following [[vinnytsia|Vinnytsia]].",
+    "aliases": [
+      "Chmelnitski",
+      "Chmielnicki",
+      "Khmel'nyts'kyy",
+      "Khmelnitski",
+      "Khmelnitskii",
+      "Khmelnytsky",
+      "Khmelnytskyy",
+      "Kiemieliszki",
+      "Kimlishuk",
+      "Proskuriv",
+      "Proskurov",
+      "Proskurow",
+      "Proskurów",
+      "Płoskirow",
+      "Płoskirów"
     ]
   },
   {
@@ -2701,6 +2925,25 @@
       "Kyiv National Economic University",
       "Kyiv National Economics University named after Vadym Hetman",
       "kneu.edu.ua"
+    ]
+  },
+  {
+    "slug": "kyiv-national-university-of-culture-and-arts",
+    "title": "Kyiv National University of Culture and Arts",
+    "type": "educational institution",
+    "category": "people",
+    "summary": "The Kyiv National University of Culture and Arts (KNUCA) is a prominent educational institution located in Kyiv, Ukraine, recognized for its high level of accreditation and diverse academic programs in culture and arts.",
+    "aliases": []
+  },
+  {
+    "slug": "kyiv-oblast",
+    "title": "Kyiv Oblast",
+    "type": "oblast of Ukraine",
+    "category": "politics",
+    "summary": "Kyiv Oblast, also known as Kyivshchyna, is a province in central and northern Ukraine that encircles the city of Kyiv. It plays a significant role in Ukraine's urban economy and transportation, with a population of approximately 1,795,079 as of 2022.",
+    "aliases": [
+      "Kyiv Region",
+      "Kyivshchyna"
     ]
   },
   {
@@ -3153,6 +3396,16 @@
     ]
   },
   {
+    "slug": "mikhail-kovalchuk",
+    "title": "Mikhail Kovalchuk",
+    "type": "human",
+    "category": "history",
+    "summary": "Mikhail Valentinovich Kovalchuk is a Russian physicist and official, born on September 21, 1946. He is notably the brother of Yury Kovalchuk, who is recognized as a significant financial figure within the Russian political landscape.",
+    "aliases": [
+      "Mikhail Valentinovich Kovalchuk"
+    ]
+  },
+  {
     "slug": "mikhail-lomonosov",
     "title": "Mikhail Lomonosov",
     "type": "human",
@@ -3488,6 +3741,23 @@
     ]
   },
   {
+    "slug": "national-art-museum-of-ukraine",
+    "title": "National Art Museum of Ukraine",
+    "type": "art museum",
+    "category": "culture",
+    "summary": "The National Art Museum of Ukraine, located in Kyiv, is a prominent institution dedicated to the preservation and exhibition of Ukrainian art. Established at the end of the 19th century, it houses an extensive collection that spans from [[kievan-rus|Kievan Rus]]' to contemporary works.",
+    "aliases": [
+      "Kyiv Museum of Ukrainian Art",
+      "Kyiv State Museum of Ukrainian Art",
+      "NKhMU",
+      "National Art Museum Ukraine",
+      "National Art Museum of Ukraine (Kyiv)",
+      "National Art Museum of Ukraine Kyiv",
+      "National Art Museum of Ukraine in Kyiv",
+      "The National Art Museum of Ukraine"
+    ]
+  },
+  {
     "slug": "national-ballet-of-ukraine",
     "title": "National Ballet of Ukraine",
     "type": "ballet company",
@@ -3617,6 +3887,19 @@
     ]
   },
   {
+    "slug": "nikita-khrushchev",
+    "title": "Nikita Khrushchev",
+    "type": "human",
+    "category": "history",
+    "summary": "Nikita Sergeyevich Khrushchev was a prominent Soviet leader, serving as First Secretary of the Communist Party of the Soviet Union from 1953 to 1964 and Chairman of the Council of Ministers from 1958 to 1964. His political career was marked by significant events such as the denunciation of Joseph Stalin and the Cuban Missile Crisis, with deep connections to Ukraine throughout his life.",
+    "aliases": [
+      "Khrushchov",
+      "Khrushchyov",
+      "Nikita Sergeyevich Khrushchov",
+      "Nikita Sergeyevich Khrushchyov"
+    ]
+  },
+  {
     "slug": "nikolai-gogol",
     "title": "Nikolai Gogol",
     "type": "human",
@@ -3727,6 +4010,18 @@
     ]
   },
   {
+    "slug": "odesa-international-airport",
+    "title": "Odesa International Airport",
+    "type": "international airport",
+    "category": "politics",
+    "summary": "Odesa International Airport is an international airport located in Odesa, Ukraine's third largest city, approximately 7 km southwest of the city center. It has been significantly impacted by the ongoing Russo-Ukrainian War, particularly since the closure of airspace to civilian flights on 24 February 2022.",
+    "aliases": [
+      "ODS",
+      "Odesa Airport",
+      "UKOO"
+    ]
+  },
+  {
     "slug": "odesa-international-film-festival",
     "title": "Odesa International Film Festival",
     "type": "film festival",
@@ -3736,6 +4031,14 @@
       "OIFF",
       "Odessa International Film Festival"
     ]
+  },
+  {
+    "slug": "odesa-national-maritime-university",
+    "title": "Odesa National Maritime University",
+    "type": "university",
+    "category": "geography",
+    "summary": "Odesa National Maritime University is a public institution located in Odesa, Ukraine, specializing in maritime education. Established in 1930, it has educated students from more than 90 countries in fields pertinent to the maritime industry.",
+    "aliases": []
   },
   {
     "slug": "odesa-oblast",
@@ -3877,6 +4180,19 @@
     ]
   },
   {
+    "slug": "operation-vistula",
+    "title": "Operation Vistula",
+    "type": "military operation",
+    "category": "history",
+    "summary": "Operation Vistula was a military operation conducted in 1947 that involved the ethnic cleansing, deportation, and forced resettlement of nearly 150,000 Ukrainians, [[rusyns|Rusyns]], Boykos, and Lemkos from southeastern Poland to the northern and western territories of the country. This operation aimed to suppress the Ukrainian Insurgent Army and significantly impacted the Ukrainian population in Poland.",
+    "aliases": [
+      "Akcja ‘Wisła’",
+      "Akcja ‘W’",
+      "Operation Wisla",
+      "Operation Wisła"
+    ]
+  },
+  {
     "slug": "orange-revolution",
     "title": "Orange Revolution",
     "type": "revolution",
@@ -3891,6 +4207,16 @@
     "category": "history",
     "summary": "Orel refers to various geographical locations, vehicles, and cultural references, with notable connections to Ukraine through the Oril river.",
     "aliases": []
+  },
+  {
+    "slug": "organization-of-ukrainian-nationalists",
+    "title": "Organization of Ukrainian Nationalists",
+    "type": "political party",
+    "category": "politics",
+    "summary": "The Organization of Ukrainian Nationalists (OUN) was a significant Ukrainian nationalist group founded on February 2, 1929, in Vienna, which played a crucial role in the political landscape of [[ukraine|Ukraine]] during the interwar period and World War II. The OUN aimed to establish an ethnically homogeneous Ukrainian state through radical nationalist ideologies and violent tactics.",
+    "aliases": [
+      "OUN"
+    ]
   },
   {
     "slug": "oschadbank",
@@ -3953,6 +4279,17 @@
     ]
   },
   {
+    "slug": "pavlo-klimkin",
+    "title": "Pavlo Klimkin",
+    "type": "human",
+    "category": "war",
+    "summary": "Pavlo Klimkin is a prominent Ukrainian diplomat who served as the Minister of Foreign Affairs from June 19, 2014, to August 29, 2019. His diplomatic career has significantly influenced Ukraine's foreign relations, particularly in the context of European integration and negotiations with Russia.",
+    "aliases": [
+      "Pavlo Anatoliiovych Klimkin",
+      "Pavlo Anatoliyovych Klimkin"
+    ]
+  },
+  {
     "slug": "pavlo-tychyna",
     "title": "Pavlo Tychyna",
     "type": "human",
@@ -3961,6 +4298,16 @@
     "aliases": [
       "Pavlo H. Tychyna",
       "Pavlo Hryhorovych Tychyna"
+    ]
+  },
+  {
+    "slug": "pavlo-tychyna-museum",
+    "title": "Pavlo Tychyna Museum",
+    "type": "literary museum",
+    "category": "culture",
+    "summary": "The Pavlo Tychyna Museum, officially known as the Literary and Memorial Museum of Pavlo Tychyna, is located in [[kyiv|Kyiv]], [[ukraine|Ukraine]], and is dedicated to the life and works of the Ukrainian writer [[pavlo-tychyna|Pavlo Tychyna]].",
+    "aliases": [
+      "Literary and Memorial Museum of Pavlo Tychyna"
     ]
   },
   {
@@ -4187,7 +4534,7 @@
     "title": "Pripyat",
     "type": "lost city",
     "category": "culture",
-    "summary": "Pripyat, an abandoned industrial city in [[kyiv|Kyiv]] Oblast, [[ukraine|Ukraine]], was founded on 4 February 1970 and is closely associated with the Chernobyl Nuclear Power Plant. The city was evacuated following the Chernobyl disaster on 27 April 1986, leading to its abandonment and subsequent historical significance.",
+    "summary": "Pripyat, an abandoned industrial city in [[kyiv-oblast|Kyiv Oblast]], [[ukraine|Ukraine]], was founded on 4 February 1970 and is closely associated with the Chernobyl Nuclear Power Plant. The city was evacuated following the Chernobyl disaster on 27 April 1986, leading to its abandonment and subsequent historical significance.",
     "aliases": [
       "Pripyat'",
       "Prypiat",
@@ -4236,6 +4583,26 @@
     "category": "culture",
     "summary": "Psycho-Pass is a Japanese cyberpunk psychological thriller anime series that aired from October 2012 to March 2013, produced by Production I.G. The series explores themes of governance and morality within a dystopian society, and its relevance extends to Ukraine through discussions of surveillance and authoritarianism.",
     "aliases": []
+  },
+  {
+    "slug": "pyotr-ilyich-tchaikovsky",
+    "title": "Pyotr Ilyich Tchaikovsky",
+    "type": "human",
+    "category": "culture",
+    "summary": "Pyotr Ilyich Tchaikovsky was a prominent Russian composer of the Romantic era, born on 7 May 1840 and passing away on 6 November 1893. His works, which include notable pieces such as the 1812 Overture and the ballets Swan Lake and The Nutcracker, have had a lasting impact on classical music and are significant within the cultural context of Ukraine.",
+    "aliases": [
+      "Chaikovsky",
+      "Chajkovskij",
+      "Peter Ilich Tchaikovsky",
+      "Peter Tchaikovsky",
+      "Piotr Ilyitch Tchaikovsky",
+      "Pyotr Il'ich Chaikovskiy",
+      "Pyotr Il'yich Tchaikovsky",
+      "Pyotr Tchaikovsky",
+      "Tchaikovsky",
+      "Tschaikowski",
+      "Tschaikowsky"
+    ]
   },
   {
     "slug": "pyriatyn",
@@ -4392,6 +4759,18 @@
     "aliases": []
   },
   {
+    "slug": "rus-khaganate",
+    "title": "Rus' Khaganate",
+    "type": "historical country",
+    "category": "politics",
+    "summary": "The Rus' Khaganate, a term used by historians, refers to a proposed political entity believed to have existed in Eastern Europe from approximately 830 to the 890s. Its connection to the early formation of Kievan Rus', a significant historical state [[coal-in-ukraine|in Ukraine]], remains a topic of scholarly debate.",
+    "aliases": [
+      "Khaganate of Rus",
+      "Khaganate of Rus'",
+      "Rus Khaganate"
+    ]
+  },
+  {
     "slug": "rus-people",
     "title": "Rus' people",
     "type": "ethnic group",
@@ -4528,6 +4907,14 @@
     ]
   },
   {
+    "slug": "ruthenia",
+    "title": "Ruthenia",
+    "type": "region",
+    "category": "people",
+    "summary": "Ruthenia is a historical region associated with the East Slavic peoples, particularly Ukrainians and Belarusians, encompassing parts of modern Belarus, Ukraine, Eastern Poland, and western Russia. The term has evolved over centuries, reflecting the complex historical and cultural ties of these territories to Ukraine.",
+    "aliases": []
+  },
+  {
     "slug": "ruthenian",
     "title": "Ruthenian",
     "type": "dead language",
@@ -4579,6 +4966,19 @@
     "summary": "Salo, also known as slanina, is a traditional European food made from salt-cured pork fat, particularly significant in [[ukrainian-cuisine|Ukrainian cuisine]]. It is characterized by its preparation methods and cultural importance across Central, Eastern, and Southeastern Europe.",
     "aliases": [
       "Slanina"
+    ]
+  },
+  {
+    "slug": "samopomich",
+    "title": "Samopomich",
+    "type": "political party",
+    "category": "war",
+    "summary": "The Association 'Self Reliance' (Ukrainian: Об'єднання «Самопоміч») is a [[political-party-in-ukraine|political party in Ukraine]] that embodies liberal conservative and Christian democratic ideologies. Founded on 29 December 2012, it has its roots in the Ukrainian cooperative movement and has participated in various elections, achieving notable successes and challenges.",
+    "aliases": [
+      "Self Help",
+      "Self Reliance",
+      "Self-Help",
+      "Self-Reliance"
     ]
   },
   {
@@ -4723,6 +5123,14 @@
     "type": "state decoration",
     "category": "people",
     "summary": "The Shevchenko National Prize is the highest state award [[coal-in-ukraine|in Ukraine]] for achievements in culture and arts, established in 1961 and named after the influential Ukrainian poet Taras Shevchenko. It recognizes outstanding contributions across various artistic fields, reflecting the nation's cultural heritage.",
+    "aliases": []
+  },
+  {
+    "slug": "siberia",
+    "title": "Siberia",
+    "type": "region",
+    "category": "economy",
+    "summary": "Siberia is a vast geographical region that encompasses all of North Asia, extending from the Ural Mountains to the Pacific Ocean. It has been part of Russia since the late 16th century and holds historical significance, including its cultural connections to various ethnic groups, some of which are relevant to Ukraine's historical narratives.",
     "aliases": []
   },
   {
@@ -4897,6 +5305,31 @@
     ]
   },
   {
+    "slug": "state-university-of-trade-and-economics",
+    "title": "State University of Trade and Economics",
+    "type": "national university",
+    "category": "geography",
+    "summary": "The State University of Trade and Economics (SUTE) is a prominent [[ukrainian|Ukrainian]] institution located in Kyiv, specializing in trade and economics education. Established from the Kyiv branch of the All-Union Correspondence Institute of Soviet Trade in 1946, the university has undergone several transformations and name changes, reflecting its evolving role in Ukraine's higher education landscape.",
+    "aliases": [
+      "KITE",
+      "KNUTE",
+      "KSUTE",
+      "KTEI",
+      "Kyiv Institute of Trade and Economics",
+      "Kyiv National University of Trade and Economics",
+      "Kyiv State Trade and Economics University",
+      "Kyiv State University of Trade and Economics",
+      "Kyiv Trade Economics Institute",
+      "Kyiv branch of Donetsk Institute of Soviet Trade",
+      "Kyiv branch of Kharkiv Institute of Soviet Trade",
+      "Kyiv branch of the All-Union Correspondence Institute of Soviet Trade",
+      "NUTE",
+      "National Trade Economics University of Kyiv",
+      "National University of Trade and Economics",
+      "SUTE"
+    ]
+  },
+  {
     "slug": "sudak",
     "title": "Sudak",
     "type": "city or town",
@@ -4924,6 +5357,14 @@
       "Sumshchyna",
       "Sums’ka oblast"
     ]
+  },
+  {
+    "slug": "sviatohirsk-lavra",
+    "title": "Sviatohirsk Lavra",
+    "type": "monastery",
+    "category": "war",
+    "summary": "Sviatohirsk Lavra, officially known as the Holy Mountains Lavra of the Holy Dormition, is a significant Orthodox Christian monastery located in eastern Ukraine, near the town of Sviatohirsk in [[donetsk-oblast|Donetsk Oblast]]. Established in the 15th century, it has a rich history marked by periods of closure, restoration, and recent conflict.",
+    "aliases": []
   },
   {
     "slug": "sviatoshyn",
@@ -5303,6 +5744,16 @@
     ]
   },
   {
+    "slug": "ukrainian-canadian-congress",
+    "title": "Ukrainian Canadian Congress",
+    "type": "organization",
+    "category": "people",
+    "summary": "The Ukrainian Canadian Congress (UCC) is a nonprofit umbrella organization representing Ukrainian-Canadian political, cultural, and religious groups, established in 1940. The UCC plays a significant role in advocating for the interests of Ukrainian Canadians and maintaining connections to Ukraine.",
+    "aliases": [
+      "The Ukrainian Canadian Congress"
+    ]
+  },
+  {
     "slug": "ukrainian-carpathians",
     "title": "Ukrainian Carpathians",
     "type": "mountain range",
@@ -5316,6 +5767,14 @@
     "type": "Wikimedia disambiguation page",
     "category": "people",
     "summary": "The term 'Ukrainian Civil War' encompasses several significant conflicts in Ukraine's history, primarily during the early 20th century. These conflicts played a crucial role in shaping Ukraine's national identity and political landscape.",
+    "aliases": []
+  },
+  {
+    "slug": "ukrainian-contemporary-art",
+    "title": "Ukrainian Contemporary Art",
+    "type": "topic",
+    "category": "culture",
+    "summary": "Ukrainian contemporary art represents a diverse array of artistic practices that have evolved in Ukraine from the late Soviet era to the present, influenced by historical events such as the collapse of [[soviet-union|the Soviet Union]], the establishment of an [[independent-ukraine|independent Ukraine]], and ongoing conflicts. This art form encompasses various media including painting, sculpture, installation, performance, and socially engaged art, reflecting the social and political realities of the nation.",
     "aliases": []
   },
   {
@@ -5713,6 +6172,16 @@
     ]
   },
   {
+    "slug": "ukrainian-world-congress",
+    "title": "Ukrainian World Congress",
+    "type": "international organization",
+    "category": "people",
+    "summary": "The Ukrainian World Congress (UWC) is a non-profit, nonpartisan international organization that coordinates Ukrainian public organizations in the diaspora. Founded in 1967 and renamed in 1993, the UWC advocates for the interests of Ukrainians globally and supports Ukraine's sovereignty and cultural identity.",
+    "aliases": [
+      "World Congress of Free Ukrainians"
+    ]
+  },
+  {
     "slug": "ukrainians",
     "title": "Ukrainians",
     "type": "ethnic group",
@@ -5796,6 +6265,19 @@
     "aliases": []
   },
   {
+    "slug": "uzhhorod-national-university",
+    "title": "Uzhhorod National University",
+    "type": "university",
+    "category": "culture",
+    "summary": "Uzhhorod National University (UzhNU) is a prominent state-sponsored university located in Uzhhorod, Ukraine, founded on October 18, 1945. It is recognized for its extensive academic programs and significant contributions to education and research in the region.",
+    "aliases": [
+      "State Higher Education Establishment \"Uzhhorod National University\"",
+      "State University \"Uzhhorod National University\"",
+      "Uzhgorod State University",
+      "Uzhhorod State University"
+    ]
+  },
+  {
     "slug": "varenyky",
     "title": "varenyky",
     "type": "type of pasta",
@@ -5803,6 +6285,28 @@
     "summary": "Varenyky are traditional Ukrainian dumplings made from unleavened dough filled with various ingredients, making them a significant part of Ukrainian cuisine and culture.",
     "aliases": [
       "pyrohy"
+    ]
+  },
+  {
+    "slug": "vasyl-krychevsky",
+    "title": "Vasyl Krychevsky",
+    "type": "human",
+    "category": "culture",
+    "summary": "Vasyl Hryhorovych Krychevsky was a prominent Ukrainian painter, architect, art scholar, graphic artist, and educator, recognized for his contributions to Ukrainian art and design, including the 1918 Ukrainian coat of arms and state seals.",
+    "aliases": [
+      "V. H. Krychevs'kyĭ",
+      "Vasilij Grigor'evič Kričevskij",
+      "Vasily Krichevski",
+      "Vasily Krichevsky",
+      "Vasyl H. Krychevsky",
+      "Vasyl Hryhorovych Krychevs'kyĭ",
+      "Vasyl Hryhorovych Krychevsky",
+      "Vasyl Hryhorovych Krychevskyi",
+      "Vasyl Krychevskyi",
+      "Vasyl' Hryhorovyč Kryčevs'kyj",
+      "Vasyl' Kkrychevs'ky",
+      "Vasyl' Krychevs'ky",
+      "Wassil Grigorowitsch Kritschewskij"
     ]
   },
   {
@@ -5832,6 +6336,14 @@
     "type": "human",
     "category": "politics",
     "summary": "Vasyl Andriiovych Symonenko (8 January 1935 – 13 December 1963) was a prominent Ukrainian poet, journalist, and activist associated with the dissident movement, recognized as a key figure in early 1960s [[ukrainian-literature|Ukrainian literature]]. His works and untimely death significantly influenced the national democratic movement [[coal-in-ukraine|in Ukraine]].",
+    "aliases": []
+  },
+  {
+    "slug": "vasylivka",
+    "title": "Vasylivka",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "summary": "Vasylivka is a city located in the [[zaporizhzhia-oblast|Zaporizhzhia Oblast]] of southern Ukraine, serving as the administrative center of Vasylivka Raion. As of 2022, the population is estimated at 12,567, and the city is situated on the banks of the Kakhovka Reservoir on the Dnieper River.",
     "aliases": []
   },
   {
@@ -5959,6 +6471,23 @@
     ]
   },
   {
+    "slug": "vladimir-lenin",
+    "title": "Vladimir Lenin",
+    "type": "human",
+    "category": "history",
+    "summary": "Vladimir Lenin, born Vladimir Ilyich Ulyanov, was a significant Russian revolutionary and political theorist who played a crucial role in the establishment of Soviet governance. His actions and ideologies had a profound impact on Ukraine, particularly during the tumultuous events surrounding the Russian Revolution and the subsequent formation of the Soviet Union.",
+    "aliases": [
+      "V. I. Ul'yanov",
+      "V. I. Ulyanov",
+      "Vl llyin",
+      "Vladimir Il'ich Lenin",
+      "Vladimir Il'ich Ul'yanov",
+      "Vladimir Ilyich Lenin",
+      "Vladimir Ul'yanov",
+      "Vladimir Ulyanov"
+    ]
+  },
+  {
     "slug": "vladimir-putin",
     "title": "Vladimir Putin",
     "type": "human",
@@ -5998,7 +6527,7 @@
     "title": "Volhynia",
     "type": "Ukrainian historical regions",
     "category": "history",
-    "summary": "Volhynia, a historic region in Central and [[eastern-europe|Eastern Europe]], is primarily located in northwestern Ukraine and has significant historical and cultural relevance to the country. It encompasses parts of several Ukrainian oblasts, including Volyn, [[rivne|Rivne]], and portions of [[zhytomyr|Zhytomyr]], [[ternopil|Ternopil]], and Khmelnytskyi Oblasts.",
+    "summary": "Volhynia, a historic region in Central and [[eastern-europe|Eastern Europe]], is primarily located in northwestern Ukraine and has significant historical and cultural relevance to the country. It encompasses parts of several Ukrainian oblasts, including Volyn, [[rivne|Rivne]], and portions of [[zhytomyr|Zhytomyr]], [[ternopil|Ternopil]], and [[khmelnytskyi|Khmelnytskyi]] Oblasts.",
     "aliases": [
       "Volyn",
       "Volynia"
@@ -6091,6 +6620,14 @@
     ]
   },
   {
+    "slug": "west-ukrainian-national-university",
+    "title": "West Ukrainian National University",
+    "type": "university",
+    "category": "geography",
+    "summary": "West Ukrainian National University (WUNU) is a state-sponsored institution established in 1966 in Ternopil, [[ukraine|Ukraine]]. It is recognized as one of the leading public universities in the region and has notable alumni, including former [[president-of-ukraine|Ukrainian President]] [[viktor-yushchenko|Viktor Yushchenko]].",
+    "aliases": []
+  },
+  {
     "slug": "west-ukrainian-peoples-republic",
     "title": "West Ukrainian People's Republic",
     "type": "historical country",
@@ -6153,6 +6690,14 @@
     ]
   },
   {
+    "slug": "yaremche",
+    "title": "Yaremche",
+    "type": "city of regional significance of Ukraine",
+    "category": "history",
+    "summary": "Yaremche is a town of regional significance located in Nadvirna Raion, Ivano-Frankivsk Oblast, Ukraine. Situated at an altitude of approximately 580 meters above sea level, it serves as the administrative center of the Yaremche urban hromada and has a population of 7,907 as of 2022.",
+    "aliases": []
+  },
+  {
     "slug": "yelena-gagarina",
     "title": "Yelena Gagarina",
     "type": "human",
@@ -6211,6 +6756,18 @@
     "summary": "Yevhen Mykhailovych Konovalets was a prominent Ukrainian military commander and political leader, instrumental in the Ukrainian nationalist movement during the early 20th century. He is recognized for his leadership in the Ukrainian War of Independence and as the founding leader of the Organisation of Ukrainian Nationalists (OUN).",
     "aliases": [
       "Yevhen Mykhailovych Konovalets"
+    ]
+  },
+  {
+    "slug": "yevpatoriya",
+    "title": "Yevpatoriya",
+    "type": "city or town",
+    "category": "people",
+    "summary": "Yevpatoriya is a city located in western [[crimea|Crimea]], north of Kalamita Bay, serving as the administrative center of Yevpatoria Municipality. As of the 2014 Census, it had a population of 105,719 and is recognized for its historical significance and contemporary role as a resort town within the context of [[ukraine|Ukraine]].",
+    "aliases": [
+      "Eupatoria",
+      "Yevpatoria",
+      "Yevpatoriia"
     ]
   },
   {
@@ -6302,6 +6859,14 @@
     "type": "city in Ukraine",
     "category": "geography",
     "summary": "Zavodske is a city located in Myrhorod Raion, Poltava Oblast, [[ukraine|Ukraine]], serving as the administrative center of the Zavodske urban hromada. As of 2022, the city has a population of 7,712 and is situated in the forest steppe zone of the Dnieper lowland.",
+    "aliases": []
+  },
+  {
+    "slug": "zbarazh-castle",
+    "title": "Zbarazh Castle",
+    "type": "castle",
+    "category": "geography",
+    "summary": "Zbarazh Castle is a fortified stronghold located in Zbarazh, [[ternopil-oblast|Ternopil Oblast]], Ukraine, built during the Polish–Lithuanian Commonwealth period. It has historical significance as a military and aristocratic site, associated with notable families such as the Zbaraski and Wiśniowiecki families.",
     "aliases": []
   },
   {
@@ -6399,11 +6964,27 @@
     "aliases": []
   },
   {
+    "slug": "zorya-mashproekt",
+    "title": "Zorya-Mashproekt",
+    "type": "business",
+    "category": "geography",
+    "summary": "Zorya-Mashproekt is a Ukrainian research and production complex specializing in gas turbine construction, located in Mykolaiv and part of the Ukroboronprom state corporation.",
+    "aliases": []
+  },
+  {
     "slug": "zukra",
     "title": "zukra",
     "type": "topic",
     "category": "culture",
     "summary": "The zukra, also known as zokra or zoughara, is a traditional Libyan bagpipe characterized by its double-chanter and cow horn ends. This instrument plays a significant role in Libyan cultural events such as feasts, weddings, and funerals, and is linked to ancient musical traditions in the region.",
+    "aliases": []
+  },
+  {
+    "slug": "zvenyhorodka",
+    "title": "Zvenyhorodka",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "summary": "Zvenyhorodka is a city located in [[cherkasy-oblast|Cherkasy Oblast]], central Ukraine, serving as the administrative center of Zvenyhorodka Raion. As of 2022, the city has a population of 16,269 and plays a significant role in the region's administrative and economic landscape.",
     "aliases": []
   }
 ]

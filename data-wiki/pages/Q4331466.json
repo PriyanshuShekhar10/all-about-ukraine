@@ -1,0 +1,67 @@
+{
+  "qid": "Q4331466",
+  "slug": "odesa-national-maritime-university",
+  "title": "Odesa National Maritime University",
+  "type": "university",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "university",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1930",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Odesa",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "46.4839, 30.7194",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Odesa National Maritime University is a public institution located in Odesa, Ukraine, specializing in maritime education. Established in 1930, it has educated students from more than 90 countries in fields pertinent to the maritime industry.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Odesa National Maritime University, known in [[ukrainian|Ukrainian]] as Одеський національний морський університет, is situated in [[odesa|Odesa, Ukraine]]."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The university was founded in 1930, marking its long-standing presence in the realm of maritime education."
+      ]
+    },
+    {
+      "heading": "International Reach",
+      "paragraphs": [
+        "The institution has trained students from over 90 countries, reflecting its global engagement and the importance of maritime studies in an international context."
+      ]
+    }
+  ],
+  "links_out": [
+    "odesa",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Odesa National Maritime University — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Odesa_National_Maritime_University",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

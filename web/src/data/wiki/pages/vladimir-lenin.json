@@ -1,0 +1,89 @@
+{
+  "qid": "Q1394",
+  "slug": "vladimir-lenin",
+  "title": "Vladimir Lenin",
+  "type": "human",
+  "category": "history",
+  "aliases": [
+    "V. I. Ul'yanov",
+    "V. I. Ulyanov",
+    "Vl llyin",
+    "Vladimir Il'ich Lenin",
+    "Vladimir Il'ich Ul'yanov",
+    "Vladimir Ilyich Lenin",
+    "Vladimir Ul'yanov",
+    "Vladimir Ulyanov"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1870-04-10",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1924-01-21",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Ulyanovsk",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "Chairman of the Council of People's Commissars of the Russian SFSR, Chairman of the Council of People's Commissars",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Vladimir Lenin, born Vladimir Ilyich Ulyanov, was a significant Russian revolutionary and political theorist who played a crucial role in the establishment of Soviet governance. His actions and ideologies had a profound impact on Ukraine, particularly during the tumultuous events surrounding the Russian Revolution and the subsequent formation of the Soviet Union.",
+  "sections": [
+    {
+      "heading": "Early Life and Background",
+      "paragraphs": [
+        "Vladimir Ilyich Ulyanov was born on 22 April 1870 in Simbirsk, now known as Ulyanovsk. He was the third of eight children in an upper-middle-class family. His father, Ilya Nikolayevich Ulyanov, was an educator who rose from a lower-class background, while his mother, Maria Alexandrovna Ulyanova, was largely indifferent to religion. This family background influenced Lenin's later political views.",
+        "Lenin's formative years were marked by personal tragedy, including the death of his father in 1886 and the execution of his elder brother Aleksandr in 1887 for revolutionary activities against the Tsarist regime. These events catalyzed his shift towards revolutionary politics."
+      ]
+    },
+    {
+      "heading": "Education and Political Development",
+      "paragraphs": [
+        "Lenin began his studies at Kazan University in 1887 but was expelled for his involvement in protests against the government. Following his expulsion, he became increasingly radicalized, engaging with revolutionary socialist circles and developing a keen interest in Marxist ideology.",
+        "In 1893, he moved to Saint Petersburg, where he became a prominent figure in the Marxist movement. His political activities included organizing workers' groups and writing critiques of the prevailing agrarian-socialist ideologies, which were popular among some factions [[coal-in-ukraine|in Ukraine]] and Russia."
+      ]
+    },
+    {
+      "heading": "Role in the Russian Revolution",
+      "paragraphs": [
+        "Lenin returned to Russia in 1917 after the February Revolution, which led to the abdication of Tsar Nicholas II. He played a pivotal role in the October Revolution later that year, which resulted in the Bolsheviks seizing power. This event significantly impacted [[ukraine|Ukraine]], as the region faced its own struggles for independence and governance amidst the chaos of the Russian Civil War.",
+        "Under Lenin's leadership, the Bolshevik government implemented policies that included land redistribution and the nationalization of industry, which had direct implications for [[ukrainian|Ukrainian]] agriculture and economic structures."
+      ]
+    },
+    {
+      "heading": "Legacy and Impact on Ukraine",
+      "paragraphs": [
+        "Lenin's establishment of [[soviet-union|the Soviet Union]] in 1922 had lasting effects on Ukraine, which was incorporated into the new state despite having experienced a brief period of independence. His policies and the subsequent centralization of power in the Communist Party shaped the political landscape of Ukraine for decades.",
+        "Lenin is a controversial figure; while some view him as a champion of socialism, others criticize his role in establishing a regime marked by political repression and violence, including the Red Terror, which affected many [[ukrainians|Ukrainians]] during the civil strife."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Vladimir Lenin — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vladimir_Lenin",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

@@ -1,0 +1,92 @@
+{
+  "qid": "Q1189277",
+  "slug": "national-art-museum-of-ukraine",
+  "title": "National Art Museum of Ukraine",
+  "type": "art museum",
+  "category": "culture",
+  "aliases": [
+    "Kyiv Museum of Ukrainian Art",
+    "Kyiv State Museum of Ukrainian Art",
+    "NKhMU",
+    "National Art Museum Ukraine",
+    "National Art Museum of Ukraine (Kyiv)",
+    "National Art Museum of Ukraine Kyiv",
+    "National Art Museum of Ukraine in Kyiv",
+    "The National Art Museum of Ukraine"
+  ],
+  "infobox": {
+    "label": "art museum",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1899-08-01",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Kyiv",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4494, 30.5311",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The National Art Museum of Ukraine, located in Kyiv, is a prominent institution dedicated to the preservation and exhibition of Ukrainian art. Established at the end of the 19th century, it houses an extensive collection that spans from [[kievan-rus|Kievan Rus]]' to contemporary works.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Founded at the end of the 19th century by [[ukrainian|Ukrainian]] intellectuals, the National Art Museum of Ukraine was the first museum in [[kyiv|Kyiv]] to be freely accessible to the public. The building, designed in neo-classical style, was constructed under the direction of Moscow architect Petro Boitsov and later completed by Polish architect Władysław Horodecki, with sculpture work by Elio Salia.",
+        "The museum's first exhibition occurred in August 1899 during the ХІ All-Russian Archaeology Conference, and it officially opened on December 30, 1904, as the Kyiv Art-Industrial and Scientific Museum. The museum underwent several name changes throughout its history, reflecting the political and cultural shifts [[coal-in-ukraine|in Ukraine]], including its renaming to the National Art Museum of Ukraine in 1994 after the country gained independence in 1991.",
+        "The museum sustained significant damage during the [[full-scale-russo-ukrainian-war|Russo-Ukrainian war]], particularly from a Russian air attack on May 24, 2026, which destroyed all its windows and caused critical harm to its skylights and plaster walls."
+      ]
+    },
+    {
+      "heading": "Architecture",
+      "paragraphs": [
+        "The museum is housed in a building constructed in 1898, originally intended for the Kyiv City Museum. The architectural design features a neoclassical facade with a six-column Doric porch and intricate decorations symbolizing the Triumph of Arts. The building's construction cost 249,000 rubles, with contributions from both the imperial government and the Tereshchenko family.",
+        "The museum's first director was Mykola Biliashivsky, and it was initially designed to serve the local community of art patrons and antique lovers."
+      ]
+    },
+    {
+      "heading": "Collections",
+      "paragraphs": [
+        "The National Art Museum of Ukraine boasts the most comprehensive collection of Ukrainian figurative art globally, with nearly 40,000 exhibits. This includes significant works from various periods, such as a 12th-century polychrome wooden relief of Saint George and exceptional examples of [[ukrainian-baroque|Ukrainian Baroque]] art.",
+        "The museum's collection features Ukrainian icons from the 14th to 16th centuries, Baroque-era portraits, and notable works from the 19th century, including pieces by [[taras-shevchenko|Taras Shevchenko]], Dmytro Levytsky, and Vladimir Borovikovsky. Additionally, it showcases the avant-garde contributions of artists like Alexander Archipenko and Mykhailo Boychuk."
+      ]
+    },
+    {
+      "heading": "Publications and Exhibitions",
+      "paragraphs": [
+        "The National Art Museum of Ukraine actively promotes Ukrainian artistic culture through various publications, including scientific catalogues and the magazine 'Muzeinyi Provulok (Museum Lane).' Significant publications have included comprehensive art albums and monographs on notable Ukrainian artists.",
+        "The museum continues to expand its collection and exhibitions, featuring works by both Ukrainian and international artists. Recent exhibitions have included art retrieved from former president Victor Yanukovich's home and unofficial Soviet-era artworks, reflecting the museum's commitment to showcasing a diverse range of Ukrainian art."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "kievan-rus",
+    "kyiv",
+    "taras-shevchenko",
+    "ukrainian",
+    "ukrainian-baroque"
+  ],
+  "sources": [
+    {
+      "title": "National Art Museum of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_Art_Museum_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

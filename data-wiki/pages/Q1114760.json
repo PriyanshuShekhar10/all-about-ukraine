@@ -1,0 +1,73 @@
+{
+  "qid": "Q1114760",
+  "slug": "zorya-mashproekt",
+  "title": "Zorya-Mashproekt",
+  "type": "business",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "business",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1946",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Mykolaiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Zorya-Mashproekt is a Ukrainian research and production complex specializing in gas turbine construction, located in Mykolaiv and part of the Ukroboronprom state corporation.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Zorya-Mashproekt ([[ukrainian|Ukrainian]]: ДП НВКГ «Зоря» — «Машпроект») is a key player in the [[ukrainian-defense-industry|Ukrainian defense industry]], focusing on the development and production of gas turbines."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The concept of establishing a factory for steam turbine production [[coal-in-ukraine|in Ukraine]] emerged shortly after World War II. On 9 July 1946, the Soviet government made a decision to create the factory in [[mykolaiv|Mykolaiv]], with city authorities identifying a location in the southeastern suburbs near the Kulbakine military airfield. Preparatory work commenced in March 1948, and construction lasted for five years, leading to the factory's initial designation as the Southern Turbine Plant."
+      ]
+    },
+    {
+      "heading": "Impact of Geopolitical Events",
+      "paragraphs": [
+        "Following the [[russian-annexation-of-crimea|annexation of Crimea]] by the Russian Federation, Zorya-Mashproekt ceased supplying marine gas turbines to the Russian Navy. Consequently, NPO Saturn was tasked with designing new engines for the Admiral Gorshkov and Admiral Grigorovich-class frigates.",
+        "During the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], Zorya-Mashproekt played a role in the defense of Mykolaiv by assembling anti-tank hedgehog barriers. Additionally, employees formed a territorial defense unit to uphold law and order at the factory. The facility experienced shelling on 13 March."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "In a significant business move, Bharat Forge, an Indian company, acquired a 51% stake in Zorya Mashproekt India Private Limited. The acquisition agreement was signed on 9 May 2023 by Kalyani Strategic Systems, a wholly owned subsidiary of Bharat Forge, and the acquisition process was completed by 31 December 2023."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "mykolaiv",
+    "russian-annexation-of-crimea",
+    "ukrainian",
+    "ukrainian-defense-industry"
+  ],
+  "sources": [
+    {
+      "title": "Zorya-Mashproekt — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zorya-Mashproekt",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

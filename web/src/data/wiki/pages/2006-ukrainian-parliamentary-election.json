@@ -1,0 +1,82 @@
+{
+  "qid": "Q328353",
+  "slug": "2006-ukrainian-parliamentary-election",
+  "title": "2006 Ukrainian parliamentary election",
+  "type": "Ukrainian parliamentary election",
+  "category": "politics",
+  "aliases": [
+    "Ukrainian parliamentary election, 2006"
+  ],
+  "infobox": {
+    "label": "Ukrainian parliamentary election",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2006-03-26",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The 2006 Ukrainian parliamentary election, held on 26 March 2006, marked a significant political event [[coal-in-ukraine|in Ukraine]], following the constitutional amendments that transformed the country's governance structure. This election was characterized by a party-list proportional representation system and resulted in a coalition government formation amidst political turmoil.",
+  "sections": [
+    {
+      "heading": "Election Overview",
+      "paragraphs": [
+        "Parliamentary [[elections-in-ukraine|elections in Ukraine]] took place on 26 March 2006, with official campaigning commencing on 7 July 2005. The formation of party lists occurred between 26 November and 31 December 2005.",
+        "The election utilized a party-list proportional representation system, where votes were allocated to political parties or election blocs rather than individual candidates. This was a shift from the previous elections, where half of the representatives were elected through a proportional system and the other half through single-mandate constituencies."
+      ]
+    },
+    {
+      "heading": "Constitutional Changes",
+      "paragraphs": [
+        "Following the [[orange-revolution|Orange Revolution]] and the 2004 presidential elections, significant amendments to the [[constitution-of-ukraine|Constitution of Ukraine]] were adopted by the parliament. These changes introduced the concepts of political coalition and coalition government, transferring some powers from the President to the parliament and establishing [[ukraine|Ukraine]] as a parliamentary-presidential democracy.",
+        "The amendments, effective from 1 January 2006, abolished single-member districts, replacing them with a multi-member proportional representation system. Political parties or election blocs were required to secure at least 3% of the national vote to gain parliamentary seats."
+      ]
+    },
+    {
+      "heading": "Political Parties and Polls",
+      "paragraphs": [
+        "A record 45 parties registered for the election, with only five meeting the minimum 3% threshold necessary to secure representation in the [[verkhovna-rada|Verkhovna Rada]]. The allocation of seats was conducted using the largest remainder method based on the Hare quota.",
+        "Pre-election polls indicated that the Party of Regions was leading with 34%, followed by the [[yulia-tymoshenko|Yulia Tymoshenko]] Bloc at 24%, and President Yushchenko's People's Union Our Ukraine. The Socialist Party of Ukraine and the bloc of the Speaker of the Verkhovna Rada, Volodymyr Lytvyn, were also expected to surpass the 3% barrier."
+      ]
+    },
+    {
+      "heading": "Election Results and Reactions",
+      "paragraphs": [
+        "On 10 April, the Central Election Commission announced that only five parties passed the 3% electoral threshold. Notably, President Yushchenko's party received less than 14% of the vote, placing third behind the Party of Regions and the Yulia Tymoshenko Bloc.",
+        "The Communist Party of Ukraine experienced a significant decline, receiving under 4% of the vote compared to 20% in the 2002 elections. Claims of electoral fraud emerged, particularly from the People's Opposition Bloc led by Natalia Vitrenko, which fell short of the threshold by a narrow margin."
+      ]
+    },
+    {
+      "heading": "Government Formation",
+      "paragraphs": [
+        "The election results necessitated the formation of a coalition government, as per the new constitutional framework. Initial coalition talks began between the Bloc of Yulia Tymoshenko, Bloc 'Our Ukraine,' and the Socialist Party of Ukraine, but were complicated by political maneuvering.",
+        "On 22 June 2006, a coalition agreement was signed, but due to ongoing negotiations, the Socialist Party withdrew and later formed a new coalition with the Party of Regions and the Communist Party, leading to the re-appointment of [[viktor-yanukovych|Viktor Yanukovych]] as Prime Minister on 4 August 2006."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "constitution-of-ukraine",
+    "elections-in-ukraine",
+    "orange-revolution",
+    "ukraine",
+    "verkhovna-rada",
+    "viktor-yanukovych",
+    "yulia-tymoshenko"
+  ],
+  "sources": [
+    {
+      "title": "2006 Ukrainian parliamentary election — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2006_Ukrainian_parliamentary_election",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

@@ -1,0 +1,81 @@
+{
+  "qid": "Q674086",
+  "slug": "2010-ukrainian-presidential-election",
+  "title": "2010 Ukrainian presidential election",
+  "type": "Ukrainian presidential election",
+  "category": "politics",
+  "aliases": [
+    "Ukrainian presidential election, 2010"
+  ],
+  "infobox": {
+    "label": "Ukrainian presidential election",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2010-01-17",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The 2010 Ukrainian presidential election was a significant political event in Ukraine, taking place on 17 January 2010, followed by a run-off on 7 February. Viktor Yanukovych emerged as the President-elect, marking a pivotal moment in Ukraine's political landscape.",
+  "sections": [
+    {
+      "heading": "Election Overview",
+      "paragraphs": [
+        "Presidential [[elections-in-ukraine|elections in Ukraine]] occurred on 17 January 2010. Since no candidate secured a majority of votes, a run-off election was conducted on 7 February between Prime Minister [[yulia-tymoshenko|Yulia Tymoshenko]] and opposition leader [[viktor-yanukovych|Viktor Yanukovych]].",
+        "On 14 February, Yanukovych was declared President-elect, having received 50% of the popular vote. According to Article 104 of [[ukraine|Ukraine]]'s Constitution, the president must be sworn into office within 30 days of the official results declaration, leading to his inauguration being scheduled for 25 February."
+      ]
+    },
+    {
+      "heading": "Background and Electoral System",
+      "paragraphs": [
+        "Traditionally, presidential first-round elections in Ukraine were held in October. The Constitution mandates that regular presidential elections occur on the last Sunday of the last month of the president's five-year term. In cases of premature termination of authority, elections must be held within ninety days.",
+        "The president is elected by citizens for a five-year term through universal, equal, and direct suffrage by secret ballot. Candidates must be [[ukrainian|Ukrainian]] citizens aged thirty-five or older, have lived [[coal-in-ukraine|in Ukraine]] for the past ten years, and be proficient in the state language.",
+        "On 1 April 2009, the [[verkhovna-rada|Verkhovna Rada]] set the first-round voting date for 25 October 2009, but this was contested by President Yushchenko, leading to a court ruling that ultimately established the election date as 17 January 2010."
+      ]
+    },
+    {
+      "heading": "Candidates and Campaign",
+      "paragraphs": [
+        "A total of 18 candidates participated in the presidential elections. Notable candidates included Yulia Tymoshenko, the incumbent Prime Minister, and Viktor Yanukovych, the leader of the Party of Regions.",
+        "The official campaign began on 19 October 2009, with a preceding unofficial campaign starting in the summer. The Central Election Commission estimated the election's budget at ₴1.5 billion, with candidates expected to spend significant amounts on their campaigns."
+      ]
+    },
+    {
+      "heading": "Legal and Administrative Aspects",
+      "paragraphs": [
+        "The electoral process was governed by a two-round first-past-the-post system. The first round was held on 17 January 2010, and since no candidate achieved the required majority, a second round was necessary. The Central Election Commission played a crucial role in organizing the election, including the formation of territorial election districts and foreign polling stations.",
+        "The election faced legal challenges, including an appeal by Tymoshenko that led to the Supreme Administrative Court suspending the results temporarily, although this did not prevent Yanukovych's inauguration."
+      ]
+    },
+    {
+      "heading": "Post-Election Developments",
+      "paragraphs": [
+        "Following the election, Yanukovych was sworn into office on 25 February 2010. The election results and subsequent political changes had a lasting impact on Ukraine's governance and political dynamics, influencing the country's trajectory in the years that followed."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "elections-in-ukraine",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada",
+    "viktor-yanukovych",
+    "yulia-tymoshenko"
+  ],
+  "sources": [
+    {
+      "title": "2010 Ukrainian presidential election — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2010_Ukrainian_presidential_election",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

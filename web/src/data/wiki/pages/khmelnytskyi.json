@@ -1,0 +1,125 @@
+{
+  "qid": "Q156717",
+  "slug": "khmelnytskyi",
+  "title": "Khmelnytskyi",
+  "type": "centre of oblast",
+  "category": "geography",
+  "aliases": [
+    "Chmelnitski",
+    "Chmielnicki",
+    "Khmel'nyts'kyy",
+    "Khmelnitski",
+    "Khmelnitskii",
+    "Khmelnytsky",
+    "Khmelnytskyy",
+    "Kiemieliszki",
+    "Kimlishuk",
+    "Proskuriv",
+    "Proskurov",
+    "Proskurow",
+    "Proskurów",
+    "Płoskirow",
+    "Płoskirów"
+  ],
+  "infobox": {
+    "label": "centre of oblast",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1431",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Kingdom of Poland",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "269,555",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "93",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "295",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Oleksandr Symshyshyn",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.4200, 27.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Khmelnytskyi is a city in [[western-ukraine|western Ukraine]], serving as the administrative center of Khmelnytskyi Oblast and Khmelnytskyi Raion. With a population of 274,452 as of 2022, it is the second-largest city in the historical region of Podolia, following [[vinnytsia|Vinnytsia]].",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Khmelnytskyi was first documented in 1431 as a military outpost known as Płoskirów. Under Polish rule, it became a royal city within the Podolian Voivodeship. The city experienced significant turmoil during the [[khmelnytsky-uprising|Khmelnytsky Uprising]] and was subsequently ruled by the Ottomans until 1699.",
+        "In 1793, following the Second Partition of Poland, Khmelnytskyi was annexed by the Russian Empire and renamed Proskurov. It was part of the newly established [[podolia|Podolia]] Governorate. The city briefly came under the control of the [[ukrainian-peoples-republic|Ukrainian People's Republic]] from 1917 to 1920 before becoming part of [[ukrainian-soviet-socialist-republic|Soviet Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Demographics and Cultural Changes",
+      "paragraphs": [
+        "The city's Jewish population drastically decreased from 42 percent in 1939 to 10 percent in 1959 due to the Holocaust. In 1954, the city was renamed Khmelnytskyi to honor [[bohdan-khmelnytsky|Bohdan Khmelnytsky]], a prominent Cossack leader.",
+        "As of a 2017 survey, 94% of the population identified as ethnic [[ukrainians|Ukrainians]], with 3% identifying as Russians. The 2001 [[ukrainian|Ukrainian]] census reported that 88.4% were Ukrainians, 7.9% were ethnic Russians, and 2% were ethnic Poles."
+      ]
+    },
+    {
+      "heading": "Geography and Economy",
+      "paragraphs": [
+        "Khmelnytskyi is situated on the [[southern-bug|Southern Bug]] River and covers an area of 8,624 hectares. The region's fertile soil supports the cultivation of various crops, including winter wheat and sugar beet. The city also has abundant natural resources, including limestone, chalk, and other building materials.",
+        "As an important industrial center, Khmelnytskyi hosts a rail junction and higher education institutions, such as Khmelnytskyi National University and the [[khmelnytskyi-oblast|Khmelnytskyi Oblast]] [[music-of-ukraine|Ukrainian Music]] and Drama Theater."
+      ]
+    },
+    {
+      "heading": "Recent Events",
+      "paragraphs": [
+        "During the ongoing Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], Khmelnytskyi has faced missile attacks, including significant strikes on October 10, 2022, and December 31, 2022, resulting in civilian casualties and infrastructure damage. On February 23, 2023, the city was again targeted, highlighting the ongoing conflict's impact on urban centers [[coal-in-ukraine|in Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Climate",
+      "paragraphs": [
+        "Khmelnytskyi experiences a moderately continental climate, with average temperatures ranging from 20 to 22 °C (68 to 72 °F) in July to −5 to −6 °C (23 to 21 °F) in January. The city receives an average annual precipitation of 510 to 580 mm (20.08 to 22.83 in)."
+      ]
+    }
+  ],
+  "links_out": [
+    "bohdan-khmelnytsky",
+    "coal-in-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "khmelnytsky-uprising",
+    "khmelnytskyi-oblast",
+    "music-of-ukraine",
+    "podolia",
+    "southern-bug",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainians",
+    "vinnytsia",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Khmelnytskyi — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Khmelnytskyi",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

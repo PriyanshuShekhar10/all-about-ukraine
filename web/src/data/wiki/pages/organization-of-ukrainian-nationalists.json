@@ -1,0 +1,77 @@
+{
+  "qid": "Q844787",
+  "slug": "organization-of-ukrainian-nationalists",
+  "title": "Organization of Ukrainian Nationalists",
+  "type": "political party",
+  "category": "politics",
+  "aliases": [
+    "OUN"
+  ],
+  "infobox": {
+    "label": "political party",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1929",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Organization of Ukrainian Nationalists (OUN) was a significant Ukrainian nationalist group founded on February 2, 1929, in Vienna, which played a crucial role in the political landscape of [[ukraine|Ukraine]] during the interwar period and World War II. The OUN aimed to establish an ethnically homogeneous Ukrainian state through radical nationalist ideologies and violent tactics.",
+  "sections": [
+    {
+      "heading": "Foundation and Ideology",
+      "paragraphs": [
+        "The Organization of Ukrainian Nationalists (OUN; [[ukrainian|Ukrainian]]: Організація українських націоналістів) was established on February 2, 1929, in Vienna, merging the Ukrainian Military Organization with various radical nationalist youth groups. The OUN became one of the largest far-right organizations [[coal-in-ukraine|in Ukraine]] during the interwar period, particularly active before, during, and after World War II.",
+        "OUN's ideology has been characterized by scholars as a form of Ukrainian fascism or integral nationalism, influenced by figures such as Dmytro Dontsov, as well as Italian and German fascism. The organization pursued a strategy of violence, terrorism, and assassinations to create a totalitarian Ukrainian state."
+      ]
+    },
+    {
+      "heading": "World War II and Internal Division",
+      "paragraphs": [
+        "In 1940, the OUN split into two factions: the more moderate OUN-M led by Andriy Melnyk and the radical OUN-B led by Stepan Bandera. On June 30, 1941, OUN-B declared an independent Ukrainian state in [[lviv|Lviv]], shortly after the city came under Nazi control. This declaration led to a temporary alliance with Germany, which was viewed as liberating [[ukrainians|Ukrainians]] from Soviet oppression.",
+        "The OUN-B's actions included participation in the Lviv pogroms and involvement in the Holocaust in Ukraine and Poland. In October 1942, OUN-B established the [[ukrainian-insurgent-army|Ukrainian Insurgent Army]] (UPA), which conducted violent campaigns against Polish populations in [[volhynia|Volhynia]] and [[eastern-galicia|Eastern Galicia]] between 1943 and 1944."
+      ]
+    },
+    {
+      "heading": "Post-War Activities and Cold War Era",
+      "paragraphs": [
+        "As World War II concluded and Nazi Germany faced defeat, OUN-B attempted to reframe its political stance, adopting democratic rhetoric. After the war, the UPA engaged in conflict against Soviet and Polish forces. The Polish government, through [[operation-vistula|Operation Vistula]] in 1947, deported 140,000 Ukrainians, while Soviet forces targeted UPA members and supporters.",
+        "During the Cold War, the OUN received covert support from Western intelligence agencies, including the CIA. In the mid-1950s, the OUN-B experienced another split, leading to the establishment of the Congress of Ukrainian Nationalists party and the OUN-M transitioning into a non-governmental organization."
+      ]
+    },
+    {
+      "heading": "Historical Context and Impact",
+      "paragraphs": [
+        "The OUN emerged in the context of the Second Polish Republic's control over [[western-ukraine|western Ukraine]] after World War I, which fueled the desire for Ukrainian independence. The organization conducted numerous violent actions against Polish officials and sought to establish a Ukrainian state free from both Polish and Soviet influence.",
+        "By the onset of World War II, the OUN had approximately 20,000 active members and a larger base of sympathizers, reflecting a radicalized youth disillusioned with traditional political avenues. The group's legacy remains complex, characterized by its nationalist fervor and controversial methods."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "eastern-galicia",
+    "lviv",
+    "operation-vistula",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-insurgent-army",
+    "ukrainians",
+    "volhynia",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Organisation of Ukrainian Nationalists — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Organisation_of_Ukrainian_Nationalists",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

@@ -1,0 +1,65 @@
+{
+  "qid": "Q4225541",
+  "slug": "mikhail-kovalchuk",
+  "title": "Mikhail Kovalchuk",
+  "type": "human",
+  "category": "history",
+  "aliases": [
+    "Mikhail Valentinovich Kovalchuk"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1946-09-21",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Saint Petersburg",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Mikhail Valentinovich Kovalchuk is a Russian physicist and official, born on September 21, 1946. He is notably the brother of Yury Kovalchuk, who is recognized as a significant financial figure within the Russian political landscape.",
+  "sections": [
+    {
+      "heading": "Early Life and Background",
+      "paragraphs": [
+        "Mikhail Kovalchuk was born on September 21, 1946. He is part of a notable family in Russia, being the brother of Yury Kovalchuk, who is often referred to as '[[vladimir-putin|Putin]]'s personal banker'."
+      ]
+    },
+    {
+      "heading": "Academic and Political Career",
+      "paragraphs": [
+        "Kovalchuk has been a Corresponding Member of the Russian Academy of Sciences (RAS) in physics since May 26, 2000. His role in the scientific community includes serving as the Scientific Secretary of the Council for Science and High Technologies under the President of the Russian Federation since 2001.",
+        "In February 2005, he became the Director of the Kurchatov Institute, a significant research institution in Russia. His influence in the field of nanotechnology was recognized in June 2007 when he was appointed acting vice-president of the RAS for nanotechnology, despite being a corresponding member and not eligible for full vice-presidency without a change in the Academy's Charter."
+      ]
+    },
+    {
+      "heading": "Controversies and Challenges",
+      "paragraphs": [
+        "Kovalchuk's application for full membership in the RAS was rejected in May 2008, despite pressure from Vladimir Putin. This rejection was interpreted as a notable challenge to Putin's authority, marking a significant moment in the political dynamics of Russia since Putin's rise to power in 2000."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "In June 2023, Mikhail Kovalchuk was appointed President of the Polytechnic Museum, further solidifying his role in the intersection of science and public engagement in Russia."
+      ]
+    }
+  ],
+  "links_out": [
+    "vladimir-putin"
+  ],
+  "sources": [
+    {
+      "title": "Mikhail Kovalchuk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mikhail_Kovalchuk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

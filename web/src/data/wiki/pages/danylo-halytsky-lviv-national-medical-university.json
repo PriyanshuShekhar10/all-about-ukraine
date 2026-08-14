@@ -33,7 +33,7 @@
       }
     ]
   },
-  "summary": "Danylo Halytsky Lviv National Medical University (LNMU) is one of the oldest and largest medical institutions in Ukraine, tracing its origins back to 1784. Named after King Daniel of [[galicia|Galicia]], the university has played a significant role in the development of medical [[education-in-ukraine|education in Ukraine]].",
+  "summary": "Danylo Halytsky Lviv National Medical University (LNMU) is one of the oldest and largest medical institutions in Ukraine, tracing its origins back to 1784. Named after King [[daniel-of-galicia|Daniel of Galicia]], the university has played a significant role in the development of medical [[education-in-ukraine|education in Ukraine]].",
   "sections": [
     {
       "heading": "Historical Background",
@@ -73,8 +73,8 @@
   ],
   "links_out": [
     "coal-in-ukraine",
+    "daniel-of-galicia",
     "education-in-ukraine",
-    "galicia",
     "lviv",
     "ukrainian"
   ],

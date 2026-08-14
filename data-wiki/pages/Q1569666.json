@@ -1,0 +1,78 @@
+{
+  "qid": "Q1569666",
+  "slug": "haidamaka",
+  "title": "Haidamaka",
+  "type": "paramilitary organization",
+  "category": "war",
+  "aliases": [
+    "Haidamak",
+    "Haidamaks",
+    "Haydamak",
+    "Haydamaka",
+    "Haydamaks"
+  ],
+  "infobox": {
+    "label": "paramilitary organization",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Right-bank Ukraine, Polish–Lithuanian Commonwealth",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Haidamaka, also known as haidamakas or haidamaky, were Ukrainian Cossack paramilitaries active in the eastern regions of the Polish-Lithuanian Commonwealth during the 18th century. Their emergence was fueled by ethnic, social, and religious tensions, leading to several significant uprisings against Polish nobility.",
+  "sections": [
+    {
+      "heading": "Etymology and Terminology",
+      "paragraphs": [
+        "The term 'haidamak' refers to '[[ukrainian|Ukrainian]] insurgent against the Poles in the 18th century' or 'brigand'. Its origins can be traced to the Turkic word 'haydamak', meaning 'to drive, to drive away', which evolved in Ukrainian usage.",
+        "In addition to 'haidamak', other historical terms include 'levenetz' and 'deineka', while the term 'opryshok' is used in Ukrainian [[galicia|Galicia]]. In folklore, participants of haidamak bands were often referred to as 'burlak(a)', meaning 'vagrant' or 'homeless person'.",
+        "The Romanian equivalent 'haidamac' denotes a 'strong, sometimes no-good man', while the term 'hajduk' in Central Europe and the Balkans shares a similar connotation."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The haidamak movement emerged following the Treaty of Perpetual Peace with the Tsardom of Russia in 1710, amidst growing unrest in Right-bank [[ukraine|Ukraine]]. The term 'haidamak' began to be used in Polish and Muscovite sources during the [[khmelnytsky-uprising|Khmelnytsky Uprising]] in the mid-17th century.",
+        "The first official mention of 'haidamaka' appeared in documents from 1717, as [[cossacks|Cossacks]] loyal to [[hetman|hetman]] Pylyp Orlyk engaged in raids against Polish administration in Right-bank Ukraine. The movement included various social groups, such as peasants, townspeople, and impoverished nobles."
+      ]
+    },
+    {
+      "heading": "Haidamak Uprisings",
+      "paragraphs": [
+        "The haidamak movement led to several significant uprisings against the Polish nobility, notably in 1734, 1750, and the largest in 1768, known as Koliyivschyna.",
+        "The first uprising in 1734 coincided with a war for control of the Polish Kingdom, where local Cossacks interpreted calls for support from Russian troops as permission to attack Polish lords. Notable leaders included Verlan and Matviy Hryva, who engaged in raids across Right-bank Ukraine.",
+        "The 1750 uprising saw renewed popular support for the haidamaks, leading to widespread rebellion in Right-bank Ukraine, although it was ultimately suppressed due to disorganization.",
+        "The 1768 uprising had a strong religious component, with local Orthodox leaders calling for rebellion against perceived oppression. Maksym Zalizniak emerged as a key figure, leading a large insurrection that resulted in violent attacks on Polish and Jewish communities."
+      ]
+    },
+    {
+      "heading": "Cultural Impact",
+      "paragraphs": [
+        "The actions of the haidamaks have been viewed variably in [[ukrainian-folklore|Ukrainian folklore]] and literature. While Polish sources often labeled them negatively due to their violent actions, Ukrainian narratives tend to portray them more favorably.",
+        "[[taras-shevchenko|Taras Shevchenko]]'s epic poem 'Haidamaky' (1841) reflects this duality, presenting the haidamaks with both sympathy and critique, illustrating their complex role in [[history-of-ukraine|Ukrainian history]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossacks",
+    "galicia",
+    "hetman",
+    "history-of-ukraine",
+    "khmelnytsky-uprising",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-folklore"
+  ],
+  "sources": [
+    {
+      "title": "Haydamak — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Haydamak",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

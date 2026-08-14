@@ -1,0 +1,83 @@
+{
+  "qid": "Q4230453",
+  "slug": "ukrainian-canadian-congress",
+  "title": "Ukrainian Canadian Congress",
+  "type": "organization",
+  "category": "people",
+  "aliases": [
+    "The Ukrainian Canadian Congress"
+  ],
+  "infobox": {
+    "label": "organization",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1940",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Canada",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Winnipeg",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Ukrainian Canadian Congress (UCC) is a nonprofit umbrella organization representing Ukrainian-Canadian political, cultural, and religious groups, established in 1940. The UCC plays a significant role in advocating for the interests of Ukrainian Canadians and maintaining connections to Ukraine.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "[[ukrainians|Ukrainians]] began immigrating to Canada in the early 20th century, primarily settling in rural regions of the prairie provinces. The establishment of the autonomous [[ukrainian|Ukrainian]] Greek-Orthodox Church of Canada in 1918 addressed the spiritual needs of these new settlers. Between 1903 and 1920, various organizations and institutions were founded by Ukrainian Canadians, including Ridna Shkola, the [[taras-shevchenko|Taras Shevchenko]] Institute in Edmonton, and the Andrey Sheptycky Ukrainian Bursa in Winnipeg.",
+        "During World War I, many Ukrainian immigrants were classified as 'enemy aliens,' leading to the formation of the Ukrainian Canadian Citizens' Committee in 1917, which protested this classification. The 1920s and 1930s saw the emergence of several organizations, such as the USRL, UNF, and the Ukrainian Catholic Brotherhood, highlighting the community's growing need for unified representation."
+      ]
+    },
+    {
+      "heading": "Formation and Development of the UCC",
+      "paragraphs": [
+        "The Ukrainian Canadian Congress was officially founded in November 1940, initially named the Ukrainian Canadian Committee until 1989. The organization was created to unify the Ukrainian Canadian community and represent their collective interests, particularly in light of the onset of World War II and the need for young Ukrainians to enlist in military service.",
+        "The first congress of Ukrainian Canadians took place from June 22 to 24, 1943, with over 600 attendees and the slogan 'Victory and Freedom.' By 1959, the UCC had grown to include 25 member organizations, addressing various community issues such as finance, education, culture, and women's activities."
+      ]
+    },
+    {
+      "heading": "Recent Activities and Recognition",
+      "paragraphs": [
+        "In 2007, the UCC awarded the Medal of Merit to Yaroslav Hunka and other former members of the SS Galizien, an infantry unit of the Waffen SS, reflecting its engagement with complex historical narratives. In August 2022, the organization was designated as an 'undesirable organization' by Russia.",
+        "Following the Resolution of the XXVII Triennial Congress of Ukrainian Canadians in fall 2022, the UCC began awarding the Ukrainian Canadian Sacrifice Medal to Canadian citizens who have been killed or wounded while serving in the [[armed-forces-of-ukraine|Armed Forces of Ukraine]], further emphasizing its commitment to supporting [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Leadership and Structure",
+      "paragraphs": [
+        "The current National President of the UCC is Alexandra Chyczij, who succeeded Paul M. Grod, the president from 2007 to 2018, who later became the President of the [[ukrainian-world-congress|Ukrainian World Congress]]. The UCC is structured with six Provincial Councils that encompass numerous local branches, all operating under the UCC National umbrella while maintaining their legal independence."
+      ]
+    },
+    {
+      "heading": "Awards and Recognition",
+      "paragraphs": [
+        "The UCC has also issued the Shevchenko Medal to various recipients at its Triennial Conferences held in 2013 (Toronto), 2016 (Regina), 2019 (Ottawa), and 2022 (Winnipeg), recognizing contributions to the Ukrainian Canadian community."
+      ]
+    }
+  ],
+  "links_out": [
+    "armed-forces-of-ukraine",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-world-congress",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Canadian Congress — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Canadian_Congress",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

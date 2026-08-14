@@ -1,0 +1,104 @@
+{
+  "qid": "Q33345",
+  "slug": "yevpatoriya",
+  "title": "Yevpatoriya",
+  "type": "city or town",
+  "category": "people",
+  "aliases": [
+    "Eupatoria",
+    "Yevpatoria",
+    "Yevpatoriia"
+  ],
+  "infobox": {
+    "label": "city or town",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Crimean Khanate, Russian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "17,900",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "65",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "10",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Roman Tikhonchuk",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "45.2000, 33.3583",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Yevpatoriya is a city located in western [[crimea|Crimea]], north of Kalamita Bay, serving as the administrative center of Yevpatoria Municipality. As of the 2014 Census, it had a population of 105,719 and is recognized for its historical significance and contemporary role as a resort town within the context of [[ukraine|Ukraine]].",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The area now known as Yevpatoriya was first settled by Greek colonists around 500 BCE, originally named Kerkinitis. This settlement later came under the control of King Mithridates VI Eupator, from whom the modern name Yevpatoriya is derived.",
+        "From the 7th to the 10th centuries, the city was a Khazar settlement known as Güzliev. It subsequently fell under the influence of the Cumans, Mongols, and the Crimean Khanate, during which it was referred to as Kezlev by [[crimean-tatars|Crimean Tatars]] and Gözleve by Ottoman Turks."
+      ]
+    },
+    {
+      "heading": "Imperial and Soviet Era",
+      "paragraphs": [
+        "In 1783, Yevpatoriya was annexed by the Russian Empire and officially renamed in 1784. The city played a significant role during the [[crimean-war|Crimean War]], being occupied by Allied forces in 1854 and witnessing the Battle of Eupatoria in 1855.",
+        "During the Soviet period, Yevpatoriya became known for its health resorts, particularly for treating osteoarticular tuberculosis. By the 1980s, the city boasted 78 sanatoriums catering to 33,000 visitors."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "On December 24, 2008, a tragic explosion in Yevpatoriya resulted in the loss of 27 lives, prompting a national day of mourning declared by [[president-of-ukraine|Ukrainian President]] [[viktor-yushchenko|Viktor Yushchenko]].",
+        "In 2014, Yevpatoriya was occupied by Russian forces during the [[russian-annexation-of-crimea|annexation of Crimea]], which has been condemned by the UN General Assembly as a temporary occupation of [[ukrainian|Ukrainian]] territory.",
+        "Today, Yevpatoriya is a notable Black Sea port and resort town, with industries including fishing, food processing, and tourism, as well as health resorts utilizing local mineral waters and mud."
+      ]
+    },
+    {
+      "heading": "Cultural and Educational Significance",
+      "paragraphs": [
+        "Yevpatoriya is home to several architectural landmarks, including the Juma-Jami Mosque, built between 1552 and 1564, and the St. Nicholas' the Miracle Worker Cathedral.",
+        "The city also hosts the Institute of Social Sciences, a branch of the Crimean Federal University, contributing to the educational landscape of the region."
+      ]
+    },
+    {
+      "heading": "Demographics and Notable Residents",
+      "paragraphs": [
+        "According to the 2001 Ukrainian census, Yevpatoriya has a diverse ethnic composition. Notable individuals associated with the city include Ukrainian politicians, artists, and athletes, reflecting its cultural richness."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "crimean-tatars",
+    "crimean-war",
+    "president-of-ukraine",
+    "russian-annexation-of-crimea",
+    "ukraine",
+    "ukrainian",
+    "viktor-yushchenko"
+  ],
+  "sources": [
+    {
+      "title": "Yevpatoria — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yevpatoria",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

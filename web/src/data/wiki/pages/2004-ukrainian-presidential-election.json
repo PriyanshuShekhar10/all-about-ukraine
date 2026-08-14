@@ -1,0 +1,87 @@
+{
+  "qid": "Q568458",
+  "slug": "2004-ukrainian-presidential-election",
+  "title": "2004 Ukrainian presidential election",
+  "type": "Ukrainian presidential election",
+  "category": "politics",
+  "aliases": [
+    "Ukrainian presidential election, 2004"
+  ],
+  "infobox": {
+    "label": "Ukrainian presidential election",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2004-10-31",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Ukraine",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The 2004 Ukrainian presidential election was a pivotal event [[coal-in-ukraine|in Ukraine]]'s political history, marked by widespread allegations of fraud and the subsequent Orange Revolution. The election culminated in a Supreme Court ruling that invalidated the initial results, leading to a re-run that resulted in Viktor Yushchenko's victory over Viktor Yanukovych.",
+  "sections": [
+    {
+      "heading": "Election Overview",
+      "paragraphs": [
+        "Presidential [[elections-in-ukraine|elections in Ukraine]] took place on 31 October, 21 November, 26 December 2004, and 1 January 2005. This election was the fourth since [[ukraine|Ukraine]] gained independence from [[soviet-union|the Soviet Union]]. The final stages were primarily contested between opposition leader [[viktor-yushchenko|Viktor Yushchenko]] and incumbent Prime Minister [[viktor-yanukovych|Viktor Yanukovych]] of the Party of Regions. The [[ukrainian|Ukrainian]] Supreme Court later determined that the election had been marred by extensive falsification of results favoring Yanukovych."
+      ]
+    },
+    {
+      "heading": "Candidates",
+      "paragraphs": [
+        "The main candidates were Viktor Yanukovych, the government-supported incumbent Prime Minister since 2002, and Viktor Yushchenko, the opposition leader. Yanukovych received backing from outgoing President [[leonid-kuchma|Leonid Kuchma]] and the Russian government, including President [[vladimir-putin|Vladimir Putin]]. Yushchenko was viewed as more pro-Western, garnering support from the European Union and the United States."
+      ]
+    },
+    {
+      "heading": "Election Conduct",
+      "paragraphs": [
+        "The first round of voting on 31 October saw a turnout of 75 percent, but observers noted numerous irregularities, particularly in regions where Yushchenko had strong support. The Organization for Security and Cooperation in Europe (OSCE) reported that the run-off did not meet international standards, with U.S. observers labeling it a 'concerted and forceful program of election day fraud.' Turnout figures in Yanukovych-supporting regions surged dramatically between the two rounds, raising suspicions of electoral manipulation.",
+        "Allegations included ballot stuffing, voter intimidation, and the sudden registration of hundreds of thousands of new voters in key regions. The Supreme Court later concluded that these irregularities constituted widespread falsification."
+      ]
+    },
+    {
+      "heading": "International Reactions",
+      "paragraphs": [
+        "The European Union publicly refused to recognize the election results, with all 25 member countries summoning their ambassadors from Ukraine in protest. European Commission President José Manuel Barroso warned of potential consequences if the election was not reviewed. In contrast, Russia's President Putin and other CIS leaders congratulated Yanukovych on his victory before official results were declared.",
+        "Support for Yushchenko came from various international figures, including U.S. officials and Polish politicians, who expressed concerns about the legitimacy of the election process. The United States also declined to recognize the results, with Secretary of State Colin Powell stating they could not be accepted as legitimate."
+      ]
+    },
+    {
+      "heading": "Results and Aftermath",
+      "paragraphs": [
+        "The first round on 31 October resulted in Yushchenko receiving 41% and Yanukovych 40% of the votes, necessitating a run-off on 21 November. Yanukovych was initially declared the winner with 49.42% to Yushchenko's 46.69%. However, following extensive protests known as the [[orange-revolution|Orange Revolution]], the Supreme Court invalidated the results on 3 December and ordered a repeat of the vote.",
+        "The re-run on 26 December resulted in Yushchenko winning with 53% of the vote compared to Yanukovych's 44%. Yanukovych conceded defeat on 31 December and resigned as Prime Minister, although he later appealed the election conduct. This appeal was rejected on 6 January 2005, and on 10 January, the Electoral Commission officially declared Yushchenko the winner."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "elections-in-ukraine",
+    "leonid-kuchma",
+    "orange-revolution",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "viktor-yanukovych",
+    "viktor-yushchenko",
+    "vladimir-putin"
+  ],
+  "sources": [
+    {
+      "title": "2004 Ukrainian presidential election — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2004_Ukrainian_presidential_election",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

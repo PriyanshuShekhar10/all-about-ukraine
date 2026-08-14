@@ -1,0 +1,96 @@
+{
+  "qid": "Q219836",
+  "slug": "zvenyhorodka",
+  "title": "Zvenyhorodka",
+  "type": "city in Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "17,078",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "20",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "148",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.0833, 30.9667",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Zvenyhorodka is a city located in [[cherkasy-oblast|Cherkasy Oblast]], central Ukraine, serving as the administrative center of Zvenyhorodka Raion. As of 2022, the city has a population of 16,269 and plays a significant role in the region's administrative and economic landscape.",
+  "sections": [
+    {
+      "heading": "Historical Overview",
+      "paragraphs": [
+        "Zvenyhorodka's history dates back to the [[kievan-rus|Kievan Rus]]', with its first recorded mention in 1394. The city likely has older origins, having been destroyed during the Mongol invasion. According to local legend, the original settlement was located 3 km from its current site, surrounding a conical hill.",
+        "In 1504, Zvenyhorodka became part of the Grand Duchy of Lithuania, transitioning to the Crown of the Kingdom of Poland in 1569. This change led to socio-economic oppression under Polish aristocracy, which incited the townsfolk to revolt during the [[khmelnytsky-uprising|Khmelnytsky Uprising]] from 1648 to 1654, expelling Polish nobility.",
+        "The city remained under the control of the Korsun Regiment until the Polish crown regained authority over Right-bank [[ukraine|Ukraine]] in 1667. During this period, the population faced further oppression and national conflicts, culminating in uprisings in the 18th century, including the Koliivshchyna rebellion in 1768."
+      ]
+    },
+    {
+      "heading": "Development Under the Russian Empire",
+      "paragraphs": [
+        "In 1792, Zvenyhorodka was granted city rights under Magdeburg law by King Stanisław August Poniatowski, and it was annexed by Russia the following year. By 1796, it became the administrative center of an uyezd in the Kiev Governorate.",
+        "The integration into the Russian market spurred rapid industrial growth, particularly in dairy, lumber, pottery, and handicrafts. The city emerged as a significant center for the dairy industry alongside [[chyhyryn|Chyhyryn]] and [[bila-tserkva|Bila Tserkva]]. The 1830s saw further advancements, including the establishment of a hospital, post office, telegraph communications, and a bridge over the Hnylyi Tikych River."
+      ]
+    },
+    {
+      "heading": "20th Century Events",
+      "paragraphs": [
+        "At the dawn of the 20th century, Zvenyhorodka featured a train station, three Greek Orthodox churches, and one Roman Catholic church. A congress of Free [[cossacks|Cossacks]] was held in April 1917 amid the [[ukrainian|Ukrainian]] independence movement.",
+        "On February 1, 1918, the Zaporozhian Regiment of the [[ukrainians|Ukrainian People]]'s Army defeated Bolshevik forces in the city. A local newspaper began publication on March 14, 1919. During World War II, Zvenyhorodka was occupied by Nazi Germany from July 29, 1941, to January 28, 1944, during which a ghetto was established, leading to the execution of approximately 1,500 Jews."
+      ]
+    },
+    {
+      "heading": "Demographics and Economy",
+      "paragraphs": [
+        "As of 2022, Zvenyhorodka has an estimated population of 16,269. Historical population figures include 7,501 in 1850, 16,972 in 1897, and 22,740 in 1989. The city has a diverse linguistic demographic, with Ukrainian being the predominant language.",
+        "Zvenyhorodka serves as a center for the food industry and includes a foundry, contributing to the local economy."
+      ]
+    },
+    {
+      "heading": "Notable Residents",
+      "paragraphs": [
+        "Among the notable figures associated with Zvenyhorodka are Ahatanhel Krymsky (1871–1942), a Ukrainian philologist and orientalist, and David Günzburg (1857–1910), a Russian orientalist and Jewish communal leader. Other prominent individuals include Horace Günzburg (1833–1909), a Russian philanthropist, Grigory Petrovich Nikulin (1895–1965), a Russian Bolshevik, and Yurii Karmazin (1957-2022), a Ukrainian politician."
+      ]
+    }
+  ],
+  "links_out": [
+    "bila-tserkva",
+    "cherkasy-oblast",
+    "chyhyryn",
+    "cossacks",
+    "khmelnytsky-uprising",
+    "kievan-rus",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Zvenyhorodka — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zvenyhorodka",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

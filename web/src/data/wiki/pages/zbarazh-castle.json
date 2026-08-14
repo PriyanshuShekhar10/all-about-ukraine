@@ -1,0 +1,86 @@
+{
+  "qid": "Q2385597",
+  "slug": "zbarazh-castle",
+  "title": "Zbarazh Castle",
+  "type": "castle",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "castle",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1631",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Austrian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.6634, 25.7854",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Zbarazh Castle is a fortified stronghold located in Zbarazh, [[ternopil-oblast|Ternopil Oblast]], Ukraine, built during the Polish–Lithuanian Commonwealth period. It has historical significance as a military and aristocratic site, associated with notable families such as the Zbaraski and Wiśniowiecki families.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Zbarazh Castle, known in [[ukrainian|Ukrainian]] as Збаразький замок, was established in Zbarazh, a town that has roots dating back to the formation of a [[ruthenian|Ruthenian]] fortress in 1211. The castle's existence is attributed to the Polish Zbaraski family, particularly Krzysztof and Jerzy Zbaraski.",
+        "The original wooden fortress built by the Zbarazky landlords was located in what is now called Staryi Zbarazh, but it was destroyed during a Tatar attack. A subsequent castle met a similar fate in 1589. In the early 17th century, a new masonry structure was commissioned by the Zbaraski family, with plans drafted by architect Vincenzo Scamozzi."
+      ]
+    },
+    {
+      "heading": "Construction and Architectural Features",
+      "paragraphs": [
+        "The new Zbarazh Castle featured a bulwark rising up to 12 meters (39 feet) high, with a 23-meter (75-foot) wide terrace for soldiers. The castle included a rectangular courtyard and arched chambers that now display arms and wooden sculptures. The fortification was surrounded by a wide moat, measuring up to 40 meters (131 feet) in some areas.",
+        "The architectural style of the castle reflects Renaissance influences with early Baroque elements. The palace was designed to serve both military and residential purposes, evolving from a stronghold into a palace after its ownership was transferred to the Wiśniowiecki family."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Zbarazh Castle played a crucial role in various military conflicts, including the Cossack uprisings in 1648 and the Turkish invasion in 1675. The castle's defenses were tested during the Battle of Zbarazh in 1649, a significant event in [[history-of-ukraine|Ukrainian history]] marked by Cossack leader [[bohdan-khmelnytsky|Bohdan Khmelnytsky]]'s involvement.",
+        "The castle has been visited by historical figures such as [[ivan-mazepa|Ivan Mazepa]] and Peter I in 1707, highlighting its importance as a military and political site [[coal-in-ukraine|in Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Current Status and Museum",
+      "paragraphs": [
+        "Following [[ukraine|Ukraine]]'s independence, Zbarazh Castle was recognized as part of the national historical architectural heritage in 1994. The castle complex features a rectangular layout surrounded by marshland and showcases advanced European fortification techniques.",
+        "Today, the castle houses a museum with a collection of over 50,000 items that reflect the history of Zbarazh and its surrounding areas. The museum includes exhibitions on archaeology, ethnography, sacred arts, and notable local figures, contributing to the cultural heritage of Ukraine."
+      ]
+    },
+    {
+      "heading": "Exhibitions and Cultural Impact",
+      "paragraphs": [
+        "The museum at Zbarazh Castle features eight distinct exhibitions, including artifacts from the [[cucutenitrypillia-culture|Cucuteni-Trypillian culture]], arms, wood-carved sculptures, and sacred arts. The Hall of Cossack's Fame commemorates the contributions of Cossack warriors to Ukrainian history.",
+        "The castle also hosts personal belongings of notable figures, such as Ivan Prasko, a prominent archbishop of the Ukrainian Greek-Catholic Church, further emphasizing its role in preserving and promoting Ukrainian cultural heritage."
+      ]
+    }
+  ],
+  "links_out": [
+    "bohdan-khmelnytsky",
+    "coal-in-ukraine",
+    "cucutenitrypillia-culture",
+    "history-of-ukraine",
+    "ivan-mazepa",
+    "ruthenian",
+    "ternopil-oblast",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Zbarazh Castle — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zbarazh_Castle",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

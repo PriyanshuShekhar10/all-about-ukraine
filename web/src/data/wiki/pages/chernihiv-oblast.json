@@ -58,7 +58,7 @@
     {
       "heading": "Geography",
       "paragraphs": [
-        "Chernihiv Oblast covers an area of about 31,900 km². It is bordered to the west by the [[kyiv|Kyiv]] Reservoir of the [[dnieper|Dnieper River]] and Kyiv Oblast, which contains an enclave named Slavutych, established for [[chernobyl-disaster|Chernobyl disaster]] survivors. To the east, it is adjacent to [[sumy-oblast|Sumy Oblast]], while [[poltava-oblast|Poltava Oblast]] lies to the south. The northern border of the oblast forms part of [[ukraine|Ukraine]]'s international boundary with Belarus's Gomel Region in the northwest and Russia's Bryansk Oblast in the northeast. The Desna River divides the oblast into northern and southern sections, flowing into the Dnieper just north of Kyiv."
+        "Chernihiv Oblast covers an area of about 31,900 km². It is bordered to the west by the [[kyiv|Kyiv]] Reservoir of the [[dnieper|Dnieper River]] and [[kyiv-oblast|Kyiv Oblast]], which contains an enclave named Slavutych, established for [[chernobyl-disaster|Chernobyl disaster]] survivors. To the east, it is adjacent to [[sumy-oblast|Sumy Oblast]], while [[poltava-oblast|Poltava Oblast]] lies to the south. The northern border of the oblast forms part of [[ukraine|Ukraine]]'s international boundary with Belarus's Gomel Region in the northwest and Russia's Bryansk Oblast in the northeast. The Desna River divides the oblast into northern and southern sections, flowing into the Dnieper just north of Kyiv."
       ]
     },
     {
@@ -100,6 +100,7 @@
     "full-scale-russo-ukrainian-war",
     "kievan-rus",
     "kyiv",
+    "kyiv-oblast",
     "poltava-oblast",
     "president-of-ukraine",
     "sumy-oblast",

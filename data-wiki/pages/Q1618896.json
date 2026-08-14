@@ -1,0 +1,74 @@
+{
+  "qid": "Q1618896",
+  "slug": "rus-khaganate",
+  "title": "Rus' Khaganate",
+  "type": "historical country",
+  "category": "politics",
+  "aliases": [
+    "Khaganate of Rus",
+    "Khaganate of Rus'",
+    "Rus Khaganate"
+  ],
+  "infobox": {
+    "label": "historical country",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "0700",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Location",
+        "value": "Eastern Europe",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The Rus' Khaganate, a term used by historians, refers to a proposed political entity believed to have existed in Eastern Europe from approximately 830 to the 890s. Its connection to the early formation of Kievan Rus', a significant historical state [[coal-in-ukraine|in Ukraine]], remains a topic of scholarly debate.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The Rus' Khaganate is thought to have existed during a poorly documented period in [[eastern-europe|Eastern Europe]], particularly relevant to the historical development of [[ukraine|Ukraine]]. The existence and significance of this polity are subjects of ongoing scholarly discussion."
+      ]
+    },
+    {
+      "heading": "Terminology and Leadership",
+      "paragraphs": [
+        "The term 'khagan' for a leader of the [[rus-people|Rus' people]] appears in various historical sources. Some scholars suggest that the title 'chacanus' used in early references may derive from 'khagan', indicating a political structure akin to a khaganate. However, this notion is contested, with some historians labeling the concept as a 'historiographical phantom'."
+      ]
+    },
+    {
+      "heading": "Documentary Evidence",
+      "paragraphs": [
+        "Several historical texts mention the title of khagan in relation to the Rus'. The Latin Annales Bertiniani from 839 refers to a group of Norsemen, called Rhos, whose leader was identified as chacanus. The Salerno Chronicle from 871 discusses the title in a diplomatic context, suggesting that the term was recognized among various groups, including the Avars and Normans.",
+        "Arabic and Persian sources from the 10th century, such as the writings of Ahmad ibn Rustah and Hudud al-'Alam, also reference a 'khāqān rus', indicating the presence of a Rus' leader. These texts are crucial for understanding the political landscape of the time."
+      ]
+    },
+    {
+      "heading": "Later References in East Slavic Sources",
+      "paragraphs": [
+        "Old East Slavic sources from the 11th and 12th centuries, including Hilarion of Kiev's Sermon on Law and Grace, refer to the title kagan in connection with rulers of [[kievan-rus|Kievan Rus]]'. This suggests a continuity in the use of the title, linking the early Rus' leadership to the later established Kievan state.",
+        "Hilarion's work notably applies the title to Volodimir I ([[vladimir-the-great|Vladimir the Great]]) and his descendants, indicating a significant historical connection to the development of [[ukrainian|Ukrainian]] statehood."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "eastern-europe",
+    "kievan-rus",
+    "rus-people",
+    "ukraine",
+    "ukrainian",
+    "vladimir-the-great"
+  ],
+  "sources": [
+    {
+      "title": "Rus' Khaganate — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rus'_Khaganate",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

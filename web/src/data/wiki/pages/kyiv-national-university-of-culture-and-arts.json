@@ -1,0 +1,80 @@
+{
+  "qid": "Q4220223",
+  "slug": "kyiv-national-university-of-culture-and-arts",
+  "title": "Kyiv National University of Culture and Arts",
+  "type": "educational institution",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "educational institution",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1956",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Kyiv",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Kyiv National University of Culture and Arts (KNUCA) is a prominent educational institution located in Kyiv, Ukraine, recognized for its high level of accreditation and diverse academic programs in culture and arts.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Established in 1968, the [[kyiv|Kyiv]] State Institute of Culture was founded under the Resolution of the Council of Ministers of [[soviet-union|the USSR]] No. 608 on August 8, 1968, and the decision of the Council of Ministers of the USSR No. 459 on August 28, 1968. Initially, it included faculties focused on 'Cultural education', 'Librarianship', and 'Social professions'.",
+        "In the early 1990s, the institute became a focal point for student activism in response to the political and social changes occurring [[coal-in-ukraine|in Ukraine]]. Students advocated for the national flag and the cessation of Soviet ideological teachings, leading to the formation of a branch of the [[ukrainian|Ukrainian]] Student Union and the Society of the Ukrainian Language of [[taras-shevchenko|Taras Shevchenko]].",
+        "On April 21, 1993, Mykhailo Poplavskyi was appointed rector by the Minister of [[culture-of-ukraine|Culture of Ukraine]], Ivan Dziuba, marking a significant turning point in the institution's history. Under his leadership, the institute expanded its academic offerings and improved its facilities.",
+        "By 1996, the new administration had established a qualified faculty, developed alternative funding sources, and modernized the curriculum. New specialties and faculties were created, including a faculty for preliminary training.",
+        "In 1997, the institute opened several new faculties, including 'Jurisprudence', 'Ethnocultural', 'Computer Technology', and 'Sociology', as well as the first Institute of Film and Television in Ukraine. This institute aimed to train professionals in various media fields.",
+        "On November 11, 1997, the Cabinet of Ministers elevated the institution to the status of [[taras-shevchenko-national-university-of-kyiv|Kyiv State University]] of Culture and Arts, which allowed for the expansion of training programs, including doctoral studies. The first doctoral specialties in 'Bibliology and Libraryology', 'Social pedagogy', and 'Method of musical education' were introduced. In 1999, the university was granted the status of 'National' by the [[president-of-ukraine|President of Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Art Groups",
+      "paragraphs": [
+        "The university is home to several notable art groups, including the Academic Choir 'ANIMA', led by Natalia Krechko, the Pavluchenko Ukrainian Folk Choir, directed by Olena Skoptsova, and the Folk ensemble 'Kralytsia', under the leadership of Ivan Sinelnikov."
+      ]
+    },
+    {
+      "heading": "Notable Alumni",
+      "paragraphs": [
+        "The university has produced several distinguished alumni, including members of the musical group DakhaBrakha—Olena Tsybulska, Iryna Kovalenko, and Nina Garenetska, who received the Shevchenko Prize in 2020.",
+        "Other notable alumni include Inna Dorofeieva, a ballerina; Petro Gadz, an entrepreneur and politician; Susanna Karpenko, a composer and folk singer; Oleksandr Knyha, a theatre director; Kateryna Pavlenko, the leader of the band Go A, who represented [[ukraine|Ukraine]] in Eurovision 2021; and Mykhailo Poplavskyi, the university's former rector. Victoria Vasalatiy is also recognized as a singer-songwriter."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "culture-of-ukraine",
+    "kyiv",
+    "president-of-ukraine",
+    "soviet-union",
+    "taras-shevchenko",
+    "taras-shevchenko-national-university-of-kyiv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Kyiv National University of Culture and Arts — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kyiv_National_University_of_Culture_and_Arts",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

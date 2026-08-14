@@ -8130,5 +8130,742 @@
     "aliases": [],
     "notability": 1,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q11714526",
+    "slug": "ivano-frankivsk-national-technical-university-of-oil-and-gas",
+    "name": "Ivano-Frankivsk National Technical University of Oil and Gas",
+    "wp_title": "Ivano-Frankivsk National Technical University of Oil and Gas",
+    "type": "university",
+    "category": "geography",
+    "aliases": [],
+    "notability": 9,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q156717",
+    "slug": "khmelnytskyi",
+    "name": "Khmelnytskyi",
+    "wp_title": "Khmelnytskyi",
+    "type": "centre of oblast",
+    "category": "geography",
+    "aliases": [
+      "Chmelnitski",
+      "Chmielnicki",
+      "Khmel'nyts'kyy",
+      "Khmelnitski",
+      "Khmelnitskii",
+      "Khmelnytsky",
+      "Khmelnytskyy",
+      "Kiemieliszki",
+      "Kimlishuk",
+      "Proskuriv",
+      "Proskurov",
+      "Proskurow",
+      "Proskurów",
+      "Płoskirow",
+      "Płoskirów"
+    ],
+    "notability": 94,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q694219",
+    "slug": "state-university-of-trade-and-economics",
+    "name": "State University of Trade and Economics",
+    "wp_title": "State University of Trade and Economics",
+    "type": "national university",
+    "category": "geography",
+    "aliases": [
+      "KITE",
+      "KNUTE",
+      "KSUTE",
+      "KTEI",
+      "Kyiv Institute of Trade and Economics",
+      "Kyiv National University of Trade and Economics",
+      "Kyiv State Trade and Economics University",
+      "Kyiv State University of Trade and Economics",
+      "Kyiv Trade Economics Institute",
+      "Kyiv branch of Donetsk Institute of Soviet Trade",
+      "Kyiv branch of Kharkiv Institute of Soviet Trade",
+      "Kyiv branch of the All-Union Correspondence Institute of Soviet Trade",
+      "NUTE",
+      "National Trade Economics University of Kyiv",
+      "National University of Trade and Economics",
+      "SUTE"
+    ],
+    "notability": 20,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4331466",
+    "slug": "odesa-national-maritime-university",
+    "name": "Odesa National Maritime University",
+    "wp_title": "Odesa National Maritime University",
+    "type": "university",
+    "category": "geography",
+    "aliases": [],
+    "notability": 7,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4456097",
+    "slug": "west-ukrainian-national-university",
+    "name": "West Ukrainian National University",
+    "wp_title": "West Ukrainian National University",
+    "type": "university",
+    "category": "geography",
+    "aliases": [],
+    "notability": 8,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q712272",
+    "slug": "vasylivka",
+    "name": "Vasylivka",
+    "wp_title": "Vasylivka",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 39,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2385597",
+    "slug": "zbarazh-castle",
+    "name": "Zbarazh Castle",
+    "wp_title": "Zbarazh Castle",
+    "type": "castle",
+    "category": "geography",
+    "aliases": [],
+    "notability": 13,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1114760",
+    "slug": "zorya-mashproekt",
+    "name": "Zorya-Mashproekt",
+    "wp_title": "Zorya-Mashproekt",
+    "type": "business",
+    "category": "geography",
+    "aliases": [],
+    "notability": 10,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q219836",
+    "slug": "zvenyhorodka",
+    "name": "Zvenyhorodka",
+    "wp_title": "Zvenyhorodka",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 39,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q350586",
+    "slug": "gorodok",
+    "name": "Gorodok",
+    "wp_title": "Gorodok",
+    "type": "Wikimedia disambiguation page",
+    "category": "people",
+    "aliases": [],
+    "notability": 20,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q734876",
+    "slug": "ivan-sirko",
+    "name": "Ivan Sirko",
+    "wp_title": "Ivan Sirko",
+    "type": "human",
+    "category": "people",
+    "aliases": [],
+    "notability": 22,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1147883",
+    "slug": "ruthenia",
+    "name": "Ruthenia",
+    "wp_title": "Ruthenia",
+    "type": "region",
+    "category": "people",
+    "aliases": [],
+    "notability": 41,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q33345",
+    "slug": "yevpatoriya",
+    "name": "Yevpatoriya",
+    "wp_title": "Yevpatoria",
+    "type": "city or town",
+    "category": "people",
+    "aliases": [
+      "Eupatoria",
+      "Yevpatoria",
+      "Yevpatoriia"
+    ],
+    "notability": 82,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4220223",
+    "slug": "kyiv-national-university-of-culture-and-arts",
+    "name": "Kyiv National University of Culture and Arts",
+    "wp_title": "Kyiv National University of Culture and Arts",
+    "type": "educational institution",
+    "category": "people",
+    "aliases": [],
+    "notability": 9,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4230453",
+    "slug": "ukrainian-canadian-congress",
+    "name": "Ukrainian Canadian Congress",
+    "wp_title": "Ukrainian Canadian Congress",
+    "type": "organization",
+    "category": "people",
+    "aliases": [
+      "The Ukrainian Canadian Congress"
+    ],
+    "notability": 6,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4127408",
+    "slug": "ukrainian-world-congress",
+    "name": "Ukrainian World Congress",
+    "wp_title": "Ukrainian World Congress",
+    "type": "international organization",
+    "category": "people",
+    "aliases": [
+      "World Congress of Free Ukrainians"
+    ],
+    "notability": 8,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1189277",
+    "slug": "national-art-museum-of-ukraine",
+    "name": "National Art Museum of Ukraine",
+    "wp_title": "National Art Museum of Ukraine",
+    "type": "art museum",
+    "category": "culture",
+    "aliases": [
+      "Kyiv Museum of Ukrainian Art",
+      "Kyiv State Museum of Ukrainian Art",
+      "NKhMU",
+      "National Art Museum Ukraine",
+      "National Art Museum of Ukraine (Kyiv)",
+      "National Art Museum of Ukraine Kyiv",
+      "National Art Museum of Ukraine in Kyiv",
+      "The National Art Museum of Ukraine"
+    ],
+    "notability": 34,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q12119962",
+    "slug": "pavlo-tychyna-museum",
+    "name": "Pavlo Tychyna Museum",
+    "wp_title": "Pavlo Tychyna Museum",
+    "type": "literary museum",
+    "category": "culture",
+    "aliases": [
+      "Literary and Memorial Museum of Pavlo Tychyna"
+    ],
+    "notability": 3,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q7315",
+    "slug": "pyotr-ilyich-tchaikovsky",
+    "name": "Pyotr Ilyich Tchaikovsky",
+    "wp_title": "Pyotr Ilyich Tchaikovsky",
+    "type": "human",
+    "category": "culture",
+    "aliases": [
+      "Chaikovsky",
+      "Chajkovskij",
+      "Peter Ilich Tchaikovsky",
+      "Peter Tchaikovsky",
+      "Piotr Ilyitch Tchaikovsky",
+      "Pyotr Il'ich Chaikovskiy",
+      "Pyotr Il'yich Tchaikovsky",
+      "Pyotr Tchaikovsky",
+      "Tchaikovsky",
+      "Tschaikowski",
+      "Tschaikowsky"
+    ],
+    "notability": 192,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q139413259",
+    "slug": "ukrainian-contemporary-art",
+    "name": "Ukrainian Contemporary Art",
+    "wp_title": "Ukrainian contemporary art",
+    "type": "topic",
+    "category": "culture",
+    "aliases": [],
+    "notability": 3,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4469637",
+    "slug": "uzhhorod-national-university",
+    "name": "Uzhhorod National University",
+    "wp_title": "Uzhhorod National University",
+    "type": "university",
+    "category": "culture",
+    "aliases": [
+      "State Higher Education Establishment \"Uzhhorod National University\"",
+      "State University \"Uzhhorod National University\"",
+      "Uzhgorod State University",
+      "Uzhhorod State University"
+    ],
+    "notability": 15,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q3442414",
+    "slug": "vasyl-krychevsky",
+    "name": "Vasyl Krychevsky",
+    "wp_title": "Vasyl Krychevsky",
+    "type": "human",
+    "category": "culture",
+    "aliases": [
+      "V. H. Krychevs'kyĭ",
+      "Vasilij Grigor'evič Kričevskij",
+      "Vasily Krichevski",
+      "Vasily Krichevsky",
+      "Vasyl H. Krychevsky",
+      "Vasyl Hryhorovych Krychevs'kyĭ",
+      "Vasyl Hryhorovych Krychevsky",
+      "Vasyl Hryhorovych Krychevskyi",
+      "Vasyl Krychevskyi",
+      "Vasyl' Hryhorovyč Kryčevs'kyj",
+      "Vasyl' Kkrychevs'ky",
+      "Vasyl' Krychevs'ky",
+      "Wassil Grigorowitsch Kritschewskij"
+    ],
+    "notability": 25,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2361969",
+    "slug": "chumak",
+    "name": "Chumak",
+    "wp_title": "Chumak",
+    "type": "occupation",
+    "category": "economy",
+    "aliases": [],
+    "notability": 11,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q30962895",
+    "slug": "cyborgs-heroes-never-die",
+    "name": "Cyborgs: Heroes Never Die",
+    "wp_title": "Cyborgs (film)",
+    "type": "film",
+    "category": "economy",
+    "aliases": [
+      "Heroes Never Die"
+    ],
+    "notability": 19,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q125894309",
+    "slug": "electricity-in-ukraine",
+    "name": "electricity in Ukraine",
+    "wp_title": "Electricity in Ukraine",
+    "type": "aspect in a geographic region",
+    "category": "economy",
+    "aliases": [
+      "electricity sector in Ukraine"
+    ],
+    "notability": 2,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q181488",
+    "slug": "gullivers-travels",
+    "name": "Gulliver's Travels",
+    "wp_title": "Gulliver's Travels",
+    "type": "literary work",
+    "category": "economy",
+    "aliases": [
+      "1726 Gulliver's Travels",
+      "Travels into Several Remote Nations of the World. In Four parts. By Lemuel Gulliver, First a Surgeon, and then a Captain of Several Ships"
+    ],
+    "notability": 85,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q761130",
+    "slug": "henichesk",
+    "name": "Henichesk",
+    "wp_title": "Henichesk",
+    "type": "city in Ukraine",
+    "category": "economy",
+    "aliases": [],
+    "notability": 59,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q5428",
+    "slug": "siberia",
+    "name": "Siberia",
+    "wp_title": "Siberia",
+    "type": "region",
+    "category": "economy",
+    "aliases": [],
+    "notability": 183,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q568458",
+    "slug": "2004-ukrainian-presidential-election",
+    "name": "2004 Ukrainian presidential election",
+    "wp_title": "2004 Ukrainian presidential election",
+    "type": "Ukrainian presidential election",
+    "category": "politics",
+    "aliases": [
+      "Ukrainian presidential election, 2004"
+    ],
+    "notability": 27,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q328353",
+    "slug": "2006-ukrainian-parliamentary-election",
+    "name": "2006 Ukrainian parliamentary election",
+    "wp_title": "2006 Ukrainian parliamentary election",
+    "type": "Ukrainian parliamentary election",
+    "category": "politics",
+    "aliases": [
+      "Ukrainian parliamentary election, 2006"
+    ],
+    "notability": 17,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q674086",
+    "slug": "2010-ukrainian-presidential-election",
+    "name": "2010 Ukrainian presidential election",
+    "wp_title": "2010 Ukrainian presidential election",
+    "type": "Ukrainian presidential election",
+    "category": "politics",
+    "aliases": [
+      "Ukrainian presidential election, 2010"
+    ],
+    "notability": 33,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4358",
+    "slug": "2012-ukrainian-parliamentary-election",
+    "name": "2012 Ukrainian parliamentary election",
+    "wp_title": "2012 Ukrainian parliamentary election",
+    "type": "Ukrainian parliamentary election",
+    "category": "politics",
+    "aliases": [
+      "2012 ukrainian parliamentary election",
+      "Ukrainian legislative election",
+      "Ukrainian parliamentary election of 2012",
+      "Ukrainian parliamentary election, 2012"
+    ],
+    "notability": 19,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q16948747",
+    "slug": "2019-ukrainian-presidential-election",
+    "name": "2019 Ukrainian presidential election",
+    "wp_title": "2019 Ukrainian presidential election",
+    "type": "Ukrainian presidential election",
+    "category": "politics",
+    "aliases": [
+      "Ukrainian presidential election, 2019"
+    ],
+    "notability": 46,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q170036",
+    "slug": "kyiv-oblast",
+    "name": "Kyiv Oblast",
+    "wp_title": "Kyiv Oblast",
+    "type": "oblast of Ukraine",
+    "category": "politics",
+    "aliases": [
+      "Kyiv Region",
+      "Kyivshchyna"
+    ],
+    "notability": 108,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1432234",
+    "slug": "odesa-international-airport",
+    "name": "Odesa International Airport",
+    "wp_title": "Odesa International Airport",
+    "type": "international airport",
+    "category": "politics",
+    "aliases": [
+      "ODS",
+      "Odesa Airport",
+      "UKOO"
+    ],
+    "notability": 37,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1618896",
+    "slug": "rus-khaganate",
+    "name": "Rus' Khaganate",
+    "wp_title": "Rus' Khaganate",
+    "type": "historical country",
+    "category": "politics",
+    "aliases": [
+      "Khaganate of Rus",
+      "Khaganate of Rus'",
+      "Rus Khaganate"
+    ],
+    "notability": 31,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q844787",
+    "slug": "organization-of-ukrainian-nationalists",
+    "name": "Organization of Ukrainian Nationalists",
+    "wp_title": "Organisation of Ukrainian Nationalists",
+    "type": "political party",
+    "category": "politics",
+    "aliases": [
+      "OUN"
+    ],
+    "notability": 44,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q875",
+    "slug": "abakan",
+    "name": "Abakan",
+    "wp_title": "Abakan",
+    "type": "city",
+    "category": "history",
+    "aliases": [
+      "Ust-Abakanskoe"
+    ],
+    "notability": 102,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2622438",
+    "slug": "andriivskyi-descent",
+    "name": "Andriivskyi Descent",
+    "wp_title": "Andriivskyi Descent",
+    "type": "descent",
+    "category": "history",
+    "aliases": [
+      "Andriivskyi Uzviz"
+    ],
+    "notability": 20,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1076228",
+    "slug": "chop",
+    "name": "Chop",
+    "wp_title": "Chop",
+    "type": "Wikimedia disambiguation page",
+    "category": "history",
+    "aliases": [],
+    "notability": 4,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4225541",
+    "slug": "mikhail-kovalchuk",
+    "name": "Mikhail Kovalchuk",
+    "wp_title": "Mikhail Kovalchuk",
+    "type": "human",
+    "category": "history",
+    "aliases": [
+      "Mikhail Valentinovich Kovalchuk"
+    ],
+    "notability": 9,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q35314",
+    "slug": "nikita-khrushchev",
+    "name": "Nikita Khrushchev",
+    "wp_title": "Nikita Khrushchev",
+    "type": "human",
+    "category": "history",
+    "aliases": [
+      "Khrushchov",
+      "Khrushchyov",
+      "Nikita Sergeyevich Khrushchov",
+      "Nikita Sergeyevich Khrushchyov"
+    ],
+    "notability": 170,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q422493",
+    "slug": "operation-vistula",
+    "name": "Operation Vistula",
+    "wp_title": "Operation Vistula",
+    "type": "military operation",
+    "category": "history",
+    "aliases": [
+      "Akcja ‘Wisła’",
+      "Akcja ‘W’",
+      "Operation Wisla",
+      "Operation Wisła"
+    ],
+    "notability": 25,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1394",
+    "slug": "vladimir-lenin",
+    "name": "Vladimir Lenin",
+    "wp_title": "Vladimir Lenin",
+    "type": "human",
+    "category": "history",
+    "aliases": [
+      "V. I. Ul'yanov",
+      "V. I. Ulyanov",
+      "Vl llyin",
+      "Vladimir Il'ich Lenin",
+      "Vladimir Il'ich Ul'yanov",
+      "Vladimir Ilyich Lenin",
+      "Vladimir Ul'yanov",
+      "Vladimir Ulyanov"
+    ],
+    "notability": 293,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q146524",
+    "slug": "yaremche",
+    "name": "Yaremche",
+    "wp_title": "Yaremche",
+    "type": "city of regional significance of Ukraine",
+    "category": "history",
+    "aliases": [],
+    "notability": 45,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q55108431",
+    "slug": "alina-pash",
+    "name": "Alina Pash",
+    "wp_title": "Alina Pash",
+    "type": "human",
+    "category": "war",
+    "aliases": [
+      "Alina Ivanivna Pash",
+      "Pash Alina Ivanivna"
+    ],
+    "notability": 25,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4520514",
+    "slug": "anatoly-shariy",
+    "name": "Anatoly Shariy",
+    "wp_title": "Anatoly Shariy",
+    "type": "human",
+    "category": "war",
+    "aliases": [
+      "Anatoli Chariï",
+      "Anatoliy Sharij",
+      "Anatoliy Shariy",
+      "Anatoly Anatoliyevich Shariy",
+      "Anatoly Anatolyevich Shariy",
+      "Anatoly Sharij"
+    ],
+    "notability": 19,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q58607",
+    "slug": "daniel-of-galicia",
+    "name": "Daniel of Galicia",
+    "wp_title": "Daniel of Galicia",
+    "type": "human",
+    "category": "war",
+    "aliases": [],
+    "notability": 36,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1569666",
+    "slug": "haidamaka",
+    "name": "Haidamaka",
+    "wp_title": "Haydamak",
+    "type": "paramilitary organization",
+    "category": "war",
+    "aliases": [
+      "Haidamak",
+      "Haidamaks",
+      "Haydamak",
+      "Haydamaka",
+      "Haydamaks"
+    ],
+    "notability": 17,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q10857432",
+    "slug": "pavlo-klimkin",
+    "name": "Pavlo Klimkin",
+    "wp_title": "Pavlo Klimkin",
+    "type": "human",
+    "category": "war",
+    "aliases": [
+      "Pavlo Anatoliiovych Klimkin",
+      "Pavlo Anatoliyovych Klimkin"
+    ],
+    "notability": 25,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q12139013",
+    "slug": "samopomich",
+    "name": "Samopomich",
+    "wp_title": "Self Reliance (political party)",
+    "type": "political party",
+    "category": "war",
+    "aliases": [
+      "Self Help",
+      "Self Reliance",
+      "Self-Help",
+      "Self-Reliance"
+    ],
+    "notability": 14,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1472360",
+    "slug": "sviatohirsk-lavra",
+    "name": "Sviatohirsk Lavra",
+    "wp_title": "Sviatohirsk Lavra",
+    "type": "monastery",
+    "category": "war",
+    "aliases": [],
+    "notability": 30,
+    "status": "synthesized"
   }
 ]

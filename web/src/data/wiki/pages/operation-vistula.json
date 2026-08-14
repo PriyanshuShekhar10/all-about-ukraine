@@ -1,0 +1,84 @@
+{
+  "qid": "Q422493",
+  "slug": "operation-vistula",
+  "title": "Operation Vistula",
+  "type": "military operation",
+  "category": "history",
+  "aliases": [
+    "Akcja ‘Wisła’",
+    "Akcja ‘W’",
+    "Operation Wisla",
+    "Operation Wisła"
+  ],
+  "infobox": {
+    "label": "military operation",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Polish People's Republic",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Bieszczady Mountains, Low Beskids",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "Operation Vistula was a military operation conducted in 1947 that involved the ethnic cleansing, deportation, and forced resettlement of nearly 150,000 Ukrainians, [[rusyns|Rusyns]], Boykos, and Lemkos from southeastern Poland to the northern and western territories of the country. This operation aimed to suppress the Ukrainian Insurgent Army and significantly impacted the Ukrainian population in Poland.",
+  "sections": [
+    {
+      "heading": "Background",
+      "paragraphs": [
+        "Operation Vistula, known in Polish as Akcja [[vistula|Wisła]] and in [[ukrainian|Ukrainian]] as Опера́ція «Ві́сла», was initiated to eliminate support for the [[ukrainian-insurgent-army|Ukrainian Insurgent Army]] (UPA), which was engaged in conflict with the Polish People's Army in southeastern Poland. The operation was triggered by the assassination of Polish General Karol Świerczewski on 28 March 1947, leading to a swift decision by Polish authorities to deport [[ukrainians|Ukrainians]] and Lemkos.",
+        "Preparations for the operation began as early as January 1947. On 10 September 1947, the Supreme Soviet of [[soviet-union|the Soviet Union]] issued an order for the deportation of Ukrainian families associated with the UPA to [[siberia|Siberia]], highlighting the continuity of Soviet policies against Ukrainians."
+      ]
+    },
+    {
+      "heading": "Execution of the Operation",
+      "paragraphs": [
+        "The operation was executed by the Operational Group Vistula, comprising approximately 20,000 personnel under the command of General Stefan Mossor. The operation commenced on 28 April 1947, when Polish army divisions encircled Ukrainian-populated villages in southeastern Poland. Concurrently, Soviet security forces blocked borders to prevent fleeing deportees.",
+        "Initially, around 20,000 Ukrainians were targeted for deportation, but this number eventually rose to nearly 150,000. The deportees were resettled across the Northern and Western Territories of Poland, areas designated by the Potsdam Agreement."
+      ]
+    },
+    {
+      "heading": "Deportation Process",
+      "paragraphs": [
+        "The deportation process was marked by a principle of 'collective responsibility,' resulting in the forced removal of all individuals of Ukrainian descent, regardless of their political affiliations. This included mixed families and even those who had previously supported the Soviet regime.",
+        "Resistance to deportation often led to imprisonment in the Jaworzno camp, where conditions were dire, resulting in deaths and suicides. Deportees were transported in poor conditions, with many dying during transit."
+      ]
+    },
+    {
+      "heading": "Conditions and Resettlement",
+      "paragraphs": [
+        "Upon resettlement, deported Ukrainians faced harsh living conditions, with inadequate compensation for lost properties and separation from families. The Polish authorities aimed to scatter the Ukrainian population to prevent the formation of significant communities.",
+        "Although some financial assistance was provided, the accommodations were often substandard, as many habitable buildings had been occupied by repatriated Poles."
+      ]
+    },
+    {
+      "heading": "Legacy and Impact",
+      "paragraphs": [
+        "Operation Vistula resulted in the near-total depopulation of regions such as Pogórze Przemyskie and Bieszczady, severely weakening the UPA's capacity for resistance. The operation is widely condemned as an act of ethnic cleansing, with its repercussions still felt in the Ukrainian community.",
+        "On 3 August 1990, the Polish Senate passed a resolution denouncing Operation Vistula, reflecting a shift in historical perspective regarding this operation and its impact on the Ukrainian population in Poland."
+      ]
+    }
+  ],
+  "links_out": [
+    "rusyns",
+    "siberia",
+    "soviet-union",
+    "ukrainian",
+    "ukrainian-insurgent-army",
+    "ukrainians",
+    "vistula"
+  ],
+  "sources": [
+    {
+      "title": "Operation Vistula — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Operation_Vistula",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

@@ -42,14 +42,14 @@
     {
       "heading": "Geography",
       "paragraphs": [
-        "Borodianka is situated on the banks of the Zdvyzh River, a tributary of the Teteriv River, within the [[kyiv|Kyiv]] Oblast of [[ukraine|Ukraine]]."
+        "Borodianka is situated on the banks of the Zdvyzh River, a tributary of the Teteriv River, within the [[kyiv-oblast|Kyiv Oblast]] of [[ukraine|Ukraine]]."
       ]
     },
     {
       "heading": "Historical Significance",
       "paragraphs": [
         "The settlement was first documented in 1190 under the name Kozyatychi. In 1863, Borodianka gained attention for an anti-Russian uprising led by Władysław Żeleński during the January Uprising.",
-        "In January 1918, Borodianka was the site of a battle between the [[sich-riflemen|Sich Riflemen]] and the Haidamak kish of Left-bank Ukraine against Bolshevik forces, contributing to the struggles for control over Kyiv.",
+        "In January 1918, Borodianka was the site of a battle between the [[sich-riflemen|Sich Riflemen]] and the [[haidamaka|Haidamak]] kish of Left-bank Ukraine against Bolshevik forces, contributing to the struggles for control over [[kyiv|Kyiv]].",
         "[[holodomor|The Holodomor]]'s impact was felt in Borodianka in December 1932, with the first victims of the famine recorded, although the exact death toll remains unknown. A memorial cross was erected in 1990 at the site of mass burials for Holodomor victims."
       ]
     },
@@ -84,8 +84,10 @@
   "links_out": [
     "2022-russian-invasion-of-ukraine",
     "coal-in-ukraine",
+    "haidamaka",
     "holodomor",
     "kyiv",
+    "kyiv-oblast",
     "sich-riflemen",
     "taras-shevchenko",
     "ukraine"

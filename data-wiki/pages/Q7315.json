@@ -1,0 +1,92 @@
+{
+  "qid": "Q7315",
+  "slug": "pyotr-ilyich-tchaikovsky",
+  "title": "Pyotr Ilyich Tchaikovsky",
+  "type": "human",
+  "category": "culture",
+  "aliases": [
+    "Chaikovsky",
+    "Chajkovskij",
+    "Peter Ilich Tchaikovsky",
+    "Peter Tchaikovsky",
+    "Piotr Ilyitch Tchaikovsky",
+    "Pyotr Il'ich Chaikovskiy",
+    "Pyotr Il'yich Tchaikovsky",
+    "Pyotr Tchaikovsky",
+    "Tchaikovsky",
+    "Tschaikowski",
+    "Tschaikowsky"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1840-04-25",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1893-10-25",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Votkinsk",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "professor",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Pyotr Ilyich Tchaikovsky was a prominent Russian composer of the Romantic era, born on 7 May 1840 and passing away on 6 November 1893. His works, which include notable pieces such as the 1812 Overture and the ballets Swan Lake and The Nutcracker, have had a lasting impact on classical music and are significant within the cultural context of Ukraine.",
+  "sections": [
+    {
+      "heading": "Early Life and Heritage",
+      "paragraphs": [
+        "Tchaikovsky was born in Votkinsk, present-day Udmurtia, Russia. His lineage includes connections to [[ukraine|Ukraine]], as his grandfather, Pyotr Fedorovich Tchaikovsky, was born in Nikolaevka, [[dnipro|Yekaterinoslav]] Governorate, now [[coal-in-ukraine|in Ukraine]]. Tchaikovsky's great-grandfather, Fyodor Chaika, was a Zaporozhian Cossack who fought in the Battle of [[poltava|Poltava]] in 1709.",
+        "Raised in a family with artistic inclinations, Tchaikovsky's parents encouraged his musical education from an early age. His mother, Alexandra, played a significant role in his early life, and her death when he was 14 deeply affected him, prompting his first serious composition."
+      ]
+    },
+    {
+      "heading": "Education and Musical Development",
+      "paragraphs": [
+        "Initially destined for a civil service career, Tchaikovsky's musical talent led him to the Saint Petersburg Conservatory, where he graduated in 1865. His education there distinguished him from his contemporaries in the nationalist movement, allowing him to blend Russian and Western musical influences.",
+        "The Conservatory provided Tchaikovsky with the formal training necessary to become a professional composer, shaping his future works that would resonate with audiences in Ukraine and beyond."
+      ]
+    },
+    {
+      "heading": "Career and Musical Contributions",
+      "paragraphs": [
+        "Tchaikovsky's career included a brief period in civil service before he fully committed to music. He became a professor at the Moscow Conservatory and gained recognition for his compositions, which included operas, symphonies, and ballets that remain popular today.",
+        "His works, such as the ballets Swan Lake and The Nutcracker, have become staples of classical music repertoire and are celebrated in [[ukrainian|Ukrainian]] cultural institutions, highlighting Tchaikovsky's enduring influence in Ukraine."
+      ]
+    },
+    {
+      "heading": "Personal Struggles and Legacy",
+      "paragraphs": [
+        "Despite his professional successes, Tchaikovsky faced personal challenges, including depression and the complexities of his private life. His relationships and struggles with his identity have been subjects of scholarly discussion.",
+        "Tchaikovsky's music transcends cultural boundaries, and his ability to intertwine Russian and Western elements has inspired generations of musicians, including those in Ukraine, where his compositions are frequently performed and cherished."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "dnipro",
+    "poltava",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Pyotr Ilyich Tchaikovsky — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

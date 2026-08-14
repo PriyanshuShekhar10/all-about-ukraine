@@ -1,0 +1,83 @@
+{
+  "qid": "Q55108431",
+  "slug": "alina-pash",
+  "title": "Alina Pash",
+  "type": "human",
+  "category": "war",
+  "aliases": [
+    "Alina Ivanivna Pash",
+    "Pash Alina Ivanivna"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1993-05-06",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Bushtyno",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Alina Ivanivna Pash, born on May 6, 1993, is a prominent Ukrainian singer, rapper, and songwriter known for her contributions to the music scene in Ukraine. She gained popularity with her single 'Bitanga' in 2018 and has participated in significant cultural events, including the Ukrainian Independence Day celebration and the Eurovision Song Contest selection.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Alina Pash was born in the village of Bushtyno, [[zakarpattia-oblast|Zakarpattia Oblast]], [[ukraine|Ukraine]]. She grew up in a family with a music teacher and a policeman, which influenced her early interest in music. Pash began singing at a young age, performing publicly for the first time at six years old. At thirteen, she traveled alone to [[uzhhorod|Uzhgorod]] for vocal lessons every weekend, showing her commitment to her musical aspirations. Initially, she dreamed of becoming an archeologist and later a police officer, inspired by her father's profession.",
+        "In 2011, Pash relocated to [[kyiv|Kyiv]] to study at the Academy of Circus and Variety Arts. During this time, she worked in various roles within the music industry, collaborating with DJs and bands and serving as a backing vocalist for artists such as Iryna Bilyk and the band Skai."
+      ]
+    },
+    {
+      "heading": "Career Milestones",
+      "paragraphs": [
+        "Alina Pash gained significant recognition in 2016 when she participated in the sixth season of the [[ukrainian|Ukrainian]] edition of The X Factor, finishing in third place. Her single 'Bitanga,' released on April 15, 2018, marked her breakthrough in the [[music-of-ukraine|Ukrainian music]] scene, blending hip-hop and pop with ethnic influences. The song's success led to her being featured in the Ukrainian Forbes '30 to 30' list in 2019 as a young opinion leader.",
+        "Pash's performance on Ukrainian Independence Day in 2019, where she rapped a variation of the national anthem in front of President Volodymyr Zelensky, further solidified her status as a prominent cultural figure [[coal-in-ukraine|in Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Eurovision and Controversy",
+      "paragraphs": [
+        "In 2022, Alina Pash entered the Vidbir competition with her song 'Shadows of Forgotten Ancestors,' winning the right to represent Ukraine at the Eurovision Song Contest. However, an investigation by the Ukrainian broadcaster UA:PBC into her past trip to [[crimea|Crimea]] in 2015 led to her withdrawal from the contest. Pash clarified that she had never performed in Russia and had traveled there for personal reasons before becoming a public figure."
+      ]
+    },
+    {
+      "heading": "Recent Activities",
+      "paragraphs": [
+        "Following the onset of Russia's full-scale [[full-scale-russo-ukrainian-war|invasion of Ukraine]], Alina Pash has been actively involved in public engagements and charity concerts across Ukraine and Europe. On July 8, 2022, she released the single 'Heaven,' a tribute to children who lost their lives in the war, inspired by the bombing of a maternity hospital in [[mariupol|Mariupol]].",
+        "In 2023, she continued her artistic endeavors with the release of the maxi single 'Gorgany' and a European charity tour titled 'Listen,' performing in multiple countries to raise awareness and support for Ukraine."
+      ]
+    },
+    {
+      "heading": "Discography",
+      "paragraphs": [
+        "Alina Pash's discography includes several albums and EPs that reflect her musical evolution and cultural roots. Notable releases are 'Pintea: Gory' (2019), 'rozMova' (2021), and the upcoming EP 'Esbat' (2024). Her singles, such as 'Bitanga,' 'Heaven,' and 'Shadows of Forgotten Ancestors,' showcase her diverse musical style and commitment to addressing social issues through her art."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "crimea",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "mariupol",
+    "music-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "uzhhorod",
+    "zakarpattia-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Alina Pash — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alina_Pash",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

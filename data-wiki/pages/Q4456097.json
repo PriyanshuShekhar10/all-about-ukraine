@@ -1,0 +1,81 @@
+{
+  "qid": "Q4456097",
+  "slug": "west-ukrainian-national-university",
+  "title": "West Ukrainian National University",
+  "type": "university",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "university",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1966-06-30",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Ternopil, Yerevan",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.5531, 25.5624",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "West Ukrainian National University (WUNU) is a state-sponsored institution established in 1966 in Ternopil, [[ukraine|Ukraine]]. It is recognized as one of the leading public universities in the region and has notable alumni, including former [[president-of-ukraine|Ukrainian President]] [[viktor-yushchenko|Viktor Yushchenko]].",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "West Ukrainian National University was founded in 1966, originating from the Department of Financial and Economic Faculty of [[kyiv|Kyiv]] Institute of National Economy, which was opened in [[ternopil|Ternopil]]. Over the years, it evolved from a department into a faculty in 1967, then became the Financial and Economic Institute in 1971, followed by the Institute of National Economy in 1989, and the Academy of National Economy in 1994. The institution achieved university status on March 30, 2005, and was granted national status on September 29, 2006."
+      ]
+    },
+    {
+      "heading": "Campuses and Facilities",
+      "paragraphs": [
+        "The WUNU complex currently comprises 14 training and laboratory complexes, a library, 4 sports gyms, 3 sports grounds, 8 dormitories, and 9 economic and service buildings."
+      ]
+    },
+    {
+      "heading": "Academic Departments",
+      "paragraphs": [
+        "The university offers a range of academic departments, including the Faculty of Accounting and Audit, Faculty of Agricultural Economics and Management, Faculty of Banking Business, Faculty of Computer Informational Technologies, Department of Information Computing Systems and Control, American-[[ukrainian|Ukrainian]] School of Computer Sciences and Technologies, Faculty of Economics and Investment Management, Faculty of Economics and Management, Faculty of Finance, Faculty of International Business and Management, Faculty of Law, the Ukrainian-Dutch Faculty of Economics and Management, and Faculty of Post-Graduate Studies."
+      ]
+    },
+    {
+      "heading": "International Engagement",
+      "paragraphs": [
+        "WUNU is actively involved in international organizations, having joined the European Association of International Education in 1999, the European University Association in 2007, and the Magna Charta Universitatum in 2008. The university has been a member of the Talloires Network since 2012.",
+        "The university has established cooperation with 52 foreign educational institutions, including 16 from Poland, 7 from Russia, and several from Germany, Belarus, Italy, the USA, and other countries.",
+        "WUNU offers various joint programs with foreign partners, such as a German-speaking integrated program for Bachelor and Master training, a Ukrainian-American Bachelor training program, and an English-speaking program in International Economics and Tourism.",
+        "Since 2007, the university has awarded certificates to 203 foreign students from its Preparatory Department for Foreigners, and since 2006, it has granted 62 Master Diplomas and 40 Bachelor Diplomas to foreign citizens.",
+        "In the last decade, WUNU has participated in 35 international projects, including TEMPUS-TACIS, DAAD, APPOLO, and the Marie Curie program."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "president-of-ukraine",
+    "ternopil",
+    "ukraine",
+    "ukrainian",
+    "viktor-yushchenko"
+  ],
+  "sources": [
+    {
+      "title": "West Ukrainian National University — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/West_Ukrainian_National_University",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

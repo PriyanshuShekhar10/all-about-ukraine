@@ -1,0 +1,95 @@
+{
+  "qid": "Q712272",
+  "slug": "vasylivka",
+  "title": "Vasylivka",
+  "type": "city in Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1740",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "14,134",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "10",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "52",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "47.4435, 35.2802",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Vasylivka is a city located in the [[zaporizhzhia-oblast|Zaporizhzhia Oblast]] of southern Ukraine, serving as the administrative center of Vasylivka Raion. As of 2022, the population is estimated at 12,567, and the city is situated on the banks of the Kakhovka Reservoir on the Dnieper River.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Vasylivka is positioned on the banks of the Kakhovka Reservoir, part of the [[dnieper|Dnieper River]] system. According to the 2022 estimate, the population of the city stands at 12,567."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The region around Vasylivka has been part of the [[zaporizhian-sich|Zaporozhian Sich]] since at least the 16th century. The first references to settlements in the area date back to the 1730s, when winter settlements known as 'Kozatski Khutory' emerged along the Konka River.",
+        "Following the dissolution of the Zaporozhian Sich in 1775 and the [[russian-annexation-of-crimea|annexation of Crimea]] in 1783, the area was granted to Vasili Stepanovich Popov, a Russian general, in 1788. He constructed a church dedicated to Saint Basil the Great, which led to the settlement being named Vasylivka. The local population included [[zaporozhian-cossacks|Zaporozhian Cossacks]] and serfs from surrounding gubernias.",
+        "A notable structure, the Popov Manor House, was established by Popov's grandson and was visited by the educator Anton Makarenko in 1925.",
+        "During World War II, Vasylivka was near the German Panther–Wotan line along the Molochna River."
+      ]
+    },
+    {
+      "heading": "Recent Events",
+      "paragraphs": [
+        "In January 1989, the population of Vasylivka was recorded at 16,325, which decreased to 13,996 by January 2013. The city was captured by Russian forces on 2 March 2022 amid the ongoing [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]].",
+        "On 12 December 2022, Russian forces began preparations to evacuate citizens from Vasylivka, and the following week, [[ukrainian|Ukrainian]] artillery targeted Russian positions in the city, resulting in the destruction of military equipment.",
+        "On 4 January 2023, Ukrainian forces shelled the headquarters of Russian troops in Vasylivka, with pro-Russian sources reporting that the strike hit an apartment building, resulting in six casualties."
+      ]
+    },
+    {
+      "heading": "Notable Individuals",
+      "paragraphs": [
+        "Mykhailo Fedorov, born in 1991, is a Ukrainian politician and businessman who currently serves as the Minister of Defence of [[ukraine|Ukraine]].",
+        "Yulia Yatsyk, born in 1979, is a Ukrainian politician affiliated with the Radical Party."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "dnieper",
+    "russian-annexation-of-crimea",
+    "ukraine",
+    "ukrainian",
+    "zaporizhian-sich",
+    "zaporizhzhia-oblast",
+    "zaporozhian-cossacks"
+  ],
+  "sources": [
+    {
+      "title": "Vasylivka — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vasylivka",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

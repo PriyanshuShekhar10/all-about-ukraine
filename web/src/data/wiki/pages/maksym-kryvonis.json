@@ -36,7 +36,7 @@
     {
       "heading": "Khmelnytsky Uprising",
       "paragraphs": [
-        "Kryvonis emerged as one of the most effective generals during the Khmelnytskyi Uprising of 1648, attaining the rank of colonel in the [[cherkasy|Cherkasy]] Regiment. His military prowess was evident in significant victories at the battles of Korsun and Pylyavtsi, where he led Cossack forces to decisive triumphs against Polish armies. He also achieved success in engagements against Prince Jeremi Wiśniowiecki at Makhnivka and Kostiantyniv. Kryvonis died from the plague during the siege of Zamość in November 1648."
+        "Kryvonis emerged as one of the most effective generals during the [[khmelnytskyi|Khmelnytskyi]] Uprising of 1648, attaining the rank of colonel in the [[cherkasy|Cherkasy]] Regiment. His military prowess was evident in significant victories at the battles of Korsun and Pylyavtsi, where he led Cossack forces to decisive triumphs against Polish armies. He also achieved success in engagements against Prince Jeremi Wiśniowiecki at Makhnivka and Kostiantyniv. Kryvonis died from the plague during the siege of Zamość in November 1648."
       ]
     },
     {
@@ -54,7 +54,8 @@
   ],
   "links_out": [
     "bohdan-khmelnytsky",
-    "cherkasy"
+    "cherkasy",
+    "khmelnytskyi"
   ],
   "sources": [
     {

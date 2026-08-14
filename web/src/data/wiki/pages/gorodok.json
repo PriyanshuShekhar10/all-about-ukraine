@@ -1,0 +1,49 @@
+{
+  "qid": "Q350586",
+  "slug": "gorodok",
+  "title": "Gorodok",
+  "type": "Wikimedia disambiguation page",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "Gorodok is a term that can refer to various locations and entities, particularly in [[eastern-europe|Eastern Europe]], including connections to Ukraine. It encompasses several inhabited localities, historical military operations, and cultural references.",
+  "sections": [
+    {
+      "heading": "Geographical References",
+      "paragraphs": [
+        "Gorodok is associated with multiple inhabited localities in Russia, indicating its use as a place name in that country.",
+        "In the context of [[ukraine|Ukraine]], the term 'Horodok' refers to various [[ukrainian|Ukrainian]] places that may be referred to as 'Gorodok' in Russian."
+      ]
+    },
+    {
+      "heading": "Cultural and Historical Significance",
+      "paragraphs": [
+        "Gorodok Stadium is part of the Luzhniki Olympic Complex located in Moscow, Russia, highlighting its relevance in sports and cultural events.",
+        "The term also relates to the Gorodok offensive, a military operation conducted by the Red Army during World War II, which has historical implications for the region."
+      ]
+    },
+    {
+      "heading": "Media and Entertainment",
+      "paragraphs": [
+        "Gorodok is also the title of a television programme, reflecting its cultural presence beyond geographical references."
+      ]
+    }
+  ],
+  "links_out": [
+    "eastern-europe",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Gorodok — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gorodok",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

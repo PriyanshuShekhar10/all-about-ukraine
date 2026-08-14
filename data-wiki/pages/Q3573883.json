@@ -25,7 +25,7 @@
     {
       "heading": "Geographical Overview",
       "paragraphs": [
-        "Eastern Galicia ([[ukrainian|Ukrainian]]: Східна Галичина, Polish: [[galicia|Galicja]] Wschodnia) is a geographical area that constitutes the eastern segment of the historical region of Galicia, as defined by the Austro-Hungarian Empire. It aligns closely with the historical region known as Red Ruthenia, excluding the Chełm Land.",
+        "Eastern Galicia ([[ukrainian|Ukrainian]]: Східна Галичина, Polish: [[galicia|Galicja]] Wschodnia) is a geographical area that constitutes the eastern segment of the historical region of Galicia, as defined by the Austro-Hungarian Empire. It aligns closely with the historical region known as Red [[ruthenia|Ruthenia]], excluding the Chełm Land.",
         "The region encompasses parts of present-day [[western-ukraine|Western Ukraine]], specifically the [[lviv|Lviv]] and [[ivano-frankivsk|Ivano-Frankivsk]] Oblasts, and most of [[ternopil-oblast|Ternopil Oblast]]. Additionally, it includes areas in Southeastern Poland, particularly the eastern parts of the Subcarpathian and Lublin Voivodeships.",
         "Eastern Galicia covers an area of approximately 46,800 km² (18,100 sq miles)."
       ]
@@ -41,13 +41,13 @@
       "heading": "Demographics and Cultural Significance",
       "paragraphs": [
         "Before World War II, Eastern Galicia had a diverse population, predominantly Ukrainian ([[ruthenian|Ruthenian]]), with a significant Polish plurality in urban centers. Other minorities included [[rusyns|Carpatho-Rusyns]], Ashkenazi Jews, and Forest Germans. This demographic composition played a crucial role in the region's cultural and social dynamics.",
-        "The Ukrainian population in Eastern Galicia and the adjacent province of [[volhynia|Volhynia]] constituted about 12% of the Second Polish Republic's population, marking them as the largest minority. However, tensions arose due to the Polish government's unfavorable policies towards minorities, which contributed to the emergence of the underground Organization of Ukrainian Nationalists."
+        "The Ukrainian population in Eastern Galicia and the adjacent province of [[volhynia|Volhynia]] constituted about 12% of the Second Polish Republic's population, marking them as the largest minority. However, tensions arose due to the Polish government's unfavorable policies towards minorities, which contributed to the emergence of the underground [[organization-of-ukrainian-nationalists|Organization of Ukrainian Nationalists]]."
       ]
     },
     {
       "heading": "Post-War Developments",
       "paragraphs": [
-        "Eastern Galicia was significantly impacted by the post-war Operation [[vistula|Vistula]], a Stalinist initiative aimed at eliminating Ukrainian nationalist activities through forced resettlement. This operation disproportionately affected the Lemko minority, many of whom identified as Rusyns rather than [[ukrainians|Ukrainians]], highlighting the complex ethnic identities within the region."
+        "Eastern Galicia was significantly impacted by the post-war [[operation-vistula|Operation Vistula]], a Stalinist initiative aimed at eliminating Ukrainian nationalist activities through forced resettlement. This operation disproportionately affected the Lemko minority, many of whom identified as Rusyns rather than [[ukrainians|Ukrainians]], highlighting the complex ethnic identities within the region."
       ]
     },
     {
@@ -65,13 +65,15 @@
     "halych",
     "ivano-frankivsk",
     "lviv",
+    "operation-vistula",
+    "organization-of-ukrainian-nationalists",
     "rusyns",
+    "ruthenia",
     "ruthenian",
     "ternopil-oblast",
     "ukrainian",
     "ukrainian-peoples-republic",
     "ukrainians",
-    "vistula",
     "volhynia",
     "west-ukrainian-peoples-republic",
     "western-ukraine"

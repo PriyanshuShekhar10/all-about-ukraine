@@ -1,0 +1,94 @@
+{
+  "qid": "Q35314",
+  "slug": "nikita-khrushchev",
+  "title": "Nikita Khrushchev",
+  "type": "human",
+  "category": "history",
+  "aliases": [
+    "Khrushchov",
+    "Khrushchyov",
+    "Nikita Sergeyevich Khrushchov",
+    "Nikita Sergeyevich Khrushchyov"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1894-04-03",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1971-09-11",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Kalinovka",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "General Secretary of the Communist Party of the Soviet Union, Chairman of the Council of Ministers of the USSR",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Nikita Sergeyevich Khrushchev was a prominent Soviet leader, serving as First Secretary of the Communist Party of the Soviet Union from 1953 to 1964 and Chairman of the Council of Ministers from 1958 to 1964. His political career was marked by significant events such as the denunciation of Joseph Stalin and the Cuban Missile Crisis, with deep connections to Ukraine throughout his life.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Nikita Sergeyevich Khrushchev was born on 15 April 1894 in Kalinovka, a village in the Kursk Oblast near the current [[ukrainian|Ukrainian]] border. His family was poor, and his father worked in various jobs in the [[donbas|Donbas]] region of [[ukraine|Ukraine]], which influenced Khrushchev's early experiences.",
+        "Khrushchev's education was limited, with only four years of schooling, but he was encouraged by his teacher to pursue further education. His family moved to [[donetsk|Yuzovka]] (now Donetsk) when he was fourteen, where he began working as a metal fitter's apprentice."
+      ]
+    },
+    {
+      "heading": "Political Career Beginnings",
+      "paragraphs": [
+        "Khrushchev's political career began in the Donbas region, where he became involved in local worker councils during the Russian Civil War. He joined the Bolsheviks in 1918 and served as a political commissar in the Red Army.",
+        "After the civil war, he was assigned as assistant director for political affairs at the Rutchenkovo mine in the Donbas, where he played a crucial role in restoring production post-war."
+      ]
+    },
+    {
+      "heading": "Leadership in Ukraine",
+      "paragraphs": [
+        "In 1938, Khrushchev was appointed to govern the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]], where he continued the purges initiated under Stalin. His governance [[coal-in-ukraine|in Ukraine]] was marked by significant political activity and the consolidation of power within the Communist Party.",
+        "Khrushchev's connections to Ukraine were further solidified through his relationship with Lazar Kaganovich, a prominent figure in the Communist Party who promoted him within the party ranks."
+      ]
+    },
+    {
+      "heading": "Rise to Power",
+      "paragraphs": [
+        "Following Stalin's death in 1953, Khrushchev emerged as a key leader, ultimately denouncing Stalin's purges in a 'Secret Speech' at the 20th Party Congress in 1956. This marked a shift towards a less repressive regime in [[soviet-union|the Soviet Union]].",
+        "Khrushchev's domestic policies, while aimed at improving citizens' lives, often faced challenges, particularly in agricultural sectors, impacting the Ukrainian SSR significantly."
+      ]
+    },
+    {
+      "heading": "Legacy and Retirement",
+      "paragraphs": [
+        "Khrushchev's leadership included notable events such as the Cuban Missile Crisis in 1962, which heightened Cold War tensions. His policies and decisions during this period had lasting implications for Ukraine and its geopolitical context.",
+        "After being ousted from power in 1964, Khrushchev spent his later years writing memoirs, reflecting on his time in leadership. He passed away on 11 September 1971."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "donbas",
+    "donetsk",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Nikita Khrushchev — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nikita_Khrushchev",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

@@ -1,0 +1,85 @@
+{
+  "qid": "Q734876",
+  "slug": "ivan-sirko",
+  "title": "Ivan Sirko",
+  "type": "human",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1610",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1680",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Bracław Voivodeship",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "Hetman of Zaporizhian Host",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Ivan Dmytrovych Sirko (c. 1605 – August 11, 1680) was a prominent Zaporozhian Cossack military leader and Koshovyi Otaman, renowned for his military campaigns against the Ottoman Empire and the Crimean Khanate. His legacy is closely tied to Ukraine's history, particularly through his undefeated record in battle and his role in significant military engagements during the 17th century.",
+  "sections": [
+    {
+      "heading": "Early Life and Background",
+      "paragraphs": [
+        "Ivan Sirko was likely born around 1605, with his birthplace often attributed to the sloboda of Merefa near modern-day [[kharkiv-oblast|Kharkiv]]. However, historian Yuriy Mytsyik disputes this, suggesting that Merefa was established in 1658, long after Sirko's birth. Sirko later resided in Merefa with his family, and local chronicles mention a settlement named Sirkivka.",
+        "Mytsyik posits that Sirko may not have been of Cossack heritage, but rather of [[ukrainian|Ukrainian]] ([[ruthenian|Ruthenian]]) Orthodox szlachta descent. His father, Dmitry Sirko, was a Cossack from Murafa, and Sirko's noble status is supported by references in Polish administration documents. Sirko is generally accepted to be of Ukrainian ethnicity, with some historians suggesting Moldavian origins."
+      ]
+    },
+    {
+      "heading": "Military Career",
+      "paragraphs": [
+        "Sirko's military career began in 1620 when he held the rank of Sotnik and participated in campaigns against the Ottomans, including raids on Varna and Perekop. He played a significant role in the Battle of [[khotyn|Khotyn]] in 1621, where he inflicted heavy losses on Ottoman forces.",
+        "In 1629, he joined a raid on Istanbul organized by [[bohdan-khmelnytsky|Bohdan Khmelnytsky]]. Sirko also participated in the capture of Azov fortress in 1637, where he later defended the fortress against Ottoman attacks.",
+        "By 1644, Sirko had risen to the rank of Polkovnyk (Colonel) and was involved in the Siege of Dunkirk in 1646, leading a contingent of [[zaporozhian-cossacks|Zaporozhian Cossacks]]."
+      ]
+    },
+    {
+      "heading": "Leadership as Kosh Otaman",
+      "paragraphs": [
+        "In 1659, Sirko was elected Kosh Otaman of the Zaporizhian Host and allied with the Tsardom of Russia against the Crimean Khanate. He led successful campaigns against Ottoman fortresses, capturing many captives and freeing Christian slaves.",
+        "Throughout his career, Sirko was elected as Kosh Otaman eight times and was known for his strategic alliances, including with Kalmyks against the Tatars. His campaigns were marked by their intensity, prompting the Ottoman Sultan Mehmed IV to issue a firman calling for prayers for Sirko's demise."
+      ]
+    },
+    {
+      "heading": "Later Years and Legacy",
+      "paragraphs": [
+        "After a period of exile in Tobolsk, [[siberia|Siberia]], Sirko returned to [[ukraine|Ukraine]] in 1673 and continued to combat the Ottoman threat. He captured key fortresses and led devastating campaigns into [[crimea|Crimea]], freeing thousands of Christian slaves while taking many Tatars captive.",
+        "Sirko's legacy is characterized by his military prowess and the respect he commanded from both allies and enemies. His actions had a lasting impact on the Cossack resistance against foreign powers and the historical narrative of Ukraine during the 17th century."
+      ]
+    }
+  ],
+  "links_out": [
+    "bohdan-khmelnytsky",
+    "crimea",
+    "kharkiv-oblast",
+    "khotyn",
+    "ruthenian",
+    "siberia",
+    "ukraine",
+    "ukrainian",
+    "zaporozhian-cossacks"
+  ],
+  "sources": [
+    {
+      "title": "Ivan Sirko — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ivan_Sirko",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

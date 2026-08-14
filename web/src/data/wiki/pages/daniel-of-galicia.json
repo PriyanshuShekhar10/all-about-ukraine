@@ -1,0 +1,84 @@
+{
+  "qid": "Q58607",
+  "slug": "daniel-of-galicia",
+  "title": "Daniel of Galicia",
+  "type": "human",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1201",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1264",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Halych",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "Grand Prince of Kiev, Kingdom of Rus'",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Daniel of Galicia (1201–1266) was a significant ruler in Ukrainian history, serving as Prince of Galicia and Volhynia, Grand Prince of Kiev, and King of Ruthenia. His reign marked the restoration of the Romanovichi dynasty's power and the establishment of the Kingdom of Galicia–Volhynia, making him a pivotal figure in the region's political landscape during the Mongol invasions.",
+  "sections": [
+    {
+      "heading": "Early Life and Ascension",
+      "paragraphs": [
+        "Daniel Romanovich was born in 1201, the son of Roman Mstislavich of [[volhynia|Volhynia]] and Anne-Euphrosyne, the daughter of Byzantine emperor Isaac II Angelos. Following the death of his father in 1205, Daniel was exiled to Hungary at a young age due to a power struggle in [[galicia|Galicia]]. In 1211, he was restored to the throne of [[halych|Halych]] with the support of a coalition army, but was deposed again in 1214 due to a rebellion."
+      ]
+    },
+    {
+      "heading": "Military Engagements and Mongol Invasions",
+      "paragraphs": [
+        "Daniel faced significant challenges during his reign, including the Mongol invasions. He initially defeated the Mongols at the Battle of Oleshia in 1223 but suffered a devastating defeat at the Battle of the Kalka River. Despite these setbacks, he managed to regain control over Galicia and Volhynia, notably defeating Hungarian forces in 1230 and reclaiming his territories."
+      ]
+    },
+    {
+      "heading": "Establishment of the Kingdom of Galicia–Volhynia",
+      "paragraphs": [
+        "On 17 August 1245, Daniel achieved a decisive victory at Yaroslav, which allowed him to consolidate his power and establish the [[kingdom-of-galiciavolhynia|Kingdom of Galicia–Volhynia]]. He implemented policies that promoted economic growth and invited various merchants and artisans to settle in his lands. Daniel founded the city of [[lviv|Lviv]] in 1256 and fortified many towns, enhancing the region's stability."
+      ]
+    },
+    {
+      "heading": "Relations with the Mongols and Western Powers",
+      "paragraphs": [
+        "In 1246, Daniel was compelled to accept Mongol overlordship but sought to maintain autonomy by fostering alliances with Poland and Hungary. He appealed to Pope Innocent IV for support against the Mongols, leading to his coronation as King of [[ruthenia|Ruthenia]] in 1253. Despite his efforts, he faced continued Mongol pressure, leading to further territorial compromises."
+      ]
+    },
+    {
+      "heading": "Legacy and Commemoration",
+      "paragraphs": [
+        "Daniel of Galicia is remembered as an exemplary ruler who restored peace and authority in his domains. His legacy includes the establishment of a relatively independent principality that attracted refugees from other regions. Monuments and commemorations, including a statue in Lviv and the renaming of Lviv's airport in his honor, reflect his enduring significance in [[history-of-ukraine|Ukrainian history]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "galicia",
+    "halych",
+    "history-of-ukraine",
+    "kingdom-of-galiciavolhynia",
+    "lviv",
+    "ruthenia",
+    "volhynia"
+  ],
+  "sources": [
+    {
+      "title": "Daniel of Galicia — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Daniel_of_Galicia",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

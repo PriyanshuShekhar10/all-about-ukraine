@@ -1,0 +1,83 @@
+{
+  "qid": "Q4127408",
+  "slug": "ukrainian-world-congress",
+  "title": "Ukrainian World Congress",
+  "type": "international organization",
+  "category": "people",
+  "aliases": [
+    "World Congress of Free Ukrainians"
+  ],
+  "infobox": {
+    "label": "international organization",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1967",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Canada",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Toronto",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Ukrainian World Congress (UWC) is a non-profit, nonpartisan international organization that coordinates Ukrainian public organizations in the diaspora. Founded in 1967 and renamed in 1993, the UWC advocates for the interests of Ukrainians globally and supports Ukraine's sovereignty and cultural identity.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The Ukrainian World Congress was originally established in 1967 as the World Congress of Free Ukrainians and adopted its current name in 1993. Since [[ukraine|Ukraine]] gained independence in 1991, the UWC has aimed to position Ukraine as the central hub for [[ukrainian|Ukrainian]] identity worldwide, benefiting both [[ukrainians|Ukrainians]] [[coal-in-ukraine|in Ukraine]] and those living abroad.",
+        "In 2003, the UWC was recognized by the United Nations Economic and Social Council as a non-governmental organization (NGO) with special consultative status. The organization has addressed critical issues such as the protection of human and national minority rights for Ukrainians, the international acknowledgment of [[holodomor|the Holodomor]] of 1932-33 as genocide (recognized by 16 countries), the promotion of democracy in Ukraine, and the support for Ukraine's integration into the European Union."
+      ]
+    },
+    {
+      "heading": "Recent Activities",
+      "paragraphs": [
+        "As of September 2023, the UWC has raised over 90 million dollars to support the [[armed-forces-of-ukraine|Armed Forces of Ukraine]] amidst ongoing conflict. In September 2023, the UWC president reported the delivery of 50 armored vehicles and 70 military trucks to Ukraine. In April 2023, the organization transferred 25 British armored vehicles to Ukraine, which included various types of armored personnel carriers.",
+        "In September 2024, an additional 15 British armored personnel carriers were delivered, further demonstrating the UWC's commitment to supporting Ukraine during times of crisis."
+      ]
+    },
+    {
+      "heading": "Leadership and Structure",
+      "paragraphs": [
+        "The UWC is led by a president and an Executive Committee, supported by 13 councils and committees that focus on various aspects of Ukrainian community life. These areas include human and civil rights, awareness of the Holodomor, education, social services, youth engagement, and the fight against human trafficking."
+      ]
+    },
+    {
+      "heading": "Global Presence",
+      "paragraphs": [
+        "The UWC comprises member organizations from 33 countries and maintains connections with Ukrainians in an additional 14 countries. It was founded in New York City in 1967 and has since expanded its reach and influence within the global Ukrainian community."
+      ]
+    },
+    {
+      "heading": "Conventions",
+      "paragraphs": [
+        "The UWC has held multiple conventions, starting with the I World Congress of Free Ukrainians from November 12–19, 1967, in New York City, and continuing with significant gatherings in Toronto and [[kyiv|Kyiv]] through the years, including the most recent XI Ukrainian World Congress held from November 25–27, 2018, at the Olimpiyskiy National Sports Complex in Kyiv."
+      ]
+    }
+  ],
+  "links_out": [
+    "armed-forces-of-ukraine",
+    "coal-in-ukraine",
+    "holodomor",
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian World Congress — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_World_Congress",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

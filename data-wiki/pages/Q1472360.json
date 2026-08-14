@@ -1,0 +1,85 @@
+{
+  "qid": "Q1472360",
+  "slug": "sviatohirsk-lavra",
+  "title": "Sviatohirsk Lavra",
+  "type": "monastery",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "monastery",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1401",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Tsardom of Russia, Russian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.0283, 37.5681",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Sviatohirsk Lavra, officially known as the Holy Mountains Lavra of the Holy Dormition, is a significant Orthodox Christian monastery located in eastern Ukraine, near the town of Sviatohirsk in [[donetsk-oblast|Donetsk Oblast]]. Established in the 15th century, it has a rich history marked by periods of closure, restoration, and recent conflict.",
+  "sections": [
+    {
+      "heading": "Geographical and Cultural Significance",
+      "paragraphs": [
+        "Sviatohirsk Lavra is situated on the steep right bank of the [[donets|Siverskyi Donets]] River, in proximity to the town of Sviatohirsk, which was named after the monastery in 2003. The monastery serves as the focal point of the Holy Mountains National Nature Park, established in 1997, highlighting its cultural and natural significance [[coal-in-ukraine|in Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The first documented reference to the Sviatohirsk Monastery dates back to 1627, although earlier mentions of the Holy Mountains area were made by Sigismund von Herberstein in 1526. It is believed that the initial monastic community was founded in the 15th century, during a time when the region was frequently attacked by the [[crimean-tatars|Crimean Tatars]].",
+        "In 1787, Empress Catherine II ordered the monastery's closure, and its lands were transferred to Prince Grigory Potemkin. Restoration efforts began in 1844, funded by his heir, Alexandr Mikhailovich Potemkin, and his wife, Tatiana."
+      ]
+    },
+    {
+      "heading": "Soviet Era and Closure",
+      "paragraphs": [
+        "Prior to the October Revolution, Sviatohirsk Monastery operated various facilities, including a worker's shop and windmills. The main Dormition Cathedral, designed by Alexey Gornostaev, featured a traditional Byzantine tower. Following the Bolshevik Revolution in 1917, the monastery faced plundering and violence, leading to its complete closure in 1922 when it was repurposed as a sanatorium for [[donbas|Donbas]] workers. By the onset of World War I, the monastery housed around 600 monks, but many churches were demolished during the 1930s."
+      ]
+    },
+    {
+      "heading": "Restoration and Modern Developments",
+      "paragraphs": [
+        "With the dissolution of [[soviet-union|the Soviet Union]] and [[ukraine|Ukraine]]'s independence in 1991, Sviatohirsk Lavra underwent restoration, which was completed in 1992. The [[ukrainian-orthodox-church|Ukrainian Orthodox Church]] officially designated it as a lavra in 2004. Currently, the monastery community consists of over 100 monks, with numbers steadily increasing.",
+        "On October 25, 2005, the [[national-bank-of-ukraine|National Bank of Ukraine]] issued a 10-[[hryvnia|hryvnia]] commemorative coin featuring the Sviatohirsk Lavra."
+      ]
+    },
+    {
+      "heading": "Impact of the 2022 Russian Invasion",
+      "paragraphs": [
+        "During the ongoing Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], Sviatohirsk Lavra played a humanitarian role by providing shelter to civilian refugees. On March 12, 2022, the monastery was damaged by an airstrike, injuring several individuals. Subsequent shelling throughout May resulted in additional injuries and fatalities among the monastery's residents, including the deaths of two monks and a nun. A significant fire on June 4, attributed to Russian forces, devastated parts of the monastery, including the main shrine."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "crimean-tatars",
+    "donbas",
+    "donets",
+    "donetsk-oblast",
+    "full-scale-russo-ukrainian-war",
+    "hryvnia",
+    "national-bank-of-ukraine",
+    "soviet-union",
+    "ukraine",
+    "ukrainian-orthodox-church"
+  ],
+  "sources": [
+    {
+      "title": "Sviatohirsk Lavra — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sviatohirsk_Lavra",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

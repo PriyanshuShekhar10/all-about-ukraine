@@ -23,7 +23,7 @@
       }
     ]
   },
-  "summary": "Volhynia, a historic region in Central and [[eastern-europe|Eastern Europe]], is primarily located in northwestern Ukraine and has significant historical and cultural relevance to the country. It encompasses parts of several Ukrainian oblasts, including Volyn, [[rivne|Rivne]], and portions of [[zhytomyr|Zhytomyr]], [[ternopil|Ternopil]], and Khmelnytskyi Oblasts.",
+  "summary": "Volhynia, a historic region in Central and [[eastern-europe|Eastern Europe]], is primarily located in northwestern Ukraine and has significant historical and cultural relevance to the country. It encompasses parts of several Ukrainian oblasts, including Volyn, [[rivne|Rivne]], and portions of [[zhytomyr|Zhytomyr]], [[ternopil|Ternopil]], and [[khmelnytskyi|Khmelnytskyi]] Oblasts.",
   "sections": [
     {
       "heading": "Geographical Context",
@@ -64,6 +64,7 @@
   "links_out": [
     "eastern-europe",
     "galicia",
+    "khmelnytskyi",
     "khmelnytskyi-oblast",
     "kievan-rus",
     "pripyat-river",

@@ -1,0 +1,100 @@
+{
+  "qid": "Q875",
+  "slug": "abakan",
+  "title": "Abakan",
+  "type": "city",
+  "category": "history",
+  "aliases": [
+    "Ust-Abakanskoe"
+  ],
+  "infobox": {
+    "label": "city",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1800",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Soviet Union, Russia",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "2,000",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "112",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "245",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Nikolay Bulakin, Q84722978",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "53.7167, 91.4167",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Abakan is the capital city of Khakassia, Russia, situated at the confluence of the Yenisei and Abakan Rivers. It has a population of 165,214 as recorded in the 2010 Census, reflecting a slight increase from previous decades.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Abakan is located in the central region of the Minusinsk Depression, where the Yenisei and Abakan Rivers meet. According to the 2010 Census, the city's population was 165,214, which is a minor rise from 165,197 in the 2002 Census and an increase from 154,092 in the 1989 Census."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The city has its origins with the establishment of Abakansky ostrog in 1675 at the mouth of the Abakan River. The selo of Ust-Abakanskoye was founded in the 1780s, and Abakan was officially granted town status on 30 April 1931.",
+        "Significant archaeological discoveries were made in 1940 when workers unearthed ancient ruins during highway construction. Excavations from 1941 to 1945 revealed a large Chinese-style palace, thought to date back to the Han dynasty (206 BC–220 AD). The identity of its former occupant remains debated, with theories suggesting it could have belonged to Li Ling or Lu Fang."
+      ]
+    },
+    {
+      "heading": "Cultural Connections",
+      "paragraphs": [
+        "In the late 18th and 19th centuries, Abakan became a site for Lithuanian and Polish exiles, particularly those involved in uprisings against Russian rule. Camps were established for forced labor in coal mines, and descendants of these exiles continue to reside in the region. A Polish school was established in 1994, supported by local authorities until 2014, and a Polish-language faculty was introduced at Khakassian State University in 1999."
+      ]
+    },
+    {
+      "heading": "Administrative Structure",
+      "paragraphs": [
+        "As the capital of Khakassia, Abakan functions as an administrative unit equivalent to districts. It is incorporated as the City of Abakan and as Abakan Urban Okrug within municipal divisions."
+      ]
+    },
+    {
+      "heading": "Education and Transportation",
+      "paragraphs": [
+        "Abakan is home to Katanov State University of Khakasia. The city is served by the Abakan International Airport and was historically a terminal for the Abakan-Taishet Railway."
+      ]
+    },
+    {
+      "heading": "Local Governance and Awards",
+      "paragraphs": [
+        "The local government of Abakan consists of a council of deputies, headed by the municipality's head, Alexey Viktorovich Lyomin. The council has 28 deputies elected through various constituencies. In 2021, the Nikolai Bulakin Prize was established to honor significant contributions to the city's development, offering a monetary reward and diploma."
+      ]
+    }
+  ],
+  "links_out": [],
+  "sources": [
+    {
+      "title": "Abakan — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Abakan",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

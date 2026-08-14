@@ -1,0 +1,72 @@
+{
+  "qid": "Q12119962",
+  "slug": "pavlo-tychyna-museum",
+  "title": "Pavlo Tychyna Museum",
+  "type": "literary museum",
+  "category": "culture",
+  "aliases": [
+    "Literary and Memorial Museum of Pavlo Tychyna"
+  ],
+  "infobox": {
+    "label": "literary museum",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1979",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Kyiv",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4439, 30.5134",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Pavlo Tychyna Museum, officially known as the Literary and Memorial Museum of Pavlo Tychyna, is located in [[kyiv|Kyiv]], [[ukraine|Ukraine]], and is dedicated to the life and works of the Ukrainian writer [[pavlo-tychyna|Pavlo Tychyna]].",
+  "sections": [
+    {
+      "heading": "Establishment and Location",
+      "paragraphs": [
+        "The Pavlo Tychyna Museum was initiated in February 1989 and officially opened on 27 January 1980. It is situated in the flat where the poet resided from 1944 until 1967."
+      ]
+    },
+    {
+      "heading": "Museum Features",
+      "paragraphs": [
+        "The museum preserves the original interiors of the poet's living space and showcases only his memorial belongings. Visitors have the opportunity to explore Tychyna's library, which contains over 20,000 books, as well as his cabinet and dining room.",
+        "The preserved interiors reflect the era in which Tychyna lived, offering insights into his lifestyle and interests."
+      ]
+    },
+    {
+      "heading": "Cultural Activities",
+      "paragraphs": [
+        "The museum hosts both regular and special exhibitions, as well as various cultural and memorial events, contributing to the promotion of Tychyna's literary legacy within the context of [[ukrainian|Ukrainian]] culture."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "pavlo-tychyna",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Pavlo Tychyna Museum — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pavlo_Tychyna_Museum",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

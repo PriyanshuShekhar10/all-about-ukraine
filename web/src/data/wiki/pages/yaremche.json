@@ -1,0 +1,92 @@
+{
+  "qid": "Q146524",
+  "slug": "yaremche",
+  "title": "Yaremche",
+  "type": "city of regional significance of Ukraine",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1787",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Austrian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "8,094",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "657",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "525",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.4536, 24.5564",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Yaremche is a town of regional significance located in Nadvirna Raion, Ivano-Frankivsk Oblast, Ukraine. Situated at an altitude of approximately 580 meters above sea level, it serves as the administrative center of the Yaremche urban hromada and has a population of 7,907 as of 2022.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The name 'Yaremche' may have roots in the Turkish language, where 'yarım' translates to 'half' and 'yarımca' means 'little half'. The town was established in 1787 and was granted city status on 30 December 1977.",
+        "During the interwar period from 1918 to 1939, Yaremche was part of Poland and emerged as a prominent tourist destination in the eastern [[carpathians|Carpathians]], attracting over 6,000 visitors annually in the late 1920s. It was considered to have the potential to rival other notable Polish mountain resorts such as Zakopane and Krynica.",
+        "In September 1939, Yaremche became part of [[soviet-union|the Soviet Union]] as a result of the Ribbentrop-Molotov pact, which divided Poland between Germany and the Soviets. The town was occupied by Nazi forces during World War II, leading to the tragic slaughter of most of its Jewish population by Nazi SS units and collaborating local forces. Yaremche was liberated by Soviet troops in 1944.",
+        "On 30 December 1977, Yaremche was designated as a municipality within [[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]]. Following [[ukraine|Ukraine]]'s independence in 1991, it became part of the newly sovereign state."
+      ]
+    },
+    {
+      "heading": "Geographical Features",
+      "paragraphs": [
+        "Yaremche is located at an elevation of around 580 meters (1,900 feet) above mean sea level, providing it with a unique geographical setting. The town features distinctive architecture, including houses with long sloping roofs, a wooden Orthodox church, and a notable rail viaduct that spans the Prut valley at a height of 30 meters (98 feet).",
+        "Additionally, there is a swinging pedestrian toll bridge adjacent to the viaduct, contributing to the town's scenic landscape."
+      ]
+    },
+    {
+      "heading": "Administrative Changes",
+      "paragraphs": [
+        "Until 18 July 2020, Yaremche was classified as a city of oblast significance and served as the center of Yaremche Municipality, which included the urban-type settlement of Vorokhta, known for its ski resort, as well as five other villages: Mykulychyn, Polianytsia, Tatariv, Voronenko, and Yablunytsia.",
+        "In July 2020, as part of an administrative reform [[coal-in-ukraine|in Ukraine]] that reduced the number of raions in Ivano-Frankivsk Oblast to six, the municipality was dissolved and its territory was incorporated into Nadvirna Raion."
+      ]
+    },
+    {
+      "heading": "Renaming and Recognition",
+      "paragraphs": [
+        "On 14 December 2006, the [[verkhovna-rada|Parliament of Ukraine]] officially changed the name of the city from Yaremcha to Yaremche. This decision followed the results of a city referendum and recommendations from both the City Council and the Ivano-Frankivsk Oblast Council."
+      ]
+    }
+  ],
+  "links_out": [
+    "carpathians",
+    "coal-in-ukraine",
+    "ivano-frankivsk-oblast",
+    "soviet-union",
+    "ukraine",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Yaremche — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yaremche",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

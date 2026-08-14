@@ -1,0 +1,105 @@
+{
+  "qid": "Q761130",
+  "slug": "henichesk",
+  "title": "Henichesk",
+  "type": "city in Ukraine",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1784",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "19,253",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "6",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "18",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "46.1769, 34.7989",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Henichesk is a port city situated along the Sea of Azov in [[kherson-oblast|Kherson Oblast]], southern Ukraine, functioning as the administrative center of Henichesk Raion. As of January 2022, it had an estimated population of 18,889 and has been under Russian occupation since the 2022 invasion of Ukraine.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Henichesk is positioned at the junction of the Sea of Azov and Syvash bay. The nearby Arabat Spit features numerous salt lakes, the largest of which is named Henicheske, reflecting the city's name."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The city was first mentioned in 1640 by Evliya Çelebi as a fortress named Chenishke. The name Henichesk originates from a Turkic word meaning 'narrow,' indicative of the nearby thin strip of the Azov Sea. It was founded as a fort by the Russian Empire in 1784 following the annexation of the Crimean Khanate and was also known as Ust-Ozivske from 1812. Henichesk served as a significant port and trade center along the salt route from [[crimea|Crimea]] to [[ukraine|Ukraine]] and Russia, and by the early 20th century, it housed one of the largest flour mills in southern Ukraine. During the [[ukrainian-war-of-independence|Ukrainian War of Independence]] from 1917 to 1920, the city changed hands among various factions and later became part of the [[zaporizhzhia|Zaporizhzhia]] Governorate of Ukraine. During World War II, Henichesk was occupied by Nazi Germany, which operated a prison in the town."
+      ]
+    },
+    {
+      "heading": "2022 Russian Invasion of Ukraine",
+      "paragraphs": [
+        "Henichesk was captured by the Russian army on 24 February 2022 amid the escalating [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]]. Notably, an incident occurred where an elderly woman confronted Russian soldiers, suggesting they put sunflower seeds in their pockets to grow on [[ukrainian|Ukrainian]] soil after their death. The city was also the site of the death of Vitalii Skakun, who died while attempting to destroy a bridge to halt the Russian advance. On 18 April, Russian forces reinstated a Lenin monument that had been removed by the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] during the decommunization process. On 3 June, [[volodymyr-zelenskyy|President Volodymyr Zelenskyy]] established a military administration for the city. On 9 November, Kirill Stremousov, a separatist leader and deputy head of the military-civilian administration of Russian-occupied [[kherson|Kherson]], died in a crash near Henichesk. Following the recapture of Kherson by Ukrainian forces, [[izmail|Ismail]] Abdullaiev and the [[tawrija|Tavria]] TV channel relocated to Henichesk on 21 November."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "According to the 2001 Ukrainian census, the ethnic composition and native language distribution of Henichesk reflect its diverse population."
+      ]
+    },
+    {
+      "heading": "Economy",
+      "paragraphs": [
+        "Henichesk hosts a sea port, and the traditional economic activities in the region include fishing and the production of salt from the nearby lakes."
+      ]
+    },
+    {
+      "heading": "Notable People",
+      "paragraphs": [
+        "Notable individuals associated with Henichesk include Anatoliy Burlin, a Ukrainian footballer born in 1990; Yosyp Abramovych Daits, a Ukrainian artist (1897–1954); Joseph Liberman, a Soviet-Ukrainian mathematician (1917-1941); and Iuliia Mendel, a Ukrainian journalist."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "crimea",
+    "full-scale-russo-ukrainian-war",
+    "izmail",
+    "kherson",
+    "kherson-oblast",
+    "tawrija",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-war-of-independence",
+    "volodymyr-zelenskyy",
+    "zaporizhzhia"
+  ],
+  "sources": [
+    {
+      "title": "Henichesk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Henichesk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

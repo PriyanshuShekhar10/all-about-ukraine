@@ -1,0 +1,88 @@
+{
+  "qid": "Q4469637",
+  "slug": "uzhhorod-national-university",
+  "title": "Uzhhorod National University",
+  "type": "university",
+  "category": "culture",
+  "aliases": [
+    "State Higher Education Establishment \"Uzhhorod National University\"",
+    "State University \"Uzhhorod National University\"",
+    "Uzhgorod State University",
+    "Uzhhorod State University"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1945-07-19",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.6357, 22.2902",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Uzhhorod National University (UzhNU) is a prominent state-sponsored university located in Uzhhorod, Ukraine, founded on October 18, 1945. It is recognized for its extensive academic programs and significant contributions to education and research in the region.",
+  "sections": [
+    {
+      "heading": "General Information",
+      "paragraphs": [
+        "Uzhhorod National University was established on October 18, 1945, and is classified as one of the classic universities [[coal-in-ukraine|in Ukraine]], holding the IV level of accreditation from the Ministry of [[education-in-ukraine|Education of Ukraine]] (license series AG No.582508). The university comprises 20 faculties, including areas such as biological sciences, engineering, history, medicine, and international relations, among others. It also features two educational and scientific institutes, 115 departments, and a branch located in [[lviv|Lviv]].",
+        "The university is ranked among the top higher education institutions in Ukraine, holding 20th place in a consolidated ranking and performing well in various international ratings, including 11th in the Webometrics rating and 13th in the QS EECA University Rankings. UzhNU employs a full-time academic staff of 1,285, including 158 doctors of sciences and 715 candidates of sciences."
+      ]
+    },
+    {
+      "heading": "History and Development",
+      "paragraphs": [
+        "Uzhhorod National University is the first higher educational institution in [[transcarpathia|Zakarpattia]], with its origins tracing back to 1613 when a Jesuit college was established. Over the centuries, the institution evolved through various forms, including the [[uzhhorod|Uzhhorod]] Royal Catholic Higher Gymnasium in 1775 and the Uzhhorod State Real Russian Gymnasium from 1920 until 1945.",
+        "The university was officially opened on October 18, 1945, with four faculties and began its educational journey with 160 first-year students. In 2000, it was awarded national status and renamed Uzhhorod National University, reflecting its significant role in the educational landscape of [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "International Cooperation",
+      "paragraphs": [
+        "Uzhhorod National University actively engages in international collaboration, being a member of the Association of Universities of the Carpathian Region and other European educational associations. The university has partnerships with 125 institutions worldwide, including universities in the Czech Republic, Hungary, Slovakia, and Romania.",
+        "The university promotes student and faculty exchanges through the Erasmus + program, which has facilitated numerous internships and academic opportunities abroad. As of 2020, UzhNU hosted 1,635 international students from various countries, highlighting its global outreach."
+      ]
+    },
+    {
+      "heading": "Scientific Research",
+      "paragraphs": [
+        "Uzhhorod National University boasts a robust scientific framework, featuring numerous research institutes and laboratories that focus on diverse fields such as solid-state physics, phytotherapy, and regional studies. The university collaborates with 86 scientific institutions across different countries, enhancing its research capabilities.",
+        "The institution is recognized for its contributions to innovation, holding over 936 patents, making it one of the leading patent holders among [[ukrainian|Ukrainian]] higher education institutions."
+      ]
+    },
+    {
+      "heading": "Educational Achievements",
+      "paragraphs": [
+        "Over its 75 years of existence, Uzhhorod National University has established a strong tradition in teaching and research, employing a significant number of highly qualified faculty members. The university has produced numerous academic publications, including monographs, textbooks, and dictionaries, contributing to the advancement of knowledge in various disciplines."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "education-in-ukraine",
+    "lviv",
+    "transcarpathia",
+    "ukraine",
+    "ukrainian",
+    "uzhhorod"
+  ],
+  "sources": [
+    {
+      "title": "Uzhhorod National University — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Uzhhorod_National_University",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

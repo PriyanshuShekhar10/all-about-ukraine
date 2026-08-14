@@ -51,7 +51,7 @@
     {
       "heading": "Reign of Daniel and the Kingdom's Golden Age",
       "paragraphs": [
-        "Daniel of Galicia, who reigned from 1245 to 1264, successfully reunited Galicia and Volhynia and strengthened ties with the Mongol Golden Horde. He was crowned King of Ruthenia in 1253, marking a significant moment in the kingdom's history. Under his rule, the kingdom experienced a cultural and economic flourishing, with major cities like [[lviv|Lviv]] and [[halych|Halych]] becoming important centers."
+        "[[daniel-of-galicia|Daniel of Galicia]], who reigned from 1245 to 1264, successfully reunited Galicia and Volhynia and strengthened ties with the Mongol Golden Horde. He was crowned King of [[ruthenia|Ruthenia]] in 1253, marking a significant moment in the kingdom's history. Under his rule, the kingdom experienced a cultural and economic flourishing, with major cities like [[lviv|Lviv]] and [[halych|Halych]] becoming important centers."
       ]
     },
     {
@@ -62,12 +62,14 @@
     }
   ],
   "links_out": [
+    "daniel-of-galicia",
     "eastern-europe",
     "galicia",
     "halych",
     "kievan-rus",
     "lviv",
     "peremyshl",
+    "ruthenia",
     "ukraine",
     "ukrainian",
     "volhynia"

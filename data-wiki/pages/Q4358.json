@@ -1,0 +1,80 @@
+{
+  "qid": "Q4358",
+  "slug": "2012-ukrainian-parliamentary-election",
+  "title": "2012 Ukrainian parliamentary election",
+  "type": "Ukrainian parliamentary election",
+  "category": "politics",
+  "aliases": [
+    "2012 ukrainian parliamentary election",
+    "Ukrainian legislative election",
+    "Ukrainian parliamentary election of 2012",
+    "Ukrainian parliamentary election, 2012"
+  ],
+  "infobox": {
+    "label": "Ukrainian parliamentary election",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2012-10-28",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The 2012 parliamentary election [[coal-in-ukraine|in Ukraine]], held on 28 October, marked a significant political event characterized by a mixed electoral system and the emergence of new political parties. This election was notable for being the last in which Crimea participated before its annexation by Russia in 2014.",
+  "sections": [
+    {
+      "heading": "Election Overview",
+      "paragraphs": [
+        "Parliamentary [[elections-in-ukraine|elections in Ukraine]] took place on 28 October 2012. Due to various factors, including the inability to announce election results, subsequent by-elections occurred, leaving several constituencies unrepresented at different times.",
+        "This election utilized a parallel voting system, differing from the previous two elections. Half of the parliamentary seats were filled through party-list proportional representation, requiring a 5% election threshold, while the other half were elected via first-past-the-post voting in single-member constituencies, with alliances prohibited."
+      ]
+    },
+    {
+      "heading": "Political Context and Campaign",
+      "paragraphs": [
+        "The election campaign was limited to 90 days, allowing all citizens aged 18 and older to vote at 33,540 polling stations across [[ukraine|Ukraine]] and 116 foreign polling stations in 77 countries. The Party of Regions emerged with the most seats, followed by the Fatherland party, which operated as an umbrella party for several other parties.",
+        "The election also saw the rise of the far-right party Svoboda, which secured fourth place, and the new party UDAR, which finished third. The Communist Party of Ukraine nearly tripled its voter numbers but gained only five additional seats due to the mixed electoral system."
+      ]
+    },
+    {
+      "heading": "Electoral System and Registered Parties",
+      "paragraphs": [
+        "The electoral system was a mixed model, reinstating a parallel voting system previously used in 1998 and 2002. A total of 87 parties were registered to compete in the elections, with voters able to choose from 22 parties on the nationwide list. Notably, the All-[[ukrainian|Ukrainian]] Union 'Fatherland' included members from various other parties, forming a coalition to strengthen their electoral chances."
+      ]
+    },
+    {
+      "heading": "Campaign Financing and Conduct",
+      "paragraphs": [
+        "Political parties collectively spent over US$75 million on their election campaigns. The Party of Regions was the largest spender, followed by Fatherland and UDAR. However, estimates suggested that actual spending could be significantly higher than reported figures.",
+        "The election was marred by allegations of fraud and manipulation, particularly against the backdrop of political strategies devised to discredit opposition figures. This included efforts by political consultants associated with the Party of Regions to undermine critics of the government."
+      ]
+    },
+    {
+      "heading": "Post-Election Developments",
+      "paragraphs": [
+        "The newly elected parliament convened on 12 December 2012, approximately six weeks after the elections. This election was historically significant as it was the last in which [[crimea|Crimea]] participated before its annexation by the Russian Federation in 2014."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "crimea",
+    "elections-in-ukraine",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "2012 Ukrainian parliamentary election — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2012_Ukrainian_parliamentary_election",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

@@ -1,0 +1,88 @@
+{
+  "qid": "Q1432234",
+  "slug": "odesa-international-airport",
+  "title": "Odesa International Airport",
+  "type": "international airport",
+  "category": "politics",
+  "aliases": [
+    "ODS",
+    "Odesa Airport",
+    "UKOO"
+  ],
+  "infobox": {
+    "label": "international airport",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1961",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "52",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "46.4269, 30.6781",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Odesa International Airport is an international airport located in Odesa, Ukraine's third largest city, approximately 7 km southwest of the city center. It has been significantly impacted by the ongoing Russo-Ukrainian War, particularly since the closure of airspace to civilian flights on 24 February 2022.",
+  "sections": [
+    {
+      "heading": "Airport Overview",
+      "paragraphs": [
+        "Odesa International Airport ([[ukrainian|Ukrainian]]: Міжнародний аеропорт «Одеса», romanized: Mizhnarodnyi aeroport '[[odesa|Odesa]]') is designated with IATA code ODS and ICAO code UKOO. The airport spans an area of 570 hectares and is classified as 'class 1' according to European standards, featuring ILS CAT I status."
+      ]
+    },
+    {
+      "heading": "Facilities",
+      "paragraphs": [
+        "The technical service area of Odesa International Airport covers 2,800 square meters and includes four parking spaces, allowing for the simultaneous servicing of four aircraft. The runways of the airport have been co-used by the Ukrainian Air Force."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "Constructed in 1961, Odesa International Airport underwent significant developments, including the extension of the main runway starting in May 2007. By 2009, the airport had served 651,000 passengers.",
+        "On 8 June 2012, preparations began for a new terminal, which was designed to cover 26,000 square meters and accommodate 1,000 passengers per hour, with a total annual capacity of 1.5 to 2 million passengers. The terminal included 16 check-in desks and four telescopic gangways, with an increase in bus pick-up points from two to five. Although the terminal was expected to be completed by the end of 2013, it was ultimately opened for arrivals on 15 April 2017, with construction costs estimated between 45 and 60 million.",
+        "In 2019, an international competition was held for a sculpture symbolizing the airport, with Ukrainian artist Stepan Ryabchenko winning for his work 'Sphere', which is to be installed near the new terminal.",
+        "During expansion work in 2021, workers discovered a mass grave containing 5,000 to 8,000 skeletons, believed to be victims of [[holodomor|the Holodomor]]."
+      ]
+    },
+    {
+      "heading": "Impact of the Russo-Ukrainian War",
+      "paragraphs": [
+        "Following the onset of the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]], Odesa International Airport faced significant challenges. On 30 April 2022, a Russian missile struck the newly constructed runway, causing destruction but resulting in no injuries, as confirmed by both Ukrainian officials and the Russian military."
+      ]
+    },
+    {
+      "heading": "Current Status",
+      "paragraphs": [
+        "As of 24 February 2022, all passenger flights at Odesa International Airport have been suspended indefinitely due to the ongoing conflict and the closure of airspace to civilian flights."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "holodomor",
+    "odesa",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Odesa International Airport — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Odesa_International_Airport",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

@@ -48,7 +48,7 @@
     {
       "heading": "Geographical Context",
       "paragraphs": [
-        "Chernobyl is situated in Vyshhorod Raion, [[kyiv|Kyiv]] Oblast, [[ukraine|Ukraine]], approximately 90 kilometres (60 mi) north of Kyiv and 160 kilometres (100 mi) southwest of Gomel in Belarus. The city was home to around 14,000 residents before the evacuation triggered by the [[chernobyl-disaster|Chernobyl disaster]]."
+        "Chernobyl is situated in Vyshhorod Raion, [[kyiv-oblast|Kyiv Oblast]], [[ukraine|Ukraine]], approximately 90 kilometres (60 mi) north of [[kyiv|Kyiv]] and 160 kilometres (100 mi) southwest of Gomel in Belarus. The city was home to around 14,000 residents before the evacuation triggered by the [[chernobyl-disaster|Chernobyl disaster]]."
       ]
     },
     {
@@ -86,6 +86,7 @@
     "chernobyl-nuclear-power-plant",
     "kievan-rus",
     "kyiv",
+    "kyiv-oblast",
     "pripyat",
     "ukraine",
     "ukrainian"

@@ -1,0 +1,64 @@
+{
+  "qid": "Q2361969",
+  "slug": "chumak",
+  "title": "Chumak",
+  "type": "occupation",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "occupation",
+    "fields": []
+  },
+  "summary": "Chumak was a historical wagon-based trading occupation in Ukraine during the late Medieval and early Modern periods, characterized by the long-distance transport of goods using oxen-drawn carts. This occupation played a significant role in the trade of various commodities, particularly salt, and influenced Ukrainian culture and folklore.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The Chumak occupation emerged [[coal-in-ukraine|in Ukraine]] during the late Medieval and early Modern periods, primarily involving the delivery of goods such as salt, fish, and grain for long-distance sales.",
+        "Chumaks developed as a merchant class, facilitating trade in salt from [[galicia|Halychyna]] and the coastal regions of the Black and Azov Seas, among other items."
+      ]
+    },
+    {
+      "heading": "Operational Practices",
+      "paragraphs": [
+        "Chumaks transported goods using carts pulled by two oxen, typically of the Bessarabian breed, which were harnessed with a yoke.",
+        "This trade was prominent until the late 19th century when the advent of railroads diminished the profitability of longer trade routes."
+      ]
+    },
+    {
+      "heading": "Cultural Influence",
+      "paragraphs": [
+        "The lifestyle of Chumaks significantly impacted [[ukrainian-folklore|Ukrainian folklore]], language, and culture due to the challenges associated with their trade.",
+        "In the [[ukrainian|Ukrainian language]], the Milky Way is referred to as the Chumaks' Way, and there exists a Ukrainian surname, Chumak.",
+        "Chumak traders are featured in various works of Ukrainian folklore and literature, including those by notable figures such as [[taras-shevchenko|Taras Shevchenko]] and [[ivan-aivazovsky|Ivan Aivazovsky]], as well as in the song '[[ukraine|Ukraina]]' by Taras Petrynenko."
+      ]
+    },
+    {
+      "heading": "Geographical Focus",
+      "paragraphs": [
+        "Chumaks primarily operated during the era of the [[cossack-hetmanate|Cossack Hetmanate]] in the 17th century, engaging in trade with the Moscow state, the Polish–Lithuanian Commonwealth, the Crimean Khanate, and Moldavia.",
+        "As modernization progressed, traditional economic activities like those of the Chumaks became marginalized, leading to their concentration in [[western-ukraine|western Ukraine]], where service levels were lower."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "cossack-hetmanate",
+    "galicia",
+    "ivan-aivazovsky",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-folklore",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Chumak — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chumak",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

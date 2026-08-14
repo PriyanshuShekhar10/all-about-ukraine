@@ -1,0 +1,74 @@
+{
+  "qid": "Q125894309",
+  "slug": "electricity-in-ukraine",
+  "title": "electricity in Ukraine",
+  "type": "aspect in a geographic region",
+  "category": "economy",
+  "aliases": [
+    "electricity sector in Ukraine"
+  ],
+  "infobox": {
+    "label": "aspect in a geographic region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Electricity generation in Ukraine is primarily nuclear, with a significant focus on energy security and decentralization, particularly in the context of the ongoing Russo-Ukrainian War. The country's electricity infrastructure has faced challenges, including damage from conflict, but efforts are underway to enhance resilience and integrate with European energy markets.",
+  "sections": [
+    {
+      "heading": "Electricity Generation",
+      "paragraphs": [
+        "Electricity is a crucial component of the energy landscape [[coal-in-ukraine|in Ukraine]], with nuclear power accounting for the majority of generation. The energy system is characterized by inflexibility, with most output from [[energoatom|Energoatom]] sold to the government's 'guaranteed buyer' to stabilize prices for domestic consumers.",
+        "Historically, [[ukraine|Ukraine]] relied on Russia for all its nuclear fuel until the 2010s, but the country has since diversified its sources."
+      ]
+    },
+    {
+      "heading": "Impact of the Russo-Ukrainian War",
+      "paragraphs": [
+        "The ongoing [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]] has led to the destruction of some electricity infrastructure. However, renewable energy sources such as wind and solar power, along with battery storage, are considered more resilient due to their distributed nature.",
+        "As of 2025, Ukraine's installed electricity capacity is approximately one-third of what it was before the invasion. The country can import just over 2 GW from European nations, which is insufficient to meet peak demand."
+      ]
+    },
+    {
+      "heading": "Grid Synchronization with Europe",
+      "paragraphs": [
+        "Since 2017, Ukraine has aimed to reduce its dependency on the Unified Power System of Russia by connecting to the synchronous grid of Continental Europe. This transition was marked by a significant event on 24 February 2022, coinciding with the start of the Russian invasion, when Ukraine successfully disconnected from the Russian grid.",
+        "On 16 March 2022, Ukraine and Moldova began a trial synchronization with the European grid, marking a pivotal step in Ukraine's energy integration with Europe."
+      ]
+    },
+    {
+      "heading": "Reconstruction and Future Development",
+      "paragraphs": [
+        "International financial commitments totaling $8.5 billion have been made to support Ukraine's energy sector, focusing on emergency generation capacity and stabilizing the transmission grid. The European Bank for Reconstruction and Development leads this effort with a €3.1 billion program.",
+        "In terms of energy security, the [[ukrainian|Ukrainian]] Energy Ministry is prioritizing decentralization, including the installation of rooftop solar panels and small gas-turbine generators to mitigate the impact of blackouts caused by ongoing military actions."
+      ]
+    },
+    {
+      "heading": "Demand and Economic Considerations",
+      "paragraphs": [
+        "Electricity demand in Ukraine peaks during very cold weather, reaching 18 GW in the winter of 2025/2026. The integration of flexible demand technologies, such as electric vehicles and heat pumps, is seen as a potential solution to balance peak loads.",
+        "As of 2024, household electricity prices were approximately half the market rate, with suggestions to limit subsidies to energy-poor households to promote energy efficiency."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "energoatom",
+    "full-scale-russo-ukrainian-war",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Electricity in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electricity_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

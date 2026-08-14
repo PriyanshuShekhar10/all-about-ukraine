@@ -1,0 +1,80 @@
+{
+  "qid": "Q16948747",
+  "slug": "2019-ukrainian-presidential-election",
+  "title": "2019 Ukrainian presidential election",
+  "type": "Ukrainian presidential election",
+  "category": "politics",
+  "aliases": [
+    "Ukrainian presidential election, 2019"
+  ],
+  "infobox": {
+    "label": "Ukrainian presidential election",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2019-03-31",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The 2019 Ukrainian presidential election, held on 31 March, resulted in a runoff on 21 April between Volodymyr Zelenskyy and incumbent president Petro Poroshenko, with Zelenskyy winning decisively. This election marked a significant political shift in Ukraine, as Poroshenko became the third incumbent president to lose reelection.",
+  "sections": [
+    {
+      "heading": "Election Overview",
+      "paragraphs": [
+        "Presidential [[elections-in-ukraine|elections in Ukraine]] took place on 31 March 2019. Since none of the 39 candidates on the ballot secured an absolute majority in the initial voting, a runoff was conducted on 21 April between the leading candidates, [[volodymyr-zelenskyy|Volodymyr Zelenskyy]] and [[petro-poroshenko|Petro Poroshenko]]. The Central Election Commission (CEC) declared Zelenskyy the victor of the second round, receiving 73.22% of the total votes cast (or 74.96% of valid votes). The election was deemed free and fair by the Organization for Security and Co-operation in Europe.",
+        "With this outcome, Poroshenko became the third sitting president [[coal-in-ukraine|in Ukraine]]'s history to lose reelection, following [[viktor-yushchenko|Viktor Yushchenko]] in 2010 and [[leonid-kravchuk|Leonid Kravchuk]] in 1994. The only president to have won reelection was [[leonid-kuchma|Leonid Kuchma]] in 1999. Zelenskyy was inaugurated as the sixth [[president-of-ukraine|President of Ukraine]] in May 2019."
+      ]
+    },
+    {
+      "heading": "Legal Framework and Candidate Registration",
+      "paragraphs": [
+        "According to [[ukrainian|Ukrainian]] law, presidential elections must occur on the last Sunday of March in the fifth year of the incumbent's term, which in this instance was 31 March 2019. The [[verkhovna-rada|Ukrainian parliament]] confirmed the election date on 26 November 2018, ensuring compliance with the legal requirement to announce the date at least 100 days prior to the election.",
+        "Candidates for the presidency needed to be Ukrainian citizens aged at least 35, proficient in the Ukrainian language, and residents of [[ukraine|Ukraine]] for the preceding ten years. They could be nominated by political parties or through self-nomination, and were required to submit an income declaration for the previous year, which was audited by the National Agency for Prevention of Corruption. The nomination period ran from 31 December 2018 to 4 February 2019, with the final registration deadline on 9 February 2019. By this date, the CEC had registered 44 candidates, marking the highest number of participants in a presidential election in Ukraine's history."
+      ]
+    },
+    {
+      "heading": "Campaign Dynamics",
+      "paragraphs": [
+        "The campaign financing analysis conducted by the Ukrainian NGO 'Chesno' revealed that Petro Poroshenko had the largest campaign fund, amounting to ₴415 million (approximately $15.4 million), followed by [[yulia-tymoshenko|Yulia Tymoshenko]] with ₴320 million, and Volodymyr Zelenskyy with ₴102.8 million. This was in contrast to the 2010 presidential election, where the winner [[viktor-yanukovych|Viktor Yanukovych]] spent over $40 million.",
+        "Various Ukrainian television channels played a significant role in supporting different candidates during the election. Poroshenko received backing from multiple channels, including his own Channel 5 and Pryamiy, while Zelenskyy was notably supported by the 1+1 media group, which had previously employed him."
+      ]
+    },
+    {
+      "heading": "Debates and Public Engagement",
+      "paragraphs": [
+        "In the lead-up to the elections, several debate formats were organized across various media platforms. ZIK TV hosted a series of debates from 19 February to 28 March, while Espreso TV conducted weekly debates starting 1 March. The state-owned UA:PBC also organized debates featuring top candidates, culminating in a significant public debate at the Olimpiyskyi Stadium on 19 April, which was attended by both Zelenskyy and Poroshenko.",
+        "The public debate at the stadium was notably marked by a light-hearted moment when Zelenskyy led the audience in singing 'Happy Birthday' to the moderator, Olena Frolyak, after the debate concluded."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "elections-in-ukraine",
+    "leonid-kravchuk",
+    "leonid-kuchma",
+    "petro-poroshenko",
+    "president-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada",
+    "viktor-yanukovych",
+    "viktor-yushchenko",
+    "volodymyr-zelenskyy",
+    "yulia-tymoshenko"
+  ],
+  "sources": [
+    {
+      "title": "2019 Ukrainian presidential election — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2019_Ukrainian_presidential_election",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

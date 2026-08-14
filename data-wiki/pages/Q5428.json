@@ -1,0 +1,86 @@
+{
+  "qid": "Q5428",
+  "slug": "siberia",
+  "title": "Siberia",
+  "type": "region",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Siberian Khanate, Tsardom of Russia",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "37,275,609",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "10,000,000",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "60.0000, 105.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Siberia is a vast geographical region that encompasses all of North Asia, extending from the Ural Mountains to the Pacific Ocean. It has been part of Russia since the late 16th century and holds historical significance, including its cultural connections to various ethnic groups, some of which are relevant to Ukraine's historical narratives.",
+  "sections": [
+    {
+      "heading": "Geographical Overview",
+      "paragraphs": [
+        "Siberia, pronounced sy-BEER-ee-ə, is a large geographical area covering over 13.1 million square kilometers (5,100,000 mi²), which constitutes about three-quarters of Russia's total land area. It is characterized by a sparse population, housing roughly a quarter of Russia's population. The region is bordered by the Ural Mountains in the west and the Pacific Ocean in the east."
+      ]
+    },
+    {
+      "heading": "Cultural and Ethnic Composition",
+      "paragraphs": [
+        "Despite its geographical location in Asia, Siberia has been culturally and ethnically influenced by European settlers, with over 85% of its population being of European descent, primarily Russian. The region also hosts significant ethnic minorities of Asian lineage, including Indigenous Turkic groups like the Yakuts and Tuvans, and Mongolic Buryats, which contribute to the diverse cultural landscape that can be of interest in the context of [[ukraine|Ukraine]]'s historical interactions with various ethnic groups."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Siberia's history is marked by various nomadic tribes and later by the establishment of the Khanate of Sibir in the late 15th century. The Russian conquest began with the fall of this Khanate in 1582 and continued until the annexation of Chukotka in 1778. The region's history is intertwined with the expansion of Russian influence, which has implications for understanding the broader historical context of [[eastern-europe|Eastern Europe]], including Ukraine."
+      ]
+    },
+    {
+      "heading": "Economic Development",
+      "paragraphs": [
+        "Siberia has rich natural resources, which have been extensively exploited since the 20th century, leading to the establishment of industrial towns. The construction of the Trans-Siberian Railway from 1891 to 1916 further integrated Siberia into the Russian economy. This economic development is relevant to Ukraine's historical economic ties with Russia and the broader region."
+      ]
+    },
+    {
+      "heading": "Siberia in the Soviet Era",
+      "paragraphs": [
+        "During the Soviet period, Siberia became known for its Gulag labor camps, where millions were imprisoned. The impact of these camps on the local population and the development of cities like Norilsk and Magadan can provide insight into the socio-political dynamics of the region, which may resonate with Ukraine's own historical experiences under Soviet rule."
+      ]
+    },
+    {
+      "heading": "Post-Soviet Transition",
+      "paragraphs": [
+        "Following the dissolution of [[soviet-union|the Soviet Union]] in 1991, Siberia experienced significant economic challenges as Russia transitioned to a market economy. Discussions regarding regional autonomy, such as the idea of a Siberian Republic, reflect ongoing issues of governance and identity that are also pertinent to Ukraine's post-Soviet evolution."
+      ]
+    }
+  ],
+  "links_out": [
+    "eastern-europe",
+    "soviet-union",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Siberia — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Siberia",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

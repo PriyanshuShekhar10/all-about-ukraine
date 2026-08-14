@@ -1,0 +1,85 @@
+{
+  "qid": "Q2622438",
+  "slug": "andriivskyi-descent",
+  "title": "Andriivskyi Descent",
+  "type": "descent",
+  "category": "history",
+  "aliases": [
+    "Andriivskyi Uzviz"
+  ],
+  "infobox": {
+    "label": "descent",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4599, 30.5151",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Andriivskyi Descent, also known as Saint Andrew's Descent, is a historic street in Kyiv that connects the Upper Town and the Podil neighborhood. Renowned for its cultural significance and tourist appeal, the descent features numerous landmarks and has been a focal point for various reconstruction efforts.",
+  "sections": [
+    {
+      "heading": "Geographical and Historical Context",
+      "paragraphs": [
+        "Andriivskyi Descent, or Saint Andrew's Descent, is a historic street in [[kyiv|Kyiv]], [[ukraine|Ukraine]], spanning 720 meters (2,360 ft) and constructed of cobblestones. It connects the Upper Town neighborhood with the [[podil|Podil]] district, starting at the end of Volodymyrska Street and descending steeply around Zamkova Hora hill to end at Kontraktova Square.",
+        "Historically, the descent was known as Borychiv Descent and mentioned by Nestor the Chronicler in the Primary Chronicle. The current name emerged in the 18th century when Saint Andrew's Church was constructed atop the hill."
+      ]
+    },
+    {
+      "heading": "Cultural Significance and Attractions",
+      "paragraphs": [
+        "Andriivskyi Descent is often referred to as the 'Montmartre of Kyiv' and is a major tourist destination, included in the list of national landmarks. It is part of the historic reserve 'Ancient Kyiv,' and features notable landmarks such as the baroque Saint Andrew's Church, the Castle of Richard the Lionheart, and the house of writer [[mikhail-bulgakov|Mikhail Bulgakov]].",
+        "The descent hosts various festivals, including art festivals and Kyiv Day celebrations, and is lined with gift shops and art galleries that showcase works by [[ukrainian|Ukrainian]] artists."
+      ]
+    },
+    {
+      "heading": "Reconstruction Efforts",
+      "paragraphs": [
+        "Discussions regarding the reconstruction of Andriivskyi Descent have been ongoing since 2006, initiated by a grassroots organization that gathered over 1,000 signatures for the cause. On June 23, 2009, the Kyiv City Council approved the reconstruction, which had been announced by Mayor Leonid Chernovetskyi a year earlier.",
+        "Despite the approval, the timeline for reconstruction remains uncertain, and the descent's sewer and water systems have not been updated for over a century, highlighting the need for infrastructure improvements."
+      ]
+    },
+    {
+      "heading": "Saint Andrew's Church",
+      "paragraphs": [
+        "Saint Andrew's Church, an 18th-century baroque structure, is a key attraction on the descent. Commissioned by Russian Empress Elizabeth Petrovna, the church was built under architect Bartolomeo Rastrelli. Although initially intended for personal care by the Empress, it fell into disrepair after her death and was last consecrated in 1767.",
+        "The church was opened as a museum in 1968 and has undergone restoration efforts since original plans were discovered in 1963."
+      ]
+    },
+    {
+      "heading": "Mikhail Bulgakov's House",
+      "paragraphs": [
+        "Mikhail Bulgakov, a notable writer born in Kyiv, lived on Andriivskyi Descent in the early 20th century. His experiences in the area inspired his novel The White Guard. The house at No. 13, now known as Bulgakov House, features a museum dedicated to his life and work, opened on May 15, 1991.",
+        "A monument to Bulgakov was installed near the museum in 2007 but was dismantled in 2026 due to its recognition as a symbol of Russian propaganda."
+      ]
+    },
+    {
+      "heading": "One Street Museum",
+      "paragraphs": [
+        "The One Street Museum, located on Andriivskyi Descent, showcases over 6,500 exhibits related to the history of the descent, including artifacts from Saint Andrew's Church and the Castle of Richard the Lionheart. The museum also features collections from prominent Ukrainian figures and a variety of antique books."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "mikhail-bulgakov",
+    "podil",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Andriivskyi Descent — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Andriivskyi_Descent",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

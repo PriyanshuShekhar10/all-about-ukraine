@@ -1,0 +1,108 @@
+{
+  "qid": "Q694219",
+  "slug": "state-university-of-trade-and-economics",
+  "title": "State University of Trade and Economics",
+  "type": "national university",
+  "category": "geography",
+  "aliases": [
+    "KITE",
+    "KNUTE",
+    "KSUTE",
+    "KTEI",
+    "Kyiv Institute of Trade and Economics",
+    "Kyiv National University of Trade and Economics",
+    "Kyiv State Trade and Economics University",
+    "Kyiv State University of Trade and Economics",
+    "Kyiv Trade Economics Institute",
+    "Kyiv branch of Donetsk Institute of Soviet Trade",
+    "Kyiv branch of Kharkiv Institute of Soviet Trade",
+    "Kyiv branch of the All-Union Correspondence Institute of Soviet Trade",
+    "NUTE",
+    "National Trade Economics University of Kyiv",
+    "National University of Trade and Economics",
+    "SUTE"
+  ],
+  "infobox": {
+    "label": "national university",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1946",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Lisovyi masyv",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4658, 30.6381",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The State University of Trade and Economics (SUTE) is a prominent [[ukrainian|Ukrainian]] institution located in Kyiv, specializing in trade and economics education. Established from the Kyiv branch of the All-Union Correspondence Institute of Soviet Trade in 1946, the university has undergone several transformations and name changes, reflecting its evolving role in Ukraine's higher education landscape.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The origins of the State University of Trade and Economics trace back to 1946 with the establishment of the Kyiv branch of the All-Union Correspondence Institute of Soviet Trade. The formation of the Ministry of Trade of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] in 1958 led to the subordination of educational institutions [[coal-in-ukraine|in Ukraine]] to this ministry.",
+        "In 1965, Vasyl Zadorozhnyi was appointed as the director of the branch, which transitioned into an independent higher educational institution in 1966, becoming the Kyiv Institute of Trade and Economics (KITE). This change was formalized by a resolution from the Council of Ministers of the Ukrainian SSR.",
+        "The university was later renamed Kyiv State University of Trade and Economics in 1994 and was granted national university status in 2000. The most recent name change occurred in 2022, when it became the State University of Trade and Economics."
+      ]
+    },
+    {
+      "heading": "Campus and Facilities",
+      "paragraphs": [
+        "The university's main campus in [[kyiv|Kyiv]] consists of six teaching and laboratory buildings, which house various faculties, administrative offices, and a large library, recognized as the largest in Ukraine.",
+        "Facilities include a cultural-artistic building with an assembly hall, a sports complex with various athletic amenities, and specialized centers for pre-university preparation and foreign business language instruction."
+      ]
+    },
+    {
+      "heading": "Academic Structure",
+      "paragraphs": [
+        "The State University of Trade and Economics encompasses five institutes, ten colleges, and higher commercial schools. It offers a diverse range of programs across various faculties, including Economics, Hospitality, and Finance.",
+        "The Faculty of Economics, Management and Law, founded in 1966, is the largest, with around 4,000 students enrolled. Other faculties focus on areas such as hospitality, trade entrepreneurship, accounting, and banking."
+      ]
+    },
+    {
+      "heading": "International Collaboration",
+      "paragraphs": [
+        "The university has established a Center of European Education, founded in 2015, which trains French-speaking specialists in enterprise management. This center collaborates with French institutions, offering state-recognized diplomas from France at various levels of study."
+      ]
+    },
+    {
+      "heading": "Future Developments",
+      "paragraphs": [
+        "The university anticipates a potential re-granting of national status by the [[president-of-ukraine|President of Ukraine]] by 2025, which may lead to another name change to the National University of Trade and Economics."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "kyiv",
+    "president-of-ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "State University of Trade and Economics — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/State_University_of_Trade_and_Economics",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

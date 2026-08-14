@@ -54,13 +54,13 @@
       "heading": "Geography",
       "paragraphs": [
         "Cherkasy Oblast covers an area of 20,900 square kilometres (8,100 sq mi), making it the 18th largest oblast [[coal-in-ukraine|in Ukraine]] and accounting for about 3.5% of the country's total area. The [[dnieper|Dnieper River]] flows through the oblast, dividing it into a hilly western part known as the Dnieper Upland and a low-lying eastern part that historically experienced frequent flooding. This flooding was mitigated in the 20th century with the construction of multiple dams and hydroelectric power plants.",
-        "The oblast extends 245 km from southwest to northeast and 150 km from north to south. Its northernmost point is near Kononivka in [[zolotonosha|Zolotonosha]] Raion, while the southernmost point is near Kolodyste in Zvenyhorodka Raion. The westernmost point is near Korytnya in [[uman|Uman]] Raion, and the easternmost point is near Stetsivka in [[cherkasy|Cherkasy]] Raion. The geometric center of the oblast is located near Zhuravky in Horodyshche Raion. Cherkasy Oblast shares borders with [[kyiv|Kyiv]] Oblast to the north, [[kirovohrad-oblast|Kirovohrad Oblast]] to the south, [[poltava-oblast|Poltava Oblast]] to the east, and [[vinnytsia-oblast|Vinnytsia Oblast]] to the west."
+        "The oblast extends 245 km from southwest to northeast and 150 km from north to south. Its northernmost point is near Kononivka in [[zolotonosha|Zolotonosha]] Raion, while the southernmost point is near Kolodyste in [[zvenyhorodka|Zvenyhorodka]] Raion. The westernmost point is near Korytnya in [[uman|Uman]] Raion, and the easternmost point is near Stetsivka in [[cherkasy|Cherkasy]] Raion. The geometric center of the oblast is located near Zhuravky in Horodyshche Raion. Cherkasy Oblast shares borders with [[kyiv-oblast|Kyiv Oblast]] to the north, [[kirovohrad-oblast|Kirovohrad Oblast]] to the south, [[poltava-oblast|Poltava Oblast]] to the east, and [[vinnytsia-oblast|Vinnytsia Oblast]] to the west."
       ]
     },
     {
       "heading": "History",
       "paragraphs": [
-        "Cherkasy Oblast was established on 7 January 1954 as part of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]] through a decree from the Presidium of the Supreme Soviet. This decree was later approved by the Supreme Soviet of [[soviet-union|the Soviet Union]] on 26 April 1954. The oblast was formed from the territories of major cities such as Cherkasy, Smila, and Uman, along with their respective raions, and included 30 former raions from [[vinnytsia|Vinnytsia]], Kyiv, [[kropyvnytskyi|Kirovohrad]], and [[poltava|Poltava]] Oblasts.",
+        "Cherkasy Oblast was established on 7 January 1954 as part of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]] through a decree from the Presidium of the Supreme Soviet. This decree was later approved by the Supreme Soviet of [[soviet-union|the Soviet Union]] on 26 April 1954. The oblast was formed from the territories of major cities such as Cherkasy, Smila, and Uman, along with their respective raions, and included 30 former raions from [[vinnytsia|Vinnytsia]], [[kyiv|Kyiv]], [[kropyvnytskyi|Kirovohrad]], and [[poltava|Poltava]] Oblasts.",
         "Archaeological findings indicate that the Dnieper River valley has been inhabited since prehistoric times, with the oldest artifacts dating back to the Palaeolithic period."
       ]
     },
@@ -99,6 +99,7 @@
     "kirovohrad-oblast",
     "kropyvnytskyi",
     "kyiv",
+    "kyiv-oblast",
     "poltava",
     "poltava-oblast",
     "soviet-union",
@@ -110,7 +111,8 @@
     "uman",
     "vinnytsia",
     "vinnytsia-oblast",
-    "zolotonosha"
+    "zolotonosha",
+    "zvenyhorodka"
   ],
   "sources": [
     {

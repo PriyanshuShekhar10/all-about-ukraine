@@ -69,7 +69,7 @@
     {
       "heading": "Historical Context",
       "paragraphs": [
-        "The roots of the Soviet Union can be traced back to the October Revolution of 1917, led by Vladimir Lenin. Following Lenin's death in 1924, Joseph [[donetsk|Stalin]] emerged as the leader, initiating policies that included rapid industrialization and forced collectivization, which resulted in significant human suffering, including a famine in the 1930s.",
+        "The roots of the Soviet Union can be traced back to the October Revolution of 1917, led by [[vladimir-lenin|Vladimir Lenin]]. Following Lenin's death in 1924, Joseph [[donetsk|Stalin]] emerged as the leader, initiating policies that included rapid industrialization and forced collectivization, which resulted in significant human suffering, including a famine in the 1930s.",
         "During World War II, the Soviet Union suffered the highest casualties of any nation, with around 27 million deaths, and played a decisive role in defeating the Axis powers, subsequently establishing dominance over much of Central and [[eastern-europe|Eastern Europe]]."
       ]
     },
@@ -77,7 +77,7 @@
       "heading": "Cold War Dynamics",
       "paragraphs": [
         "Post-World War II, the Soviet Union became one of the world's two superpowers, leading the Eastern Bloc against the Western Bloc during the Cold War. This period was marked by geopolitical tensions, an arms race, and proxy wars.",
-        "Under Nikita Khrushchev, the Soviet Union underwent a process of de-Stalinization, while the later leadership of Leonid Brezhnev saw economic stagnation despite some easing of relations with the United States."
+        "Under [[nikita-khrushchev|Nikita Khrushchev]], the Soviet Union underwent a process of de-Stalinization, while the later leadership of Leonid Brezhnev saw economic stagnation despite some easing of relations with the United States."
       ]
     },
     {
@@ -99,7 +99,9 @@
     "donetsk",
     "eastern-europe",
     "mikhail-gorbachev",
-    "ukraine"
+    "nikita-khrushchev",
+    "ukraine",
+    "vladimir-lenin"
   ],
   "sources": [
     {

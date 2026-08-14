@@ -44,7 +44,7 @@
       }
     ]
   },
-  "summary": "Pripyat, an abandoned industrial city in [[kyiv|Kyiv]] Oblast, [[ukraine|Ukraine]], was founded on 4 February 1970 and is closely associated with the Chernobyl Nuclear Power Plant. The city was evacuated following the Chernobyl disaster on 27 April 1986, leading to its abandonment and subsequent historical significance.",
+  "summary": "Pripyat, an abandoned industrial city in [[kyiv-oblast|Kyiv Oblast]], [[ukraine|Ukraine]], was founded on 4 February 1970 and is closely associated with the Chernobyl Nuclear Power Plant. The city was evacuated following the Chernobyl disaster on 27 April 1986, leading to its abandonment and subsequent historical significance.",
   "sections": [
     {
       "heading": "Historical Context",
@@ -84,7 +84,7 @@
     "chernobyl",
     "chernobyl-disaster",
     "chernobyl-nuclear-power-plant",
-    "kyiv",
+    "kyiv-oblast",
     "ukraine",
     "ukrainian"
   ],

@@ -1,0 +1,99 @@
+{
+  "qid": "Q3442414",
+  "slug": "vasyl-krychevsky",
+  "title": "Vasyl Krychevsky",
+  "type": "human",
+  "category": "culture",
+  "aliases": [
+    "V. H. Krychevs'kyĭ",
+    "Vasilij Grigor'evič Kričevskij",
+    "Vasily Krichevski",
+    "Vasily Krichevsky",
+    "Vasyl H. Krychevsky",
+    "Vasyl Hryhorovych Krychevs'kyĭ",
+    "Vasyl Hryhorovych Krychevsky",
+    "Vasyl Hryhorovych Krychevskyi",
+    "Vasyl Krychevskyi",
+    "Vasyl' Hryhorovyč Kryčevs'kyj",
+    "Vasyl' Kkrychevs'ky",
+    "Vasyl' Krychevs'ky",
+    "Wassil Grigorowitsch Kritschewskij"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1872-12-31",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1952-11-15",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Vorozhba",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Vasyl Hryhorovych Krychevsky was a prominent Ukrainian painter, architect, art scholar, graphic artist, and educator, recognized for his contributions to Ukrainian art and design, including the 1918 Ukrainian coat of arms and state seals.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Vasyl Krychevsky was born on January 12, 1873, in the village of Vorozhba, near Lebedyn, as the eldest of eight children. His father, Hryhoriy Yakymovych Krychevsky, was a county state doctor of Jewish origin who converted to Orthodox Christianity and married a [[ukrainian|Ukrainian]] woman named Praskovia Hryhorivna."
+      ]
+    },
+    {
+      "heading": "Education and Teaching",
+      "paragraphs": [
+        "Krychevsky had limited formal education but developed a strong interest in [[ukrainian-folklore|Ukrainian folklore]] and art history. During World War I, he became one of the founders and rectors of the Ukrainian State Academy of Arts. In the 1920s, he taught at the [[kyiv|Kyiv]] Institute of Plastic Arts and the Kyiv Architectural Institute, where he influenced students such as Joseph Karakis. He later taught at the [[odesa|Odesa]] Art School and worked in the architectural department of the Kiev State Art Institute until 1941.",
+        "In 1943, Krychevsky relocated to [[lviv|Lviv]], where he was appointed rector of a new Ukrainian art school that would evolve into the [[lviv-national-academy-of-arts|Lviv National Academy of Arts]]. After World War II, he spent a short time in Paris before immigrating to South America in 1948."
+      ]
+    },
+    {
+      "heading": "Artistic Contributions",
+      "paragraphs": [
+        "Krychevsky gained public attention in 1903 by winning a competition to design the [[poltava|Poltava]] Zemstvo Building, now the Poltava Local Lore Museum, which reflected Ukrainian folk architectural traditions. As an artist, he produced approximately 3000 works, including paintings, drawings, ornamental designs, and book covers, with influences from French impressionism.",
+        "At the request of President [[mykhailo-hrushevskyi|Mykhailo Hrushevsky]], he designed the state emblems and seals of the [[ukrainian-peoples-republic|Ukrainian People's Republic]], as well as the Republic's banknotes. Krychevsky was also a dedicated collector and advocate of Ukrainian folk art, promoting traditional handicrafts among the populace."
+      ]
+    },
+    {
+      "heading": "Theatrical Work",
+      "paragraphs": [
+        "Between 1907 and 1910, Krychevsky designed sets and costumes for over 15 theatrical productions, including Mykhailo Starytsky's '[[bohdan-khmelnytsky|Bohdan Khmelnytsky]]' and Bedřich Smetana's 'The Bartered Bride.' He collaborated with the Ukrainian National Theater from 1917 to 1918."
+      ]
+    },
+    {
+      "heading": "Legacy",
+      "paragraphs": [
+        "Krychevsky collaborated with fellow architect Petro Kostyrko on several projects, including the reconstruction of the former Poltava Governorate Administration building in 1960. His works are displayed internationally, with a significant collection housed in the [[ukrainian-museum|Ukrainian Museum]] in New York. Vasyl Krychevsky passed away in Caracas, Venezuela, on November 15, 1952."
+      ]
+    }
+  ],
+  "links_out": [
+    "bohdan-khmelnytsky",
+    "kyiv",
+    "lviv",
+    "lviv-national-academy-of-arts",
+    "mykhailo-hrushevskyi",
+    "odesa",
+    "poltava",
+    "ukrainian",
+    "ukrainian-folklore",
+    "ukrainian-museum",
+    "ukrainian-peoples-republic"
+  ],
+  "sources": [
+    {
+      "title": "Vasyl Krychevsky — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vasyl_Krychevsky",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

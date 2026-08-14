@@ -1,0 +1,121 @@
+{
+  "qid": "Q170036",
+  "slug": "kyiv-oblast",
+  "title": "Kyiv Oblast",
+  "type": "oblast of Ukraine",
+  "category": "politics",
+  "aliases": [
+    "Kyiv Region",
+    "Kyivshchyna"
+  ],
+  "infobox": {
+    "label": "oblast of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1932-02-27",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Kyiv",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "1,734,500",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "28,131",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Head of government",
+        "value": "Q89190489",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.2500, 30.5000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Kyiv Oblast, also known as Kyivshchyna, is a province in central and northern Ukraine that encircles the city of Kyiv. It plays a significant role in Ukraine's urban economy and transportation, with a population of approximately 1,795,079 as of 2022.",
+  "sections": [
+    {
+      "heading": "Geographical Overview",
+      "paragraphs": [
+        "Kyiv Oblast spans a total area of 28,100 km2 (10,849 sq mi), which is about 35 times larger than [[kyiv|Kyiv]] city. The oblast is situated in north-central [[ukraine|Ukraine]], bordered by [[zhytomyr-oblast|Zhytomyr Oblast]] to the west, [[vinnytsia-oblast|Vinnytsia Oblast]] to the southwest, [[cherkasy-oblast|Cherkasy Oblast]] to the south, [[poltava-oblast|Poltava Oblast]] to the southeast, [[chernihiv-oblast|Chernihiv Oblast]] to the east and northeast, and Homyel Voblasts of Belarus to the north.",
+        "The [[dnieper|Dnieper River]] (Dnipro) runs through the oblast, with a total length of 246 km (153 mi) within its boundaries. The region is characterized by numerous rivers, including tributaries such as [[pripyat|Pripyat]], Desna, Teteriv, [[irpin|Irpin]], Ros, and Trubizh, as well as 13 reservoirs and approximately 750 small lakes."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Kyiv Oblast was established on 27 February 1932 as part of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]], making it one of the first five original oblasts [[coal-in-ukraine|in Ukraine]]. The territory has historical roots in the Kiev Voivodeship under the Polish–Lithuanian Commonwealth and the Kiev Governorate under the Russian Empire.",
+        "The current borders of the oblast were defined after the [[chernobyl-disaster|Chernobyl disaster]] in 1986, which led to the creation of the [[chernobyl-exclusion-zone|Chernobyl Exclusion Zone]] in the northern part of the oblast."
+      ]
+    },
+    {
+      "heading": "Demographics and Language",
+      "paragraphs": [
+        "As of the 2001 [[ukrainian|Ukrainian]] census, ethnic [[ukrainians|Ukrainians]] comprised 92.5% of Kyiv Oblast's population, while ethnic Russians accounted for 6.0%. The estimated population, excluding Kyiv, was around 1.72 million in 2013, with a population density of 63.01/km2.",
+        "Ukrainian is the sole official language throughout the oblast, and a 2023 survey indicated that 68% of residents supported Ukrainian as the only state language in Ukraine. The Kyiv Oblast Council approved a program in March 2023 aimed at promoting the Ukrainian language in public life."
+      ]
+    },
+    {
+      "heading": "Economic Significance",
+      "paragraphs": [
+        "Kyiv Oblast's economy is diverse, with major industries including power production, food processing, chemical and petrochemical industries, and mechanical engineering. The oblast produces a significant share of national outputs, including 63% of tire production for automobiles and 53% of excavators."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "On 24 February 2022, Kyiv Oblast was invaded by Russian Armed Forces as part of the broader [[full-scale-russo-ukrainian-war|invasion of Ukraine]]. A Ukrainian counter-offensive successfully liberated the region on 2 April 2022, although renewed attacks occurred shortly thereafter."
+      ]
+    },
+    {
+      "heading": "Cultural and Historical Sites",
+      "paragraphs": [
+        "Kyiv Oblast is home to several notable cultural and historical sites, including the Pereiaslav museum of folk architecture and the Museum-villa of Kateryna Bilokur. These sites reflect the rich cultural heritage of the region and its significance within Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "cherkasy-oblast",
+    "chernihiv-oblast",
+    "chernobyl-disaster",
+    "chernobyl-exclusion-zone",
+    "coal-in-ukraine",
+    "dnieper",
+    "full-scale-russo-ukrainian-war",
+    "irpin",
+    "kyiv",
+    "poltava-oblast",
+    "pripyat",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainians",
+    "vinnytsia-oblast",
+    "zhytomyr-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Kyiv Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kyiv_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

@@ -1,0 +1,70 @@
+{
+  "qid": "Q11714526",
+  "slug": "ivano-frankivsk-national-technical-university-of-oil-and-gas",
+  "title": "Ivano-Frankivsk National Technical University of Oil and Gas",
+  "type": "university",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "university",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1967",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Ivano-Frankivsk",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Ivano-Frankivsk National Technical University of Oil and Gas is a higher education institution located in [[ivano-frankivsk|Ivano-Frankivsk]], [[ukraine|Ukraine]], established in 1967. It specializes in training professionals for the oil and gas sectors while also offering programs in economics, management, and law relevant to the energy industry.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Ivano-Frankivsk National Technical University of Oil and Gas, known in [[ukrainian|Ukrainian]] as Івано-Франківський національний технічний університет нафти і газу, serves as a key educational institution [[coal-in-ukraine|in Ukraine]], particularly in the oil and gas sectors."
+      ]
+    },
+    {
+      "heading": "Educational Focus",
+      "paragraphs": [
+        "Since its inception in 1967, the university has been dedicated to preparing qualified specialists for the oil and gas industries. In addition to its primary focus, the institution has broadened its curriculum to include studies in economics, management, and law, all of which align with the demands of the energy sector."
+      ]
+    },
+    {
+      "heading": "Teaching Methodology",
+      "paragraphs": [
+        "The university employs a dual approach to education, combining theoretical instruction with practical experience. Students receive classroom education that provides foundational knowledge, followed by hands-on training in university-operated 'field-classrooms' and internships with local businesses and organizations."
+      ]
+    },
+    {
+      "heading": "Colleges and Faculties",
+      "paragraphs": [
+        "The university comprises several colleges and faculties, including the College of Automatics and Computer Science, College of Electrification and Information-Measurement Technologies, College of Economics and Entrepreneurship, College of Oil-Gas Logistics, College of Management and Informational Activities, College of Management of Industrial and Regional Economical Development, College of Architecture of Tourist Complexes, Gas-Oil Industrial College, Geological Investigatory College, Engineer-Ecological College, and Mechanical College."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ivano-frankivsk",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ivano-Frankivsk National Technical University of Oil and Gas — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ivano-Frankivsk_National_Technical_University_of_Oil_and_Gas",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

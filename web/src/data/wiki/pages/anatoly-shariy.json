@@ -1,0 +1,88 @@
+{
+  "qid": "Q4520514",
+  "slug": "anatoly-shariy",
+  "title": "Anatoly Shariy",
+  "type": "human",
+  "category": "war",
+  "aliases": [
+    "Anatoli Chariï",
+    "Anatoliy Sharij",
+    "Anatoliy Shariy",
+    "Anatoly Anatoliyevich Shariy",
+    "Anatoly Anatolyevich Shariy",
+    "Anatoly Sharij"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1978-08-20",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Kyiv",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Anatoly Anatoliiovych Shariy is a Ukrainian politician, journalist, and YouTuber known for his opposition to the Ukrainian government and his controversial political views. He founded the Party of Shariy in 2019, which participated in Ukrainian elections and was later suspended amid accusations of ties to Russia.",
+  "sections": [
+    {
+      "heading": "Biography",
+      "paragraphs": [
+        "Anatoly Anatoliiovych Shariy was born on 20 August 1978 in [[kyiv|Kyiv]], [[ukraine|Ukraine]], where he lived until 2012. He began his journalism career in early 2005, working for the online publication Obozrevatel.",
+        "Shariy became engaged to journalist Olga Bondarenko in 2013, and they married in 2017, having a child together. They co-manage the Sharij.net website.",
+        "In 2011, Shariy was involved in a controversial incident where he shot at a man in a McDonald's restaurant, claiming it was in defense of his wife. He later alleged that the case against him was politically motivated due to his investigative journalism.",
+        "Shariy faced multiple legal challenges related to his journalism, including accusations of staging an assassination attempt against himself and being targeted for his investigations into corruption in [[ukrainian|Ukrainian]] law enforcement."
+      ]
+    },
+    {
+      "heading": "Political Asylum and Activism",
+      "paragraphs": [
+        "In 2012, after being placed on an all-Ukrainian wanted list, Shariy sought political asylum in the European Union, asserting persecution by Ukrainian authorities due to his journalistic activities. He was granted asylum and later obtained permanent residency in Lithuania.",
+        "While residing in the EU, Shariy focused on creating content for his YouTube channel, where he criticized Ukrainian media and government actions post-[[euromaidan|Euromaidan]], often in a derogatory manner.",
+        "Shariy's legal battles continued as he sued various individuals and media outlets for defamation, including a notable case against his sister and comments made by former President [[petro-poroshenko|Petro Poroshenko]]."
+      ]
+    },
+    {
+      "heading": "Party of Shariy and Legal Issues",
+      "paragraphs": [
+        "In June 2019, Shariy established the Party of Shariy, which contested the 2019 [[ukrainian-parliamentary-elections|Ukrainian parliamentary elections]], securing 2.23% of the vote. The party later gained representation in local councils during the 2020 elections.",
+        "However, amid the full-scale Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], the [[national-security-and-defense-council-of-ukraine|National Security and Defense Council of Ukraine]] suspended the Party of Shariy in March 2022, citing alleged connections to Russia. The party was subsequently banned by a court ruling in September 2022.",
+        "In May 2022, Shariy was detained in Spain at the request of the [[security-service-of-ukraine|Security Service of Ukraine]] (SBU) on charges of treason but was released the same day with precautionary measures."
+      ]
+    },
+    {
+      "heading": "Views on the Russo-Ukrainian War",
+      "paragraphs": [
+        "Shariy has characterized the [[war-in-donbas|War in Donbas]] as an 'internal conflict' and has denied the presence of Russian troops, labeling the situation as a civil war. He supports the notion that Ukraine is a 'western colony' under the influence of anti-Russian elements.",
+        "Following the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], Shariy condemned the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] for its handling of public opinion and media narratives, asserting that he does not hold a pro-Russian stance despite accusations to the contrary."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "cabinet-of-ministers-of-ukraine",
+    "euromaidan",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "national-security-and-defense-council-of-ukraine",
+    "petro-poroshenko",
+    "security-service-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-parliamentary-elections",
+    "war-in-donbas"
+  ],
+  "sources": [
+    {
+      "title": "Anatoly Shariy — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anatoly_Shariy",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

@@ -1,0 +1,60 @@
+{
+  "qid": "Q181488",
+  "slug": "gullivers-travels",
+  "title": "Gulliver's Travels",
+  "type": "literary work",
+  "category": "economy",
+  "aliases": [
+    "1726 Gulliver's Travels",
+    "Travels into Several Remote Nations of the World. In Four parts. By Lemuel Gulliver, First a Surgeon, and then a Captain of Several Ships"
+  ],
+  "infobox": {
+    "label": "literary work",
+    "fields": []
+  },
+  "summary": "Gulliver's Travels is a 1726 satirical prose novel by Jonathan Swift that critiques human nature through the adventures of Lemuel Gulliver in various fantastical lands. Its themes and insights remain relevant in literary discussions, including those in Ukraine, where its social commentary resonates with ongoing societal reflections.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Gulliver's Travels, originally titled Travels into Several Remote Nations of the World. In Four Parts. By Lemuel Gulliver, First a Surgeon, and then a Captain of Several Ships, is a satirical prose novel by Jonathan Swift, published in 1726. It is recognized as a classic of English and world literature, notably introducing the fictional island of Lilliput."
+      ]
+    },
+    {
+      "heading": "Plot Summary",
+      "paragraphs": [
+        "The narrative follows Lemuel Gulliver, an Englishman who embarks on a series of voyages to strange lands inhabited by unusual beings. In Lilliput, he encounters tiny people embroiled in trivial political disputes; in Brobdingnag, he is a small man among giants who critique European customs; in Laputa, he meets impractical intellectuals; and in the land of the Houyhnhnms, he discovers rational horses living in contrast to savage human-like creatures called Yahoos."
+      ]
+    },
+    {
+      "heading": "Composition and Historical Context",
+      "paragraphs": [
+        "The exact timeline of Swift's writing is unclear, but it is believed he began drafting the novel around 1713, with significant composition occurring between 1720 and 1725. The work is a political satire, likely influenced by Swift's experiences in Ireland, a context that adds depth to its critique of human nature and societal flaws."
+      ]
+    },
+    {
+      "heading": "Reception and Legacy",
+      "paragraphs": [
+        "Upon its release, Gulliver's Travels was an immediate success, praised for its clever satire and realistic depictions of travel. While some critics accused Swift of misanthropy, the novel has endured as a significant work in literature, studied for its social commentary and political themes. [[coal-in-ukraine|In Ukraine]], the book's exploration of societal norms and human behavior resonates with contemporary discussions on governance and morality."
+      ]
+    },
+    {
+      "heading": "Cultural Impact",
+      "paragraphs": [
+        "Gulliver's Travels has been adapted into various forms of media, including theater, film, and television, highlighting its ongoing relevance. Despite being often categorized as children's literature, its roots in political satire continue to engage audiences, including in Ukraine, where the themes of power, authority, and human folly are particularly pertinent."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Gulliver's Travels — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gulliver's_Travels",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

@@ -1,0 +1,52 @@
+{
+  "qid": "Q1076228",
+  "slug": "chop",
+  "title": "Chop",
+  "type": "Wikimedia disambiguation page",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "Chop refers to various subjects, including a city in Ukraine, medical terms, and cultural references. The term is notably associated with the city of Chop, which plays a significant role in the region's geography and transport.",
+  "sections": [
+    {
+      "heading": "Geographical Significance",
+      "paragraphs": [
+        "Chop is a city located [[coal-in-ukraine|in Ukraine]], notable for its strategic position and connections within the region."
+      ]
+    },
+    {
+      "heading": "Transportation",
+      "paragraphs": [
+        "The Chop railway station serves as an important transportation hub in Ukraine, facilitating travel and trade."
+      ]
+    },
+    {
+      "heading": "Medical Context",
+      "paragraphs": [
+        "In medical terminology, CHOP refers to a chemotherapy treatment specifically for non-Hodgkin's lymphoma, highlighting its relevance in cancer treatment discussions."
+      ]
+    },
+    {
+      "heading": "Cultural References",
+      "paragraphs": [
+        "The term 'chop' also appears in various cultural contexts, such as music and sports, although these are less directly related to [[ukraine|Ukraine]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Chop — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chop",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}

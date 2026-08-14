@@ -1,0 +1,89 @@
+{
+  "qid": "Q12139013",
+  "slug": "samopomich",
+  "title": "Samopomich",
+  "type": "political party",
+  "category": "war",
+  "aliases": [
+    "Self Help",
+    "Self Reliance",
+    "Self-Help",
+    "Self-Reliance"
+  ],
+  "infobox": {
+    "label": "political party",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2012-12-29",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Lviv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Association 'Self Reliance' (Ukrainian: Об'єднання «Самопоміч») is a [[political-party-in-ukraine|political party in Ukraine]] that embodies liberal conservative and Christian democratic ideologies. Founded on 29 December 2012, it has its roots in the Ukrainian cooperative movement and has participated in various elections, achieving notable successes and challenges.",
+  "sections": [
+    {
+      "heading": "Founding and Ideology",
+      "paragraphs": [
+        "Self Reliance was established on 29 December 2012, drawing on the principles of 'Christian morality and common sense.' The party's name is reminiscent of a non-governmental organization founded by Andriy Sadovyi in 2004, which aimed to promote local cooperation and community development.",
+        "The party's ideology is linked to the historical context of the [[ukrainian|Ukrainian]] cooperative movement that emerged in [[western-ukraine|Western Ukraine]] in the early 20th century. This movement, which sought to address economic issues before political ones, was initiated by figures such as Dr. Yevhen Olesnytskyi and Ostap Nyzhankivskyi."
+      ]
+    },
+    {
+      "heading": "Electoral Performance",
+      "paragraphs": [
+        "In the 2014 [[ukrainian-parliamentary-elections|Ukrainian parliamentary elections]], Self Reliance secured 33 seats, marking a significant achievement for the party. However, in the subsequent 2019 elections, the party's representation dwindled to just one seat in the [[lviv-oblast|Lviv Oblast]] electoral district.",
+        "The party also participated in local elections, where it faced challenges, such as in the 2020 elections, where it did not rank among the top ten parties, obtaining only 0.52% of available mandates."
+      ]
+    },
+    {
+      "heading": "Key Historical Events",
+      "paragraphs": [
+        "The contemporary political journey of Self Reliance began with the establishment of its predecessor NGO in 2004, which focused on legal literacy and community organization. Andriy Sadovyi's election as mayor of [[lviv|Lviv]] in 2006 played a pivotal role in the party's development.",
+        "Following its formation, Self Reliance actively engaged in the [[euromaidan|Euromaidan]] protests and participated in the 2014 [[kyiv|Kyiv]] City Council elections, where it won five seats. The party's parliamentary faction was involved in the coalition supporting the Yatsenyuk Government but later faced internal conflicts, leading to a decrease in its representation."
+      ]
+    },
+    {
+      "heading": "Leadership Changes",
+      "paragraphs": [
+        "Andriy Sadovyi led the party until October 2019, when he was succeeded by Oksana Syroyid. Under her leadership, the party continued to navigate the complex political landscape of [[ukraine|Ukraine]], although it struggled to maintain its previous electoral success."
+      ]
+    },
+    {
+      "heading": "Ideological Perspectives",
+      "paragraphs": [
+        "Self Reliance identifies with liberal conservatism; however, there are differing opinions regarding its ideological consistency. Some critics argue that the party lacks a coherent ideology, exhibiting a mix of conservative, populist, and liberal policies."
+      ]
+    }
+  ],
+  "links_out": [
+    "euromaidan",
+    "kyiv",
+    "lviv",
+    "lviv-oblast",
+    "political-party-in-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-parliamentary-elections",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Self Reliance (political party) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Self_Reliance_(political_party)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-14",
+  "status": "published"
+}
