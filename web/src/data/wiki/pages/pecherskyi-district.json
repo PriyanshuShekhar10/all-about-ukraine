@@ -1,0 +1,90 @@
+{
+  "qid": "Q1585799",
+  "slug": "pecherskyi-district",
+  "title": "Pecherskyi District",
+  "type": "raion of city in Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Pechersk Raion",
+    "Pecherskyi Raion"
+  ],
+  "infobox": {
+    "label": "raion of city in Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "240,000",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "27",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4288, 30.5531",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Pecherskyi District is an urban district in Kyiv, the capital of Ukraine, encompassing the historical Pechersk neighborhood and several other notable areas. It serves as a significant cultural, political, and administrative center within the city.",
+  "sections": [
+    {
+      "heading": "Geography and Historical Background",
+      "paragraphs": [
+        "Pecherskyi District, known in [[ukrainian|Ukrainian]] as Печерський район, is situated in [[kyiv|Kyiv]], adjacent to the right bank of the [[dnieper|Dnieper River]]. The Pechersk neighborhood, which gives the district its name, is located on the hills nearby. The area is historically significant, housing the [[kyiv-pechersk-lavra|Kyiv Pechersk Lavra]], also known as the Kyiv Monastery of the Caves, from which the name Pechersk derives, as 'pechera' translates to 'cave' in Ukrainian.",
+        "The settlement near the Lavra began to develop in the 12th century, evolving from the Berestiv royal estate, which was located near the Kyiv Golden Gates. The name 'Beresta' refers to the birch tree bark, historically used for making shoes and as a writing medium. Pechersk was officially recognized as a town during the 16th to 17th centuries.",
+        "From the 18th century until the mid-20th century, Pechersk served as the administrative center of Kyiv, particularly after the construction of the Old [[kyiv-fortress|Kyiv fortress]], which became a key military stronghold for the Russian Empire and later [[soviet-union|the Soviet Union]]."
+      ]
+    },
+    {
+      "heading": "Political Significance",
+      "paragraphs": [
+        "Since the 1930s, Pecherskyi District has been regarded as the political heart of Kyiv. The term 'Pechersk Hills' has become synonymous with the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] and political elite, as it houses many vital governmental institutions, including the [[verkhovna-rada|Verkhovna Rada]] (parliament), the office of the President, the Cabinet of Ministers of Ukraine, and the Supreme Court of [[ukraine|Ukraine]].",
+        "It is important to note that the political area is primarily located in the Lypky historical neighborhood, which is characterized by its distinctive Soviet architecture and was designed as an elite quarter for government officials."
+      ]
+    },
+    {
+      "heading": "Demographics and Language",
+      "paragraphs": [
+        "According to the 2001 census, the linguistic distribution of the Pecherskyi District's population reflects the diverse cultural landscape of Kyiv. The area is home to a mix of Ukrainian speakers and other language groups, indicative of the city's historical and contemporary demographics."
+      ]
+    },
+    {
+      "heading": "Cultural and Tourist Attractions",
+      "paragraphs": [
+        "Pecherskyi District is rich in historical and architectural landmarks. Notable sites include the Kyiv Pechersk Lavra, Vydubychi Monastery, Presentation Monastery, Klov Palace, and Mariinskyi Palace. Additionally, significant government buildings, such as the [[national-bank-of-ukraine|National Bank of Ukraine]] and the Verkhovna Rada building, are located here.",
+        "The district also features cultural institutions like the Mystetskyi Arsenal National Art and Culture Museum Complex. Natural attractions include Askold's Grave, a site depicted in a painting by [[taras-shevchenko|Taras Shevchenko]], and the surrounding Askold Grave Park, which houses the Saint Nicolas the Miracle-worker Church.",
+        "Pecherskyi District has evolved into a luxury residential area post-independence in 1991, while still hosting various industrial, healthcare, and military facilities, alongside parks and sports venues, such as the Lobanovsky Dynamo Stadium."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "dnieper",
+    "kyiv",
+    "kyiv-fortress",
+    "kyiv-pechersk-lavra",
+    "national-bank-of-ukraine",
+    "soviet-union",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Pecherskyi District — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pecherskyi_District",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

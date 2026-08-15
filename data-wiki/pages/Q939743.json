@@ -1,0 +1,80 @@
+{
+  "qid": "Q939743",
+  "slug": "parliamentary-assembly-of-the-council-of-europe",
+  "title": "Parliamentary Assembly of the Council of Europe",
+  "type": "international parliamentary assembly",
+  "category": "politics",
+  "aliases": [
+    "PACE"
+  ],
+  "infobox": {
+    "label": "international parliamentary assembly",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1949-05-05",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Palace of Europe, Council of Europe",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Parliamentary Assembly of the Council of Europe (PACE) serves as the parliamentary component of the Council of Europe, comprising 46 member states and focusing on human rights, democracy, and the rule of law. Its relevance to Ukraine is underscored by its actions and resolutions regarding human rights and democratic governance, particularly in the context of the ongoing conflict with Russia.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Parliamentary Assembly of the Council of Europe (PACE) is the parliamentary branch of the [[council-of-europe|Council of Europe]], an international organization consisting of 46 nations committed to promoting human rights, democracy, and the rule of law. The Assembly includes 306 members from the national parliaments of its member states and convenes four times a year in Strasbourg for week-long plenary sessions."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "PACE held its inaugural session in Strasbourg on 10 August 1949, reflecting the aspirations of Europeans seeking unity to prevent the recurrence of war and human rights violations following World War II. The Assembly has been instrumental in establishing frameworks that protect human rights and foster democratic governance across Europe."
+      ]
+    },
+    {
+      "heading": "Key Achievements",
+      "paragraphs": [
+        "Among PACE's significant accomplishments is the abolition of the death penalty in Europe among signatory states, requiring new members to cease executions. The Assembly also played a vital role in the creation of the European Convention on Human Rights, which serves as a foundational document for human rights protection.",
+        "Additionally, PACE has been pivotal in supporting former Soviet nations, including [[ukraine|Ukraine]], in their transitions to democracy post-1989, and has contributed to the development of progressive national laws."
+      ]
+    },
+    {
+      "heading": "Powers and Functions",
+      "paragraphs": [
+        "Although PACE does not possess the authority to enact binding laws, it represents the interests of 700 million Europeans and holds significant influence over member states. The Assembly can demand action from governments, investigate human rights violations, and question national leaders. It also plays a crucial role in electing judges to the European Court of Human Rights, ensuring a diverse representation on the bench."
+      ]
+    },
+    {
+      "heading": "Sanctions Related to Ukraine",
+      "paragraphs": [
+        "In April 2014, following Russia's [[russian-annexation-of-crimea|annexation of Crimea]] and its involvement in the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]], PACE suspended the voting rights of the Russian delegation. This suspension included restrictions on participation in the Assembly's leadership and election observation missions. Although the sanctions were renewed and later lapsed, they highlight PACE's commitment to upholding democratic principles and responding to violations of international law, particularly in the context of Ukraine."
+      ]
+    },
+    {
+      "heading": "Cultural Contributions",
+      "paragraphs": [
+        "PACE was instrumental in the adoption of the Flag of Europe and the Anthem of Europe, both of which symbolize European unity and identity. These cultural symbols were first embraced by the Council of Europe before being adopted by the European Union, further illustrating PACE's influence in shaping European identity."
+      ]
+    }
+  ],
+  "links_out": [
+    "council-of-europe",
+    "full-scale-russo-ukrainian-war",
+    "russian-annexation-of-crimea",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Parliamentary Assembly of the Council of Europe — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Parliamentary_Assembly_of_the_Council_of_Europe",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

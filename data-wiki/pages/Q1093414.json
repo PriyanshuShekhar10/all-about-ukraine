@@ -1,0 +1,86 @@
+{
+  "qid": "Q1093414",
+  "slug": "velykyi-bychkiv",
+  "title": "Velykyi Bychkiv",
+  "type": "urban-type settlement in Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Nagybocskó"
+  ],
+  "infobox": {
+    "label": "urban-type settlement in Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "9,255",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "52",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "307",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "47.9714, 24.0047",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Velykyi Bychkiv is a rural settlement located in the Rakhiv Raion of [[zakarpattia-oblast|Zakarpattia Oblast]], [[ukraine|Ukraine]]. As of 2022, it has an estimated population of 9,114 and is part of the Velykyi Bychkiv settlement hromada.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Velykyi Bychkiv is situated 36 kilometres (22 miles) east of Tiachiv, at the junction of the Sopurka River and the Tisza River. The settlement is positioned within the historical region of Hutsulshchyna."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The first recorded mention of the village dates back to 1358, under the name Buchku, which is derived from a Slavic term meaning 'bull'. Initially owned by the Bosckai family until 1556, it subsequently came under the ownership of the Báthory family. By 1711, a mansion was established in the area. Following the unsuccessful revolution led by Francis II Rákóczi, German settlers arrived.",
+        "Historically, the village comprised three sections: Nagybocskó and Kisbocskó (now Velykyy Bychkiv) and Németbocskó (now Bocicoiu Mare in Romania). In 1910, the population was recorded at 5,955, including 3,078 [[rusyns|Ruthenians]], 1,646 Hungarians, and 1,177 Germans, with religious affiliations of 3,374 Greek Catholics, 1,266 Roman Catholics, and 1,163 Jews. At that time, it was part of the Hungarian county of Máramaros.",
+        "After World War I, Velykyi Bychkiv became part of Czechoslovakia, where it played a significant role in the [[ukrainian|Ukrainian]] national movement. In 1939, it reverted to Hungarian control before being transferred to the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] in 1945. On 26 January 2024, a new law reclassified Velykyi Bychkiv from an urban-type settlement to a rural settlement."
+      ]
+    },
+    {
+      "heading": "Economy",
+      "paragraphs": [
+        "The economy of Velykyi Bychkiv includes a factory for chemical production, specifically sulfuric acid and table salt, as well as a sawmill. In 1930, a forest railway line was constructed to support local industries."
+      ]
+    },
+    {
+      "heading": "Notable People",
+      "paragraphs": [
+        "Several notable individuals were born in Velykyi Bychkiv, including János Balogh, a biologist and member of the Hungarian Academy of Sciences, born on 19 February 1903; Ottó Korvin, a politician and founder of the Communist Workers' Party, born on 24 March 1894; and Theodore Romzha, a Greek Catholic bishop of Mukačevo, born on 14 April 1911.",
+        "Additionally, Ivan Yaremchuk, a Ukrainian and Soviet football player, was born here on 13 September 1962. Holocaust survivors Rose Weingarten and Helen Gancz Zigmond were born in Velykyi Bychkiv on 27 September 1918 and 27 October 1927, respectively, during its time as part of Czechoslovakia."
+      ]
+    }
+  ],
+  "links_out": [
+    "rusyns",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "zakarpattia-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Velykyi Bychkiv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Velykyi_Bychkiv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

@@ -1,0 +1,76 @@
+{
+  "qid": "Q2026890",
+  "slug": "zvenyhorod",
+  "title": "Zvenyhorod",
+  "type": "village of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Zvenyhorod (Ukraine)"
+  ],
+  "infobox": {
+    "label": "village of Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "1,156",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "245",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.7328, 24.2469",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Zvenyhorod is a village situated in Lviv Raion, Lviv Oblast, in [[western-ukraine|western Ukraine]]. Historically significant as the capital of the Principality of Zvenyhorod during the 11th and 12th centuries, it is now part of the Davydiv rural hromada.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Zvenyhorod is positioned 20 kilometers southeast of [[lviv|Lviv]], located in a swampy region formed by the flow of the Bilka river."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "The area around Zvenyhorod has been inhabited since the Paleolithic period. The village is first documented in 1087 when it served as the capital of Prince Volodar Rostyslavych. From 1124 to 1141, it was under the control of Volodymyrko Volodarovych, who later relocated his capital to [[halych|Halych]]. In 1144, the city was ruled by Ivan Rostyslavych, and from 1206 to 1212, it was governed by Roman Ihorovych.",
+        "Zvenyhorod's advantageous location on a significant road intersection and its strong defensive capabilities contributed to its early prominence. However, its decline began with the Mongol invasion of [[kievan-rus|Kievan Rus]], leading to a loss of status to Lviv and its transformation into a regular village.",
+        "During the late 19th century and up until World War II, Zvenyhorod was the focus of various historical and archaeological studies conducted by scholars such as [[mykhailo-hrushevskyi|Mykhailo Hrushevsky]] and Yaroslav Pasternak. Notable archaeological discoveries in the vicinity included remnants of Roman terra sigillata pottery from Gaul, as well as seals and the remains of a church dating back to the Rus' period."
+      ]
+    },
+    {
+      "heading": "Administrative Changes",
+      "paragraphs": [
+        "Until 18 July 2020, Zvenyhorod was part of Pustomyty Raion. Following the administrative reform of [[ukraine|Ukraine]] in July 2020, which aimed to streamline the number of raions in [[lviv-oblast|Lviv Oblast]] to seven, Pustomyty Raion was dissolved, and Zvenyhorod was incorporated into Lviv Raion."
+      ]
+    }
+  ],
+  "links_out": [
+    "halych",
+    "kievan-rus",
+    "lviv",
+    "lviv-oblast",
+    "mykhailo-hrushevskyi",
+    "ukraine",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Zvenyhorod — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zvenyhorod",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

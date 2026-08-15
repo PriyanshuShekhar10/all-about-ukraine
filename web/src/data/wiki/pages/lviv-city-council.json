@@ -1,0 +1,69 @@
+{
+  "qid": "Q12119102",
+  "slug": "lviv-city-council",
+  "title": "Lviv City Council",
+  "type": "administrative territorial entity",
+  "category": "politics",
+  "aliases": [
+    "Lviv municipality",
+    "municipality of Lviv"
+  ],
+  "infobox": {
+    "label": "administrative territorial entity",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Lviv",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Location",
+        "value": "Lviv Town Hall",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.8419, 24.0317",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Lviv City Council is the governing body of Lviv, a prominent city [[coal-in-ukraine|in Ukraine]], with a structure comprising 64 elected representatives serving five-year terms.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Lviv City Council ([[ukrainian|Ukrainian]]: Львівська міська рада, romanized: Lvivska miska [[verkhovna-rada|rada]]) is the municipal council responsible for the administration of [[lviv|Lviv]], a significant city in [[western-ukraine|western Ukraine]]."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "On May 19, 2011, the council made a decision to extend its jurisdiction to include the areas of Sokilnyky, covering approximately 28.8 hectares (71 acres), and Zymna Voda, which spans about 57.32 hectares (141.6 acres).",
+        "Since 2007, the Lviv City Council has organized a Competition of Socio-Cultural Projects aimed at fostering community engagement.",
+        "On May 27, 2020, the city council expanded its governance by incorporating 17 additional nearby settlements, thereby forming the Lviv urban hromada. This development was followed by the first elections for the Lviv urban hromada, which took place on October 25, 2020, during the Ukrainian local elections."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "lviv",
+    "ukrainian",
+    "verkhovna-rada",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Lviv City Council — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lviv_City_Council",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

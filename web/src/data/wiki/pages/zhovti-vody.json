@@ -1,0 +1,102 @@
+{
+  "qid": "Q639054",
+  "slug": "zhovti-vody",
+  "title": "Zhovti Vody",
+  "type": "city of regional significance of Ukraine",
+  "category": "economy",
+  "aliases": [
+    "Zheltye Vody"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1895",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "44,766",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "33",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "149",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.3500, 33.5167",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Zhovti Vody is a city of regional significance located in Kamianske Raion, [[dnipropetrovsk-oblast|Dnipropetrovsk Oblast]], Ukraine. Known for its historical and industrial significance, the city has a population of approximately 42,052 as of 2022.",
+  "sections": [
+    {
+      "heading": "Geography and Administration",
+      "paragraphs": [
+        "Zhovti Vody, which translates to 'Yellow Waters', is situated on the Zhovta River about 70 km (43 mi) north of [[kryvyi-rih|Kryvyi Rih]], a major metropolitan area. The city serves as the administrative center of the Zhovti Vody urban hromada, one of the hromadas within [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The area of Zhovti Vody has historical significance, being the site of the Battle of Zhovti Vody. The modern settlement's history began during the Russian Empire with geological studies and mining surveys in 1895, leading to the establishment of mining operations. The settlement was initially known as 'Zhovta Rika' and developed around several quarries.",
+        "In 1951, the city became a 'secret city' known as 'Mailbox 28' due to the establishment of a uranium mine and mill, which operated under secrecy until the end of the Soviet era."
+      ]
+    },
+    {
+      "heading": "Industrial Activities",
+      "paragraphs": [
+        "Zhovti Vody is home to the Eastern Mining and Processing Enterprise (VostGOK), the largest uranium ore extractor in Europe and the only producer of uranium concentrate [[coal-in-ukraine|in Ukraine]]. Although local uranium mining has ceased, VostGOK continues to extract iron ore and produce hydrochloric acid.",
+        "The city faces significant environmental challenges, with considerable pollution from uranium ore and associated radon gas, leading to health issues among residents."
+      ]
+    },
+    {
+      "heading": "Demographics and Population",
+      "paragraphs": [
+        "As of 2022, the population of Zhovti Vody is estimated at 42,052. The demographic composition includes various ethnic groups, as recorded in the 2001 census."
+      ]
+    },
+    {
+      "heading": "Sports and Notable Individuals",
+      "paragraphs": [
+        "Zhovti Vody has a bandy team, contributing to the local sports culture. Notable individuals from the city include Inna Tsyganok, a professional [[ukrainian|Ukrainian]] triathlete, and Evelina De Lain, a pianist and composer."
+      ]
+    },
+    {
+      "heading": "Administrative Changes",
+      "paragraphs": [
+        "On July 18, 2020, Zhovti Vody was restructured from a city of oblast significance into the newly established Kamianske Raion as part of Ukraine's administrative reform, which aimed to streamline local governance."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "dnipropetrovsk-oblast",
+    "kryvyi-rih",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Zhovti Vody — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zhovti_Vody",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

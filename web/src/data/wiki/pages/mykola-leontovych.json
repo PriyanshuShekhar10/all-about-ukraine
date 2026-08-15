@@ -1,0 +1,89 @@
+{
+  "qid": "Q467914",
+  "slug": "mykola-leontovych",
+  "title": "Mykola Leontovych",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Leontovich, M. (Mikola), 1877-1921",
+    "Leontovich, Mikola Dmitrovich, 1877-1921",
+    "Leontovich, N. (Nikolaĭ), 1877-1921",
+    "Leontovich, Nikolaĭ Dmitrievich, 1877-1921",
+    "Leontovych, M. D. (Mykola Dmytrovych), 1877-1921",
+    "Leontovych, Mykola Dmytrovych, 1877-1921",
+    "Leontovych, Mykola, 1877-1921",
+    "Leontowitsch, Mikola, 1877-1921",
+    "Mykola Dmytrovych Leontovych"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1877-12-01",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1921-01-23",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Monastirok",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Mykola Dmytrovych Leontovych was a prominent Ukrainian composer, conductor, ethnomusicologist, and educator, known for his significant contributions to choral music and folk arrangements. His most famous work, 'Shchedryk', has become a staple in both Ukrainian and global musical repertoires.",
+  "sections": [
+    {
+      "heading": "Biography",
+      "paragraphs": [
+        "Mykola Dmytrovych Leontovych was born on 13 December [O.S. 1 December] 1877 in Monastyrok, located in the [[podolia|Podolia]] province of the Russian Empire, now part of [[ukraine|Ukraine]]. He was the eldest of five siblings in a family with a strong musical background, as both parents were singers and his ancestors served as village priests. Leontovych's early exposure to music came from his father, who taught him various instruments.",
+        "He pursued education at the [[kamianets-podilskyi|Kamianets-Podilskyi]] Theological Seminary, where he honed his musical skills and began composing choral arrangements. After graduating in 1899, he opted to become a school teacher rather than follow the family tradition of priesthood."
+      ]
+    },
+    {
+      "heading": "Musical Development and Career",
+      "paragraphs": [
+        "Leontovych's early teaching career began in 1899 at a secondary school in Chukiv, where he also engaged in musical instruction. His subsequent positions included teaching at the Theological College in Tyvriv, where he organized choirs and incorporated folk songs into performances. He married Claudia Feropontovna Zholtkevych in 1902 and had two daughters.",
+        "His move to Tulchyn marked a prolific phase in his composition career, where he taught music and developed friendships with influential composers. Leontovych's arrangements of [[ukrainian|Ukrainian]] folk songs gained recognition, and he was encouraged to have his works performed by prominent choirs in [[kyiv|Kyiv]]."
+      ]
+    },
+    {
+      "heading": "Contributions to Ukrainian Music",
+      "paragraphs": [
+        "Leontovych was instrumental in the promotion of Ukrainian choral music, with over 150 compositions to his name, including the well-known '[[shchedryk|Shchedryk]]'. His music is characterized by rich harmonies and vocal polyphony, often drawing inspiration from Ukrainian folk traditions. He also contributed to sacred music, composing liturgical works for the Ukrainian Autocephalous Orthodox Church.",
+        "His arrangements became widely popular [[coal-in-ukraine|in Ukraine]] and among the [[ukrainian-diaspora|Ukrainian diaspora]], earning him the nickname 'the Ukrainian Bach'."
+      ]
+    },
+    {
+      "heading": "Later Years and Death",
+      "paragraphs": [
+        "Following the 1917 revolution and the establishment of the [[ukrainian-peoples-republic|Ukrainian People's Republic]], Leontovych relocated to Kyiv, where he continued to compose and teach. He faced persecution after the Bolshevik takeover and returned to Tulchyn, where he founded a music school.",
+        "On 23 January 1921, Leontovych was tragically murdered by a Soviet agent while visiting his parents. His death marked a significant loss for Ukrainian culture, and he is remembered as a martyr in the Eastern Orthodox Ukrainian Church."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "kamianets-podilskyi",
+    "kyiv",
+    "podolia",
+    "shchedryk",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-diaspora",
+    "ukrainian-peoples-republic"
+  ],
+  "sources": [
+    {
+      "title": "Mykola Leontovych — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mykola_Leontovych",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

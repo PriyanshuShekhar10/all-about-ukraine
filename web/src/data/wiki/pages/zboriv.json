@@ -1,0 +1,88 @@
+{
+  "qid": "Q148928",
+  "slug": "zboriv",
+  "title": "Zboriv",
+  "type": "city in Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "6,664",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "7",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "354",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.6616, 25.1469",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Zboriv is a small city located in Ternopil Raion, Ternopil Oblast, in [[western-ukraine|western Ukraine]], within the historical region of [[galicia|Galicia]]. As of 2022, it has an estimated population of 6,621 and serves as the administrative center of Zboriv urban hromada.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Zboriv is situated 35 km (22 mi) northwest of [[ternopil|Ternopil]] and 85 km (53 mi) southeast of [[lviv|Lviv]], lying along the Strypa River in the western part of the historical region of [[podolia|Podolia]]."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The first recorded mention of Zboriv dates back to 1166. The city was devastated during the Mongol invasion of Europe in 1241. Its name is derived from the noble Polish family of Zborowscy. Zboriv was granted city rights in 1639 and was the site of a battle during the [[khmelnytsky-uprising|Khmelnytsky Uprising]] in 1649.",
+        "Under Austrian administration, Zboriv functioned as a district center. In 1913, the population was approximately 6,000, comprising 2,400 [[ukrainians|Ukrainians]], 1,300 Poles, and 2,300 Jews. The town experienced heavy fighting during World War I in June 1917, involving the Czechoslovak legionnaires and the Austrian Army.",
+        "Following the Polish-[[full-scale-russo-ukrainian-war|Ukrainian War]] of 1918-1919, Zboriv became part of Poland, serving as the seat of a powiat in the Tarnopol Voivodeship. By 1931, its population had decreased to about 5,000.",
+        "During World War II, in 1941, Zboriv witnessed a mass murder perpetrated by the German Einsatzgruppen, with local [[ukrainian|Ukrainian]] involvement. The town was completely destroyed in the summer of 1944 due to the Soviet offensive. After the war, Zboriv was rebuilt under Soviet rule, with significant developments in the 1960s and 1980s, including the establishment of a construction plant and a food processing factory.",
+        "Following the dissolution of [[soviet-union|the Soviet Union]], Zboriv's economy suffered a downturn, leading to emigration among many working-age residents. However, the younger generation tends to commute to larger cities like Ternopil and Lviv for employment opportunities.",
+        "Until July 18, 2020, Zboriv was the administrative center of Zboriv Raion, which was abolished as part of an administrative reform that consolidated [[ternopil-oblast|Ternopil Oblast]] into three raions."
+      ]
+    },
+    {
+      "heading": "Notable People",
+      "paragraphs": [
+        "Several notable individuals hail from Zboriv, including Raphael Zaborovsky (1677–1747), a Russian Orthodox bishop; Mykola Skorodynskyi (1751–1805), a Ukrainian Greek Catholic hierarch; Milena Rudnytska (1892–1976), a Ukrainian educator and women's activist; and Roman Pokora (1948–2021), a Ukrainian football player.",
+        "Other notable figures include Volodymyr Shandra (born 1963), a Ukrainian politician and former Governor of [[kyiv-oblast|Kyiv Oblast]]; Andrii Sybiha (born 1975), a Ukrainian diplomat; and several football players including Ihor Kurylo (born 1993), Sviatoslav Dziadykevych (born 1995), Ivan Kohut (born 1998), and Mykola Kohut (born 1998)."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "galicia",
+    "khmelnytsky-uprising",
+    "kyiv-oblast",
+    "lviv",
+    "podolia",
+    "soviet-union",
+    "ternopil",
+    "ternopil-oblast",
+    "ukrainian",
+    "ukrainians",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Zboriv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zboriv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

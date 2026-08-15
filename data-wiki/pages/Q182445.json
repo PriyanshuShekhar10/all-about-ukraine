@@ -1,0 +1,83 @@
+{
+  "qid": "Q182445",
+  "slug": "prut",
+  "title": "Prut",
+  "type": "river",
+  "category": "geography",
+  "aliases": [
+    "Pruth"
+  ],
+  "infobox": {
+    "label": "river",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Romania, Moldova",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.1627, 24.5543",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Prut River, a significant left tributary of the Danube, spans 953 km (592 mi) and plays a crucial role in the geography and history of [[eastern-europe|Eastern Europe]], particularly in relation to Ukraine. Originating in the Carpathian Mountains of Ukraine, the river forms part of the border between Ukraine and Romania.",
+  "sections": [
+    {
+      "heading": "Geographical Features",
+      "paragraphs": [
+        "The Prut River begins on the eastern slope of Mount [[hoverla|Hoverla]] in the [[carpathians|Carpathian Mountains]], located [[coal-in-ukraine|in Ukraine]]'s [[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]]. Initially, it flows northward, then shifts northeast near [[yaremche|Yaremche]] and southeast near Kolomyia. Upon reaching the border between Moldova and Romania, it continues southeast before merging with the Danube near Giurgiulești, situated east of Galați and west of Reni.",
+        "The river delineates a 31 km (19 mi) stretch of the border between Romania and [[ukraine|Ukraine]] and a 711 km (442 mi) stretch between Romania and Moldova. Its hydrographic basin covers 27,540 km², with 10,990 km² (4,240 sq mi) in Romania and 7,790 km² (3,010 sq mi) in Moldova. [[chernivtsi|Chernivtsi]], a major city in Ukraine, is located along its banks."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Throughout history, the Prut River has served as a significant geopolitical boundary. Between 1918 and 1939, it was partially within Poland and Greater Romania. Before World War I, it marked the border between Romania and the Russian Empire, and post-World War II, it again became a border, this time between Romania and [[soviet-union|the Soviet Union]].",
+        "Notable historical events include the crossing of the Prut by the Ottoman army in 1538 and the pivotal Treaty of the Prut signed on July 23, 1711, during the Russo-Turkish War, which led to significant political changes in the region. Additionally, the river was the site of the Battle of Kagul on August 1, 1770, where Russian forces achieved a decisive victory."
+      ]
+    },
+    {
+      "heading": "Cultural Context",
+      "paragraphs": [
+        "The Prut River has inspired various cultural expressions, including literature and poetry. One notable work is 'Within that Prut Valley' by Sydir Vorobkevych, which evokes the river's serene beauty and its significance in the lives of local inhabitants.",
+        "The river's cultural relevance is further highlighted by its mention in historical accounts and its representation in art, showcasing its enduring impact on the local identity and heritage."
+      ]
+    },
+    {
+      "heading": "Infrastructure",
+      "paragraphs": [
+        "The Prut River is home to several important infrastructure projects, including the Stânca-Costești Dam, which is jointly operated by Moldova and Romania. Additionally, a Hydro-Electric Station exists in Sniatyn, Ukraine.",
+        "Bridges such as the Lipcani–Rădăuți-Prut Bridge and the Eiffel Bridge in Ungheni facilitate transportation and connectivity across the river, enhancing its role in regional commerce and travel."
+      ]
+    },
+    {
+      "heading": "Towns and Tributaries",
+      "paragraphs": [
+        "Several towns are situated along the Prut River, including Vorokhta, Yaremche, Kolomyia, and Chernivtsi in Ukraine, as well as towns in Moldova such as Leova and Cahul. These towns contribute to the river's economic and social fabric.",
+        "The Prut River is fed by numerous tributaries, including the left tributaries Turka, Chorniava, and Sovytsia, and the right tributaries such as Pistynka and Cheremosh, which enrich the river's ecosystem and hydrology."
+      ]
+    }
+  ],
+  "links_out": [
+    "carpathians",
+    "chernivtsi",
+    "coal-in-ukraine",
+    "eastern-europe",
+    "hoverla",
+    "ivano-frankivsk-oblast",
+    "soviet-union",
+    "ukraine",
+    "yaremche"
+  ],
+  "sources": [
+    {
+      "title": "Prut — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Prut",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

@@ -1,0 +1,85 @@
+{
+  "qid": "Q157280",
+  "slug": "stepan-bandera",
+  "title": "Stepan Bandera",
+  "type": "human",
+  "category": "economy",
+  "aliases": [
+    "Stepan Andriyovych Bandera"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1909-01-01",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1959-10-15",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Staryi Uhryniv",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Stepan Andriiovych Bandera (1 January 1909 – 15 October 1959) was a prominent Ukrainian far-right leader associated with the radical faction of the Organization of Ukrainian Nationalists, known as OUN-B. His actions and ideology have made him a controversial figure [[coal-in-ukraine|in Ukraine]]'s history, particularly regarding his role in the nationalist movement and World War II.",
+  "sections": [
+    {
+      "heading": "Early Life and Background",
+      "paragraphs": [
+        "Stepan Bandera was born on 1 January 1909 in Staryi Uhryniv, [[galicia|Galicia]], then part of Austria-Hungary, to Andriy Bandera, a Greek Catholic priest, and Myroslava Głodzińska. He was the youngest of eight children and grew up in a patriotic environment influenced by his father's involvement in the nationalist movement.",
+        "Due to World War I, Bandera did not attend primary school and was educated at home. He engaged in various physical activities and cultural pursuits during his youth. After the dissolution of Austria-Hungary, [[eastern-galicia|Eastern Galicia]] briefly became part of the [[west-ukrainian-peoples-republic|West Ukrainian People's Republic]], further shaping his nationalist sentiments."
+      ]
+    },
+    {
+      "heading": "Political Involvement",
+      "paragraphs": [
+        "Bandera's political involvement began in high school, where he joined several [[ukrainian|Ukrainian]] organizations, including the Ukrainian Military Organization (UVO) in 1927 and the [[organization-of-ukrainian-nationalists|Organization of Ukrainian Nationalists]] (OUN) in 1929. He quickly rose through the ranks, becoming head of propaganda for the OUN by 1931.",
+        "His radical activities led to multiple arrests, including a death sentence for his role in the assassination of Polish interior minister Bronisław Pieracki in 1934, which was later commuted to life imprisonment."
+      ]
+    },
+    {
+      "heading": "World War II and OUN-B",
+      "paragraphs": [
+        "During World War II, Bandera's faction, OUN-B, emerged after a split from the OUN in 1940, advocating for an [[independent-ukraine|independent Ukraine]] as a one-party fascist state. On 30 June 1941, following the Nazi invasion of [[soviet-union|the Soviet Union]], he proclaimed the establishment of a [[ukrainian-state|Ukrainian state]] in [[lviv|Lviv]], which was not recognized by the Germans, leading to his arrest by the Gestapo.",
+        "Bandera was released in 1944 and attempted to establish the Ukrainian National Army. His faction was involved in various controversial actions during the war, including the persecution of Polish and Jewish populations."
+      ]
+    },
+    {
+      "heading": "Legacy and Controversy",
+      "paragraphs": [
+        "Stepan Bandera's legacy is deeply polarizing within [[ukraine|Ukraine]]. In Western regions, he is often viewed as a martyr and a symbol of the struggle for Ukrainian independence, while in the South and East, he is seen as a fascist collaborator responsible for wartime atrocities.",
+        "His posthumous recognition includes being awarded the title of Hero of Ukraine by President [[viktor-yushchenko|Viktor Yushchenko]] in 2010, a decision that faced significant backlash and was later annulled in 2011. His legacy has gained renewed attention amid the ongoing conflict with Russia, particularly following the full-scale [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in 2022."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "eastern-galicia",
+    "full-scale-russo-ukrainian-war",
+    "galicia",
+    "independent-ukraine",
+    "lviv",
+    "organization-of-ukrainian-nationalists",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-state",
+    "viktor-yushchenko",
+    "west-ukrainian-peoples-republic"
+  ],
+  "sources": [
+    {
+      "title": "Stepan Bandera — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stepan_Bandera",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

@@ -1,0 +1,89 @@
+{
+  "qid": "Q1499300",
+  "slug": "social-democratic-party-of-ukraine-united",
+  "title": "Social Democratic Party of Ukraine (united)",
+  "type": "political party",
+  "category": "politics",
+  "aliases": [
+    "Social Democratic Party of Ukraine"
+  ],
+  "infobox": {
+    "label": "political party",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1990-05-27",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Social Democratic Party of Ukraine (united), abbreviated SDPU(o), is a [[political-party-in-ukraine|political party in Ukraine]] that emerged from earlier social democratic factions. Initially influential in the 1990s, the party has faced significant decline since the early 2000s, particularly following the Orange Revolution.",
+  "sections": [
+    {
+      "heading": "Foundation and Early Years",
+      "paragraphs": [
+        "The Social Democratic Party of Ukraine was established in May 1990, initially opposing democratic socialism and the [[ukrainian|Ukrainian]] federalist movement. It joined the People's Movement of [[ukraine|Ukraine]], supporting Viacheslav Chornovil during the 1991 presidential elections. In May 1992, Yuriy Zbitnyev became the party leader, succeeding Oleksandr Suhonyako, who favored social liberalism.",
+        "In spring 1993, the Social Democratic Party of Ukraine merged with the United Social Democratic Party of Ukraine, led by Yuriy Buzduhan, forming a single entity registered as the Social Democratic Party of Ukraine. The party won two seats in the 1994 parliamentary elections but later split into factions."
+      ]
+    },
+    {
+      "heading": "Formation of SDPU(o)",
+      "paragraphs": [
+        "In 1995, a new merger led by Yuriy Zbitnyev combined his faction with the Party of Human Rights and the Ukrainian Party of Justice, resulting in the formation of the Social Democratic Party of Ukraine (united). Vasyl Onopenko served as the party's head, with Viktor Medvedchuk and others as deputies. This new party claimed succession from its predecessors, although many members disagreed with this assertion.",
+        "The SDPU(o) faced internal dissent, with accusations of political fraud from former members and disputes over leadership authority."
+      ]
+    },
+    {
+      "heading": "Key Figures and Influence",
+      "paragraphs": [
+        "Viktor Medvedchuk, a prominent lawyer, and businessman Hryhoriy Surkis formed a powerful bloc within the SDPU(o). Medvedchuk gained notoriety as a government-assigned lawyer for dissidents, while Surkis was known for his role in football management. Their alliance fostered a pro-Russian sentiment within the party, raising concerns among other members.",
+        "The SDPU(o) maintained business interests, including the Ukrainian Credit Bank and the [[slavutych|Slavutych]] Industrial and Financial Concern, which faced allegations of financial misconduct."
+      ]
+    },
+    {
+      "heading": "Political Trajectory",
+      "paragraphs": [
+        "The party's fortunes fluctuated, winning 4.01% of the vote in the 1998 parliamentary elections and 6.27% in 2002, securing a total of 24 seats. The SDPU(o) adopted a Russophile agenda, particularly in the [[donbas|Donbas]] and [[crimea|Crimea]], and opposed [[viktor-yushchenko|Viktor Yushchenko]]'s coalition during the 2004 presidential elections, aligning with [[viktor-yanukovych|Viktor Yanukovych]].",
+        "Following the [[orange-revolution|Orange Revolution]], the party declared opposition to the new government, and its media outlets engaged in anti-Western campaigns. The party's representation in the [[verkhovna-rada|Verkhovna Rada]] diminished significantly after the revolution."
+      ]
+    },
+    {
+      "heading": "Controversies and Decline",
+      "paragraphs": [
+        "The SDPU(o) faced various scandals, including accusations of connections to organized crime and corruption. Allegations emerged regarding involvement in the murder of journalist Georgiy Gongadze and other political abuses, leading to public distrust.",
+        "By the late 2000s, the party's influence had waned considerably, struggling to maintain its presence in Ukrainian politics amid shifting public sentiments and the rise of new political forces."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "donbas",
+    "orange-revolution",
+    "political-party-in-ukraine",
+    "slavutych",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada",
+    "viktor-yanukovych",
+    "viktor-yushchenko"
+  ],
+  "sources": [
+    {
+      "title": "Social Democratic Party of Ukraine (united) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Ukraine_(united)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

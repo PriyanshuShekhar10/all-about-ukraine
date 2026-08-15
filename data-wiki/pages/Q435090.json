@@ -1,0 +1,93 @@
+{
+  "qid": "Q435090",
+  "slug": "pavlo-skoropadsky",
+  "title": "Pavlo Skoropadsky",
+  "type": "human",
+  "category": "politics",
+  "aliases": [
+    "Pavlo Petrovych Skoropadskyi",
+    "Pavlo Skoropadskyi"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1873-05-03",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1945-04-26",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Wiesbaden",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "Hetman of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Pavlo Petrovych Skoropadsky was a prominent Ukrainian aristocrat, military leader, and statesman who served as the hetman of the [[ukrainian-state|Ukrainian State]] in 1918. His leadership was marked by significant political and military developments during a tumultuous period in [[history-of-ukraine|Ukrainian history]].",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Pavlo Petrovych Skoropadsky was born on 15 May [O.S. 3 May] 1873 in Wiesbaden, German Empire, into the noble Skoropadsky family, which had roots tracing back to the [[zaporozhian-cossacks|Zaporozhian Cossacks]]. The family became prosperous by the 19th century, with many members serving as officers in the Imperial Russian Army. After spending his early years in Germany, Skoropadsky moved to Trostianets, then part of the Russian Empire (now [[coal-in-ukraine|in Ukraine]]), where he was raised by his grandfather, Ivan, amidst a rich [[ukrainian|Ukrainian]] cultural environment.",
+        "Following the death of his father in 1885, Skoropadsky and his brother were sent to study in Starodub. Despite challenges, he gained special permission to attend the Page Corps in Saint Petersburg, graduating in 1893."
+      ]
+    },
+    {
+      "heading": "Military Career",
+      "paragraphs": [
+        "Skoropadsky began his military career in the Chevalier Guard regiment, eventually participating in the Russo-Japanese War where he earned various accolades, including the Order of St. Anna. By the time World War I began, he had risen to the rank of lieutenant general and commanded the 34th Army Corps, which he later Ukrainized into the 1st Ukrainian Corps following the February Revolution.",
+        "His military leadership during the war included significant engagements and a temporary command of the 5th Cavalry Division, ultimately leading to his promotion to lieutenant general in 1916."
+      ]
+    },
+    {
+      "heading": "Hetman of Ukraine",
+      "paragraphs": [
+        "In April 1918, Skoropadsky was appointed [[hetman|Hetman]] of [[ukraine|Ukraine]] following a coup supported by German troops. His administration faced criticism for being too aligned with German interests and for favoring large landowners. Nonetheless, he is credited with establishing diplomatic relations, forming an effective administrative structure, and founding the [[national-academy-of-sciences-of-ukraine|National Academy of Sciences of Ukraine]].",
+        "His rule ended on 14 December 1918 after an uprising led by Symon Petliura restored the [[ukrainian-peoples-republic|Ukrainian People's Republic]]."
+      ]
+    },
+    {
+      "heading": "Exile and Later Life",
+      "paragraphs": [
+        "After abdicating, Skoropadsky fled to Germany, where he continued to lead the Hetmanite movement and maintained connections with military officials. He refused offers to collaborate with the Nazis during World War II. Skoropadsky died on 26 April 1945 in Germany after being injured during Allied bombings, and he was buried in Oberstdorf.",
+        "His legacy continued through his daughter, Olena Skoropadska-Ott, who was recognized for her historical contributions and maintained ties with Ukraine."
+      ]
+    },
+    {
+      "heading": "Personal Life",
+      "paragraphs": [
+        "Skoropadsky married Aleksandra Petrovna Durnovo on 11 January 1898, and they had six children. His family was well-integrated into Russian society, identifying as Little Russian, which reflects the complex identity dynamics of the time."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "hetman",
+    "history-of-ukraine",
+    "national-academy-of-sciences-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "ukrainian-state",
+    "zaporozhian-cossacks"
+  ],
+  "sources": [
+    {
+      "title": "Pavlo Skoropadsky — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pavlo_Skoropadsky",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

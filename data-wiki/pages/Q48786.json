@@ -1,0 +1,69 @@
+{
+  "qid": "Q48786",
+  "slug": "sakharov-prize",
+  "title": "Sakharov Prize",
+  "type": "human rights award",
+  "category": "people",
+  "aliases": [
+    "Sakharov Prize for Freedom of Thought"
+  ],
+  "infobox": {
+    "label": "human rights award",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1988",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "European Union, France",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Strasbourg",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Sakharov Prize for Freedom of Thought is an honorary award recognizing individuals and groups committed to human rights and freedom of thought. Established by the European Parliament in December 1988 and named after Andrei Sakharov, the prize has significant relevance to Ukraine's human rights landscape.",
+  "sections": [
+    {
+      "heading": "Establishment and Purpose",
+      "paragraphs": [
+        "The Sakharov Prize for Freedom of Thought, commonly referred to as the Sakharov Prize, was established by the European Parliament in December 1988. It honors individuals or groups who have dedicated their lives to the defense of human rights and freedom of thought, reflecting the values that resonate within [[ukraine|Ukraine]]'s ongoing struggles for democracy and civil liberties."
+      ]
+    },
+    {
+      "heading": "Nomination and Award Process",
+      "paragraphs": [
+        "Each year, the European Parliament's Committee on Foreign Affairs and Committee on Development compile a shortlist of nominees for the prize. This shortlist is finalized in September, and the ultimate selection is made by the European Parliament's Conference of Presidents, with the laureate announced in late October. The award ceremony takes place in December at the Parliament's Strasbourg hemicycle, accompanied by a monetary award of €50,000."
+      ]
+    },
+    {
+      "heading": "Notable Laureates",
+      "paragraphs": [
+        "The inaugural Sakharov Prize was awarded jointly to Nelson Mandela of South Africa and Anatoly Marchenko of Russia. Aung San Suu Kyi received the prize in 1990, although she was unable to accept it until 2013 due to her political imprisonment in Burma. The prize has also recognized organizations, starting with the Argentine Mothers of the Plaza de Mayo in 1992. Several laureates have subsequently received the Nobel Peace Prize, including Aung San Suu Kyi (1991) and Nelson Mandela (1993), highlighting the international recognition of human rights advocacy that also resonates within Ukraine."
+      ]
+    },
+    {
+      "heading": "Current Status",
+      "paragraphs": [
+        "As of 2024, the Sakharov Prize has been awarded to 51 recipients, comprising 39 individuals (including three posthumous awards) and 12 organizations. The prize serves as a symbol of resilience and commitment to human rights, which is particularly pertinent to Ukraine, where such struggles continue to be a significant aspect of the national narrative."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Sakharov Prize — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sakharov_Prize",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

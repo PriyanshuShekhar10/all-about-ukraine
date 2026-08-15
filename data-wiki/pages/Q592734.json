@@ -35,7 +35,7 @@
     {
       "heading": "History",
       "paragraphs": [
-        "The Vernadsky National Library of Ukraine is the largest library in the country and serves as its main academic library and scientific information hub. Founded on 2 August 1918 by [[hetman|Hetman]] Pavlo Skoropadskyi, the library's Provisional Committee was established shortly thereafter, led by mineralogist Vladimir Vernadsky.",
+        "The Vernadsky National Library of Ukraine is the largest library in the country and serves as its main academic library and scientific information hub. Founded on 2 August 1918 by [[hetman|Hetman]] [[pavlo-skoropadsky|Pavlo Skoropadskyi]], the library's Provisional Committee was established shortly thereafter, led by mineralogist Vladimir Vernadsky.",
         "During World War II, specifically in August 1941, the library was evacuated to Ufa, where it was situated in the State Pedagogical Institute until its return to [[kyiv|Kyiv]] in May 1944. The current building was constructed between 1975 and 1989, featuring 27 floors and covering an area of 35,700 square meters (384,000 sq ft) with a roof height of 76.81 meters (252.0 ft).",
         "The library has undergone several name changes throughout the 20th century, reflecting its evolving role in [[ukrainian|Ukrainian]] society and academia."
       ]
@@ -63,6 +63,7 @@
     "hetman",
     "ivan-kotliarevskyi",
     "kyiv",
+    "pavlo-skoropadsky",
     "ukrainian"
   ],
   "sources": [

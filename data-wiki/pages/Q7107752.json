@@ -1,0 +1,65 @@
+{
+  "qid": "Q7107752",
+  "slug": "ostriv",
+  "title": "Ostriv",
+  "type": "Wikimedia disambiguation page",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "Ostriv, meaning 'island' in [[ukrainian|Ukrainian]], refers to various locations within Ukraine and a video game. The term encompasses multiple places across several Ukrainian oblasts.",
+  "sections": [
+    {
+      "heading": "Arts and Entertainment",
+      "paragraphs": [
+        "Ostriv is also the title of a video game, contributing to the cultural landscape of [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Geographical Locations in Ukraine",
+      "paragraphs": [
+        "Ostriv is a name associated with several locations throughout Ukraine, including:",
+        "In [[chernihiv-oblast|Chernihiv Oblast]], there is Ostriv located in Nizhyn Raion.",
+        "In [[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]], Ostriv can be found in [[ivano-frankivsk-raion|Ivano-Frankivsk Raion]].",
+        "[[khmelnytskyi-oblast|Khmelnytskyi Oblast]] features Chornyi Ostriv in [[khmelnytskyi|Khmelnytskyi]] Raion.",
+        "In [[kyiv-oblast|Kyiv Oblast]], Ostriv is located in [[bila-tserkva-raion|Bila Tserkva Raion]].",
+        "[[lviv-oblast|Lviv Oblast]] has multiple instances of Ostriv, including Ostriv in [[sheptytskyi|Chervonohrad]] Raion, Sambir Raion, Stryi Raion, [[zolochiv|Zolochiv]] Raion, and Chornyi Ostriv in [[zhydachiv|Zhydachiv]] Raion.",
+        "In [[rivne-oblast|Rivne Oblast]], Ostriv is present in Volodymyrets Raion, Dubno Raion, and Radyvyliv Raion.",
+        "[[ternopil-oblast|Ternopil Oblast]] includes Ostriv in [[ternopil|Ternopil]] Raion.",
+        "In [[volyn-oblast|Volyn Oblast]], Ostriv is located in Kivertsivskyi Raion.",
+        "Lastly, in [[zhytomyr-oblast|Zhytomyr Oblast]], Ostriv can be found in Ovruch Raion."
+      ]
+    }
+  ],
+  "links_out": [
+    "bila-tserkva-raion",
+    "chernihiv-oblast",
+    "ivano-frankivsk-oblast",
+    "ivano-frankivsk-raion",
+    "khmelnytskyi",
+    "khmelnytskyi-oblast",
+    "kyiv-oblast",
+    "lviv-oblast",
+    "rivne-oblast",
+    "sheptytskyi",
+    "ternopil",
+    "ternopil-oblast",
+    "ukraine",
+    "ukrainian",
+    "volyn-oblast",
+    "zhydachiv",
+    "zhytomyr-oblast",
+    "zolochiv"
+  ],
+  "sources": [
+    {
+      "title": "Ostriv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ostriv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

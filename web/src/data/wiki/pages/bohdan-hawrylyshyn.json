@@ -1,0 +1,90 @@
+{
+  "qid": "Q1203774",
+  "slug": "bohdan-hawrylyshyn",
+  "title": "Bohdan Hawrylyshyn",
+  "type": "human",
+  "category": "history",
+  "aliases": [
+    "Bohdan Dmytrovych Hawrylyshyn"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1926-10-19",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "2016-10-24",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Koropets, Switzerland",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Bohdan Dmytrovych Hawrylyshyn was a prominent Ukrainian economist, thinker, and benefactor, who made significant contributions to Ukraine's development post-independence. His work spanned various sectors, including education, government advisory, and charitable initiatives, emphasizing the importance of youth engagement in societal transformation.",
+  "sections": [
+    {
+      "heading": "Biography",
+      "paragraphs": [
+        "Bohdan Hawrylyshyn was born on 19 October 1926 in Koropets village, [[ternopil-oblast|Ternopil Oblast]], where he spent his childhood on his father's farm. Captured by the Nazis during World War II in 1944, he was displaced to Germany and later moved to Canada, where he worked as a lumberjack. His admission to the University of Toronto as a refugee received media attention, and he graduated with a BA in 1952 and an MA in engineering in 1954. He worked in various engineering and managerial roles in Canada until 1960.",
+        "Hawrylyshyn passed away on 24 October 2016 at the age of 90 in [[kyiv|Kyiv]], [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Professional Career",
+      "paragraphs": [
+        "In 1960, Hawrylyshyn transitioned to the educational sector, supervising training programs at IMI Geneva (now International Institute for Management Development) for eight years. He became the Director of the institute in 1968, serving for eighteen years and training numerous professionals globally. He was elected to the Club of Rome in 1972 and received several honorary doctorates throughout his career, including a Doctorate of Economics from the University of Geneva in 1976 and honorary degrees from Canadian universities in the 1980s.",
+        "Hawrylyshyn was a recognized expert in public administration and international business, contributing to over 100 articles and authoring two influential books, including 'Road Maps to the Future - Towards More Effective Societies'."
+      ]
+    },
+    {
+      "heading": "Contribution to the Development of Ukraine",
+      "paragraphs": [
+        "After 1988, Hawrylyshyn dedicated his efforts to Ukraine, founding the International Management Institute (MIM-Kyiv), the first institution in the former USSR to offer an MBA program. He played a key role in establishing the 'Vidrodzhennya' charity fund in 1989, aimed at fostering civil society [[coal-in-ukraine|in Ukraine]].",
+        "In 1991, he created the Council of Advisors to the Presidium of the [[verkhovna-rada|Ukrainian Parliament]] and served as an advisor to the first [[president-of-ukraine|President of Ukraine]], [[leonid-kravchuk|Leonid Kravchuk]], as well as to four chairmen of the Verkhovna Rada and three prime ministers. His contributions earned him recognition as a foreign member of the [[national-academy-of-sciences-of-ukraine|National Academy of Sciences of Ukraine]] and several awards, including the Order of Merit."
+      ]
+    },
+    {
+      "heading": "Charitable Work",
+      "paragraphs": [
+        "In 2010, Hawrylyshyn established the Bohdan Hawrylyshyn Charitable Foundation, aimed at nurturing a new generation of patriotic [[ukrainians|Ukrainians]] engaged in social and political life. The foundation's key program, 'Young Generation Will Change Ukraine', involves international study trips for youth to learn from effective European countries and apply that knowledge to Ukraine's development.",
+        "The foundation focuses on various issues, including parliamentary systems, social policy, and the role of youth in governance."
+      ]
+    },
+    {
+      "heading": "Distinctions and Honorary Degrees",
+      "paragraphs": [
+        "Hawrylyshyn received numerous accolades throughout his life, including the Antonovych prize in 1991, the Gold Medal of the President of the Italian Republic in 1975, and multiple medals from the President of Ukraine.",
+        "He was awarded honorary doctorates from several institutions, including York University in 1984, the University of Alberta in 1986, and [[ukrainian|Ukrainian]] universities such as [[ternopil|Ternopil]] Academy of National Economy and the University of V. Stefanyk."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "kyiv",
+    "leonid-kravchuk",
+    "national-academy-of-sciences-of-ukraine",
+    "president-of-ukraine",
+    "ternopil",
+    "ternopil-oblast",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Bohdan Hawrylyshyn — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bohdan_Hawrylyshyn",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

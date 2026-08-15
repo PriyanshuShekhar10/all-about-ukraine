@@ -1,0 +1,93 @@
+{
+  "qid": "Q4240825",
+  "slug": "kryvorivnia",
+  "title": "Kryvorivnia",
+  "type": "village of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Kryvorivnia"
+  ],
+  "infobox": {
+    "label": "village of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1601",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Austrian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "1,493",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "31",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "565",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.1750, 24.8964",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Kryvorivnia is a village located in the Verkhovyna Raion of the Ivano-Frankivsk Oblast [[coal-in-ukraine|in Ukraine]], recognized as a cultural center for the Hutsul people. It serves as a significant site for both summer and winter traditions among this ethnic group.",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Context",
+      "paragraphs": [
+        "Kryvorivnia ([[ukrainian|Ukrainian]]: Криворівня) is situated within the Verkhovyna Raion, part of the [[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]] of [[ukraine|Ukraine]]. The village is integrated into the Verkhovyna settlement hromada, which is one of the administrative hromadas in the country."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Kryvorivnia is regarded as both the traditional summer and winter capital of the Hutsul people, highlighting its importance in the cultural practices and seasonal activities of this ethnic group."
+      ]
+    },
+    {
+      "heading": "Religious Heritage",
+      "paragraphs": [
+        "The village is home to the Church of the Nativity of the Theotokos, a wooden structure built in 1719, which is part of the Orthodox Church of Ukraine (PCU). This church serves as a significant religious site for the local community."
+      ]
+    },
+    {
+      "heading": "Cinematic Connection",
+      "paragraphs": [
+        "The village gained international recognition through the film 'Shadows of Forgotten Ancestors,' directed by Sergei Parajanov. The location where the film was shot has been transformed into a museum, preserving its cinematic legacy."
+      ]
+    },
+    {
+      "heading": "Notable Residents",
+      "paragraphs": [
+        "Kryvorivnia has been the birthplace of notable figures such as Ivan Rybaruk (born 1966), a Ukrainian priest, writer, editor, and presenter, and Oleksa Volianskyi (1862–1947), a Ukrainian priest, ethnographer, and cultural activist, who contributed significantly to the cultural and educational landscape of Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ivano-frankivsk-oblast",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Kryvorivnia — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kryvorivnia",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

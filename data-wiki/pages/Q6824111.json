@@ -48,7 +48,7 @@
     {
       "heading": "Impact of the Russian Invasion",
       "paragraphs": [
-        "Following the onset of the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in 2022, Metinvest suspended operations at Ilyich Steel and Azovstal in [[mariupol|Mariupol]] due to shelling, resulting in a more than 40% reduction in production capacity across its enterprises.",
+        "Following the onset of the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in 2022, Metinvest suspended operations at Ilyich Steel and [[azovstal|Azovstal]] in [[mariupol|Mariupol]] due to shelling, resulting in a more than 40% reduction in production capacity across its enterprises.",
         "During the first 100 days of the war, Metinvest allocated over UAH 1.5 billion to support the [[ukrainian-ground-forces|Ukrainian army]] and civilians. The company also initiated the Saving Lives humanitarian project in collaboration with [[dtek|DTEK]] and the Rinat Akhmetov Foundation."
       ]
     },
@@ -68,6 +68,7 @@
     }
   ],
   "links_out": [
+    "azovstal",
     "coal-in-ukraine",
     "dtek",
     "full-scale-russo-ukrainian-war",

@@ -1,0 +1,78 @@
+{
+  "qid": "Q2338568",
+  "slug": "radomysl-castle",
+  "title": "Radomysl Castle",
+  "type": "museum",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "museum",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2011-09-30",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4775, 29.2164",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Radomysl Castle, located in Radomyshl, [[zhytomyr-oblast|Zhytomyr Oblast]], [[ukraine|Ukraine]], is a historical and cultural complex established between 2007 and 2011 by Ukrainian doctor and public activist Olha Bohomolets. The site features a museum dedicated to Ukrainian home icons and is part of the Council of Europe's cultural project, Via Regia.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Radomysl Castle, known in [[ukrainian|Ukrainian]] as Замок Радомисль, is centered around an old flour mill constructed in the late 19th century by Polish engineer Piekarski. This mill was built on the remnants of a paper mill established in 1612 under the direction of Yelysei Pletenetskyi, the archimandrite of [[kyiv|Kyiv]]-Pechersk Lavra, who lived from 1550 to 1624. During the reconstruction of the building, it was revealed that the mill was originally intended to serve as a fortress.",
+        "Since 2011, Radomysl Castle has been included in the Via Regia cultural project of the [[council-of-europe|Council of Europe]], aimed at fostering cultural exchanges through tourism among European nations."
+      ]
+    },
+    {
+      "heading": "Museum of Ukrainian Home Icons",
+      "paragraphs": [
+        "The primary attraction of Radomysl Castle is the Museum of Ukrainian home icons, which is based on Olha Bohomolets' private collection accumulated since 1996. This museum is considered one of the first and only of its kind [[coal-in-ukraine|in Ukraine]] and globally, despite the existence of similar museums in Supraśl and Sanok, Poland.",
+        "The collection features over 5,000 icons and sculptures from the 16th to 20th centuries, representing Orthodox, Catholic, and Greek-Catholic traditions across various [[administrative-territorial-entity-of-ukraine|regions of Ukraine]]. A notable piece is a stone-carved icon of St. Nicholas, believed to be the oldest in the collection, dating back to the 12th century. Some icons exhibit damage from the Soviet era's aggressive atheism, with certain pieces being irreparable after having been rescued from destruction."
+      ]
+    },
+    {
+      "heading": "Architectural Features",
+      "paragraphs": [
+        "The interior of Radomysl Castle reflects a blend of Late Medieval and Early Modern architectural styles. Among the notable spaces is the Ceremonial Hall, designated for special events, including weddings. Additionally, the castle houses a concert hall with a capacity of 150, which has hosted performances by renowned Ukrainian folk singer [[nina-matviienko|Nina Matviyenko]]. Uniquely, this concert hall features a natural water spring.",
+        "The castle's refectory serves as a small museum, adorned with fine replicas of historical maps from the 15th to 19th centuries. Its large oven is functional for cooking and serves as a fireplace."
+      ]
+    },
+    {
+      "heading": "Landscape Park",
+      "paragraphs": [
+        "The landscape park surrounding Radomysl Castle was developed in accordance with modern environmental standards, minimizing human impact on the natural surroundings. The park includes natural freshwater springs and hosts a variety of rare plant species, such as iris, pink and white lilies, English garden roses, magnolias, and Trapa rossica, a water caltrop listed in Ukraine's Red Book of endangered species.",
+        "Wildlife in the park includes beavers, otters, minks, and water voles. The castle and its grounds are adorned with sculptures of St. Michael, dating from the 17th to 19th centuries. A monument to Yelysei Pletenetskyi was unveiled on 29 October 2009, located near the site of the former paper mill, and is notable for being one of the few monuments in Ukraine situated on the surface of moving water."
+      ]
+    }
+  ],
+  "links_out": [
+    "administrative-territorial-entity-of-ukraine",
+    "coal-in-ukraine",
+    "council-of-europe",
+    "kyiv",
+    "nina-matviienko",
+    "ukraine",
+    "ukrainian",
+    "zhytomyr-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Radomysl Castle — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Radomysl_Castle",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

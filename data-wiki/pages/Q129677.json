@@ -61,7 +61,7 @@
     {
       "heading": "Chernobyl Disaster",
       "paragraphs": [
-        "The Chernobyl disaster occurred on 26 April 1986, when Reactor No. 4 at the nuclear power plant exploded. The Soviet government initiated the evacuation of Chernobyl and Pripyat on 5 May 1986, relocating most residents to the newly constructed city of Slavutych. While Pripyat remains entirely abandoned, Chernobyl has a small population of approximately 150 people as of 2020."
+        "The Chernobyl disaster occurred on 26 April 1986, when Reactor No. 4 at the nuclear power plant exploded. The Soviet government initiated the evacuation of Chernobyl and Pripyat on 5 May 1986, relocating most residents to the newly constructed city of [[slavutych|Slavutych]]. While Pripyat remains entirely abandoned, Chernobyl has a small population of approximately 150 people as of 2020."
       ]
     },
     {
@@ -88,6 +88,7 @@
     "kyiv",
     "kyiv-oblast",
     "pripyat",
+    "slavutych",
     "ukraine",
     "ukrainian"
   ],

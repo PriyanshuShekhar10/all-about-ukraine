@@ -1,0 +1,87 @@
+{
+  "qid": "Q1711627",
+  "slug": "state-emergency-service-of-ukraine",
+  "title": "State Emergency Service of Ukraine",
+  "type": "government agency",
+  "category": "politics",
+  "aliases": [
+    "DSNS",
+    "SESU"
+  ],
+  "infobox": {
+    "label": "government agency",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1991",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The State Emergency Service of Ukraine is the primary executive body responsible for implementing state policies related to civil defense, emergency response, and disaster management [[coal-in-ukraine|in Ukraine]]. Established in 1996, it plays a crucial role in protecting the population and territory from emergencies, including the aftermath of the Chernobyl disaster.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The State Emergency Service of Ukraine ([[ukrainian|Ukrainian]]: Державна служба України з надзвичайних ситуацій), abbreviated as ДСНС, serves as the main executive agency under the [[ministry-of-internal-affairs-of-ukraine|Ministry of Internal Affairs]]. Its responsibilities encompass civil defense, rescue operations, management of insurance fund documentation, handling of radioactive waste, and emergency prevention and response."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The agency was originally formed in 1996 through the merger of the state civil defense body and the ministry responsible for addressing the consequences of the [[chernobyl|Chernobyl]] catastrophe. Before 1991, the latter functioned as a state committee under the Cabinet of Ministers of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]], while civil defense was integrated into [[soviet-union|the USSR]]'s All-Union civil defense network.",
+        "In 2003, the agency assumed control of the firefighting service, which had been under the Ministry of Internal Affairs. Following a reform in 2005, the agency transitioned to a non-military status focused on rescue services."
+      ]
+    },
+    {
+      "heading": "Administrative Changes",
+      "paragraphs": [
+        "On December 24, 2012, the Ministry of Emergencies of [[ukraine|Ukraine]] was restructured into the State Emergency Service and placed under the jurisdiction of the Ministry of Defence. However, on April 25, 2014, it was transferred back to the Ministry of Internal Affairs.",
+        "Prior to the 2010 administrative reform, the agency was known as the Ministry of Ukraine in emergencies and the protection of the population from the consequences of the [[chernobyl-disaster|Chernobyl disaster]]. The reform led to the establishment of three major central executive bodies under its authority."
+      ]
+    },
+    {
+      "heading": "Structure and Operations",
+      "paragraphs": [
+        "The State Emergency Service includes various specialized formations, such as the State militarized mining rescue brigade and the [[dnieper|Dnipro]] militarized mining rescue brigade. It also oversees several agencies, including the Ukrainian Hydro-meteorological Center and the Main Aviation Coordination Center for search and rescue.",
+        "Educational institutions affiliated with the service include the National University of Civil Defense of Ukraine and the Institute of Fire Safety 'Heroes of Chernobyl', among others, which contribute to training and research in civil defense."
+      ]
+    },
+    {
+      "heading": "Aviation and Emergency Response",
+      "paragraphs": [
+        "The Special Aviation Unit and Operational Rescue Service of the State Emergency Service is based in Nizhyn and is capable of operating independently or in collaboration with other units. This unit is vital for protecting populations and territories during emergencies, particularly in challenging conditions."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernobyl",
+    "chernobyl-disaster",
+    "coal-in-ukraine",
+    "dnieper",
+    "ministry-of-internal-affairs-of-ukraine",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "State Emergency Service of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/State_Emergency_Service_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

@@ -1,0 +1,69 @@
+{
+  "qid": "Q8152262",
+  "slug": "kupala-night",
+  "title": "Kupala Night",
+  "type": "Slavic holiday",
+  "category": "culture",
+  "aliases": [
+    "Ivan Kupalo",
+    "Ivanа-Kupala",
+    "Kupailo",
+    "Kupalo festival"
+  ],
+  "infobox": {
+    "label": "Slavic holiday",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Belarus",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Kupala Night, also known as Ivan Kupala, is a significant folk holiday celebrated in Ukraine and other Slavic countries, coinciding with the summer solstice and the Christian feast of St. John the Baptist. The holiday features various rituals associated with water, fire, and herbs, reflecting its pre-Christian origins and cultural significance.",
+  "sections": [
+    {
+      "heading": "Overview and Significance",
+      "paragraphs": [
+        "Kupala Night, referred to as Ivan Kupala in [[ukrainian|Ukrainian]], is one of the major folk holidays in several Slavic nations. It aligns with the Christian celebration of the Nativity of St. John the Baptist and the East Slavic observance of Saint John's Eve. Traditionally, it is celebrated during the summer solstice, specifically on the shortest night of the year, which falls on June 21-22 or 23-24 in countries like Czechia, Poland, Slovakia, and Bulgaria, with these dates also recognized [[coal-in-ukraine|in Ukraine]] as of 2023."
+      ]
+    },
+    {
+      "heading": "Historical Context and Etymology",
+      "paragraphs": [
+        "Kupala Night is believed to be a Christianized version of a Proto-Slavic or East Slavic summer solstice celebration. The name derives from the Proto-Slavic word *kǫpati, meaning 'to bathe.' Historical sources indicate that the holiday has roots in pre-Christian customs, although some scholars debate its origins. The term 'Kupala' has been documented in Old East Slavic texts as early as the 12th century, indicating its long-standing cultural relevance."
+      ]
+    },
+    {
+      "heading": "Rituals and Traditions",
+      "paragraphs": [
+        "Kupala Night is characterized by various rituals, primarily involving water and fire. Activities include bathing in rivers, lighting bonfires, and gathering herbs. In Ukraine, young men and women participate in these folkloric traditions, which may have evolved from ancient practices. The celebration often includes the selection of 'bride and groom' figures, jumping over fires, and searching for the mythical fern flower, believed to bring good fortune."
+      ]
+    },
+    {
+      "heading": "Cultural Practices",
+      "paragraphs": [
+        "The holiday is marked by communal gatherings where traditional foods are shared. In Ukrainian customs, the night is filled with songs and dances around bonfires, with participants jumping over the flames for purification and protection. The rituals also involve the use of wreaths for divination, symbolizing hopes for prosperity and love."
+      ]
+    },
+    {
+      "heading": "Connection to Nature and Beliefs",
+      "paragraphs": [
+        "Kupala Night is deeply connected to nature, with beliefs surrounding water and fire playing a central role. It is thought that on this night, evil spirits leave the rivers, making it safe to swim. The water is believed to possess magical properties, while the bonfires symbolize purification and renewal. This interplay between elements reflects the holiday's significance in regulating social relations and community cohesion."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Kupala Night — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kupala_Night",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

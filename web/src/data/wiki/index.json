@@ -249,6 +249,14 @@
     "aliases": []
   },
   {
+    "slug": "apostolic-nunciature-to-ukraine",
+    "title": "Apostolic Nunciature to Ukraine",
+    "type": "apostolic nunciature",
+    "category": "people",
+    "summary": "The Apostolic Nunciature to Ukraine serves as the diplomatic mission of the Holy See in Ukraine, located in Kyiv. It functions as an ecclesiastical office with the rank of an embassy, facilitating communication between the [[catholic-church-in-ukraine|Catholic Church in Ukraine]] and the Pope.",
+    "aliases": []
+  },
+  {
     "slug": "arcelormittal-kryvyi-rih",
     "title": "ArcelorMittal Kryvyi Rih",
     "type": "steel mill",
@@ -327,6 +335,18 @@
     ]
   },
   {
+    "slug": "azovstal",
+    "title": "Azovstal",
+    "type": "business",
+    "category": "economy",
+    "summary": "Azovstal Iron and Steel Works, located in Mariupol, Ukraine, was one of the largest steel rolling companies in the country and became a significant site during the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]]. The plant, established in 1930, was emblematic of Ukrainian resistance during the siege of Mariupol in 2022.",
+    "aliases": [
+      "Azovstal Iron and Steel Works",
+      "Azovstal factory",
+      "Metallurgical Combine Azovstal"
+    ]
+  },
+  {
     "slug": "babi-yar",
     "title": "Babi Yar",
     "type": "place of mass murder",
@@ -346,6 +366,18 @@
     "summary": "Bahmut is a commune located in the Călărași District of Moldova, comprising two villages: Bahmut and Bahmut station. Its geographical and cultural context is relevant to the broader region, including Ukraine.",
     "aliases": [
       "Commune of Bahmut"
+    ]
+  },
+  {
+    "slug": "bakhchysarai",
+    "title": "Bakhchysarai",
+    "type": "city in Ukraine",
+    "category": "economy",
+    "summary": "Bakhchysarai is a city located in the Autonomous Republic of Crimea, [[ukraine|Ukraine]], known for its historical significance as the former capital of the Crimean Khanate and its cultural heritage. The city has a population of 27,448 according to the 2014 Census and has been under the occupation of the Russian Federation since 2014.",
+    "aliases": [
+      "Bakhchesarai",
+      "Bakhchisarai",
+      "Bakhchisaray"
     ]
   },
   {
@@ -513,6 +545,16 @@
     "category": "economy",
     "summary": "The Black Sea Shipping Company, established in 1833 and based in [[kyiv|Kyiv]], is a significant [[ukrainian|Ukrainian]] shipping enterprise with a historical legacy as one of the world's largest shipping companies during the Soviet era. It played a crucial role [[coal-in-ukraine|in Ukraine]]'s maritime trade and economic development.",
     "aliases": []
+  },
+  {
+    "slug": "bohdan-hawrylyshyn",
+    "title": "Bohdan Hawrylyshyn",
+    "type": "human",
+    "category": "history",
+    "summary": "Bohdan Dmytrovych Hawrylyshyn was a prominent Ukrainian economist, thinker, and benefactor, who made significant contributions to Ukraine's development post-independence. His work spanned various sectors, including education, government advisory, and charitable initiatives, emphasizing the importance of youth engagement in societal transformation.",
+    "aliases": [
+      "Bohdan Dmytrovych Hawrylyshyn"
+    ]
   },
   {
     "slug": "bohdan-khmelnytsky",
@@ -719,6 +761,16 @@
       "Lviv National Art Gallery",
       "Lviv municipal museum of art",
       "National gallery of arts. Boris Voznytsky, L'viv"
+    ]
+  },
+  {
+    "slug": "boryslav",
+    "title": "Boryslav",
+    "type": "city of regional significance of Ukraine",
+    "category": "geography",
+    "summary": "Boryslav is a city of regional significance located in Lviv Oblast, [[western-ukraine|western Ukraine]], known for its petroleum and ozokerite industries. With a population of approximately 34,000 as of 2024, Boryslav plays a crucial role in Ukraine's industrial landscape.",
+    "aliases": [
+      "Borysław"
     ]
   },
   {
@@ -1104,6 +1156,14 @@
     ]
   },
   {
+    "slug": "chyhyryn-raion",
+    "title": "Chyhyryn Raion",
+    "type": "raion of Ukraine",
+    "category": "geography",
+    "summary": "Chyhyryn Raion was a district in Cherkasy Oblast, central Ukraine, known for its historical significance during the Ukrainian War of Independence. It was dissolved in 2020 as part of administrative reforms in Ukraine.",
+    "aliases": []
+  },
+  {
     "slug": "cinema-of-ukraine",
     "title": "cinema of Ukraine",
     "type": "cinema by country or region",
@@ -1207,6 +1267,16 @@
     "aliases": []
   },
   {
+    "slug": "council-of-europe",
+    "title": "Council of Europe",
+    "type": "intergovernmental organization",
+    "category": "politics",
+    "summary": "The Council of Europe (CoE) is an intergovernmental organization founded in 1949, dedicated to promoting human rights, democracy, and the rule of law across Europe. With 46 member states, including Ukraine, the CoE plays a vital role in fostering cooperation and safeguarding fundamental freedoms.",
+    "aliases": [
+      "CoE"
+    ]
+  },
+  {
     "slug": "crimea",
     "title": "Crimea",
     "type": "peninsula",
@@ -1305,6 +1375,14 @@
     ]
   },
   {
+    "slug": "dakh-daughters",
+    "title": "Dakh Daughters",
+    "type": "musical ensemble",
+    "category": "culture",
+    "summary": "Dakh Daughters is a [[music-of-ukraine|Ukrainian music]] and theatre ensemble formed in 2012 in Kyiv, known for its unique blend of musical styles and cultural influences. The group, consisting of seven women, engages with themes of heritage and identity through their performances and lyrics.",
+    "aliases": []
+  },
+  {
     "slug": "dance-in-ukraine",
     "title": "dance in Ukraine",
     "type": "type of dance",
@@ -1350,6 +1428,14 @@
     "aliases": [
       "Act of Declaration of Independence of Ukraine"
     ]
+  },
+  {
+    "slug": "decommunization-in-ukraine",
+    "title": "decommunization in Ukraine",
+    "type": "aspect in a geographic region",
+    "category": "history",
+    "summary": "Decommunization in Ukraine refers to the process of removing communist symbols, monuments, and names from public spaces, which began in the early 1990s and intensified after the 2014 Revolution of Dignity and the onset of the Russo-Ukrainian War. This movement aimed to reject totalitarian ideologies and reshape the national identity of Ukraine.",
+    "aliases": []
   },
   {
     "slug": "defenders-of-ukraine-day",
@@ -2156,6 +2242,14 @@
     "aliases": []
   },
   {
+    "slug": "hrushevsky-street",
+    "title": "Hrushevsky Street",
+    "type": "Wikimedia disambiguation page",
+    "category": "history",
+    "summary": "Hrushevsky Street is a street name predominantly found [[coal-in-ukraine|in Ukraine]], honoring the prominent Ukrainian historian and political figure Mykhailo Hrushevsky.",
+    "aliases": []
+  },
+  {
     "slug": "hryhorii-skovoroda",
     "title": "Hryhorii Skovoroda",
     "type": "human",
@@ -2213,6 +2307,16 @@
     ]
   },
   {
+    "slug": "igor-sikorsky",
+    "title": "Igor Sikorsky",
+    "type": "human",
+    "category": "people",
+    "summary": "Igor Ivanovich Sikorsky (25 May 1889 – 26 October 1972) was a notable aviation pioneer of Ukrainian origin, recognized for his contributions to both helicopter and fixed-wing aircraft design. His early life in Kyiv, Russian Empire, significantly influenced his later achievements in aviation.",
+    "aliases": [
+      "Igor Ivanovich Sikorsky"
+    ]
+  },
+  {
     "slug": "igor-sikorsky-kyiv-polytechnic-institute",
     "title": "Igor Sikorsky Kyiv Polytechnic Institute",
     "type": "university",
@@ -2263,6 +2367,16 @@
     "category": "politics",
     "summary": "Independent Ukraine is a political pamphlet authored by Mykola Mikhnovsky in 1900, advocating for a sovereign Ukrainian state. This work is significant in the context of [[ukraine|Ukraine]]'s national identity and political aspirations.",
     "aliases": []
+  },
+  {
+    "slug": "intercession-of-the-theotokos",
+    "title": "Intercession of the Theotokos",
+    "type": "holiday",
+    "category": "people",
+    "summary": "The Intercession of the Theotokos is a Christian feast dedicated to the Mother of God, observed on October 14 in the Eastern Orthodox and Byzantine Catholic Churches. Particularly significant in Ukraine, the feast highlights the protective role of the Theotokos and is closely associated with Ukrainian cultural and historical identity.",
+    "aliases": [
+      "Pokrov"
+    ]
   },
   {
     "slug": "intermarium",
@@ -2470,6 +2584,16 @@
     "aliases": []
   },
   {
+    "slug": "iziaslav",
+    "title": "Iziaslav",
+    "type": "Wikimedia disambiguation page",
+    "category": "geography",
+    "summary": "Iziaslav refers to multiple subjects related to Ukraine, including a city and a former administrative region, as well as notable historical figures. The name is significant within the context of Ukrainian history and geography.",
+    "aliases": [
+      "Izasław"
+    ]
+  },
+  {
     "slug": "izmail",
     "title": "Izmail",
     "type": "city in Ukraine",
@@ -2674,6 +2798,14 @@
     "aliases": []
   },
   {
+    "slug": "khotyn-raion",
+    "title": "Khotyn Raion",
+    "type": "raion of Ukraine",
+    "category": "geography",
+    "summary": "Khotyn Raion was an administrative district located in the southern part of Chernivtsi Oblast, [[ukraine|Ukraine]], bordering Romania. It was part of the historical [[bessarabia|Bessarabia]] region and was dissolved on July 18, 2020, during an administrative reform that restructured the raions of Chernivtsi Oblast.",
+    "aliases": []
+  },
+  {
     "slug": "khrushchyovka",
     "title": "Khrushchyovka",
     "type": "housing series",
@@ -2825,6 +2957,16 @@
     ]
   },
   {
+    "slug": "kryvorivnia",
+    "title": "Kryvorivnia",
+    "type": "village of Ukraine",
+    "category": "geography",
+    "summary": "Kryvorivnia is a village located in the Verkhovyna Raion of the Ivano-Frankivsk Oblast [[coal-in-ukraine|in Ukraine]], recognized as a cultural center for the Hutsul people. It serves as a significant site for both summer and winter traditions among this ethnic group.",
+    "aliases": [
+      "Kryvorivnia"
+    ]
+  },
+  {
     "slug": "kryvyi-rih",
     "title": "Kryvyi Rih",
     "type": "big city",
@@ -2844,6 +2986,19 @@
     "category": "geography",
     "summary": "The Kryvyi Rih Metrotram, officially known as the Kryvyi Rih Rapid Tram, is a rapid transit light rail system located in Kryvyi Rih, Ukraine's seventh-largest city. It serves as a significant component of the city's public transportation network, with a mix of underground and surface routes.",
     "aliases": []
+  },
+  {
+    "slug": "kupala-night",
+    "title": "Kupala Night",
+    "type": "Slavic holiday",
+    "category": "culture",
+    "summary": "Kupala Night, also known as Ivan Kupala, is a significant folk holiday celebrated in Ukraine and other Slavic countries, coinciding with the summer solstice and the Christian feast of St. John the Baptist. The holiday features various rituals associated with water, fire, and herbs, reflecting its pre-Christian origins and cultural significance.",
+    "aliases": [
+      "Ivan Kupalo",
+      "Ivanа-Kupala",
+      "Kupailo",
+      "Kupalo festival"
+    ]
   },
   {
     "slug": "kutia",
@@ -3184,6 +3339,17 @@
     ]
   },
   {
+    "slug": "lviv-city-council",
+    "title": "Lviv City Council",
+    "type": "administrative territorial entity",
+    "category": "politics",
+    "summary": "The Lviv City Council is the governing body of Lviv, a prominent city [[coal-in-ukraine|in Ukraine]], with a structure comprising 64 elected representatives serving five-year terms.",
+    "aliases": [
+      "Lviv municipality",
+      "municipality of Lviv"
+    ]
+  },
+  {
     "slug": "lviv-national-academy-of-arts",
     "title": "Lviv National Academy of Arts",
     "type": "academic institution",
@@ -3324,6 +3490,14 @@
       "Mariupol theater bombing",
       "Mariupol theatre bombing"
     ]
+  },
+  {
+    "slug": "mavka",
+    "title": "Mavka",
+    "type": "class of mythical entities",
+    "category": "culture",
+    "summary": "Mavka, or Nyavka, is a class of female spirit in Ukrainian folklore, often depicted as a beautiful temptress associated with the forest. These entities are believed to represent the souls of girls who died tragically, luring men to their demise while also having roles in agricultural life.",
+    "aliases": []
   },
   {
     "slug": "melitopol",
@@ -3617,12 +3791,45 @@
     ]
   },
   {
+    "slug": "mykola-hlushchenko",
+    "title": "Mykola Hlushchenko",
+    "type": "human",
+    "category": "people",
+    "summary": "Mykola Hlushchenko was a prominent Ukrainian artist known for his contributions to the art world and his recognition with the Shevchenko National Prize in 1972. His work and influence span several countries, reflecting a deep connection to Ukrainian culture and history.",
+    "aliases": [
+      "Mykola Hluschenko",
+      "Mykola Petrovych Hlushchenko",
+      "Nicolas Gloutchenko",
+      "Nikolay Gluschenko",
+      "Nikolay Glushchenko",
+      "Nikolay Petrovich Glushchenko"
+    ]
+  },
+  {
     "slug": "mykola-hrinchenko",
     "title": "Mykola Hrinchenko",
     "type": "human",
     "category": "politics",
     "summary": "Mykola Volodymyrovych Hrinchenko is a retired Ukrainian professional football midfielder, born on 27 February 1986.",
     "aliases": []
+  },
+  {
+    "slug": "mykola-leontovych",
+    "title": "Mykola Leontovych",
+    "type": "human",
+    "category": "people",
+    "summary": "Mykola Dmytrovych Leontovych was a prominent Ukrainian composer, conductor, ethnomusicologist, and educator, known for his significant contributions to choral music and folk arrangements. His most famous work, 'Shchedryk', has become a staple in both Ukrainian and global musical repertoires.",
+    "aliases": [
+      "Leontovich, M. (Mikola), 1877-1921",
+      "Leontovich, Mikola Dmitrovich, 1877-1921",
+      "Leontovich, N. (Nikolaĭ), 1877-1921",
+      "Leontovich, Nikolaĭ Dmitrievich, 1877-1921",
+      "Leontovych, M. D. (Mykola Dmytrovych), 1877-1921",
+      "Leontovych, Mykola Dmytrovych, 1877-1921",
+      "Leontovych, Mykola, 1877-1921",
+      "Leontowitsch, Mikola, 1877-1921",
+      "Mykola Dmytrovych Leontovych"
+    ]
   },
   {
     "slug": "mykola-lysenko",
@@ -3685,6 +3892,17 @@
     ]
   },
   {
+    "slug": "nadia",
+    "title": "Nadia",
+    "type": "female given name",
+    "category": "geography",
+    "summary": "Nadia is a female given name with various linguistic variations, notably in Slavic languages where it signifies 'hope'. The name has significant cultural relevance in Ukraine, where the Ukrainian variant is Nadiya (Надія).",
+    "aliases": [
+      "Nadia (first name)",
+      "Nadia (given name)"
+    ]
+  },
+  {
     "slug": "nadiya-savchenko",
     "title": "Nadiya Savchenko",
     "type": "human",
@@ -3719,6 +3937,14 @@
       "Naftohaz",
       "Naftohaz of Ukraine"
     ]
+  },
+  {
+    "slug": "national-academy-of-arts-of-ukraine",
+    "title": "National Academy of Arts of Ukraine",
+    "type": "university",
+    "category": "culture",
+    "summary": "The National Academy of Arts of Ukraine (NAA) is a prominent national institution dedicated to the arts, established in 1996 and granted national status in 2010. It plays a vital role in promoting and preserving Ukrainian artistic traditions and culture both domestically and internationally.",
+    "aliases": []
   },
   {
     "slug": "national-academy-of-sciences-of-ukraine",
@@ -3853,6 +4079,14 @@
       "Ukrainian Academic State Opera and Ballet Theatre \"Tara Shevchenko\"",
       "Ukrainian National Opera \"Taras Shevchenko\""
     ]
+  },
+  {
+    "slug": "national-philharmonic-of-ukraine",
+    "title": "National Philharmonic of Ukraine",
+    "type": "philharmonic society",
+    "category": "culture",
+    "summary": "The National Philharmonic of Ukraine, located in Kyiv, is a prominent cultural institution known for its concert halls and rich musical heritage. Established through the efforts of [[ukrainian|Ukrainian]] composer Mykola Lysenko, it has played a significant role in the promotion of both Ukrainian and international music.",
+    "aliases": []
   },
   {
     "slug": "national-security-and-defense-council-of-ukraine",
@@ -4251,6 +4485,14 @@
     ]
   },
   {
+    "slug": "ostriv",
+    "title": "Ostriv",
+    "type": "Wikimedia disambiguation page",
+    "category": "economy",
+    "summary": "Ostriv, meaning 'island' in [[ukrainian|Ukrainian]], refers to various locations within Ukraine and a video game. The term encompasses multiple places across several Ukrainian oblasts.",
+    "aliases": []
+  },
+  {
     "slug": "ostroh-academy",
     "title": "Ostroh Academy",
     "type": "secondary school",
@@ -4267,6 +4509,16 @@
     "category": "history",
     "summary": "The Pale of Settlement was a designated area within the Russian Empire from 1791 to 1917, where permanent residency for Jewish individuals was permitted. This region included significant parts of modern-day Ukraine and was characterized by restrictive laws and economic challenges for its Jewish inhabitants.",
     "aliases": []
+  },
+  {
+    "slug": "parliamentary-assembly-of-the-council-of-europe",
+    "title": "Parliamentary Assembly of the Council of Europe",
+    "type": "international parliamentary assembly",
+    "category": "politics",
+    "summary": "The Parliamentary Assembly of the Council of Europe (PACE) serves as the parliamentary component of the Council of Europe, comprising 46 member states and focusing on human rights, democracy, and the rule of law. Its relevance to Ukraine is underscored by its actions and resolutions regarding human rights and democratic governance, particularly in the context of the ongoing conflict with Russia.",
+    "aliases": [
+      "PACE"
+    ]
   },
   {
     "slug": "paska",
@@ -4287,6 +4539,17 @@
     "aliases": [
       "Pavlo Anatoliiovych Klimkin",
       "Pavlo Anatoliyovych Klimkin"
+    ]
+  },
+  {
+    "slug": "pavlo-skoropadsky",
+    "title": "Pavlo Skoropadsky",
+    "type": "human",
+    "category": "politics",
+    "summary": "Pavlo Petrovych Skoropadsky was a prominent Ukrainian aristocrat, military leader, and statesman who served as the hetman of the [[ukrainian-state|Ukrainian State]] in 1918. His leadership was marked by significant political and military developments during a tumultuous period in [[history-of-ukraine|Ukrainian history]].",
+    "aliases": [
+      "Pavlo Petrovych Skoropadskyi",
+      "Pavlo Skoropadskyi"
     ]
   },
   {
@@ -4328,6 +4591,17 @@
     "summary": "Pavlo Mykolaiovich Zibrov is a prominent Ukrainian pop singer and songwriter, recognized as a People's Artist of Ukraine since 1996. He is particularly known for his collaboration on the song 'Khreshchatyk' with Yuriy Rybchynskyi.",
     "aliases": [
       "Pavlo Mykolaiovych Zibrov"
+    ]
+  },
+  {
+    "slug": "pecherskyi-district",
+    "title": "Pecherskyi District",
+    "type": "raion of city in Ukraine",
+    "category": "geography",
+    "summary": "Pecherskyi District is an urban district in Kyiv, the capital of Ukraine, encompassing the historical Pechersk neighborhood and several other notable areas. It serves as a significant cultural, political, and administrative center within the city.",
+    "aliases": [
+      "Pechersk Raion",
+      "Pecherskyi Raion"
     ]
   },
   {
@@ -4564,6 +4838,16 @@
     "aliases": []
   },
   {
+    "slug": "prut",
+    "title": "Prut",
+    "type": "river",
+    "category": "geography",
+    "summary": "The Prut River, a significant left tributary of the Danube, spans 953 km (592 mi) and plays a crucial role in the geography and history of [[eastern-europe|Eastern Europe]], particularly in relation to Ukraine. Originating in the Carpathian Mountains of Ukraine, the river forms part of the border between Ukraine and Romania.",
+    "aliases": [
+      "Pruth"
+    ]
+  },
+  {
     "slug": "prykarpattia",
     "title": "Prykarpattia",
     "type": "region",
@@ -4637,6 +4921,24 @@
     ]
   },
   {
+    "slug": "radio-ukraine",
+    "title": "Radio Ukraine",
+    "type": "subsidiary company",
+    "category": "history",
+    "summary": "Radio Ukraine is a publicly funded radio broadcaster in Ukraine, established in 1924. It operates under the National Public Broadcasting Company of Ukraine and serves as a significant platform for news, culture, and music across the country.",
+    "aliases": [
+      "Ukrainian Radio"
+    ]
+  },
+  {
+    "slug": "radomysl-castle",
+    "title": "Radomysl Castle",
+    "type": "museum",
+    "category": "war",
+    "summary": "Radomysl Castle, located in Radomyshl, [[zhytomyr-oblast|Zhytomyr Oblast]], [[ukraine|Ukraine]], is a historical and cultural complex established between 2007 and 2011 by Ukrainian doctor and public activist Olha Bohomolets. The site features a museum dedicated to Ukrainian home icons and is part of the Council of Europe's cultural project, Via Regia.",
+    "aliases": []
+  },
+  {
     "slug": "rag-doll",
     "title": "rag doll",
     "type": "topic",
@@ -4654,6 +4956,32 @@
     "summary": "Rail transport in Ukraine serves as a critical mode of transportation for both passengers and freight, predominantly managed by the state-owned Ukrzaliznytsia. The railway network, largely established during the Russian Empire and the Soviet Union, has faced significant challenges due to ongoing conflicts and modernization efforts.",
     "aliases": [
       "rail transportation in Ukraine"
+    ]
+  },
+  {
+    "slug": "ramstein-air-base",
+    "title": "Ramstein Air Base",
+    "type": "airbase",
+    "category": "people",
+    "summary": "Ramstein Air Base is a significant United States Air Force installation located in Rhineland-Palatinate, Germany, serving as the headquarters for the U.S. Air Forces in Europe and NATO Allied Air Command. The base plays a crucial role in military operations, particularly in relation to Eastern Europe, including Ukraine.",
+    "aliases": [
+      "ETAR",
+      "RAB",
+      "RMS",
+      "Ramstein",
+      "Ramstein AB",
+      "Ramstein AB Airport",
+      "Ramstein–Landstuhl Air Base"
+    ]
+  },
+  {
+    "slug": "rava-ruska",
+    "title": "Rava-Ruska",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "summary": "Rava-Ruska is a city located in Lviv Raion, Lviv Oblast, in western Ukraine, serving as a border town adjacent to Poland. The city has a population of approximately 8,494 as of 2022 and plays a significant role in the administrative structure of Ukraine as the center of the Rava-Ruska urban hromada.",
+    "aliases": [
+      "Rava-Ruska (Ukraine)"
     ]
   },
   {
@@ -4716,6 +5044,14 @@
       "Równe",
       "Röwne"
     ]
+  },
+  {
+    "slug": "rivne-nuclear-power-plant",
+    "title": "Rivne Nuclear Power Plant",
+    "type": "nuclear power plant",
+    "category": "economy",
+    "summary": "Rivne Nuclear Power Plant, located in Rivne Oblast, Ukraine, is notable for being the first site in the country to operate VVER-440 reactors. The facility plays a significant role in Ukraine's energy sector, contributing a substantial portion of the country's nuclear electricity generation.",
+    "aliases": []
   },
   {
     "slug": "rivne-oblast",
@@ -4959,6 +5295,16 @@
     ]
   },
   {
+    "slug": "sakharov-prize",
+    "title": "Sakharov Prize",
+    "type": "human rights award",
+    "category": "people",
+    "summary": "The Sakharov Prize for Freedom of Thought is an honorary award recognizing individuals and groups committed to human rights and freedom of thought. Established by the European Parliament in December 1988 and named after Andrei Sakharov, the prize has significant relevance to Ukraine's human rights landscape.",
+    "aliases": [
+      "Sakharov Prize for Freedom of Thought"
+    ]
+  },
+  {
     "slug": "salo",
     "title": "salo",
     "type": "topic",
@@ -5108,6 +5454,14 @@
     ]
   },
   {
+    "slug": "shchedryk",
+    "title": "Shchedryk",
+    "type": "Wikimedia disambiguation page",
+    "category": "people",
+    "summary": "Shchedryk is a term associated with various cultural and artistic elements rooted in Ukrainian heritage, including a traditional song and a children's choir. It also refers to a film that highlights Ukrainian history.",
+    "aliases": []
+  },
+  {
     "slug": "sheptytskyi",
     "title": "Sheptytskyi",
     "type": "city in Ukraine",
@@ -5185,6 +5539,14 @@
     ]
   },
   {
+    "slug": "slavutych",
+    "title": "Slavutych",
+    "type": "city in Ukraine",
+    "category": "history",
+    "summary": "Slavutych is a city in northern [[ukraine|Ukraine]], established in 1986 to accommodate personnel evacuated from the Chernobyl Nuclear Power Plant following the nuclear disaster. It is located in [[chernihiv-oblast|Chernihiv Oblast]] and serves as an administrative exclave of Kyiv Oblast.",
+    "aliases": []
+  },
+  {
     "slug": "snake-island",
     "title": "Snake Island",
     "type": "island",
@@ -5207,6 +5569,16 @@
     "summary": "The Snake Island campaign refers to the Russian military's attack and subsequent occupation of Snake Island, a strategically significant Ukrainian island in the Black Sea, beginning on 24 February 2022, the first day of the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]]. The campaign lasted for 126 days and involved notable Ukrainian resistance and counteroffensive actions.",
     "aliases": [
       "battle of Snake Island"
+    ]
+  },
+  {
+    "slug": "social-democratic-party-of-ukraine-united",
+    "title": "Social Democratic Party of Ukraine (united)",
+    "type": "political party",
+    "category": "politics",
+    "summary": "The Social Democratic Party of Ukraine (united), abbreviated SDPU(o), is a [[political-party-in-ukraine|political party in Ukraine]] that emerged from earlier social democratic factions. Initially influential in the 1990s, the party has faced significant decline since the early 2000s, particularly following the Orange Revolution.",
+    "aliases": [
+      "Social Democratic Party of Ukraine"
     ]
   },
   {
@@ -5284,6 +5656,17 @@
     ]
   },
   {
+    "slug": "state-emergency-service-of-ukraine",
+    "title": "State Emergency Service of Ukraine",
+    "type": "government agency",
+    "category": "politics",
+    "summary": "The State Emergency Service of Ukraine is the primary executive body responsible for implementing state policies related to civil defense, emergency response, and disaster management [[coal-in-ukraine|in Ukraine]]. Established in 1996, it plays a crucial role in protecting the population and territory from emergencies, including the aftermath of the Chernobyl disaster.",
+    "aliases": [
+      "DSNS",
+      "SESU"
+    ]
+  },
+  {
     "slug": "state-property-fund-of-ukraine",
     "title": "State Property Fund of Ukraine",
     "type": "foundation",
@@ -5330,6 +5713,16 @@
     ]
   },
   {
+    "slug": "stepan-bandera",
+    "title": "Stepan Bandera",
+    "type": "human",
+    "category": "economy",
+    "summary": "Stepan Andriiovych Bandera (1 January 1909 – 15 October 1959) was a prominent Ukrainian far-right leader associated with the radical faction of the Organization of Ukrainian Nationalists, known as OUN-B. His actions and ideology have made him a controversial figure [[coal-in-ukraine|in Ukraine]]'s history, particularly regarding his role in the nationalist movement and World War II.",
+    "aliases": [
+      "Stepan Andriyovych Bandera"
+    ]
+  },
+  {
     "slug": "sudak",
     "title": "Sudak",
     "type": "city or town",
@@ -5357,6 +5750,14 @@
       "Sumshchyna",
       "Sums’ka oblast"
     ]
+  },
+  {
+    "slug": "sviatohirsk",
+    "title": "Sviatohirsk",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "summary": "Sviatohirsk is a city located in the northern part of [[donetsk-oblast|Donetsk Oblast]], Ukraine, situated along the Siverskyi Donets River. With a population of 4,226 as of 2022, the city is notable for its historical significance, particularly the 16th-century Sviatohirsk Lavra Monastery.",
+    "aliases": []
   },
   {
     "slug": "sviatohirsk-lavra",
@@ -5408,6 +5809,16 @@
     "summary": "Sviatoslav Ivanovych '[[moskva|Slava]]' Vakarchuk is a prominent [[ukrainian|Ukrainian]] musician, politician, public activist, and soldier, best known as the lead vocalist of the rock band Okean Elzy. He has played a significant role in Ukraine's cultural and political landscape, notably during key historical events such as the [[orange-revolution|Orange Revolution]] and Euromaidan.",
     "aliases": [
       "Svyatoslav Vakarchuk"
+    ]
+  },
+  {
+    "slug": "syvash-bay",
+    "title": "Syvash Bay",
+    "type": "bay",
+    "category": "history",
+    "summary": "Syvash Bay, also known as the Putrid Sea or Rotten Sea, is a significant area of shallow lagoons located on the western edge of the Sea of Azov, closely associated with [[ukraine|Ukraine]]'s geographical and ecological landscape. It covers approximately 2,560 km2 and is recognized as a wetland of international importance under the Ramsar Convention.",
+    "aliases": [
+      "Sivash"
     ]
   },
   {
@@ -5628,6 +6039,18 @@
     "aliases": []
   },
   {
+    "slug": "uefa-euro-2012",
+    "title": "UEFA Euro 2012",
+    "type": "edition of the UEFA European Championship",
+    "category": "people",
+    "summary": "UEFA Euro 2012 was the 14th edition of the UEFA European Championship, co-hosted by Poland and Ukraine from 8 June to 1 July 2012. The tournament was notable for being the first time Ukraine hosted a major international football event, culminating in Spain's victory over Italy in the final held at the Olympic Stadium in Kyiv.",
+    "aliases": [
+      "2012 European Championship",
+      "2012 UEFA European Championship",
+      "Euro 2012"
+    ]
+  },
+  {
     "slug": "ukraine",
     "title": "Ukraine",
     "type": "sovereign state",
@@ -5770,6 +6193,14 @@
     "aliases": []
   },
   {
+    "slug": "ukrainian-communist-party",
+    "title": "Ukrainian Communist Party",
+    "type": "political party",
+    "category": "politics",
+    "summary": "The Ukrainian Communist Party (Ukrainian: Українська комуністична партія) was an oppositional political entity in Soviet Ukraine, active from 1920 until 1925, primarily composed of former members of the Ukrainian Social Democratic Labour Party. Known as Ukapists, the party sought to promote Ukrainian interests within the socialist framework of the time.",
+    "aliases": []
+  },
+  {
     "slug": "ukrainian-contemporary-art",
     "title": "Ukrainian Contemporary Art",
     "type": "topic",
@@ -5797,6 +6228,14 @@
     "aliases": [
       "Ukroboronprom"
     ]
+  },
+  {
+    "slug": "ukrainian-democratic-party",
+    "title": "Ukrainian Democratic Party",
+    "type": "political party",
+    "category": "history",
+    "summary": "The Ukrainian Democratic Party (UDP) was a [[political-party-in-ukraine|political party in Ukraine]] that emerged in Kyiv in 1897, evolving from the General Ukrainian Nonpartisan Democratic Organization. It played a significant role in advocating for Ukrainian autonomy and parliamentary democracy during the early 20th century.",
+    "aliases": []
   },
   {
     "slug": "ukrainian-diaspora",
@@ -5928,7 +6367,7 @@
     "title": "Ukrainian Institute of National Remembrance",
     "type": "government agency",
     "category": "geography",
-    "summary": "The Ukrainian Institute of National Remembrance (UINM) is a central executive body under the [[cabinet-of-ministers-of-ukraine|Cabinet of Ministers of Ukraine]], established to promote and preserve the national memory of the Ukrainian people. It plays a significant role in shaping memorial policy and managing the archives related to historical repression in Ukraine.",
+    "summary": "The Ukrainian Institute of National Remembrance (UINM) is a central executive body under the [[cabinet-of-ministers-of-ukraine|Cabinet of Ministers of Ukraine]], established to promote and preserve the national memory of the Ukrainian people. It plays a significant role in shaping memorial policy and managing the archives related to historical repression [[coal-in-ukraine|in Ukraine]].",
     "aliases": [
       "UINM",
       "Ukrajins‘kyj ìnstytut nacìonal‘noji pam'jatì"
@@ -6117,6 +6556,19 @@
       "Soviet Ukraine",
       "Ukrainian S.S.R",
       "Ukrainian SSR"
+    ]
+  },
+  {
+    "slug": "ukrainian-state",
+    "title": "Ukrainian State",
+    "type": "historical country",
+    "category": "politics",
+    "summary": "The Ukrainian State (Ukrainian: Українська Держава) was the official designation for Ukraine from April 29 to December 14, 1918. Under the autocratic rule of Hetman Pavlo Skoropadsky, the state represented a significant period in [[history-of-ukraine|Ukrainian history]] marked by political dependency on the Central Powers and internal dissent.",
+    "aliases": [
+      "Hetman government",
+      "Hetman state",
+      "Hetmanate",
+      "Hetmanshchyna"
     ]
   },
   {
@@ -6347,6 +6799,16 @@
     "aliases": []
   },
   {
+    "slug": "velykyi-bychkiv",
+    "title": "Velykyi Bychkiv",
+    "type": "urban-type settlement in Ukraine",
+    "category": "geography",
+    "summary": "Velykyi Bychkiv is a rural settlement located in the Rakhiv Raion of [[zakarpattia-oblast|Zakarpattia Oblast]], [[ukraine|Ukraine]]. As of 2022, it has an estimated population of 9,114 and is part of the Velykyi Bychkiv settlement hromada.",
+    "aliases": [
+      "Nagybocskó"
+    ]
+  },
+  {
     "slug": "verkhovna-rada",
     "title": "Verkhovna Rada",
     "type": "rada",
@@ -6459,6 +6921,17 @@
     ]
   },
   {
+    "slug": "visual-arts-of-ukraine",
+    "title": "visual arts of Ukraine",
+    "type": "visual arts of an area",
+    "category": "culture",
+    "summary": "Visual arts of Ukraine encompass the historical and cultural artistic expressions from the regions that constitute [[modern-history-of-ukraine|modern Ukraine]]. The evolution of these arts reflects a rich tapestry of traditions influenced by various cultures throughout history.",
+    "aliases": [
+      "Ukrainian visual art",
+      "visual art of Ukraine"
+    ]
+  },
+  {
     "slug": "vitali-klitschko",
     "title": "Vitali Klitschko",
     "type": "human",
@@ -6542,6 +7015,20 @@
     "aliases": [
       "Volodymyr Borysovych Hroisman",
       "Volodymyr Groysman"
+    ]
+  },
+  {
+    "slug": "volodymyr-viatrovych",
+    "title": "Volodymyr Viatrovych",
+    "type": "human",
+    "category": "people",
+    "summary": "Volodymyr Mykhailovych Viatrovych is a Ukrainian historian, civic activist, and politician, known for his roles in national remembrance and historical research related to Ukraine's liberation movements. He served as the Director of the Ukrainian Institute of National Remembrance and has been a member of the [[verkhovna-rada|Ukrainian parliament]] since December 2019.",
+    "aliases": [
+      "Vladimir Mikhaylovich Vyatrovich",
+      "Vladimir Vyatrovich",
+      "Volodymyr Mykhailovych Viatrovych",
+      "Volodymyr Mykhaylovych Vyatrovych",
+      "Volodymyr Vyatrovych"
     ]
   },
   {
@@ -6834,6 +7321,20 @@
     ]
   },
   {
+    "slug": "zaporizhzhia-nuclear-power-plant",
+    "title": "Zaporizhzhia Nuclear Power Plant",
+    "type": "nuclear power plant",
+    "category": "economy",
+    "summary": "The Zaporizhzhia Nuclear Power Plant, located in southeastern Ukraine, is the largest nuclear power facility in Europe and ranks among the top ten globally. Since 2022, it has been under Russian control, significantly impacting Ukraine's energy landscape.",
+    "aliases": [
+      "ZNPP",
+      "Zaporizhia Nuclear Power Plant",
+      "Zaporizhzhia Nuclear Power Station",
+      "Zaporizhzhia nuclear complex",
+      "Zaporizʹka atomna elektrostant͡sii͡a"
+    ]
+  },
+  {
     "slug": "zaporizhzhia-oblast",
     "title": "Zaporizhzhia Oblast",
     "type": "oblast of Ukraine",
@@ -6870,6 +7371,14 @@
     "aliases": []
   },
   {
+    "slug": "zboriv",
+    "title": "Zboriv",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "summary": "Zboriv is a small city located in Ternopil Raion, Ternopil Oblast, in [[western-ukraine|western Ukraine]], within the historical region of [[galicia|Galicia]]. As of 2022, it has an estimated population of 6,621 and serves as the administrative center of Zboriv urban hromada.",
+    "aliases": []
+  },
+  {
     "slug": "zbruch",
     "title": "Zbruch",
     "type": "river",
@@ -6893,6 +7402,26 @@
     "summary": "Zhovkva is a city located in Lviv Raion, [[lviv-oblast|Lviv Oblast]], in [[western-ukraine|western Ukraine]], with a population of approximately 13,852 as of 2022. It serves as the administrative center of the Zhovkva urban hromada, reflecting its significance within the Ukrainian administrative framework.",
     "aliases": [
       "Vinnyky"
+    ]
+  },
+  {
+    "slug": "zhovti-vody",
+    "title": "Zhovti Vody",
+    "type": "city of regional significance of Ukraine",
+    "category": "economy",
+    "summary": "Zhovti Vody is a city of regional significance located in Kamianske Raion, [[dnipropetrovsk-oblast|Dnipropetrovsk Oblast]], Ukraine. Known for its historical and industrial significance, the city has a population of approximately 42,052 as of 2022.",
+    "aliases": [
+      "Zheltye Vody"
+    ]
+  },
+  {
+    "slug": "zhydachiv",
+    "title": "Zhydachiv",
+    "type": "city in Ukraine",
+    "category": "economy",
+    "summary": "Zhydachiv is a city located in Stryi Raion, Lviv Oblast, in western Ukraine, serving as the administrative center of the Zhydachiv urban hromada. As of 2022, the city has an estimated population of approximately 10,353 residents.",
+    "aliases": [
+      "Zhydachiv (Ukraine)"
     ]
   },
   {
@@ -6940,6 +7469,14 @@
     ]
   },
   {
+    "slug": "znamianka",
+    "title": "Znamianka",
+    "type": "city of regional significance of Ukraine",
+    "category": "geography",
+    "summary": "Znamianka is a city of regional significance located in central [[ukraine|Ukraine]], within Kropyvnytskyi Raion of Kirovohrad Oblast. As of 2022, the city had an estimated population of 21,221 and serves as an important railway junction.",
+    "aliases": []
+  },
+  {
     "slug": "zolochiv",
     "title": "Zolochiv",
     "type": "Wikimedia disambiguation page",
@@ -6978,6 +7515,16 @@
     "category": "culture",
     "summary": "The zukra, also known as zokra or zoughara, is a traditional Libyan bagpipe characterized by its double-chanter and cow horn ends. This instrument plays a significant role in Libyan cultural events such as feasts, weddings, and funerals, and is linked to ancient musical traditions in the region.",
     "aliases": []
+  },
+  {
+    "slug": "zvenyhorod",
+    "title": "Zvenyhorod",
+    "type": "village of Ukraine",
+    "category": "geography",
+    "summary": "Zvenyhorod is a village situated in Lviv Raion, Lviv Oblast, in [[western-ukraine|western Ukraine]]. Historically significant as the capital of the Principality of Zvenyhorod during the 11th and 12th centuries, it is now part of the Davydiv rural hromada.",
+    "aliases": [
+      "Zvenyhorod (Ukraine)"
+    ]
   },
   {
     "slug": "zvenyhorodka",

@@ -1,0 +1,44 @@
+{
+  "qid": "Q12091538",
+  "slug": "hrushevsky-street",
+  "title": "Hrushevsky Street",
+  "type": "Wikimedia disambiguation page",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "Hrushevsky Street is a street name predominantly found [[coal-in-ukraine|in Ukraine]], honoring the prominent Ukrainian historian and political figure Mykhailo Hrushevsky.",
+  "sections": [
+    {
+      "heading": "Commemoration of Mykhailo Hrushevsky",
+      "paragraphs": [
+        "Hrushevsky Street is named in memory of [[mykhailo-hrushevskyi|Mykhailo Hrushevsky]], who played a significant role in [[history-of-ukraine|Ukrainian history]] as a historian and political leader."
+      ]
+    },
+    {
+      "heading": "Locations of Hrushevsky Street",
+      "paragraphs": [
+        "Hrushevsky Street can be found in various [[ukrainian|Ukrainian]] cities, including [[kyiv|Kyiv]] and [[ivano-frankivsk|Ivano-Frankivsk]], reflecting its importance across the nation."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "history-of-ukraine",
+    "ivano-frankivsk",
+    "kyiv",
+    "mykhailo-hrushevskyi",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Hrushevsky Street — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hrushevsky_Street",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

@@ -1,0 +1,77 @@
+{
+  "qid": "Q301915",
+  "slug": "rivne-nuclear-power-plant",
+  "title": "Rivne Nuclear Power Plant",
+  "type": "nuclear power plant",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "nuclear power plant",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Rivne Oblast",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "51.3278, 25.8917",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Rivne Nuclear Power Plant, located in Rivne Oblast, Ukraine, is notable for being the first site in the country to operate VVER-440 reactors. The facility plays a significant role in Ukraine's energy sector, contributing a substantial portion of the country's nuclear electricity generation.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Rivne Nuclear Power Plant, also referred to as [[rivne|Rovno]], is situated in [[rivne-oblast|Rivne Oblast]], [[ukraine|Ukraine]]. It operates four reactors with a combined nameplate capacity exceeding 2500 MWe. The plant features the first VVER-440 reactors built [[coal-in-ukraine|in Ukraine]], and in 2018, Unit 3 was modernized and received a life-extension license, allowing it to operate until 2037."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The inception of the plant dates back to 1971, with the design of the West [[ukrainian|Ukrainian]] NPP, which was later renamed Rivne NPP. Construction commenced in 1973, and the first two power units were commissioned in 1980 and 1981, followed by the third unit in 1986. After a construction moratorium was lifted in 1993, work resumed, leading to the commissioning of Unit 4 on October 10, 2004, which utilizes the modern VVER-1000 reactor series.",
+        "Since 1991, the plant has been secured by the 5th NPP Protection Battalion. In recent years, it has generated approximately 11–12 billion kWh of electricity, accounting for 16% of the total nuclear electricity production in Ukraine."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "On July 2, 2018, it was announced that preparations for the construction of a fifth power unit were underway. In December 2018, a special train was demonstrated for transporting radioactive waste to a repository, utilizing the HI-TRAC 190 transshipment container. This container, weighing 84 tons and measuring 3 meters in length, is designed for safe transport to the [[chernobyl|Chornobyl]] storage facility.",
+        "In February 2019, engineers at the plant increased the capacity of Unit 3 by 10 MW. The radioactive waste treatment plant was launched on December 27, 2019. Additionally, Unit 1 experienced an automatic shutdown on December 12, 2020, due to a response from the automatic protection system."
+      ]
+    },
+    {
+      "heading": "Impact of the Russian-Ukrainian War",
+      "paragraphs": [
+        "During the missile attack on Ukraine on November 15, 2022, Rivne NPP lost connection with one of its 750 kV power lines, necessitating a reduction in power and the automatic shutdown of one unit. On July 1, 2023, [[volodymyr-zelenskyy|President Volodymyr Zelenskyy]] visited the plant to convene a meeting of the Supreme Commander-in-Chief of the [[armed-forces-of-ukraine|Armed Forces of Ukraine]].",
+        "On October 30, 2023, the International Atomic Energy Agency (IAEA) conducted an unannounced inspection at Rivne NPP, alongside inspectors from the State Nuclear Regulatory Inspectorate of Ukraine, to ensure the absence of undeclared nuclear materials."
+      ]
+    }
+  ],
+  "links_out": [
+    "armed-forces-of-ukraine",
+    "chernobyl",
+    "coal-in-ukraine",
+    "rivne",
+    "rivne-oblast",
+    "ukraine",
+    "ukrainian",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "Rivne Nuclear Power Plant — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rivne_Nuclear_Power_Plant",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

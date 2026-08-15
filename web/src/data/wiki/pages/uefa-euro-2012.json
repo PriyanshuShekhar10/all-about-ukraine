@@ -1,0 +1,84 @@
+{
+  "qid": "Q22669",
+  "slug": "uefa-euro-2012",
+  "title": "UEFA Euro 2012",
+  "type": "edition of the UEFA European Championship",
+  "category": "people",
+  "aliases": [
+    "2012 European Championship",
+    "2012 UEFA European Championship",
+    "Euro 2012"
+  ],
+  "infobox": {
+    "label": "edition of the UEFA European Championship",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2012",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Poland",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Ukraine, Poland",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "UEFA Euro 2012 was the 14th edition of the UEFA European Championship, co-hosted by Poland and Ukraine from 8 June to 1 July 2012. The tournament was notable for being the first time Ukraine hosted a major international football event, culminating in Spain's victory over Italy in the final held at the Olympic Stadium in Kyiv.",
+  "sections": [
+    {
+      "heading": "Tournament Overview",
+      "paragraphs": [
+        "The 2012 UEFA European Football Championship, commonly known as UEFA Euro 2012, was held from 8 June to 1 July 2012. This edition marked the first time Poland and [[ukraine|Ukraine]] served as co-hosts for the tournament. Spain emerged as the champion, defeating Italy in the final match at the Olympic Stadium in [[kyiv|Kyiv]], Ukraine."
+      ]
+    },
+    {
+      "heading": "Bidding and Hosting",
+      "paragraphs": [
+        "The bid for hosting Euro 2012 was submitted by Poland and Ukraine and was selected by the UEFA Executive Committee on 18 April 2007. This decision was significant as it was the first time the tournament was awarded to a former Eastern Bloc country since Yugoslavia in 1976. The joint bid was successful over competitors including Italy and Turkey, with UEFA expressing concerns about the preparations in both host nations leading up to the event."
+      ]
+    },
+    {
+      "heading": "Qualification Process",
+      "paragraphs": [
+        "The qualification for Euro 2012 involved 51 teams vying for 14 spots alongside the co-hosts. The qualifying rounds took place from August 2010 to November 2011, with Ukraine qualifying for the finals for the first time as an independent nation. The tournament featured a total of 16 teams, with twelve having participated in the previous edition in 2008."
+      ]
+    },
+    {
+      "heading": "Venues and Infrastructure",
+      "paragraphs": [
+        "Euro 2012 matches were held in eight venues across Poland and Ukraine. Five new stadiums were constructed, and existing ones underwent significant renovations to meet UEFA standards. The tournament also prompted extensive improvements to transport infrastructure, enhancing the overall experience for fans and visitors."
+      ]
+    },
+    {
+      "heading": "Attendance and Records",
+      "paragraphs": [
+        "The tournament set new attendance records for the 16-team format, achieving a total aggregate attendance of 1,440,896 and an average of 46,481 spectators per match. This underscored the enthusiasm for football in both host nations and the successful organization of the event."
+      ]
+    },
+    {
+      "heading": "Match Details and Awards",
+      "paragraphs": [
+        "A total of 31 matches were played during Euro 2012, with Ukraine hosting 16 of those games. The Adidas Tango 12 served as the official match ball for the tournament. Spain's Fernando Torres was awarded the Golden Boot for scoring three goals, despite sharing the top scorer position with five other players due to his assist and fewer minutes played."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "UEFA Euro 2012 — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2012",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

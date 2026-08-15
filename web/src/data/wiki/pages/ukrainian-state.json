@@ -1,0 +1,99 @@
+{
+  "qid": "Q1508143",
+  "slug": "ukrainian-state",
+  "title": "Ukrainian State",
+  "type": "historical country",
+  "category": "politics",
+  "aliases": [
+    "Hetman government",
+    "Hetman state",
+    "Hetmanate",
+    "Hetmanshchyna"
+  ],
+  "infobox": {
+    "label": "historical country",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1918-04-29",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukrainian State",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Kyiv",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "25,000,000",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4500, 30.5167",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Ukrainian State (Ukrainian: Українська Держава) was the official designation for Ukraine from April 29 to December 14, 1918. Under the autocratic rule of Hetman Pavlo Skoropadsky, the state represented a significant period in [[history-of-ukraine|Ukrainian history]] marked by political dependency on the Central Powers and internal dissent.",
+  "sections": [
+    {
+      "heading": "Establishment and Governance",
+      "paragraphs": [
+        "The Ukrainian State was established on April 29, 1918, following the downfall of the Central [[verkhovna-rada|Rada]] of the [[ukrainian-peoples-republic|Ukrainian People's Republic]]. [[pavlo-skoropadsky|Pavlo Skoropadsky]], appointed as [[hetman|Hetman]], shifted the governance from the previous democratic and socialist policies to an autocratic regime that favored large landowners and industrialists.",
+        "The formation of the state was influenced by the dissatisfaction of the Central Powers, particularly Germany and Austria-Hungary, with the [[cabinet-of-ministers-of-ukraine|Ukrainian government]]'s failure to deliver food and raw materials as stipulated in the Treaty of Brest-Litovsk. Despite its reliance on these powers, the Ukrainian State managed to create a functioning bureaucracy."
+      ]
+    },
+    {
+      "heading": "Challenges and Internal Opposition",
+      "paragraphs": [
+        "The Ukrainian State faced significant challenges, including the inability to implement land reforms and a controversial ethnic policy perceived as overly supportive of Russian interests. This led to widespread dissatisfaction among the [[ukrainian|Ukrainian]] populace.",
+        "Internal opposition grew as the government requisitioned food supplies and reinstated land to wealthy landowners. Acts of sabotage and violence against the regime culminated in the assassination of Hermann von Eichhorn in July 1918, further destabilizing Skoropadsky's rule."
+      ]
+    },
+    {
+      "heading": "Decline and Dissolution",
+      "paragraphs": [
+        "The situation deteriorated for the Ukrainian State following the end of World War I, as the Directorate of [[ukraine|Ukraine]], formed by socialists, gained momentum. Skoropadsky's reliance on the Central Powers waned as they lost interest in the conflict.",
+        "On November 16, 1918, fighting erupted in the [[hetmanate|Hetmanate]], leading to Skoropadsky seeking support from Russian White Guard officers. However, he was unable to withstand the forces of the Directorate, and he abdicated on December 14, 1918, as the [[ukrainians|Ukrainian People]]'s Army captured [[kyiv|Kyiv]]. Skoropadsky subsequently fled to Switzerland and Germany."
+      ]
+    },
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "The Ukrainian State encompassed much of the territory of modern-day Ukraine, situated in [[eastern-europe|Eastern Europe]] along the middle and lower sections of the [[dnieper|Dnieper River]], and bordered by the Black Sea and the Sea of Azov. Notably, it excluded most of [[western-ukraine|Western Ukraine]], Budjak, and [[crimea|Crimea]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "crimea",
+    "dnieper",
+    "eastern-europe",
+    "hetman",
+    "hetmanate",
+    "history-of-ukraine",
+    "kyiv",
+    "pavlo-skoropadsky",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "ukrainians",
+    "verkhovna-rada",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian State — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_State",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

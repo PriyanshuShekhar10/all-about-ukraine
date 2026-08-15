@@ -1,0 +1,57 @@
+{
+  "qid": "Q1172353",
+  "slug": "iziaslav",
+  "title": "Iziaslav",
+  "type": "Wikimedia disambiguation page",
+  "category": "geography",
+  "aliases": [
+    "Izasław"
+  ],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "Iziaslav refers to multiple subjects related to Ukraine, including a city and a former administrative region, as well as notable historical figures. The name is significant within the context of Ukrainian history and geography.",
+  "sections": [
+    {
+      "heading": "Iziaslav, Ukraine",
+      "paragraphs": [
+        "Iziaslav is a city located [[coal-in-ukraine|in Ukraine]], known for its historical and cultural significance."
+      ]
+    },
+    {
+      "heading": "Iziaslav Raion",
+      "paragraphs": [
+        "Iziaslav Raion was a former administrative district in [[khmelnytskyi-oblast|Khmelnytskyi Oblast]], [[ukraine|Ukraine]], which played a role in the regional governance of the area."
+      ]
+    },
+    {
+      "heading": "Historical Figures",
+      "paragraphs": [
+        "Iziaslav IV Vladimirovich, born in 1186, is one of the notable historical figures associated with the name Iziaslav, contributing to the history of the region.",
+        "Additionally, Iziaslav (Brutskiy), who lived from 1926 to 2007, served as the primate of the Belarusian Autocephalous Orthodox Church, indicating the broader cultural and religious connections of the name."
+      ]
+    },
+    {
+      "heading": "Disambiguation",
+      "paragraphs": [
+        "The term Iziaslav also encompasses various individuals, including those referred to as Iziaslav of Kiev, highlighting the name's historical prevalence in [[history-of-ukraine|Ukrainian history]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "history-of-ukraine",
+    "khmelnytskyi-oblast",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Iziaslav — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Iziaslav",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

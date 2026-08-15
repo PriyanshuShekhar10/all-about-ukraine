@@ -1,0 +1,64 @@
+{
+  "qid": "Q7878447",
+  "slug": "ukrainian-communist-party",
+  "title": "Ukrainian Communist Party",
+  "type": "political party",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "political party",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1920",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Ukrainian Communist Party (Ukrainian: Українська комуністична партія) was an oppositional political entity in Soviet Ukraine, active from 1920 until 1925, primarily composed of former members of the Ukrainian Social Democratic Labour Party. Known as Ukapists, the party sought to promote Ukrainian interests within the socialist framework of the time.",
+  "sections": [
+    {
+      "heading": "Formation and Early History",
+      "paragraphs": [
+        "The Ukrainian Communist Party emerged as a splinter group from the [[ukrainian|Ukrainian]] Social Democratic Labour Party, formed by former members who organized as the USDLP independents in January 1919. This faction opposed Russian dominance in the envisioned socialist order and criticized the Communist Party (Bolsheviks) of [[ukraine|Ukraine]] for its subservience to Moscow.",
+        "After the Bolsheviks captured [[kyiv|Kyiv]], the USDLP independents remained in the capital, seeking recognition of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] as an independent state with Ukrainian as its official language. Their refusal to comply with Bolshevik demands led them to join the opposition alongside other parties, aiming to establish free local councils for the working class."
+      ]
+    },
+    {
+      "heading": "Transition to the Ukrainian Communist Party",
+      "paragraphs": [
+        "In January 1920, the USDLP independents formally dissolved and reconstituted themselves as the Ukrainian Communist Party, or Ukapists. The party's initial membership comprised several hundred individuals, including Ukrainian Social-Democrat Sovereigntists and former left-SRs. The Ukapists advocated for a Soviet Ukraine with its own communist party, distinct from the Bolsheviks.",
+        "In 1923, a faction within the UKP, supported by the Cheka, sought unification with the Communist Party of Ukraine. The UKP made several appeals to the Comintern for recognition of the Ukrainian SSR's independence and the right to maintain its own party, but these requests were ultimately denied."
+      ]
+    },
+    {
+      "heading": "Political Activities and Dissolution",
+      "paragraphs": [
+        "Initially, the UKP participated in local council elections and trade unions. However, by late 1920, Soviet authorities banned its political activities and publications, leading to the arrest of many party members by the Cheka and OGPU. On March 1, 1925, the UKP officially disbanded at its fourth congress.",
+        "Following the dissolution, some former Ukapists, including leader Andryi Richytsky, joined the Bolshevik CP(b)U to maintain a degree of political influence [[coal-in-ukraine|in Ukraine]]. The remnants of the party faced purges between 1931 and 1934, with many members executed or exiled to [[siberia|Siberia]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "kyiv",
+    "siberia",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Communist Party — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Communist_Party",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

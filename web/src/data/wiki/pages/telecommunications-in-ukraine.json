@@ -44,7 +44,7 @@
     {
       "heading": "Impact of the Russian Invasion",
       "paragraphs": [
-        "The telecommunications sector in Ukraine faced significant challenges due to the Russian invasion, including infrastructure damage and population displacement. The military and government relied heavily on SpaceX's Starlink satellite services for communication, particularly during critical events such as the Siege of Azovstal. Starlink services were made available to civilians at no cost during the conflict, enhancing connectivity across the country."
+        "The telecommunications sector in Ukraine faced significant challenges due to the Russian invasion, including infrastructure damage and population displacement. The military and government relied heavily on SpaceX's Starlink satellite services for communication, particularly during critical events such as the Siege of [[azovstal|Azovstal]]. Starlink services were made available to civilians at no cost during the conflict, enhancing connectivity across the country."
       ]
     },
     {
@@ -55,6 +55,7 @@
     }
   ],
   "links_out": [
+    "azovstal",
     "coal-in-ukraine",
     "ukraine",
     "ukrainians"

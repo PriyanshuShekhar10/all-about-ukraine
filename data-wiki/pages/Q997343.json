@@ -1,0 +1,114 @@
+{
+  "qid": "Q997343",
+  "slug": "rava-ruska",
+  "title": "Rava-Ruska",
+  "type": "city in Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Rava-Ruska (Ukraine)"
+  ],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1455",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Austrian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "8,647",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "10",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "349",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.2500, 23.6167",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Rava-Ruska is a city located in Lviv Raion, Lviv Oblast, in western Ukraine, serving as a border town adjacent to Poland. The city has a population of approximately 8,494 as of 2022 and plays a significant role in the administrative structure of Ukraine as the center of the Rava-Ruska urban hromada.",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Context",
+      "paragraphs": [
+        "Rava-Ruska is situated in [[lviv-oblast|Lviv Oblast]], [[western-ukraine|western Ukraine]], and is positioned as a border town between [[ukraine|Ukraine]] and Poland. The nearest border checkpoint is located 8 km (5 mi) west of the city along the international autoroute Warsaw–[[lviv|Lviv]]. The city serves as the administrative center for the Rava-Ruska urban hromada, which is one of the hromadas [[coal-in-ukraine|in Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The city was established in 1455 by Polish prince Władysław I of Płock, Duke of Bełz and Mazovia, who added the suffix 'Ruska' to denote its [[ruthenian|Ruthenian]] heritage. Rava-Ruska developed rapidly due to its strategic location on a merchant route from Lublin to Lviv and was historically part of the Kingdom of Poland and the Polish–Lithuanian Commonwealth.",
+        "Throughout its history, Rava-Ruska was owned by several noble families and received permission to hold fairs in 1622. Notable historical events include a skirmish in 1672 between Polish and [[crimean-tatar|Crimean Tatar]] forces and a significant meeting between Peter the Great and Augustus the Strong in 1698."
+      ]
+    },
+    {
+      "heading": "20th Century Developments",
+      "paragraphs": [
+        "In the early 20th century, Rava-Ruska became an important rail junction, connecting to Lviv and Rejowiec. After Poland's re-establishment, it was included in the Lwów Voivodeship and served as the seat of the Powiat Rawski county. The population in 1921 was recorded at 8,970, with a diverse demographic including Poles, Jews, and [[ukrainians|Ukrainians]].",
+        "During the interwar period, the town experienced economic growth with the establishment of various businesses, including a factory for railroad ties in 1924."
+      ]
+    },
+    {
+      "heading": "World War II Impact",
+      "paragraphs": [
+        "Rava-Ruska was captured by German forces on 14 September 1939 during the Invasion of Poland, later falling under Soviet control. The town witnessed significant atrocities during the Holocaust, with many Jewish residents deported to extermination camps, and mass shootings occurring in the early 1940s.",
+        "The town also hosted Stalag 325, a prisoner-of-war camp for French and Belgian soldiers, where conditions were dire."
+      ]
+    },
+    {
+      "heading": "Post-War Era",
+      "paragraphs": [
+        "Following World War II, the Polish population of Rava-Ruska was largely displaced, yet the city remains a significant center for the Polish minority in Ukraine, housing the local office of the Association of Polish Culture of the Lviv Land.",
+        "On 18 July 2020, Rava-Ruska was incorporated into Lviv Raion following an administrative reform that reduced the number of raions in Lviv Oblast."
+      ]
+    },
+    {
+      "heading": "Cultural and Historical Landmarks",
+      "paragraphs": [
+        "Rava-Ruska is home to several notable historical sites, including the Parish church of St. Joseph, built between 1700 and 1776, and the Franciscan Abbey of Archangel Michael, founded in 1725. Both structures have historical significance and have undergone various transformations throughout the years."
+      ]
+    },
+    {
+      "heading": "Notable Individuals",
+      "paragraphs": [
+        "Prominent figures associated with Rava-Ruska include Walter V. Bozyk, a conductor and bandurist; Maurice Abraham Cohen, an Australian educator and linguist; and Iryna Vereshchuk, a deputy [[prime-minister-of-ukraine|prime minister of Ukraine]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "crimean-tatar",
+    "lviv",
+    "lviv-oblast",
+    "prime-minister-of-ukraine",
+    "ruthenian",
+    "ukraine",
+    "ukrainians",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Rava-Ruska — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rava-Ruska",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

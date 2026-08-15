@@ -1,0 +1,77 @@
+{
+  "qid": "Q212446",
+  "slug": "igor-sikorsky",
+  "title": "Igor Sikorsky",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Igor Ivanovich Sikorsky"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1889-05-25",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1972-10-26",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Kyiv",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Igor Ivanovich Sikorsky (25 May 1889 – 26 October 1972) was a notable aviation pioneer of Ukrainian origin, recognized for his contributions to both helicopter and fixed-wing aircraft design. His early life in Kyiv, Russian Empire, significantly influenced his later achievements in aviation.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Igor Sikorsky was born in [[kyiv|Kyiv]], Russian Empire (now Kyiv, [[ukraine|Ukraine]]), on May 25, 1889, as the youngest of five children. His father, Ivan Alexeevich Sikorsky, was a professor of psychology at Saint Vladimir University (now [[taras-shevchenko|Taras Shevchenko]] National University) and an internationally recognized psychiatrist.",
+        "Raised in an Orthodox Christian family, Sikorsky developed an interest in natural sciences and aviation at a young age, experimenting with model flying machines. He studied at the Saint Petersburg Maritime Cadet Corps before shifting his focus to engineering in Paris and later at the Mechanical College of the [[igor-sikorsky-kyiv-polytechnic-institute|Kyiv Polytechnic Institute]]."
+      ]
+    },
+    {
+      "heading": "Aviation Career in Russia",
+      "paragraphs": [
+        "By the onset of World War I in 1914, Sikorsky had established a successful airplane research and production business in Kyiv, where his factory produced bombers. His designs included the Russky Vityaz (S-21), the first successful four-engine aircraft, which took flight in 1913, and the Ilya Muromets, a pioneering four-engine bomber.",
+        "Sikorsky's contributions to aviation earned him national recognition in Russia, including an honorary degree in engineering from Saint Petersburg Polytechnical Institute in 1914."
+      ]
+    },
+    {
+      "heading": "Emigration and Innovations in the United States",
+      "paragraphs": [
+        "After emigrating to the United States in 1919 due to the Russian Revolution, Sikorsky founded the Sikorsky Aircraft Corporation in 1923. He developed the Sikorsky S-42 'Flying Clipper', one of the first ocean-crossing flying boats for Pan American Airways.",
+        "In 1939, Sikorsky designed the Vought-Sikorsky VS-300, the first viable American helicopter, which led to the creation of the Sikorsky R-4, recognized as the world's first mass-produced helicopter in 1942."
+      ]
+    },
+    {
+      "heading": "Legacy",
+      "paragraphs": [
+        "Sikorsky's innovations in aviation have had a lasting impact on the industry, particularly his advancements in helicopter design. His early life [[coal-in-ukraine|in Ukraine]] and subsequent achievements in the United States highlight the significant contributions of [[ukrainian|Ukrainian]]-born individuals to global aviation."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "igor-sikorsky-kyiv-polytechnic-institute",
+    "kyiv",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Igor Sikorsky — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Igor_Sikorsky",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

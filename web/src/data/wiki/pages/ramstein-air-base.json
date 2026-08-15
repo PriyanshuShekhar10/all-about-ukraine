@@ -1,0 +1,85 @@
+{
+  "qid": "Q161348",
+  "slug": "ramstein-air-base",
+  "title": "Ramstein Air Base",
+  "type": "airbase",
+  "category": "people",
+  "aliases": [
+    "ETAR",
+    "RAB",
+    "RMS",
+    "Ramstein",
+    "Ramstein AB",
+    "Ramstein AB Airport",
+    "Ramstein–Landstuhl Air Base"
+  ],
+  "infobox": {
+    "label": "airbase",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1953-06-01",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Germany",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "238",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.4369, 7.6000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Ramstein Air Base is a significant United States Air Force installation located in Rhineland-Palatinate, Germany, serving as the headquarters for the U.S. Air Forces in Europe and NATO Allied Air Command. The base plays a crucial role in military operations, particularly in relation to Eastern Europe, including Ukraine.",
+  "sections": [
+    {
+      "heading": "Location and Structure",
+      "paragraphs": [
+        "Ramstein Air Base (IATA: RMS, ICAO: ETAR), previously known as Ramstein–Landstuhl before 1958, is situated in southwestern Germany's Rhineland-Palatinate. It functions as the headquarters for the United States Air Forces in Europe – Air Forces Africa (USAFE-AFAFRICA) and NATO Allied Air Command (AIRCOM). The base is strategically important for supporting military operations, especially those directed towards [[eastern-europe|Eastern Europe]] and Africa.",
+        "Constructed between 1951 and 1953, Ramstein Air Base was designed by the French Army and built by German contractors. It currently accommodates over 16,200 military personnel, U.S. civilians, and contractors. The base is located near Ramstein-Miesenbach, approximately 16 km (10 mi; 9 nmi) from Kaiserslautern, and 5 km (3 mi; 3 nmi) from Landstuhl."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "The site of Ramstein Air Base has historical significance dating back to World War II, where it was initially used as an airstrip by the Luftwaffe and later by the U.S. Army Air Forces. The area required extensive construction work to raise the ground level by two meters (six feet), with significant labor involvement during its development.",
+        "The base's construction commenced in 1948, and it became the largest construction site in Europe at that time, employing over 270,000 workers. Landstuhl Air Base opened on 5 August 1952, followed by the opening of Ramstein Air Station on 1 June 1953. The two bases were consolidated on 1 December 1957, forming what was initially called Ramstein–Landstuhl Air Base."
+      ]
+    },
+    {
+      "heading": "Operational Role",
+      "paragraphs": [
+        "Ramstein Air Base has been a critical hub for U.S. military operations in Europe, particularly during the Cold War and subsequent conflicts. The 86th Wing, which has been the primary operational unit at the base since 1952, has undergone various transformations to meet changing military needs.",
+        "The base has also been involved in humanitarian missions and logistical support for operations in Eastern Europe, including [[ukraine|Ukraine]]. The 521st Air Mobility Operations Wing, activated in 2008, plays a vital role in facilitating the movement of personnel and cargo in support of military operations."
+      ]
+    },
+    {
+      "heading": "Significance to Ukraine",
+      "paragraphs": [
+        "Ramstein Air Base's strategic location and operational capabilities make it a key asset for NATO's presence in Eastern Europe, particularly in the context of ongoing tensions involving Ukraine. The base serves as a staging ground for military operations and support missions aimed at enhancing security in the region.",
+        "In light of the recent geopolitical developments, Ramstein has been pivotal in coordinating military assistance and logistics for Ukraine, reinforcing the U.S. commitment to NATO allies and regional stability."
+      ]
+    }
+  ],
+  "links_out": [
+    "eastern-europe",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Ramstein Air Base — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ramstein_Air_Base",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

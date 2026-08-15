@@ -1,0 +1,116 @@
+{
+  "qid": "Q70231",
+  "slug": "slavutych",
+  "title": "Slavutych",
+  "type": "city in Ukraine",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1986",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "25,030",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "20",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "145",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "51.5206, 30.7569",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Slavutych is a city in northern [[ukraine|Ukraine]], established in 1986 to accommodate personnel evacuated from the Chernobyl Nuclear Power Plant following the nuclear disaster. It is located in [[chernihiv-oblast|Chernihiv Oblast]] and serves as an administrative exclave of Kyiv Oblast.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Slavutych is positioned on the left bank of the [[dnieper|Dnieper River]], approximately 40 kilometers from [[chernihiv|Chernihiv]], 45 kilometers from [[pripyat|Pripyat]], 50 kilometers from [[chernobyl|Chernobyl]], and 200 kilometers from [[kyiv|Kyiv]]. Although geographically situated in Chernihiv Raion, it is administratively part of [[kyiv-oblast|Kyiv Oblast]] and is included in Vyshhorod Raion."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The city derives its name from the Old Slavic term for the Dnieper River and was constructed in response to the [[chernobyl-disaster|Chernobyl disaster]]. It was built to house workers from the [[chernobyl-nuclear-power-plant|Chernobyl nuclear power plant]] and their families, who were evacuated from Pripyat. The first residents moved in during October 1988, and the city has a memorial honoring the victims of the disaster.",
+        "Slavutych is primarily inhabited by survivors of the Chernobyl disaster, including around 8,000 individuals who were children at the time of the incident. Many residents continue to work in the energy sector, commuting regularly to the former plant site. The city is located about 50 kilometers from the Chernobyl plant, chosen for its distance from the exclusion zone and access to infrastructure.",
+        "In July 2020, Slavutych was reclassified from a city of oblast significance to a city of district significance within Vyshhorod Raion. During the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], the city faced isolation and occupation, leading to significant population displacement. A conference on security in the [[chernobyl-exclusion-zone|Chernobyl exclusion zone]] was held in April 2024, attended by various [[ukrainian|Ukrainian]] officials."
+      ]
+    },
+    {
+      "heading": "Infrastructure",
+      "paragraphs": [
+        "Designed as a modern city, Slavutych features contemporary architecture and a higher standard of living compared to many other Ukrainian cities. The city was constructed with contributions from workers and architects from eight former Soviet republics, resulting in distinct districts named after the capitals of these republics.",
+        "Public facilities and infrastructure were primarily funded by the Chernobyl nuclear plant operator. Following the plant's closure in 2001, the city has faced economic challenges, with a significant decline in employment opportunities. Slavutych has been designated as a Special Economic Zone to attract new businesses."
+      ]
+    },
+    {
+      "heading": "Culture",
+      "paragraphs": [
+        "Since its establishment, Slavutych has hosted various cultural events, including the 86 Film and Urbanism Festival. The city's modernist architecture is a key attraction, highlighted in architectural publications."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "Slavutych has a notably high birth rate and low mortality rate, resulting in a youthful population. As of the 2001 census, the city had a population of 24,569, predominantly composed of ethnic [[ukrainians|Ukrainians]], with significant Russian and Belarusian minorities. The linguistic distribution shows a slight majority speaking Ukrainian, while a considerable minority speaks Russian."
+      ]
+    },
+    {
+      "heading": "Transport",
+      "paragraphs": [
+        "The city is served by a railway station and is connected by a branch of the regional highway P56 Chernihiv-Chernobyl, along with the provincial road T2506."
+      ]
+    },
+    {
+      "heading": "Notable People",
+      "paragraphs": [
+        "Notable individuals from Slavutych include football players Andriy Porokhnya and Serhiy Rozhok, as well as singer and actor Ivan Dorn."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernihiv",
+    "chernihiv-oblast",
+    "chernobyl",
+    "chernobyl-disaster",
+    "chernobyl-exclusion-zone",
+    "chernobyl-nuclear-power-plant",
+    "dnieper",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "kyiv-oblast",
+    "pripyat",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Slavutych — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Slavutych",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

@@ -1,0 +1,112 @@
+{
+  "qid": "Q157525",
+  "slug": "boryslav",
+  "title": "Boryslav",
+  "type": "city of regional significance of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Borysław"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1387",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Austrian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "37,093",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "37",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "359",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.2881, 23.4267",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Boryslav is a city of regional significance located in Lviv Oblast, [[western-ukraine|western Ukraine]], known for its petroleum and ozokerite industries. With a population of approximately 34,000 as of 2024, Boryslav plays a crucial role in Ukraine's industrial landscape.",
+  "sections": [
+    {
+      "heading": "Geography and Administration",
+      "paragraphs": [
+        "Boryslav ([[ukrainian|Ukrainian]]: Борислав, Polish: Borysław) is situated on the Tysmenytsia River, a tributary of the [[dniester|Dniester]], within [[drohobych|Drohobych]] Raion in [[lviv-oblast|Lviv Oblast]], [[ukraine|Ukraine]]. The city serves as the administrative center of the Boryslav urban hromada, which is one of the hromadas [[coal-in-ukraine|in Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The modern city of Boryslav was formed through the amalgamation of four settlements: Boryslav, Tustanovychi, Volianka, and Mraznytsia. The area has been inhabited since at least the Bronze Age, with remnants of a pagan shrine and around 270 petroglyphs from the 1st millennium BC.",
+        "Between the 9th and 13th centuries, a fortress named Tustan was located in the area, part of a defense system for [[kievan-rus|Kievan Rus]]'. Following the dissolution of Kievan Rus', Boryslav became part of the [[halych|Halych]]-Volhynian Principality and was later annexed by the Crown of the Kingdom of Poland in 1387. In 1772, during the Partitions of Poland, it was incorporated into the Austrian Kingdom of [[galicia|Galicia]] and Lodomeria."
+      ]
+    },
+    {
+      "heading": "Industrial Development",
+      "paragraphs": [
+        "The first half of the 19th century saw the inception of small-scale oil production in Boryslav. Significant advancements were made by pharmacists Jan Zeh and Ignacy Łukasiewicz, who developed technology for distilling crude oil, leading to the creation of the first kerosene lamp on 30 March 1853. The oil industry rapidly expanded, with Boryslav becoming a major center for oil and ozokerite production.",
+        "By 1909, Boryslav produced over 1,920,000 tonnes of oil, accounting for approximately 5% of the world's oil production at that time, making it the third-largest oil producer globally, after the United States and the Russian Empire."
+      ]
+    },
+    {
+      "heading": "World War II and Aftermath",
+      "paragraphs": [
+        "During World War II, Boryslav was annexed by [[soviet-union|the Soviet Union]] in 1939 and later fell under German control in 1941. The Jewish population faced severe persecution, with significant casualties during the Nazi occupation. Despite the atrocities, some individuals, including Ukrainian priest Vasyl Popel, helped save Jewish lives.",
+        "After the war, Boryslav returned to Soviet rule, and most local Poles were expelled. The city produced 80% of the oil in the [[ukrainian-carpathians|Ukrainian Carpathians]] during the Soviet era. Since Ukraine's independence in 1991, Boryslav has continued its oil production, with experts suggesting untapped oil fields in the region."
+      ]
+    },
+    {
+      "heading": "Demographics and Culture",
+      "paragraphs": [
+        "The population of Boryslav saw significant changes from 1880 to 1931, with the percentage of [[ukrainians|Ukrainians]] and Jews declining while the Polish population increased. Ukrainian writer [[ivan-franko|Ivan Franko]] highlighted the city's industrial workers in his novel 'Boryslav Laughs', reflecting the town's cultural significance."
+      ]
+    },
+    {
+      "heading": "Notable Landmarks and International Relations",
+      "paragraphs": [
+        "Boryslav is home to historical sites such as the Tustan fortress and is located near the Skole Beskids National Park. The city is twinned with Wałbrzych in Poland since 27 February 2009, fostering international relations."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "dniester",
+    "drohobych",
+    "galicia",
+    "halych",
+    "ivan-franko",
+    "kievan-rus",
+    "lviv-oblast",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-carpathians",
+    "ukrainians",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Boryslav — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boryslav",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

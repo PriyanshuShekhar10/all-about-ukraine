@@ -1,0 +1,47 @@
+{
+  "qid": "Q1298472",
+  "slug": "shchedryk",
+  "title": "Shchedryk",
+  "type": "Wikimedia disambiguation page",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "Shchedryk is a term associated with various cultural and artistic elements rooted in Ukrainian heritage, including a traditional song and a children's choir. It also refers to a film that highlights Ukrainian history.",
+  "sections": [
+    {
+      "heading": "Traditional Song",
+      "paragraphs": [
+        "\"Shchedryk\" is a traditional [[ukrainian|Ukrainian]] song that serves as the melody for the widely recognized English Christmas carol \"Carol of the Bells.\" This song is integral to Ukrainian cultural identity and is often performed during festive seasons."
+      ]
+    },
+    {
+      "heading": "Children's Choir",
+      "paragraphs": [
+        "Shchedryk is also the name of a professional Ukrainian Children's Choir, which plays a significant role in promoting [[music-of-ukraine|Ukrainian music]] and culture through its performances."
+      ]
+    },
+    {
+      "heading": "Film Adaptation",
+      "paragraphs": [
+        "The term Shchedryk is associated with a Ukrainian historical drama film directed by Olesia Morhunets-Isaienko. This film, also known as \"Carol of the Bells,\" explores themes relevant to [[history-of-ukraine|Ukrainian history]] and culture."
+      ]
+    }
+  ],
+  "links_out": [
+    "history-of-ukraine",
+    "music-of-ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Shchedryk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shchedryk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

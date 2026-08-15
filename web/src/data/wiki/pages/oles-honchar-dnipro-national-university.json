@@ -38,14 +38,14 @@
     {
       "heading": "History",
       "paragraphs": [
-        "Oles Honchar Dnipro National University originated as [[dnipro|Katerynoslav]] University in 1918, established during the [[ukrainian|Ukrainian]] State under Pavlo Skoropadsky. In 1920, it was transformed into the Katerynoslav Institute of Education, which functioned until 1933. The university was restored as Dnipropetrovsk State University in 1933, although its revival coincided with the oppressive Stalinist regime, resulting in significant personnel losses. During World War II, some faculty and students participated in the defense against Nazi forces, while others were involved in evacuation efforts.",
+        "Oles Honchar Dnipro National University originated as [[dnipro|Katerynoslav]] University in 1918, established during the [[ukrainian-state|Ukrainian State]] under [[pavlo-skoropadsky|Pavlo Skoropadsky]]. In 1920, it was transformed into the Katerynoslav Institute of Education, which functioned until 1933. The university was restored as Dnipropetrovsk State University in 1933, although its revival coincided with the oppressive Stalinist regime, resulting in significant personnel losses. During World War II, some faculty and students participated in the defense against Nazi forces, while others were involved in evacuation efforts.",
         "In September 2000, Dnipropetrovsk State University attained national university status. The city was renamed [[dnieper|Dnipro]] in May 2016 as part of [[ukraine|Ukraine]]'s decommunization laws."
       ]
     },
     {
       "heading": "Structure",
       "paragraphs": [
-        "The university consists of 14 faculties, 46 research laboratories, three research institutes, and four colleges. The faculties include areas such as Ukrainian and Foreign Philology, Social Sciences, History, Psychology, Applied Mathematics, Law, Physics, Economics, and Medical Technologies.",
+        "The university consists of 14 faculties, 46 research laboratories, three research institutes, and four colleges. The faculties include areas such as [[ukrainian|Ukrainian]] and Foreign Philology, Social Sciences, History, Psychology, Applied Mathematics, Law, Physics, Economics, and Medical Technologies.",
         "Additionally, DNU houses various scientific and cultural facilities, including a scientific library, botanical garden, and zoological museum, as well as research institutes focused on biology, chemistry, geology, and energy-efficient technologies."
       ]
     },
@@ -82,10 +82,12 @@
     "dnipro",
     "leonid-kuchma",
     "oles-honchar",
+    "pavlo-skoropadsky",
     "president-of-ukraine",
     "prime-minister-of-ukraine",
     "ukraine",
     "ukrainian",
+    "ukrainian-state",
     "yulia-tymoshenko"
   ],
   "sources": [

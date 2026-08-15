@@ -1,0 +1,81 @@
+{
+  "qid": "Q617057",
+  "slug": "apostolic-nunciature-to-ukraine",
+  "title": "Apostolic Nunciature to Ukraine",
+  "type": "apostolic nunciature",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "apostolic nunciature",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1992-02-08",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Apostolic Nunciature to Ukraine serves as the diplomatic mission of the Holy See in Ukraine, located in Kyiv. It functions as an ecclesiastical office with the rank of an embassy, facilitating communication between the [[catholic-church-in-ukraine|Catholic Church in Ukraine]] and the Pope.",
+  "sections": [
+    {
+      "heading": "Establishment and Function",
+      "paragraphs": [
+        "The Apostolic Nunciature to Ukraine is the diplomatic representation of the Holy See [[coal-in-ukraine|in Ukraine]], situated in the capital city of [[kyiv|Kyiv]]. The Nunciature operates as an ecclesiastical office of the Catholic Church, holding the status of an embassy. The Apostolic Nuncio acts as the ambassador of the Holy See to the [[president-of-ukraine|President of Ukraine]] and serves as a liaison between the Catholic hierarchy in Ukraine and the Pope."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Prior to the modern era, interactions between the Holy See and [[ukrainian|Ukrainian]] rulers were sporadic and lacked significant impact. The Western [[ukrainian-peoples-republic|Ukrainian People's Republic]], established in November 1918, engaged in diplomatic relations with the Holy See until its annexation by Poland after eight months. Pope Benedict XV met with its ambassador, Count Mykhailo Tyshkevych, in May 1919, subsequently appointing Fr. Giovanni Genocchi as his apostolic visitator in Ukraine on 23 February 1920. Genocchi returned to Rome in December 1921 due to the Bolshevik offensive.",
+        "Formal diplomatic relations between the Holy See and [[ukraine|Ukraine]] were established on 8 February 1992, coinciding with Pope John Paul II's issuance of the brief 'Ucrainam Nationem,' which officially founded the Apostolic Nunciature to Ukraine."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "The Apostolic Nunciature has faced challenges, particularly during the ongoing Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], which resulted in damage to the nunciature following a Russian air attack on 10 July 2025."
+      ]
+    },
+    {
+      "heading": "List of Apostolic Nuncios",
+      "paragraphs": [
+        "The following individuals have served as Apostolic Nuncios to Ukraine:",
+        "1. Antonio Franco (28 March 1992 – 6 April 1999)",
+        "2. Nikola Eterović (22 May 1999 – 11 February 2004)",
+        "3. Ivan Jurkovič (22 April 2004 – 19 February 2011)",
+        "4. Thomas Gullickson (21 May 2011 – 5 September 2015)",
+        "5. Claudio Gugerotti (13 November 2015 – 4 July 2020)",
+        "6. Visvaldas Kulbokas (15 June 2021 – present)"
+      ]
+    }
+  ],
+  "links_out": [
+    "catholic-church-in-ukraine",
+    "coal-in-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "president-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic"
+  ],
+  "sources": [
+    {
+      "title": "Apostolic Nunciature to Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Apostolic_Nunciature_to_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

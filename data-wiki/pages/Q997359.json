@@ -1,0 +1,100 @@
+{
+  "qid": "Q997359",
+  "slug": "zhydachiv",
+  "title": "Zhydachiv",
+  "type": "city in Ukraine",
+  "category": "economy",
+  "aliases": [
+    "Zhydachiv (Ukraine)"
+  ],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Principality of Halych",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "10,962",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "13",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "261",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.3833, 24.1333",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Zhydachiv is a city located in Stryi Raion, Lviv Oblast, in western Ukraine, serving as the administrative center of the Zhydachiv urban hromada. As of 2022, the city has an estimated population of approximately 10,353 residents.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Zhydachiv is situated along the Stryi River and is part of the [[lviv-oblast|Lviv Oblast]] region in [[western-ukraine|western Ukraine]]. The city is governed by the Zhydachiv City Council and has a population of around 10,353 according to a 2022 estimate.",
+        "The city features two schools and one [[ukrainian|Ukrainian]] gymnasium, contributing to the local education system."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The first recorded mention of Zhydachiv dates back to 1164, originally referred to as Udech. During its early history, it was an important trade center located at the confluence of the Stryi and [[dniester|Dniester]] rivers, featuring a stone church dedicated to St. Nicholas.",
+        "Throughout the centuries, Zhydachiv underwent various name changes, including Zudech, Zudachiv, and Zidachiv, reflecting its complex historical narrative.",
+        "In the mid-14th century, the city was incorporated into the Kingdom of Poland, later becoming part of the Kingdom of Hungary before being reclaimed by Poland in 1387. By the end of the 14th century, Zhydachiv had developed into a significant urban center with multiple churches and a market square."
+      ]
+    },
+    {
+      "heading": "20th Century Developments",
+      "paragraphs": [
+        "Zhydachiv was involved in the [[khmelnytsky-uprising|Khmelnytsky Uprising]] in the mid-17th century and was later annexed by the Habsburg Empire in 1772. Following World War I, it was briefly part of the [[west-ukrainian-peoples-republic|West Ukrainian People's Republic]] before becoming part of the Second Polish Republic.",
+        "In 1929, the city's population was approximately 4,200, comprising [[ukrainians|Ukrainians]], Poles, and Jews. The city faced significant turmoil during World War II, including the German occupation and the deportation of its Jewish population to extermination camps.",
+        "After the war, Zhydachiv became part of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]] and experienced industrialization, notably becoming home to [[ukraine|Ukraine]]'s largest pulp and paper mill in 1951."
+      ]
+    },
+    {
+      "heading": "Administrative Changes and Modern Era",
+      "paragraphs": [
+        "Following Ukraine's independence in 1991, Zhydachiv served as the center of the Zhydachiv Raion until administrative reforms in July 2020 led to the abolition of the raion, with its territory merging into Stryi Raion."
+      ]
+    },
+    {
+      "heading": "Economy and Notable Residents",
+      "paragraphs": [
+        "Zhydachiv is recognized as a center for the paper industry, with surrounding areas also producing natural gas.",
+        "Notable individuals from Zhydachiv include Yulian-Yurii Dorosh, a pioneer of Ukrainian cinematography in [[galicia|Galicia]], and Rebbe Tzvi Hirsh of Zidichov."
+      ]
+    }
+  ],
+  "links_out": [
+    "dniester",
+    "galicia",
+    "khmelnytsky-uprising",
+    "lviv-oblast",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainians",
+    "west-ukrainian-peoples-republic",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Zhydachiv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zhydachiv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

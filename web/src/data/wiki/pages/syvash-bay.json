@@ -1,0 +1,81 @@
+{
+  "qid": "Q1130771",
+  "slug": "syvash-bay",
+  "title": "Syvash Bay",
+  "type": "bay",
+  "category": "history",
+  "aliases": [
+    "Sivash"
+  ],
+  "infobox": {
+    "label": "bay",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Russia, Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "2,560",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "0",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "46.0833, 34.3333",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Syvash Bay, also known as the Putrid Sea or Rotten Sea, is a significant area of shallow lagoons located on the western edge of the Sea of Azov, closely associated with [[ukraine|Ukraine]]'s geographical and ecological landscape. It covers approximately 2,560 km2 and is recognized as a wetland of international importance under the Ramsar Convention.",
+  "sections": [
+    {
+      "heading": "Geographical Features",
+      "paragraphs": [
+        "Syvash Bay, referred to as Сиваш in [[ukrainian|Ukrainian]] and Russian and Sıvaş in [[crimean-tatar|Crimean Tatar]], is situated on the western fringe of the Sea of Azov. It is bordered to the east by the Arabat Spit, a long and narrow landform that stretches 110 km (68 mi) and separates the bay from the sea.",
+        "The bay encompasses an area of approximately 2,560 km2 (990 sq mi) and extends over a total area of about 10,000 km2 (3,900 sq mi). The eastern connection to the Sea of Azov is facilitated by the [[henichesk|Henichesk]] Strait, located near the port of Henichesk. To the west, the Isthmus of Perekop serves as a link between [[crimea|Crimea]] and the mainland."
+      ]
+    },
+    {
+      "heading": "Hydrology and Ecology",
+      "paragraphs": [
+        "The Syvash is characterized by its shallow waters, with the deepest point reaching about 3 meters (10 ft) and most areas measuring between 0.5 to 1 meter (1 ft 8 in – 3 ft 3 in) deep. The bottom is covered with silt, which can be up to 5 meters (16 ft) thick. Due to its shallowness, the water heats up significantly in summer, leading to a distinctive putrid odor and high salinity levels, estimated to contain around 200 million metric tons of various salts.",
+        "The Syvash area is recognized as a wetland of international importance, with its shores being low, swampy, and slightly sloping. During summer, the water level decreases, exposing barren solonets soils known locally as 'syvashes'."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "The Syvash gained historical prominence during the Russian Civil War, particularly noted for the Red Army's surprise crossing during the Perekop-Chongar Operation in November 1920."
+      ]
+    },
+    {
+      "heading": "Flora and Fauna",
+      "paragraphs": [
+        "The Syvash is home to a variety of flora, including salt-tolerant micro-algae such as Dunaliella salina, which can cause the water to appear red. The eastern sections of the bay are less saline and support a diverse range of wetland vegetation, including reeds.",
+        "The larger islands within the Central Syvash are primarily covered with steppe vegetation, featuring species such as feather grass, tulips, and tauric wormwood (Artemisia taurica). The shores are populated with various salt-tolerant plants, including glasswort, Tripolium, sea lavender (Limonium caspium), and saltbush (Atriplex aucheri)."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "crimean-tatar",
+    "henichesk",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Syvash — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Syvash",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

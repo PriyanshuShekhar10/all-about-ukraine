@@ -1,0 +1,91 @@
+{
+  "qid": "Q3366451",
+  "slug": "ukrainian-democratic-party",
+  "title": "Ukrainian Democratic Party",
+  "type": "political party",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "political party",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1904",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Russian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Ukrainian Democratic Party (UDP) was a [[political-party-in-ukraine|political party in Ukraine]] that emerged in Kyiv in 1897, evolving from the General Ukrainian Nonpartisan Democratic Organization. It played a significant role in advocating for Ukrainian autonomy and parliamentary democracy during the early 20th century.",
+  "sections": [
+    {
+      "heading": "Formation and Early Years",
+      "paragraphs": [
+        "The Ukrainian Democratic Party, known in [[ukrainian|Ukrainian]] as Українська демократична партія (Ukrayinska demokratychna partiya), originated from the General Ukrainian Nonpartisan Democratic Organization established in [[kyiv|Kyiv]] in 1897 by Volodymyr Antonovych and Oleksandr Konysky. This organization united various Hromadas across Ukrainian territories and was involved in cultural and political activities, including publishing the magazine Vik and organizing Shevchenko festivals."
+      ]
+    },
+    {
+      "heading": "Political Objectives",
+      "paragraphs": [
+        "The UDP aimed to abolish absolutism in the Russian Empire and sought to implement a constitutional order, similar to the Russian Kadets. The party advocated for autonomy for Ukrainian lands, the establishment of a regional diet (sejm), and the promotion of the Ukrainian language. Key figures in the party included Serhiy Yefremov, [[borys-hrinchenko|Borys Hrinchenko]], and Yevhen Chykalenko."
+      ]
+    },
+    {
+      "heading": "Splits and Reorganization",
+      "paragraphs": [
+        "In late 1904, a faction of the UDP with leftist inclinations separated to form the Ukrainian Radical Party, which supported a constitutional monarchy. This split included notable members such as Serhiy Yefremov and Borys Hrinchenko. However, by autumn 1905, this group rejoined the UDP, leading to the formation of the Ukrainian Democratic Radical Party (UDRP)."
+      ]
+    },
+    {
+      "heading": "UDRP and Its Principles",
+      "paragraphs": [
+        "The UDRP was characterized by its commitment to parliamentarism and federalism, advocating for significant autonomy for [[ukraine|Ukraine]] under the Russian Constitution. The party aimed for the nationalization of land and industry and was represented in the first two State Duma sessions, collaborating with the Constitutional Democratic Party and forming the Duma's Ukrainian Hromada."
+      ]
+    },
+    {
+      "heading": "Successor Organizations",
+      "paragraphs": [
+        "Following the dissolution of the Second State Duma, the party transformed into the Society of Ukrainian Progressivists, which focused on cultural activities due to government repression. This organization included influential members such as [[mykhailo-hrushevskyi|Mykhailo Hrushevsky]] and coordinated the cultural movement in [[dnieper-ukraine|Dnieper Ukraine]]. In 1917, it evolved into the Ukrainian Party of Socialists-Federalists, which maintained the UDP's program and participated in various Ukrainian governments during the tumultuous political landscape of the time."
+      ]
+    },
+    {
+      "heading": "Legacy",
+      "paragraphs": [
+        "After World War I, members of the Ukrainian Party of Socialists-Federalists established the Ukrainian Radical Democratic Party in Prague in 1923, which continued to advocate for Ukrainian interests until World War II. The UDP's legacy is reflected in its influence on subsequent Ukrainian political movements and organizations, notably the Ukrainian National Democratic Union formed in 1946."
+      ]
+    },
+    {
+      "heading": "Notable Members",
+      "paragraphs": [
+        "One prominent member of the Ukrainian Democratic Party was Ivan Ohienko (1882-1973), a notable Ukrainian linguist and religious figure."
+      ]
+    }
+  ],
+  "links_out": [
+    "borys-hrinchenko",
+    "dnieper-ukraine",
+    "kyiv",
+    "mykhailo-hrushevskyi",
+    "political-party-in-ukraine",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Democratic Party — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Democratic_Party",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

@@ -42,7 +42,7 @@
     {
       "heading": "Corporate Structure and Operations",
       "paragraphs": [
-        "Ukrnafta operates as a unified production and economic complex, consisting of six oil and gas production departments located in Okhtyrka, [[chernihiv|Chernihiv]], [[poltava|Poltava]], Dolyna, Nadvirna, and Boryslav. The company also has three drilling departments, one oil refinery, and three gas processing factories situated in Hnidyn ([[chernihiv-oblast|Chernihiv Oblast]]), Kachanivka ([[sumy-oblast|Sumy Oblast]]), and Dolyna ([[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]]). As of the end of 2020, Ukrnafta operated 1,813 oil wells and 155 gas wells."
+        "Ukrnafta operates as a unified production and economic complex, consisting of six oil and gas production departments located in Okhtyrka, [[chernihiv|Chernihiv]], [[poltava|Poltava]], Dolyna, Nadvirna, and [[boryslav|Boryslav]]. The company also has three drilling departments, one oil refinery, and three gas processing factories situated in Hnidyn ([[chernihiv-oblast|Chernihiv Oblast]]), Kachanivka ([[sumy-oblast|Sumy Oblast]]), and Dolyna ([[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]]). As of the end of 2020, Ukrnafta operated 1,813 oil wells and 155 gas wells."
       ]
     },
     {
@@ -65,6 +65,7 @@
     }
   ],
   "links_out": [
+    "boryslav",
     "cabinet-of-ministers-of-ukraine",
     "chernihiv",
     "chernihiv-oblast",

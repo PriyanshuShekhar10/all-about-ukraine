@@ -1,0 +1,94 @@
+{
+  "qid": "Q1988563",
+  "slug": "mykola-hlushchenko",
+  "title": "Mykola Hlushchenko",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Mykola Hluschenko",
+    "Mykola Petrovych Hlushchenko",
+    "Nicolas Gloutchenko",
+    "Nikolay Gluschenko",
+    "Nikolay Glushchenko",
+    "Nikolay Petrovich Glushchenko"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1901-09-04",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1977-10-31",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Samar",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Mykola Hlushchenko was a prominent Ukrainian artist known for his contributions to the art world and his recognition with the Shevchenko National Prize in 1972. His work and influence span several countries, reflecting a deep connection to Ukrainian culture and history.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Mykola Hlushchenko was born on 17 September 1901 in Novomoskovske, [[dnipro|Yekaterinoslav]] Governorate, in the Russian Empire, a town founded by [[zaporozhian-cossacks|Zaporozhian Cossacks]], currently known as Samar. He later moved to Yuzivka, where he developed an interest in art, inspired by the works of Illia Ripyn and Serhiy Vasylkivsky.",
+        "After being forcibly conscripted into the Volunteer Army, Hlushchenko found himself in a prisoner-of-war camp in Poland, from which he escaped. He subsequently traveled to Germany, where he studied at the private studio of Hans Baluschek in Berlin and graduated from the Academy of Art in Berlin in 1924."
+      ]
+    },
+    {
+      "heading": "Artistic Career",
+      "paragraphs": [
+        "Hlushchenko's artistic career began in earnest in Paris in 1925, where he gained recognition from French critics. He transitioned from the New Objectivity style of his Berlin period to post-Impressionism, producing a diverse array of works that included landscapes from various countries, still lifes, nudes, and portraits of notable figures such as [[oleksandr-dovzhenko|Oleksandr Dovzhenko]] and Volodymyr Vynnychenko.",
+        "In the early 1930s, he became a member of the Association of Independent [[ukrainian|Ukrainian]] Artists and played a key role in organizing a significant exhibition at the [[lviv-national-museum|National Museum]] in [[lviv|Lviv]], showcasing Ukrainian, French, and Italian artworks."
+      ]
+    },
+    {
+      "heading": "Political Involvement and Later Life",
+      "paragraphs": [
+        "In 1933, Hlushchenko was recruited by the GPU as a Soviet agent of influence in France, tasked with gathering intelligence on the Ukrainian community abroad. He reportedly supplied Soviet intelligence with over two hundred drawings of military equipment obtained through his connections.",
+        "Hlushchenko returned to [[soviet-union|the USSR]] in 1936 and was credited with alerting the Soviet government about impending German attacks. After relocating to [[kyiv|Kyiv]] in 1944, he created a series of paintings depicting the post-war city and landscapes from his travels across Europe."
+      ]
+    },
+    {
+      "heading": "Artistic Recognition and Legacy",
+      "paragraphs": [
+        "During the 1960s, Hlushchenko embraced new artistic trends, enhancing his work with vibrant colors and establishing himself as a leading figure among Ukrainian colorist painters. His art was exhibited widely, including in Berlin, Paris, Milan, Budapest, Stockholm, Rome, Lviv, Moscow, Belgrade, London, Toronto, and Kyiv.",
+        "He received several accolades throughout his career, including the Order of the Red Banner of Labour in 1960, the title of People's Artist of [[ukraine|Ukraine]] in 1944, and the People's Artist of the USSR in 1976. His notable achievement includes winning the [[shevchenko-national-prize|Shevchenko National Prize]] in 1972 for his series of paintings depicting 'On Lenin's places abroad' and 'Landscapes of Ukraine' created between 1969 and 1971."
+      ]
+    },
+    {
+      "heading": "Death and Burial",
+      "paragraphs": [
+        "Mykola Hlushchenko passed away on 31 October 1977 in Kyiv, [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]. He was laid to rest at Baikove Cemetery, leaving behind a legacy that continues to influence Ukrainian art."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnipro",
+    "kyiv",
+    "lviv",
+    "lviv-national-museum",
+    "oleksandr-dovzhenko",
+    "shevchenko-national-prize",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "zaporozhian-cossacks"
+  ],
+  "sources": [
+    {
+      "title": "Mykola Hlushchenko — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mykola_Hlushchenko",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

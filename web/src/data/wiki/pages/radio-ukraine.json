@@ -1,0 +1,83 @@
+{
+  "qid": "Q848966",
+  "slug": "radio-ukraine",
+  "title": "Radio Ukraine",
+  "type": "subsidiary company",
+  "category": "history",
+  "aliases": [
+    "Ukrainian Radio"
+  ],
+  "infobox": {
+    "label": "subsidiary company",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2003",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Radio Ukraine is a publicly funded radio broadcaster in Ukraine, established in 1924. It operates under the National Public Broadcasting Company of Ukraine and serves as a significant platform for news, culture, and music across the country.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Ukrainian Radio ([[ukrainian|Ukrainian]]: Українське радіо, romanized: Ukrainske Radio) has been the publicly funded radio broadcaster [[coal-in-ukraine|in Ukraine]] since its inception in 1924. In 2017, it became a part of the National Public Broadcasting Company (NPBC) of [[ukraine|Ukraine]] following a merger with the National TV Company, transitioning from its previous status as an independent entity."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The first radio broadcasts in Ukraine commenced in [[kharkiv-oblast|Kharkiv]] on 16 November 1924, with a nationwide network established by 1928. Initially, programming was heavily focused on political education, but over time included a variety of cultural content. During World War II, Ukrainian Radio maintained operations despite the challenging circumstances.",
+        "The current headquarters of Ukrainian Radio is located at 26 Khreschatyk Street in [[kyiv|Kyiv]], a facility constructed between 1949 and 1951. This site has been pivotal for both radio and television broadcasting in Ukraine."
+      ]
+    },
+    {
+      "heading": "Programming and Reach",
+      "paragraphs": [
+        "Ukrainian Radio is recognized as the most popular news and talk radio station in the country, featuring a wide array of programming including live sessions from the [[verkhovna-rada|Verkhovna Rada]] (Ukrainian parliament). It operates the largest FM radio network in Ukraine, reaching 192 settlements across 24 regions.",
+        "The station also celebrates 16 November as the Day of Radio, Television and Communications Workers in Ukraine, commemorating its historical significance."
+      ]
+    },
+    {
+      "heading": "Sister Stations and Digital Services",
+      "paragraphs": [
+        "Ukrainian Radio encompasses several sister stations, including Radio Promin, Radio Culture, and Radio Ukraine International, each serving distinct audiences and purposes. The network also offers a mobile application, suspilne.radio, available for both Android and iOS platforms."
+      ]
+    },
+    {
+      "heading": "Studio Complexes and Radio Ensembles",
+      "paragraphs": [
+        "The Ukrainian Radio House serves as a primary studio complex for four channels, while the Recording House of Radio Ukraine is notable for its large concert studio, one of the largest in Europe, facilitating the recording of orchestral and choral music.",
+        "Various radio ensembles, such as the Ukrainian Radio Symphony Orchestra and the Ukrainian Radio Choir Chapel, contribute to the promotion of national culture through their performances and recordings."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "kharkiv-oblast",
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Radio — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Radio",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

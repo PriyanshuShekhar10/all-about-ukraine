@@ -1,0 +1,60 @@
+{
+  "qid": "Q2992419",
+  "slug": "mavka",
+  "title": "Mavka",
+  "type": "class of mythical entities",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "class of mythical entities",
+    "fields": []
+  },
+  "summary": "Mavka, or Nyavka, is a class of female spirit in Ukrainian folklore, often depicted as a beautiful temptress associated with the forest. These entities are believed to represent the souls of girls who died tragically, luring men to their demise while also having roles in agricultural life.",
+  "sections": [
+    {
+      "heading": "Terminology",
+      "paragraphs": [
+        "Mavka ([[ukrainian|Ukrainian]]: Мавка [ˈmɑu̯kɐ]) and Nyavka (Ukrainian: Нявка [ˈnʲɑu̯kɐ]) are terms used in [[ukrainian-folklore|Ukrainian folklore]] to describe a type of female spirit. Variations in naming include Мавка, mavka, навка, navka, нявка, and nyavka, all of which derive from the root *navь, meaning 'the dead', and are cognate with the Bulgarian term нави, navi (plural).",
+        "While Mavka and Nyavka are often used interchangeably, there are distinctions between the two in folklore."
+      ]
+    },
+    {
+      "heading": "Folklore",
+      "paragraphs": [
+        "In Ukrainian folklore, Mavkas are believed to embody the souls of girls who have experienced unnatural, tragic, or premature deaths, particularly unchristened infants. They are typically portrayed as enchanting young women who lure men into the woods, where they are said to 'tickle' them to death.",
+        "Mavkas are characterized by their lack of reflection in water and absence of shadows. They are sometimes depicted as benevolent spirits that assist farmers by caring for livestock and driving away wild animals.",
+        "Nyavkas, a subtype of Mavkas, share similar traits but are distinguished by their visible internal anatomy, particularly their spine.",
+        "Mavkas and Nyavkas are thought to reside in groups within forests, caves, or sheds, which they adorn with rugs. They create thread from stolen flax and weave delicate cloth for their garments, often adorning themselves with flowers. During spring, they entice young men to the mountains, where they engage in fatal tickling. On Pentecost, known as Navka's Easter (Ukrainian: На́вський Вели́кдень), they partake in games, dances, and revelries, accompanied by a demon playing a flute or pipes."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "To redeem the soul of an unchristened baby, it is believed that one must throw a kerchief during the Pentecost celebrations, state the child's name, and declare 'I baptise you.' If successful, the soul ascends to heaven; otherwise, if the soul remains for seven years without salvation, it transforms into a Mavka and haunts the earth."
+      ]
+    },
+    {
+      "heading": "Popular Culture",
+      "paragraphs": [
+        "Mavkas have been featured in various literary works, notably in [[lesya-ukrainka|Lesia Ukrainka]]'s play The Forest Song and in Mykhailo Kotsiubynsky's Shadows of Forgotten Ancestors, where Nyavkas are also represented.",
+        "In contemporary culture, the [[music-of-ukraine|Ukrainian music]] band Mavka draws its name from this mythological figure. Additionally, in 2022, Ukrainian singer Eria released a song titled 'Mavka'.",
+        "The 2023 animated film Mavka: The Forest Song is inspired by Ukrainian mythology, further highlighting the cultural relevance of these mythical entities."
+      ]
+    }
+  ],
+  "links_out": [
+    "lesya-ukrainka",
+    "music-of-ukraine",
+    "ukrainian",
+    "ukrainian-folklore"
+  ],
+  "sources": [
+    {
+      "title": "Mavka — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mavka",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

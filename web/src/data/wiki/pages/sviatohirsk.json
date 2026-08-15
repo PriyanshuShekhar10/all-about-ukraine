@@ -1,0 +1,110 @@
+{
+  "qid": "Q1020087",
+  "slug": "sviatohirsk",
+  "title": "Sviatohirsk",
+  "type": "city in Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1571",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "4,395",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "8",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "66",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.0358, 37.5658",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Sviatohirsk is a city located in the northern part of [[donetsk-oblast|Donetsk Oblast]], Ukraine, situated along the Siverskyi Donets River. With a population of 4,226 as of 2022, the city is notable for its historical significance, particularly the 16th-century Sviatohirsk Lavra Monastery.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Sviatohirsk is positioned on the banks of the [[donets|Siverskyi Donets]] River, approximately 30 kilometers (19 miles) from the city of Sloviansk. The city is part of the historic region of Sloboda [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The area of Sviatohirsk was first documented in the 16th century, with the establishment of the [[sviatohirsk-lavra|Sviatohirsk Lavra]] Holy Mountains monastery in 1624. By the late 18th century, monastic lands were secularized and transferred to private ownership, leading to the settlement being referred to as Banne/Bannoye.",
+        "In 1938, the settlement was designated as an urban-type settlement and renamed Bannovsky. It achieved town status in 1964, adopting the name Slovianohirsk, which was later changed to Sviatohirsk in 2003."
+      ]
+    },
+    {
+      "heading": "Recent Conflicts",
+      "paragraphs": [
+        "During the [[war-in-donbas|War in Donbas]], Sviatohirsk remained under [[ukrainian|Ukrainian]] control, unlike neighboring Sloviansk. The city's geographical features provided natural defenses against military maneuvers.",
+        "In June 2022, the city experienced significant conflict, resulting in casualties among monks and damage to the monastery. Following a counteroffensive in September 2022, Ukrainian forces regained control of Sviatohirsk."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "Sviatohirsk is home to the Holy Dormition Sviatohirsk Lavra and the Holy Mountains National Park, which includes a historical and architectural reserve. The city features various cultural monuments, including a World War II memorial and a sculpture of Communist leader Artem.",
+        "The city has attracted notable cultural figures throughout history, such as [[hryhorii-skovoroda|Hryhorii Skovoroda]] and Anton Chekhov."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "As of the 2022 estimate, Sviatohirsk has a population of 4,226. The 2001 census indicated that 65.49% of residents identified Ukrainian as their mother tongue, while 33.96% spoke Russian. Smaller ethnic minorities include Belarusians and Armenians."
+      ]
+    },
+    {
+      "heading": "Tourism and Development",
+      "paragraphs": [
+        "Sviatohirsk is developing its tourism and recreational infrastructure, which includes the Holy Mountain sanatorium and various hotel complexes. The city is known for its natural beauty, featuring the Siverskyi Donets River, forests, and clean air.",
+        "A four-star hotel was opened in early 2009, enhancing the city's appeal as a tourist destination."
+      ]
+    },
+    {
+      "heading": "Sister Cities",
+      "paragraphs": [
+        "In March 2023, Sviatohirsk established a sister city relationship with Easton, Connecticut, and in June 2023, with Ashland, Oregon."
+      ]
+    }
+  ],
+  "links_out": [
+    "donets",
+    "donetsk-oblast",
+    "hryhorii-skovoroda",
+    "sviatohirsk-lavra",
+    "ukraine",
+    "ukrainian",
+    "war-in-donbas"
+  ],
+  "sources": [
+    {
+      "title": "Sviatohirsk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sviatohirsk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

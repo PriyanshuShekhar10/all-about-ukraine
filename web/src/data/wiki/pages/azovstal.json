@@ -1,0 +1,96 @@
+{
+  "qid": "Q4058442",
+  "slug": "azovstal",
+  "title": "Azovstal",
+  "type": "business",
+  "category": "economy",
+  "aliases": [
+    "Azovstal Iron and Steel Works",
+    "Azovstal factory",
+    "Metallurgical Combine Azovstal"
+  ],
+  "infobox": {
+    "label": "business",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1933",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Russia, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Mariupol",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "47.0980, 37.6100",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Azovstal Iron and Steel Works, located in Mariupol, Ukraine, was one of the largest steel rolling companies in the country and became a significant site during the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]]. The plant, established in 1930, was emblematic of Ukrainian resistance during the siege of Mariupol in 2022.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Azovstal was founded in 1930 in [[mariupol|Mariupol]], [[ukrainian-soviet-socialist-republic|Ukrainian SSR]], by a decision from the Presidium of the Supreme Soviet of the National Economy. During its construction, a Neolithic cemetery was discovered, leading to the excavation of 124 graves and numerous grave goods, which were publicized in 1933.",
+        "During World War II, the plant was occupied by German forces starting in October 1941 and was utilized for ammunition production as part of the German Ivan Program from 1942. After the city was recaptured by Soviet forces in September 1943, the plant was rebuilt."
+      ]
+    },
+    {
+      "heading": "Ukrainian Independence",
+      "paragraphs": [
+        "Following [[ukraine|Ukraine]]'s independence in 1991, Azovstal became state property. The privatization process began in 1996, and the plant was acquired by [[metinvest|Metinvest]], a company owned by the [[ukrainian|Ukrainian]] conglomerate Systems Capital Management. In 2005, Azovstal produced 5.906 million tons of steel and started a partnership with Priazovskiy State Technical University in 2006 to facilitate student employment at the site.",
+        "By 2011, Azovstal was the third largest steel producer [[coal-in-ukraine|in Ukraine]], contributing to 15% of the country's total steel output and known for exporting steel slabs and billets. The plant's bunkers were utilized in 2014 when Russian-backed separatists attempted to seize Mariupol."
+      ]
+    },
+    {
+      "heading": "Russian Invasion of Ukraine",
+      "paragraphs": [
+        "In March 2022, during the [[siege-of-mariupol|siege of Mariupol]], Azovstal suffered extensive damage, with [[verkhovna-rada|Ukrainian parliament]] member Serhiy Taruta stating that Russian forces had 'practically destroyed the factory.' By April 16, it became the last organized resistance point in the siege. Russian forces demanded the defenders surrender by April 17, but Ukrainian forces maintained control over parts of the plant.",
+        "On May 4, Russian troops claimed to have entered Azovstal, a statement contested by Ukrainian sources. By May 7, all women, children, and elderly individuals were evacuated from the site. The [[azov-brigade|Azov Battalion]] was ordered to surrender on May 16 to save personnel, leading to the evacuation of 53 seriously injured individuals and 211 others on May 17, marking the end of the combat mission after 82 days of fighting.",
+        "Following the capture of Mariupol, Denis Pushilin announced plans to demolish the plant, with intentions to build a technopark on its site by February 25, 2023."
+      ]
+    },
+    {
+      "heading": "Environmental Impacts",
+      "paragraphs": [
+        "A 1999 study identified Azovstal as the second largest air polluter in the region, prompting the implementation of a pilot program to reduce pollution from graphite and smelter fumes. This program expanded after showing positive results, and regular pollution prevention audits were conducted annually.",
+        "Due to outdated equipment and lax environmental regulations, Mariupol was described by National Geographic as 'one of the most polluted cities' in Ukraine, leading to public protests in 2018 and 2019 for environmental reform."
+      ]
+    },
+    {
+      "heading": "Management",
+      "paragraphs": [
+        "At the time of the siege, Azovstal operated as a subsidiary of Metinvest Holding LLC, which is part of Metinvest B.V. Rinat Akhmetov, co-owner of Metinvest B.V., expressed support for the Ukrainian forces in Mariupol, emphasizing the city's significance as Ukrainian territory."
+      ]
+    }
+  ],
+  "links_out": [
+    "azov-brigade",
+    "coal-in-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "mariupol",
+    "metinvest",
+    "siege-of-mariupol",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Azovstal Iron and Steel Works — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Azovstal_Iron_and_Steel_Works",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

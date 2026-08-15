@@ -1,0 +1,81 @@
+{
+  "qid": "Q2067459",
+  "slug": "national-academy-of-arts-of-ukraine",
+  "title": "National Academy of Arts of Ukraine",
+  "type": "university",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "university",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1996",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4523, 30.5003",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The National Academy of Arts of Ukraine (NAA) is a prominent national institution dedicated to the arts, established in 1996 and granted national status in 2010. It plays a vital role in promoting and preserving Ukrainian artistic traditions and culture both domestically and internationally.",
+  "sections": [
+    {
+      "heading": "Foundation and Mission",
+      "paragraphs": [
+        "The National Academy of Arts of Ukraine, founded in 1996, is one of six state-funded institutions [[coal-in-ukraine|in Ukraine]], alongside the [[national-academy-of-sciences-of-ukraine|National Academy of Sciences of Ukraine]]. NAA was granted national status in 2010 and is focused on recognizing distinguished contributions to various artistic fields, including visual arts, musical art, theatre arts, and cinematic arts. Its mission emphasizes honoring national artistic traditions and promoting [[ukrainian|Ukrainian]] culture globally."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The roots of art [[education-in-ukraine|education in Ukraine]] can be traced back to influential institutions such as the [[national-university-of-kyiv-mohyla-academy|National University of Kyiv-Mohyla Academy]] and [[ostroh-academy|Ostroh Academy]] during the 16th and 17th centuries. These academies fostered student theatrical and musical productions, which were crucial in preserving and evolving Ukrainian traditions. The establishment of the [[ukrainian-state|Ukrainian State]] Academy of Arts on December 18, 1917, marked a significant milestone in national cultural history, laying the groundwork for future art education in Ukraine."
+      ]
+    },
+    {
+      "heading": "Development of the Academy",
+      "paragraphs": [
+        "The idea of creating a science-backed creative academy emerged in the 1920s, leading to the formation of a special committee in 1927-1928 to establish NAA. Although the establishment faced delays due to political challenges and the Second World War, efforts resumed post-war, resulting in the foundation of various research institutes. The [[cabinet-of-ministers-of-ukraine|Ukrainian government]] officially approved the establishment of the National Academy of Arts of Ukraine on December 14, 1996, with Andriy Chebykin serving as its first president from 1997 to 2022."
+      ]
+    },
+    {
+      "heading": "Membership and Recognition",
+      "paragraphs": [
+        "NAA boasts a distinguished membership, including seven Heroes of [[ukraine|Ukraine]], thirty-three laureates of the [[shevchenko-national-prize|Shevchenko National Prize]], and four laureates of the State Prize of Ukraine in Science and Technology. The academy comprises members with diverse expertise in fine and decorative arts, architecture, music, theatre, and more. Notable foreign members include cinema director Jerzy Hoffman from Poland and art critic Valeriian Revutskyy from Canada, while honorary members encompass a range of prominent figures in the arts and sciences."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "coal-in-ukraine",
+    "education-in-ukraine",
+    "national-academy-of-sciences-of-ukraine",
+    "national-university-of-kyiv-mohyla-academy",
+    "ostroh-academy",
+    "shevchenko-national-prize",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-state"
+  ],
+  "sources": [
+    {
+      "title": "National Academy of Arts of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_Academy_of_Arts_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

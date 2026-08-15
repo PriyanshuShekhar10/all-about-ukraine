@@ -1,0 +1,84 @@
+{
+  "qid": "Q2347438",
+  "slug": "chyhyryn-raion",
+  "title": "Chyhyryn Raion",
+  "type": "raion of Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "raion of Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Chyhyryn",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "26,519",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "1,217",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.1622, 32.5076",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Chyhyryn Raion was a district in Cherkasy Oblast, central Ukraine, known for its historical significance during the Ukrainian War of Independence. It was dissolved in 2020 as part of administrative reforms in Ukraine.",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Overview",
+      "paragraphs": [
+        "Chyhyryn Raion ([[ukrainian|Ukrainian]]: Чигиринський район) was a district located in [[cherkasy-oblast|Cherkasy Oblast]], in the central part of [[ukraine|Ukraine]]. The administrative center of the raion was situated in the town of [[chyhyryn|Chyhyryn]]."
+      ]
+    },
+    {
+      "heading": "Dissolution and Population",
+      "paragraphs": [
+        "On 18 July 2020, Chyhyryn Raion was abolished as part of an administrative reform [[coal-in-ukraine|in Ukraine]], which aimed to reduce the number of raions in Cherkasy Oblast to four. Following its dissolution, the territory of Chyhyryn Raion was incorporated into [[cherkasy|Cherkasy]] Raion. At the time of its disestablishment, the estimated population of the raion was 25,410."
+      ]
+    },
+    {
+      "heading": "Hromadas",
+      "paragraphs": [
+        "At the time of its dissolution, Chyhyryn Raion was composed of two hromadas: the Chyhyryn urban hromada, which had its administration in Chyhyryn, and the Medvedivka rural hromada, with its administration located in the selo of Medvedivka."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "The region that encompassed Chyhyryn Raion played a notable role during the [[ukrainian-war-of-independence|Ukrainian War of Independence]], being the site of the Kholodny Yar Republic. This republic, led by local leader Vasyl Chuchupak, existed from 1919 to 1922 and aimed for Ukrainian independence from [[soviet-union|the Soviet Union]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "cherkasy",
+    "cherkasy-oblast",
+    "chyhyryn",
+    "coal-in-ukraine",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-war-of-independence"
+  ],
+  "sources": [
+    {
+      "title": "Chyhyryn Raion — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chyhyryn_Raion",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

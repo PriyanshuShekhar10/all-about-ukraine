@@ -35,7 +35,7 @@
     {
       "heading": "Early Life and Education",
       "paragraphs": [
-        "Vira Vovk was born in Boryslav in 1926 and spent her formative years in the Hutsul region, specifically in the town of Kuty, which was located on the Polish-Romanian border at that time.",
+        "Vira Vovk was born in [[boryslav|Boryslav]] in 1926 and spent her formative years in the Hutsul region, specifically in the town of Kuty, which was located on the Polish-Romanian border at that time.",
         "She completed her secondary education in [[lviv|Lviv]] and Dresden, later pursuing studies in Germanics, music history, and comparative literature at the University of Tübingen."
       ]
     },
@@ -58,7 +58,7 @@
       "heading": "Awards and Recognition",
       "paragraphs": [
         "Throughout her career, Vovk received several accolades, including the [[ivan-franko|Ivan Franko]] Literary award in 1957, 1979, 1982, and 1990, as well as the Blahovist award in 2000.",
-        "In 2008, she was honored with the [[shevchenko-national-prize|Shevchenko National Prize]], a prestigious Ukrainian state award recognizing her contributions to literature."
+        "In 2008, she was honored with the [[shevchenko-national-prize|Shevchenko National Prize]], a prestigious [[ukrainian-state|Ukrainian state]] award recognizing her contributions to literature."
       ]
     },
     {
@@ -70,10 +70,12 @@
     }
   ],
   "links_out": [
+    "boryslav",
     "ivan-franko",
     "lviv",
     "shevchenko-national-prize",
-    "ukrainian"
+    "ukrainian",
+    "ukrainian-state"
   ],
   "sources": [
     {

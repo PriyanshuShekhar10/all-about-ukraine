@@ -8867,5 +8867,714 @@
     "aliases": [],
     "notability": 30,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q157525",
+    "slug": "boryslav",
+    "name": "Boryslav",
+    "wp_title": "Boryslav",
+    "type": "city of regional significance of Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Borysław"
+    ],
+    "notability": 47,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1172353",
+    "slug": "iziaslav",
+    "name": "Iziaslav",
+    "wp_title": "Iziaslav",
+    "type": "Wikimedia disambiguation page",
+    "category": "geography",
+    "aliases": [
+      "Izasław"
+    ],
+    "notability": 9,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q947568",
+    "slug": "khotyn-raion",
+    "name": "Khotyn Raion",
+    "wp_title": "Khotyn Raion",
+    "type": "raion of Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 21,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4240825",
+    "slug": "kryvorivnia",
+    "name": "Kryvorivnia",
+    "wp_title": "Kryvorivnia",
+    "type": "village of Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Kryvorivnia"
+    ],
+    "notability": 14,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q11464766",
+    "slug": "nadia",
+    "name": "Nadia",
+    "wp_title": "Nadia",
+    "type": "female given name",
+    "category": "geography",
+    "aliases": [
+      "Nadia (first name)",
+      "Nadia (given name)"
+    ],
+    "notability": 15,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1585799",
+    "slug": "pecherskyi-district",
+    "name": "Pecherskyi District",
+    "wp_title": "Pecherskyi District",
+    "type": "raion of city in Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Pechersk Raion",
+      "Pecherskyi Raion"
+    ],
+    "notability": 27,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q182445",
+    "slug": "prut",
+    "name": "Prut",
+    "wp_title": "Prut",
+    "type": "river",
+    "category": "geography",
+    "aliases": [
+      "Pruth"
+    ],
+    "notability": 72,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q997343",
+    "slug": "rava-ruska",
+    "name": "Rava-Ruska",
+    "wp_title": "Rava-Ruska",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Rava-Ruska (Ukraine)"
+    ],
+    "notability": 36,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1020087",
+    "slug": "sviatohirsk",
+    "name": "Sviatohirsk",
+    "wp_title": "Sviatohirsk",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 39,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1093414",
+    "slug": "velykyi-bychkiv",
+    "name": "Velykyi Bychkiv",
+    "wp_title": "Velykyi Bychkiv",
+    "type": "urban-type settlement in Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Nagybocskó"
+    ],
+    "notability": 22,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q148928",
+    "slug": "zboriv",
+    "name": "Zboriv",
+    "wp_title": "Zboriv",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 37,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q592145",
+    "slug": "znamianka",
+    "name": "Znamianka",
+    "wp_title": "Znamianka, Kirovohrad Oblast",
+    "type": "city of regional significance of Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 42,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2026890",
+    "slug": "zvenyhorod",
+    "name": "Zvenyhorod",
+    "wp_title": "Zvenyhorod",
+    "type": "village of Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Zvenyhorod (Ukraine)"
+    ],
+    "notability": 15,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2347438",
+    "slug": "chyhyryn-raion",
+    "name": "Chyhyryn Raion",
+    "wp_title": "Chyhyryn Raion",
+    "type": "raion of Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 16,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q617057",
+    "slug": "apostolic-nunciature-to-ukraine",
+    "name": "Apostolic Nunciature to Ukraine",
+    "wp_title": "Apostolic Nunciature to Ukraine",
+    "type": "apostolic nunciature",
+    "category": "people",
+    "aliases": [],
+    "notability": 10,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q22669",
+    "slug": "uefa-euro-2012",
+    "name": "UEFA Euro 2012",
+    "wp_title": "UEFA Euro 2012",
+    "type": "edition of the UEFA European Championship",
+    "category": "people",
+    "aliases": [
+      "2012 European Championship",
+      "2012 UEFA European Championship",
+      "Euro 2012"
+    ],
+    "notability": 106,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q212446",
+    "slug": "igor-sikorsky",
+    "name": "Igor Sikorsky",
+    "wp_title": "Igor Sikorsky",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Igor Ivanovich Sikorsky"
+    ],
+    "notability": 66,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1410684",
+    "slug": "intercession-of-the-theotokos",
+    "name": "Intercession of the Theotokos",
+    "wp_title": "Intercession of the Theotokos",
+    "type": "holiday",
+    "category": "people",
+    "aliases": [
+      "Pokrov"
+    ],
+    "notability": 31,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1988563",
+    "slug": "mykola-hlushchenko",
+    "name": "Mykola Hlushchenko",
+    "wp_title": "Mykola Hlushchenko",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Mykola Hluschenko",
+      "Mykola Petrovych Hlushchenko",
+      "Nicolas Gloutchenko",
+      "Nikolay Gluschenko",
+      "Nikolay Glushchenko",
+      "Nikolay Petrovich Glushchenko"
+    ],
+    "notability": 8,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q467914",
+    "slug": "mykola-leontovych",
+    "name": "Mykola Leontovych",
+    "wp_title": "Mykola Leontovych",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Leontovich, M. (Mikola), 1877-1921",
+      "Leontovich, Mikola Dmitrovich, 1877-1921",
+      "Leontovich, N. (Nikolaĭ), 1877-1921",
+      "Leontovich, Nikolaĭ Dmitrievich, 1877-1921",
+      "Leontovych, M. D. (Mykola Dmytrovych), 1877-1921",
+      "Leontovych, Mykola Dmytrovych, 1877-1921",
+      "Leontovych, Mykola, 1877-1921",
+      "Leontowitsch, Mikola, 1877-1921",
+      "Mykola Dmytrovych Leontovych"
+    ],
+    "notability": 39,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q161348",
+    "slug": "ramstein-air-base",
+    "name": "Ramstein Air Base",
+    "wp_title": "Ramstein Air Base",
+    "type": "airbase",
+    "category": "people",
+    "aliases": [
+      "ETAR",
+      "RAB",
+      "RMS",
+      "Ramstein",
+      "Ramstein AB",
+      "Ramstein AB Airport",
+      "Ramstein–Landstuhl Air Base"
+    ],
+    "notability": 37,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q48786",
+    "slug": "sakharov-prize",
+    "name": "Sakharov Prize",
+    "wp_title": "Sakharov Prize",
+    "type": "human rights award",
+    "category": "people",
+    "aliases": [
+      "Sakharov Prize for Freedom of Thought"
+    ],
+    "notability": 77,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1298472",
+    "slug": "shchedryk",
+    "name": "Shchedryk",
+    "wp_title": "Shchedryk",
+    "type": "Wikimedia disambiguation page",
+    "category": "people",
+    "aliases": [],
+    "notability": 3,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q9377997",
+    "slug": "volodymyr-viatrovych",
+    "name": "Volodymyr Viatrovych",
+    "wp_title": "Volodymyr Viatrovych",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Vladimir Mikhaylovich Vyatrovich",
+      "Vladimir Vyatrovich",
+      "Volodymyr Mykhailovych Viatrovych",
+      "Volodymyr Mykhaylovych Vyatrovych",
+      "Volodymyr Vyatrovych"
+    ],
+    "notability": 13,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q12164008",
+    "slug": "visual-arts-of-ukraine",
+    "name": "visual arts of Ukraine",
+    "wp_title": "Visual arts of Ukraine",
+    "type": "visual arts of an area",
+    "category": "culture",
+    "aliases": [
+      "Ukrainian visual art",
+      "visual art of Ukraine"
+    ],
+    "notability": 3,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q16283937",
+    "slug": "dakh-daughters",
+    "name": "Dakh Daughters",
+    "wp_title": "Dakh Daughters",
+    "type": "musical ensemble",
+    "category": "culture",
+    "aliases": [],
+    "notability": 11,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q8152262",
+    "slug": "kupala-night",
+    "name": "Kupala Night",
+    "wp_title": "Kupala Night",
+    "type": "Slavic holiday",
+    "category": "culture",
+    "aliases": [
+      "Ivan Kupalo",
+      "Ivanа-Kupala",
+      "Kupailo",
+      "Kupalo festival"
+    ],
+    "notability": 35,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2992419",
+    "slug": "mavka",
+    "name": "Mavka",
+    "wp_title": "Mavka",
+    "type": "class of mythical entities",
+    "category": "culture",
+    "aliases": [],
+    "notability": 23,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2067459",
+    "slug": "national-academy-of-arts-of-ukraine",
+    "name": "National Academy of Arts of Ukraine",
+    "wp_title": "National Academy of Arts of Ukraine",
+    "type": "university",
+    "category": "culture",
+    "aliases": [],
+    "notability": 6,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2511681",
+    "slug": "national-philharmonic-of-ukraine",
+    "name": "National Philharmonic of Ukraine",
+    "wp_title": "National Philharmonic of Ukraine",
+    "type": "philharmonic society",
+    "category": "culture",
+    "aliases": [],
+    "notability": 8,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4058442",
+    "slug": "azovstal",
+    "name": "Azovstal",
+    "wp_title": "Azovstal Iron and Steel Works",
+    "type": "business",
+    "category": "economy",
+    "aliases": [
+      "Azovstal Iron and Steel Works",
+      "Azovstal factory",
+      "Metallurgical Combine Azovstal"
+    ],
+    "notability": 36,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q158604",
+    "slug": "bakhchysarai",
+    "name": "Bakhchysarai",
+    "wp_title": "Bakhchysarai",
+    "type": "city in Ukraine",
+    "category": "economy",
+    "aliases": [
+      "Bakhchesarai",
+      "Bakhchisarai",
+      "Bakhchisaray"
+    ],
+    "notability": 82,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q7107752",
+    "slug": "ostriv",
+    "name": "Ostriv",
+    "wp_title": "Ostriv",
+    "type": "Wikimedia disambiguation page",
+    "category": "economy",
+    "aliases": [],
+    "notability": 1,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q301915",
+    "slug": "rivne-nuclear-power-plant",
+    "name": "Rivne Nuclear Power Plant",
+    "wp_title": "Rivne Nuclear Power Plant",
+    "type": "nuclear power plant",
+    "category": "economy",
+    "aliases": [],
+    "notability": 26,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q157280",
+    "slug": "stepan-bandera",
+    "name": "Stepan Bandera",
+    "wp_title": "Stepan Bandera",
+    "type": "human",
+    "category": "economy",
+    "aliases": [
+      "Stepan Andriyovych Bandera"
+    ],
+    "notability": 79,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q909477",
+    "slug": "zaporizhzhia-nuclear-power-plant",
+    "name": "Zaporizhzhia Nuclear Power Plant",
+    "wp_title": "Zaporizhzhia Nuclear Power Plant",
+    "type": "nuclear power plant",
+    "category": "economy",
+    "aliases": [
+      "ZNPP",
+      "Zaporizhia Nuclear Power Plant",
+      "Zaporizhzhia Nuclear Power Station",
+      "Zaporizhzhia nuclear complex",
+      "Zaporizʹka atomna elektrostant͡sii͡a"
+    ],
+    "notability": 54,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q997359",
+    "slug": "zhydachiv",
+    "name": "Zhydachiv",
+    "wp_title": "Zhydachiv",
+    "type": "city in Ukraine",
+    "category": "economy",
+    "aliases": [
+      "Zhydachiv (Ukraine)"
+    ],
+    "notability": 36,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q639054",
+    "slug": "zhovti-vody",
+    "name": "Zhovti Vody",
+    "wp_title": "Zhovti Vody",
+    "type": "city of regional significance of Ukraine",
+    "category": "economy",
+    "aliases": [
+      "Zheltye Vody"
+    ],
+    "notability": 46,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q12119102",
+    "slug": "lviv-city-council",
+    "name": "Lviv City Council",
+    "wp_title": "Lviv City Council",
+    "type": "administrative territorial entity",
+    "category": "politics",
+    "aliases": [
+      "Lviv municipality",
+      "municipality of Lviv"
+    ],
+    "notability": 5,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q435090",
+    "slug": "pavlo-skoropadsky",
+    "name": "Pavlo Skoropadsky",
+    "wp_title": "Pavlo Skoropadsky",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "Pavlo Petrovych Skoropadskyi",
+      "Pavlo Skoropadskyi"
+    ],
+    "notability": 52,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1499300",
+    "slug": "social-democratic-party-of-ukraine-united",
+    "name": "Social Democratic Party of Ukraine (united)",
+    "wp_title": "Social Democratic Party of Ukraine (united)",
+    "type": "political party",
+    "category": "politics",
+    "aliases": [
+      "Social Democratic Party of Ukraine"
+    ],
+    "notability": 12,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1711627",
+    "slug": "state-emergency-service-of-ukraine",
+    "name": "State Emergency Service of Ukraine",
+    "wp_title": "State Emergency Service of Ukraine",
+    "type": "government agency",
+    "category": "politics",
+    "aliases": [
+      "DSNS",
+      "SESU"
+    ],
+    "notability": 17,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q7878447",
+    "slug": "ukrainian-communist-party",
+    "name": "Ukrainian Communist Party",
+    "wp_title": "Ukrainian Communist Party",
+    "type": "political party",
+    "category": "politics",
+    "aliases": [],
+    "notability": 5,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1508143",
+    "slug": "ukrainian-state",
+    "name": "Ukrainian State",
+    "wp_title": "Ukrainian State",
+    "type": "historical country",
+    "category": "politics",
+    "aliases": [
+      "Hetman government",
+      "Hetman state",
+      "Hetmanate",
+      "Hetmanshchyna"
+    ],
+    "notability": 38,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q8908",
+    "slug": "council-of-europe",
+    "name": "Council of Europe",
+    "wp_title": "Council of Europe",
+    "type": "intergovernmental organization",
+    "category": "politics",
+    "aliases": [
+      "CoE"
+    ],
+    "notability": 128,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q939743",
+    "slug": "parliamentary-assembly-of-the-council-of-europe",
+    "name": "Parliamentary Assembly of the Council of Europe",
+    "wp_title": "Parliamentary Assembly of the Council of Europe",
+    "type": "international parliamentary assembly",
+    "category": "politics",
+    "aliases": [
+      "PACE"
+    ],
+    "notability": 43,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1203774",
+    "slug": "bohdan-hawrylyshyn",
+    "name": "Bohdan Hawrylyshyn",
+    "wp_title": "Bohdan Hawrylyshyn",
+    "type": "human",
+    "category": "history",
+    "aliases": [
+      "Bohdan Dmytrovych Hawrylyshyn"
+    ],
+    "notability": 16,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q19801088",
+    "slug": "decommunization-in-ukraine",
+    "name": "decommunization in Ukraine",
+    "wp_title": "Decommunization in Ukraine",
+    "type": "aspect in a geographic region",
+    "category": "history",
+    "aliases": [],
+    "notability": 38,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q12091538",
+    "slug": "hrushevsky-street",
+    "name": "Hrushevsky Street",
+    "wp_title": "Hrushevsky Street",
+    "type": "Wikimedia disambiguation page",
+    "category": "history",
+    "aliases": [],
+    "notability": 3,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1130771",
+    "slug": "syvash-bay",
+    "name": "Syvash Bay",
+    "wp_title": "Syvash",
+    "type": "bay",
+    "category": "history",
+    "aliases": [
+      "Sivash"
+    ],
+    "notability": 53,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q70231",
+    "slug": "slavutych",
+    "name": "Slavutych",
+    "wp_title": "Slavutych",
+    "type": "city in Ukraine",
+    "category": "history",
+    "aliases": [],
+    "notability": 58,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q3366451",
+    "slug": "ukrainian-democratic-party",
+    "name": "Ukrainian Democratic Party",
+    "wp_title": "Ukrainian Democratic Party",
+    "type": "political party",
+    "category": "history",
+    "aliases": [],
+    "notability": 5,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q848966",
+    "slug": "radio-ukraine",
+    "name": "Radio Ukraine",
+    "wp_title": "Ukrainian Radio",
+    "type": "subsidiary company",
+    "category": "history",
+    "aliases": [
+      "Ukrainian Radio"
+    ],
+    "notability": 9,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2338568",
+    "slug": "radomysl-castle",
+    "name": "Radomysl Castle",
+    "wp_title": "Radomysl Castle",
+    "type": "museum",
+    "category": "war",
+    "aliases": [],
+    "notability": 13,
+    "status": "synthesized"
   }
 ]

@@ -1,0 +1,109 @@
+{
+  "qid": "Q592145",
+  "slug": "znamianka",
+  "title": "Znamianka",
+  "type": "city of regional significance of Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1869",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "22,936",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "15",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "197",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.7136, 32.6733",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Znamianka is a city of regional significance located in central [[ukraine|Ukraine]], within Kropyvnytskyi Raion of Kirovohrad Oblast. As of 2022, the city had an estimated population of 21,221 and serves as an important railway junction.",
+  "sections": [
+    {
+      "heading": "Geographical Location",
+      "paragraphs": [
+        "Znamianka is situated approximately equidistant from the regional center [[kropyvnytskyi|Kropyvnytskyi]] to the west and the cities of Oleksandriia to the east and Svitlovodsk to the north. It is recognized as a significant railway hub on the routes connecting [[kyiv|Kyiv]]-[[dnieper|Dnipro]] and [[kharkiv-oblast|Kharkiv]]-[[odesa|Odesa]]."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The area of modern [[kirovohrad-oblast|Kirovohrad Oblast]], including Znamianka, was originally inhabited by the [[scythians|Scythians]], with archaeological findings such as a bronze and golden Scythian eagle image symbolizing the region. During the Middle Ages, it was home to the East Slavic tribe of Ulichis.",
+        "Following the liberation of [[kievan-rus|Kyivan Rus]]' from Tatar control, the establishment of the first [[zaporizhian-sich|Zaporozhian Sich]] by Dmytro Vyshnevetsky aimed to protect against incursions from the Crimean Khanate and Muscovy. Several villages were founded by [[zaporozhian-cossacks|Zaporozhians]] near present-day Znamianka.",
+        "Znamianka was officially founded in 1869 with the commencement of train services between Kharkiv and Odesa. The settlement grew around a railway station named after a nearby village, Znamianka Druha."
+      ]
+    },
+    {
+      "heading": "20th Century Developments",
+      "paragraphs": [
+        "By 1913, the population of the settlements around Znamianka reached approximately 6,000. The train station evolved from a third-category station with limited facilities to a significant rail hub, shipping out substantial quantities of goods.",
+        "During the [[ukrainian-war-of-independence|Ukrainian War of Independence]] and subsequent conflicts, Znamianka was part of various [[ukrainian|Ukrainian]] states and witnessed significant military activity. It became a district center in 1923 and was designated an urban-type settlement in 1930, later achieving city status in 1938.",
+        "The city suffered during [[holodomor|the Holodomor]], with at least 891 residents perishing due to famine and repression. World War II brought further hardship, including German occupation and civilian casualties."
+      ]
+    },
+    {
+      "heading": "Recent History",
+      "paragraphs": [
+        "In 2012, the city council declared Russian as the regional language, a decision later deemed unconstitutional by the [[constitutional-court-of-ukraine|Constitutional Court of Ukraine]] in 2018. The population in January 2013 was recorded at 23,983.",
+        "Znamianka played a role during the Anti-Terrorist Operation and the Operation of the United Forces, with many citizens participating in combat and some losing their lives.",
+        "Administrative reforms in 2020 led to the merging of Znamianka Municipality into Kropyvnytskyi Raion. During the ongoing Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], the city has served as a refuge for thousands of displaced individuals."
+      ]
+    },
+    {
+      "heading": "Geography and Climate",
+      "paragraphs": [
+        "Znamianka is located in the southeastern part of the Dnieper Upland. The city features a popular reservoir, the Balka Orlova river, along with several ponds."
+      ]
+    }
+  ],
+  "links_out": [
+    "constitutional-court-of-ukraine",
+    "dnieper",
+    "full-scale-russo-ukrainian-war",
+    "holodomor",
+    "kharkiv-oblast",
+    "kievan-rus",
+    "kirovohrad-oblast",
+    "kropyvnytskyi",
+    "kyiv",
+    "odesa",
+    "scythians",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-war-of-independence",
+    "zaporizhian-sich",
+    "zaporozhian-cossacks"
+  ],
+  "sources": [
+    {
+      "title": "Znamianka, Kirovohrad Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Znamianka,_Kirovohrad_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

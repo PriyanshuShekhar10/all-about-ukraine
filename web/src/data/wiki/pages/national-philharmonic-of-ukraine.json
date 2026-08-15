@@ -1,0 +1,89 @@
+{
+  "qid": "Q2511681",
+  "slug": "national-philharmonic-of-ukraine",
+  "title": "National Philharmonic of Ukraine",
+  "type": "philharmonic society",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "philharmonic society",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1882",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4533, 30.5283",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The National Philharmonic of Ukraine, located in Kyiv, is a prominent cultural institution known for its concert halls and rich musical heritage. Established through the efforts of [[ukrainian|Ukrainian]] composer Mykola Lysenko, it has played a significant role in the promotion of both Ukrainian and international music.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The National Philharmonic of Ukraine, often called the [[kyiv|Kyiv]] Philharmonic, is situated in a historic building originally known as the Merchant's House, constructed at the end of the 19th century. The building, located at the end of Khreshchatyk street near European Square, has been a center for cultural events and musical performances, notably due to its excellent acoustics."
+      ]
+    },
+    {
+      "heading": "Development and Transformation",
+      "paragraphs": [
+        "The establishment of the Philharmonic Society by [[mykola-lysenko|Mykola Lysenko]] marked a significant development in the building's history. Lysenko, a key figure in [[music-of-ukraine|Ukrainian music]], contributed to the promotion of various composers and musical styles in Kyiv. Following the Russian Revolution, the building underwent several changes in purpose, including serving as the Proletarian House of Arts and later as a Bolshevik Club.",
+        "The Philharmonic Society was relocated to [[kharkiv-oblast|Kharkiv]] in 1927 when it became the capital of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]] but returned to Kyiv in 1934. The society ceased operations during the Nazi occupation in World War II but resumed activities in 1944 after Kyiv was liberated."
+      ]
+    },
+    {
+      "heading": "Renaming and Restoration",
+      "paragraphs": [
+        "In 1962, the building was renamed the Mykola Lysenko Kyiv State Philharmonic to honor the composer on the anniversary of his birth and death. Despite suffering damage from a flood in the 1980s, restoration efforts began in 1995, leading to the reopening of the building the following year.",
+        "In October 1994, the status of the institution was elevated to the National Philharmonic of Ukraine by President [[leonid-kuchma|Leonid Kuchma]], further solidifying its importance in the cultural landscape of [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Symphony Orchestra",
+      "paragraphs": [
+        "The Symphony Orchestra of the National Philharmonic of Ukraine was established in September 1995 and has since gained recognition as one of [[eastern-europe|Eastern Europe]]'s leading ensembles. Under various conductors, including Leonid Tykhonov and Mykola Dyadura, the orchestra has collaborated with renowned artists and premiered works by both contemporary and historical composers.",
+        "The orchestra has participated in prestigious international festivals and has toured extensively, receiving acclaim for its performances in countries such as Austria, Germany, and Japan."
+      ]
+    },
+    {
+      "heading": "Current Status",
+      "paragraphs": [
+        "Today, the National Philharmonic of Ukraine is regarded as a key venue for classical music in Kyiv, with its Lysenko Colonnaded Hall being one of the city's most esteemed stages. The current director, Volodymyr Lukashev, has overseen the institution's continued prominence in the cultural life of Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "eastern-europe",
+    "kharkiv-oblast",
+    "kyiv",
+    "leonid-kuchma",
+    "music-of-ukraine",
+    "mykola-lysenko",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "National Philharmonic of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_Philharmonic_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

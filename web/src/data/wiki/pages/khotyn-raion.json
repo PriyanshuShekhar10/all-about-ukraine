@@ -1,0 +1,89 @@
+{
+  "qid": "Q947568",
+  "slug": "khotyn-raion",
+  "title": "Khotyn Raion",
+  "type": "raion of Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "raion of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1940-09",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Khotyn",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "62,132",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "716",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.4419, 26.3250",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Khotyn Raion was an administrative district located in the southern part of Chernivtsi Oblast, [[ukraine|Ukraine]], bordering Romania. It was part of the historical [[bessarabia|Bessarabia]] region and was dissolved on July 18, 2020, during an administrative reform that restructured the raions of Chernivtsi Oblast.",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Overview",
+      "paragraphs": [
+        "Khotyn Raion ([[ukrainian|Ukrainian]]: Хотинський район) was situated in the southern section of [[chernivtsi-oblast|Chernivtsi Oblast]] in [[western-ukraine|western Ukraine]], adjacent to the Romanian border. The administrative center of the raion was the city of [[khotyn|Khotyn]], and the area covered by the raion was 716 square kilometers (276 square miles)."
+      ]
+    },
+    {
+      "heading": "Dissolution and Reorganization",
+      "paragraphs": [
+        "The raion was officially abolished on July 18, 2020, as part of a broader administrative reform [[coal-in-ukraine|in Ukraine]] aimed at reducing the number of raions in Chernivtsi Oblast to three. Following this reform, the territory of Khotyn Raion was incorporated into Dnistrovskyi Raion."
+      ]
+    },
+    {
+      "heading": "Demographics and Language",
+      "paragraphs": [
+        "According to the 2001 census, the predominant language spoken in Khotyn Raion was Ukrainian, with 91.57% of the population using it. Other languages included Romanian, spoken by 6.96% of residents, and Russian, used by 1.27%. The estimated population of the raion at the time of its disbandment in 2020 was 60,515."
+      ]
+    },
+    {
+      "heading": "Hromadas of Khotyn Raion",
+      "paragraphs": [
+        "At the time of its dissolution, Khotyn Raion comprised eight hromadas. These included the Khotyn urban hromada, which had its administration in Khotyn, and several rural hromadas: Klishkivtsi, Nedoboivtsi, and Rukshyn, each with their respective administrative centers in the villages of the same name. Additionally, three villages—Kolinkivtsi, Hrozyntsi, and Bochkivtsi—were part of the Toporyvtsi rural hromada, primarily based in Novoselytsia Raion, and were subsequently transferred to [[chernivtsi|Chernivtsi]] Raion after the reform."
+      ]
+    }
+  ],
+  "links_out": [
+    "bessarabia",
+    "chernivtsi",
+    "chernivtsi-oblast",
+    "coal-in-ukraine",
+    "khotyn",
+    "ukraine",
+    "ukrainian",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Khotyn Raion — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Khotyn_Raion",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

@@ -66,7 +66,7 @@
     {
       "heading": "Historical Significance",
       "paragraphs": [
-        "The city was established on the site of a former Cossack encampment known as Kalmius and was granted city rights in 1778 under the Russian Empire. It played a vital role in the industrialization during the [[donetsk|Stalin]] era, emerging as a center for metallurgy and heavy engineering, notably housing the Illich Iron and Steel Works and the Azovstal Iron and Steel Works.",
+        "The city was established on the site of a former Cossack encampment known as Kalmius and was granted city rights in 1778 under the Russian Empire. It played a vital role in the industrialization during the [[donetsk|Stalin]] era, emerging as a center for metallurgy and heavy engineering, notably housing the Illich Iron and Steel Works and the [[azovstal|Azovstal Iron and Steel Works]].",
         "In 1948, the city was renamed Zhdanov after Andrei Zhdanov, a prominent Soviet official, but the original name of Mariupol was restored in 1989."
       ]
     },
@@ -84,6 +84,7 @@
     }
   ],
   "links_out": [
+    "azovstal",
     "cabinet-of-ministers-of-ukraine",
     "coal-in-ukraine",
     "donetsk",

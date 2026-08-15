@@ -1,0 +1,108 @@
+{
+  "qid": "Q9377997",
+  "slug": "volodymyr-viatrovych",
+  "title": "Volodymyr Viatrovych",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Vladimir Mikhaylovich Vyatrovich",
+    "Vladimir Vyatrovich",
+    "Volodymyr Mykhailovych Viatrovych",
+    "Volodymyr Mykhaylovych Vyatrovych",
+    "Volodymyr Vyatrovych"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1977-07-07",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Lviv",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "People's Deputy of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Volodymyr Mykhailovych Viatrovych is a Ukrainian historian, civic activist, and politician, known for his roles in national remembrance and historical research related to Ukraine's liberation movements. He served as the Director of the Ukrainian Institute of National Remembrance and has been a member of the [[verkhovna-rada|Ukrainian parliament]] since December 2019.",
+  "sections": [
+    {
+      "heading": "Biography and Academic Career",
+      "paragraphs": [
+        "Volodymyr Mykhailovych Viatrovych was born on 7 July 1977. He studied at the history faculty of [[lviv-university|Lviv University]] from 1994 to 1999, specializing in [[history-of-ukraine|Ukrainian history]]. In 2004, he defended his doctoral thesis titled 'UPA raids beyond [[ukrainian|Ukrainian]] borders as part of the creation of an anti-totalitarian national-democratic revolution among the nations of East-Central Europe'.",
+        "From November 2002 to March 2008, he directed the Center for the Study of the Liberation Movement in [[lviv|Lviv]]. He also lectured at the Ukrainian Catholic University and developed the first course on 'The Ukrainian Liberation Movement from the 1920s to 1950s'. Viatrovych worked as a research associate at the I. Kripyakevich Institute for Ukrainian Studies in [[kyiv|Kyiv]] from August 2005 to December 2007 and later held a position at the Ukrainian Research Institute at Harvard University from 2010 to 2011."
+      ]
+    },
+    {
+      "heading": "National Remembrance",
+      "paragraphs": [
+        "Viatrovych was involved with the [[ukrainian-institute-of-national-remembrance|Ukrainian Institute of National Remembrance]], serving as a representative for [[lviv-oblast|Lviv Oblast]] between May 2007 and January 2008. He contributed to the international project '[[ukraine|Ukraine]] Remembers, the World Acknowledges' aimed at recognizing [[holodomor|the Holodomor]] as an act of genocide.",
+        "He held various roles within the Institute of National Remembrance, including head of the archives department and advisor to the head of the [[security-service-of-ukraine|Security Service of Ukraine]]. Viatrovych was instrumental in the trial of Soviet leaders for genocide related to the Holodomor, which resulted in a guilty verdict in January 2010."
+      ]
+    },
+    {
+      "heading": "Political Activism",
+      "paragraphs": [
+        "Viatrovych actively participated in the [[orange-revolution|Orange Revolution]] in 2004 as a leader of the PORA youth movement. During the [[euromaidan|Euromaidan]] protests in 2013, he coordinated demonstrations against the government and drew parallels between the protests and the actions of the [[ukrainian-insurgent-army|Ukrainian Insurgent Army]].",
+        "He played a significant role in drafting laws concerning [[decommunization-in-ukraine|decommunization in Ukraine]], which were approved by President [[petro-poroshenko|Petro Poroshenko]] in May 2015. These laws faced criticism for their phrasing and implications."
+      ]
+    },
+    {
+      "heading": "Parliamentary Career",
+      "paragraphs": [
+        "In the 2019 Ukrainian parliamentary election, Viatrovych was placed 25th on the election list of European Solidarity. Following the resignation of Iryna Lutsenko, he was sworn in as a People's Deputy of Ukraine on 3 December 2019. He later ran for the [[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]] Council in the 2020 local elections but did not assume his seat."
+      ]
+    },
+    {
+      "heading": "Controversies and Criticism",
+      "paragraphs": [
+        "Viatrovych has faced criticism for his historical interpretations, particularly regarding the actions of Ukrainian nationalists during World War II. His works have been accused of whitewashing nationalist crimes, including the portrayal of the [[volhynia|Volhynia]] massacres as mutual conflict rather than ethnic cleansing.",
+        "His approach to historical narratives has sparked debates among historians, with some accusing him of distorting history to exonerate Ukrainian nationalist figures."
+      ]
+    },
+    {
+      "heading": "Awards",
+      "paragraphs": [
+        "Viatrovych has received several accolades, including the Cross of [[ivan-mazepa|Ivan Mazepa]] in 2009 for his work at the Security Service of Ukraine and the [[vasyl-stus|Vasyl Stus]] Prize in 2012 for his book 'History marked 'Classified Material', published in 2011."
+      ]
+    }
+  ],
+  "links_out": [
+    "decommunization-in-ukraine",
+    "euromaidan",
+    "history-of-ukraine",
+    "holodomor",
+    "ivan-mazepa",
+    "ivano-frankivsk-oblast",
+    "kyiv",
+    "lviv",
+    "lviv-oblast",
+    "lviv-university",
+    "orange-revolution",
+    "petro-poroshenko",
+    "security-service-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-institute-of-national-remembrance",
+    "ukrainian-insurgent-army",
+    "vasyl-stus",
+    "verkhovna-rada",
+    "volhynia"
+  ],
+  "sources": [
+    {
+      "title": "Volodymyr Viatrovych — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Volodymyr_Viatrovych",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

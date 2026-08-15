@@ -71,7 +71,7 @@
     {
       "heading": "Economic Significance",
       "paragraphs": [
-        "Drohobych is part of the Drohobych-Boryslav industrial area, recognized as the oldest and most significant oil basin [[coal-in-ukraine|in Ukraine]]. The oil industry began in the 1850s, with a major refinery established in 1909, which was one of the largest in Europe before World War II. Currently, the city hosts various industries, including saltworks, oil refineries, and food processing."
+        "Drohobych is part of the Drohobych-[[boryslav|Boryslav]] industrial area, recognized as the oldest and most significant oil basin [[coal-in-ukraine|in Ukraine]]. The oil industry began in the 1850s, with a major refinery established in 1909, which was one of the largest in Europe before World War II. Currently, the city hosts various industries, including saltworks, oil refineries, and food processing."
       ]
     },
     {
@@ -89,6 +89,7 @@
     }
   ],
   "links_out": [
+    "boryslav",
     "coal-in-ukraine",
     "independent-ukraine",
     "ivan-franko",

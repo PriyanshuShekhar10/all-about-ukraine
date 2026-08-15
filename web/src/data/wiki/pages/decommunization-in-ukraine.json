@@ -1,0 +1,80 @@
+{
+  "qid": "Q19801088",
+  "slug": "decommunization-in-ukraine",
+  "title": "decommunization in Ukraine",
+  "type": "aspect in a geographic region",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "aspect in a geographic region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Decommunization in Ukraine refers to the process of removing communist symbols, monuments, and names from public spaces, which began in the early 1990s and intensified after the 2014 Revolution of Dignity and the onset of the Russo-Ukrainian War. This movement aimed to reject totalitarian ideologies and reshape the national identity of Ukraine.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The decommunization process [[coal-in-ukraine|in Ukraine]] unofficially commenced following the dissolution of [[soviet-union|the Soviet Union]] in 1991, coinciding with [[ukraine|Ukraine]]'s independence. Initial efforts were slow and less aggressive compared to other former Soviet states, particularly in the Baltic region.",
+        "[[leonid-kravchuk|Leonid Kravchuk]], Ukraine's first president post-independence, issued orders for 'de-sovietisation' in the early 1990s. However, significant reforms were delayed, with various proposals for decommunization laws introduced in the [[verkhovna-rada|Ukrainian parliament]] from 2002 to 2013 but none successfully passed."
+      ]
+    },
+    {
+      "heading": "Legislative Reforms Post-2014",
+      "paragraphs": [
+        "Following the 2014 [[revolution-of-dignity|Revolution of Dignity]], the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] enacted laws to ban communist and Nazi symbols, recognizing both as totalitarian ideologies. On 15 May 2015, President [[petro-poroshenko|Petro Poroshenko]] signed laws initiating a six-month period for the removal of Soviet monuments and renaming public places associated with Soviet figures.",
+        "By 21 November 2015, local governments were required to implement these changes, with the Cabinet of Ministers authorized to rename any settlements that retained their old names after the deadline."
+      ]
+    },
+    {
+      "heading": "Implementation and Impact",
+      "paragraphs": [
+        "As of 2016, a total of 51,493 streets and 987 cities and villages had undergone renaming, along with the removal of 1,320 Lenin monuments and 1,069 other communist figures. The decommunization laws also included the prohibition of various Soviet symbols and imagery.",
+        "In the context of the ongoing Russo-[[ukrainian|Ukrainian]] conflict, allegations arose that the Communist Party of Ukraine supported pro-Russian separatists, leading to the banning of several communist parties by December 2015."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "During the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], further actions were taken to dismantle Soviet-era symbols, including the removal of a significant statue in [[kyiv|Kyiv]] in April 2022. In August 2023, the Soviet emblem was replaced at the [[mother-ukraine-monument|Motherland Monument]], coinciding with Ukraine's Independence Day.",
+        "On 24 October 2023, [[volodymyr-zelenskyy|President Volodymyr Zelenskyy]] signed Law No. 8263, aimed at furthering the de-Sovietization of Ukraine's administrative and territorial system."
+      ]
+    },
+    {
+      "heading": "Criticism and Reception",
+      "paragraphs": [
+        "The decommunization laws have faced criticism for potentially infringing on freedom of expression and civil society participation, as noted by the OSCE and the Venice Commission. Concerns were raised about the criminalization of pro-communist views and the implications for political discourse in Ukraine.",
+        "Russian officials have condemned the laws, equating the banning of communist symbols with the prohibition of Nazi symbols, and have threatened to revert name changes if territories are regained."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "coal-in-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "leonid-kravchuk",
+    "mother-ukraine-monument",
+    "petro-poroshenko",
+    "revolution-of-dignity",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "Decommunization in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Decommunization_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}

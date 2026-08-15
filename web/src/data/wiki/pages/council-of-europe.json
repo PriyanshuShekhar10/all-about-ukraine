@@ -1,0 +1,88 @@
+{
+  "qid": "Q8908",
+  "slug": "council-of-europe",
+  "title": "Council of Europe",
+  "type": "intergovernmental organization",
+  "category": "politics",
+  "aliases": [
+    "CoE"
+  ],
+  "infobox": {
+    "label": "intergovernmental organization",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1949-05-05",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "France",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Palace of Europe",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.5949, 7.7719",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Council of Europe (CoE) is an intergovernmental organization founded in 1949, dedicated to promoting human rights, democracy, and the rule of law across Europe. With 46 member states, including Ukraine, the CoE plays a vital role in fostering cooperation and safeguarding fundamental freedoms.",
+  "sections": [
+    {
+      "heading": "Overview and Structure",
+      "paragraphs": [
+        "The Council of Europe, known in French as Conseil de l'Europe, is the oldest intergovernmental organization in Europe, established to uphold human rights, democracy, and the rule of law. It comprises 46 member states and operates with an annual budget of 656 million euros. The organization is recognized as an official observer at the United Nations.",
+        "The Council is distinct from the European Union, although both organizations share common symbols and values. No country has joined the EU without first being a member of the Council of Europe, highlighting the interconnectedness of these institutions."
+      ]
+    },
+    {
+      "heading": "Founding and Historical Context",
+      "paragraphs": [
+        "The Council of Europe was founded on 5 May 1949, following discussions initiated by political leaders such as French Foreign Minister Aristide Briand and British Prime Minister Winston Churchill. The founding Statute emphasized democracy, human rights, and the rule of law as guiding principles.",
+        "Initially composed of ten Western European states, the Council expanded to include countries from [[eastern-europe|Eastern Europe]] after the end of the Cold War, with [[ukraine|Ukraine]] joining in 1991 following its independence from [[soviet-union|the Soviet Union]]."
+      ]
+    },
+    {
+      "heading": "Key Bodies and Functions",
+      "paragraphs": [
+        "The Council of Europe consists of two main statutory bodies: the Committee of Ministers, which includes the foreign ministers of member states, and the [[parliamentary-assembly-of-the-council-of-europe|Parliamentary Assembly of the Council of Europe]] (PACE), comprising members from national parliaments. The organization also includes the Commissioner for Human Rights, who promotes awareness and respect for human rights.",
+        "The European Court of Human Rights, a prominent institution of the Council, adjudicates on alleged violations of the European Convention on Human Rights (ECHR), which is a cornerstone of the Council's work."
+      ]
+    },
+    {
+      "heading": "Achievements and Impact",
+      "paragraphs": [
+        "The Council of Europe's most significant achievement is the European Convention on Human Rights, adopted in 1950. This treaty established the European Court of Human Rights, which holds member states accountable for human rights violations.",
+        "Ukraine's involvement in the Council of Europe has been crucial for its commitment to democratic values and human rights, particularly in the context of ongoing challenges to these principles within the country."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "In 2022, Russia became the first country to be expelled from the Council of Europe following its [[full-scale-russo-ukrainian-war|invasion of Ukraine]], marking a significant moment in the organization's history and underscoring its commitment to upholding the principles of democracy and human rights."
+      ]
+    }
+  ],
+  "links_out": [
+    "eastern-europe",
+    "full-scale-russo-ukrainian-war",
+    "parliamentary-assembly-of-the-council-of-europe",
+    "soviet-union",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Council of Europe — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Council_of_Europe",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-15",
+  "status": "published"
+}
