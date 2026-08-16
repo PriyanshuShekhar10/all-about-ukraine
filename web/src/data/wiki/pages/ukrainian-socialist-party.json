@@ -1,0 +1,52 @@
+{
+  "qid": "Q12163740",
+  "slug": "ukrainian-socialist-party",
+  "title": "Ukrainian Socialist Party",
+  "type": "Wikimedia disambiguation page",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "The Ukrainian Socialist Party refers to several political entities from the 20th century, each contributing to the political landscape of Ukraine. Notably, it includes parties established in 1900 and 1950, as well as the Socialist Party of Ukraine founded in 1991.",
+  "sections": [
+    {
+      "heading": "Historical Parties",
+      "paragraphs": [
+        "The Ukrainian Socialist Party established in 1900 was one of the early political movements advocating for socialism [[coal-in-ukraine|in Ukraine]] during a period of significant social and political change.",
+        "Another iteration of the Ukrainian Socialist Party was formed in 1950, reflecting the ongoing evolution of socialist ideologies in the context of [[ukraine|Ukraine]]'s political history."
+      ]
+    },
+    {
+      "heading": "Socialist Party of Ukraine",
+      "paragraphs": [
+        "The Socialist Party of Ukraine, a social-democratic party, was founded in 1991, marking a significant development in post-[[ukrainian-soviet-socialist-republic|Soviet Ukraine]]'s political environment.",
+        "This party aimed to represent socialist values within the new political framework of an [[independent-ukraine|independent Ukraine]], contributing to the country's democratic processes."
+      ]
+    },
+    {
+      "heading": "Significance in Ukrainian Politics",
+      "paragraphs": [
+        "The various [[ukrainian|Ukrainian]] Socialist Parties illustrate the diverse ideological currents that have influenced Ukraine's political evolution throughout the 20th century.",
+        "These parties have played a role in shaping the discourse around socialism and social democracy in Ukraine, particularly in the context of its independence and democratic development."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "independent-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Socialist Party — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Socialist_Party",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

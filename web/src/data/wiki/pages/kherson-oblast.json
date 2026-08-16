@@ -58,9 +58,9 @@
     {
       "heading": "Geography",
       "paragraphs": [
-        "Kherson Oblast is bordered by [[dnipropetrovsk-oblast|Dnipropetrovsk Oblast]] to the north, the Black Sea and [[crimea|Crimea]] to the south, [[mykolaiv-oblast|Mykolaiv Oblast]] to the west, and the Azov Sea and [[zaporizhzhia-oblast|Zaporizhzhia Oblast]] to the east. The [[dnieper|Dnieper River]], along with the Kakhovka Reservoir, flows through the region.",
+        "Kherson Oblast is bordered by [[dnipropetrovsk-oblast|Dnipropetrovsk Oblast]] to the north, the Black Sea and [[crimean-khanate|Crimea]] to the south, [[mykolaiv-oblast|Mykolaiv Oblast]] to the west, and the Azov Sea and [[zaporizhzhia-oblast|Zaporizhzhia Oblast]] to the east. The [[dnieper|Dnieper River]], along with the Kakhovka Reservoir, flows through the region.",
         "Before the 2022 Russian invasion, the oblast was connected by two bridges across the Dnieper: the Kakhovka Bridge near Nova Kakhovka and the Antonivka Road Bridge at [[kherson|Kherson]]. The Daryivka Bridge also plays a crucial role in connecting Kherson to Beryslav via the M14 highway.",
-        "The [[henichesk|Henichesk]] Raion of Kherson Oblast includes the northern section of the Arabat Spit, which is geographically part of the Crimean Peninsula. This area was the only part of Crimea under [[ukrainian|Ukrainian]] control prior to the 2022 invasion."
+        "The [[henichesk|Henichesk]] Raion of Kherson Oblast includes the northern section of the Arabat Spit, which is geographically part of the [[crimea|Crimean Peninsula]]. This area was the only part of Crimea under [[ukrainian|Ukrainian]] control prior to the 2022 invasion."
       ]
     },
     {
@@ -97,6 +97,7 @@
   ],
   "links_out": [
     "crimea",
+    "crimean-khanate",
     "dnieper",
     "dnipropetrovsk-oblast",
     "henichesk",

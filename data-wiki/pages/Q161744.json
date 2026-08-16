@@ -1,0 +1,81 @@
+{
+  "qid": "Q161744",
+  "slug": "shche-ne-vmerla-ukrainy-i-slava-i-volia",
+  "title": "Shche ne vmerla Ukrainy i slava, i volia",
+  "type": "national anthem",
+  "category": "politics",
+  "aliases": [
+    "Shche ne vmerla Ukraina",
+    "Shche ne vmerla Ukrainy ni slava, ni volia",
+    "State anthem of Ukraine",
+    "Павло Чубинський",
+    "Павло́ Плато́нович Чуби́нський"
+  ],
+  "infobox": {
+    "label": "national anthem",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1918",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The State Anthem of Ukraine, known by its incipit 'Shche ne vmerla Ukrainy i slava, i volia', is a significant symbol of Ukrainian national identity and pride. The anthem's lyrics, composed by Pavlo Chubynskyi in 1862, were set to music by Mykhailo Verbytskyi in 1863, and it was officially adopted as the national anthem in 1992.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The origins of the [[ukrainian|Ukrainian]] national anthem can be traced back to a gathering of Ukrainian ethnographer Pavlo Chubynskyi in 1862. Influenced by Polish patriotic themes, Chubynskyi's lyrics were inspired by a performance of Serbian songs. The poem was first published in 1863, mistakenly attributed to [[taras-shevchenko|Taras Shevchenko]], and gained popularity in [[western-ukraine|Western Ukraine]].",
+        "Mykhailo Verbytskyi, a composer from the [[ukrainian-greek-catholic-church|Ukrainian Greek Catholic Church]], set Chubynskyi's lyrics to music, with the first public choral performance occurring in 1864 at the Ruska Besida Theatre in [[lviv|Lviv]]."
+      ]
+    },
+    {
+      "heading": "Adoption and Early Use",
+      "paragraphs": [
+        "The anthem was adopted by the [[ukrainian-peoples-republic|Ukrainian People's Republic]] in 1917, though it was not legislatively established as the sole national anthem until later. During the Soviet era, the anthem faced bans and was suppressed to diminish nationalist sentiments, although it was briefly recognized as the anthem of Carpatho-[[ukraine|Ukraine]] in 1939."
+      ]
+    },
+    {
+      "heading": "Post-Independence Developments",
+      "paragraphs": [
+        "On 15 January 1992, 'Shche ne vmerla Ukrainy' was officially adopted as the state anthem of Ukraine by the parliament. The lyrics were formally recognized on 6 March 2003, with modifications to the original text. The law passed with a significant majority, affirming the anthem's importance in the national identity.",
+        "The anthem gained renewed significance during the [[orange-revolution|Orange Revolution]] in 2004 and the [[euromaidan|Euromaidan]] protests in 2013, where it became a rallying cry for demonstrators."
+      ]
+    },
+    {
+      "heading": "Cultural Impact and Modern Significance",
+      "paragraphs": [
+        "The anthem has been a symbol of resistance and national pride, especially during the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]]. It has been performed by various orchestras worldwide in [[european-solidarity|solidarity]] with Ukraine. The anthem's themes resonate deeply with the Ukrainian struggle for sovereignty and self-identity.",
+        "Notable arrangements and performances have included interpretations by various artists, reflecting its enduring relevance in Ukrainian culture."
+      ]
+    }
+  ],
+  "links_out": [
+    "euromaidan",
+    "european-solidarity",
+    "full-scale-russo-ukrainian-war",
+    "lviv",
+    "orange-revolution",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-greek-catholic-church",
+    "ukrainian-peoples-republic",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "National anthem of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_anthem_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

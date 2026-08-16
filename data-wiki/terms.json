@@ -9576,5 +9576,574 @@
     "aliases": [],
     "notability": 13,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q4195890",
+    "slug": "ivano-frankivsk-national-medical-university",
+    "name": "Ivano-Frankivsk National Medical University",
+    "wp_title": "Ivano-Frankivsk National Medical University",
+    "type": "university",
+    "category": "geography",
+    "aliases": [
+      "National Medical University, Ivano-Frankivsk"
+    ],
+    "notability": 11,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1980701",
+    "slug": "kharkiv-national-university-of-radioelectronics",
+    "name": "Kharkiv National University of Radioelectronics",
+    "wp_title": "Kharkiv National University of Radio Electronics",
+    "type": "university",
+    "category": "geography",
+    "aliases": [
+      "Kharkiv National University of Radio Electronics",
+      "Kharkiv State University of Radio Electronics",
+      "Kharkiv Technical University of Radioelectronics",
+      "NURE"
+    ],
+    "notability": 15,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4320476",
+    "slug": "mykolayiv-state-agrarian-university",
+    "name": "Mykolayiv State Agrarian University",
+    "wp_title": "Mykolaiv National Agrarian University",
+    "type": "college",
+    "category": "geography",
+    "aliases": [
+      "MNAU",
+      "Mykolaiv National Agrarian University"
+    ],
+    "notability": 7,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1321012",
+    "slug": "shatsk-national-natural-park",
+    "name": "Shatsk National Natural Park",
+    "wp_title": "Shatsk National Natural Park",
+    "type": "national nature park",
+    "category": "geography",
+    "aliases": [
+      "Shatsk National Nature Park",
+      "Shatsky National Natural Park",
+      "Shatskyi National Nature Park",
+      "Shatskyi natsionalnyi pryrodnyi park"
+    ],
+    "notability": 17,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q112798358",
+    "slug": "krymske",
+    "name": "Krymske",
+    "wp_title": "Krymske",
+    "type": "Wikimedia list article",
+    "category": "geography",
+    "aliases": [],
+    "notability": 1,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q816163",
+    "slug": "belovodskoye",
+    "name": "Belovodskoye",
+    "wp_title": "Belovodskoye",
+    "type": "village",
+    "category": "geography",
+    "aliases": [],
+    "notability": 16,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2399843",
+    "slug": "soledar",
+    "name": "Soledar",
+    "wp_title": "Soledar",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 46,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q7792",
+    "slug": "sakhalin",
+    "name": "Sakhalin",
+    "wp_title": "Sakhalin",
+    "type": "island",
+    "category": "geography",
+    "aliases": [
+      "Karafuto",
+      "Kuye",
+      "Saghalien",
+      "Saghalien I.",
+      "Saghalien Is.",
+      "Saghalien Island",
+      "Sakhalin I.",
+      "Sakhalin Is.",
+      "Sakhalin Island"
+    ],
+    "notability": 116,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q33280",
+    "slug": "lysychansk",
+    "name": "Lysychansk",
+    "wp_title": "Lysychansk",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Lisichansk"
+    ],
+    "notability": 69,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q33613",
+    "slug": "kramatorsk",
+    "name": "Kramatorsk",
+    "wp_title": "Kramatorsk",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 75,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q246798",
+    "slug": "novomoskovsk",
+    "name": "Novomoskovsk",
+    "wp_title": "Novomoskovsk",
+    "type": "Wikimedia disambiguation page",
+    "category": "geography",
+    "aliases": [],
+    "notability": 31,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q6526213",
+    "slug": "pervomaisk",
+    "name": "Pervomaisk",
+    "wp_title": "Pervomaysk",
+    "type": "Wikimedia disambiguation page",
+    "category": "geography",
+    "aliases": [],
+    "notability": 24,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2416423",
+    "slug": "vuhledar",
+    "name": "Vuhledar",
+    "wp_title": "Vuhledar",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Ugledar"
+    ],
+    "notability": 44,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q582033",
+    "slug": "zolote",
+    "name": "Zolote",
+    "wp_title": "Zolote",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Zolotoye"
+    ],
+    "notability": 37,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q310328",
+    "slug": "andriy-yarmolenko",
+    "name": "Andriy Yarmolenko",
+    "wp_title": "Andriy Yarmolenko",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Andriy Mykolayovych Yarmolenko"
+    ],
+    "notability": 53,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q713439",
+    "slug": "artem-dzyuba",
+    "name": "Artem Dzyuba",
+    "wp_title": "Artem Dzyuba",
+    "type": "human",
+    "category": "people",
+    "aliases": [],
+    "notability": 58,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q23055386",
+    "slug": "eurovision-song-contest-2017",
+    "name": "Eurovision Song Contest 2017",
+    "wp_title": "Eurovision Song Contest 2017",
+    "type": "Eurovision Song Contest edition",
+    "category": "people",
+    "aliases": [
+      "ESC 2017",
+      "Eurovision 2017"
+    ],
+    "notability": 72,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q8031226",
+    "slug": "women-in-ukraine",
+    "name": "Women in Ukraine",
+    "wp_title": "Women in Ukraine",
+    "type": "aspect in a geographic region",
+    "category": "people",
+    "aliases": [],
+    "notability": 20,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4349891",
+    "slug": "european-solidarity",
+    "name": "European Solidarity",
+    "wp_title": "European Solidarity",
+    "type": "political party",
+    "category": "people",
+    "aliases": [
+      "All-Ukrainian Party of Peace and Unity",
+      "All-Ukrainian Union Solidarity",
+      "National Alliance of Freedom and Ukrainian patriotism \"OFFENSIVE\"",
+      "Petro Poroshenko Bloc",
+      "Solidarity"
+    ],
+    "notability": 33,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4220114",
+    "slug": "kyiv-music-fest",
+    "name": "Kyiv Music Fest",
+    "wp_title": "Kyiv Music Fest",
+    "type": "music festival",
+    "category": "culture",
+    "aliases": [],
+    "notability": 26,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1231652",
+    "slug": "pavlovo",
+    "name": "Pavlovo",
+    "wp_title": "Pavlovo",
+    "type": "Wikimedia disambiguation page",
+    "category": "culture",
+    "aliases": [
+      "Pawłowo"
+    ],
+    "notability": 19,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q746631",
+    "slug": "pysanka-museum",
+    "name": "Pysanka Museum",
+    "wp_title": "Pysanka Museum",
+    "type": "art museum",
+    "category": "culture",
+    "aliases": [],
+    "notability": 19,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q763787",
+    "slug": "baryshivska-hromada",
+    "name": "Baryshivska Hromada",
+    "wp_title": "Baryshivka",
+    "type": "urban-type settlement in Ukraine",
+    "category": "economy",
+    "aliases": [
+      "Baryshevka"
+    ],
+    "notability": 26,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q280791",
+    "slug": "hryshko-national-botanical-garden",
+    "name": "Hryshko National Botanical Garden",
+    "wp_title": "Hryshko National Botanical Garden",
+    "type": "protected area",
+    "category": "economy",
+    "aliases": [
+      "M. M. Hryshko National Botanical Garden",
+      "M.M. Gryshko National Botanical Garden"
+    ],
+    "notability": 15,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q156724",
+    "slug": "kremenchuk",
+    "name": "Kremenchuk",
+    "wp_title": "Kremenchuk",
+    "type": "city of regional significance of Ukraine",
+    "category": "economy",
+    "aliases": [
+      "Kremenchug",
+      "Kremenchûg",
+      "Krementschug",
+      "Krzemieńczuk"
+    ],
+    "notability": 81,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q952457",
+    "slug": "nizhyn",
+    "name": "Nizhyn",
+    "wp_title": "Nizhyn",
+    "type": "city of regional significance of Ukraine",
+    "category": "economy",
+    "aliases": [
+      "Nezhin",
+      "Nyzhen",
+      "Nyzhenʹ"
+    ],
+    "notability": 58,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q237206",
+    "slug": "pavlohrad",
+    "name": "Pavlohrad",
+    "wp_title": "Pavlohrad",
+    "type": "city of regional significance of Ukraine",
+    "category": "economy",
+    "aliases": [
+      "Pavlograd"
+    ],
+    "notability": 58,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q997512",
+    "slug": "sarny",
+    "name": "Sarny",
+    "wp_title": "Sarny",
+    "type": "city in Ukraine",
+    "category": "economy",
+    "aliases": [],
+    "notability": 43,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1011435",
+    "slug": "svitlovodsk",
+    "name": "Svitlovodsk",
+    "wp_title": "Svitlovodsk",
+    "type": "city in Ukraine",
+    "category": "economy",
+    "aliases": [
+      "Svitlovodske"
+    ],
+    "notability": 46,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q17379896",
+    "slug": "2015-ukrainian-local-elections",
+    "name": "2015 Ukrainian local elections",
+    "wp_title": "2015 Ukrainian local elections",
+    "type": "municipal election",
+    "category": "politics",
+    "aliases": [],
+    "notability": 4,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q161744",
+    "slug": "shche-ne-vmerla-ukrainy-i-slava-i-volia",
+    "name": "Shche ne vmerla Ukrainy i slava, i volia",
+    "wp_title": "National anthem of Ukraine",
+    "type": "national anthem",
+    "category": "politics",
+    "aliases": [
+      "Shche ne vmerla Ukraina",
+      "Shche ne vmerla Ukrainy ni slava, ni volia",
+      "State anthem of Ukraine",
+      "Павло Чубинський",
+      "Павло́ Плато́нович Чуби́нський"
+    ],
+    "notability": 98,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q19697493",
+    "slug": "burgerinitiatief",
+    "name": "Burgerinitiatief",
+    "wp_title": "Citizens' Initiative",
+    "type": "Wikimedia disambiguation page",
+    "category": "politics",
+    "aliases": [
+      "Citizens' Initiative"
+    ],
+    "notability": 2,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q190704",
+    "slug": "central-rada",
+    "name": "Central Rada",
+    "wp_title": "Central Rada",
+    "type": "parliament",
+    "category": "politics",
+    "aliases": [],
+    "notability": 31,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q12163740",
+    "slug": "ukrainian-socialist-party",
+    "name": "Ukrainian Socialist Party",
+    "wp_title": "Ukrainian Socialist Party",
+    "type": "Wikimedia disambiguation page",
+    "category": "politics",
+    "aliases": [],
+    "notability": 2,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1859524",
+    "slug": "viktor-medvedchuk",
+    "name": "Viktor Medvedchuk",
+    "wp_title": "Viktor Medvedchuk",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "Medvedchuk Victor Vladimirovich",
+      "Viktor Volodymyrovych Medvedchuk"
+    ],
+    "notability": 38,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4189249",
+    "slug": "battle-of-zboriv",
+    "name": "Battle of Zboriv",
+    "wp_title": "Battle of Zboriv",
+    "type": "Wikimedia disambiguation page",
+    "category": "history",
+    "aliases": [],
+    "notability": 5,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q3493453",
+    "slug": "borysthenes",
+    "name": "Borysthenes",
+    "wp_title": "Borysthenes",
+    "type": "Potamoi",
+    "category": "history",
+    "aliases": [],
+    "notability": 10,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q5174693",
+    "slug": "cossackia",
+    "name": "Cossackia",
+    "wp_title": "Cossackia",
+    "type": "topic",
+    "category": "history",
+    "aliases": [
+      "Kazakia",
+      "Kozakia",
+      "Krayna kozakiv",
+      "Land of cossacks",
+      "Southruthenia",
+      "Strana kazakov",
+      "Yugorossia"
+    ],
+    "notability": 6,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q160440",
+    "slug": "crimean-khanate",
+    "name": "Crimean Khanate",
+    "wp_title": "Crimean Khanate",
+    "type": "historical country",
+    "category": "history",
+    "aliases": [
+      "Crimea",
+      "Khanate of the Crimea",
+      "Kuban Tartary",
+      "Little Tartaria"
+    ],
+    "notability": 87,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q320935",
+    "slug": "nestor-the-chronicler",
+    "name": "Nestor the Chronicler",
+    "wp_title": "Nestor the Chronicler",
+    "type": "human",
+    "category": "history",
+    "aliases": [
+      "Nestor litopysets",
+      "Nestor of Kiev"
+    ],
+    "notability": 53,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q162858",
+    "slug": "sarmatians",
+    "name": "Sarmatians",
+    "wp_title": "Sarmatians",
+    "type": "historical ethnic group",
+    "category": "history",
+    "aliases": [
+      "Sarmatae",
+      "Sarmatai",
+      "Sarmats"
+    ],
+    "notability": 79,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q161448",
+    "slug": "gulag",
+    "name": "Gulag",
+    "wp_title": "Gulag",
+    "type": "government agency",
+    "category": "war",
+    "aliases": [
+      "Correctional Labour Camps",
+      "Main Directorate of Correctional Labour Camps"
+    ],
+    "notability": 88,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q7086289",
+    "slug": "oleksandr-vysotskyi",
+    "name": "Oleksandr Vysotskyi",
+    "wp_title": "Oleksandr Vysotskyi",
+    "type": "human",
+    "category": "war",
+    "aliases": [],
+    "notability": 5,
+    "status": "synthesized"
   }
 ]

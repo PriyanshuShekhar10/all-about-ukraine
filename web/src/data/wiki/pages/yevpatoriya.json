@@ -44,13 +44,13 @@
       }
     ]
   },
-  "summary": "Yevpatoriya is a city located in western [[crimea|Crimea]], north of Kalamita Bay, serving as the administrative center of Yevpatoria Municipality. As of the 2014 Census, it had a population of 105,719 and is recognized for its historical significance and contemporary role as a resort town within the context of [[ukraine|Ukraine]].",
+  "summary": "Yevpatoriya is a city located in western Crimea, north of Kalamita Bay, serving as the administrative center of Yevpatoria Municipality. As of the 2014 Census, it had a population of 105,719 and is recognized for its historical significance and contemporary role as a resort town within the context of [[ukraine|Ukraine]].",
   "sections": [
     {
       "heading": "Historical Background",
       "paragraphs": [
         "The area now known as Yevpatoriya was first settled by Greek colonists around 500 BCE, originally named Kerkinitis. This settlement later came under the control of King Mithridates VI Eupator, from whom the modern name Yevpatoriya is derived.",
-        "From the 7th to the 10th centuries, the city was a Khazar settlement known as Güzliev. It subsequently fell under the influence of the Cumans, Mongols, and the Crimean Khanate, during which it was referred to as Kezlev by [[crimean-tatars|Crimean Tatars]] and Gözleve by Ottoman Turks."
+        "From the 7th to the 10th centuries, the city was a Khazar settlement known as Güzliev. It subsequently fell under the influence of the Cumans, Mongols, and the [[crimean-khanate|Crimean Khanate]], during which it was referred to as Kezlev by [[crimean-tatars|Crimean Tatars]] and Gözleve by Ottoman Turks."
       ]
     },
     {
@@ -83,7 +83,7 @@
     }
   ],
   "links_out": [
-    "crimea",
+    "crimean-khanate",
     "crimean-tatars",
     "crimean-war",
     "president-of-ukraine",

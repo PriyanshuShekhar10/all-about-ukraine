@@ -1,0 +1,54 @@
+{
+  "qid": "Q3493453",
+  "slug": "borysthenes",
+  "title": "Borysthenes",
+  "type": "Potamoi",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "Potamoi",
+    "fields": []
+  },
+  "summary": "Borysthenes is a term from classical antiquity that primarily denotes the Dnieper River and its associated river deity, as well as an alternate name for the ancient town of Pontic Olbia located near the river's mouth on the Black Sea coast. This geographical name highlights the historical significance of the Dnieper River in the context of [[ukraine|Ukraine]].",
+  "sections": [
+    {
+      "heading": "Geographical Significance",
+      "paragraphs": [
+        "Borysthenes is often identified with the [[dnieper|Dnieper River]], which is one of the major rivers [[coal-in-ukraine|in Ukraine]]. The river has been recognized for its ecological and agricultural richness, providing fertile grounds for crops and abundant fish, as noted by the Greek historian Herodotus."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Herodotus describes Borysthenes in his Histories, emphasizing its value as the second largest of the [[scythians|Scythian]] rivers and its exceptional resources. The river is depicted as a source of excellent drinking water and fertile land, crucial for the development of early settlements in the region."
+      ]
+    },
+    {
+      "heading": "Cultural References",
+      "paragraphs": [
+        "In Greek mythology, Borysthenes is associated with the birth of the nymph Borysthenis and Thoas, a king of the Taurians, linking the river to local legends and cultural narratives. Additionally, the river is referenced in Edward Gibbon's The History of the Decline and Fall of the Roman Empire, indicating its historical importance as a trade route to the Black Sea."
+      ]
+    },
+    {
+      "heading": "Roman Influence",
+      "paragraphs": [
+        "The Roman emperor Hadrian (A.D. 76–138) commemorated his horse named Borysthenes, which illustrates the river's prominence in Roman culture and its connection to the broader historical narrative of the region."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "dnieper",
+    "scythians",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Borysthenes — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Borysthenes",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

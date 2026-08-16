@@ -1,0 +1,103 @@
+{
+  "qid": "Q1011435",
+  "slug": "svitlovodsk",
+  "title": "Svitlovodsk",
+  "type": "city in Ukraine",
+  "category": "economy",
+  "aliases": [
+    "Svitlovodske"
+  ],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1954",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "45,312",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "45",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "126",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.0833, 33.2500",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Svitlovodsk is a city situated on the Dnieper River in Oleksandriia Raion, Kirovohrad Oblast, [[ukraine|Ukraine]]. It serves as the administrative center of the Svitlovodsk urban hromada and has an estimated population of approximately 43,130 as of 2022.",
+  "sections": [
+    {
+      "heading": "Administrative Status",
+      "paragraphs": [
+        "Prior to 18 July 2020, Svitlovodsk was classified as a city of oblast significance and was part of the Svitlovodsk Municipality. It functioned as the administrative center of Svitlovodsk Raion, despite not being part of the raion. Following the administrative reforms [[coal-in-ukraine|in Ukraine]], which reduced the number of raions in [[kirovohrad-oblast|Kirovohrad Oblast]] to four, Svitlovodsk Municipality was incorporated into Oleksandriia Raion."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Svitlovodsk was established in the 1950s during the Soviet era to replace Novogeorgievsk, a city located in the floodplain of the dam for the [[kremenchuk|Kremenchuk]] Hydroelectric Power Plant, intended to accommodate the dam workers. Initially named Khruschev for two years, the city was later renamed KremHES after a visit from [[nikita-khrushchev|Nikita Khrushchev]] in 1962. The hydroelectric power plant was crucial for the production of industry-grade metals and alloys for defense purposes and remained a secret facility for several years, now operating as a private enterprise.",
+        "Upon the completion of the dam, Khrushchev participated in the opening ceremonies, and the city expanded westward along the riverbank. Svitlovodsk is culturally divided into Old Svitlovodsk and New Svitlovodsk."
+      ]
+    },
+    {
+      "heading": "Geography and Climate",
+      "paragraphs": [
+        "Svitlovodsk is located on the banks of the [[dnieper|Dnieper River]], which plays a significant role in the city's geography and development. The climate of the region contributes to the city's living conditions and agricultural potential, although specific climatic details are not provided."
+      ]
+    },
+    {
+      "heading": "Transportation",
+      "paragraphs": [
+        "Transportation within Svitlovodsk is mainly facilitated by privately operated bus lines, including mini-buses, alongside main bus services. A bus station is situated on the eastern side of the city, with an additional bus depot located near the dam. A train service operates along the dam, providing access to nearby villages."
+      ]
+    },
+    {
+      "heading": "Highlights and Notable People",
+      "paragraphs": [
+        "Key landmarks in Svitlovodsk include the town hall located in Old Svitlovodsk, the eternal fire memorial, and a market situated in New Svitlovodsk, which features two monuments and a series of water fountains. The city is recognized as the birthplace of notable figures such as Soviet cosmonaut Yuri Malenchenko and [[ukrainian|Ukrainian]] politician Mykola Martynenko."
+      ]
+    },
+    {
+      "heading": "Twin Towns",
+      "paragraphs": [
+        "As of 2023, Svitlovodsk is twinned with Schorndorf, Germany, fostering international relations and cultural exchange."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "dnieper",
+    "kirovohrad-oblast",
+    "kremenchuk",
+    "nikita-khrushchev",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Svitlovodsk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Svitlovodsk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

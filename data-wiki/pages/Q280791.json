@@ -1,0 +1,97 @@
+{
+  "qid": "Q280791",
+  "slug": "hryshko-national-botanical-garden",
+  "title": "Hryshko National Botanical Garden",
+  "type": "protected area",
+  "category": "economy",
+  "aliases": [
+    "M. M. Hryshko National Botanical Garden",
+    "M.M. Gryshko National Botanical Garden"
+  ],
+  "infobox": {
+    "label": "protected area",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1983-07-22",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "130",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Location",
+        "value": "Pecherskyi District",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4127, 30.5622",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The M. M. Hryshko National Botanical Garden is a significant botanical garden located in Kyiv, Ukraine, under the auspices of the National Academy of Sciences of Ukraine. Established in 1936, it features a diverse collection of plant species and serves as a popular recreational area for residents and visitors.",
+  "sections": [
+    {
+      "heading": "Overview and History",
+      "paragraphs": [
+        "The M. M. Hryshko National Botanical Garden, named after the Soviet botanist Mykola Hryshko, was founded in 1936 and is situated in [[kyiv|Kyiv]], the capital city of [[ukraine|Ukraine]]. It covers an area of 1.3 km2 (120 hectares) and is managed by the [[national-academy-of-sciences-of-ukraine|National Academy of Sciences of Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Plant Collection and Features",
+      "paragraphs": [
+        "The garden boasts a collection of approximately 13,000 types of trees, shrubs, flowers, and other plants sourced from around the globe. It is particularly noted for its coniferous trees and honey locusts, as well as flowers such as peonies, roses, and magnolias, alongside bushes like lilacs. The garden includes hothouses, conservatories, greenhouses, and rosaries, making it a popular destination for those interested in exotic plants and flower exhibitions."
+      ]
+    },
+    {
+      "heading": "Geographical and Floristic Zones",
+      "paragraphs": [
+        "The territory of the garden is organized into various floristic complexes that represent different regions, including the [[ukrainian-carpathians|Ukrainian Carpathians]], Plains of Ukraine, [[crimean-khanate|Crimea]], Caucasus, Central Asia, Altai, Western [[siberia|Siberia]], and the Far East. Each zone features plants characteristic of its respective area, with the geography and landscape of each territory carefully recreated."
+      ]
+    },
+    {
+      "heading": "Unique Collections",
+      "paragraphs": [
+        "The garden is home to an extensive collection of unique and rare tropical and subtropical plants, prominently displayed in its greenhouse. Among its highlights is a remarkable variety of over 350 species of orchids."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "In 2012, a Korean traditional garden inspired by Changdeok was established within the National Botanical Garden, commemorating the twentieth anniversary of diplomatic relations between Ukraine and the Republic of Korea. This addition highlights the garden's role in fostering international cultural connections."
+      ]
+    },
+    {
+      "heading": "Surrounding Monasteries",
+      "paragraphs": [
+        "The botanical garden is also notable for its proximity to the Vydubychi Monastery and the Trinity Monastery of St. Jonas, both of which are located on its grounds, adding historical and cultural significance to the site."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimean-khanate",
+    "kyiv",
+    "national-academy-of-sciences-of-ukraine",
+    "siberia",
+    "ukraine",
+    "ukrainian-carpathians"
+  ],
+  "sources": [
+    {
+      "title": "Hryshko National Botanical Garden — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hryshko_National_Botanical_Garden",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

@@ -1,0 +1,111 @@
+{
+  "qid": "Q952457",
+  "slug": "nizhyn",
+  "title": "Nizhyn",
+  "type": "city of regional significance of Ukraine",
+  "category": "economy",
+  "aliases": [
+    "Nezhin",
+    "Nyzhen",
+    "Nyzhenʹ"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "0993",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Grand Duchy of Lithuania",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "66,981",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "50",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "121",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Oleksandr Kodola",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "51.0474, 31.8805",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Nizhyn is a city of regional significance located in Chernihiv Oblast, Ukraine, along the Oster River. As of 2022, it has a population of 65,830 and serves as the administrative center of Nizhyn Raion, highlighting its importance within the region.",
+  "sections": [
+    {
+      "heading": "Geographical and Demographic Overview",
+      "paragraphs": [
+        "Nizhyn is situated in northern [[ukraine|Ukraine]], approximately 116 km (72 mi) northeast of [[kyiv|Kyiv]]. It is the administrative center of Nizhyn Raion and is part of the [[chernihiv-oblast|Chernihiv Oblast]]. According to the 2001 [[ukrainian|Ukrainian]] census, Nizhyn had a population of 76,059, making it the second-largest city in Chernihiv Oblast. The population is predominantly Ukrainian, with notable Russian and Belarusian minorities."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "The earliest mention of Nizhyn dates back to 1147, when it was referred to as Unenezh, part of the Principality of [[chernihiv|Chernigov]]. The city faced destruction by Tatars in the 13th century and was later ceded to the Tsardom of Moscow around 1500. Nizhyn regained prominence in the early 17th century and was granted Magdeburg rights in 1625 during the Polish-Lithuanian Commonwealth. It served as the center of the Nizhyn Regiment from 1648 to 1781 and was the site of the significant Black Council of 1663. The city also had a notable Greek community, which established its own brotherhood in 1687.",
+        "Nizhyn became a povit center in the Chernigov Viceroyalty in 1782 and was incorporated into the [[little-russia|Little Russia]] Governorate in 1797. The Bezborodko Lyceum, now Nizhyn Gogol State University, was founded in 1805, producing notable figures such as [[nikolai-gogol|Nikolai Gogol]]. The city's importance as a trading hub diminished in the 19th century, especially after the opening of Black Sea ports."
+      ]
+    },
+    {
+      "heading": "Cultural and Educational Institutions",
+      "paragraphs": [
+        "Nizhyn is recognized for its rich architectural heritage, with over 300 ancient buildings, including seven Baroque churches. The city is home to several educational institutions, including Nizhyn Gogol State University and various colleges, contributing to its reputation as a city of students. The city hosts numerous libraries and museums, such as the Nizhyn Regional Museum, which features a diverse collection of exhibits."
+      ]
+    },
+    {
+      "heading": "Industrial Development",
+      "paragraphs": [
+        "Modern Nizhyn is a significant industrial center, with 16 enterprises across various sectors, including engineering, food production, and light industry. Notable companies include the Nizhyn cannery and JSC 'Nizhyn bread.' The city also had a tram system that operated from 1915 until the mid-1920s."
+      ]
+    },
+    {
+      "heading": "Jewish Community History",
+      "paragraphs": [
+        "Nizhyn was an important center for Hasidic Judaism, housing the tomb of Rabbi Dovber Schneuri of Chabad-Lubavitch. The Jewish population grew significantly in the 19th century, comprising 24% of the population by 1897. However, the community faced severe challenges, including pogroms and the Holocaust during World War II, which decimated the Jewish population."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "In 2020, Nizhyn underwent administrative reform, becoming part of Nizhyn Raion. Following the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in 2022, Nizhyn's twin towns, particularly in the United States, have provided support and established partnerships to aid the city during the ongoing conflict."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernihiv",
+    "chernihiv-oblast",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "little-russia",
+    "nikolai-gogol",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Nizhyn — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nizhyn",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

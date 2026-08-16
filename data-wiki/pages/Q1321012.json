@@ -1,0 +1,92 @@
+{
+  "qid": "Q1321012",
+  "slug": "shatsk-national-natural-park",
+  "title": "Shatsk National Natural Park",
+  "type": "national nature park",
+  "category": "geography",
+  "aliases": [
+    "Shatsk National Nature Park",
+    "Shatsky National Natural Park",
+    "Shatskyi National Nature Park",
+    "Shatskyi natsionalnyi pryrodnyi park"
+  ],
+  "infobox": {
+    "label": "national nature park",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1983-12-28",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "51.5170, 23.8200",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Shatsk National Natural Park is a significant national park in Ukraine, established in 1983 to conserve the unique natural environments of Volyn Polissia. Covering an area of 490 square kilometers, it is home to the Svitiaz Lake, the deepest lake in Ukraine, and a diverse range of flora and fauna, making it an important ecological and recreational area.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Shatsk National Natural Park ([[ukrainian|Ukrainian]]: Шацький національний природний парк) was established in 1983 with the purpose of preserving, restoring, and effectively utilizing the natural complexes and objects of special environmental, recreational, educational, and aesthetic significance in the [[volhynia|Volyn]] [[polesia|Polissia]] region. The park is situated in Kovel Raion, in the northwest of [[volyn-oblast|Volyn Oblast]], and spans an area of 490 square kilometers (190 sq mi), with 188 km2 (73 sq mi) allocated for permanent use. [[lesya-ukrainka|Lesia Ukrainka]] Volyn State University serves as the scientific curator of the park."
+      ]
+    },
+    {
+      "heading": "Lakes and Hydrology",
+      "paragraphs": [
+        "The Shatskyi Lakes group, located within the park, is one of the largest in Europe, comprising over thirty lakes with a total area of nearly 70 square kilometers. Among these, Svitiaz Lake stands out as the deepest lake [[coal-in-ukraine|in Ukraine]], covering 28 square kilometers and reaching a depth of 58 meters (190 ft). The lake holds a water reserve of 310 million cubic meters, with 180.8 million cubic meters contained in Svitiaz itself. The lakes are interconnected by soil-reclamation canals and natural channels, contributing to the hydrological systems of the Baltic and Black seas."
+      ]
+    },
+    {
+      "heading": "Biodiversity",
+      "paragraphs": [
+        "Shatsk National Natural Park boasts a rich biodiversity, with 1,180 plant species from 124 families, including 795 higher vascular plants and 112 bryophytes. The park is home to 332 vertebrate species, including 55 mammals, 241 birds, 7 amphibians, and 29 fish species. The forested areas, which cover 52.5% of the park, predominantly consist of pine and blueberry forests, while lowland areas feature alder and birch forests."
+      ]
+    },
+    {
+      "heading": "Conservation Status",
+      "paragraphs": [
+        "The park's lakes and surrounding lands are recognized under the Ramsar Water and Moor Protection agreement as vital ecological [[administrative-territorial-entity-of-ukraine|areas in Ukraine]]. Shatsk National Natural Park was designated as part of the West [[rivne-oblast|Polesie]] Transboundary Biosphere Reserve by UNESCO on April 30, 2002, highlighting its significance as one of the most valuable natural complexes on Earth. Svitiaz Lake is also celebrated as one of the Seven Natural Wonders of [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Functional Zones",
+      "paragraphs": [
+        "To manage its conservation efforts, the park is divided into four functional zones: a sanctuary zone (10.5%) for the protection of precious natural complexes; a regulated recreation zone (26.5%) for short-term visitor activities; a stationary recreation zone (2.0%) for facilities such as hotels and camps; and an economic zone (61%) that accommodates traditional economic activities while adhering to nature protection requirements."
+      ]
+    },
+    {
+      "heading": "Rare Species",
+      "paragraphs": [
+        "The Green Book of Ukraine lists 14 rare plant communities within the park, including unique pine forests with juniper undergrowth and other rare vegetation types. The park is also home to several rare animal species, contributing to its ecological significance and the need for ongoing conservation efforts."
+      ]
+    }
+  ],
+  "links_out": [
+    "administrative-territorial-entity-of-ukraine",
+    "coal-in-ukraine",
+    "lesya-ukrainka",
+    "polesia",
+    "rivne-oblast",
+    "ukraine",
+    "ukrainian",
+    "volhynia",
+    "volyn-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Shatsk National Natural Park — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shatsk_National_Natural_Park",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

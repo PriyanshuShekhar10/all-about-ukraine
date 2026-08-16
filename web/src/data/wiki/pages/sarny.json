@@ -1,0 +1,108 @@
+{
+  "qid": "Q997512",
+  "slug": "sarny",
+  "title": "Sarny",
+  "type": "city in Ukraine",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1648",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "28,626",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "21",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "158",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "51.3269, 26.6331",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Sarny is a small city located in [[rivne-oblast|Rivne Oblast]], [[western-ukraine|western Ukraine]], serving as the administrative center of Sarny Raion. With a population of 28,626 as of 2022, it is a significant railway hub situated on the Sluch River.",
+  "sections": [
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "The name 'Sarny' is derived from the [[ukrainian|Ukrainian]] word for roe deer, reflecting the abundance of these animals in the surrounding forests."
+      ]
+    },
+    {
+      "heading": "Historical Overview",
+      "paragraphs": [
+        "Initially a village on the [[polesia|Polissia]]-[[volhynia|Volyn]] border, Sarny became part of the Kingdom of [[halych|Halych]]-Volhynia and later the Grand Duchy of Lithuania, before being annexed by the Polish–Lithuanian Commonwealth and subsequently the Russian Empire in 1795.",
+        "The city was officially recognized as a city in 1885 when the railway reached Sarny, enhancing its status as a key junction for rail transport, particularly after the establishment of a railroad station in 1901.",
+        "During the early 20th century, Sarny became a center for Jewish settlement following pogroms in the region, and by 1912, the first bank was established to support local merchants.",
+        "Under Polish rule from 1921 to 1939, Sarny developed economically, forming strong ties with nearby [[rivne|Rivne]] and other Polish cities."
+      ]
+    },
+    {
+      "heading": "World War II and Aftermath",
+      "paragraphs": [
+        "Sarny was occupied by Soviet forces in September 1939 and later fell under Nazi German control in July 1941, during which time the Jewish population faced severe persecution, culminating in the Sarny Massacre in August 1942.",
+        "Following the war, Sarny became part of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] and later [[independent-ukraine|independent Ukraine]] in 1991. The city has since seen developments in its economy, primarily focused on agriculture."
+      ]
+    },
+    {
+      "heading": "Recent Events",
+      "paragraphs": [
+        "During the ongoing Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], Sarny experienced missile strikes on March 16, June 25, and August 28, 2022, resulting in civilian casualties and damage to infrastructure."
+      ]
+    },
+    {
+      "heading": "Demographics and Notable Individuals",
+      "paragraphs": [
+        "As of January 1, 2019, Sarny had a population of 29,205, with a census figure of 28,257 recorded in 2001.",
+        "Notable individuals from Sarny include Polish economist Czeslaw Bobrowski, Ukrainian civil servant Vitaliy Bunechko, and footballer Oleksandr Chernov."
+      ]
+    },
+    {
+      "heading": "International Relations",
+      "paragraphs": [
+        "Sarny is twinned with Długołęka and Nowy Dwór Gdański in Poland, fostering international cooperation and cultural exchange."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "halych",
+    "independent-ukraine",
+    "polesia",
+    "rivne",
+    "rivne-oblast",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "volhynia",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Sarny — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sarny",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

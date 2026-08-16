@@ -1,0 +1,122 @@
+{
+  "qid": "Q156724",
+  "slug": "kremenchuk",
+  "title": "Kremenchuk",
+  "type": "city of regional significance of Ukraine",
+  "category": "economy",
+  "aliases": [
+    "Kremenchug",
+    "Kremenchûg",
+    "Krementschug",
+    "Krzemieńczuk"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1571",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "225,216",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "96",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "80",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Bilan Leonid, Ponomarenko Ivan",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.0631, 33.4039",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Kremenchuk is an industrial city located in central [[ukraine|Ukraine]] along the Dnipro River, serving as the administrative center of Kremenchuk Raion and Kremenchuk urban hromada in Poltava Oblast. With an estimated population of approximately 215,271 in 2022, it is recognized as a significant industrial hub in Ukraine and Eastern Europe.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Kremenchuk is situated on the banks of the [[dnieper|Dnipro River]] and serves as the administrative center for Kremenchuk Raion and Kremenchuk urban hromada within [[poltava-oblast|Poltava Oblast]]. As of 2022, the city's population is estimated at 215,271, ranking it 31st [[coal-in-ukraine|in Ukraine]].",
+        "Kremenchuk was recognized by the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] as a historical settlement in 2001."
+      ]
+    },
+    {
+      "heading": "Industrial Significance",
+      "paragraphs": [
+        "Although smaller than some oblast centers, Kremenchuk is a major industrial center in Ukraine and [[eastern-europe|Eastern Europe]]. Key industrial facilities include the KrAZ truck plant, the Kremenchuk Oil Refinery operated by Ukrtatnafta, the Kriukiv Railway Car Building Works, and the Kremenchuk Hydroelectric Power Plant located in nearby [[svitlovodsk|Svitlovodsk]].",
+        "The city is also a crucial transportation hub, with Highway M22 crossing the Dnieper River over the dam of the hydroelectric power plant."
+      ]
+    },
+    {
+      "heading": "Historical Overview",
+      "paragraphs": [
+        "Kremenchuk was founded in 1571 as a fortress, with its name derived from the word 'kremen' meaning flint, or alternatively from the Turkish word for 'small fortress.'",
+        "In 1625, the Treaty of Kurukove was signed at Lake Kurukove between [[cossacks|Cossacks]] and Poles. The city became part of the [[chyhyryn|Chyhyryn]] Polk during the establishment of the [[cossack-hetmanate|Cossack Hetmanate]] and was later secured by the Tsardom of Russia after the Russo-Polish War.",
+        "Throughout the 20th century, Kremenchuk experienced significant events including occupation during World War II, where it was heavily damaged, and later became an administrative center during Soviet rule."
+      ]
+    },
+    {
+      "heading": "Jewish Community and Holocaust",
+      "paragraphs": [
+        "The Jewish community in Kremenchuk began to settle in 1782, growing significantly by the mid-19th century. By the 1897 All-Russia Census, the Jewish population reached 29,768, making up 47% of the total population.",
+        "During the German occupation in World War II, many Jews were forced into ghettos, and approximately 8,000 were executed between October 1941 and January 1942. The community was liberated on 29 September 1943."
+      ]
+    },
+    {
+      "heading": "Modern Developments",
+      "paragraphs": [
+        "In recent years, Kremenchuk has faced challenges, including the 2014 removal of Soviet-era monuments and the assassination of mayor Oleh Babayev, who opposed separatism. The city was merged into Kremenchuk Raion as part of administrative reforms in 2020.",
+        "During the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], Kremenchuk has been targeted by Russian forces, leading to significant damage to infrastructure, including an oil refinery and a shopping mall."
+      ]
+    },
+    {
+      "heading": "Economy and Sports",
+      "paragraphs": [
+        "Kremenchuk is a vital economic center in Poltava Oblast, contributing about 7 percent to the national economy as of 2005. The city is home to several major industrial enterprises, including the KrAZ truck manufacturing company and various food processing plants.",
+        "In sports, Kremenchuk hosts the HC Kremenchuk ice hockey team and the FC [[ivan-franko|Kremin]] Kremenchuk football team, along with several sports facilities including stadiums and swimming pools."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "cabinet-of-ministers-of-ukraine",
+    "chyhyryn",
+    "coal-in-ukraine",
+    "cossack-hetmanate",
+    "cossacks",
+    "dnieper",
+    "eastern-europe",
+    "ivan-franko",
+    "poltava-oblast",
+    "svitlovodsk",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Kremenchuk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kremenchuk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

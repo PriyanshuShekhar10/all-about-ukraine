@@ -37,8 +37,8 @@
     {
       "heading": "History",
       "paragraphs": [
-        "The National Bank of Ukraine has its origins in the State Bank of [[ukraine|Ukraine]], which was established on 22 December 1917 by the Central [[verkhovna-rada|Rada]] of the [[ukrainian-peoples-republic|Ukrainian People's Republic]]. This institution operated until its dissolution by the Bolsheviks following the [[ukrainian-war-of-independence|Ukrainian War of Independence]].",
-        "In early 1991, the [[ukrainian|Ukrainian]] branch of the Soviet Gosbank began to assume central banking responsibilities [[coal-in-ukraine|in Ukraine]]. The institution faced significant financial challenges during the 1990s, including hyperinflation. On 20 March 1991, the Verkhovna Rada adopted a resolution that declared the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]'s ownership of the Ukrainian Republican branch of the Gosbank, which was renamed the National Bank. This resolution also nationalized several other banking entities."
+        "The National Bank of Ukraine has its origins in the State Bank of [[ukraine|Ukraine]], which was established on 22 December 1917 by the [[central-rada|Central Rada]] of the [[ukrainian-peoples-republic|Ukrainian People's Republic]]. This institution operated until its dissolution by the Bolsheviks following the [[ukrainian-war-of-independence|Ukrainian War of Independence]].",
+        "In early 1991, the [[ukrainian|Ukrainian]] branch of the Soviet Gosbank began to assume central banking responsibilities [[coal-in-ukraine|in Ukraine]]. The institution faced significant financial challenges during the 1990s, including hyperinflation. On 20 March 1991, the [[verkhovna-rada|Verkhovna Rada]] adopted a resolution that declared the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]'s ownership of the Ukrainian Republican branch of the Gosbank, which was renamed the National Bank. This resolution also nationalized several other banking entities."
       ]
     },
     {
@@ -76,6 +76,7 @@
     }
   ],
   "links_out": [
+    "central-rada",
     "coal-in-ukraine",
     "constitution-of-ukraine",
     "hryvnia",

@@ -1,0 +1,91 @@
+{
+  "qid": "Q23055386",
+  "slug": "eurovision-song-contest-2017",
+  "title": "Eurovision Song Contest 2017",
+  "type": "Eurovision Song Contest edition",
+  "category": "people",
+  "aliases": [
+    "ESC 2017",
+    "Eurovision 2017"
+  ],
+  "infobox": {
+    "label": "Eurovision Song Contest edition",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2017-05-13",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "International Exhibition Centre",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4522, 30.5914",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Eurovision Song Contest 2017 marked the 62nd edition of the annual music competition, held in Kyiv, Ukraine. This event was notable for Ukraine's hosting role following its victory in the previous year and for the significant political context surrounding the participation of certain countries.",
+  "sections": [
+    {
+      "heading": "Event Overview",
+      "paragraphs": [
+        "The Eurovision Song Contest 2017 consisted of two semi-finals on 9 and 11 May, culminating in a final on 13 May 2017. The event took place at the International Exhibition Centre in [[kyiv|Kyiv]], [[ukraine|Ukraine]], and was presented by Oleksandr Skichko, Volodymyr Ostapchuk, and Timur Miroshnychenko. Organised by the European Broadcasting Union (EBU) and the Public Broadcasting Company of Ukraine (UA:PBC), the contest followed Ukraine's victory in the 2016 contest with the song '1944' by [[jamala|Jamala]]."
+      ]
+    },
+    {
+      "heading": "Participation and Withdrawal",
+      "paragraphs": [
+        "A total of forty-two countries participated in the contest. Notably, Russia withdrew after its representative, Julia Samoylova, was banned from entering Ukraine due to her previous performance in [[crimean-khanate|Crimea]], a region annexed by Russia in 2014. This withdrawal reduced the participant count from an initially planned forty-three countries."
+      ]
+    },
+    {
+      "heading": "Results and Rankings",
+      "paragraphs": [
+        "The winner of the contest was Portugal, represented by Salvador Sobral with the song 'Amar pelos dois', marking Portugal's first victory in Eurovision history after 53 years. The top five also included Bulgaria, Moldova, Belgium, and Sweden. In contrast, the host country Ukraine finished in 24th place, its lowest ranking to date in the competition."
+      ]
+    },
+    {
+      "heading": "Venue and Bidding Process",
+      "paragraphs": [
+        "The contest was held at the International Exhibition Centre in Kyiv, which has a capacity of approximately 11,000 attendees. Following Ukraine's win in 2016, the bidding process for host cities was initiated, with Kyiv ultimately selected as the host on 9 September 2016 after a competitive selection process involving several other cities."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "The theme of the contest was 'Celebrate Diversity', with a visual design that incorporated stylized beads forming a traditional [[ukrainian|Ukrainian]] neck amulet. This year's contest was significant not only for its cultural showcase but also for the political backdrop affecting participation, particularly regarding Russia's withdrawal."
+      ]
+    },
+    {
+      "heading": "Viewership",
+      "paragraphs": [
+        "The EBU reported that the contest attracted an audience of 182 million viewers, which was a decrease of 22 million from the previous year, reflecting the ongoing challenges in the geopolitical landscape affecting viewership and participation."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimean-khanate",
+    "jamala",
+    "kyiv",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Eurovision Song Contest 2017 — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2017",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

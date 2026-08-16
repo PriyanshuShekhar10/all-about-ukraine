@@ -1,0 +1,51 @@
+{
+  "qid": "Q7086289",
+  "slug": "oleksandr-vysotskyi",
+  "title": "Oleksandr Vysotskyi",
+  "type": "human",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1986-06-16",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Alushta",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Oleksandr Oleksandrovych Vysotskyi is a former professional football goalkeeper from [[ukraine|Ukraine]], born on 16 June 1986. His career in football reflects the sporting culture and talent development within Ukraine.",
+  "sections": [
+    {
+      "heading": "Early Life and Background",
+      "paragraphs": [
+        "Oleksandr Vysotskyi was born on 16 June 1986 [[coal-in-ukraine|in Ukraine]], where he began his journey in the world of football."
+      ]
+    },
+    {
+      "heading": "Professional Career",
+      "paragraphs": [
+        "Vysotskyi played as a goalkeeper in professional football, contributing to the sport's landscape in Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Oleksandr Vysotskyi — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oleksandr_Vysotskyi",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

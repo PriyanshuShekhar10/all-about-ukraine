@@ -1,0 +1,92 @@
+{
+  "qid": "Q4349891",
+  "slug": "european-solidarity",
+  "title": "European Solidarity",
+  "type": "political party",
+  "category": "people",
+  "aliases": [
+    "All-Ukrainian Party of Peace and Unity",
+    "All-Ukrainian Union Solidarity",
+    "National Alliance of Freedom and Ukrainian patriotism \"OFFENSIVE\"",
+    "Petro Poroshenko Bloc",
+    "Solidarity"
+  ],
+  "infobox": {
+    "label": "political party",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2001-02-28",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "European Solidarity is a [[political-party-in-ukraine|political party in Ukraine]], rooted in the parliamentary group Solidarity established in 2000 by Petro Poroshenko. The party has undergone several transformations and name changes, reflecting its evolving political stance and leadership, particularly in relation to Ukraine's European integration and governance reforms.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "European Solidarity originated in 2000 as a parliamentary faction named Solidarity, founded by [[petro-poroshenko|Petro Poroshenko]], who was previously affiliated with the [[social-democratic-party-of-ukraine-united|Social Democratic Party of Ukraine]]. The party was initially supported by then-President Kuchma to diminish the influence of the Social Democratic Party.",
+        "In 2000, Solidarity merged into what would become the Party of Regions, with Poroshenko serving as a deputy. The party later attempted to establish itself independently but faced challenges, including a lack of electoral participation after 2002."
+      ]
+    },
+    {
+      "heading": "Transformation and Electoral Success",
+      "paragraphs": [
+        "In 2014, Poroshenko led the newly formed Petro Poroshenko Bloc, which won 132 seats in the [[ukrainian-parliamentary-elections|Ukrainian parliamentary elections]], becoming the largest party in the [[verkhovna-rada|Verkhovna Rada]]. This success was bolstered by a merger with the [[ukrainian|Ukrainian]] Democratic Alliance for Reform (UDAR) in 2015, although UDAR later separated from the bloc in 2019.",
+        "The party was rebranded as European Solidarity on 24 May 2019, aiming to rejuvenate its leadership and electoral strategy ahead of the parliamentary elections. In the 2019 elections, it secured 23 seats, a decline from its previous performance."
+      ]
+    },
+    {
+      "heading": "Ideological Positioning",
+      "paragraphs": [
+        "Initially founded as a social democratic party, European Solidarity has shifted towards a centre-right ideology, characterized by Christian democratic and liberal conservative principles. The party advocates for [[ukraine|Ukraine]]'s membership in the European Union and supports a peaceful resolution to the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]].",
+        "Key positions include decentralization, anti-corruption measures, and the promotion of Ukrainian as the sole official language. The party also emphasizes energy independence and the protection of the rights of the [[crimean-tatars|Crimean Tatars]]."
+      ]
+    },
+    {
+      "heading": "Leadership and Organizational Structure",
+      "paragraphs": [
+        "European Solidarity has seen various leaders throughout its history, with Poroshenko being a central figure. Following the 2019 elections, [[oleksandr-turchynov|Oleksandr Turchynov]] was appointed to lead the party's local election efforts in 2020, where the party performed well in western and central Ukraine.",
+        "The party's leadership has been marked by a mix of former members from different political backgrounds, reflecting a diverse array of interests and strategies within its parliamentary faction."
+      ]
+    },
+    {
+      "heading": "Electoral Performance",
+      "paragraphs": [
+        "European Solidarity's electoral history includes significant successes, such as its 2014 parliamentary election victory, but has faced challenges in subsequent elections. In the 2020 local elections, the party improved its representation, securing approximately 10.73% of available seats in local councils."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimean-tatars",
+    "full-scale-russo-ukrainian-war",
+    "oleksandr-turchynov",
+    "petro-poroshenko",
+    "political-party-in-ukraine",
+    "social-democratic-party-of-ukraine-united",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-parliamentary-elections",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "European Solidarity — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/European_Solidarity",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

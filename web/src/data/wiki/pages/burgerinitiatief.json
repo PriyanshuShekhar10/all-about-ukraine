@@ -1,0 +1,53 @@
+{
+  "qid": "Q19697493",
+  "slug": "burgerinitiatief",
+  "title": "Burgerinitiatief",
+  "type": "Wikimedia disambiguation page",
+  "category": "politics",
+  "aliases": [
+    "Citizens' Initiative"
+  ],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "The term 'Citizens' Initiative' or 'Civic Initiative' encompasses various political procedures and organizations across different countries, including connections to Ukraine's democratic processes and civic engagement.",
+  "sections": [
+    {
+      "heading": "Political Procedures",
+      "paragraphs": [
+        "A citizens' initiative, also known as a civic initiative or popular initiative, represents a political procedure that embodies a form of direct democracy, allowing citizens to propose legislation or policy changes.",
+        "The Citizens' Initiative Review is a deliberative panel that evaluates ballot initiatives or referendums, which can be relevant in the context of [[ukraine|Ukraine]]'s evolving democratic practices.",
+        "The European Citizens' Initiative enables EU citizens to directly petition the European Commission, a mechanism that could influence Ukraine's integration with European structures.",
+        "Other forms of citizens' initiatives exist in various countries, such as the popular initiative in Switzerland and citizens' initiative referendums in France, which can provide comparative insights for Ukraine."
+      ]
+    },
+    {
+      "heading": "Political Organizations",
+      "paragraphs": [
+        "Numerous political parties and organizations worldwide are associated with the concept of citizens' initiatives, including the Citizens' Initiative in Andorra and the Croatian Civic Initiative in Montenegro, which may serve as models for civic engagement [[coal-in-ukraine|in Ukraine]].",
+        "In Kosovo, the Citizen's Initiative of Gora and the Civic Initiative 'Serbia' (both from different years) reflect the political landscape that includes civic movements, potentially influencing similar movements in Ukraine.",
+        "In Poland, the Civic Initiative represents a political party that may inspire civic activism in Ukraine, emphasizing the importance of grassroots political engagement."
+      ]
+    },
+    {
+      "heading": "Non-Governmental Organizations",
+      "paragraphs": [
+        "The Centre-right Civic Initiative in Romania exemplifies a non-governmental organization that may provide insights into civic initiatives that could be relevant for Ukraine's civil society development."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Citizens' Initiative — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Citizens'_Initiative",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

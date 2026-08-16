@@ -1,0 +1,98 @@
+{
+  "qid": "Q7792",
+  "slug": "sakhalin",
+  "title": "Sakhalin",
+  "type": "island",
+  "category": "geography",
+  "aliases": [
+    "Karafuto",
+    "Kuye",
+    "Saghalien",
+    "Saghalien I.",
+    "Saghalien Is.",
+    "Saghalien Island",
+    "Sakhalin I.",
+    "Sakhalin Is.",
+    "Sakhalin Island"
+  ],
+  "infobox": {
+    "label": "island",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Russia, Russian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Yuzhno-Sakhalinsk",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "673,100",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "72,492",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "1,609",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.5000, 143.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Sakhalin is the largest island of Russia, located in Northeast Asia, with a complex history of territorial claims involving China, Russia, and Japan. Its geographical significance and historical connections to indigenous peoples, including the Ainu, Oroks, and Nivkhs, highlight its relevance to regional dynamics, including its ties to [[ukraine|Ukraine]] through historical trade and migration patterns.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Sakhalin, an island in Northeast Asia, is part of Russia and is situated off the southeastern coast of Khabarovsk Krai. Its northern coast is approximately 6.5 km (4.0 mi) from the mainland, while the southern tip lies about 40 kilometres (25 mi) north of the Japanese island of Hokkaido. The island covers an area of 72,492 square kilometres (27,989 sq mi) and has a population of around 500,000, predominantly composed of Russians. The indigenous populations include the Ainu, Oroks, and Nivkhs, who now exist in very small numbers."
+      ]
+    },
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "The name Sakhalin is derived from the Manchu term Sahaliyan, which translates to 'Island at the Mouth of the Black River.' The Qing dynasty referred to the island as 'Kuyedao,' meaning 'the island of Ainu.' Various interpretations exist regarding the origins of the traditional Japanese name, Karafuto, with some suggesting it may relate to Mongolian or Ainu words."
+      ]
+    },
+    {
+      "heading": "Historical Overview",
+      "paragraphs": [
+        "Sakhalin has been the subject of territorial disputes for over a millennium, with claims from China, Russia, and Japan. In the 19th and 20th centuries, the island was contested primarily between Russia and Japan, leading to military conflicts and territorial divisions. In 1875, Japan ceded its claims to Russia in exchange for the northern Kuril Islands. Following the Russo-Japanese War in 1905, the island was divided, with Southern Sakhalin becoming Japanese territory until 1925. Russia regained control of the entire island after World War II in 1945."
+      ]
+    },
+    {
+      "heading": "Indigenous Peoples and Cultural Influence",
+      "paragraphs": [
+        "The indigenous peoples of Sakhalin, including the Ainu, Oroks, and Nivkhs, have a rich cultural history that includes interactions with various dynasties. The Ainu paid tribute to the Yuan, Ming, and Qing dynasties, and their presence on the island has been documented since the Neolithic period. The Qing dynasty's influence established a fur tribute system, impacting local governance and trade."
+      ]
+    },
+    {
+      "heading": "Japanese Exploration and Colonization",
+      "paragraphs": [
+        "Japanese exploration of Sakhalin began in the early 17th century, leading to attempts at colonization. By the 19th century, the influence of the Tokugawa Shogunate increased, particularly over the Ainu populations. The Matsumae clan established settlements and engaged in trade, although they often exploited the Ainu for economic gain."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Sakhalin — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sakhalin",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

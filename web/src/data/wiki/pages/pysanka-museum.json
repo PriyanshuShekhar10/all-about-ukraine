@@ -1,0 +1,78 @@
+{
+  "qid": "Q746631",
+  "slug": "pysanka-museum",
+  "title": "Pysanka Museum",
+  "type": "art museum",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "art museum",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2000",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.5283, 25.0389",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Pysanka Museum, located in Kolomyia, [[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]], Ukraine, is the world's only museum dedicated to the art of pysanka, or Ukrainian Easter eggs. Opened on October 26, 1987, it serves as a significant cultural institution showcasing the rich tradition of pysanka [[coal-in-ukraine|in Ukraine]].",
+  "sections": [
+    {
+      "heading": "Establishment and Architecture",
+      "paragraphs": [
+        "The Pysanka Museum was inaugurated on October 26, 1987, and later relocated to its current building, which was completed in 2000. This new structure was officially opened on September 23, 2000, during the 10th International Hutsul festival.",
+        "The museum's design is notable for its unique shape, resembling a [[pysanka|pysanka]], standing 14 meters tall and 10 meters in diameter. The concept was proposed by director Yaroslava Tkachuk, with local artists Vasyl Andrushko and Myroslav Yasinskyi realizing the vision."
+      ]
+    },
+    {
+      "heading": "Collections and Exhibits",
+      "paragraphs": [
+        "The museum boasts a collection of over 10,000 pysanky, featuring examples from nearly all oblasts of [[ukraine|Ukraine]]. This includes both modern interpretations of traditional designs and historical pysanky from the [[ivano-frankivsk|Ivano-Frankivsk]] region, dating back to the 19th and 20th centuries.",
+        "In addition to [[ukrainian|Ukrainian]] pysanky, the museum also showcases decorated eggs from other Slavic nations, such as Belarus, the Czech Republic, and Poland, as well as from countries further afield, including Romania, Sweden, the United States, Canada, France, Pakistan, Sri Lanka, and India."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "The Pysanka Museum is an integral part of the [[lviv-national-museum|National Museum]] of Hutsulshchyna and Pokuttya Folk Art, highlighting its importance in preserving and promoting Ukrainian folk traditions.",
+        "In August 2007, the museum was recognized as a landmark of [[modern-history-of-ukraine|modern Ukraine]], further solidifying its role in the cultural landscape of the country."
+      ]
+    },
+    {
+      "heading": "Special Collections",
+      "paragraphs": [
+        "Among its unique collections, the museum features pysanky adorned with the hand-signatures of all Ukrainian presidents and most First Ladies, as well as signatures from foreign politicians who have visited the museum.",
+        "The museum also hosts temporary exhibitions that often focus on folk art and pysanka-related themes, celebrating the traditions of Hutsul Easter and other folk arts."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ivano-frankivsk",
+    "ivano-frankivsk-oblast",
+    "lviv-national-museum",
+    "modern-history-of-ukraine",
+    "pysanka",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Pysanka Museum — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pysanka_Museum",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

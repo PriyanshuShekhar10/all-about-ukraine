@@ -1,0 +1,78 @@
+{
+  "qid": "Q816163",
+  "slug": "belovodskoye",
+  "title": "Belovodskoye",
+  "type": "village",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "village",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Kyrgyzstan",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "21,275",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "732",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "42.8333, 74.1167",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Belovodskoye is a significant village located in the Chüy Region of Kyrgyzstan, with a population of 23,046 as of 2021. It serves as the administrative center of [[moskva|Moskva]] District and has historical connections to Ukrainian settlers.",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Significance",
+      "paragraphs": [
+        "Belovodskoye is situated on the European route E40 (M39), which connects Bishkek to Chimkent, highlighting its strategic location within the region."
+      ]
+    },
+    {
+      "heading": "Population",
+      "paragraphs": [
+        "As of 2021, the village had a population of 23,046 residents, reflecting its status as a large settlement in the Chüy Region."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The village of Belovodskoye was founded in the spring of 1868 by 12 families of back settlers originating from the Astrakhan Governorate of the Russian Empire. The name 'Belovodskoye' translates to 'white water' in Russian, derived from the nearby Ak-Suu river, which also means 'white water' in Kyrgyz.",
+        "The initial settlers were later joined by individuals from various regions of the Russian Empire, including the Voronezh and [[orel|Orel]] Governorates, as well as peasants from [[poltava|Poltava]], [[kharkiv|Kharkov]], and Saratov Governorates. The settlers communicated in a dialect that combined elements of both Russian and [[ukrainian|Ukrainian]] languages."
+      ]
+    },
+    {
+      "heading": "Cultural Connections",
+      "paragraphs": [
+        "Notably, the village is recognized as the birthplace of [[vitali-klitschko|Vitali Klitschko]], a prominent Ukrainian politician and former world boxing champion, underscoring its relevance to Ukrainian heritage."
+      ]
+    }
+  ],
+  "links_out": [
+    "kharkiv",
+    "moskva",
+    "orel",
+    "poltava",
+    "ukrainian",
+    "vitali-klitschko"
+  ],
+  "sources": [
+    {
+      "title": "Belovodskoye — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Belovodskoye",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

@@ -1,0 +1,89 @@
+{
+  "qid": "Q582033",
+  "slug": "zolote",
+  "title": "Zolote",
+  "type": "city in Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Zolotoye"
+  ],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "14,376",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "24",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "125",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.6833, 38.5167",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Zolote is a city located in Sievierodonetsk Raion, Luhansk Oblast, in eastern Ukraine, with a population of 13,007 as of 2022. The city was formed by merging several villages and has been significantly affected by the ongoing conflict in the Donbas region.",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Details",
+      "paragraphs": [
+        "Zolote, known in [[ukrainian|Ukrainian]] as Золоте and in Russian as Золотое, is situated in the [[siverskodonetsk|Sievierodonetsk]] Raion of [[luhansk-oblast|Luhansk Oblast]], eastern [[ukraine|Ukraine]]. The city was created through the amalgamation of several villages, which are now designated sequentially from Zolote 1 to Zolote 5. The original names of these villages included Karbonit, Rodina, Stakhanovets, Maryvka, and Partyzansky."
+      ]
+    },
+    {
+      "heading": "Impact of the Conflict in Donbas",
+      "paragraphs": [
+        "The city of Zolote has been significantly impacted by the [[war-in-donbas|war in Donbas]], with parts of it coming under the control of the self-proclaimed [[luhansk-peoples-republic|Luhansk People's Republic]] (LPR). Zolote-5, formerly known as Maryvka, fell completely under LPR control, while Zolote-4 (Patrizansky) and Zolote-3 (Stakhanovets) became part of the 'gray zone' amid ongoing hostilities.",
+        "On 30 June 2018, the [[ukrainian-ground-forces|Ukrainian army]] regained full control of Zolote-4, although some Ukrainian activists alleged that the takeover was staged, claiming that Ukrainian soldiers had been present in the area since 2014."
+      ]
+    },
+    {
+      "heading": "Administrative Changes",
+      "paragraphs": [
+        "On 7 October 2014, to improve governance in Luhansk Oblast, the [[verkhovna-rada|Verkhovna Rada]] restructured the administrative divisions, resulting in Zolote being transferred from [[pervomaisk|Pervomaisk]] Municipality to Popasna Raion."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "On 23 June 2022, Zolote came under the de facto control of the Luhansk People's Republic. Reports indicated that approximately 2,000 Ukrainian troops were encircled in the town prior to its capture during the ongoing battle in the [[donbas|Donbas]] region."
+      ]
+    }
+  ],
+  "links_out": [
+    "donbas",
+    "luhansk-oblast",
+    "luhansk-peoples-republic",
+    "pervomaisk",
+    "siverskodonetsk",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-ground-forces",
+    "verkhovna-rada",
+    "war-in-donbas"
+  ],
+  "sources": [
+    {
+      "title": "Zolote — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zolote",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

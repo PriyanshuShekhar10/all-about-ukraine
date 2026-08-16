@@ -45,7 +45,7 @@
     {
       "heading": "Establishment and Governance",
       "paragraphs": [
-        "The Ukrainian State was established on April 29, 1918, following the downfall of the Central [[verkhovna-rada|Rada]] of the [[ukrainian-peoples-republic|Ukrainian People's Republic]]. [[pavlo-skoropadsky|Pavlo Skoropadsky]], appointed as [[hetman|Hetman]], shifted the governance from the previous democratic and socialist policies to an autocratic regime that favored large landowners and industrialists.",
+        "The Ukrainian State was established on April 29, 1918, following the downfall of the [[central-rada|Central Rada]] of the [[ukrainian-peoples-republic|Ukrainian People's Republic]]. [[pavlo-skoropadsky|Pavlo Skoropadsky]], appointed as [[hetman|Hetman]], shifted the governance from the previous democratic and socialist policies to an autocratic regime that favored large landowners and industrialists.",
         "The formation of the state was influenced by the dissatisfaction of the Central Powers, particularly Germany and Austria-Hungary, with the [[cabinet-of-ministers-of-ukraine|Ukrainian government]]'s failure to deliver food and raw materials as stipulated in the Treaty of Brest-Litovsk. Despite its reliance on these powers, the Ukrainian State managed to create a functioning bureaucracy."
       ]
     },
@@ -66,13 +66,14 @@
     {
       "heading": "Geography",
       "paragraphs": [
-        "The Ukrainian State encompassed much of the territory of modern-day Ukraine, situated in [[eastern-europe|Eastern Europe]] along the middle and lower sections of the [[dnieper|Dnieper River]], and bordered by the Black Sea and the Sea of Azov. Notably, it excluded most of [[western-ukraine|Western Ukraine]], Budjak, and [[crimea|Crimea]]."
+        "The Ukrainian State encompassed much of the territory of modern-day Ukraine, situated in [[eastern-europe|Eastern Europe]] along the middle and lower sections of the [[dnieper|Dnieper River]], and bordered by the Black Sea and the Sea of Azov. Notably, it excluded most of [[western-ukraine|Western Ukraine]], Budjak, and [[crimean-khanate|Crimea]]."
       ]
     }
   ],
   "links_out": [
     "cabinet-of-ministers-of-ukraine",
-    "crimea",
+    "central-rada",
+    "crimean-khanate",
     "dnieper",
     "eastern-europe",
     "hetman",
@@ -84,7 +85,6 @@
     "ukrainian",
     "ukrainian-peoples-republic",
     "ukrainians",
-    "verkhovna-rada",
     "western-ukraine"
   ],
   "sources": [

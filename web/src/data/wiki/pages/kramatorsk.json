@@ -1,0 +1,102 @@
+{
+  "qid": "Q33613",
+  "slug": "kramatorsk",
+  "title": "Kramatorsk",
+  "type": "city in Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1868",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "159,445",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "77",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "177",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Hennadij Andrijowycz Kostiukow, Oleksandr Honcharenko",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.7392, 37.5839",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Kramatorsk is a city in eastern Ukraine, serving as the administrative center of Kramatorsk Raion in Donetsk Oblast. It plays a significant role as an industrial hub and has been a focal point during the Russo-Ukrainian war.",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Context",
+      "paragraphs": [
+        "Kramatorsk, known in [[ukrainian|Ukrainian]] as Краматорськ and in Russian as Краматорск, is located in the [[donbas|Donbas]] region of eastern [[ukraine|Ukraine]]. It serves as the administrative center of Kramatorsk Raion within [[donetsk-oblast|Donetsk Oblast]]. As of 2022, the city's population is estimated to be 147,145."
+      ]
+    },
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "The name Kramatorsk is believed to derive from the phrase Krom Torov or Krom Torskaya, which translates to 'border along the Tor River.' This is linked to the Kazennyi Torets River, with the original name of the train station being Kram-na-Tore, meaning 'Border-on-Tor.'"
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "Kramatorsk's development began in the second half of the 19th century with the establishment of a railway station in 1868. The town grew around this station, becoming a significant urban settlement in northern Donetsk Oblast, particularly known for heavy machinery production. The area was historically populated by [[cossacks|Cossacks]] from the [[hetmanate|Hetmanate]], and archaeological evidence suggests it was inhabited prior to documented history.",
+        "The town experienced significant industrial growth, with factories established by Belgian and German investors in the late 19th century. By the early 20th century, the Old Kramatorsk Machine-Building Plant was influential in local labor movements and political activism."
+      ]
+    },
+    {
+      "heading": "Impact of the Russo-Ukrainian War",
+      "paragraphs": [
+        "Kramatorsk has been significantly affected by the [[full-scale-russo-ukrainian-war|Russo-Ukrainian war]]. In April 2014, the city was temporarily seized by pro-Russian militants but was retaken by Ukrainian forces in July 2014. It became the provisional administrative center of Donetsk Oblast in October 2014. The city has faced multiple instances of shelling, including a deadly missile strike on the railway station on 8 April 2022, which resulted in at least 57 fatalities.",
+        "In June 2023, another missile strike targeted a restaurant in Kramatorsk, killing at least 11 individuals. The city remains a frontline area amid ongoing military conflicts."
+      ]
+    },
+    {
+      "heading": "Demographics and Economy",
+      "paragraphs": [
+        "Kramatorsk's demographic composition reflects a predominantly Ukrainian population, although it is largely Russophone. According to the 2001 Ukrainian Census, 67.9% of residents spoke Russian, while 31.1% spoke Ukrainian.",
+        "The city's economy is heavily industrialized, with the New Kramatorsk Machinebuilding Plant (NKMZ) being a key player in the manufacturing sector. The metropolitan area of Kramatorsk has a population exceeding 197,000, highlighting its significance within the region."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossacks",
+    "donbas",
+    "donetsk-oblast",
+    "full-scale-russo-ukrainian-war",
+    "hetmanate",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Kramatorsk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kramatorsk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

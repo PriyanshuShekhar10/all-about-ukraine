@@ -1,0 +1,42 @@
+{
+  "qid": "Q4189249",
+  "slug": "battle-of-zboriv",
+  "title": "Battle of Zboriv",
+  "type": "Wikimedia disambiguation page",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "The Battle of Zboriv refers to two significant historical conflicts associated with [[ukraine|Ukraine]], one during the Khmelnytsky Uprising in the 17th century and another during World War I in the early 20th century.",
+  "sections": [
+    {
+      "heading": "Battle of Zboriv (1649)",
+      "paragraphs": [
+        "The Battle of Zboriv, fought in 1649 near the town of [[zboriv|Zboriv]], was a crucial engagement during the [[khmelnytsky-uprising|Khmelnytsky Uprising]], a rebellion led by [[zaporozhian-cossacks|Ukrainian Cossacks]] against Polish-Lithuanian rule."
+      ]
+    },
+    {
+      "heading": "Battle of Zborov (1917)",
+      "paragraphs": [
+        "The Battle of Zborov occurred in July 1917 and was a minor engagement that formed part of the Kerensky Offensive, which was the final Russian offensive during World War I."
+      ]
+    }
+  ],
+  "links_out": [
+    "khmelnytsky-uprising",
+    "ukraine",
+    "zaporozhian-cossacks",
+    "zboriv"
+  ],
+  "sources": [
+    {
+      "title": "Battle of Zboriv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Zboriv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

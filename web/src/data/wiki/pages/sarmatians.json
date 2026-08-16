@@ -1,0 +1,68 @@
+{
+  "qid": "Q162858",
+  "slug": "sarmatians",
+  "title": "Sarmatians",
+  "type": "historical ethnic group",
+  "category": "history",
+  "aliases": [
+    "Sarmatae",
+    "Sarmatai",
+    "Sarmats"
+  ],
+  "infobox": {
+    "label": "historical ethnic group",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Sarmatia, Scythia",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Sarmatians were a significant confederation of ancient Iranian nomadic peoples who inhabited the Pontic steppe from approximately the 5th century BC to the 4th century AD. Their history is deeply intertwined with the region that includes modern-day Ukraine, where they played a crucial role in the cultural and political landscape of the time.",
+  "sections": [
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "The term 'Sarmatians' is derived from the Old Iranian endonym *Sarmata or *Sarumata, which evolved into the Greek name Sarmatai (Σαρμάται). This name connoted the meaning 'armed with throwing darts and arrows,' and is related to the Sanskrit term śárumant, reflecting a connection to the [[scythians|Scythians]], whose name means 'archers.'"
+      ]
+    },
+    {
+      "heading": "Geographical Presence",
+      "paragraphs": [
+        "Sarmatia, as referred to by Greco-Roman ethnographers, encompassed the western part of greater Scythia, aligning with areas of present-day Central [[ukraine|Ukraine]], South-Eastern Ukraine, Southern Russia, and regions near the Volga and South-Ural. This territory was pivotal in the Sarmatians' dominance over the Pontic steppe."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "The Sarmatians emerged during the 6th to 4th centuries BC through the migration of nomads from Central Asia who conquered the Sauromatians. This led to the formation of a new ethnic group, which included tribes such as the Aorsi, Roxolani, Alans, and Iazyges. The Sarmatians began migrating westward around the 4th and 3rd centuries BC, eventually dominating the Scythians by 200 BC."
+      ]
+    },
+    {
+      "heading": "Cultural and Political Influence",
+      "paragraphs": [
+        "The Sarmatians became a dominant political power in the northern Pontic Steppe, absorbing Scythian tribes rather than displacing them. Their influence extended to the Greek cities along the Black Sea, where they imposed tributes. By the 1st century AD, the Sarmatians were actively involved in conflicts with the Roman Empire, showcasing their significant role in the region's history."
+      ]
+    },
+    {
+      "heading": "Legacy and Assimilation",
+      "paragraphs": [
+        "The Sarmatians assimilated into various cultures, including Greek civilization within the Bosporan Kingdom, and were absorbed by the proto-Circassian Maeotian people, Alans, and Early Slavs. Their descendants, particularly the Alans, persisted in the North Caucasus into the Early Middle Ages, contributing to the formation of the modern Ossetic ethnic group."
+      ]
+    }
+  ],
+  "links_out": [
+    "scythians",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Sarmatians — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sarmatians",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

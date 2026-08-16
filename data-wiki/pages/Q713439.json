@@ -1,0 +1,74 @@
+{
+  "qid": "Q713439",
+  "slug": "artem-dzyuba",
+  "title": "Artem Dzyuba",
+  "type": "human",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1988-08-22",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Moscow",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Artem Dzyuba is a prominent Russian professional footballer, born on 22 August 1988, who has made significant contributions to both club and international football. He has Ukrainian roots through his father, Sergey, who hails from Poltava Oblast, Ukraine.",
+  "sections": [
+    {
+      "heading": "Early Life and Career",
+      "paragraphs": [
+        "Artem Dzyuba was born in Moscow, Russian SFSR, [[soviet-union|Soviet Union]]. His father, Sergey, is from [[poltava-oblast|Poltava Oblast]], [[ukraine|Ukraine]], while his mother, Svetlana, is from Tsivilsk, Chuvashia. Dzyuba began his football career at Spartak Moscow's football school and made his first team debut in 2006."
+      ]
+    },
+    {
+      "heading": "Club Career",
+      "paragraphs": [
+        "Dzyuba started his professional career with Spartak Moscow, where he made 166 appearances and scored 38 goals. He had loan spells at Tom Tomsk and Rostov, winning the 2013–14 Russian Cup with Rostov. In 2015, he transferred to Zenit Saint Petersburg, where he achieved significant success, winning 10 trophies and becoming the all-time top scorer in the Russian Premier League with 177 goals. After leaving Zenit in 2022, he signed with Adana Demirspor in Turkey, but his contract was annulled later that year. Subsequently, he joined Lokomotiv Moscow in February 2023, extending his contract for the following season."
+      ]
+    },
+    {
+      "heading": "International Career",
+      "paragraphs": [
+        "Dzyuba made his senior international debut for Russia in 2011 and has represented the national team in several major tournaments, including UEFA Euro 2016, the 2018 FIFA World Cup, and UEFA Euro 2020. He is recognized as Russia's top scorer with 31 goals. His international career has been marked by both achievements and controversies, including being dropped from the national team in 2020 due to a personal scandal."
+      ]
+    },
+    {
+      "heading": "Controversies and Personal Life",
+      "paragraphs": [
+        "Dzyuba has faced criticism for his silence regarding the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], particularly after being called out by [[ukrainian|Ukrainian]] footballer [[andriy-yarmolenko|Andriy Yarmolenko]]. He has publicly expressed pride in his country and has refused to condemn Russia's actions [[coal-in-ukraine|in Ukraine]]. In March 2023, he was added to the Myrotvorets list, which identifies individuals considered enemies of Ukraine."
+      ]
+    },
+    {
+      "heading": "Honours and Achievements",
+      "paragraphs": [
+        "Throughout his career, Dzyuba has received numerous accolades, including multiple Player of the Month awards in the Russian Premier League and recognition as the league's top scorer. His contributions have solidified his status as one of the leading figures in Russian football history."
+      ]
+    }
+  ],
+  "links_out": [
+    "andriy-yarmolenko",
+    "coal-in-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "poltava-oblast",
+    "soviet-union",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Artem Dzyuba — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Artem_Dzyuba",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

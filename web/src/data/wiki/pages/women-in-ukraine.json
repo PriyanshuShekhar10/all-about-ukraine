@@ -1,0 +1,75 @@
+{
+  "qid": "Q8031226",
+  "slug": "women-in-ukraine",
+  "title": "Women in Ukraine",
+  "type": "aspect in a geographic region",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "aspect in a geographic region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Women in Ukraine possess equal constitutional rights to men across various sectors, including economic, political, cultural, and social realms. Despite this legal equality, women face significant challenges, particularly in instances of violence and underrepresentation in leadership roles.",
+  "sections": [
+    {
+      "heading": "Legal Rights and Representation",
+      "paragraphs": [
+        "Women in Ukraine are granted equal constitutional rights as men in economic, political, cultural, and social fields, as well as within the family structure. However, approximately 45 percent of those experiencing violence [[coal-in-ukraine|in Ukraine]] are women. Representation in government is limited, with women making up one-fifth of [[ukrainian|Ukrainian]] parliamentarians, while only 2% of major companies are led by women."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The history of women in Ukraine is intertwined with the narratives of the Russian Empire and [[soviet-union|the Soviet Union]], particularly following [[ukraine|Ukraine]]'s independence in 1991. The women's rights movement in Ukraine began in the mid-19th century, primarily focusing on national emancipation rather than challenging traditional gender roles.",
+        "The late 2000s saw a resurgence in feminist activism, significantly influenced by the 2014 [[revolution-of-dignity|Revolution of Dignity]] and the subsequent [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]], which highlighted women's roles in the fight for democracy and national sovereignty."
+      ]
+    },
+    {
+      "heading": "Early History and Rights",
+      "paragraphs": [
+        "In the era of [[kievan-rus|Kyivan Rus]]', the legal code known as Ruska [[pravda|Pravda]] acknowledged gender equality, holding women accountable for murder on par with men and granting widows rights to manage family affairs. Women of noble status could assume significant societal roles, including regents and heads of monasteries.",
+        "Throughout the early modern era, women were recognized as subjects of rights under the Statutes of Lithuania, although their inheritance rights were limited. Notable noblewomen actively contributed to cultural and religious life, while many women faced enslavement during Tatar raids."
+      ]
+    },
+    {
+      "heading": "Feminist Movement Development",
+      "paragraphs": [
+        "The mid-19th century marked the inception of the Ukrainian women's movement, catalyzed by educational reforms that allowed women access to universities. This led to the formation of organizations aimed at promoting women's higher education, such as the Society for Help in Women's Higher Education in [[kharkiv-oblast|Kharkiv]].",
+        "In Austrian-ruled regions, the Society of [[ruthenian|Ruthenian]] Women, founded by Natalia Kobrynska in 1884, was pivotal in advocating for women's rights, including access to higher education and social services."
+      ]
+    },
+    {
+      "heading": "Impact of War and Social Change",
+      "paragraphs": [
+        "During the First World War, women's organizations in Ukraine played crucial roles in charitable efforts, aiding soldiers, refugees, and orphans. Many women served as nurses and volunteers in military units, contributing significantly to the war effort."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "kharkiv-oblast",
+    "kievan-rus",
+    "pravda",
+    "revolution-of-dignity",
+    "ruthenian",
+    "soviet-union",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Women in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Women_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

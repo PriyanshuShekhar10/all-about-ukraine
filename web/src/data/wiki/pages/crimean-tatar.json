@@ -9,12 +9,12 @@
     "label": "Wikimedia disambiguation page",
     "fields": []
   },
-  "summary": "Crimean Tatar refers to both an ethnic group and a language associated with the Crimean Tatars, who are a significant minority [[coal-in-ukraine|in Ukraine]], particularly in the Crimean Peninsula.",
+  "summary": "Crimean Tatar refers to both an ethnic group and a language associated with the Crimean Tatars, who are a significant minority [[coal-in-ukraine|in Ukraine]], particularly in the [[crimea|Crimean Peninsula]].",
   "sections": [
     {
       "heading": "Crimean Tatars",
       "paragraphs": [
-        "The [[crimean-tatars|Crimean Tatars]] are an ethnic group native to [[crimea|Crimea]], with a rich cultural heritage and a history that is closely tied to [[administrative-territorial-entity-of-ukraine|the region of Ukraine]]. They have faced various challenges throughout history, including periods of repression and forced displacement."
+        "The [[crimean-tatars|Crimean Tatars]] are an ethnic group native to [[crimean-khanate|Crimea]], with a rich cultural heritage and a history that is closely tied to [[administrative-territorial-entity-of-ukraine|the region of Ukraine]]. They have faced various challenges throughout history, including periods of repression and forced displacement."
       ]
     },
     {
@@ -28,6 +28,7 @@
     "administrative-territorial-entity-of-ukraine",
     "coal-in-ukraine",
     "crimea",
+    "crimean-khanate",
     "crimean-tatars",
     "ukraine"
   ],

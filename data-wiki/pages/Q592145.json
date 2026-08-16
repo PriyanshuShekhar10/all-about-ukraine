@@ -45,14 +45,14 @@
     {
       "heading": "Geographical Location",
       "paragraphs": [
-        "Znamianka is situated approximately equidistant from the regional center [[kropyvnytskyi|Kropyvnytskyi]] to the west and the cities of Oleksandriia to the east and Svitlovodsk to the north. It is recognized as a significant railway hub on the routes connecting [[kyiv|Kyiv]]-[[dnieper|Dnipro]] and [[kharkiv-oblast|Kharkiv]]-[[odesa|Odesa]]."
+        "Znamianka is situated approximately equidistant from the regional center [[kropyvnytskyi|Kropyvnytskyi]] to the west and the cities of Oleksandriia to the east and [[svitlovodsk|Svitlovodsk]] to the north. It is recognized as a significant railway hub on the routes connecting [[kyiv|Kyiv]]-[[dnieper|Dnipro]] and [[kharkiv-oblast|Kharkiv]]-[[odesa|Odesa]]."
       ]
     },
     {
       "heading": "Historical Background",
       "paragraphs": [
         "The area of modern [[kirovohrad-oblast|Kirovohrad Oblast]], including Znamianka, was originally inhabited by the [[scythians|Scythians]], with archaeological findings such as a bronze and golden Scythian eagle image symbolizing the region. During the Middle Ages, it was home to the East Slavic tribe of Ulichis.",
-        "Following the liberation of [[kievan-rus|Kyivan Rus]]' from Tatar control, the establishment of the first [[zaporizhian-sich|Zaporozhian Sich]] by Dmytro Vyshnevetsky aimed to protect against incursions from the Crimean Khanate and Muscovy. Several villages were founded by [[zaporozhian-cossacks|Zaporozhians]] near present-day Znamianka.",
+        "Following the liberation of [[kievan-rus|Kyivan Rus]]' from Tatar control, the establishment of the first [[zaporizhian-sich|Zaporozhian Sich]] by Dmytro Vyshnevetsky aimed to protect against incursions from the [[crimean-khanate|Crimean Khanate]] and Muscovy. Several villages were founded by [[zaporozhian-cossacks|Zaporozhians]] near present-day Znamianka.",
         "Znamianka was officially founded in 1869 with the commencement of train services between Kharkiv and Odesa. The settlement grew around a railway station named after a nearby village, Znamianka Druha."
       ]
     },
@@ -81,6 +81,7 @@
   ],
   "links_out": [
     "constitutional-court-of-ukraine",
+    "crimean-khanate",
     "dnieper",
     "full-scale-russo-ukrainian-war",
     "holodomor",
@@ -91,6 +92,7 @@
     "kyiv",
     "odesa",
     "scythians",
+    "svitlovodsk",
     "ukraine",
     "ukrainian",
     "ukrainian-war-of-independence",

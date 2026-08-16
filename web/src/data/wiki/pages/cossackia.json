@@ -1,0 +1,68 @@
+{
+  "qid": "Q5174693",
+  "slug": "cossackia",
+  "title": "Cossackia",
+  "type": "topic",
+  "category": "history",
+  "aliases": [
+    "Kazakia",
+    "Kozakia",
+    "Krayna kozakiv",
+    "Land of cossacks",
+    "Southruthenia",
+    "Strana kazakov",
+    "Yugorossia"
+  ],
+  "infobox": {
+    "label": "topic",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Russia",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Cossackia refers to the traditional regions inhabited by Cossack communities in Russia and Ukraine, particularly associated with the Zaporizhian Host. The term has also been used to propose an independent Cossack state, particularly during the early 20th century and World War II.",
+  "sections": [
+    {
+      "heading": "Definition and Context",
+      "paragraphs": [
+        "Cossackia (Russian: Казакия; [[ukrainian|Ukrainian]]: Козакія) is a term that describes the historical areas where Cossack communities reside, primarily in Russia and [[ukraine|Ukraine]], and includes the lands of the Zaporizhian Host. In different contexts, 'Cossackia' can refer to either the ethnographic region of Cossack habitation or a proposed independent Cossack state separate from [[soviet-union|the Soviet Union]]."
+      ]
+    },
+    {
+      "heading": "Early 20th Century Developments",
+      "paragraphs": [
+        "The term 'Cossackia' gained traction among Cossack émigrés in Europe following the Russian Revolution of 1917 and the subsequent civil war. It was used to denote a coalition of seven Cossack territorial Hosts: Don, Kuban, Terek, Astrakhan, Ural, Orenburg, and the Kalmuk district. The concept was first proposed in December 1920 by Cossack émigrés in Constantinople who formed the Union for the Resurrection of Cossackdom. Most [[cossacks|Cossacks]] in exile identified as Russians, and the notion of Cossackia faced opposition from the atamans of the Don, Kuban, and Terek Hosts. Despite widespread poverty among the émigrés, calls for an independent Cossackia emerged from the Cossack community in Prague during the late 1920s, with Vasily Glazkov, a Don Cossack, as a key proponent."
+      ]
+    },
+    {
+      "heading": "World War II and German Involvement",
+      "paragraphs": [
+        "During World War II, some supporters of Cossackia aligned with Germany, seeking to establish a nominally independent Cossack state. Alfred Rosenberg, the Minister of the East, advocated for a strategy to dismantle the Soviet Union into four independent states, including Ukraine. Initially viewing Cossacks as Russians, Rosenberg later redefined them as a distinct 'race' descended from the Goths as their numbers supporting the Reich increased. The Ostministerium, backed by the SS, promoted the idea of Cossackia as a future puppet state in the traditional territories of the Cossack Hosts. Despite reluctance from many Cossack leaders, Nazi propaganda aggressively promoted the establishment of Cossackia, particularly among Cossacks under German control."
+      ]
+    },
+    {
+      "heading": "Post-War Perspectives",
+      "paragraphs": [
+        "After World War II, the concept of an independent Cossackia maintained some support among Cossack émigrés in Europe and the United States. The 1959 U.S. public law on Captive Nations listed Cossackia as a nation oppressed by the Soviet regime. Historian Christopher Simpson noted that Cossackia was a fictitious entity created for propaganda purposes during the war. Nikolai Nazarenko emerged as a prominent advocate for Cossackia in the U.S., organizing events such as the annual Captive Nations Day parade. However, following the dissolution of the Soviet Union in 1991, the idea of Cossackia was largely rejected by the Cossacks, culminating in a 1992 meeting where atamans from 11 Hosts expressed their support for a united Russia."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossacks",
+    "soviet-union",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Cossackia — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cossackia",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

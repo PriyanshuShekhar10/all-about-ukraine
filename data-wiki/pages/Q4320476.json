@@ -1,0 +1,66 @@
+{
+  "qid": "Q4320476",
+  "slug": "mykolayiv-state-agrarian-university",
+  "title": "Mykolayiv State Agrarian University",
+  "type": "college",
+  "category": "geography",
+  "aliases": [
+    "MNAU",
+    "Mykolaiv National Agrarian University"
+  ],
+  "infobox": {
+    "label": "college",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2002",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "46.9648, 31.9645",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Mykolaiv National Agrarian University (MNAU) is a prominent public agricultural college located in Mykolaiv, Ukraine, recognized for its contributions to agrarian education and research.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Mykolaiv National Agrarian University, abbreviated as MNAU, is a public institution dedicated to agricultural education in [[mykolaiv|Mykolaiv]], [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Institutional Significance",
+      "paragraphs": [
+        "As the leading higher education establishment in southern Ukraine, MNAU holds a significant position in the region's educational landscape.",
+        "In the ranking of agrarian institutions of higher education with III-IV levels of accreditation, MNAU is recognized as the second best and has been awarded the honorary title of 'The Leader in Modern Science and Education.'"
+      ]
+    },
+    {
+      "heading": "Academic Focus",
+      "paragraphs": [
+        "The university's primary areas of focus include agrarian and economic education, fostering connections between academia and industry, and exploring investment processes along with innovative agricultural techniques."
+      ]
+    }
+  ],
+  "links_out": [
+    "mykolaiv",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Mykolaiv National Agrarian University — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mykolaiv_National_Agrarian_University",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

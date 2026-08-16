@@ -1,0 +1,87 @@
+{
+  "qid": "Q2399843",
+  "slug": "soledar",
+  "title": "Soledar",
+  "type": "city in Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "18",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "100",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.6953, 38.0675",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Soledar is a city in Bakhmut Raion, [[donetsk-oblast|Donetsk Oblast]], Ukraine, known for its historical salt mining industry. Once a thriving settlement, it has been largely destroyed and depopulated due to the ongoing conflict in the region, particularly during the Russian invasion of Ukraine.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Soledar, originally known as Brіantsіvka, was established by Don [[cossacks|Cossacks]] in the second half of the 17th century. Industrial salt mining commenced in 1881 when the area was part of the Russian Empire, leading to significant population growth as workers settled in the region."
+      ]
+    },
+    {
+      "heading": "20th Century Developments",
+      "paragraphs": [
+        "In 1925, the village was renamed Karlo-Libknekhtovsk in honor of German socialist Karl Liebknecht. The settlement experienced occupation by Nazi Germany during World War II, followed by liberation by the Soviet Red Army in September 1943. The village was granted city status in 1965 and was renamed Soledar in July 1991, reflecting its salt mining heritage."
+      ]
+    },
+    {
+      "heading": "Impact of the Russo-Ukrainian War",
+      "paragraphs": [
+        "In February 2014, following the [[euromaidan|Euromaidan]] protests, Soledar fell under the control of pro-Russian rebels for a brief period before being retaken by [[ukrainian|Ukrainian]] forces in July 2014. However, the war led to a significant population decline, with the population dropping from 14,600 in 1971 to 10,490 by early 2022.",
+        "During the full-scale Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in 2022, Soledar was subjected to intense shelling and was reported to be 90 percent destroyed by August 2022. The city was captured by Russian forces on January 11, 2023, after heavy fighting, leaving it in ruins and nearly uninhabited."
+      ]
+    },
+    {
+      "heading": "Geography and Economy",
+      "paragraphs": [
+        "Soledar is located in the [[donbas|Donbas]] region of eastern [[ukraine|Ukraine]], approximately 18 km from [[bakhmut|Bakhmut]]. The city was known for its extensive salt mines, operated by the Artemsil company, which was the largest salt mine in Europe. The mine ceased operations in May 2022 due to the ongoing conflict.",
+        "Prior to the war, Soledar's salt mines attracted tourism, featuring underground tours and therapeutic facilities. However, these activities have been severely disrupted by the conflict."
+      ]
+    },
+    {
+      "heading": "Scientific Significance",
+      "paragraphs": [
+        "The Soledar salt mine housed the Artyomovsk Scintillation Detector, established in November 1977 for neutrino radiation detection. A proposal to use the mines for nuclear waste disposal was met with local opposition and was ultimately dismissed by regional authorities."
+      ]
+    }
+  ],
+  "links_out": [
+    "bakhmut",
+    "cossacks",
+    "donbas",
+    "donetsk-oblast",
+    "euromaidan",
+    "full-scale-russo-ukrainian-war",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Soledar — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Soledar",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

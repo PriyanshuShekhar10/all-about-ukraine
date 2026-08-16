@@ -1,0 +1,50 @@
+{
+  "qid": "Q112798358",
+  "slug": "krymske",
+  "title": "Krymske",
+  "type": "Wikimedia list article",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia list article",
+    "fields": []
+  },
+  "summary": "Krymske refers to several locations within Ukraine, each with distinct administrative affiliations. These places are significant in their respective regions, contributing to the cultural and geographical diversity of Ukraine.",
+  "sections": [
+    {
+      "heading": "Krymske in Crimea",
+      "paragraphs": [
+        "Krymske is a village located in the Saky Raion of [[crimean-khanate|Crimea]]. As part of this historically rich region, it reflects the unique cultural heritage of Crimea within [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Krymske in Donetsk Oblast",
+      "paragraphs": [
+        "In [[donetsk-oblast|Donetsk Oblast]], Krymske is identified as a settlement situated in [[bakhmut|Bakhmut]] Raion. This area has been significant in the context of regional development and the ongoing conflict in Eastern Ukraine."
+      ]
+    },
+    {
+      "heading": "Krymske in Luhansk Oblast",
+      "paragraphs": [
+        "Krymske also refers to a village in the Shchastia Raion of [[luhansk-oblast|Luhansk Oblast]]. This village is part of a region that has been affected by geopolitical tensions and conflict, highlighting the challenges faced by local communities [[coal-in-ukraine|in Ukraine]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "bakhmut",
+    "coal-in-ukraine",
+    "crimean-khanate",
+    "donetsk-oblast",
+    "luhansk-oblast",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Krymske — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Krymske",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

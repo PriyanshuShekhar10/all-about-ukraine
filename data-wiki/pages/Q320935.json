@@ -1,0 +1,80 @@
+{
+  "qid": "Q320935",
+  "slug": "nestor-the-chronicler",
+  "title": "Nestor the Chronicler",
+  "type": "human",
+  "category": "history",
+  "aliases": [
+    "Nestor litopysets",
+    "Nestor of Kiev"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1056",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1114",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Kyiv",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Nestor the Chronicler (c. 1056 – c. 1114) was a monk at the Monastery of the Caves in Kiev, recognized for his significant contributions to [[kievan-rus|Kievan Rus]]' literature, particularly through his hagiographies. His works, including the Life of the Venerable Theodosius and the Account of Boris and Gleb, are vital to understanding the cultural and religious [[history-of-ukraine|history of Ukraine]].",
+  "sections": [
+    {
+      "heading": "Biography",
+      "paragraphs": [
+        "Nestor the Chronicler entered the Monastery of the Caves in Kiev as a novice around 1073 at the age of 17. He received monastic tonsure under Stephen, the successor to Theodosius of Kiev, and was later ordained as a hierodeacon.",
+        "In 1091, Nestor, along with two other monks, was tasked with locating the relics of Theodosius of Kiev, a mission he accomplished successfully. Nestor passed away around 1114 and was laid to rest in the Near Caves. He was canonized as a saint by the Eastern Orthodox Church, with his relics preserved in the Kiev Pechersk Lavra."
+      ]
+    },
+    {
+      "heading": "Purported Authorship of the Primary Chronicle",
+      "paragraphs": [
+        "Nestor is traditionally credited with the authorship of the Primary Chronicle, also known as the Tale of Bygone Years, which has led to his designation as 'the Chronicler.' However, contemporary scholars debate his role as the primary author, prompting some to refer to him as Nestor the Hagiographer, reflecting his confirmed works."
+      ]
+    },
+    {
+      "heading": "Veneration",
+      "paragraphs": [
+        "Nestor the Chronicler was canonized, and his name is included in the Synaxis of all Venerable Fathers of the Kiev Caves. His feast day is celebrated on October 27, alongside Nestor of Thessaloniki and Nestor of the Far Kiev Caves.",
+        "Additional commemorations include the Synaxis of Saints of [[volhynia|Volhynia]] on May 25, the Synaxis of All Saints of Kiev on July 15, and the Synaxis of the Venerable Fathers of the Kiev Near Caves on September 28."
+      ]
+    },
+    {
+      "heading": "Liturgical Hymns",
+      "paragraphs": [
+        "The Eastern Orthodox tradition preserves liturgical hymns dedicated to Saint Nestor. These hymns reflect his contributions to the faith and the reverence held for him within the religious community."
+      ]
+    },
+    {
+      "heading": "Known Works",
+      "paragraphs": [
+        "Nestor is known for two major hagiographies: the Life of the Venerable Theodosius of the Kiev Caves, written in the 1080s, and the Chtenie about the Life and Martyrdom of the Blessed Passion Bearers Boris and Gleb, which dates to the late 11th or early 12th century, although its dating is disputed."
+      ]
+    }
+  ],
+  "links_out": [
+    "history-of-ukraine",
+    "kievan-rus",
+    "volhynia"
+  ],
+  "sources": [
+    {
+      "title": "Nestor the Chronicler — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nestor_the_Chronicler",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

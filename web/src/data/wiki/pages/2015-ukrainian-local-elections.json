@@ -1,0 +1,93 @@
+{
+  "qid": "Q17379896",
+  "slug": "2015-ukrainian-local-elections",
+  "title": "2015 Ukrainian local elections",
+  "type": "municipal election",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "municipal election",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2015-10-25",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The 2015 Ukrainian local elections, held on 25 October, marked a significant political event [[coal-in-ukraine|in Ukraine]], occurring amid ongoing conflict and territorial disputes. A second round of mayoral elections took place on 15 November 2015 in cities where no candidate achieved a majority.",
+  "sections": [
+    {
+      "heading": "Election Context",
+      "paragraphs": [
+        "The local [[elections-in-ukraine|elections in Ukraine]] were conducted on 25 October 2015, slightly more than a year after the 2014 snap local elections, which were limited to certain regions of the country. Due to the conflict in Eastern [[ukraine|Ukraine]] and the [[russian-annexation-of-crimea|annexation of Crimea by Russia]] in February 2014, elections were not held in all administrative subdivisions of Ukraine."
+      ]
+    },
+    {
+      "heading": "Political Landscape and Participation",
+      "paragraphs": [
+        "A total of 132 political parties participated in the elections, competing for 1,600 regional council seats across 22 regional parliaments, as well as over 10,700 local councils and mayoral positions. The voter turnout was recorded at 46.62%, while the turnout for the second round of voting dropped to 34.08%.",
+        "The [[european-solidarity|Petro Poroshenko Bloc]] 'Solidarity', All-[[ukrainian|Ukrainian]] Union 'Fatherland', Our Land, Opposition Bloc, and the Radical Party emerged as the leading parties, with the Petro Poroshenko Bloc performing strongly in western and central regions, and the Opposition Bloc gaining significant support in the southern and eastern parts of Ukraine."
+      ]
+    },
+    {
+      "heading": "Legal Framework and Changes",
+      "paragraphs": [
+        "In July 2015, the [[verkhovna-rada|Ukrainian parliament]] enacted a new law governing local elections, which raised the electoral threshold from 3% to 5%. This law introduced various electoral systems for mayoral and council elections, including a majoritarian system for mayors in smaller cities and multi-member constituencies for regional councils. Additionally, the law stipulated that political parties must demonstrate support in two-thirds of Ukraine's oblasts to register."
+      ]
+    },
+    {
+      "heading": "Election Results and Mayoral Races",
+      "paragraphs": [
+        "In major cities, notable results included incumbent Mayor [[vitali-klitschko|Vitali Klitschko]] winning re-election in [[kyiv|Kyiv]] with 66.5% in the second round, while Hennadiy Kernes was re-elected in [[kharkiv-oblast|Kharkiv]] with 65.8%. In [[dnipro|Dnipropetrovsk]], a second round was necessary, where [[borys-filatov|Borys Filatov]] secured the mayoral position with 53.76% of the votes. In [[odesa|Odesa]], Gennadiy Trukhanov also won re-election, and Volodymyr Buriak became the new mayor of [[zaporizhzhia|Zaporizhzhia]] after a second round.",
+        "Overall, the elections highlighted the political divisions within Ukraine, with varying levels of support for different parties across regions."
+      ]
+    },
+    {
+      "heading": "International Observations and Conduct",
+      "paragraphs": [
+        "The electoral process was monitored by 1,554 international observers, with positive assessments from the [[council-of-europe|Council of Europe]] and the OSCE, although the latter noted the need for improvements in electoral legislation. The European Network of Election Monitoring Organizations deemed the second round of mayoral elections on 15 November as generally compliant with international standards."
+      ]
+    },
+    {
+      "heading": "Challenges in Specific Regions",
+      "paragraphs": [
+        "Elections were not held in certain areas of the [[donbas|Donbas]] region and [[crimean-khanate|Crimea]] due to ongoing conflict and territorial issues. In [[mariupol|Mariupol]], Krasnoarmiisk, and Svatove, local election commissions faced challenges, including ballot manipulation allegations. Subsequently, local elections were rescheduled for these areas, with Vadym Boychenko of the Opposition Bloc winning in Mariupol."
+      ]
+    }
+  ],
+  "links_out": [
+    "borys-filatov",
+    "coal-in-ukraine",
+    "council-of-europe",
+    "crimean-khanate",
+    "dnipro",
+    "donbas",
+    "elections-in-ukraine",
+    "european-solidarity",
+    "kharkiv-oblast",
+    "kyiv",
+    "mariupol",
+    "odesa",
+    "russian-annexation-of-crimea",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada",
+    "vitali-klitschko",
+    "zaporizhzhia"
+  ],
+  "sources": [
+    {
+      "title": "2015 Ukrainian local elections — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2015_Ukrainian_local_elections",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

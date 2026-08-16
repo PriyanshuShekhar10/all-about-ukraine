@@ -1,0 +1,47 @@
+{
+  "qid": "Q246798",
+  "slug": "novomoskovsk",
+  "title": "Novomoskovsk",
+  "type": "Wikimedia disambiguation page",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "Novomoskovsk refers to several locations and entities, primarily highlighting the town [[coal-in-ukraine|in Ukraine]]'s Dnipropetrovsk Oblast and its historical significance.",
+  "sections": [
+    {
+      "heading": "Novomoskovsk in Ukraine",
+      "paragraphs": [
+        "Samar, a town located in [[dnipropetrovsk-oblast|Dnipropetrovsk Oblast]], [[ukraine|Ukraine]], was formerly known as Novomoskovsk. This town is significant within the context of Ukraine's administrative divisions and local governance."
+      ]
+    },
+    {
+      "heading": "Novomoskovsk in Russia",
+      "paragraphs": [
+        "Novomoskovsk is also the name of a city situated in Tula Oblast, Russia. This city is part of the Novomoskovsk Urban Okrug, which serves as its municipal formation."
+      ]
+    },
+    {
+      "heading": "Military Reference",
+      "paragraphs": [
+        "The term Novomoskovsk is associated with the Russian Navy submarine K-407 Novomoskovsk, which adds a military dimension to the name's significance."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "dnipropetrovsk-oblast",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Novomoskovsk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Novomoskovsk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

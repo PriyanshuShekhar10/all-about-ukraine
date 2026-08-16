@@ -1,0 +1,82 @@
+{
+  "qid": "Q310328",
+  "slug": "andriy-yarmolenko",
+  "title": "Andriy Yarmolenko",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Andriy Mykolayovych Yarmolenko"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1989-10-23",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Saint Petersburg",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Andriy Mykolayovych Yarmolenko is a prominent Ukrainian professional footballer, recognized for his role as a winger or forward for Dynamo Kyiv and as the captain of the Ukraine national team. He has been an international player since 2009, achieving notable success in various UEFA European Championships.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Andriy Yarmolenko was born on 23 October 1989 to [[ukrainian|Ukrainian]] parents in Leningrad, who later returned to [[ukraine|Ukraine]] after the dissolution of [[soviet-union|the Soviet Union]]. The family settled in [[chernihiv|Chernihiv]], where Yarmolenko began playing football at a young age, initially using a self-made ball due to financial constraints. He was later discovered by Mykola Lypoviy, who became his first coach."
+      ]
+    },
+    {
+      "heading": "Club Career",
+      "paragraphs": [
+        "Yarmolenko started his football career at the Chernihiv Youth Sports School 'Yunist' before joining [[fc-dynamo-kyiv|Dynamo Kyiv]]'s Youth Academy at the age of 13. He played for various clubs, including Desna Chernihiv, before signing a five-year contract with Dynamo Kyiv in 2007. He made his first team debut on 11 May 2008, scoring the winning goal against [[vorskla|Vorskla]] [[poltava|Poltava]]. Yarmolenko's performance earned him comparisons to the legendary [[andriy-shevchenko|Andriy Shevchenko]].",
+        "In August 2017, he transferred to Borussia Dortmund, where he made his debut shortly after. He later joined West Ham United in July 2018, where he faced injuries but made significant contributions, including scoring crucial goals during the 2021–2022 season amid the backdrop of the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]]. In July 2022, he signed with Al-Ain in the UAE and returned to Dynamo Kyiv in June 2023."
+      ]
+    },
+    {
+      "heading": "International Career",
+      "paragraphs": [
+        "Yarmolenko has represented Ukraine at various levels, starting with the under-19 team in 2007. He made his senior debut on 5 September 2009 and has since become a key player for the national team, participating in multiple UEFA European Championships. Notable achievements include scoring the fastest goal [[coal-in-ukraine|in Ukraine]]'s history during a friendly match in 2011 and a hat-trick against Luxembourg in 2014. He scored in UEFA Euro 2020 and was called up for UEFA Euro 2024."
+      ]
+    },
+    {
+      "heading": "Personal Life and Contributions",
+      "paragraphs": [
+        "Yarmolenko is married with three sons and has been actively involved in charitable efforts, particularly during the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]]. He donated £75,000 to the [[armed-forces-of-ukraine|Armed Forces of Ukraine]] and assisted in evacuating families from Chernihiv. Additionally, he presented an ambulance to his hometown and was recognized as an honorary citizen of Chernihiv in 2021."
+      ]
+    },
+    {
+      "heading": "Honours",
+      "paragraphs": [
+        "Throughout his career, Yarmolenko has achieved numerous accolades, including multiple Ukrainian Premier League titles, domestic cups, and individual awards such as Ukrainian Footballer of the Year. His contributions to both club and country have solidified his status as one of Ukraine's most celebrated footballers."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "andriy-shevchenko",
+    "armed-forces-of-ukraine",
+    "chernihiv",
+    "coal-in-ukraine",
+    "fc-dynamo-kyiv",
+    "full-scale-russo-ukrainian-war",
+    "poltava",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "vorskla"
+  ],
+  "sources": [
+    {
+      "title": "Andriy Yarmolenko — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Andriy_Yarmolenko",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

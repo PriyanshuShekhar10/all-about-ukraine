@@ -9,6 +9,7 @@
       "2006-ukrainian-parliamentary-election",
       "2010-ukrainian-presidential-election",
       "2012-ukrainian-parliamentary-election",
+      "2015-ukrainian-local-elections",
       "2019-ukrainian-presidential-election",
       "2022-russian-invasion-of-ukraine",
       "administrative-territorial-entity-of-ukraine",
@@ -18,10 +19,12 @@
       "andrii-parubii",
       "andrii-yermak",
       "andriy-shevchenko",
+      "andriy-yarmolenko",
       "apostolic-nunciature-to-ukraine",
       "arcelormittal-kryvyi-rih",
       "armed-forces-of-ukraine",
       "arsen-avakov",
+      "artem-dzyuba",
       "artem-sytnyk",
       "astarta-holding",
       "avdeyevka-coke-and-chemical-plant",
@@ -29,6 +32,7 @@
       "azovstal",
       "bakhmut",
       "banking-in-ukraine",
+      "baryshivska-hromada",
       "batkivshchyna",
       "battle-of-kiev",
       "beer-in-ukraine",
@@ -46,12 +50,15 @@
       "borys-tarasyuk",
       "borys-voznytskyi-lviv-national-art-gallery",
       "boryslav",
+      "borysthenes",
       "bukovina",
+      "burgerinitiatief",
       "cabbage-roll",
       "carpathians",
       "categorysteel-industry-in-ukraine",
       "catholic-church-in-ukraine",
       "central-election-commission-of-ukraine",
+      "central-rada",
       "centrenergo",
       "chechenrussian-conflict",
       "cherkasy",
@@ -126,12 +133,14 @@
       "iryna-venediktova",
       "ivan-franko",
       "ivan-kotliarevskyi",
+      "ivano-frankivsk-national-medical-university",
       "ivano-frankivsk-national-technical-university-of-oil-and-gas",
       "iziaslav",
       "izmail",
       "judicial-system-of-ukraine",
       "karpaty",
       "kharkiv",
+      "kharkiv-national-university-of-radioelectronics",
       "kharkiv-oblast",
       "kharkiv-tractor-plant",
       "khmelnytsky-uprising",
@@ -143,6 +152,8 @@
       "kobzar",
       "kolomyjka",
       "kramatorsk-railway-station-attack",
+      "kremenchuk",
+      "krymske",
       "kryvbas",
       "kryvorivnia",
       "kryvyi-rih",
@@ -151,6 +162,7 @@
       "kutia",
       "kyiv",
       "kyiv-metro",
+      "kyiv-music-fest",
       "kyiv-national-academic-theatre-of-operetta",
       "kyiv-national-economic-university-named-after-vadym-hetman",
       "kyiv-national-university-of-culture-and-arts",
@@ -171,6 +183,7 @@
       "lviv-polytechnic",
       "lviv-theatre-of-opera-and-ballet",
       "lviv-university",
+      "lysychansk",
       "maidan-nezalezhnosti",
       "makiivka",
       "mariupol",
@@ -206,6 +219,7 @@
       "nikita-khrushchev",
       "nikolay-aleksandrovich-tikhonov",
       "nova-post",
+      "novomoskovsk",
       "nuclear-power-in-ukraine",
       "odesa",
       "odesa-film-studio",
@@ -214,6 +228,7 @@
       "oleh-sentsov",
       "oleh-skrypka",
       "oleksandr-turchynov",
+      "oleksandr-vysotskyi",
       "oleshky-sands",
       "olga-kurylenko",
       "orange-revolution",
@@ -225,7 +240,9 @@
       "pavlo-klimkin",
       "pavlo-skoropadsky",
       "pavlo-tychyna-uman-state-pedagogical-university",
+      "pavlohrad",
       "pensions-in-ukraine",
+      "pervomaisk",
       "petro-poroshenko",
       "petrykivka-painting",
       "pidhirtsi-castle",
@@ -244,6 +261,7 @@
       "psycho-pass",
       "pyotr-ilyich-tchaikovsky",
       "pysanka",
+      "pysanka-museum",
       "radio-ukraine",
       "radomysl-castle",
       "rag-doll",
@@ -268,6 +286,7 @@
       "salo",
       "sergei-bubka",
       "sergei-korolev",
+      "shatsk-national-natural-park",
       "shevchenko-national-prize",
       "sich-riflemen",
       "siege-of-mariupol",
@@ -283,6 +302,7 @@
       "sumy",
       "sviatohirsk-lavra",
       "sviatoslav-vakarchuk",
+      "svitlovodsk",
       "taras-bulba",
       "taras-shevchenko",
       "taras-shevchenko-national-university-of-kyiv",
@@ -326,6 +346,7 @@
       "ukrainian-presidential-election",
       "ukrainian-red-cross-society",
       "ukrainian-rock",
+      "ukrainian-socialist-party",
       "ukrainian-soviet-socialist-republic",
       "ukrainian-state-film-agency",
       "ukrainian-wine",
@@ -339,6 +360,7 @@
       "vasyl-symonenko",
       "verkhovna-rada",
       "vernadsky-national-library-of-ukraine",
+      "viktor-medvedchuk",
       "viktor-yanukovych",
       "viktor-yushchenko",
       "vinnytsia",
@@ -349,8 +371,10 @@
       "volodymyr-hroisman",
       "volodymyr-zelenskyy",
       "volyn-oblast",
+      "vuhledar",
       "vyshyvanka",
       "western-bug",
+      "women-in-ukraine",
       "yalta",
       "yalta-conference",
       "yaremche",
@@ -373,8 +397,9 @@
       "zolochiv",
       "zorya-mashproekt"
     ],
-    "crimea": [
+    "crimean-khanate": [
       "2012-ukrainian-parliamentary-election",
+      "2015-ukrainian-local-elections",
       "administrative-territorial-entity-of-ukraine",
       "agriculture-in-ukraine",
       "alina-pash",
@@ -383,7 +408,9 @@
       "bakhchysarai",
       "chervona-ruta",
       "chornomornaftogaz",
+      "chumak",
       "constitution-of-ukraine",
+      "crimea",
       "crimea-crisis",
       "crimea-gold-and-secrets-of-the-black-sea",
       "crimean-tatar",
@@ -391,12 +418,14 @@
       "crimean-war",
       "deportation-of-the-crimean-tatars",
       "dtek",
+      "eurovision-song-contest-2017",
       "first-battle-of-kharkov",
       "full-scale-russo-ukrainian-war",
       "hanna-malyar",
       "henichesk",
       "history-of-crimea",
       "history-of-ukraine",
+      "hryshko-national-botanical-garden",
       "igor-girkin",
       "ivan-aivazovsky",
       "ivan-sirko",
@@ -405,12 +434,18 @@
       "kherson",
       "kherson-art-museum",
       "kherson-oblast",
+      "khmelnytsky-uprising",
+      "krymske",
       "lesya-ukrainka",
+      "mykolaiv-oblast",
       "naftogaz-of-ukraine",
       "national-guard-of-ukraine",
       "national-historical-museum-of-ukraine",
       "oleh-sentsov",
+      "oleshky-sands",
       "oschadbank",
+      "pale-of-settlement",
+      "pervomaisk",
       "political-party-in-ukraine",
       "religion-in-ukraine",
       "russian-annexation-of-crimea",
@@ -423,7 +458,6 @@
       "social-democratic-party-of-ukraine-united",
       "sudak",
       "syvash-bay",
-      "tawrija",
       "ukrainian-historical-regions",
       "ukrainian-independence-referendum",
       "ukrainian-orthodox-church-moscow-patriarchate",
@@ -431,13 +465,16 @@
       "ukrainian-traditional-costumes",
       "ukrainian-wine",
       "verkhovna-rada",
+      "viktor-medvedchuk",
       "vladimir-putin",
       "war-in-donbas",
-      "yalta",
       "yalta-conference",
       "yelena-gagarina",
       "yevpatoriya",
-      "zlata-ognevich"
+      "zaporizhian-sich",
+      "zaporozhian-cossacks",
+      "zlata-ognevich",
+      "znamianka"
     ],
     "orange-revolution": [
       "2004-ukrainian-presidential-election",
@@ -453,6 +490,7 @@
       "political-party-in-ukraine",
       "president-of-ukraine",
       "serhiy-zhadan",
+      "shche-ne-vmerla-ukrainy-i-slava-i-volia",
       "social-democratic-party-of-ukraine-united",
       "sviatoslav-vakarchuk",
       "tetiana-chornovol",
@@ -484,6 +522,7 @@
       "ukrainian-contemporary-art",
       "viktor-yanukovych",
       "war-in-donbas",
+      "women-in-ukraine",
       "yulia-tymoshenko"
     ],
     "ukraine": [
@@ -491,6 +530,7 @@
       "2006-ukrainian-parliamentary-election",
       "2010-ukrainian-presidential-election",
       "2012-ukrainian-parliamentary-election",
+      "2015-ukrainian-local-elections",
       "2019-ukrainian-presidential-election",
       "2022-kharkiv-counteroffensive",
       "2022-kherson-counteroffensive",
@@ -506,11 +546,13 @@
       "andrii-yermak",
       "andriivskyi-descent",
       "andriy-shevchenko",
+      "andriy-yarmolenko",
       "antonov",
       "antonov-airlines",
       "apostolic-nunciature-to-ukraine",
       "armed-forces-of-ukraine",
       "arsen-avakov",
+      "artem-dzyuba",
       "artem-sytnyk",
       "astarta-holding",
       "avdeyevka-coke-and-chemical-plant",
@@ -521,6 +563,7 @@
       "bakhchysarai",
       "bakhmut",
       "banking-in-ukraine",
+      "baryshivska-hromada",
       "batkivshchyna",
       "battle-of-bakhmut",
       "battle-of-ilovaisk",
@@ -529,6 +572,7 @@
       "battle-of-lwów",
       "battle-of-sievierodonetsk",
       "battle-of-sumy",
+      "battle-of-zboriv",
       "beer-in-ukraine",
       "bessarabia",
       "bila-tserkva",
@@ -550,15 +594,18 @@
       "boryslav",
       "boryspil",
       "boryspil-international-airport",
+      "borysthenes",
       "bucha-massacre",
       "bukovel",
       "bukovina",
+      "burgerinitiatief",
       "cabbage-roll",
       "cabinet-of-ministers-of-ukraine",
       "carpathians",
       "categorysteel-industry-in-ukraine",
       "catholic-church-in-ukraine",
       "central-election-commission-of-ukraine",
+      "central-rada",
       "centrenergo",
       "chechenrussian-conflict",
       "cherkasy",
@@ -588,11 +635,13 @@
       "constitutional-court-of-ukraine",
       "cossack-hetmanate",
       "cossack-song",
+      "cossackia",
       "cossacks",
       "council-of-europe",
       "crimea",
       "crimea-crisis",
       "crimea-gold-and-secrets-of-the-black-sea",
+      "crimean-khanate",
       "crimean-tatar",
       "crimean-tatars",
       "crimean-war",
@@ -639,7 +688,9 @@
       "energy-in-ukraine",
       "enerhodar",
       "euromaidan",
+      "european-solidarity",
       "eurovision-song-contest-2016",
+      "eurovision-song-contest-2017",
       "executed-renaissance",
       "fastiv",
       "fc-dynamo-kyiv",
@@ -655,6 +706,7 @@
       "great-famine",
       "grigory-leps",
       "gritsenko",
+      "gulag",
       "haidamaka",
       "hanna-malyar",
       "henichesk",
@@ -672,6 +724,7 @@
       "horishni-plavni",
       "hoverla",
       "hryhorii-skovoroda",
+      "hryshko-national-botanical-garden",
       "hryvnia",
       "human-rights-in-ukraine",
       "igor-girkin",
@@ -691,6 +744,7 @@
       "ivan-kotliarevskyi",
       "ivan-mazepa",
       "ivan-sirko",
+      "ivano-frankivsk-national-medical-university",
       "ivano-frankivsk-national-technical-university-of-oil-and-gas",
       "ivano-frankivsk-raion",
       "iziaslav",
@@ -700,6 +754,7 @@
       "karpaty",
       "kerch-strait-incident",
       "kharkiv",
+      "kharkiv-national-university-of-radioelectronics",
       "kharkiv-oblast",
       "kharkiv-tractor-plant",
       "kherson",
@@ -714,11 +769,14 @@
       "kievan-rus",
       "kingdom-of-galiciavolhynia",
       "kirovohrad-oblast",
+      "kramatorsk",
       "kramatorsk-railway-station-attack",
+      "kremenchuk",
       "kremenets-castle",
       "kreminna",
       "kremlin",
       "kropyvnytskyi",
+      "krymske",
       "kryvbas",
       "kryvorivnia",
       "kryvyi-rih",
@@ -728,6 +786,7 @@
       "kyiv-city-state-administration",
       "kyiv-fortress",
       "kyiv-metro",
+      "kyiv-music-fest",
       "kyiv-national-academic-theatre-of-operetta",
       "kyiv-national-economic-university-named-after-vadym-hetman",
       "kyiv-national-university-of-culture-and-arts",
@@ -754,6 +813,7 @@
       "lviv-polytechnic",
       "lviv-theatre-of-opera-and-ballet",
       "lviv-university",
+      "lysychansk",
       "maidan-nezalezhnosti",
       "makiivka",
       "mariupol",
@@ -787,6 +847,7 @@
       "mykolaiv",
       "mykolaiv-oblast",
       "mykolaiv-shipyard",
+      "mykolayiv-state-agrarian-university",
       "myrhorod",
       "myroslav-skoryk",
       "nadiya-savchenko",
@@ -809,7 +870,9 @@
       "nikita-khrushchev",
       "nikolay-aleksandrovich-tikhonov",
       "nina-matviienko",
+      "nizhyn",
       "nova-post",
+      "novomoskovsk",
       "nuclear-power-in-ukraine",
       "odesa",
       "odesa-film-studio",
@@ -822,6 +885,7 @@
       "oleh-skrypka",
       "oleksandr-dovzhenko",
       "oleksandr-turchynov",
+      "oleksandr-vysotskyi",
       "oles-honchar",
       "oles-honchar-dnipro-national-university",
       "olesko-castle",
@@ -842,9 +906,12 @@
       "pavlo-tychyna-museum",
       "pavlo-tychyna-uman-state-pedagogical-university",
       "pavlo-zibrov",
+      "pavlohrad",
+      "pavlovo",
       "pecherskyi-district",
       "pensions-in-ukraine",
       "peremyshl",
+      "pervomaisk",
       "petro-poroshenko",
       "petrykivka-painting",
       "pidhirtsi-castle",
@@ -871,6 +938,7 @@
       "pyriatyn",
       "pyrohiv",
       "pysanka",
+      "pysanka-museum",
       "radio-ukraine",
       "radomysl-castle",
       "rail-transport-in-ukraine",
@@ -898,8 +966,10 @@
       "rusyns",
       "ruthenia",
       "saint-sophia-cathedral",
+      "sakhalin",
       "sakharov-prize",
       "samopomich",
+      "sarmatians",
       "savchuk",
       "scythians",
       "second-battle-of-kharkov",
@@ -908,6 +978,8 @@
       "sergei-korolev",
       "serhiy-zhadan",
       "sevastopol",
+      "shatsk-national-natural-park",
+      "shche-ne-vmerla-ukrainy-i-slava-i-volia",
       "sheptytskyi",
       "shevchenko-national-prize",
       "siberia",
@@ -922,6 +994,7 @@
       "social-democratic-party-of-ukraine-united",
       "sofia-rotaru",
       "sofiyivsky-park",
+      "soledar",
       "southern-bug",
       "soviet-famine-of-19321933",
       "soviet-invasion-of-poland",
@@ -937,6 +1010,7 @@
       "sviatoshyn",
       "sviatoshynskyi-district",
       "sviatoslav-vakarchuk",
+      "svitlovodsk",
       "syvash-bay",
       "taras-bulba",
       "taras-shevchenko",
@@ -1002,6 +1076,7 @@
       "ukrainian-railways",
       "ukrainian-red-cross-society",
       "ukrainian-rock",
+      "ukrainian-socialist-party",
       "ukrainian-soviet-socialist-republic",
       "ukrainian-state",
       "ukrainian-state-film-agency",
@@ -1024,6 +1099,7 @@
       "vasylivka",
       "velykyi-bychkiv",
       "verkhovna-rada",
+      "viktor-medvedchuk",
       "viktor-tsoi",
       "viktor-yushchenko",
       "vinnytsia",
@@ -1039,12 +1115,14 @@
       "volyn-oblast",
       "vorskla",
       "vostok-battalion",
+      "vuhledar",
       "vynnyky",
       "vyshyvanka",
       "war-in-donbas",
       "west-ukrainian-national-university",
       "western-bug",
       "western-ukraine",
+      "women-in-ukraine",
       "yalta",
       "yalta-conference",
       "yaremche",
@@ -1077,6 +1155,7 @@
       "znamianka",
       "zolochiv",
       "zolochiv-castle",
+      "zolote",
       "zolotonosha",
       "zvenyhorod",
       "zvenyhorodka"
@@ -1085,6 +1164,7 @@
       "2004-ukrainian-presidential-election",
       "2010-ukrainian-presidential-election",
       "2012-ukrainian-parliamentary-election",
+      "2015-ukrainian-local-elections",
       "2019-ukrainian-presidential-election",
       "2022-kharkiv-counteroffensive",
       "2022-kherson-counteroffensive",
@@ -1099,11 +1179,13 @@
       "andrii-yermak",
       "andriivskyi-descent",
       "andriy-shevchenko",
+      "andriy-yarmolenko",
       "antonov",
       "antonov-airlines",
       "apostolic-nunciature-to-ukraine",
       "armed-forces-of-ukraine",
       "arsen-avakov",
+      "artem-dzyuba",
       "artem-sytnyk",
       "astarta-holding",
       "avdeyevka-coke-and-chemical-plant",
@@ -1114,6 +1196,7 @@
       "bakhmut",
       "bandura",
       "banking-in-ukraine",
+      "baryshivska-hromada",
       "batkivshchyna",
       "battle-of-bakhmut",
       "battle-of-debaltseve",
@@ -1123,6 +1206,7 @@
       "battle-of-sievierodonetsk",
       "battle-of-sumy",
       "beer-in-ukraine",
+      "belovodskoye",
       "bila-tserkva-raion",
       "black-sea-shipping-company",
       "bohdan-hawrylyshyn",
@@ -1152,6 +1236,7 @@
       "categorysteel-industry-in-ukraine",
       "catholic-church-in-ukraine",
       "central-election-commission-of-ukraine",
+      "central-rada",
       "centrenergo",
       "cherkasy-oblast",
       "chernihiv",
@@ -1170,6 +1255,7 @@
       "constitutional-court-of-ukraine",
       "cossack-mamay",
       "cossack-song",
+      "cossackia",
       "crimea",
       "crimea-crisis",
       "crimea-gold-and-secrets-of-the-black-sea",
@@ -1212,6 +1298,8 @@
       "electricity-in-ukraine",
       "enerhodar",
       "euromaidan",
+      "european-solidarity",
+      "eurovision-song-contest-2017",
       "executed-renaissance",
       "fastiv",
       "fc-dynamo-kyiv",
@@ -1263,6 +1351,7 @@
       "ivan-mazepa",
       "ivan-sirko",
       "ivano-frankivsk",
+      "ivano-frankivsk-national-medical-university",
       "ivano-frankivsk-national-technical-university-of-oil-and-gas",
       "ivano-frankivsk-oblast",
       "izmail",
@@ -1283,6 +1372,7 @@
       "kirovohrad-oblast",
       "kobzar",
       "kolomyjka",
+      "kramatorsk",
       "kramatorsk-railway-station-attack",
       "kremenchuk-reservoir",
       "kreminna",
@@ -1292,6 +1382,7 @@
       "kupala-night",
       "kutia",
       "kyiv",
+      "kyiv-music-fest",
       "kyiv-national-economic-university-named-after-vadym-hetman",
       "kyiv-national-university-of-culture-and-arts",
       "kyiv-oblast",
@@ -1322,6 +1413,7 @@
       "lviv-polytechnic",
       "lviv-theatre-of-opera-and-ballet",
       "lviv-university",
+      "lysychansk",
       "maidan-nezalezhnosti",
       "makiivka",
       "mariupol",
@@ -1376,6 +1468,7 @@
       "nikolai-gogol",
       "nikolay-aleksandrovich-tikhonov",
       "nina-matviienko",
+      "nizhyn",
       "nova-post",
       "odesa",
       "odesa-film-studio",
@@ -1408,7 +1501,9 @@
       "pavlo-tychyna-museum",
       "pavlo-tychyna-uman-state-pedagogical-university",
       "pavlo-zibrov",
+      "pavlohrad",
       "pecherskyi-district",
+      "pervomaisk",
       "petro-poroshenko",
       "petrykivka-painting",
       "pivdenmash",
@@ -1427,6 +1522,7 @@
       "prykarpattia",
       "pyotr-ilyich-tchaikovsky",
       "pysanka",
+      "pysanka-museum",
       "radio-ukraine",
       "radomysl-castle",
       "rag-doll",
@@ -1454,6 +1550,7 @@
       "saint-sophia-cathedral",
       "salo",
       "samopomich",
+      "sarny",
       "savchuk",
       "security-service-of-ukraine",
       "sergei-bubka",
@@ -1461,6 +1558,8 @@
       "serhiy-zhadan",
       "servant-of-the-people",
       "sevastopol",
+      "shatsk-national-natural-park",
+      "shche-ne-vmerla-ukrainy-i-slava-i-volia",
       "shchedryk",
       "shevchenko-national-prize",
       "sich-riflemen",
@@ -1473,6 +1572,7 @@
       "social-democratic-party-of-ukraine-united",
       "sofia-rotaru",
       "sofiyivsky-park",
+      "soledar",
       "southern-bug",
       "soviet-famine-of-19321933",
       "soviet-invasion-of-poland",
@@ -1487,6 +1587,7 @@
       "sviatohirsk",
       "sviatoshyn",
       "sviatoslav-vakarchuk",
+      "svitlovodsk",
       "syvash-bay",
       "taras-bulba",
       "taras-shevchenko",
@@ -1548,6 +1649,7 @@
       "ukrainian-railways",
       "ukrainian-red-cross-society",
       "ukrainian-rock",
+      "ukrainian-socialist-party",
       "ukrainian-soviet-socialist-republic",
       "ukrainian-state",
       "ukrainian-state-film-agency",
@@ -1572,6 +1674,7 @@
       "vasylivka",
       "velykyi-bychkiv",
       "vernadsky-national-library-of-ukraine",
+      "viktor-medvedchuk",
       "viktor-yanukovych",
       "viktor-yushchenko",
       "vinnytsia-oblast",
@@ -1584,12 +1687,14 @@
       "volodymyr-viatrovych",
       "volodymyr-zelenskyy",
       "volyn-oblast",
+      "vuhledar",
       "vynnyky",
       "vyshyvanka",
       "war-in-donbas",
       "west-ukrainian-national-university",
       "west-ukrainian-peoples-republic",
       "western-ukraine",
+      "women-in-ukraine",
       "yalta",
       "yalta-conference",
       "yevhen-hutsalo",
@@ -1615,6 +1720,7 @@
       "zmiivka",
       "znamianka",
       "zolochiv-castle",
+      "zolote",
       "zolotonosha",
       "zorya-mashproekt",
       "zvenyhorodka"
@@ -1622,6 +1728,7 @@
     "verkhovna-rada": [
       "2006-ukrainian-parliamentary-election",
       "2010-ukrainian-presidential-election",
+      "2015-ukrainian-local-elections",
       "2019-ukrainian-presidential-election",
       "andrii-parubii",
       "andriy-shevchenko",
@@ -1634,9 +1741,7 @@
       "buchach",
       "cabinet-of-ministers-of-ukraine",
       "central-election-commission-of-ukraine",
-      "chernihiv",
       "chernihiv-oblast",
-      "coat-of-arms-of-ukrainiae",
       "constitution-of-ukraine",
       "constitutional-court-of-ukraine",
       "declaration-of-independence-of-ukraine",
@@ -1649,6 +1754,7 @@
       "dnipropetrovsk-oblast",
       "elections-in-ukraine",
       "euromaidan",
+      "european-solidarity",
       "foreign-relations-of-ukraine",
       "hanna-malyar",
       "horishni-plavni",
@@ -1667,8 +1773,6 @@
       "ministry-of-defence-of-ukraine",
       "ministry-of-foreign-affairs-of-ukraine",
       "ministry-of-internal-affairs-of-ukraine",
-      "moldovaukraine-relations",
-      "mykhailo-hrushevskyi",
       "mykola-azarov",
       "nadiya-savchenko",
       "national-bank-of-ukraine",
@@ -1678,6 +1782,7 @@
       "oleksandr-turchynov",
       "pavlo-klimkin",
       "pavlo-tychyna",
+      "pavlohrad",
       "pecherskyi-district",
       "pensions-in-ukraine",
       "petro-poroshenko",
@@ -1694,17 +1799,13 @@
       "social-democratic-party-of-ukraine-united",
       "sviatoslav-vakarchuk",
       "tetiana-chornovol",
-      "ukrainian-historical-regions",
       "ukrainian-independence-referendum",
       "ukrainian-national-assembly-ukrainian-national-self-defence",
-      "ukrainian-nationalism",
       "ukrainian-orthodox-church-moscow-patriarchate",
       "ukrainian-parliamentary-elections",
       "ukrainian-red-cross-society",
-      "ukrainian-state",
-      "ukrainian-war-of-independence",
       "ukrainian-womens-union",
-      "ukrainization",
+      "viktor-medvedchuk",
       "viktor-yanukovych",
       "volodymyr-hroisman",
       "volodymyr-viatrovych",
@@ -1713,7 +1814,8 @@
       "zaliznyi-port",
       "zaporizhian-sich",
       "zaporozhian-cossacks",
-      "zlata-ognevich"
+      "zlata-ognevich",
+      "zolote"
     ],
     "yulia-tymoshenko": [
       "2006-ukrainian-parliamentary-election",
@@ -1781,6 +1883,7 @@
       "karpaty",
       "kievan-rus",
       "kingdom-of-galiciavolhynia",
+      "kremenchuk",
       "kryvbas",
       "kyiv",
       "kyiv-pechersk-lavra",
@@ -1826,6 +1929,7 @@
       "ostriv",
       "prut",
       "prykarpattia",
+      "pysanka-museum",
       "ternopil-oblast",
       "ukrainian-carpathians",
       "ukrnafta",
@@ -1885,6 +1989,8 @@
       "ruslana-lyzhychko",
       "ruthenia",
       "samopomich",
+      "sarny",
+      "shche-ne-vmerla-ukrainy-i-slava-i-volia",
       "sheptytskyi",
       "southern-bug",
       "ternopil",
@@ -1915,11 +2021,119 @@
       "bukovel",
       "prut"
     ],
+    "dnieper": [
+      "antonov-airlines",
+      "battle-of-kiev",
+      "borys-filatov",
+      "boryspil",
+      "borysthenes",
+      "cherkasy",
+      "cherkasy-oblast",
+      "chernihiv",
+      "chernihiv-oblast",
+      "chernobyl-nuclear-power-plant",
+      "cossack-hetmanate",
+      "cossack-mamay",
+      "cossacks",
+      "cucutenitrypillia-culture",
+      "dance-in-ukraine",
+      "dmytro-yavornytsky",
+      "dnieper-ukraine",
+      "dniester",
+      "dnipro",
+      "dnipro-art-museum",
+      "dnipropetrovsk-oblast",
+      "enerhodar",
+      "first-battle-of-kharkov",
+      "hetman",
+      "history-of-the-cossacks",
+      "history-of-ukrainian-nationality",
+      "ihor-kolomoyskyi",
+      "interpipe-group",
+      "kherson",
+      "kherson-art-museum",
+      "kherson-oblast",
+      "khortytsia",
+      "kievan-rus",
+      "kremenchuk",
+      "kremenchuk-reservoir",
+      "kryvbas",
+      "kyiv",
+      "kyiv-metro",
+      "kyiv-oblast",
+      "kyiv-pechersk-lavra",
+      "national-museum-of-the-history-of-ukraine-in-world-war-ii",
+      "oleksandr-turchynov",
+      "oles-honchar-dnipro-national-university",
+      "oleshky-sands",
+      "pecherskyi-district",
+      "pivdenmash",
+      "podil",
+      "polesia",
+      "poltava-oblast",
+      "pripyat-river",
+      "pyriatyn",
+      "pyrohiv",
+      "slavutych",
+      "state-emergency-service-of-ukraine",
+      "sumy-oblast",
+      "sviatoshyn",
+      "svitlovodsk",
+      "tawrija",
+      "ukraine",
+      "ukraine-east",
+      "ukrainian-state",
+      "ukrnafta",
+      "vasylivka",
+      "vorskla",
+      "western-bug",
+      "yevhen-konoplyanka",
+      "yulia-tymoshenko",
+      "zaporizhian-sich",
+      "zaporizhzhia",
+      "zaporizhzhia-nuclear-power-plant",
+      "zaporozhian-cossacks",
+      "zavodske",
+      "znamianka",
+      "zolotonosha"
+    ],
+    "kirovohrad-oblast": [
+      "artem-sytnyk",
+      "cherkasy-oblast",
+      "kropyvnytskyi",
+      "kryvbas",
+      "mykolaiv-oblast",
+      "svitlovodsk",
+      "znamianka"
+    ],
+    "kremenchuk": [
+      "ferrexpo",
+      "horishni-plavni",
+      "kremenchuk-reservoir",
+      "mykola-lysenko",
+      "poltava-oblast",
+      "roshen",
+      "svitlovodsk",
+      "zavodske",
+      "zolotonosha"
+    ],
+    "nikita-khrushchev": [
+      "battle-of-kiev",
+      "deportation-of-the-crimean-tatars",
+      "gulag",
+      "hopak",
+      "khrushchyovka",
+      "oleksandr-dovzhenko",
+      "shevchenko-national-prize",
+      "soviet-union",
+      "svitlovodsk"
+    ],
     "donets": [
       "coal-in-ukraine",
       "donbas",
       "kreminna",
       "luhansk-oblast",
+      "lysychansk",
       "siverskodonetsk",
       "sviatohirsk",
       "sviatohirsk-lavra",
@@ -1935,14 +2149,18 @@
       "donetsk",
       "donetsk-peoples-republic",
       "kharkiv-oblast",
+      "kramatorsk",
       "kramatorsk-railway-station-attack",
+      "krymske",
       "luhansk-oblast",
       "makiivka",
       "mariupol",
       "siege-of-mariupol",
+      "soledar",
       "sviatohirsk",
       "sviatohirsk-lavra",
-      "viktor-yanukovych"
+      "viktor-yanukovych",
+      "vuhledar"
     ],
     "hryhorii-skovoroda": [
       "myrhorod",
@@ -1977,7 +2195,9 @@
       "tetiana-chornovol",
       "ukrainian-ground-forces",
       "vasyl-slipak",
-      "yevgeny-prigozhin"
+      "vuhledar",
+      "yevgeny-prigozhin",
+      "zolote"
     ],
     "bila-tserkva": [
       "bila-tserkva-raion",
@@ -2030,6 +2250,7 @@
       "cossack-hetmanate",
       "history-of-the-cossacks",
       "ivan-mazepa",
+      "kramatorsk",
       "sich-riflemen",
       "treaty-of-pereyaslav",
       "ukrainian-civil-war",
@@ -2052,6 +2273,7 @@
     "kyiv-oblast": [
       "anatoliy-solovyanenko",
       "artem-sytnyk",
+      "baryshivska-hromada",
       "battle-of-kyiv",
       "bila-tserkva",
       "bila-tserkva-raion",
@@ -2103,6 +2325,7 @@
       "full-scale-russo-ukrainian-war",
       "galicia",
       "great-famine",
+      "gulag",
       "halič",
       "history-of-ukraine",
       "holodomor",
@@ -2138,6 +2361,7 @@
       "operation-vistula",
       "orange-revolution",
       "organization-of-ukrainian-nationalists",
+      "pavlohrad",
       "pohrebyshche",
       "poltava-oblast",
       "rava-ruska",
@@ -2185,6 +2409,7 @@
       "vladimir-lenin",
       "volodymyr-hroisman",
       "volyn-oblast",
+      "vuhledar",
       "vynnyky",
       "vyshyvanka",
       "war-in-donbas",
@@ -2214,6 +2439,7 @@
       "hryhorii-skovoroda",
       "ivan-mazepa",
       "khmelnytsky-uprising",
+      "kremenchuk",
       "little-russia",
       "pale-of-settlement",
       "poltava",
@@ -2302,6 +2528,7 @@
       "prykarpattia",
       "rivne",
       "rus",
+      "sarny",
       "sich-riflemen",
       "zvenyhorod"
     ],
@@ -2336,6 +2563,7 @@
       "ukrainization",
       "uzhhorod-castle",
       "vynnyky",
+      "women-in-ukraine",
       "zbarazh-castle"
     ],
     "vladimir-putin": [
@@ -2351,6 +2579,7 @@
       "russian-annexation-of-crimea",
       "russian-war-crimes",
       "russo-ukrainian-war",
+      "viktor-medvedchuk",
       "yelena-gagarina",
       "yevgeny-prigozhin"
     ],
@@ -2368,7 +2597,9 @@
       "euromaidan",
       "henichesk",
       "interpipe-group",
+      "ivano-frankivsk-national-medical-university",
       "khotyn",
+      "kremenchuk",
       "kyiv-city-state-administration",
       "kyiv-pechersk-lavra",
       "mariupol",
@@ -2449,9 +2680,11 @@
       "alina-pash",
       "anatoly-shariy",
       "andrii-parubii",
+      "andriy-yarmolenko",
       "antonov",
       "apostolic-nunciature-to-ukraine",
       "arcelormittal-kryvyi-rih",
+      "artem-dzyuba",
       "avdeyevka-coke-and-chemical-plant",
       "azovstal",
       "bakhmut",
@@ -2485,6 +2718,7 @@
       "electricity-in-ukraine",
       "energy-in-ukraine",
       "euromaidan",
+      "european-solidarity",
       "fc-zorya-luhansk",
       "ferrexpo",
       "foreign-relations-of-ukraine",
@@ -2506,6 +2740,7 @@
       "kharkiv-tractor-plant",
       "kherson",
       "khmelnytskyi",
+      "kramatorsk",
       "kramatorsk-railway-station-attack",
       "kreminna",
       "kryvyi-rih",
@@ -2517,6 +2752,7 @@
       "luhansk-peoples-republic",
       "lviv",
       "lviv-national-environmental-university",
+      "lysychansk",
       "maidan-nezalezhnosti",
       "makiivka",
       "mariupol",
@@ -2534,6 +2770,7 @@
       "national-guard-of-ukraine",
       "nikolay-aleksandrovich-tikhonov",
       "nina-matviienko",
+      "nizhyn",
       "nova-post",
       "nuclear-power-in-ukraine",
       "odesa",
@@ -2551,12 +2788,15 @@
       "russian-occupation-of-crimea",
       "russiaukraine-relations",
       "russo-ukrainian-war",
+      "sarny",
       "security-service-of-ukraine",
       "serhiy-haidai",
       "servant-of-the-people",
+      "shche-ne-vmerla-ukrainy-i-slava-i-volia",
       "siege-of-mariupol",
       "slavutych",
       "snake-island-campaign",
+      "soledar",
       "stepan-bandera",
       "sviatohirsk-lavra",
       "transnistria-conflict",
@@ -2580,6 +2820,7 @@
       "vynnyky",
       "war-in-donbas",
       "west-ukrainian-peoples-republic",
+      "women-in-ukraine",
       "yevgeny-prigozhin",
       "zaliznyi-port",
       "zaporizhzhia",
@@ -2593,6 +2834,8 @@
       "chernobyl-exclusion-zone",
       "khmelnytskyi-oblast",
       "pripyat-river",
+      "sarny",
+      "shatsk-national-natural-park",
       "ukrainian-historical-regions",
       "ukrainian-traditional-costumes",
       "zhytomyr-oblast"
@@ -2614,6 +2857,8 @@
       "polesia",
       "rivne",
       "rivne-nuclear-power-plant",
+      "sarny",
+      "shatsk-national-natural-park",
       "sumy-oblast",
       "ukrainian-historical-regions",
       "volhynia",
@@ -2669,6 +2914,7 @@
       "lviv-oblast",
       "myrhorod",
       "national-art-museum-of-ukraine",
+      "nestor-the-chronicler",
       "prykarpattia",
       "pysanka",
       "rus",
@@ -2691,6 +2937,7 @@
       "volhynia",
       "volyn-oblast",
       "western-ukraine",
+      "women-in-ukraine",
       "zhytomyr",
       "znamianka",
       "zvenyhorod",
@@ -2701,8 +2948,10 @@
       "alexander-j-motyl",
       "anatoliy-solovyanenko",
       "andrii-yermak",
+      "andriy-yarmolenko",
       "arcelormittal-kryvyi-rih",
       "armed-forces-of-ukraine",
+      "artem-dzyuba",
       "avdeyevka-coke-and-chemical-plant",
       "bakhchysarai",
       "banking-in-ukraine",
@@ -2716,6 +2965,7 @@
       "boryslav",
       "buchach",
       "bukovina",
+      "central-rada",
       "chechenrussian-conflict",
       "cherkasy-oblast",
       "chornomornaftogaz",
@@ -2723,6 +2973,7 @@
       "coal-in-ukraine",
       "coat-of-arms-of-ukrainiae",
       "cossack-song",
+      "cossackia",
       "cossacks",
       "council-of-europe",
       "crimean-tatars",
@@ -2743,6 +2994,7 @@
       "first-battle-of-kharkov",
       "full-scale-russo-ukrainian-war",
       "grigory-leps",
+      "gulag",
       "hennadiy-avdyeyenko",
       "history-of-crimea",
       "history-of-kyiv",
@@ -2772,6 +3024,7 @@
       "lviv",
       "lviv-polytechnic",
       "lviv-theatre-of-opera-and-ballet",
+      "lysychansk",
       "maidan-nezalezhnosti",
       "mezhyhirya",
       "mikhail-gorbachev",
@@ -2801,6 +3054,7 @@
       "ostap-bender",
       "pavlo-klimkin",
       "pavlo-tychyna",
+      "pavlohrad",
       "pecherskyi-district",
       "pivdenmash",
       "podolia",
@@ -2861,7 +3115,9 @@
       "vladimir-putin",
       "vladimir-shcherbakov",
       "volhynia",
+      "vuhledar",
       "western-ukraine",
+      "women-in-ukraine",
       "yalta",
       "yalta-conference",
       "yaremche",
@@ -2880,12 +3136,14 @@
       "cossack-hetmanate",
       "cossacks",
       "crimea-gold-and-secrets-of-the-black-sea",
+      "crimean-khanate",
       "daniel-of-galicia",
       "denys-shmyhal",
       "dmitri-shostakovich",
       "dnieper-ukraine",
       "flag-of-ukraine",
       "galicia",
+      "gulag",
       "haidamaka",
       "hetmanate",
       "history-of-crimea",
@@ -2899,6 +3157,7 @@
       "nafpaktos",
       "national-historical-museum-of-ukraine",
       "national-museum-of-natural-history",
+      "nestor-the-chronicler",
       "oleksandr-dovzhenko",
       "oles-honchar",
       "olesko-castle",
@@ -2964,6 +3223,18 @@
       "uzhhorod",
       "velykyi-bychkiv",
       "zakarpattia"
+    ],
+    "central-rada": [
+      "chernihiv",
+      "coat-of-arms-of-ukrainiae",
+      "moldovaukraine-relations",
+      "mykhailo-hrushevskyi",
+      "national-bank-of-ukraine",
+      "ukrainian-historical-regions",
+      "ukrainian-nationalism",
+      "ukrainian-state",
+      "ukrainian-war-of-independence",
+      "ukrainization"
     ],
     "constitution-of-ukraine": [
       "2006-ukrainian-parliamentary-election",
@@ -3057,6 +3328,7 @@
       "administrative-territorial-entity-of-ukraine",
       "apostolic-nunciature-to-ukraine",
       "armed-forces-of-ukraine",
+      "central-rada",
       "coat-of-arms-of-ukrainiae",
       "dnieper-ukraine",
       "eastern-galicia",
@@ -3079,6 +3351,7 @@
       "pavlo-skoropadsky",
       "rivne",
       "security-service-of-ukraine",
+      "shche-ne-vmerla-ukrainy-i-slava-i-volia",
       "ukraine",
       "ukrainian-ground-forces",
       "ukrainian-historical-regions",
@@ -3163,6 +3436,7 @@
       "prykarpattia",
       "ruslana-lyzhychko",
       "russian-annexation-of-crimea",
+      "sarny",
       "sevastopol",
       "sheptytskyi",
       "shevchenko-national-prize",
@@ -3179,11 +3453,13 @@
       "ukrainian-historical-regions",
       "ukrainian-historiography",
       "ukrainian-peoples-republic",
+      "ukrainian-socialist-party",
       "ukrainian-war-of-independence",
       "ukrainian-womens-union",
       "uzhhorod",
       "velykyi-bychkiv",
       "verkhovna-rada",
+      "viktor-medvedchuk",
       "viktor-yanukovych",
       "viktor-yushchenko",
       "volodymyr-hroisman",
@@ -3233,6 +3509,7 @@
       "cossack-hetmanate",
       "cossack-mamay",
       "cossack-song",
+      "cossackia",
       "dmytro-yavornytsky",
       "dnipropetrovsk-oblast",
       "donbas",
@@ -3245,9 +3522,12 @@
       "khortytsia",
       "kirovohrad-oblast",
       "kobzar",
+      "kramatorsk",
+      "kremenchuk",
       "kremenets-castle",
       "music-of-ukraine",
       "myrhorod",
+      "soledar",
       "sumy",
       "taras-bulba",
       "treaty-of-pereyaslav",
@@ -3260,80 +3540,8 @@
       "zolotonosha",
       "zvenyhorodka"
     ],
-    "dnieper": [
-      "antonov-airlines",
-      "battle-of-kiev",
-      "borys-filatov",
-      "boryspil",
-      "cherkasy",
-      "cherkasy-oblast",
-      "chernihiv",
-      "chernihiv-oblast",
-      "chernobyl-nuclear-power-plant",
-      "cossack-hetmanate",
-      "cossack-mamay",
-      "cossacks",
-      "cucutenitrypillia-culture",
-      "dance-in-ukraine",
-      "dmytro-yavornytsky",
-      "dnieper-ukraine",
-      "dniester",
-      "dnipro",
-      "dnipro-art-museum",
-      "dnipropetrovsk-oblast",
-      "enerhodar",
-      "first-battle-of-kharkov",
-      "hetman",
-      "history-of-the-cossacks",
-      "history-of-ukrainian-nationality",
-      "ihor-kolomoyskyi",
-      "interpipe-group",
-      "kherson",
-      "kherson-art-museum",
-      "kherson-oblast",
-      "khortytsia",
-      "kievan-rus",
-      "kremenchuk-reservoir",
-      "kryvbas",
-      "kyiv",
-      "kyiv-metro",
-      "kyiv-oblast",
-      "kyiv-pechersk-lavra",
-      "national-museum-of-the-history-of-ukraine-in-world-war-ii",
-      "oleksandr-turchynov",
-      "oles-honchar-dnipro-national-university",
-      "oleshky-sands",
-      "pecherskyi-district",
-      "pivdenmash",
-      "podil",
-      "polesia",
-      "poltava-oblast",
-      "pripyat-river",
-      "pyriatyn",
-      "pyrohiv",
-      "slavutych",
-      "state-emergency-service-of-ukraine",
-      "sumy-oblast",
-      "sviatoshyn",
-      "tawrija",
-      "ukraine",
-      "ukraine-east",
-      "ukrainian-state",
-      "ukrnafta",
-      "vasylivka",
-      "vorskla",
-      "western-bug",
-      "yevhen-konoplyanka",
-      "yulia-tymoshenko",
-      "zaporizhian-sich",
-      "zaporizhzhia",
-      "zaporizhzhia-nuclear-power-plant",
-      "zaporozhian-cossacks",
-      "zavodske",
-      "znamianka",
-      "zolotonosha"
-    ],
     "khmelnytsky-uprising": [
+      "battle-of-zboriv",
       "cherkasy",
       "cossack-hetmanate",
       "haidamaka",
@@ -3396,6 +3604,7 @@
       "znamianka"
     ],
     "zaporizhzhia": [
+      "2015-ukrainian-local-elections",
       "2022-kherson-counteroffensive",
       "boryspil",
       "categorysteel-industry-in-ukraine",
@@ -3425,6 +3634,8 @@
       "bohdan-hawrylyshyn",
       "borys-paton",
       "dmytro-yavornytsky",
+      "hryshko-national-botanical-garden",
+      "kyiv-music-fest",
       "moldovaukraine-relations",
       "national-academy-of-arts-of-ukraine",
       "national-forestry-university",
@@ -3443,6 +3654,7 @@
       "cyborgs-heroes-never-die",
       "decommunization-in-ukraine",
       "defenders-of-ukraine-day",
+      "european-solidarity",
       "horishni-plavni",
       "ihor-kolomoyskyi",
       "jamala",
@@ -3480,6 +3692,7 @@
       "energy-in-ukraine",
       "executed-renaissance",
       "full-scale-russo-ukrainian-war",
+      "gulag",
       "holodomor",
       "hopak",
       "jamala",
@@ -3520,10 +3733,12 @@
       "ukrainian-railways",
       "ukrainian-war-of-independence",
       "vasyl-stus",
+      "vuhledar",
       "yalta-conference",
       "yevhen-konoplyanka"
     ],
     "kharkiv": [
+      "belovodskoye",
       "first-battle-of-kharkov",
       "hryhorii-skovoroda",
       "kharkiv-oblast",
@@ -3534,6 +3749,7 @@
       "ukrainian-soviet-socialist-republic"
     ],
     "kyiv": [
+      "2015-ukrainian-local-elections",
       "2022-russian-invasion-of-ukraine",
       "administrative-territorial-entity-of-ukraine",
       "alexander-j-motyl",
@@ -3586,6 +3802,7 @@
       "education-in-ukraine",
       "energy-in-ukraine",
       "euromaidan",
+      "eurovision-song-contest-2017",
       "fastiv",
       "fc-dynamo-kyiv",
       "flag-of-ukraine",
@@ -3595,6 +3812,7 @@
       "history-of-kyiv",
       "history-of-the-jews-in-ukraine",
       "hrushevsky-street",
+      "hryshko-national-botanical-garden",
       "igor-sikorsky",
       "igor-sikorsky-kyiv-polytechnic-institute",
       "independence-day-of-ukraine",
@@ -3611,6 +3829,7 @@
       "kyiv-city-state-administration",
       "kyiv-fortress",
       "kyiv-metro",
+      "kyiv-music-fest",
       "kyiv-national-academic-theatre-of-operetta",
       "kyiv-national-economic-university-named-after-vadym-hetman",
       "kyiv-national-university-of-culture-and-arts",
@@ -3650,6 +3869,7 @@
       "national-philharmonic-of-ukraine",
       "national-university-of-kyiv-mohyla-academy",
       "nina-matviienko",
+      "nizhyn",
       "nova-post",
       "oksana-zabuzhko",
       "oleh-blokhin",
@@ -3746,20 +3966,12 @@
       "zolochiv",
       "zolotonosha"
     ],
-    "nikita-khrushchev": [
-      "battle-of-kiev",
-      "deportation-of-the-crimean-tatars",
-      "hopak",
-      "khrushchyovka",
-      "oleksandr-dovzhenko",
-      "shevchenko-national-prize",
-      "soviet-union"
-    ],
     "elections-in-ukraine": [
       "2004-ukrainian-presidential-election",
       "2006-ukrainian-parliamentary-election",
       "2010-ukrainian-presidential-election",
       "2012-ukrainian-parliamentary-election",
+      "2015-ukrainian-local-elections",
       "2019-ukrainian-presidential-election",
       "central-election-commission-of-ukraine",
       "human-rights-in-ukraine",
@@ -3795,6 +4007,7 @@
       "ivan-franko-national-academic-drama-theater",
       "ivano-frankivsk",
       "ivano-frankivsk-oblast",
+      "kremenchuk",
       "lviv-theatre-of-opera-and-ballet",
       "lviv-university",
       "mykhailo-hrushevskyi",
@@ -3817,6 +4030,7 @@
       "hutsuls",
       "mavka",
       "national-museum-of-literature-of-ukraine",
+      "shatsk-national-natural-park",
       "ukrainians-in-italy",
       "volyn-oblast"
     ],
@@ -3852,6 +4066,7 @@
       "nina-matviienko",
       "pecherskyi-district",
       "petrykivka-painting",
+      "shche-ne-vmerla-ukrainy-i-slava-i-volia",
       "shevchenko-national-prize",
       "taras-shevchenko-national-university-of-kyiv",
       "ukrainian-canadian-congress",
@@ -3891,7 +4106,8 @@
       "dmytro-pavlychko",
       "history-of-ukrainian-nationality",
       "kievan-rus",
-      "tetiana-chornovol"
+      "tetiana-chornovol",
+      "women-in-ukraine"
     ],
     "sviatoslav-i-of-kiev": [
       "kievan-rus",
@@ -3935,11 +4151,14 @@
       "russo-ukrainian-war",
       "samopomich",
       "serhiy-zhadan",
+      "shche-ne-vmerla-ukrainy-i-slava-i-volia",
+      "soledar",
       "state-property-fund-of-ukraine",
       "sviatoslav-vakarchuk",
       "tetiana-chornovol",
       "ukraine",
       "ukraineeuropean-union-relations",
+      "viktor-medvedchuk",
       "viktor-yanukovych",
       "vitali-klitschko",
       "volodymyr-viatrovych",
@@ -3958,6 +4177,7 @@
       "kramatorsk-railway-station-attack",
       "luhansk-oblast",
       "luhansk-peoples-republic",
+      "lysychansk",
       "sergei-bubka",
       "serhiy-haidai",
       "siverskodonetsk",
@@ -3965,12 +4185,14 @@
       "ukrainian-independence-referendum"
     ],
     "moskva": [
+      "belovodskoye",
       "boryspil",
       "kremlin",
       "snake-island-campaign",
       "sviatoslav-vakarchuk"
     ],
     "odesa": [
+      "2015-ukrainian-local-elections",
       "2022-kherson-counteroffensive",
       "battle-of-mykolaiv",
       "black-sea-shipping-company",
@@ -4092,6 +4314,7 @@
     ],
     "2022-russian-invasion-of-ukraine": [
       "anatoly-shariy",
+      "andriy-yarmolenko",
       "antonov-airlines",
       "beer-in-ukraine",
       "borodianka",
@@ -4102,6 +4325,7 @@
       "irpin",
       "kharkiv-oblast",
       "kherson-art-museum",
+      "kremenchuk",
       "kyiv-zoo",
       "lviv-national-museum",
       "mezhyhirya",
@@ -4133,12 +4357,14 @@
       "zmiivka"
     ],
     "chernihiv": [
+      "andriy-yarmolenko",
       "beer-in-ukraine",
       "chernihiv-oblast",
       "energy-in-ukraine",
       "ivan-mazepa",
       "lesya-ukrainka",
       "mikhail-gorbachev",
+      "nizhyn",
       "oleksandr-dovzhenko",
       "pavlo-tychyna",
       "polesia",
@@ -4157,6 +4383,7 @@
       "chernihiv",
       "kyiv-oblast",
       "leonid-kuchma",
+      "nizhyn",
       "oleksandr-dovzhenko",
       "ostriv",
       "siege-of-chernihiv",
@@ -4167,6 +4394,7 @@
     ],
     "armed-forces-of-ukraine": [
       "2022-kharkiv-counteroffensive",
+      "andriy-yarmolenko",
       "battle-of-bakhmut",
       "battle-of-debaltseve",
       "battle-of-ilovaisk",
@@ -4193,13 +4421,16 @@
       "ukrainian-ground-forces",
       "ukrainian-independence-referendum",
       "ukrainian-world-congress",
+      "vuhledar",
       "zlata-ognevich"
     ],
     "kyiv-offensive": [
       "battle-of-kyiv"
     ],
     "vitali-klitschko": [
+      "2015-ukrainian-local-elections",
       "battle-of-kyiv",
+      "belovodskoye",
       "kyiv-city-state-administration"
     ],
     "azovstal": [
@@ -4224,6 +4455,7 @@
       "war-in-donbas"
     ],
     "mariupol": [
+      "2015-ukrainian-local-elections",
       "alina-pash",
       "avdeyevka-coke-and-chemical-plant",
       "azov-brigade",
@@ -4267,6 +4499,7 @@
       "moskva",
       "mykolaiv-oblast",
       "mykolaiv-shipyard",
+      "mykolayiv-state-agrarian-university",
       "rusal",
       "southern-bug",
       "ukrainian-historical-regions",
@@ -4287,6 +4520,7 @@
       "prime-minister-of-ukraine"
     ],
     "russian-annexation-of-crimea": [
+      "2015-ukrainian-local-elections",
       "2022-russian-invasion-of-ukraine",
       "administrative-territorial-entity-of-ukraine",
       "antonov",
@@ -4337,6 +4571,7 @@
       "kramatorsk-railway-station-attack",
       "oleksandr-turchynov",
       "ukraine-international-airlines",
+      "viktor-medvedchuk",
       "volodymyr-viatrovych"
     ],
     "servant-of-the-people": [
@@ -4347,6 +4582,7 @@
       "volodymyr-zelenskyy"
     ],
     "donbas": [
+      "2015-ukrainian-local-elections",
       "2022-russian-invasion-of-ukraine",
       "avdeyevka-coke-and-chemical-plant",
       "azov-brigade",
@@ -4368,12 +4604,14 @@
       "igor-girkin",
       "ivan-franko-national-academic-drama-theater",
       "jamala",
+      "kramatorsk",
       "kreminna",
       "leonid-kravchuk",
       "leonid-kuchma",
       "luhansk",
       "luhansk-oblast",
       "luhansk-peoples-republic",
+      "lysychansk",
       "makiivka",
       "minsk-agreements",
       "nikita-khrushchev",
@@ -4381,6 +4619,7 @@
       "russiaukraine-relations",
       "russo-ukrainian-war",
       "social-democratic-party-of-ukraine-united",
+      "soledar",
       "sviatohirsk-lavra",
       "transport-in-ukraine",
       "ukraine",
@@ -4392,7 +4631,8 @@
       "verkhovna-rada",
       "vostok-battalion",
       "war-in-donbas",
-      "yevgeny-prigozhin"
+      "yevgeny-prigozhin",
+      "zolote"
     ],
     "luhansk-oblast": [
       "battle-of-sievierodonetsk",
@@ -4400,9 +4640,12 @@
       "karpaty",
       "kharkiv-oblast",
       "kreminna",
+      "krymske",
       "luhansk-peoples-republic",
+      "lysychansk",
       "serhiy-zhadan",
-      "siverskodonetsk"
+      "siverskodonetsk",
+      "zolote"
     ],
     "luhansk-peoples-republic": [
       "battle-of-debaltseve",
@@ -4410,17 +4653,26 @@
       "donetsk-peoples-republic",
       "luhansk",
       "luhansk-oblast",
+      "lysychansk",
       "minsk-agreements",
       "russo-ukrainian-war",
       "ukraine-east",
-      "war-in-donbas"
+      "war-in-donbas",
+      "zolote"
+    ],
+    "lysychansk": [
+      "battle-of-bakhmut",
+      "battle-of-sievierodonetsk",
+      "siverskodonetsk"
     ],
     "siverskodonetsk": [
       "battle-of-bakhmut",
       "battle-of-sievierodonetsk",
       "kreminna",
       "luhansk",
-      "luhansk-oblast"
+      "luhansk-oblast",
+      "lysychansk",
+      "zolote"
     ],
     "iryna-venediktova": [
       "bucha-massacre"
@@ -4430,12 +4682,16 @@
       "zorya-mashproekt"
     ],
     "council-of-europe": [
+      "2015-ukrainian-local-elections",
       "2022-russian-invasion-of-ukraine",
       "borys-tarasyuk",
       "kramatorsk-railway-station-attack",
       "parliamentary-assembly-of-the-council-of-europe",
       "radomysl-castle",
       "ukraine"
+    ],
+    "kramatorsk": [
+      "kramatorsk-railway-station-attack"
     ],
     "post-soviet-states": [
       "arcelormittal-kryvyi-rih",
@@ -4444,6 +4700,7 @@
       "kyiv-metro",
       "kyiv-zoo",
       "motor-sich",
+      "pervomaisk",
       "sofia-rotaru",
       "ukraine-international-airlines",
       "ukraine-mens-national-football-team",
@@ -4462,11 +4719,14 @@
       "andrii-yermak",
       "battle-of-bakhmut",
       "battle-of-debaltseve",
+      "krymske",
+      "soledar",
       "vasyl-slipak"
     ],
     "kherson-oblast": [
       "2022-kharkiv-counteroffensive",
       "2022-kherson-counteroffensive",
+      "crimean-khanate",
       "henichesk",
       "kherson",
       "mykolaiv-oblast",
@@ -4490,6 +4750,7 @@
     ],
     "zaporizhzhia-oblast": [
       "2022-kherson-counteroffensive",
+      "crimean-khanate",
       "enerhodar",
       "kherson-oblast",
       "melitopol",
@@ -4497,9 +4758,21 @@
       "vasylivka",
       "zaporizhzhia"
     ],
+    "crimea": [
+      "alushta",
+      "crimean-khanate",
+      "crimean-tatar",
+      "history-of-crimea",
+      "kherson-oblast",
+      "russian-occupation-of-crimea",
+      "syvash-bay",
+      "tawrija",
+      "yalta"
+    ],
     "crimean-tatar": [
       "bakhchysarai",
       "crimea",
+      "crimean-khanate",
       "crimean-tatars",
       "deportation-of-the-crimean-tatars",
       "eurovision-song-contest-2016",
@@ -4528,6 +4801,7 @@
       "ukrainian-baroque"
     ],
     "kharkiv-oblast": [
+      "2015-ukrainian-local-elections",
       "2022-kharkiv-counteroffensive",
       "andrii-parubii",
       "antonov",
@@ -4552,6 +4826,7 @@
       "ivan-kotliarevskyi",
       "ivan-sirko",
       "kharkiv",
+      "kharkiv-national-university-of-radioelectronics",
       "kharkiv-tractor-plant",
       "kryvyi-rih-metrotram",
       "kyiv-metro",
@@ -4582,6 +4857,7 @@
       "ukrainian-war-of-independence",
       "ukrainization",
       "vasyl-symonenko",
+      "women-in-ukraine",
       "znamianka",
       "zolochiv"
     ],
@@ -4593,12 +4869,14 @@
       "sviatoslav-vakarchuk",
       "tetiana-chornovol",
       "vasyl-slipak",
-      "west-ukrainian-peoples-republic"
+      "west-ukrainian-peoples-republic",
+      "zolote"
     ],
     "dance-in-ukraine": [
       "hopak"
     ],
     "zaporozhian-cossacks": [
+      "battle-of-zboriv",
       "bohdan-khmelnytsky",
       "cossacks",
       "defenders-of-ukraine-day",
@@ -4640,6 +4918,7 @@
       "president-of-ukraine",
       "prime-minister-of-ukraine",
       "ukraine-nato-relations",
+      "viktor-medvedchuk",
       "viktor-yushchenko",
       "volodymyr-zelenskyy",
       "yulia-tymoshenko"
@@ -4727,16 +5006,19 @@
       "kharkiv",
       "khotyn",
       "lviv-polytechnic",
+      "lysychansk",
       "mezhyhirya",
       "national-forestry-university",
       "odesa-oblast",
       "oksana-baiul",
+      "sarny",
       "stepan-bandera",
       "ternopil",
       "transcarpathia",
       "ukrainian-contemporary-art",
       "ukrainian-historical-regions",
       "ukrainian-historiography",
+      "ukrainian-socialist-party",
       "zmiivka",
       "zolotonosha"
     ],
@@ -4811,6 +5093,7 @@
       "ruslana-lyzhychko",
       "salo",
       "samopomich",
+      "shche-ne-vmerla-ukrainy-i-slava-i-volia",
       "sheptytskyi",
       "stepan-bandera",
       "sviatoslav-vakarchuk",
@@ -4856,6 +5139,7 @@
       "lgbt-rights-in-ukraine",
       "lviv-university",
       "prykarpattia",
+      "pysanka-museum",
       "rail-transport-in-ukraine",
       "rus",
       "ukrainian-architecture",
@@ -4885,6 +5169,7 @@
       "hutsuls",
       "latin-church-in-ukraine",
       "lviv-oblast",
+      "shche-ne-vmerla-ukrainy-i-slava-i-volia",
       "ukrainian-orthodox-church-moscow-patriarchate",
       "volhynia"
     ],
@@ -4901,12 +5186,15 @@
       "kingdom-of-galiciavolhynia",
       "lutsk",
       "lviv-oblast",
+      "nestor-the-chronicler",
       "olesko-castle",
       "organization-of-ukrainian-nationalists",
       "polesia",
       "rivne",
       "rivne-oblast",
       "rus",
+      "sarny",
+      "shatsk-national-natural-park",
       "ukrainian-architecture",
       "ukrainian-historical-regions",
       "ukrainian-insurgent-army",
@@ -4953,14 +5241,19 @@
       "ivano-frankivsk-oblast",
       "yaremche"
     ],
+    "cossackia": [
+      "history-of-the-cossacks"
+    ],
     "little-russia": [
       "cossack-hetmanate",
       "history-of-the-cossacks",
       "modern-history-of-ukraine",
+      "nizhyn",
       "ukrainian-historical-regions",
       "ukrainian-historiography"
     ],
     "scythians": [
+      "borysthenes",
       "crimea-gold-and-secrets-of-the-black-sea",
       "culture-of-ukraine",
       "dniester",
@@ -4972,6 +5265,7 @@
       "kirovohrad-oblast",
       "makiivka",
       "podolia",
+      "sarmatians",
       "vinnytsia-oblast",
       "visual-arts-of-ukraine",
       "vyshyvanka",
@@ -4992,11 +5286,13 @@
       "halych",
       "hrushevsky-street",
       "iryna-vilde",
+      "ivano-frankivsk-national-medical-university",
       "ivano-frankivsk-national-technical-university-of-oil-and-gas",
       "ivano-frankivsk-oblast",
       "ivano-frankivsk-raion",
       "lviv-national-academy-of-arts",
       "prykarpattia",
+      "pysanka-museum",
       "west-ukrainian-peoples-republic",
       "western-ukraine"
     ],
@@ -5010,6 +5306,7 @@
       "western-ukraine"
     ],
     "oleksandr-turchynov": [
+      "european-solidarity",
       "kyiv-city-state-administration",
       "president-of-ukraine"
     ],
@@ -5113,6 +5410,7 @@
       "viktor-yushchenko"
     ],
     "mykhailo-hrushevskyi": [
+      "central-rada",
       "coat-of-arms-of-ukrainiae",
       "culture-of-ukraine",
       "hrushevsky-street",
@@ -5143,6 +5441,7 @@
       "ukrainian-folk-music"
     ],
     "dnipro": [
+      "2015-ukrainian-local-elections",
       "black-sea-shipping-company",
       "borys-filatov",
       "cossack-song",
@@ -5159,6 +5458,7 @@
       "oleksandr-turchynov",
       "oles-honchar",
       "oles-honchar-dnipro-national-university",
+      "pavlohrad",
       "petrykivka-painting",
       "poltava-oblast",
       "pyotr-ilyich-tchaikovsky",
@@ -5168,6 +5468,7 @@
       "yulia-tymoshenko"
     ],
     "ukrainization": [
+      "central-rada",
       "chernihiv",
       "cossack-song",
       "lviv-oblast",
@@ -5179,7 +5480,9 @@
       "shevchenko-national-prize"
     ],
     "poltava": [
+      "andriy-yarmolenko",
       "astarta-holding",
+      "belovodskoye",
       "borscht",
       "cabbage-roll",
       "cherkasy-oblast",
@@ -5211,6 +5514,7 @@
     ],
     "political-party-in-ukraine": [
       "batkivshchyna",
+      "european-solidarity",
       "samopomich",
       "servant-of-the-people",
       "social-democratic-party-of-ukraine-united",
@@ -5218,10 +5522,21 @@
     ],
     "ukrainian-parliamentary-elections": [
       "anatoly-shariy",
+      "european-solidarity",
       "samopomich"
+    ],
+    "european-solidarity": [
+      "2015-ukrainian-local-elections",
+      "ministry-of-foreign-affairs-of-ukraine",
+      "pensions-in-ukraine",
+      "petro-poroshenko",
+      "shche-ne-vmerla-ukrainy-i-slava-i-volia",
+      "ukraineeuropean-union-relations",
+      "volodymyr-viatrovych"
     ],
     "culture-of-ukraine": [
       "bohdan-stupka",
+      "kyiv-music-fest",
       "kyiv-national-university-of-culture-and-arts",
       "memorial-in-commemoration-of-famines-victims-in-ukraine",
       "petrykivka-painting",
@@ -5241,7 +5556,9 @@
       "kryvbas",
       "kryvyi-rih",
       "mykolaiv-oblast",
+      "novomoskovsk",
       "oleksandr-turchynov",
+      "pavlohrad",
       "petrykivka-painting",
       "volodymyr-zelenskyy",
       "zhovti-vody"
@@ -5319,6 +5636,7 @@
     ],
     "nikolai-gogol": [
       "ivan-kotliarevskyi",
+      "nizhyn",
       "taras-bulba"
     ],
     "energoatom": [
@@ -5381,8 +5699,10 @@
       "bakhchysarai",
       "cherkasy",
       "crimea",
+      "crimean-khanate",
       "crimean-tatar",
       "deportation-of-the-crimean-tatars",
+      "european-solidarity",
       "history-of-crimea",
       "history-of-kyiv",
       "jamala",
@@ -5401,6 +5721,7 @@
       "carpathians",
       "divisions-of-the-carpathians",
       "hoverla",
+      "hryshko-national-botanical-garden",
       "western-ukraine"
     ],
     "zolochiv-castle": [
@@ -5467,6 +5788,38 @@
       "salo",
       "varenyky"
     ],
+    "sarmatians": [
+      "history-of-ukrainian-nationality",
+      "scythians"
+    ],
+    "administrative-territorial-entity-of-ukraine": [
+      "2022-russian-invasion-of-ukraine",
+      "azov-brigade",
+      "cossacks",
+      "crimean-tatar",
+      "decentralisation-in-ukraine",
+      "mykolaiv",
+      "polesia",
+      "radomysl-castle",
+      "religion-in-ukraine",
+      "second-battle-of-kharkov",
+      "serhiy-haidai",
+      "shatsk-national-natural-park",
+      "state-statistics-service-of-ukraine",
+      "sviatoshynskyi-district",
+      "transnistria",
+      "ukrainian-historical-regions",
+      "ukrainian-independence-referendum"
+    ],
+    "volyn-oblast": [
+      "lutsk",
+      "ostriv",
+      "pripyat-river",
+      "shatsk-national-natural-park",
+      "ukrainian-historical-regions",
+      "volhynia",
+      "western-bug"
+    ],
     "national-university-of-kyiv-mohyla-academy": [
       "national-academy-of-arts-of-ukraine",
       "podil"
@@ -5506,6 +5859,7 @@
       "national-museum-of-the-history-of-ukraine-in-world-war-ii",
       "poltava-oblast",
       "pyrohiv",
+      "pysanka-museum",
       "ukrainian-national-museum",
       "zaporizhzhia"
     ],
@@ -5527,24 +5881,6 @@
       "ukrainian-baroque",
       "ukrainian-embroidery",
       "vasyl-stus"
-    ],
-    "administrative-territorial-entity-of-ukraine": [
-      "2022-russian-invasion-of-ukraine",
-      "azov-brigade",
-      "cossacks",
-      "crimean-tatar",
-      "decentralisation-in-ukraine",
-      "mykolaiv",
-      "polesia",
-      "radomysl-castle",
-      "religion-in-ukraine",
-      "second-battle-of-kharkov",
-      "serhiy-haidai",
-      "state-statistics-service-of-ukraine",
-      "sviatoshynskyi-district",
-      "transnistria",
-      "ukrainian-historical-regions",
-      "ukrainian-independence-referendum"
     ],
     "ukrainian-institute": [
       "ukrainian-contemporary-art",
@@ -5635,6 +5971,12 @@
       "yevhen-konoplyanka",
       "znamianka"
     ],
+    "svitlovodsk": [
+      "kirovohrad-oblast",
+      "kremenchuk",
+      "kremenchuk-reservoir",
+      "znamianka"
+    ],
     "prime-minister-of-ukraine": [
       "cabinet-of-ministers-of-ukraine",
       "denys-shmyhal",
@@ -5679,7 +6021,8 @@
       "kyiv-pechersk-lavra",
       "sviatohirsk-lavra",
       "ukrainian-baroque",
-      "ukrainian-orthodox-church-moscow-patriarchate"
+      "ukrainian-orthodox-church-moscow-patriarchate",
+      "vuhledar"
     ],
     "local-government-in-ukraine": [
       "izmail"
@@ -5719,6 +6062,10 @@
       "zboriv",
       "zhmerynka",
       "zhytomyr-oblast"
+    ],
+    "viktor-medvedchuk": [
+      "social-democratic-party-of-ukraine-united",
+      "vasyl-stus"
     ],
     "myrhorod": [
       "national-university-yuri-kondratyuk-poltava-polytechnic",
@@ -5816,14 +6163,6 @@
       "nina-matviienko",
       "ukrainian-opera"
     ],
-    "volyn-oblast": [
-      "lutsk",
-      "ostriv",
-      "pripyat-river",
-      "ukrainian-historical-regions",
-      "volhynia",
-      "western-bug"
-    ],
     "chop": [
       "uzhhorod"
     ],
@@ -5836,6 +6175,7 @@
       "ostriv",
       "radomysl-castle",
       "ukrainian-historical-regions",
+      "viktor-medvedchuk",
       "volhynia",
       "zhytomyr"
     ],
@@ -5861,18 +6201,20 @@
       "zhmerynka",
       "zhytomyr-oblast"
     ],
-    "ternopil-regional-art-museum": [
-      "ternopil"
-    ],
-    "west-ukrainian-national-university": [
-      "ternopil"
+    "chyhyryn": [
+      "bohdan-khmelnytsky",
+      "chyhyryn-raion",
+      "kremenchuk",
+      "zvenyhorodka"
     ],
     "poltava-oblast": [
+      "artem-dzyuba",
       "cherkasy-oblast",
       "chernihiv-oblast",
       "horishni-plavni",
       "hryhorii-skovoroda",
       "kharkiv-oblast",
+      "kremenchuk",
       "kyiv-oblast",
       "mykola-lysenko",
       "myrhorod",
@@ -5884,6 +6226,12 @@
       "vorskla",
       "zavodske"
     ],
+    "ternopil-regional-art-museum": [
+      "ternopil"
+    ],
+    "west-ukrainian-national-university": [
+      "ternopil"
+    ],
     "ukrainian-national-revival": [
       "cossack-hetmanate",
       "modern-history-of-ukraine",
@@ -5892,6 +6240,7 @@
       "ukrainians"
     ],
     "vorskla": [
+      "andriy-yarmolenko",
       "poltava"
     ],
     "western-bug": [
@@ -5977,14 +6326,6 @@
       "nuclear-power-in-ukraine",
       "zaporizhzhia"
     ],
-    "kirovohrad-oblast": [
-      "artem-sytnyk",
-      "cherkasy-oblast",
-      "kropyvnytskyi",
-      "kryvbas",
-      "mykolaiv-oblast",
-      "znamianka"
-    ],
     "national-security-and-defense-council-of-ukraine": [
       "anatoly-shariy",
       "andrii-parubii",
@@ -6030,11 +6371,15 @@
       "transport-in-ukraine",
       "ukraine-international-airlines"
     ],
+    "borysthenes": [
+      "boryspil"
+    ],
     "rivne": [
       "energoatom",
       "polesia",
       "rivne-nuclear-power-plant",
       "rivne-oblast",
+      "sarny",
       "siverskodonetsk",
       "volhynia",
       "western-ukraine"
@@ -6043,6 +6388,12 @@
       "sofia-rotaru",
       "ukrainian-wine",
       "yalta-conference"
+    ],
+    "ministry-of-internal-affairs-of-ukraine": [
+      "azov-brigade",
+      "gulag",
+      "national-guard-of-ukraine",
+      "state-emergency-service-of-ukraine"
     ],
     "uman": [
       "cherkasy-oblast",
@@ -6123,6 +6474,7 @@
     ],
     "siberia": [
       "chernivtsi-oblast",
+      "hryshko-national-botanical-garden",
       "illich-steel-iron-works",
       "ivan-sirko",
       "kharkiv-tractor-plant",
@@ -6132,16 +6484,20 @@
       "ukrainian-communist-party",
       "volyn-oblast"
     ],
+    "nizhyn": [
+      "chernihiv-oblast",
+      "nikolai-gogol",
+      "ostriv",
+      "sergei-korolev",
+      "state-emergency-service-of-ukraine",
+      "ukrainian-architecture",
+      "yevhen-hutsalo"
+    ],
     "ruslana-lyzhychko": [
       "trembita"
     ],
     "battle-of-ilovaisk": [
       "azov-brigade"
-    ],
-    "ministry-of-internal-affairs-of-ukraine": [
-      "azov-brigade",
-      "national-guard-of-ukraine",
-      "state-emergency-service-of-ukraine"
     ],
     "national-guard-of-ukraine": [
       "azov-brigade",
@@ -6158,7 +6514,12 @@
       "ukraine-mens-national-football-team"
     ],
     "kreminna": [
-      "kharkiv-oblast"
+      "kharkiv-oblast",
+      "lysychansk"
+    ],
+    "pavlohrad": [
+      "dnipropetrovsk-oblast",
+      "pivdenmash"
     ],
     "flag-of-ukraine": [
       "battle-of-ilovaisk",
@@ -6218,6 +6579,9 @@
     "zbarazh-castle": [
       "ternopil-oblast"
     ],
+    "borys-filatov": [
+      "2015-ukrainian-local-elections"
+    ],
     "pripyat-river": [
       "chernobyl-nuclear-power-plant",
       "polesia",
@@ -6225,6 +6589,9 @@
       "volhynia"
     ],
     "rivne-nuclear-power-plant": [
+      "rivne-oblast"
+    ],
+    "sarny": [
       "rivne-oblast"
     ],
     "hoverla": [
@@ -6244,15 +6611,39 @@
       "security-service-of-ukraine",
       "ukrainian-independence-referendum"
     ],
-    "fc-dynamo-kyiv": [
-      "andriy-shevchenko",
-      "culture-of-ukraine",
-      "oleh-blokhin"
+    "pervomaisk": [
+      "mykolaiv-oblast",
+      "southern-bug",
+      "zolote"
+    ],
+    "fastiv": [
+      "viktor-medvedchuk"
+    ],
+    "kremlin": [
+      "boris-nemtsov",
+      "sofia-rotaru",
+      "viktor-medvedchuk",
+      "yelena-gagarina",
+      "yevgeny-prigozhin"
     ],
     "social-democratic-party-of-ukraine-united": [
+      "european-solidarity",
       "leonid-kravchuk",
       "oleh-blokhin",
-      "petro-poroshenko"
+      "petro-poroshenko",
+      "viktor-medvedchuk"
+    ],
+    "vasyl-stus": [
+      "sviatoshyn",
+      "sviatoslav-vakarchuk",
+      "viktor-medvedchuk",
+      "volodymyr-viatrovych"
+    ],
+    "fc-dynamo-kyiv": [
+      "andriy-shevchenko",
+      "andriy-yarmolenko",
+      "culture-of-ukraine",
+      "oleh-blokhin"
     ],
     "kyiv-metro": [
       "kyiv",
@@ -6296,11 +6687,6 @@
       "national-guard-of-ukraine",
       "sviatoshyn"
     ],
-    "vasyl-stus": [
-      "sviatoshyn",
-      "sviatoslav-vakarchuk",
-      "volodymyr-viatrovych"
-    ],
     "mother-ukraine-monument": [
       "decommunization-in-ukraine",
       "national-museum-of-the-history-of-ukraine-in-world-war-ii"
@@ -6332,6 +6718,7 @@
       "lviv-national-academy-of-arts"
     ],
     "myroslav-skoryk": [
+      "kyiv-music-fest",
       "nina-matviienko",
       "ukrainian-folk-music",
       "ukrainian-opera"
@@ -6340,11 +6727,6 @@
       "transnistria",
       "transnistria-conflict",
       "ukrainian-national-assembly-ukrainian-national-self-defence"
-    ],
-    "chyhyryn": [
-      "bohdan-khmelnytsky",
-      "chyhyryn-raion",
-      "zvenyhorodka"
     ],
     "dnieper-ukraine": [
       "bohdan-khmelnytsky",
@@ -6369,12 +6751,6 @@
     "ostroh-academy": [
       "national-academy-of-arts-of-ukraine"
     ],
-    "kremlin": [
-      "boris-nemtsov",
-      "sofia-rotaru",
-      "yelena-gagarina",
-      "yevgeny-prigozhin"
-    ],
     "zhovti-vody": [
       "khmelnytsky-uprising",
       "kryvbas",
@@ -6384,7 +6760,12 @@
       "antonov"
     ],
     "zboriv": [
+      "battle-of-zboriv",
       "cossack-hetmanate"
+    ],
+    "jamala": [
+      "eurovision-song-contest-2016",
+      "eurovision-song-contest-2017"
     ],
     "nina-matviienko": [
       "radomysl-castle"
@@ -6451,6 +6832,10 @@
     "mikhail-bulgakov": [
       "andriivskyi-descent"
     ],
+    "nestor-the-chronicler": [
+      "andriivskyi-descent",
+      "ukrainian"
+    ],
     "sich-riflemen": [
       "armed-forces-of-ukraine",
       "borodianka",
@@ -6482,6 +6867,7 @@
     ],
     "national-opera-of-ukraine": [
       "anatoliy-solovyanenko",
+      "kyiv-music-fest",
       "myroslav-skoryk",
       "national-ballet-of-ukraine"
     ],
@@ -6503,6 +6889,9 @@
     ],
     "ukrainian-state-film-agency": [
       "cyborgs-heroes-never-die"
+    ],
+    "andriy-shevchenko": [
+      "andriy-yarmolenko"
     ],
     "kyiv-city-state-administration": [
       "vitali-klitschko"
@@ -6545,6 +6934,9 @@
     ],
     "kyiv-national-university-of-culture-and-arts": [
       "pavlo-zibrov"
+    ],
+    "national-philharmonic-of-ukraine": [
+      "kyiv-music-fest"
     ],
     "vistula": [
       "operation-vistula"
@@ -6593,6 +6985,9 @@
       "khotyn",
       "khotyn-national-nature-park"
     ],
+    "oleksandr-vysotskyi": [
+      "alushta"
+    ],
     "kyiv-post": [
       "alexander-j-motyl"
     ],
@@ -6604,6 +6999,9 @@
     ],
     "ukrainian-opera": [
       "anatoliy-solovyanenko"
+    ],
+    "gulag": [
+      "siberia"
     ],
     "horishni-plavni": [
       "ferrexpo"
@@ -6625,8 +7023,8 @@
     "rus-khaganate": [
       "rus"
     ],
-    "jamala": [
-      "eurovision-song-contest-2016"
+    "soledar": [
+      "donbas"
     ],
     "russian-occupation-of-crimea": [
       "crimea-crisis"
@@ -6653,8 +7051,14 @@
     "zhydachiv": [
       "ostriv"
     ],
+    "andriy-yarmolenko": [
+      "artem-dzyuba"
+    ],
     "rusal": [
       "renaissance-capital"
+    ],
+    "pysanka": [
+      "pysanka-museum"
     ],
     "chervonohryhorivka": [
       "enerhodar"
@@ -6674,6 +7078,9 @@
     "kupala-night": [
       "culture-of-ukraine",
       "dance-in-ukraine"
+    ],
+    "orel": [
+      "belovodskoye"
     ],
     "parliamentary-assembly-of-the-council-of-europe": [
       "council-of-europe",
@@ -6707,7 +7114,7 @@
     "ukrainian-institute-of-national-remembrance": [
       "volodymyr-viatrovych"
     ],
-    "pysanka": [
+    "pysanka-museum": [
       "culture-of-ukraine"
     ],
     "lviv-city-council": [
@@ -6723,6 +7130,7 @@
       "2006-ukrainian-parliamentary-election",
       "2010-ukrainian-presidential-election",
       "2012-ukrainian-parliamentary-election",
+      "2015-ukrainian-local-elections",
       "2019-ukrainian-presidential-election",
       "administrative-territorial-entity-of-ukraine",
       "andrii-parubii",
@@ -6734,8 +7142,10 @@
       "borys-filatov",
       "borys-hrinchenko",
       "borys-tarasyuk",
+      "burgerinitiatief",
       "cabinet-of-ministers-of-ukraine",
       "central-election-commission-of-ukraine",
+      "central-rada",
       "civic-nationalism",
       "constitution-of-ukraine",
       "constitutional-court-of-ukraine",
@@ -6791,6 +7201,7 @@
       "rus-khaganate",
       "security-service-of-ukraine",
       "servant-of-the-people",
+      "shche-ne-vmerla-ukrainy-i-slava-i-volia",
       "social-democratic-party-of-ukraine-united",
       "soviet-union",
       "state-emergency-service-of-ukraine",
@@ -6802,10 +7213,12 @@
       "ukrainian-insurgent-army",
       "ukrainian-nationalism",
       "ukrainian-orthodox-church-moscow-patriarchate",
+      "ukrainian-socialist-party",
       "ukrainian-state",
       "ukrainian-womens-union",
       "vasyl-symonenko",
       "verkhovna-rada",
+      "viktor-medvedchuk",
       "viktor-yanukovych",
       "vladimir-putin",
       "volodymyr-zelenskyy",
@@ -6813,6 +7226,7 @@
     ],
     "geography": [
       "alushta",
+      "belovodskoye",
       "bila-tserkva",
       "bila-tserkva-raion",
       "bohuslav-raion",
@@ -6846,6 +7260,7 @@
       "hoverla",
       "hutsuls",
       "ivano-frankivsk",
+      "ivano-frankivsk-national-medical-university",
       "ivano-frankivsk-national-technical-university-of-oil-and-gas",
       "ivano-frankivsk-oblast",
       "ivano-frankivsk-raion",
@@ -6853,6 +7268,7 @@
       "izmail",
       "kamianets-podilskyi",
       "kharkiv",
+      "kharkiv-national-university-of-radioelectronics",
       "kharkiv-oblast",
       "kherson",
       "khmelnytskyi",
@@ -6861,8 +7277,10 @@
       "khotyn-fortress",
       "khotyn-national-nature-park",
       "khotyn-raion",
+      "kramatorsk",
       "kremenchuk-reservoir",
       "kremenets-castle",
+      "krymske",
       "kryvorivnia",
       "kryvyi-rih",
       "kryvyi-rih-metrotram",
@@ -6874,6 +7292,7 @@
       "luhansk",
       "lutsk",
       "lviv",
+      "lysychansk",
       "makiivka",
       "mariupol",
       "melitopol",
@@ -6881,14 +7300,17 @@
       "mykolaiv",
       "mykolaiv-oblast",
       "mykolaiv-shipyard",
+      "mykolayiv-state-agrarian-university",
       "nadia",
       "national-historical-museum-of-ukraine",
+      "novomoskovsk",
       "odesa",
       "odesa-catacombs",
       "odesa-national-maritime-university",
       "oleshky-sands",
       "olesko-castle",
       "pecherskyi-district",
+      "pervomaisk",
       "pidhirtsi-castle",
       "polesia",
       "poltava",
@@ -6898,8 +7320,11 @@
       "rava-ruska",
       "rivne-oblast",
       "saint-sophia-cathedral",
+      "sakhalin",
       "sevastopol",
+      "shatsk-national-natural-park",
       "sheptytskyi",
+      "soledar",
       "state-university-of-trade-and-economics",
       "sumy",
       "sviatohirsk",
@@ -6915,6 +7340,7 @@
       "vinnytsia",
       "vistula",
       "vorskla",
+      "vuhledar",
       "west-ukrainian-national-university",
       "western-bug",
       "yalta-conference",
@@ -6928,15 +7354,115 @@
       "zhytomyr",
       "zmiivka",
       "znamianka",
+      "zolote",
       "zorya-mashproekt",
       "zvenyhorod",
       "zvenyhorodka"
     ],
+    "economy": [
+      "agriculture-in-ukraine",
+      "antonov",
+      "arcelormittal-kryvyi-rih",
+      "astarta-holding",
+      "avdeyevka-coke-and-chemical-plant",
+      "azovstal",
+      "bakhchysarai",
+      "bakhmut",
+      "banking-in-ukraine",
+      "baryshivska-hromada",
+      "beer-in-ukraine",
+      "black-sea-shipping-company",
+      "borshchiv",
+      "boryspil-international-airport",
+      "categorysteel-industry-in-ukraine",
+      "centrenergo",
+      "chernihiv-oblast",
+      "chernobyl-nuclear-power-plant",
+      "chornomornaftogaz",
+      "chumak",
+      "clairette-blanche",
+      "coal-in-ukraine",
+      "cyborgs-heroes-never-die",
+      "donetsk-oblast",
+      "drohobych",
+      "dtek",
+      "economy-of-ukraine",
+      "electricity-in-ukraine",
+      "energoatom",
+      "energy-in-ukraine",
+      "enerhodar",
+      "ferrexpo",
+      "gullivers-travels",
+      "henichesk",
+      "hryshko-national-botanical-garden",
+      "hryvnia",
+      "ihor-kolomoyskyi",
+      "illich-steel-iron-works",
+      "interpipe-group",
+      "kharkiv-tractor-plant",
+      "khmelnytskyi-oblast",
+      "kremenchuk",
+      "kryvbas",
+      "kyiv-national-economic-university-named-after-vadym-hetman",
+      "kyiv-zhuliany-international-airport",
+      "kyivstar",
+      "lviv-national-environmental-university",
+      "metinvest",
+      "ministry-of-economy",
+      "ministry-of-finance-of-ukraine",
+      "ministry-of-infrastructure-of-ukraine",
+      "motor-sich",
+      "nafpaktos",
+      "naftogaz-of-ukraine",
+      "national-bank-of-ukraine",
+      "nizhyn",
+      "nova-post",
+      "nuclear-power-in-ukraine",
+      "oschadbank",
+      "ostriv",
+      "pavlohrad",
+      "pivdenmash",
+      "postbank",
+      "privatbank",
+      "pyriatyn",
+      "rail-transport-in-ukraine",
+      "renaissance-capital",
+      "rivne-nuclear-power-plant",
+      "roshen",
+      "rusal",
+      "sarny",
+      "siberia",
+      "siverskodonetsk",
+      "state-property-fund-of-ukraine",
+      "state-statistics-service-of-ukraine",
+      "stepan-bandera",
+      "svitlovodsk",
+      "telecommunications-in-ukraine",
+      "transport-in-ukraine",
+      "ukraine-east",
+      "ukraine-international-airlines",
+      "ukrainian-defense-industry",
+      "ukrainian-dramatic-theatre-of-maria-zankovetska",
+      "ukrainian-exchange",
+      "ukrainian-railways",
+      "ukrainian-wine",
+      "ukrnafta",
+      "volyn-oblast",
+      "zakarpattia",
+      "zaporizhzhia-nuclear-power-plant",
+      "zaporizhzhia-oblast",
+      "zhmerynka",
+      "zhovti-vody",
+      "zhydachiv",
+      "zolotonosha"
+    ],
     "people": [
       "anatoliy-solovyanenko",
       "andriy-shevchenko",
+      "andriy-yarmolenko",
       "antonov-airlines",
       "apostolic-nunciature-to-ukraine",
+      "artem-dzyuba",
       "babi-yar",
       "bahmut",
       "bohdan-stupka",
@@ -6950,7 +7476,9 @@
       "derkach",
       "dmytro-kuleba",
       "dmytro-pavlychko",
+      "european-solidarity",
       "eurovision-song-contest-2016",
+      "eurovision-song-contest-2017",
       "flag-of-ukraine",
       "gorodok",
       "history-of-ukraine",
@@ -7030,6 +7558,7 @@
       "volodymyr-viatrovych",
       "western-ukraine",
       "witold-pilecki",
+      "women-in-ukraine",
       "yevhen-konovalets",
       "yevpatoriya",
       "yulia-tymoshenko",
@@ -7041,9 +7570,11 @@
       "andriivskyi-descent",
       "battle-of-kiev",
       "battle-of-lwów",
+      "battle-of-zboriv",
       "bohdan-hawrylyshyn",
       "bohdan-khmelnytsky",
       "bohuslav",
+      "borysthenes",
       "bukovina",
       "chechenrussian-conflict",
       "chernobyl-disaster",
@@ -7051,8 +7582,10 @@
       "cinema-of-ukraine",
       "cossack-hetmanate",
       "cossack-song",
+      "cossackia",
       "cossacks",
       "crimea-gold-and-secrets-of-the-black-sea",
+      "crimean-khanate",
       "crimean-war",
       "cucutenitrypillia-culture",
       "danylo-halytsky-lviv-national-medical-university",
@@ -7085,6 +7618,7 @@
       "mikhail-lomonosov",
       "modern-history-of-ukraine",
       "national-academy-of-sciences-of-ukraine",
+      "nestor-the-chronicler",
       "nikita-khrushchev",
       "nikolai-gogol",
       "operation-vistula",
@@ -7104,6 +7638,7 @@
       "russian-revolution-of-1905",
       "rusyns",
       "ruthenian",
+      "sarmatians",
       "scythians",
       "sich-riflemen",
       "slavutych",
@@ -7138,96 +7673,6 @@
       "yaremche",
       "zaporizhian-sich"
     ],
-    "economy": [
-      "agriculture-in-ukraine",
-      "antonov",
-      "arcelormittal-kryvyi-rih",
-      "astarta-holding",
-      "avdeyevka-coke-and-chemical-plant",
-      "azovstal",
-      "bakhchysarai",
-      "bakhmut",
-      "banking-in-ukraine",
-      "beer-in-ukraine",
-      "black-sea-shipping-company",
-      "borshchiv",
-      "boryspil-international-airport",
-      "categorysteel-industry-in-ukraine",
-      "centrenergo",
-      "chernihiv-oblast",
-      "chernobyl-nuclear-power-plant",
-      "chornomornaftogaz",
-      "chumak",
-      "clairette-blanche",
-      "coal-in-ukraine",
-      "cyborgs-heroes-never-die",
-      "donetsk-oblast",
-      "drohobych",
-      "dtek",
-      "economy-of-ukraine",
-      "electricity-in-ukraine",
-      "energoatom",
-      "energy-in-ukraine",
-      "enerhodar",
-      "ferrexpo",
-      "gullivers-travels",
-      "henichesk",
-      "hryvnia",
-      "ihor-kolomoyskyi",
-      "illich-steel-iron-works",
-      "interpipe-group",
-      "kharkiv-tractor-plant",
-      "khmelnytskyi-oblast",
-      "kryvbas",
-      "kyiv-national-economic-university-named-after-vadym-hetman",
-      "kyiv-zhuliany-international-airport",
-      "kyivstar",
-      "lviv-national-environmental-university",
-      "metinvest",
-      "ministry-of-economy",
-      "ministry-of-finance-of-ukraine",
-      "ministry-of-infrastructure-of-ukraine",
-      "motor-sich",
-      "nafpaktos",
-      "naftogaz-of-ukraine",
-      "national-bank-of-ukraine",
-      "nova-post",
-      "nuclear-power-in-ukraine",
-      "oschadbank",
-      "ostriv",
-      "pivdenmash",
-      "postbank",
-      "privatbank",
-      "pyriatyn",
-      "rail-transport-in-ukraine",
-      "renaissance-capital",
-      "rivne-nuclear-power-plant",
-      "roshen",
-      "rusal",
-      "siberia",
-      "siverskodonetsk",
-      "state-property-fund-of-ukraine",
-      "state-statistics-service-of-ukraine",
-      "stepan-bandera",
-      "telecommunications-in-ukraine",
-      "transport-in-ukraine",
-      "ukraine-east",
-      "ukraine-international-airlines",
-      "ukrainian-defense-industry",
-      "ukrainian-dramatic-theatre-of-maria-zankovetska",
-      "ukrainian-exchange",
-      "ukrainian-railways",
-      "ukrainian-wine",
-      "ukrnafta",
-      "volyn-oblast",
-      "zakarpattia",
-      "zaporizhzhia-nuclear-power-plant",
-      "zaporizhzhia-oblast",
-      "zhmerynka",
-      "zhovti-vody",
-      "zhydachiv",
-      "zolotonosha"
-    ],
     "war": [
       "2022-kharkiv-counteroffensive",
       "2022-kherson-counteroffensive",
@@ -7259,6 +7704,7 @@
       "first-battle-of-kharkov",
       "full-scale-russo-ukrainian-war",
       "gromada",
+      "gulag",
       "haidamaka",
       "hanna-malyar",
       "igor-girkin",
@@ -7275,6 +7721,7 @@
       "moskva",
       "myrhorod",
       "national-guard-of-ukraine",
+      "oleksandr-vysotskyi",
       "pavlo-klimkin",
       "radomysl-castle",
       "romaniaukraine-relations",
@@ -7339,6 +7786,7 @@
       "kolomyjka",
       "kupala-night",
       "kutia",
+      "kyiv-music-fest",
       "kyiv-national-academic-theatre-of-operetta",
       "kyiv-post",
       "lviv-national-academy-of-arts",
@@ -7370,6 +7818,7 @@
       "pavlo-tychyna",
       "pavlo-tychyna-museum",
       "pavlo-zibrov",
+      "pavlovo",
       "petrykivka-painting",
       "podil",
       "potato-pancake",
@@ -7378,6 +7827,7 @@
       "psycho-pass",
       "pyotr-ilyich-tchaikovsky",
       "pysanka",
+      "pysanka-museum",
       "rag-doll",
       "rushnyk",
       "salo",
@@ -7450,6 +7900,12 @@
       "degree": 6
     },
     {
+      "id": "2015-ukrainian-local-elections",
+      "title": "2015 Ukrainian local elections",
+      "category": "politics",
+      "degree": 18
+    },
+    {
       "id": "2019-ukrainian-presidential-election",
       "title": "2019 Ukrainian presidential election",
       "category": "politics",
@@ -7471,7 +7927,7 @@
       "id": "2022-russian-invasion-of-ukraine",
       "title": "2022 Russian invasion of Ukraine",
       "category": "war",
-      "degree": 56
+      "degree": 58
     },
     {
       "id": "abakan",
@@ -7483,7 +7939,7 @@
       "id": "administrative-territorial-entity-of-ukraine",
       "title": "administrative territorial entity of Ukraine",
       "category": "politics",
-      "degree": 31
+      "degree": 32
     },
     {
       "id": "agriculture-in-ukraine",
@@ -7507,7 +7963,7 @@
       "id": "alushta",
       "title": "Alushta",
       "category": "geography",
-      "degree": 4
+      "degree": 6
     },
     {
       "id": "anatoliy-solovyanenko",
@@ -7537,13 +7993,19 @@
       "id": "andriivskyi-descent",
       "title": "Andriivskyi Descent",
       "category": "history",
-      "degree": 5
+      "degree": 6
     },
     {
       "id": "andriy-shevchenko",
       "title": "Andriy Shevchenko",
       "category": "people",
-      "degree": 9
+      "degree": 10
+    },
+    {
+      "id": "andriy-yarmolenko",
+      "title": "Andriy Yarmolenko",
+      "category": "people",
+      "degree": 13
     },
     {
       "id": "antonov",
@@ -7573,13 +8035,19 @@
       "id": "armed-forces-of-ukraine",
       "title": "Armed Forces of Ukraine",
       "category": "politics",
-      "degree": 37
+      "degree": 39
     },
     {
       "id": "arsen-avakov",
       "title": "Arsen Avakov",
       "category": "war",
       "degree": 9
+    },
+    {
+      "id": "artem-dzyuba",
+      "title": "Artem Dzyuba",
+      "category": "people",
+      "degree": 7
     },
     {
       "id": "artem-sytnyk",
@@ -7633,7 +8101,7 @@
       "id": "bakhmut",
       "title": "Bakhmut",
       "category": "economy",
-      "degree": 11
+      "degree": 13
     },
     {
       "id": "bandura",
@@ -7648,6 +8116,12 @@
       "degree": 12
     },
     {
+      "id": "baryshivska-hromada",
+      "title": "Baryshivska Hromada",
+      "category": "economy",
+      "degree": 4
+    },
+    {
       "id": "batkivshchyna",
       "title": "Batkivshchyna",
       "category": "politics",
@@ -7657,7 +8131,7 @@
       "id": "battle-of-bakhmut",
       "title": "Battle of Bakhmut",
       "category": "war",
-      "degree": 11
+      "degree": 12
     },
     {
       "id": "battle-of-debaltseve",
@@ -7699,7 +8173,7 @@
       "id": "battle-of-sievierodonetsk",
       "title": "Battle of Sievierodonetsk",
       "category": "war",
-      "degree": 9
+      "degree": 10
     },
     {
       "id": "battle-of-sumy",
@@ -7708,10 +8182,22 @@
       "degree": 5
     },
     {
+      "id": "battle-of-zboriv",
+      "title": "Battle of Zboriv",
+      "category": "history",
+      "degree": 4
+    },
+    {
       "id": "beer-in-ukraine",
       "title": "beer in Ukraine",
       "category": "economy",
       "degree": 12
+    },
+    {
+      "id": "belovodskoye",
+      "title": "Belovodskoye",
+      "category": "geography",
+      "degree": 6
     },
     {
       "id": "bessarabia",
@@ -7807,7 +8293,7 @@
       "id": "borys-filatov",
       "title": "Borys Filatov",
       "category": "politics",
-      "degree": 12
+      "degree": 13
     },
     {
       "id": "borys-hrinchenko",
@@ -7843,13 +8329,19 @@
       "id": "boryspil",
       "title": "Boryspil",
       "category": "geography",
-      "degree": 18
+      "degree": 19
     },
     {
       "id": "boryspil-international-airport",
       "title": "Boryspil International Airport",
       "category": "economy",
       "degree": 11
+    },
+    {
+      "id": "borysthenes",
+      "title": "Borysthenes",
+      "category": "history",
+      "degree": 5
     },
     {
       "id": "borzsa",
@@ -7882,6 +8374,12 @@
       "degree": 19
     },
     {
+      "id": "burgerinitiatief",
+      "title": "Burgerinitiatief",
+      "category": "politics",
+      "degree": 2
+    },
+    {
       "id": "cabbage-roll",
       "title": "cabbage roll",
       "category": "culture",
@@ -7891,7 +8389,7 @@
       "id": "cabinet-of-ministers-of-ukraine",
       "title": "Cabinet of Ministers of Ukraine",
       "category": "politics",
-      "degree": 54
+      "degree": 56
     },
     {
       "id": "carpathians",
@@ -7916,6 +8414,12 @@
       "title": "Central Election Commission of Ukraine",
       "category": "politics",
       "degree": 7
+    },
+    {
+      "id": "central-rada",
+      "title": "Central Rada",
+      "category": "politics",
+      "degree": 17
     },
     {
       "id": "centrenergo",
@@ -7945,13 +8449,13 @@
       "id": "chernihiv",
       "title": "Chernihiv",
       "category": "geography",
-      "degree": 30
+      "degree": 32
     },
     {
       "id": "chernihiv-oblast",
       "title": "Chernihiv Oblast",
       "category": "economy",
-      "degree": 26
+      "degree": 28
     },
     {
       "id": "chernivtsi",
@@ -8023,13 +8527,13 @@
       "id": "chumak",
       "title": "Chumak",
       "category": "economy",
-      "degree": 9
+      "degree": 10
     },
     {
       "id": "chyhyryn",
       "title": "Chyhyryn",
       "category": "geography",
-      "degree": 17
+      "degree": 18
     },
     {
       "id": "chyhyryn-raion",
@@ -8059,7 +8563,7 @@
       "id": "coal-in-ukraine",
       "title": "coal in Ukraine",
       "category": "economy",
-      "degree": 373
+      "degree": 397
     },
     {
       "id": "coat-of-arms-of-ukrainiae",
@@ -8083,7 +8587,7 @@
       "id": "cossack-hetmanate",
       "title": "Cossack Hetmanate",
       "category": "history",
-      "degree": 45
+      "degree": 46
     },
     {
       "id": "cossack-mamay",
@@ -8098,22 +8602,28 @@
       "degree": 9
     },
     {
+      "id": "cossackia",
+      "title": "Cossackia",
+      "category": "history",
+      "degree": 5
+    },
+    {
       "id": "cossacks",
       "title": "Cossacks",
       "category": "history",
-      "degree": 37
+      "degree": 41
     },
     {
       "id": "council-of-europe",
       "title": "Council of Europe",
       "category": "politics",
-      "degree": 11
+      "degree": 12
     },
     {
       "id": "crimea",
       "title": "Crimea",
       "category": "geography",
-      "degree": 73
+      "degree": 19
     },
     {
       "id": "crimea-crisis",
@@ -8128,16 +8638,22 @@
       "degree": 9
     },
     {
+      "id": "crimean-khanate",
+      "title": "Crimean Khanate",
+      "category": "history",
+      "degree": 84
+    },
+    {
       "id": "crimean-tatar",
       "title": "Crimean Tatar",
       "category": "politics",
-      "degree": 21
+      "degree": 23
     },
     {
       "id": "crimean-tatars",
       "title": "Crimean Tatars",
       "category": "war",
-      "degree": 18
+      "degree": 20
     },
     {
       "id": "crimean-war",
@@ -8155,7 +8671,7 @@
       "id": "culture-of-ukraine",
       "title": "culture of Ukraine",
       "category": "culture",
-      "degree": 20
+      "degree": 21
     },
     {
       "id": "cyborgs-heroes-never-die",
@@ -8281,7 +8797,7 @@
       "id": "dnieper",
       "title": "Dnieper",
       "category": "geography",
-      "degree": 77
+      "degree": 80
     },
     {
       "id": "dnieper-ukraine",
@@ -8305,7 +8821,7 @@
       "id": "dnipro",
       "title": "Dnipro",
       "category": "geography",
-      "degree": 31
+      "degree": 33
     },
     {
       "id": "dnipro-art-museum",
@@ -8317,31 +8833,31 @@
       "id": "dnipropetrovsk-oblast",
       "title": "Dnipropetrovsk Oblast",
       "category": "war",
-      "degree": 34
+      "degree": 37
     },
     {
       "id": "donbas",
       "title": "Donbas",
       "category": "geography",
-      "degree": 55
+      "degree": 61
     },
     {
       "id": "donets",
       "title": "Donets",
       "category": "geography",
-      "degree": 16
+      "degree": 17
     },
     {
       "id": "donetsk",
       "title": "Donetsk",
       "category": "geography",
-      "degree": 68
+      "degree": 70
     },
     {
       "id": "donetsk-oblast",
       "title": "Donetsk Oblast",
       "category": "economy",
-      "degree": 28
+      "degree": 32
     },
     {
       "id": "donetsk-peoples-republic",
@@ -8377,7 +8893,7 @@
       "id": "eastern-europe",
       "title": "Eastern Europe",
       "category": "geography",
-      "degree": 58
+      "degree": 59
     },
     {
       "id": "eastern-galicia",
@@ -8401,7 +8917,7 @@
       "id": "elections-in-ukraine",
       "title": "elections in Ukraine",
       "category": "war",
-      "degree": 14
+      "degree": 15
     },
     {
       "id": "electricity-in-ukraine",
@@ -8431,13 +8947,25 @@
       "id": "euromaidan",
       "title": "Euromaidan",
       "category": "history",
-      "degree": 47
+      "degree": 50
+    },
+    {
+      "id": "european-solidarity",
+      "title": "European Solidarity",
+      "category": "people",
+      "degree": 17
     },
     {
       "id": "eurovision-song-contest-2016",
       "title": "Eurovision Song Contest 2016",
       "category": "people",
       "degree": 4
+    },
+    {
+      "id": "eurovision-song-contest-2017",
+      "title": "Eurovision Song Contest 2017",
+      "category": "people",
+      "degree": 5
     },
     {
       "id": "executed-renaissance",
@@ -8449,13 +8977,13 @@
       "id": "fastiv",
       "title": "Fastiv",
       "category": "geography",
-      "degree": 7
+      "degree": 8
     },
     {
       "id": "fc-dynamo-kyiv",
       "title": "FC Dynamo Kyiv",
       "category": "culture",
-      "degree": 8
+      "degree": 9
     },
     {
       "id": "fc-zorya-luhansk",
@@ -8467,7 +8995,7 @@
       "id": "ferrexpo",
       "title": "Ferrexpo",
       "category": "economy",
-      "degree": 7
+      "degree": 8
     },
     {
       "id": "fine-arts-museum-kharkiv",
@@ -8497,7 +9025,7 @@
       "id": "full-scale-russo-ukrainian-war",
       "title": "full-scale Russo-Ukrainian war",
       "category": "war",
-      "degree": 156
+      "degree": 166
     },
     {
       "id": "galicia",
@@ -8542,6 +9070,12 @@
       "degree": 1
     },
     {
+      "id": "gulag",
+      "title": "Gulag",
+      "category": "war",
+      "degree": 8
+    },
+    {
       "id": "gullivers-travels",
       "title": "Gulliver's Travels",
       "category": "economy",
@@ -8563,7 +9097,7 @@
       "id": "halych",
       "title": "Halych",
       "category": "geography",
-      "degree": 29
+      "degree": 30
     },
     {
       "id": "hanna-malyar",
@@ -8593,13 +9127,13 @@
       "id": "hetmanate",
       "title": "Hetmanate",
       "category": "culture",
-      "degree": 19
+      "degree": 20
     },
     {
       "id": "history-of-crimea",
       "title": "history of Crimea",
       "category": "history",
-      "degree": 14
+      "degree": 15
     },
     {
       "id": "history-of-kyiv",
@@ -8611,7 +9145,7 @@
       "id": "history-of-the-cossacks",
       "title": "history of the Cossacks",
       "category": "history",
-      "degree": 13
+      "degree": 14
     },
     {
       "id": "history-of-the-jews-in-ukraine",
@@ -8623,13 +9157,13 @@
       "id": "history-of-ukraine",
       "title": "history of Ukraine",
       "category": "people",
-      "degree": 58
+      "degree": 61
     },
     {
       "id": "history-of-ukrainian-nationality",
       "title": "history of Ukrainian nationality",
       "category": "people",
-      "degree": 11
+      "degree": 12
     },
     {
       "id": "holodomor",
@@ -8647,7 +9181,7 @@
       "id": "horishni-plavni",
       "title": "Horishni Plavni",
       "category": "geography",
-      "degree": 9
+      "degree": 10
     },
     {
       "id": "hoverla",
@@ -8666,6 +9200,12 @@
       "title": "Hryhorii Skovoroda",
       "category": "politics",
       "degree": 13
+    },
+    {
+      "id": "hryshko-national-botanical-garden",
+      "title": "Hryshko National Botanical Garden",
+      "category": "economy",
+      "degree": 6
     },
     {
       "id": "hryvnia",
@@ -8725,7 +9265,7 @@
       "id": "independent-ukraine",
       "title": "Independent Ukraine",
       "category": "politics",
-      "degree": 27
+      "degree": 30
     },
     {
       "id": "intercession-of-the-theotokos",
@@ -8773,7 +9313,7 @@
       "id": "ivan-franko",
       "title": "Ivan Franko",
       "category": "people",
-      "degree": 28
+      "degree": 29
     },
     {
       "id": "ivan-franko-national-academic-drama-theater",
@@ -8803,7 +9343,13 @@
       "id": "ivano-frankivsk",
       "title": "Ivano-Frankivsk",
       "category": "geography",
-      "degree": 24
+      "degree": 26
+    },
+    {
+      "id": "ivano-frankivsk-national-medical-university",
+      "title": "Ivano-Frankivsk National Medical University",
+      "category": "geography",
+      "degree": 5
     },
     {
       "id": "ivano-frankivsk-national-technical-university-of-oil-and-gas",
@@ -8815,7 +9361,7 @@
       "id": "ivano-frankivsk-oblast",
       "title": "Ivano-Frankivsk Oblast",
       "category": "geography",
-      "degree": 33
+      "degree": 34
     },
     {
       "id": "ivano-frankivsk-raion",
@@ -8839,7 +9385,7 @@
       "id": "jamala",
       "title": "Jamala",
       "category": "people",
-      "degree": 15
+      "degree": 16
     },
     {
       "id": "judicial-system-of-ukraine",
@@ -8869,13 +9415,19 @@
       "id": "kharkiv",
       "title": "Kharkiv",
       "category": "geography",
-      "degree": 15
+      "degree": 16
+    },
+    {
+      "id": "kharkiv-national-university-of-radioelectronics",
+      "title": "Kharkiv National University of Radioelectronics",
+      "category": "geography",
+      "degree": 3
     },
     {
       "id": "kharkiv-oblast",
       "title": "Kharkiv Oblast",
       "category": "geography",
-      "degree": 69
+      "degree": 72
     },
     {
       "id": "kharkiv-tractor-plant",
@@ -8899,13 +9451,13 @@
       "id": "kherson-oblast",
       "title": "Kherson Oblast",
       "category": "politics",
-      "degree": 22
+      "degree": 24
     },
     {
       "id": "khmelnytsky-uprising",
       "title": "Khmelnytsky Uprising",
       "category": "history",
-      "degree": 29
+      "degree": 31
     },
     {
       "id": "khmelnytskyi",
@@ -8959,7 +9511,7 @@
       "id": "kievan-rus",
       "title": "Kievan Rus'",
       "category": "history",
-      "degree": 64
+      "degree": 66
     },
     {
       "id": "kingdom-of-galiciavolhynia",
@@ -8971,7 +9523,7 @@
       "id": "kirovohrad-oblast",
       "title": "Kirovohrad Oblast",
       "category": "people",
-      "degree": 24
+      "degree": 26
     },
     {
       "id": "kobzar",
@@ -8986,16 +9538,28 @@
       "degree": 9
     },
     {
+      "id": "kramatorsk",
+      "title": "Kramatorsk",
+      "category": "geography",
+      "degree": 8
+    },
+    {
       "id": "kramatorsk-railway-station-attack",
       "title": "Kramatorsk railway station attack",
       "category": "war",
-      "degree": 14
+      "degree": 15
+    },
+    {
+      "id": "kremenchuk",
+      "title": "Kremenchuk",
+      "category": "economy",
+      "degree": 21
     },
     {
       "id": "kremenchuk-reservoir",
       "title": "Kremenchuk Reservoir",
       "category": "geography",
-      "degree": 7
+      "degree": 9
     },
     {
       "id": "kremenets-castle",
@@ -9007,19 +9571,25 @@
       "id": "kreminna",
       "title": "Kreminna",
       "category": "people",
-      "degree": 11
+      "degree": 12
     },
     {
       "id": "kremlin",
       "title": "Kremlin",
       "category": "war",
-      "degree": 8
+      "degree": 9
     },
     {
       "id": "kropyvnytskyi",
       "title": "Kropyvnytskyi",
       "category": "people",
       "degree": 14
+    },
+    {
+      "id": "krymske",
+      "title": "Krymske",
+      "category": "geography",
+      "degree": 6
     },
     {
       "id": "kryvbas",
@@ -9061,7 +9631,7 @@
       "id": "kyiv",
       "title": "Kyiv",
       "category": "geography",
-      "degree": 221
+      "degree": 226
     },
     {
       "id": "kyiv-city-state-administration",
@@ -9080,6 +9650,12 @@
       "title": "Kyiv Metro",
       "category": "history",
       "degree": 10
+    },
+    {
+      "id": "kyiv-music-fest",
+      "title": "Kyiv Music Fest",
+      "category": "culture",
+      "degree": 9
     },
     {
       "id": "kyiv-national-academic-theatre-of-operetta",
@@ -9103,7 +9679,7 @@
       "id": "kyiv-oblast",
       "title": "Kyiv Oblast",
       "category": "politics",
-      "degree": 43
+      "degree": 44
     },
     {
       "id": "kyiv-offensive",
@@ -9157,7 +9733,7 @@
       "id": "leonid-kuchma",
       "title": "Leonid Kuchma",
       "category": "people",
-      "degree": 33
+      "degree": 34
     },
     {
       "id": "les-kurbas",
@@ -9169,7 +9745,7 @@
       "id": "lesya-ukrainka",
       "title": "Lesya Ukrainka",
       "category": "people",
-      "degree": 14
+      "degree": 15
     },
     {
       "id": "lgbt-rights-in-ukraine",
@@ -9181,7 +9757,7 @@
       "id": "little-russia",
       "title": "Little Russia",
       "category": "geography",
-      "degree": 13
+      "degree": 14
     },
     {
       "id": "local-government-in-ukraine",
@@ -9193,19 +9769,19 @@
       "id": "luhansk",
       "title": "Luhansk",
       "category": "geography",
-      "degree": 25
+      "degree": 26
     },
     {
       "id": "luhansk-oblast",
       "title": "Luhansk Oblast",
       "category": "war",
-      "degree": 19
+      "degree": 22
     },
     {
       "id": "luhansk-peoples-republic",
       "title": "Luhansk People's Republic",
       "category": "war",
-      "degree": 22
+      "degree": 24
     },
     {
       "id": "lutsk",
@@ -9217,7 +9793,7 @@
       "id": "lviv",
       "title": "Lviv",
       "category": "geography",
-      "degree": 94
+      "degree": 95
     },
     {
       "id": "lviv-city-council",
@@ -9241,7 +9817,7 @@
       "id": "lviv-national-museum",
       "title": "Lviv National Museum",
       "category": "culture",
-      "degree": 19
+      "degree": 20
     },
     {
       "id": "lviv-oblast",
@@ -9268,6 +9844,12 @@
       "degree": 19
     },
     {
+      "id": "lysychansk",
+      "title": "Lysychansk",
+      "category": "geography",
+      "degree": 16
+    },
+    {
       "id": "maidan-nezalezhnosti",
       "title": "Maidan Nezalezhnosti",
       "category": "people",
@@ -9289,7 +9871,7 @@
       "id": "mariupol",
       "title": "Mariupol",
       "category": "geography",
-      "degree": 23
+      "degree": 24
     },
     {
       "id": "mariupol-theatre-airstrike",
@@ -9373,7 +9955,7 @@
       "id": "ministry-of-foreign-affairs-of-ukraine",
       "title": "Ministry of Foreign Affairs of Ukraine",
       "category": "politics",
-      "degree": 11
+      "degree": 12
     },
     {
       "id": "ministry-of-infrastructure-of-ukraine",
@@ -9385,7 +9967,7 @@
       "id": "ministry-of-internal-affairs-of-ukraine",
       "title": "Ministry of Internal Affairs of Ukraine",
       "category": "politics",
-      "degree": 13
+      "degree": 14
     },
     {
       "id": "minsk-agreements",
@@ -9397,7 +9979,7 @@
       "id": "modern-history-of-ukraine",
       "title": "modern history of Ukraine",
       "category": "history",
-      "degree": 34
+      "degree": 35
     },
     {
       "id": "moldovaukraine-relations",
@@ -9415,7 +9997,7 @@
       "id": "moskva",
       "title": "Moskva",
       "category": "war",
-      "degree": 12
+      "degree": 13
     },
     {
       "id": "mother-ukraine-monument",
@@ -9445,7 +10027,7 @@
       "id": "mykhailo-hrushevskyi",
       "title": "Mykhailo Hrushevskyi",
       "category": "people",
-      "degree": 22
+      "degree": 23
     },
     {
       "id": "mykola-azarov",
@@ -9475,25 +10057,31 @@
       "id": "mykola-lysenko",
       "title": "Mykola Lysenko",
       "category": "culture",
-      "degree": 20
+      "degree": 21
     },
     {
       "id": "mykolaiv",
       "title": "Mykolaiv",
       "category": "geography",
-      "degree": 24
+      "degree": 25
     },
     {
       "id": "mykolaiv-oblast",
       "title": "Mykolaiv Oblast",
       "category": "geography",
-      "degree": 19
+      "degree": 21
     },
     {
       "id": "mykolaiv-shipyard",
       "title": "Mykolaiv Shipyard",
       "category": "geography",
       "degree": 4
+    },
+    {
+      "id": "mykolayiv-state-agrarian-university",
+      "title": "Mykolayiv State Agrarian University",
+      "category": "geography",
+      "degree": 2
     },
     {
       "id": "myrhorod",
@@ -9505,7 +10093,7 @@
       "id": "myroslav-skoryk",
       "title": "Myroslav Skoryk",
       "category": "culture",
-      "degree": 12
+      "degree": 13
     },
     {
       "id": "nadia",
@@ -9541,7 +10129,7 @@
       "id": "national-academy-of-sciences-of-ukraine",
       "title": "National Academy of Sciences of Ukraine",
       "category": "history",
-      "degree": 20
+      "degree": 22
     },
     {
       "id": "national-art-museum-of-ukraine",
@@ -9559,7 +10147,7 @@
       "id": "national-bank-of-ukraine",
       "title": "National Bank of Ukraine",
       "category": "economy",
-      "degree": 24
+      "degree": 25
     },
     {
       "id": "national-forestry-university",
@@ -9601,13 +10189,13 @@
       "id": "national-opera-of-ukraine",
       "title": "National Opera of Ukraine",
       "category": "culture",
-      "degree": 13
+      "degree": 14
     },
     {
       "id": "national-philharmonic-of-ukraine",
       "title": "National Philharmonic of Ukraine",
       "category": "culture",
-      "degree": 9
+      "degree": 10
     },
     {
       "id": "national-security-and-defense-council-of-ukraine",
@@ -9628,16 +10216,22 @@
       "degree": 3
     },
     {
+      "id": "nestor-the-chronicler",
+      "title": "Nestor the Chronicler",
+      "category": "history",
+      "degree": 5
+    },
+    {
       "id": "nikita-khrushchev",
       "title": "Nikita Khrushchev",
       "category": "history",
-      "degree": 14
+      "degree": 16
     },
     {
       "id": "nikolai-gogol",
       "title": "Nikolai Gogol",
       "category": "history",
-      "degree": 8
+      "degree": 10
     },
     {
       "id": "nikolay-aleksandrovich-tikhonov",
@@ -9652,10 +10246,22 @@
       "degree": 13
     },
     {
+      "id": "nizhyn",
+      "title": "Nizhyn",
+      "category": "economy",
+      "degree": 15
+    },
+    {
       "id": "nova-post",
       "title": "Nova Post",
       "category": "economy",
       "degree": 10
+    },
+    {
+      "id": "novomoskovsk",
+      "title": "Novomoskovsk",
+      "category": "geography",
+      "degree": 3
     },
     {
       "id": "nuclear-power-in-ukraine",
@@ -9667,7 +10273,7 @@
       "id": "odesa",
       "title": "Odesa",
       "category": "geography",
-      "degree": 45
+      "degree": 46
     },
     {
       "id": "odesa-catacombs",
@@ -9745,7 +10351,13 @@
       "id": "oleksandr-turchynov",
       "title": "Oleksandr Turchynov",
       "category": "people",
-      "degree": 21
+      "degree": 22
+    },
+    {
+      "id": "oleksandr-vysotskyi",
+      "title": "Oleksandr Vysotskyi",
+      "category": "war",
+      "degree": 3
     },
     {
       "id": "oles-honchar",
@@ -9763,7 +10375,7 @@
       "id": "oleshky-sands",
       "title": "Oleshky Sands",
       "category": "geography",
-      "degree": 4
+      "degree": 5
     },
     {
       "id": "olesko-castle",
@@ -9787,13 +10399,13 @@
       "id": "orange-revolution",
       "title": "Orange Revolution",
       "category": "history",
-      "degree": 28
+      "degree": 29
     },
     {
       "id": "orel",
       "title": "Orel",
       "category": "history",
-      "degree": 2
+      "degree": 3
     },
     {
       "id": "organization-of-ukrainian-nationalists",
@@ -9823,7 +10435,7 @@
       "id": "ostriv",
       "title": "Ostriv",
       "category": "economy",
-      "degree": 18
+      "degree": 19
     },
     {
       "id": "ostroh-academy",
@@ -9835,7 +10447,7 @@
       "id": "pale-of-settlement",
       "title": "Pale of Settlement",
       "category": "history",
-      "degree": 3
+      "degree": 4
     },
     {
       "id": "parliamentary-assembly-of-the-council-of-europe",
@@ -9886,6 +10498,18 @@
       "degree": 7
     },
     {
+      "id": "pavlohrad",
+      "title": "Pavlohrad",
+      "category": "economy",
+      "degree": 10
+    },
+    {
+      "id": "pavlovo",
+      "title": "Pavlovo",
+      "category": "culture",
+      "degree": 1
+    },
+    {
       "id": "pecherskyi-district",
       "title": "Pecherskyi District",
       "category": "geography",
@@ -9895,7 +10519,7 @@
       "id": "pensions-in-ukraine",
       "title": "pensions in Ukraine",
       "category": "politics",
-      "degree": 4
+      "degree": 5
     },
     {
       "id": "peremyshl",
@@ -9904,10 +10528,16 @@
       "degree": 4
     },
     {
+      "id": "pervomaisk",
+      "title": "Pervomaisk",
+      "category": "geography",
+      "degree": 8
+    },
+    {
       "id": "petro-poroshenko",
       "title": "Petro Poroshenko",
       "category": "politics",
-      "degree": 35
+      "degree": 37
     },
     {
       "id": "petrykivka-painting",
@@ -9925,7 +10555,7 @@
       "id": "pivdenmash",
       "title": "Pivdenmash",
       "category": "economy",
-      "degree": 10
+      "degree": 11
     },
     {
       "id": "podil",
@@ -9949,31 +10579,31 @@
       "id": "polesia",
       "title": "Polesia",
       "category": "geography",
-      "degree": 24
+      "degree": 26
     },
     {
       "id": "political-party-in-ukraine",
       "title": "political party in Ukraine",
       "category": "politics",
-      "degree": 14
+      "degree": 15
     },
     {
       "id": "poltava",
       "title": "Poltava",
       "category": "geography",
-      "degree": 35
+      "degree": 37
     },
     {
       "id": "poltava-oblast",
       "title": "Poltava Oblast",
       "category": "people",
-      "degree": 38
+      "degree": 41
     },
     {
       "id": "post-soviet-states",
       "title": "Post-Soviet states",
       "category": "history",
-      "degree": 14
+      "degree": 15
     },
     {
       "id": "postbank",
@@ -9991,7 +10621,7 @@
       "id": "pravda",
       "title": "Pravda",
       "category": "culture",
-      "degree": 9
+      "degree": 10
     },
     {
       "id": "president-of-ukraine",
@@ -10066,6 +10696,12 @@
       "degree": 9
     },
     {
+      "id": "pysanka-museum",
+      "title": "Pysanka Museum",
+      "category": "culture",
+      "degree": 9
+    },
+    {
       "id": "radio-ukraine",
       "title": "Radio Ukraine",
       "category": "history",
@@ -10123,13 +10759,13 @@
       "id": "revolution-of-dignity",
       "title": "Revolution of Dignity",
       "category": "history",
-      "degree": 33
+      "degree": 34
     },
     {
       "id": "rivne",
       "title": "Rivne",
       "category": "history",
-      "degree": 16
+      "degree": 17
     },
     {
       "id": "rivne-nuclear-power-plant",
@@ -10141,7 +10777,7 @@
       "id": "rivne-oblast",
       "title": "Rivne Oblast",
       "category": "geography",
-      "degree": 20
+      "degree": 23
     },
     {
       "id": "romaniaukraine-relations",
@@ -10153,7 +10789,7 @@
       "id": "roshen",
       "title": "Roshen",
       "category": "economy",
-      "degree": 10
+      "degree": 11
     },
     {
       "id": "rus",
@@ -10201,13 +10837,13 @@
       "id": "russian-annexation-of-crimea",
       "title": "Russian annexation of Crimea",
       "category": "war",
-      "degree": 51
+      "degree": 52
     },
     {
       "id": "russian-occupation-of-crimea",
       "title": "Russian occupation of Crimea",
       "category": "war",
-      "degree": 10
+      "degree": 11
     },
     {
       "id": "russian-revolution-of-1905",
@@ -10249,13 +10885,19 @@
       "id": "ruthenian",
       "title": "Ruthenian",
       "category": "history",
-      "degree": 33
+      "degree": 34
     },
     {
       "id": "saint-sophia-cathedral",
       "title": "Saint Sophia Cathedral",
       "category": "geography",
       "degree": 13
+    },
+    {
+      "id": "sakhalin",
+      "title": "Sakhalin",
+      "category": "geography",
+      "degree": 1
     },
     {
       "id": "sakharov-prize",
@@ -10276,6 +10918,18 @@
       "degree": 9
     },
     {
+      "id": "sarmatians",
+      "title": "Sarmatians",
+      "category": "history",
+      "degree": 4
+    },
+    {
+      "id": "sarny",
+      "title": "Sarny",
+      "category": "economy",
+      "degree": 11
+    },
+    {
       "id": "savchuk",
       "title": "Savchuk",
       "category": "culture",
@@ -10285,7 +10939,7 @@
       "id": "scythians",
       "title": "Scythians",
       "category": "history",
-      "degree": 17
+      "degree": 20
     },
     {
       "id": "second-battle-of-kharkov",
@@ -10297,7 +10951,7 @@
       "id": "security-service-of-ukraine",
       "title": "Security Service of Ukraine",
       "category": "politics",
-      "degree": 20
+      "degree": 21
     },
     {
       "id": "sergei-bubka",
@@ -10309,7 +10963,7 @@
       "id": "sergei-korolev",
       "title": "Sergei Korolev",
       "category": "people",
-      "degree": 6
+      "degree": 7
     },
     {
       "id": "serhiy-haidai",
@@ -10336,6 +10990,18 @@
       "degree": 17
     },
     {
+      "id": "shatsk-national-natural-park",
+      "title": "Shatsk National Natural Park",
+      "category": "geography",
+      "degree": 9
+    },
+    {
+      "id": "shche-ne-vmerla-ukrainy-i-slava-i-volia",
+      "title": "Shche ne vmerla Ukrainy i slava, i volia",
+      "category": "politics",
+      "degree": 11
+    },
+    {
       "id": "shchedryk",
       "title": "Shchedryk",
       "category": "people",
@@ -10357,7 +11023,7 @@
       "id": "siberia",
       "title": "Siberia",
       "category": "economy",
-      "degree": 12
+      "degree": 14
     },
     {
       "id": "sich-riflemen",
@@ -10381,7 +11047,7 @@
       "id": "siverskodonetsk",
       "title": "Siverskodonetsk",
       "category": "economy",
-      "degree": 13
+      "degree": 16
     },
     {
       "id": "slavic-religion",
@@ -10411,7 +11077,7 @@
       "id": "social-democratic-party-of-ukraine-united",
       "title": "Social Democratic Party of Ukraine (united)",
       "category": "politics",
-      "degree": 13
+      "degree": 16
     },
     {
       "id": "sofia-rotaru",
@@ -10426,10 +11092,16 @@
       "degree": 6
     },
     {
+      "id": "soledar",
+      "title": "Soledar",
+      "category": "geography",
+      "degree": 9
+    },
+    {
       "id": "southern-bug",
       "title": "Southern Bug",
       "category": "war",
-      "degree": 13
+      "degree": 14
     },
     {
       "id": "soviet-famine-of-19321933",
@@ -10447,13 +11119,13 @@
       "id": "soviet-union",
       "title": "Soviet Union",
       "category": "politics",
-      "degree": 183
+      "degree": 192
     },
     {
       "id": "state-emergency-service-of-ukraine",
       "title": "State Emergency Service of Ukraine",
       "category": "politics",
-      "degree": 11
+      "degree": 12
     },
     {
       "id": "state-property-fund-of-ukraine",
@@ -10534,10 +11206,16 @@
       "degree": 14
     },
     {
+      "id": "svitlovodsk",
+      "title": "Svitlovodsk",
+      "category": "economy",
+      "degree": 11
+    },
+    {
       "id": "syvash-bay",
       "title": "Syvash Bay",
       "category": "history",
-      "degree": 6
+      "degree": 7
     },
     {
       "id": "taras-bulba",
@@ -10549,7 +11227,7 @@
       "id": "taras-shevchenko",
       "title": "Taras Shevchenko",
       "category": "people",
-      "degree": 47
+      "degree": 48
     },
     {
       "id": "taras-shevchenko-national-university-of-kyiv",
@@ -10657,7 +11335,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 611
+      "degree": 651
     },
     {
       "id": "ukraine-east",
@@ -10693,19 +11371,19 @@
       "id": "ukraineeuropean-union-relations",
       "title": "Ukraine–European Union relations",
       "category": "politics",
-      "degree": 11
+      "degree": 12
     },
     {
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 543
+      "degree": 571
     },
     {
       "id": "ukrainian-architecture",
       "title": "Ukrainian architecture",
       "category": "history",
-      "degree": 13
+      "degree": 14
     },
     {
       "id": "ukrainian-avant-garde",
@@ -10729,7 +11407,7 @@
       "id": "ukrainian-carpathians",
       "title": "Ukrainian Carpathians",
       "category": "geography",
-      "degree": 14
+      "degree": 15
     },
     {
       "id": "ukrainian-civil-war",
@@ -10813,13 +11491,13 @@
       "id": "ukrainian-greek-catholic-church",
       "title": "Ukrainian Greek Catholic Church",
       "category": "culture",
-      "degree": 17
+      "degree": 18
     },
     {
       "id": "ukrainian-ground-forces",
       "title": "Ukrainian Ground Forces",
       "category": "war",
-      "degree": 19
+      "degree": 20
     },
     {
       "id": "ukrainian-historical-regions",
@@ -10909,7 +11587,7 @@
       "id": "ukrainian-orthodox-church",
       "title": "Ukrainian Orthodox Church",
       "category": "people",
-      "degree": 11
+      "degree": 12
     },
     {
       "id": "ukrainian-orthodox-church-kyiv-patriarchate",
@@ -10927,13 +11605,13 @@
       "id": "ukrainian-parliamentary-elections",
       "title": "Ukrainian parliamentary elections",
       "category": "people",
-      "degree": 7
+      "degree": 8
     },
     {
       "id": "ukrainian-peoples-republic",
       "title": "Ukrainian People's Republic",
       "category": "history",
-      "degree": 63
+      "degree": 65
     },
     {
       "id": "ukrainian-presidential-election",
@@ -10960,10 +11638,16 @@
       "degree": 10
     },
     {
+      "id": "ukrainian-socialist-party",
+      "title": "Ukrainian Socialist Party",
+      "category": "politics",
+      "degree": 5
+    },
+    {
       "id": "ukrainian-soviet-socialist-republic",
       "title": "Ukrainian Soviet Socialist Republic",
       "category": "history",
-      "degree": 111
+      "degree": 114
     },
     {
       "id": "ukrainian-state",
@@ -11011,7 +11695,7 @@
       "id": "ukrainians",
       "title": "Ukrainians",
       "category": "people",
-      "degree": 130
+      "degree": 133
     },
     {
       "id": "ukrainians-in-italy",
@@ -11029,7 +11713,7 @@
       "id": "ukrainization",
       "title": "Ukrainization",
       "category": "history",
-      "degree": 15
+      "degree": 16
     },
     {
       "id": "ukrnafta",
@@ -11083,7 +11767,7 @@
       "id": "vasyl-stus",
       "title": "Vasyl Stus",
       "category": "people",
-      "degree": 16
+      "degree": 18
     },
     {
       "id": "vasyl-symonenko",
@@ -11107,13 +11791,19 @@
       "id": "verkhovna-rada",
       "title": "Verkhovna Rada",
       "category": "politics",
-      "degree": 102
+      "degree": 98
     },
     {
       "id": "vernadsky-national-library-of-ukraine",
       "title": "Vernadsky National Library of Ukraine",
       "category": "culture",
       "degree": 7
+    },
+    {
+      "id": "viktor-medvedchuk",
+      "title": "Viktor Medvedchuk",
+      "category": "politics",
+      "degree": 17
     },
     {
       "id": "viktor-tsoi",
@@ -11167,7 +11857,7 @@
       "id": "vitali-klitschko",
       "title": "Vitali Klitschko",
       "category": "people",
-      "degree": 9
+      "degree": 11
     },
     {
       "id": "vladimir-lenin",
@@ -11179,7 +11869,7 @@
       "id": "vladimir-putin",
       "title": "Vladimir Putin",
       "category": "politics",
-      "degree": 19
+      "degree": 20
     },
     {
       "id": "vladimir-shcherbakov",
@@ -11197,7 +11887,7 @@
       "id": "volhynia",
       "title": "Volhynia",
       "category": "history",
-      "degree": 48
+      "degree": 51
     },
     {
       "id": "volodymyr-hroisman",
@@ -11209,7 +11899,7 @@
       "id": "volodymyr-viatrovych",
       "title": "Volodymyr Viatrovych",
       "category": "people",
-      "degree": 21
+      "degree": 22
     },
     {
       "id": "volodymyr-zelenskyy",
@@ -11221,19 +11911,25 @@
       "id": "volyn-oblast",
       "title": "Volyn Oblast",
       "category": "economy",
-      "degree": 21
+      "degree": 22
     },
     {
       "id": "vorskla",
       "title": "Vorskla",
       "category": "geography",
-      "degree": 6
+      "degree": 7
     },
     {
       "id": "vostok-battalion",
       "title": "Vostok Battalion",
       "category": "war",
       "degree": 2
+    },
+    {
+      "id": "vuhledar",
+      "title": "Vuhledar",
+      "category": "geography",
+      "degree": 10
     },
     {
       "id": "vynnyky",
@@ -11251,7 +11947,7 @@
       "id": "war-in-donbas",
       "title": "War in Donbas",
       "category": "war",
-      "degree": 36
+      "degree": 38
     },
     {
       "id": "west-ukrainian-national-university",
@@ -11275,13 +11971,19 @@
       "id": "western-ukraine",
       "title": "Western Ukraine",
       "category": "people",
-      "degree": 93
+      "degree": 95
     },
     {
       "id": "witold-pilecki",
       "title": "Witold Pilecki",
       "category": "people",
       "degree": 1
+    },
+    {
+      "id": "women-in-ukraine",
+      "title": "Women in Ukraine",
+      "category": "people",
+      "degree": 10
     },
     {
       "id": "yalta",
@@ -11317,7 +12019,7 @@
       "id": "yevhen-hutsalo",
       "title": "Yevhen Hutsalo",
       "category": "culture",
-      "degree": 6
+      "degree": 7
     },
     {
       "id": "yevhen-konoplyanka",
@@ -11365,13 +12067,13 @@
       "id": "zaporizhian-sich",
       "title": "Zaporizhian Sich",
       "category": "history",
-      "degree": 21
+      "degree": 22
     },
     {
       "id": "zaporizhzhia",
       "title": "Zaporizhzhia",
       "category": "geography",
-      "degree": 39
+      "degree": 40
     },
     {
       "id": "zaporizhzhia-nuclear-power-plant",
@@ -11383,19 +12085,19 @@
       "id": "zaporizhzhia-oblast",
       "title": "Zaporizhzhia Oblast",
       "category": "economy",
-      "degree": 20
+      "degree": 21
     },
     {
       "id": "zaporozhian-cossacks",
       "title": "Zaporozhian Cossacks",
       "category": "people",
-      "degree": 35
+      "degree": 37
     },
     {
       "id": "zavodske",
       "title": "Zavodske",
       "category": "geography",
-      "degree": 6
+      "degree": 7
     },
     {
       "id": "zbarazh-castle",
@@ -11407,7 +12109,7 @@
       "id": "zboriv",
       "title": "Zboriv",
       "category": "geography",
-      "degree": 13
+      "degree": 14
     },
     {
       "id": "zbruch",
@@ -11449,7 +12151,7 @@
       "id": "zhytomyr-oblast",
       "title": "Zhytomyr Oblast",
       "category": "people",
-      "degree": 22
+      "degree": 23
     },
     {
       "id": "zlata-ognevich",
@@ -11467,7 +12169,7 @@
       "id": "znamianka",
       "title": "Znamianka",
       "category": "geography",
-      "degree": 17
+      "degree": 19
     },
     {
       "id": "zolochiv",
@@ -11482,10 +12184,16 @@
       "degree": 8
     },
     {
+      "id": "zolote",
+      "title": "Zolote",
+      "category": "geography",
+      "degree": 10
+    },
+    {
       "id": "zolotonosha",
       "title": "Zolotonosha",
       "category": "economy",
-      "degree": 17
+      "degree": 18
     },
     {
       "id": "zorya-mashproekt",
@@ -11523,7 +12231,7 @@
     },
     {
       "source": "political-party-in-ukraine",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "political-party-in-ukraine",
@@ -11580,6 +12288,34 @@
     {
       "source": "bukovel",
       "target": "yaremche"
+    },
+    {
+      "source": "svitlovodsk",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "svitlovodsk",
+      "target": "dnieper"
+    },
+    {
+      "source": "svitlovodsk",
+      "target": "kirovohrad-oblast"
+    },
+    {
+      "source": "svitlovodsk",
+      "target": "kremenchuk"
+    },
+    {
+      "source": "svitlovodsk",
+      "target": "nikita-khrushchev"
+    },
+    {
+      "source": "svitlovodsk",
+      "target": "ukraine"
+    },
+    {
+      "source": "svitlovodsk",
+      "target": "ukrainian"
     },
     {
       "source": "sviatohirsk",
@@ -11819,6 +12555,10 @@
     },
     {
       "source": "national-bank-of-ukraine",
+      "target": "central-rada"
+    },
+    {
+      "source": "national-bank-of-ukraine",
       "target": "coal-in-ukraine"
     },
     {
@@ -11872,6 +12612,10 @@
     {
       "source": "zaporozhian-cossacks",
       "target": "cossacks"
+    },
+    {
+      "source": "zaporozhian-cossacks",
+      "target": "crimean-khanate"
     },
     {
       "source": "zaporozhian-cossacks",
@@ -12091,7 +12835,7 @@
     },
     {
       "source": "full-scale-russo-ukrainian-war",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "full-scale-russo-ukrainian-war",
@@ -12263,7 +13007,7 @@
     },
     {
       "source": "siege-of-mariupol",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "siege-of-mariupol",
@@ -12335,7 +13079,7 @@
     },
     {
       "source": "hanna-malyar",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "hanna-malyar",
@@ -12392,6 +13136,10 @@
     {
       "source": "battle-of-sievierodonetsk",
       "target": "luhansk-peoples-republic"
+    },
+    {
+      "source": "battle-of-sievierodonetsk",
+      "target": "lysychansk"
     },
     {
       "source": "battle-of-sievierodonetsk",
@@ -12523,6 +13271,10 @@
     },
     {
       "source": "kramatorsk-railway-station-attack",
+      "target": "kramatorsk"
+    },
+    {
+      "source": "kramatorsk-railway-station-attack",
       "target": "luhansk"
     },
     {
@@ -12583,6 +13335,10 @@
     },
     {
       "source": "battle-of-bakhmut",
+      "target": "lysychansk"
+    },
+    {
+      "source": "battle-of-bakhmut",
       "target": "siverskodonetsk"
     },
     {
@@ -12596,6 +13352,30 @@
     {
       "source": "battle-of-bakhmut",
       "target": "volodymyr-zelenskyy"
+    },
+    {
+      "source": "krymske",
+      "target": "bakhmut"
+    },
+    {
+      "source": "krymske",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "krymske",
+      "target": "crimean-khanate"
+    },
+    {
+      "source": "krymske",
+      "target": "donetsk-oblast"
+    },
+    {
+      "source": "krymske",
+      "target": "luhansk-oblast"
+    },
+    {
+      "source": "krymske",
+      "target": "ukraine"
     },
     {
       "source": "2022-kherson-counteroffensive",
@@ -12644,6 +13424,10 @@
     {
       "source": "syvash-bay",
       "target": "crimea"
+    },
+    {
+      "source": "syvash-bay",
+      "target": "crimean-khanate"
     },
     {
       "source": "syvash-bay",
@@ -13051,6 +13835,10 @@
     },
     {
       "source": "history-of-the-cossacks",
+      "target": "cossackia"
+    },
+    {
+      "source": "history-of-the-cossacks",
       "target": "cossacks"
     },
     {
@@ -13171,7 +13959,7 @@
     },
     {
       "source": "crimean-tatars",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "crimean-tatars",
@@ -13603,6 +14391,10 @@
     },
     {
       "source": "pensions-in-ukraine",
+      "target": "european-solidarity"
+    },
+    {
+      "source": "pensions-in-ukraine",
       "target": "petro-poroshenko"
     },
     {
@@ -13698,12 +14490,32 @@
       "target": "ukrainian"
     },
     {
+      "source": "ukrainian-socialist-party",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "ukrainian-socialist-party",
+      "target": "independent-ukraine"
+    },
+    {
+      "source": "ukrainian-socialist-party",
+      "target": "ukraine"
+    },
+    {
+      "source": "ukrainian-socialist-party",
+      "target": "ukrainian"
+    },
+    {
+      "source": "ukrainian-socialist-party",
+      "target": "ukrainian-soviet-socialist-republic"
+    },
+    {
       "source": "ukrainian-traditional-costumes",
       "target": "carpathians"
     },
     {
       "source": "ukrainian-traditional-costumes",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "ukrainian-traditional-costumes",
@@ -13891,6 +14703,10 @@
     },
     {
       "source": "museum-of-the-great-patriotic-war",
+      "target": "ukraine"
+    },
+    {
+      "source": "pavlovo",
       "target": "ukraine"
     },
     {
@@ -14315,7 +15131,47 @@
     },
     {
       "source": "scythians",
+      "target": "sarmatians"
+    },
+    {
+      "source": "scythians",
       "target": "ukraine"
+    },
+    {
+      "source": "shatsk-national-natural-park",
+      "target": "administrative-territorial-entity-of-ukraine"
+    },
+    {
+      "source": "shatsk-national-natural-park",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "shatsk-national-natural-park",
+      "target": "lesya-ukrainka"
+    },
+    {
+      "source": "shatsk-national-natural-park",
+      "target": "polesia"
+    },
+    {
+      "source": "shatsk-national-natural-park",
+      "target": "rivne-oblast"
+    },
+    {
+      "source": "shatsk-national-natural-park",
+      "target": "ukraine"
+    },
+    {
+      "source": "shatsk-national-natural-park",
+      "target": "ukrainian"
+    },
+    {
+      "source": "shatsk-national-natural-park",
+      "target": "volhynia"
+    },
+    {
+      "source": "shatsk-national-natural-park",
+      "target": "volyn-oblast"
     },
     {
       "source": "ruthenian",
@@ -14979,11 +15835,19 @@
     },
     {
       "source": "kremenchuk-reservoir",
+      "target": "kremenchuk"
+    },
+    {
+      "source": "kremenchuk-reservoir",
       "target": "kropyvnytskyi"
     },
     {
       "source": "kremenchuk-reservoir",
       "target": "poltava"
+    },
+    {
+      "source": "kremenchuk-reservoir",
+      "target": "svitlovodsk"
     },
     {
       "source": "kremenchuk-reservoir",
@@ -15451,7 +16315,7 @@
     },
     {
       "source": "social-democratic-party-of-ukraine-united",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "social-democratic-party-of-ukraine-united",
@@ -15480,6 +16344,10 @@
     {
       "source": "social-democratic-party-of-ukraine-united",
       "target": "verkhovna-rada"
+    },
+    {
+      "source": "social-democratic-party-of-ukraine-united",
+      "target": "viktor-medvedchuk"
     },
     {
       "source": "social-democratic-party-of-ukraine-united",
@@ -15535,7 +16403,11 @@
     },
     {
       "source": "ukrainian-state",
-      "target": "crimea"
+      "target": "central-rada"
+    },
+    {
+      "source": "ukrainian-state",
+      "target": "crimean-khanate"
     },
     {
       "source": "ukrainian-state",
@@ -15583,10 +16455,6 @@
     },
     {
       "source": "ukrainian-state",
-      "target": "verkhovna-rada"
-    },
-    {
-      "source": "ukrainian-state",
       "target": "western-ukraine"
     },
     {
@@ -15623,7 +16491,7 @@
     },
     {
       "source": "chervona-ruta",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "chervona-ruta",
@@ -15803,7 +16671,7 @@
     },
     {
       "source": "constitution-of-ukraine",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "constitution-of-ukraine",
@@ -16126,6 +16994,54 @@
       "target": "western-ukraine"
     },
     {
+      "source": "kremenchuk",
+      "target": "2022-russian-invasion-of-ukraine"
+    },
+    {
+      "source": "kremenchuk",
+      "target": "cabinet-of-ministers-of-ukraine"
+    },
+    {
+      "source": "kremenchuk",
+      "target": "chyhyryn"
+    },
+    {
+      "source": "kremenchuk",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "kremenchuk",
+      "target": "cossack-hetmanate"
+    },
+    {
+      "source": "kremenchuk",
+      "target": "cossacks"
+    },
+    {
+      "source": "kremenchuk",
+      "target": "dnieper"
+    },
+    {
+      "source": "kremenchuk",
+      "target": "eastern-europe"
+    },
+    {
+      "source": "kremenchuk",
+      "target": "ivan-franko"
+    },
+    {
+      "source": "kremenchuk",
+      "target": "poltava-oblast"
+    },
+    {
+      "source": "kremenchuk",
+      "target": "svitlovodsk"
+    },
+    {
+      "source": "kremenchuk",
+      "target": "ukraine"
+    },
+    {
       "source": "ivano-frankivsk",
       "target": "carpathians"
     },
@@ -16167,7 +17083,7 @@
     },
     {
       "source": "kherson",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "kherson",
@@ -16451,6 +17367,10 @@
     },
     {
       "source": "chernihiv",
+      "target": "central-rada"
+    },
+    {
+      "source": "chernihiv",
       "target": "chernihiv-oblast"
     },
     {
@@ -16484,10 +17404,6 @@
     {
       "source": "chernihiv",
       "target": "ukrainization"
-    },
-    {
-      "source": "chernihiv",
-      "target": "verkhovna-rada"
     },
     {
       "source": "cherkasy",
@@ -16751,6 +17667,10 @@
     },
     {
       "source": "ukrainization",
+      "target": "central-rada"
+    },
+    {
+      "source": "ukrainization",
       "target": "coal-in-ukraine"
     },
     {
@@ -16788,10 +17708,6 @@
     {
       "source": "ukrainization",
       "target": "ukrainians"
-    },
-    {
-      "source": "ukrainization",
-      "target": "verkhovna-rada"
     },
     {
       "source": "truskavets",
@@ -16839,7 +17755,7 @@
     },
     {
       "source": "zlata-ognevich",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "zlata-ognevich",
@@ -17171,6 +18087,10 @@
     },
     {
       "source": "russian-occupation-of-crimea",
+      "target": "crimean-khanate"
+    },
+    {
+      "source": "russian-occupation-of-crimea",
       "target": "crimean-tatar"
     },
     {
@@ -17203,7 +18123,7 @@
     },
     {
       "source": "russo-ukrainian-war",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "russo-ukrainian-war",
@@ -17263,7 +18183,7 @@
     },
     {
       "source": "bakhchysarai",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "bakhchysarai",
@@ -17351,6 +18271,10 @@
     },
     {
       "source": "boryspil",
+      "target": "borysthenes"
+    },
+    {
+      "source": "boryspil",
       "target": "dnieper"
     },
     {
@@ -17411,7 +18335,7 @@
     },
     {
       "source": "russian-annexation-of-crimea",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "russian-annexation-of-crimea",
@@ -17444,6 +18368,34 @@
     {
       "source": "russian-annexation-of-crimea",
       "target": "vladimir-putin"
+    },
+    {
+      "source": "crimean-khanate",
+      "target": "crimea"
+    },
+    {
+      "source": "crimean-khanate",
+      "target": "crimean-tatar"
+    },
+    {
+      "source": "crimean-khanate",
+      "target": "crimean-tatars"
+    },
+    {
+      "source": "crimean-khanate",
+      "target": "history-of-ukraine"
+    },
+    {
+      "source": "crimean-khanate",
+      "target": "kherson-oblast"
+    },
+    {
+      "source": "crimean-khanate",
+      "target": "ukraine"
+    },
+    {
+      "source": "crimean-khanate",
+      "target": "zaporizhzhia-oblast"
     },
     {
       "source": "foreign-relations-of-ukraine",
@@ -17491,6 +18443,10 @@
     },
     {
       "source": "siverskodonetsk",
+      "target": "lysychansk"
+    },
+    {
+      "source": "siverskodonetsk",
       "target": "rivne"
     },
     {
@@ -17515,7 +18471,7 @@
     },
     {
       "source": "yalta-conference",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "yalta-conference",
@@ -17550,6 +18506,34 @@
       "target": "ukraine"
     },
     {
+      "source": "gulag",
+      "target": "donetsk"
+    },
+    {
+      "source": "gulag",
+      "target": "history-of-ukraine"
+    },
+    {
+      "source": "gulag",
+      "target": "ministry-of-internal-affairs-of-ukraine"
+    },
+    {
+      "source": "gulag",
+      "target": "nikita-khrushchev"
+    },
+    {
+      "source": "gulag",
+      "target": "soviet-union"
+    },
+    {
+      "source": "gulag",
+      "target": "ukraine"
+    },
+    {
+      "source": "gulag",
+      "target": "ukrainians"
+    },
+    {
       "source": "donetsk-peoples-republic",
       "target": "donbas"
     },
@@ -17576,6 +18560,50 @@
     {
       "source": "donetsk-peoples-republic",
       "target": "ukrainian"
+    },
+    {
+      "source": "shche-ne-vmerla-ukrainy-i-slava-i-volia",
+      "target": "euromaidan"
+    },
+    {
+      "source": "shche-ne-vmerla-ukrainy-i-slava-i-volia",
+      "target": "european-solidarity"
+    },
+    {
+      "source": "shche-ne-vmerla-ukrainy-i-slava-i-volia",
+      "target": "full-scale-russo-ukrainian-war"
+    },
+    {
+      "source": "shche-ne-vmerla-ukrainy-i-slava-i-volia",
+      "target": "lviv"
+    },
+    {
+      "source": "shche-ne-vmerla-ukrainy-i-slava-i-volia",
+      "target": "orange-revolution"
+    },
+    {
+      "source": "shche-ne-vmerla-ukrainy-i-slava-i-volia",
+      "target": "taras-shevchenko"
+    },
+    {
+      "source": "shche-ne-vmerla-ukrainy-i-slava-i-volia",
+      "target": "ukraine"
+    },
+    {
+      "source": "shche-ne-vmerla-ukrainy-i-slava-i-volia",
+      "target": "ukrainian"
+    },
+    {
+      "source": "shche-ne-vmerla-ukrainy-i-slava-i-volia",
+      "target": "ukrainian-greek-catholic-church"
+    },
+    {
+      "source": "shche-ne-vmerla-ukrainy-i-slava-i-volia",
+      "target": "ukrainian-peoples-republic"
+    },
+    {
+      "source": "shche-ne-vmerla-ukrainy-i-slava-i-volia",
+      "target": "western-ukraine"
     },
     {
       "source": "cherkasy-oblast",
@@ -17946,8 +18974,20 @@
       "target": "ukrainian"
     },
     {
+      "source": "sarmatians",
+      "target": "scythians"
+    },
+    {
+      "source": "sarmatians",
+      "target": "ukraine"
+    },
+    {
       "source": "kherson-oblast",
       "target": "crimea"
+    },
+    {
+      "source": "kherson-oblast",
+      "target": "crimean-khanate"
     },
     {
       "source": "kherson-oblast",
@@ -18007,7 +19047,7 @@
     },
     {
       "source": "war-in-donbas",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "war-in-donbas",
@@ -18191,7 +19231,7 @@
     },
     {
       "source": "igor-girkin",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "igor-girkin",
@@ -18479,6 +19519,10 @@
     },
     {
       "source": "chernihiv-oblast",
+      "target": "nizhyn"
+    },
+    {
+      "source": "chernihiv-oblast",
       "target": "poltava-oblast"
     },
     {
@@ -18752,6 +19796,10 @@
     {
       "source": "poltava-oblast",
       "target": "kharkiv-oblast"
+    },
+    {
+      "source": "poltava-oblast",
+      "target": "kremenchuk"
     },
     {
       "source": "poltava-oblast",
@@ -19131,6 +20179,10 @@
     },
     {
       "source": "dnipropetrovsk-oblast",
+      "target": "pavlohrad"
+    },
+    {
+      "source": "dnipropetrovsk-oblast",
       "target": "poltava"
     },
     {
@@ -19311,11 +20363,15 @@
     },
     {
       "source": "sergei-korolev",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "sergei-korolev",
       "target": "donetsk"
+    },
+    {
+      "source": "sergei-korolev",
+      "target": "nizhyn"
     },
     {
       "source": "sergei-korolev",
@@ -19351,6 +20407,10 @@
     },
     {
       "source": "state-emergency-service-of-ukraine",
+      "target": "nizhyn"
+    },
+    {
+      "source": "state-emergency-service-of-ukraine",
       "target": "soviet-union"
     },
     {
@@ -19383,7 +20443,7 @@
     },
     {
       "source": "oleh-sentsov",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "oleh-sentsov",
@@ -19608,6 +20668,10 @@
     {
       "source": "mykola-lysenko",
       "target": "kharkiv-oblast"
+    },
+    {
+      "source": "mykola-lysenko",
+      "target": "kremenchuk"
     },
     {
       "source": "mykola-lysenko",
@@ -19842,6 +20906,78 @@
       "target": "ukraine"
     },
     {
+      "source": "2015-ukrainian-local-elections",
+      "target": "borys-filatov"
+    },
+    {
+      "source": "2015-ukrainian-local-elections",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "2015-ukrainian-local-elections",
+      "target": "council-of-europe"
+    },
+    {
+      "source": "2015-ukrainian-local-elections",
+      "target": "crimean-khanate"
+    },
+    {
+      "source": "2015-ukrainian-local-elections",
+      "target": "dnipro"
+    },
+    {
+      "source": "2015-ukrainian-local-elections",
+      "target": "donbas"
+    },
+    {
+      "source": "2015-ukrainian-local-elections",
+      "target": "elections-in-ukraine"
+    },
+    {
+      "source": "2015-ukrainian-local-elections",
+      "target": "european-solidarity"
+    },
+    {
+      "source": "2015-ukrainian-local-elections",
+      "target": "kharkiv-oblast"
+    },
+    {
+      "source": "2015-ukrainian-local-elections",
+      "target": "kyiv"
+    },
+    {
+      "source": "2015-ukrainian-local-elections",
+      "target": "mariupol"
+    },
+    {
+      "source": "2015-ukrainian-local-elections",
+      "target": "odesa"
+    },
+    {
+      "source": "2015-ukrainian-local-elections",
+      "target": "russian-annexation-of-crimea"
+    },
+    {
+      "source": "2015-ukrainian-local-elections",
+      "target": "ukraine"
+    },
+    {
+      "source": "2015-ukrainian-local-elections",
+      "target": "ukrainian"
+    },
+    {
+      "source": "2015-ukrainian-local-elections",
+      "target": "verkhovna-rada"
+    },
+    {
+      "source": "2015-ukrainian-local-elections",
+      "target": "vitali-klitschko"
+    },
+    {
+      "source": "2015-ukrainian-local-elections",
+      "target": "zaporizhzhia"
+    },
+    {
       "source": "rivne-oblast",
       "target": "coal-in-ukraine"
     },
@@ -19856,6 +20992,10 @@
     {
       "source": "rivne-oblast",
       "target": "rivne-nuclear-power-plant"
+    },
+    {
+      "source": "rivne-oblast",
+      "target": "sarny"
     },
     {
       "source": "rivne-oblast",
@@ -19987,7 +21127,7 @@
     },
     {
       "source": "verkhovna-rada",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "verkhovna-rada",
@@ -20019,7 +21159,7 @@
     },
     {
       "source": "deportation-of-the-crimean-tatars",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "deportation-of-the-crimean-tatars",
@@ -20131,7 +21271,7 @@
     },
     {
       "source": "ukrainian-wine",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "ukrainian-wine",
@@ -20411,6 +21551,10 @@
     },
     {
       "source": "kirovohrad-oblast",
+      "target": "svitlovodsk"
+    },
+    {
+      "source": "kirovohrad-oblast",
       "target": "ukraine"
     },
     {
@@ -20511,7 +21655,7 @@
     },
     {
       "source": "ivan-aivazovsky",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "ivan-aivazovsky",
@@ -20528,6 +21672,10 @@
     {
       "source": "mykolaiv-oblast",
       "target": "2022-russian-invasion-of-ukraine"
+    },
+    {
+      "source": "mykolaiv-oblast",
+      "target": "crimean-khanate"
     },
     {
       "source": "mykolaiv-oblast",
@@ -20556,6 +21704,10 @@
     {
       "source": "mykolaiv-oblast",
       "target": "odesa-oblast"
+    },
+    {
+      "source": "mykolaiv-oblast",
+      "target": "pervomaisk"
     },
     {
       "source": "mykolaiv-oblast",
@@ -20702,6 +21854,66 @@
       "target": "vladimir-lenin"
     },
     {
+      "source": "viktor-medvedchuk",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "viktor-medvedchuk",
+      "target": "crimean-khanate"
+    },
+    {
+      "source": "viktor-medvedchuk",
+      "target": "euromaidan"
+    },
+    {
+      "source": "viktor-medvedchuk",
+      "target": "fastiv"
+    },
+    {
+      "source": "viktor-medvedchuk",
+      "target": "kremlin"
+    },
+    {
+      "source": "viktor-medvedchuk",
+      "target": "leonid-kuchma"
+    },
+    {
+      "source": "viktor-medvedchuk",
+      "target": "security-service-of-ukraine"
+    },
+    {
+      "source": "viktor-medvedchuk",
+      "target": "social-democratic-party-of-ukraine-united"
+    },
+    {
+      "source": "viktor-medvedchuk",
+      "target": "ukraine"
+    },
+    {
+      "source": "viktor-medvedchuk",
+      "target": "ukrainian"
+    },
+    {
+      "source": "viktor-medvedchuk",
+      "target": "ukrainian-soviet-socialist-republic"
+    },
+    {
+      "source": "viktor-medvedchuk",
+      "target": "vasyl-stus"
+    },
+    {
+      "source": "viktor-medvedchuk",
+      "target": "verkhovna-rada"
+    },
+    {
+      "source": "viktor-medvedchuk",
+      "target": "vladimir-putin"
+    },
+    {
+      "source": "viktor-medvedchuk",
+      "target": "zhytomyr-oblast"
+    },
+    {
       "source": "oleh-blokhin",
       "target": "coal-in-ukraine"
     },
@@ -20780,6 +21992,10 @@
     {
       "source": "southern-bug",
       "target": "mykolaiv-oblast"
+    },
+    {
+      "source": "southern-bug",
+      "target": "pervomaisk"
     },
     {
       "source": "southern-bug",
@@ -20924,6 +22140,34 @@
     {
       "source": "kyiv",
       "target": "ukrainian-soviet-socialist-republic"
+    },
+    {
+      "source": "central-rada",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "central-rada",
+      "target": "mykhailo-hrushevskyi"
+    },
+    {
+      "source": "central-rada",
+      "target": "soviet-union"
+    },
+    {
+      "source": "central-rada",
+      "target": "ukraine"
+    },
+    {
+      "source": "central-rada",
+      "target": "ukrainian"
+    },
+    {
+      "source": "central-rada",
+      "target": "ukrainian-peoples-republic"
+    },
+    {
+      "source": "central-rada",
+      "target": "ukrainization"
     },
     {
       "source": "donets",
@@ -21322,6 +22566,14 @@
       "target": "verkhovna-rada"
     },
     {
+      "source": "burgerinitiatief",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "burgerinitiatief",
+      "target": "ukraine"
+    },
+    {
       "source": "vasyl-symonenko",
       "target": "cherkasy"
     },
@@ -21464,6 +22716,18 @@
     {
       "source": "decommunization-in-ukraine",
       "target": "volodymyr-zelenskyy"
+    },
+    {
+      "source": "kharkiv-national-university-of-radioelectronics",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "kharkiv-national-university-of-radioelectronics",
+      "target": "kharkiv-oblast"
+    },
+    {
+      "source": "kharkiv-national-university-of-radioelectronics",
+      "target": "ukraine"
     },
     {
       "source": "artem-sytnyk",
@@ -21675,6 +22939,10 @@
     },
     {
       "source": "coat-of-arms-of-ukrainiae",
+      "target": "central-rada"
+    },
+    {
+      "source": "coat-of-arms-of-ukrainiae",
       "target": "coal-in-ukraine"
     },
     {
@@ -21716,10 +22984,6 @@
     {
       "source": "coat-of-arms-of-ukrainiae",
       "target": "vasyl-krychevsky"
-    },
-    {
-      "source": "coat-of-arms-of-ukrainiae",
-      "target": "verkhovna-rada"
     },
     {
       "source": "coat-of-arms-of-ukrainiae",
@@ -21899,7 +23163,7 @@
     },
     {
       "source": "administrative-territorial-entity-of-ukraine",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "administrative-territorial-entity-of-ukraine",
@@ -22219,7 +23483,7 @@
     },
     {
       "source": "national-historical-museum-of-ukraine",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "national-historical-museum-of-ukraine",
@@ -22411,7 +23675,7 @@
     },
     {
       "source": "russiaukraine-relations",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "russiaukraine-relations",
@@ -22479,7 +23743,7 @@
     },
     {
       "source": "history-of-ukraine",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "history-of-ukraine",
@@ -22835,6 +24099,10 @@
     },
     {
       "source": "zolotonosha",
+      "target": "kremenchuk"
+    },
+    {
+      "source": "zolotonosha",
       "target": "kyiv"
     },
     {
@@ -22992,6 +24260,26 @@
     {
       "source": "soviet-invasion-of-poland",
       "target": "yalta-conference"
+    },
+    {
+      "source": "eurovision-song-contest-2017",
+      "target": "crimean-khanate"
+    },
+    {
+      "source": "eurovision-song-contest-2017",
+      "target": "jamala"
+    },
+    {
+      "source": "eurovision-song-contest-2017",
+      "target": "kyiv"
+    },
+    {
+      "source": "eurovision-song-contest-2017",
+      "target": "ukraine"
+    },
+    {
+      "source": "eurovision-song-contest-2017",
+      "target": "ukrainian"
     },
     {
       "source": "oksana-baiul",
@@ -23167,6 +24455,10 @@
     },
     {
       "source": "chumak",
+      "target": "crimean-khanate"
+    },
+    {
+      "source": "chumak",
       "target": "galicia"
     },
     {
@@ -23228,6 +24520,38 @@
     {
       "source": "ukrainian-rock",
       "target": "ukrainian"
+    },
+    {
+      "source": "pavlohrad",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "pavlohrad",
+      "target": "dnipro"
+    },
+    {
+      "source": "pavlohrad",
+      "target": "dnipropetrovsk-oblast"
+    },
+    {
+      "source": "pavlohrad",
+      "target": "soviet-union"
+    },
+    {
+      "source": "pavlohrad",
+      "target": "ukraine"
+    },
+    {
+      "source": "pavlohrad",
+      "target": "ukrainian"
+    },
+    {
+      "source": "pavlohrad",
+      "target": "ukrainians"
+    },
+    {
+      "source": "pavlohrad",
+      "target": "verkhovna-rada"
     },
     {
       "source": "kharkiv-tractor-plant",
@@ -23415,7 +24739,7 @@
     },
     {
       "source": "crimea-gold-and-secrets-of-the-black-sea",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "crimea-gold-and-secrets-of-the-black-sea",
@@ -23546,6 +24870,38 @@
       "target": "zvenyhorod"
     },
     {
+      "source": "soledar",
+      "target": "bakhmut"
+    },
+    {
+      "source": "soledar",
+      "target": "cossacks"
+    },
+    {
+      "source": "soledar",
+      "target": "donbas"
+    },
+    {
+      "source": "soledar",
+      "target": "donetsk-oblast"
+    },
+    {
+      "source": "soledar",
+      "target": "euromaidan"
+    },
+    {
+      "source": "soledar",
+      "target": "full-scale-russo-ukrainian-war"
+    },
+    {
+      "source": "soledar",
+      "target": "ukraine"
+    },
+    {
+      "source": "soledar",
+      "target": "ukrainian"
+    },
+    {
       "source": "orel",
       "target": "ukraine"
     },
@@ -23594,12 +24950,56 @@
       "target": "vladimir-putin"
     },
     {
+      "source": "vuhledar",
+      "target": "armed-forces-of-ukraine"
+    },
+    {
+      "source": "vuhledar",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "vuhledar",
+      "target": "donetsk"
+    },
+    {
+      "source": "vuhledar",
+      "target": "donetsk-oblast"
+    },
+    {
+      "source": "vuhledar",
+      "target": "soviet-union"
+    },
+    {
+      "source": "vuhledar",
+      "target": "ukraine"
+    },
+    {
+      "source": "vuhledar",
+      "target": "ukrainian"
+    },
+    {
+      "source": "vuhledar",
+      "target": "ukrainian-orthodox-church"
+    },
+    {
+      "source": "vuhledar",
+      "target": "ukrainians"
+    },
+    {
+      "source": "vuhledar",
+      "target": "war-in-donbas"
+    },
+    {
       "source": "zaporizhian-sich",
       "target": "cossack-hetmanate"
     },
     {
       "source": "zaporizhian-sich",
       "target": "cossacks"
+    },
+    {
+      "source": "zaporizhian-sich",
+      "target": "crimean-khanate"
     },
     {
       "source": "zaporizhian-sich",
@@ -24047,7 +25447,7 @@
     },
     {
       "source": "religion-in-ukraine",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "religion-in-ukraine",
@@ -24080,6 +25480,18 @@
     {
       "source": "religion-in-ukraine",
       "target": "volodymyr-zelenskyy"
+    },
+    {
+      "source": "novomoskovsk",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "novomoskovsk",
+      "target": "dnipropetrovsk-oblast"
+    },
+    {
+      "source": "novomoskovsk",
+      "target": "ukraine"
     },
     {
       "source": "shevchenko-national-prize",
@@ -24155,6 +25567,10 @@
     },
     {
       "source": "ukrainian-war-of-independence",
+      "target": "central-rada"
+    },
+    {
+      "source": "ukrainian-war-of-independence",
       "target": "donetsk"
     },
     {
@@ -24214,16 +25630,12 @@
       "target": "ukrainiansoviet-war"
     },
     {
-      "source": "ukrainian-war-of-independence",
-      "target": "verkhovna-rada"
-    },
-    {
       "source": "andrii-parubii",
       "target": "coal-in-ukraine"
     },
     {
       "source": "andrii-parubii",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "andrii-parubii",
@@ -24391,7 +25803,7 @@
     },
     {
       "source": "crimean-war",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "crimean-war",
@@ -24484,6 +25896,10 @@
     {
       "source": "andriivskyi-descent",
       "target": "mikhail-bulgakov"
+    },
+    {
+      "source": "andriivskyi-descent",
+      "target": "nestor-the-chronicler"
     },
     {
       "source": "andriivskyi-descent",
@@ -24691,6 +26107,10 @@
     },
     {
       "source": "history-of-crimea",
+      "target": "crimean-khanate"
+    },
+    {
+      "source": "history-of-crimea",
       "target": "crimean-tatars"
     },
     {
@@ -24748,6 +26168,10 @@
     {
       "source": "roshen",
       "target": "full-scale-russo-ukrainian-war"
+    },
+    {
+      "source": "roshen",
+      "target": "kremenchuk"
     },
     {
       "source": "roshen",
@@ -24887,7 +26311,7 @@
     },
     {
       "source": "jamala",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "jamala",
@@ -24980,6 +26404,10 @@
     {
       "source": "zavodske",
       "target": "dnieper"
+    },
+    {
+      "source": "zavodske",
+      "target": "kremenchuk"
     },
     {
       "source": "zavodske",
@@ -25270,6 +26698,30 @@
       "target": "ukrainian"
     },
     {
+      "source": "hryshko-national-botanical-garden",
+      "target": "crimean-khanate"
+    },
+    {
+      "source": "hryshko-national-botanical-garden",
+      "target": "kyiv"
+    },
+    {
+      "source": "hryshko-national-botanical-garden",
+      "target": "national-academy-of-sciences-of-ukraine"
+    },
+    {
+      "source": "hryshko-national-botanical-garden",
+      "target": "siberia"
+    },
+    {
+      "source": "hryshko-national-botanical-garden",
+      "target": "ukraine"
+    },
+    {
+      "source": "hryshko-national-botanical-garden",
+      "target": "ukrainian-carpathians"
+    },
+    {
       "source": "zmiivka",
       "target": "2022-kherson-counteroffensive"
     },
@@ -25307,7 +26759,7 @@
     },
     {
       "source": "agriculture-in-ukraine",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "agriculture-in-ukraine",
@@ -25543,7 +26995,7 @@
     },
     {
       "source": "lesya-ukrainka",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "lesya-ukrainka",
@@ -25659,6 +27111,10 @@
     },
     {
       "source": "yevhen-hutsalo",
+      "target": "nizhyn"
+    },
+    {
+      "source": "yevhen-hutsalo",
       "target": "ukraine"
     },
     {
@@ -25676,6 +27132,10 @@
     {
       "source": "oleshky-sands",
       "target": "coal-in-ukraine"
+    },
+    {
+      "source": "oleshky-sands",
+      "target": "crimean-khanate"
     },
     {
       "source": "oleshky-sands",
@@ -25834,6 +27294,54 @@
       "target": "ukrainian-state-film-agency"
     },
     {
+      "source": "andriy-yarmolenko",
+      "target": "2022-russian-invasion-of-ukraine"
+    },
+    {
+      "source": "andriy-yarmolenko",
+      "target": "andriy-shevchenko"
+    },
+    {
+      "source": "andriy-yarmolenko",
+      "target": "armed-forces-of-ukraine"
+    },
+    {
+      "source": "andriy-yarmolenko",
+      "target": "chernihiv"
+    },
+    {
+      "source": "andriy-yarmolenko",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "andriy-yarmolenko",
+      "target": "fc-dynamo-kyiv"
+    },
+    {
+      "source": "andriy-yarmolenko",
+      "target": "full-scale-russo-ukrainian-war"
+    },
+    {
+      "source": "andriy-yarmolenko",
+      "target": "poltava"
+    },
+    {
+      "source": "andriy-yarmolenko",
+      "target": "soviet-union"
+    },
+    {
+      "source": "andriy-yarmolenko",
+      "target": "ukraine"
+    },
+    {
+      "source": "andriy-yarmolenko",
+      "target": "ukrainian"
+    },
+    {
+      "source": "andriy-yarmolenko",
+      "target": "vorskla"
+    },
+    {
       "source": "republic-of-abkhazia",
       "target": "soviet-union"
     },
@@ -25936,6 +27444,18 @@
     {
       "source": "vitali-klitschko",
       "target": "ukrainian"
+    },
+    {
+      "source": "nestor-the-chronicler",
+      "target": "history-of-ukraine"
+    },
+    {
+      "source": "nestor-the-chronicler",
+      "target": "kievan-rus"
+    },
+    {
+      "source": "nestor-the-chronicler",
+      "target": "volhynia"
     },
     {
       "source": "pysanka",
@@ -26050,6 +27570,58 @@
       "target": "ukrainian-literature"
     },
     {
+      "source": "lysychansk",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "lysychansk",
+      "target": "donbas"
+    },
+    {
+      "source": "lysychansk",
+      "target": "donets"
+    },
+    {
+      "source": "lysychansk",
+      "target": "full-scale-russo-ukrainian-war"
+    },
+    {
+      "source": "lysychansk",
+      "target": "independent-ukraine"
+    },
+    {
+      "source": "lysychansk",
+      "target": "kreminna"
+    },
+    {
+      "source": "lysychansk",
+      "target": "luhansk"
+    },
+    {
+      "source": "lysychansk",
+      "target": "luhansk-oblast"
+    },
+    {
+      "source": "lysychansk",
+      "target": "luhansk-peoples-republic"
+    },
+    {
+      "source": "lysychansk",
+      "target": "siverskodonetsk"
+    },
+    {
+      "source": "lysychansk",
+      "target": "soviet-union"
+    },
+    {
+      "source": "lysychansk",
+      "target": "ukraine"
+    },
+    {
+      "source": "lysychansk",
+      "target": "ukrainian"
+    },
+    {
       "source": "bila-tserkva",
       "target": "bila-tserkva-raion"
     },
@@ -26075,7 +27647,7 @@
     },
     {
       "source": "yevpatoriya",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "yevpatoriya",
@@ -26132,6 +27704,34 @@
     {
       "source": "melitopol",
       "target": "zaporizhzhia-oblast"
+    },
+    {
+      "source": "kramatorsk",
+      "target": "cossacks"
+    },
+    {
+      "source": "kramatorsk",
+      "target": "donbas"
+    },
+    {
+      "source": "kramatorsk",
+      "target": "donetsk-oblast"
+    },
+    {
+      "source": "kramatorsk",
+      "target": "full-scale-russo-ukrainian-war"
+    },
+    {
+      "source": "kramatorsk",
+      "target": "hetmanate"
+    },
+    {
+      "source": "kramatorsk",
+      "target": "ukraine"
+    },
+    {
+      "source": "kramatorsk",
+      "target": "ukrainian"
     },
     {
       "source": "rusalka",
@@ -26292,6 +27892,22 @@
     {
       "source": "vasyl-krychevsky",
       "target": "ukrainian-state"
+    },
+    {
+      "source": "borysthenes",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "borysthenes",
+      "target": "dnieper"
+    },
+    {
+      "source": "borysthenes",
+      "target": "scythians"
+    },
+    {
+      "source": "borysthenes",
+      "target": "ukraine"
     },
     {
       "source": "gorodok",
@@ -26571,6 +28187,10 @@
     },
     {
       "source": "ukrainian-historical-regions",
+      "target": "central-rada"
+    },
+    {
+      "source": "ukrainian-historical-regions",
       "target": "cherkasy-oblast"
     },
     {
@@ -26587,7 +28207,7 @@
     },
     {
       "source": "ukrainian-historical-regions",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "ukrainian-historical-regions",
@@ -26679,10 +28299,6 @@
     },
     {
       "source": "ukrainian-historical-regions",
-      "target": "verkhovna-rada"
-    },
-    {
-      "source": "ukrainian-historical-regions",
       "target": "volhynia"
     },
     {
@@ -26763,6 +28379,10 @@
     },
     {
       "source": "mykhailo-hrushevskyi",
+      "target": "central-rada"
+    },
+    {
+      "source": "mykhailo-hrushevskyi",
       "target": "history-of-ukraine"
     },
     {
@@ -26800,10 +28420,6 @@
     {
       "source": "mykhailo-hrushevskyi",
       "target": "ukrainians"
-    },
-    {
-      "source": "mykhailo-hrushevskyi",
-      "target": "verkhovna-rada"
     },
     {
       "source": "mariupol",
@@ -27351,7 +28967,7 @@
     },
     {
       "source": "yelena-gagarina",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "yelena-gagarina",
@@ -27431,7 +29047,7 @@
     },
     {
       "source": "dtek",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "dtek",
@@ -27562,6 +29178,22 @@
       "target": "ukrainian"
     },
     {
+      "source": "battle-of-zboriv",
+      "target": "khmelnytsky-uprising"
+    },
+    {
+      "source": "battle-of-zboriv",
+      "target": "ukraine"
+    },
+    {
+      "source": "battle-of-zboriv",
+      "target": "zaporozhian-cossacks"
+    },
+    {
+      "source": "battle-of-zboriv",
+      "target": "zboriv"
+    },
+    {
       "source": "pavlo-zibrov",
       "target": "kyiv"
     },
@@ -27612,6 +29244,26 @@
     {
       "source": "zolochiv",
       "target": "ukraine"
+    },
+    {
+      "source": "ivano-frankivsk-national-medical-university",
+      "target": "cabinet-of-ministers-of-ukraine"
+    },
+    {
+      "source": "ivano-frankivsk-national-medical-university",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "ivano-frankivsk-national-medical-university",
+      "target": "ivano-frankivsk"
+    },
+    {
+      "source": "ivano-frankivsk-national-medical-university",
+      "target": "ukraine"
+    },
+    {
+      "source": "ivano-frankivsk-national-medical-university",
+      "target": "ukrainian"
     },
     {
       "source": "interpipe-group",
@@ -27680,6 +29332,42 @@
     {
       "source": "iryna-vilde",
       "target": "western-ukraine"
+    },
+    {
+      "source": "kyiv-music-fest",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "kyiv-music-fest",
+      "target": "culture-of-ukraine"
+    },
+    {
+      "source": "kyiv-music-fest",
+      "target": "kyiv"
+    },
+    {
+      "source": "kyiv-music-fest",
+      "target": "myroslav-skoryk"
+    },
+    {
+      "source": "kyiv-music-fest",
+      "target": "national-academy-of-sciences-of-ukraine"
+    },
+    {
+      "source": "kyiv-music-fest",
+      "target": "national-opera-of-ukraine"
+    },
+    {
+      "source": "kyiv-music-fest",
+      "target": "national-philharmonic-of-ukraine"
+    },
+    {
+      "source": "kyiv-music-fest",
+      "target": "ukraine"
+    },
+    {
+      "source": "kyiv-music-fest",
+      "target": "ukrainian"
     },
     {
       "source": "kyiv-national-university-of-culture-and-arts",
@@ -27870,6 +29558,10 @@
       "target": "ukrainian"
     },
     {
+      "source": "vasyl-stus",
+      "target": "viktor-medvedchuk"
+    },
+    {
       "source": "lviv-national-academy-of-arts",
       "target": "education-in-ukraine"
     },
@@ -28028,6 +29720,10 @@
     {
       "source": "ministry-of-foreign-affairs-of-ukraine",
       "target": "dmytro-kuleba"
+    },
+    {
+      "source": "ministry-of-foreign-affairs-of-ukraine",
+      "target": "european-solidarity"
     },
     {
       "source": "ministry-of-foreign-affairs-of-ukraine",
@@ -28199,7 +29895,7 @@
     },
     {
       "source": "national-guard-of-ukraine",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "national-guard-of-ukraine",
@@ -28258,6 +29954,14 @@
       "target": "war-in-donbas"
     },
     {
+      "source": "mykolayiv-state-agrarian-university",
+      "target": "mykolaiv"
+    },
+    {
+      "source": "mykolayiv-state-agrarian-university",
+      "target": "ukraine"
+    },
+    {
       "source": "education-in-ukraine",
       "target": "coal-in-ukraine"
     },
@@ -28311,7 +30015,7 @@
     },
     {
       "source": "oschadbank",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "oschadbank",
@@ -28340,6 +30044,46 @@
     {
       "source": "oschadbank",
       "target": "ukrainian"
+    },
+    {
+      "source": "european-solidarity",
+      "target": "crimean-tatars"
+    },
+    {
+      "source": "european-solidarity",
+      "target": "full-scale-russo-ukrainian-war"
+    },
+    {
+      "source": "european-solidarity",
+      "target": "oleksandr-turchynov"
+    },
+    {
+      "source": "european-solidarity",
+      "target": "petro-poroshenko"
+    },
+    {
+      "source": "european-solidarity",
+      "target": "political-party-in-ukraine"
+    },
+    {
+      "source": "european-solidarity",
+      "target": "social-democratic-party-of-ukraine-united"
+    },
+    {
+      "source": "european-solidarity",
+      "target": "ukraine"
+    },
+    {
+      "source": "european-solidarity",
+      "target": "ukrainian"
+    },
+    {
+      "source": "european-solidarity",
+      "target": "ukrainian-parliamentary-elections"
+    },
+    {
+      "source": "european-solidarity",
+      "target": "verkhovna-rada"
     },
     {
       "source": "peremyshl",
@@ -28391,7 +30135,7 @@
     },
     {
       "source": "2012-ukrainian-parliamentary-election",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "2012-ukrainian-parliamentary-election",
@@ -28436,6 +30180,10 @@
     {
       "source": "ostroh-academy",
       "target": "ukrainian"
+    },
+    {
+      "source": "nikolai-gogol",
+      "target": "nizhyn"
     },
     {
       "source": "nikolai-gogol",
@@ -28675,6 +30423,10 @@
     },
     {
       "source": "ukrainian-architecture",
+      "target": "nizhyn"
+    },
+    {
+      "source": "ukrainian-architecture",
       "target": "saint-sophia-cathedral"
     },
     {
@@ -28787,6 +30539,10 @@
     },
     {
       "source": "moldovaukraine-relations",
+      "target": "central-rada"
+    },
+    {
+      "source": "moldovaukraine-relations",
       "target": "coal-in-ukraine"
     },
     {
@@ -28824,10 +30580,6 @@
     {
       "source": "moldovaukraine-relations",
       "target": "ukrainians"
-    },
-    {
-      "source": "moldovaukraine-relations",
-      "target": "verkhovna-rada"
     },
     {
       "source": "moldovaukraine-relations",
@@ -29027,7 +30779,7 @@
     },
     {
       "source": "chornomornaftogaz",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "chornomornaftogaz",
@@ -29448,6 +31200,14 @@
     {
       "source": "alushta",
       "target": "crimea"
+    },
+    {
+      "source": "alushta",
+      "target": "crimean-khanate"
+    },
+    {
+      "source": "alushta",
+      "target": "oleksandr-vysotskyi"
     },
     {
       "source": "alushta",
@@ -29878,6 +31638,22 @@
       "target": "soviet-union"
     },
     {
+      "source": "cossackia",
+      "target": "cossacks"
+    },
+    {
+      "source": "cossackia",
+      "target": "soviet-union"
+    },
+    {
+      "source": "cossackia",
+      "target": "ukraine"
+    },
+    {
+      "source": "cossackia",
+      "target": "ukrainian"
+    },
+    {
       "source": "crimean-tatar",
       "target": "administrative-territorial-entity-of-ukraine"
     },
@@ -29888,6 +31664,10 @@
     {
       "source": "crimean-tatar",
       "target": "crimea"
+    },
+    {
+      "source": "crimean-tatar",
+      "target": "crimean-khanate"
     },
     {
       "source": "crimean-tatar",
@@ -29995,6 +31775,10 @@
     },
     {
       "source": "siberia",
+      "target": "gulag"
+    },
+    {
+      "source": "siberia",
       "target": "soviet-union"
     },
     {
@@ -30012,6 +31796,10 @@
     {
       "source": "ferrexpo",
       "target": "horishni-plavni"
+    },
+    {
+      "source": "ferrexpo",
+      "target": "kremenchuk"
     },
     {
       "source": "ferrexpo",
@@ -30039,7 +31827,7 @@
     },
     {
       "source": "alina-pash",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "alina-pash",
@@ -30283,6 +32071,10 @@
     },
     {
       "source": "pale-of-settlement",
+      "target": "crimean-khanate"
+    },
+    {
+      "source": "pale-of-settlement",
       "target": "ukraine"
     },
     {
@@ -30403,6 +32195,10 @@
     },
     {
       "source": "petro-poroshenko",
+      "target": "european-solidarity"
+    },
+    {
+      "source": "petro-poroshenko",
       "target": "minsk-agreements"
     },
     {
@@ -30443,6 +32239,46 @@
     },
     {
       "source": "petro-poroshenko",
+      "target": "war-in-donbas"
+    },
+    {
+      "source": "zolote",
+      "target": "donbas"
+    },
+    {
+      "source": "zolote",
+      "target": "luhansk-oblast"
+    },
+    {
+      "source": "zolote",
+      "target": "luhansk-peoples-republic"
+    },
+    {
+      "source": "zolote",
+      "target": "pervomaisk"
+    },
+    {
+      "source": "zolote",
+      "target": "siverskodonetsk"
+    },
+    {
+      "source": "zolote",
+      "target": "ukraine"
+    },
+    {
+      "source": "zolote",
+      "target": "ukrainian"
+    },
+    {
+      "source": "zolote",
+      "target": "ukrainian-ground-forces"
+    },
+    {
+      "source": "zolote",
+      "target": "verkhovna-rada"
+    },
+    {
+      "source": "zolote",
       "target": "war-in-donbas"
     },
     {
@@ -30547,6 +32383,10 @@
     },
     {
       "source": "history-of-ukrainian-nationality",
+      "target": "sarmatians"
+    },
+    {
+      "source": "history-of-ukrainian-nationality",
       "target": "scythians"
     },
     {
@@ -30575,7 +32415,7 @@
     },
     {
       "source": "kerch-strait-incident",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "kerch-strait-incident",
@@ -30608,6 +32448,10 @@
     {
       "source": "znamianka",
       "target": "constitutional-court-of-ukraine"
+    },
+    {
+      "source": "znamianka",
+      "target": "crimean-khanate"
     },
     {
       "source": "znamianka",
@@ -30648,6 +32492,10 @@
     {
       "source": "znamianka",
       "target": "scythians"
+    },
+    {
+      "source": "znamianka",
+      "target": "svitlovodsk"
     },
     {
       "source": "znamianka",
@@ -30775,6 +32623,10 @@
     },
     {
       "source": "donbas",
+      "target": "soledar"
+    },
+    {
+      "source": "donbas",
       "target": "ukraine"
     },
     {
@@ -30815,7 +32667,7 @@
     },
     {
       "source": "crimea-crisis",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "crimea-crisis",
@@ -31203,6 +33055,10 @@
     },
     {
       "source": "khmelnytsky-uprising",
+      "target": "crimean-khanate"
+    },
+    {
+      "source": "khmelnytsky-uprising",
       "target": "dnieper-ukraine"
     },
     {
@@ -31406,6 +33262,26 @@
       "target": "war-in-donbas"
     },
     {
+      "source": "pervomaisk",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "pervomaisk",
+      "target": "crimean-khanate"
+    },
+    {
+      "source": "pervomaisk",
+      "target": "post-soviet-states"
+    },
+    {
+      "source": "pervomaisk",
+      "target": "ukraine"
+    },
+    {
+      "source": "pervomaisk",
+      "target": "ukrainian"
+    },
+    {
       "source": "ivan-franko-national-academic-drama-theater",
       "target": "bohdan-stupka"
     },
@@ -31464,6 +33340,10 @@
     {
       "source": "ukraineeuropean-union-relations",
       "target": "euromaidan"
+    },
+    {
+      "source": "ukraineeuropean-union-relations",
+      "target": "european-solidarity"
     },
     {
       "source": "ukraineeuropean-union-relations",
@@ -31591,7 +33471,7 @@
     },
     {
       "source": "kherson-art-museum",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "kherson-art-museum",
@@ -31851,7 +33731,7 @@
     },
     {
       "source": "first-battle-of-kharkov",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "first-battle-of-kharkov",
@@ -31994,6 +33874,14 @@
       "target": "war-in-donbas"
     },
     {
+      "source": "oleksandr-vysotskyi",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "oleksandr-vysotskyi",
+      "target": "ukraine"
+    },
+    {
       "source": "ostriv",
       "target": "bila-tserkva-raion"
     },
@@ -32024,6 +33912,10 @@
     {
       "source": "ostriv",
       "target": "lviv-oblast"
+    },
+    {
+      "source": "ostriv",
+      "target": "nizhyn"
     },
     {
       "source": "ostriv",
@@ -32098,6 +33990,34 @@
       "target": "zaporozhian-cossacks"
     },
     {
+      "source": "artem-dzyuba",
+      "target": "andriy-yarmolenko"
+    },
+    {
+      "source": "artem-dzyuba",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "artem-dzyuba",
+      "target": "full-scale-russo-ukrainian-war"
+    },
+    {
+      "source": "artem-dzyuba",
+      "target": "poltava-oblast"
+    },
+    {
+      "source": "artem-dzyuba",
+      "target": "soviet-union"
+    },
+    {
+      "source": "artem-dzyuba",
+      "target": "ukraine"
+    },
+    {
+      "source": "artem-dzyuba",
+      "target": "ukrainian"
+    },
+    {
       "source": "irpin",
       "target": "2022-russian-invasion-of-ukraine"
     },
@@ -32135,7 +34055,7 @@
     },
     {
       "source": "naftogaz-of-ukraine",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "naftogaz-of-ukraine",
@@ -32179,7 +34099,7 @@
     },
     {
       "source": "ivan-sirko",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "ivan-sirko",
@@ -32294,6 +34214,38 @@
       "target": "volhynia"
     },
     {
+      "source": "pysanka-museum",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "pysanka-museum",
+      "target": "ivano-frankivsk"
+    },
+    {
+      "source": "pysanka-museum",
+      "target": "ivano-frankivsk-oblast"
+    },
+    {
+      "source": "pysanka-museum",
+      "target": "lviv-national-museum"
+    },
+    {
+      "source": "pysanka-museum",
+      "target": "modern-history-of-ukraine"
+    },
+    {
+      "source": "pysanka-museum",
+      "target": "pysanka"
+    },
+    {
+      "source": "pysanka-museum",
+      "target": "ukraine"
+    },
+    {
+      "source": "pysanka-museum",
+      "target": "ukrainian"
+    },
+    {
       "source": "ukrainian-orthodox-church-moscow-patriarchate",
       "target": "coal-in-ukraine"
     },
@@ -32307,7 +34259,7 @@
     },
     {
       "source": "ukrainian-orthodox-church-moscow-patriarchate",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "ukrainian-orthodox-church-moscow-patriarchate",
@@ -32343,7 +34295,7 @@
     },
     {
       "source": "sevastopol",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "sevastopol",
@@ -32559,7 +34511,7 @@
     },
     {
       "source": "henichesk",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "henichesk",
@@ -32606,6 +34558,22 @@
       "target": "zaporizhzhia"
     },
     {
+      "source": "baryshivska-hromada",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "baryshivska-hromada",
+      "target": "kyiv-oblast"
+    },
+    {
+      "source": "baryshivska-hromada",
+      "target": "ukraine"
+    },
+    {
+      "source": "baryshivska-hromada",
+      "target": "ukrainian"
+    },
+    {
       "source": "telecommunications-in-ukraine",
       "target": "azovstal"
     },
@@ -32623,7 +34591,7 @@
     },
     {
       "source": "vladimir-putin",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "vladimir-putin",
@@ -32642,6 +34610,10 @@
       "target": "ukraine"
     },
     {
+      "source": "sakhalin",
+      "target": "ukraine"
+    },
+    {
       "source": "nafpaktos",
       "target": "history-of-ukraine"
     },
@@ -32655,7 +34627,7 @@
     },
     {
       "source": "sudak",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "sudak",
@@ -32672,6 +34644,10 @@
     {
       "source": "sudak",
       "target": "zlata-ognevich"
+    },
+    {
+      "source": "crimea",
+      "target": "crimean-khanate"
     },
     {
       "source": "crimea",
@@ -32982,12 +34958,76 @@
       "target": "ukrainian"
     },
     {
+      "source": "women-in-ukraine",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "women-in-ukraine",
+      "target": "full-scale-russo-ukrainian-war"
+    },
+    {
+      "source": "women-in-ukraine",
+      "target": "kharkiv-oblast"
+    },
+    {
+      "source": "women-in-ukraine",
+      "target": "kievan-rus"
+    },
+    {
+      "source": "women-in-ukraine",
+      "target": "pravda"
+    },
+    {
+      "source": "women-in-ukraine",
+      "target": "revolution-of-dignity"
+    },
+    {
+      "source": "women-in-ukraine",
+      "target": "ruthenian"
+    },
+    {
+      "source": "women-in-ukraine",
+      "target": "soviet-union"
+    },
+    {
+      "source": "women-in-ukraine",
+      "target": "ukraine"
+    },
+    {
+      "source": "women-in-ukraine",
+      "target": "ukrainian"
+    },
+    {
       "source": "kupala-night",
       "target": "coal-in-ukraine"
     },
     {
       "source": "kupala-night",
       "target": "ukrainian"
+    },
+    {
+      "source": "belovodskoye",
+      "target": "kharkiv"
+    },
+    {
+      "source": "belovodskoye",
+      "target": "moskva"
+    },
+    {
+      "source": "belovodskoye",
+      "target": "orel"
+    },
+    {
+      "source": "belovodskoye",
+      "target": "poltava"
+    },
+    {
+      "source": "belovodskoye",
+      "target": "ukrainian"
+    },
+    {
+      "source": "belovodskoye",
+      "target": "vitali-klitschko"
     },
     {
       "source": "hryvnia",
@@ -33499,6 +35539,10 @@
     },
     {
       "source": "pivdenmash",
+      "target": "pavlohrad"
+    },
+    {
+      "source": "pivdenmash",
       "target": "president-of-ukraine"
     },
     {
@@ -33623,6 +35667,10 @@
     },
     {
       "source": "ukrainian",
+      "target": "nestor-the-chronicler"
+    },
+    {
+      "source": "ukrainian",
       "target": "ruthenian"
     },
     {
@@ -33743,6 +35791,10 @@
     },
     {
       "source": "ukrainian-nationalism",
+      "target": "central-rada"
+    },
+    {
+      "source": "ukrainian-nationalism",
       "target": "cossack-hetmanate"
     },
     {
@@ -33788,10 +35840,6 @@
     {
       "source": "ukrainian-nationalism",
       "target": "ukrainians"
-    },
-    {
-      "source": "ukrainian-nationalism",
-      "target": "verkhovna-rada"
     },
     {
       "source": "ukrainian-nationalism",
@@ -34035,7 +36083,7 @@
     },
     {
       "source": "ukrainian-independence-referendum",
-      "target": "crimea"
+      "target": "crimean-khanate"
     },
     {
       "source": "ukrainian-independence-referendum",
@@ -34204,6 +36252,10 @@
     {
       "source": "volodymyr-viatrovych",
       "target": "euromaidan"
+    },
+    {
+      "source": "volodymyr-viatrovych",
+      "target": "european-solidarity"
     },
     {
       "source": "volodymyr-viatrovych",
@@ -34454,6 +36506,38 @@
       "target": "western-ukraine"
     },
     {
+      "source": "nizhyn",
+      "target": "chernihiv"
+    },
+    {
+      "source": "nizhyn",
+      "target": "chernihiv-oblast"
+    },
+    {
+      "source": "nizhyn",
+      "target": "full-scale-russo-ukrainian-war"
+    },
+    {
+      "source": "nizhyn",
+      "target": "kyiv"
+    },
+    {
+      "source": "nizhyn",
+      "target": "little-russia"
+    },
+    {
+      "source": "nizhyn",
+      "target": "nikolai-gogol"
+    },
+    {
+      "source": "nizhyn",
+      "target": "ukraine"
+    },
+    {
+      "source": "nizhyn",
+      "target": "ukrainian"
+    },
+    {
       "source": "zhmerynka",
       "target": "coal-in-ukraine"
     },
@@ -34531,7 +36615,7 @@
     },
     {
       "source": "culture-of-ukraine",
-      "target": "pysanka"
+      "target": "pysanka-museum"
     },
     {
       "source": "culture-of-ukraine",
@@ -34794,12 +36878,56 @@
       "target": "ukrainians"
     },
     {
+      "source": "sarny",
+      "target": "full-scale-russo-ukrainian-war"
+    },
+    {
+      "source": "sarny",
+      "target": "halych"
+    },
+    {
+      "source": "sarny",
+      "target": "independent-ukraine"
+    },
+    {
+      "source": "sarny",
+      "target": "polesia"
+    },
+    {
+      "source": "sarny",
+      "target": "rivne"
+    },
+    {
+      "source": "sarny",
+      "target": "rivne-oblast"
+    },
+    {
+      "source": "sarny",
+      "target": "ukrainian"
+    },
+    {
+      "source": "sarny",
+      "target": "ukrainian-soviet-socialist-republic"
+    },
+    {
+      "source": "sarny",
+      "target": "volhynia"
+    },
+    {
+      "source": "sarny",
+      "target": "western-ukraine"
+    },
+    {
       "source": "horishni-plavni",
       "target": "coal-in-ukraine"
     },
     {
       "source": "horishni-plavni",
       "target": "ferrexpo"
+    },
+    {
+      "source": "horishni-plavni",
+      "target": "kremenchuk"
     },
     {
       "source": "horishni-plavni",

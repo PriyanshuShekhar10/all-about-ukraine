@@ -1,0 +1,78 @@
+{
+  "qid": "Q763787",
+  "slug": "baryshivska-hromada",
+  "title": "Baryshivska Hromada",
+  "type": "urban-type settlement in Ukraine",
+  "category": "economy",
+  "aliases": [
+    "Baryshevka"
+  ],
+  "infobox": {
+    "label": "urban-type settlement in Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "10,783",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "5",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "102",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.3703, 31.3286",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Baryshivka is an urban-type settlement located in Kyiv Oblast, [[ukraine|Ukraine]], serving as the administrative center of the Baryshivka settlement hromada. As of 2022, it has a population of 10,294.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Baryshivka is situated along the Trubizh River, contributing to its geographical significance within the region."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Between 1921 and 1922, Baryshivka was a hub for [[ukrainian|Ukrainian]] Neoclassicists, including notable figures such as Mykola Zerov, Oswald Burghardt, and Viktor Petrov.",
+        "On 18 July 2020, Baryshivka ceased to be the administrative center of Baryshivka Raion due to an administrative reform [[coal-in-ukraine|in Ukraine]], which reduced the number of raions in [[kyiv-oblast|Kyiv Oblast]] to seven. The territory of Baryshivka Raion was incorporated into Brovary Raion.",
+        "Baryshivka maintained its status as an urban-type settlement until 26 January 2024, when a new law was enacted that reclassified it as a rural settlement."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "As of the 2022 estimate, Baryshivka has a population of 10,294, reflecting a decrease from the 2001 population of 11,178."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "kyiv-oblast",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Baryshivka — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Baryshivka",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

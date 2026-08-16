@@ -57,7 +57,7 @@
     {
       "heading": "Ukrainian Revolution",
       "paragraphs": [
-        "Following the February Revolution in 1917, Hrushevskyi was elected head of the Ukrainian Central [[verkhovna-rada|Rada]], guiding [[ukraine|Ukraine]] towards national autonomy and eventual independence. He played a significant role in drafting the Constitution of the [[ukrainian-peoples-republic|Ukrainian People's Republic]], adopted on 29 April 1918, and was a vocal advocate for radical democratic and socialist policies during this transformative period."
+        "Following the February Revolution in 1917, Hrushevskyi was elected head of the Ukrainian [[central-rada|Central Rada]], guiding [[ukraine|Ukraine]] towards national autonomy and eventual independence. He played a significant role in drafting the Constitution of the [[ukrainian-peoples-republic|Ukrainian People's Republic]], adopted on 29 April 1918, and was a vocal advocate for radical democratic and socialist policies during this transformative period."
       ]
     },
     {
@@ -74,6 +74,7 @@
     }
   ],
   "links_out": [
+    "central-rada",
     "history-of-ukraine",
     "ivan-franko",
     "lviv",
@@ -83,8 +84,7 @@
     "ukrainian-literature",
     "ukrainian-national-revival",
     "ukrainian-peoples-republic",
-    "ukrainians",
-    "verkhovna-rada"
+    "ukrainians"
   ],
   "sources": [
     {

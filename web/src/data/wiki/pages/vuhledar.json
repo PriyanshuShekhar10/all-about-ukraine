@@ -1,0 +1,113 @@
+{
+  "qid": "Q2416423",
+  "slug": "vuhledar",
+  "title": "Vuhledar",
+  "type": "city in Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Ugledar"
+  ],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1964",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "14,822",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "5",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "187",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "47.7794, 37.2475",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Vuhledar is a city located in Volnovakha Raion, Donetsk Oblast, eastern [[ukraine|Ukraine]], serving as the administrative center of the Vuhledar urban hromada. Established during the 1960s coal industry development, it has a population of 14,144 as of early 2022 and has been significantly impacted by the ongoing conflict in Ukraine.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Vuhledar is situated on an elevated plain, which is the highest point in the surrounding area. The city is positioned 57 km (35 mi) from [[donetsk|Donetsk]], the administrative center of [[donetsk-oblast|Donetsk Oblast]], and 20 km (12 mi) south of Marinka."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Founded in 1964 around the Pivdennodonbaska 1 coal mine, Vuhledar was initially known as Pivdennyi Donetsk, meaning 'South Donetsk'. The settlement aimed to become a major industrial center, but it fell short of its goals, reaching a population of only 15,000–17,000 instead of the intended 100,000. In 1969, it was renamed Vuhledar, translating to 'gift of coal'. Following the dissolution of [[soviet-union|the Soviet Union]] in 1991, Vuhledar achieved city status and became recognized as a city of regional significance [[coal-in-ukraine|in Ukraine]].",
+        "During the [[war-in-donbas|Donbas war]] that began in 2014, many miners from Vuhledar joined the [[armed-forces-of-ukraine|Ukrainian Armed Forces]]. However, actual fighting in the city did not occur until 2022, when it was struck by a Russian ballistic missile on 24 February, resulting in civilian casualties."
+      ]
+    },
+    {
+      "heading": "Battle of Vuhledar",
+      "paragraphs": [
+        "In early 2023, Russian forces launched renewed attacks on Vuhledar, culminating in a significant offensive in February that resulted in heavy losses for the attackers and the dismissal of General Rustam Muradov. The humanitarian impact was severe, with city officials reporting that Vuhledar was 'destroyed', with all buildings damaged and a drastic reduction in the civilian population to fewer than 500 residents.",
+        "In September 2024, a renewed offensive by Russian forces led to the semi-encirclement of Vuhledar, and on 1 October, the city was captured."
+      ]
+    },
+    {
+      "heading": "Economy",
+      "paragraphs": [
+        "Vuhledar is home to significant coal reserves, particularly the Pivdennodonbaska 1 coal mine with estimated reserves of 69.3 million tonnes, and the even larger Pivdennodonbaska 3 coal mine, which has reserves of 156.9 million tonnes. Following the Soviet Union's dissolution, the city's growth stagnated, leading to the cancellation of eight planned mines, including Pivdennodonbaska 2. As of 2013, most residents were employed in coal mining or nearby factories."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "According to the 2001 [[ukrainian|Ukrainian]] census, Vuhledar had a population of 17,440, with a majority of [[ukrainians|Ukrainians]] (63.1%), a significant minority of Russians (33.1%), and a small number of Belarusians (1.0%). Linguistically, 70.8% of the population spoke Russian natively, while 28.2% spoke Ukrainian and 0.1% spoke Belarusian."
+      ]
+    },
+    {
+      "heading": "Education and Religion",
+      "paragraphs": [
+        "Prior to 2023, Vuhledar had three secondary schools. The city is home to various religious communities, including followers of the [[ukrainian-orthodox-church|Ukrainian Orthodox Church]] (Moscow Patriarchate), Jehovah's Witnesses, Pentecostals, and Evangelical Baptist Christians."
+      ]
+    },
+    {
+      "heading": "Notable People",
+      "paragraphs": [
+        "Notable individuals from Vuhledar include Dmytro Hnap (born 1977), an anti-corruption journalist and politician; Dmytro Khomchenovskyi (born 16 April 1990), a footballer; and Anastasiya Lysenko (born 2 December 1995), a weightlifter."
+      ]
+    }
+  ],
+  "links_out": [
+    "armed-forces-of-ukraine",
+    "coal-in-ukraine",
+    "donetsk",
+    "donetsk-oblast",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-orthodox-church",
+    "ukrainians",
+    "war-in-donbas"
+  ],
+  "sources": [
+    {
+      "title": "Vuhledar — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vuhledar",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

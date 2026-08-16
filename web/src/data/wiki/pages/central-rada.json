@@ -1,0 +1,82 @@
+{
+  "qid": "Q190704",
+  "slug": "central-rada",
+  "title": "Central Rada",
+  "type": "parliament",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "parliament",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1917-03-17",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukrainian People's Republic",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kiev Teacher's House",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Central Rada, also known as the Central Council, was a significant governing body in the Ukrainian People's Republic that played a crucial role in the national movement for Ukrainian independence from 1917 to 1918. It was established as a revolutionary parliament and aimed to lead [[ukraine|Ukraine]] towards full sovereignty.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Central Rada directed the [[ukrainian|Ukrainian]] national movement and, through its four Universals, transitioned the country from autonomy to full sovereignty. Headed by historian [[mykhailo-hrushevskyi|Mykhailo Hrushevsky]], it became the primary governing institution of the [[ukrainian-peoples-republic|Ukrainian People's Republic]], establishing precedents in parliamentary democracy and national independence that contributed to the formation of a distinct Ukrainian identity post-[[soviet-union|Soviet Union]]."
+      ]
+    },
+    {
+      "heading": "Establishment",
+      "paragraphs": [
+        "The Central Rada was initiated on 17 March [O.S. 4 March] 1917 in Kiev, driven by the Society of Ukrainian Progressionists and various Ukrainian political factions. The founding members included representatives from military, workers, religious, and cultural organizations, with the aim of creating a leadership center for the Ukrainian movement.",
+        "On 20 March [O.S. 7 March] 1917, the leadership of the Central Rada was elected, with Mykhailo Hrushevsky becoming the Head and Dmytro Doroshenko and Dmytro Antonovych as deputies. The council's first declaration was published on 22 March [O.S. 9 March] 1917, supporting the Russian Constituent Assembly."
+      ]
+    },
+    {
+      "heading": "Transformation into Parliament",
+      "paragraphs": [
+        "Following the All-Ukrainian National Congress held from 19 to 21 April [O.S. 6–8 April] 1917, the Central Rada transitioned from a provisional council to a parliament with 150 members elected from various Ukrainian political parties and organizations. Hrushevsky was reelected as chairman, with prominent political leaders Serhiy Yefremov and Volodymyr Vynnychenko as deputies.",
+        "The Central Rada, while predominantly composed of Ukrainian liberal progressives, also included moderates, social democrats, and socialist-revolutionaries, reflecting a diverse political landscape."
+      ]
+    },
+    {
+      "heading": "General Assemblies",
+      "paragraphs": [
+        "The Central Council General Assemblies played a vital role in the legislative process. The first assembly took place on 21 April [O.S. 8 April] 1917, where the executive body was formed. Subsequent assemblies addressed critical issues such as military [[ukrainization|Ukrainization]], autonomy demands, and the establishment of the General Secretariat.",
+        "Throughout its existence, the Central Rada convened nine General Assemblies, each addressing pressing national matters, including land reform, peace negotiations, and preparations for the Ukrainian Constituent Assembly elections."
+      ]
+    },
+    {
+      "heading": "Legacy",
+      "paragraphs": [
+        "Despite its brief existence, the Central Rada's influence on Ukrainian governance and identity was profound. It established a framework for parliamentary democracy and national autonomy that would resonate [[coal-in-ukraine|in Ukraine]]'s future political developments, especially after the dissolution of the Soviet Union."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "mykhailo-hrushevskyi",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "ukrainization"
+  ],
+  "sources": [
+    {
+      "title": "Central Rada — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Central_Rada",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

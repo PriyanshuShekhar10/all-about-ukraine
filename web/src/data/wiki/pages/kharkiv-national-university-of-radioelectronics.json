@@ -1,0 +1,91 @@
+{
+  "qid": "Q1980701",
+  "slug": "kharkiv-national-university-of-radioelectronics",
+  "title": "Kharkiv National University of Radioelectronics",
+  "type": "university",
+  "category": "geography",
+  "aliases": [
+    "Kharkiv National University of Radio Electronics",
+    "Kharkiv State University of Radio Electronics",
+    "Kharkiv Technical University of Radioelectronics",
+    "NURE"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1930",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Kharkiv",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.0150, 36.2278",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Kharkiv National University of Radioelectronics (NURE) is a prominent state-sponsored technological university located in Kharkiv, [[ukraine|Ukraine]]. Established in 1930, it is recognized as one of the oldest institutions of its kind in the country, serving approximately 7,000 students.",
+  "sections": [
+    {
+      "heading": "Foundation and History",
+      "paragraphs": [
+        "Kharkiv National University of Radioelectronics was founded in 1930 as the [[kharkiv-oblast|Kharkiv]] Engineering-Building Institute (KEBI). The university initially brought together faculty from the Kharkiv Polytechnical Institute and the architectural faculty of the Kharkiv Art Institute. In 1934, the Kharkiv Geodetic Institute and the Scientific Research Institute of Geodesy and Cartography were incorporated into the institute, which grew to become the largest higher education institution [[coal-in-ukraine|in Ukraine]], with 1,734 students, 200 teachers, and 4 faculties. In 2001, the institution was designated as a National University."
+      ]
+    },
+    {
+      "heading": "University Structure",
+      "paragraphs": [
+        "The university comprises 7 faculties and 34 departments, which include the Faculty of Computer Sciences (CS), Faculty of Computer Engineering and Control (CEC), Faculty of Information and Analytical Technologies and Management (ITM), Faculty of Information Radio Technologies and Technical Information Security (IRTIS), Faculty of Infocommunications (IC), Faculty of Automation and Computer Technologies (ACT), and the Faculty of Electronic and Biomedical Engineering (ELBE)."
+      ]
+    },
+    {
+      "heading": "Awards and Reputation",
+      "paragraphs": [
+        "Kharkiv National University of Radioelectronics is recognized in various global rankings, including the QS World University Rankings, Times Higher Education World University Rankings, UniRank, and EduRank."
+      ]
+    },
+    {
+      "heading": "Scientific Schools",
+      "paragraphs": [
+        "NURE hosts numerous research laboratories and conducts scientific research in both fundamental and applied areas. The university is home to 30 scientific schools, which focus on diverse fields such as telecommunication systems, medical instrument making, computer systems design, meteor radar, and methodologies for integrated information systems development, among others."
+      ]
+    },
+    {
+      "heading": "Rectors",
+      "paragraphs": [
+        "The university has had several rectors since its establishment, including Vikutan Abram Danilovich (1931–1933), Krol Semyon Lvovich (1933–1937), Blinov Vladimir Vasilyevich (1937–1941), Lukin Hryhoriy Hryhorovych (1944–1952), Korzhik Mikhail Vasilyevich (1952–1956), Emelyanov Dmitry Sidorovich (1956–1963), Tereshchenko Alexey Ivanovich (1963–1965), Rvachov Vladimir Logvinovich (1965–1966), Novikov Vsevolod Georgievich (1966–1983), Sviridov Valentin Viktorovich (1984–1994), Bondarenko Mikhail Fedorovich (1994–2013), Acting Rector Rubin Eduard Yukhimovich (2015–2016), Semenets Valerii Vasyliovych (2017–2022), and Igor Ruban (since 2025)."
+      ]
+    },
+    {
+      "heading": "International Partnerships",
+      "paragraphs": [
+        "Kharkiv National University of Radioelectronics has established international partnerships with several institutions, including Hochschule Düsseldorf, University of Applied Sciences in Germany, University of Jyväskylä in Finland, and Linnaeus University in Sweden."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "kharkiv-oblast",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Kharkiv National University of Radio Electronics — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kharkiv_National_University_of_Radio_Electronics",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

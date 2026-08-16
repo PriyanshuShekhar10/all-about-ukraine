@@ -1,0 +1,103 @@
+{
+  "qid": "Q33280",
+  "slug": "lysychansk",
+  "title": "Lysychansk",
+  "type": "city in Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Lisichansk"
+  ],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1710",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "96,161",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "95",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "217",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.9169, 38.4306",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Lysychansk is a city located in Sievierodonetsk Raion, Luhansk Oblast, in eastern [[ukraine|Ukraine]], situated on the right bank of the Donets River. Historically significant as a mining and industrial center, it has faced considerable challenges, particularly during the ongoing conflict in Ukraine.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Lysychansk is positioned on the high right bank of the [[donets|Donets River]], approximately 115 kilometres (71 mi) from [[luhansk|Luhansk]], the administrative center of [[luhansk-oblast|Luhansk Oblast]]. The city is often referred to as a twin city of [[siverskodonetsk|Sievierodonetsk]], which lies directly across the river, and is in proximity to Rubizhne and [[kreminna|Kreminna]]. Before the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], the estimated population of Lysychansk was around 93,340 in 2022, ranking it as the 40th-largest city [[coal-in-ukraine|in Ukraine]] and the fourth-largest in Luhansk Oblast."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The area that is now Lysychansk is believed to have been permanently settled around 1710, with the establishment of the Cossack settlement known as Lisya Balka. In 1721, the discovery of coal marked the beginning of the region's significance in mining, and in 1795, the first mine in the [[donbas|Donbas]] was established under the orders of Empress Catherine II. This mine was intended to supply the foundry in the newly founded city of Luhansk. The settlement evolved into a regional mining center, adopting the name Lysychansk in the 1850s-60s.",
+        "Following the October Revolution, Lysychansk came under Soviet control in late 1919. It was designated a city in 1938 but suffered devastation during World War II. After reconstruction, it became known for its glass and coal mining industries, as well as the Lysychansk Oil Refinery. With the dissolution of [[soviet-union|the Soviet Union]], Lysychansk became part of an [[independent-ukraine|independent Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Conflict and Recent History",
+      "paragraphs": [
+        "In 2014, during the War in the Donbas, Lysychansk was captured by pro-Russian separatists and incorporated into the self-proclaimed [[luhansk-peoples-republic|Luhansk People's Republic]]. [[ukrainian|Ukrainian]] forces regained control of the city in July 2014 after the defeat of separatists at the Siege of Sloviansk. However, in 2022, during the Russian invasion of Ukraine, Lysychansk was the site of renewed conflict, culminating in the Battle of Lysychansk, which concluded with the city's capture by Russian forces on July 2. Ukrainian authorities estimated that up to 12,000 residents remained in the city at that time, and Russia subsequently claimed the city following its annexation of the region in September 2022."
+      ]
+    },
+    {
+      "heading": "Industrial Significance",
+      "paragraphs": [
+        "Historically, Lysychansk has been a major industrial center in Luhansk Oblast, initially recognized for its coal mining, and later for its glass and oil industries. However, the city has experienced significant industrial decline, particularly after 2010, when many large industrial enterprises ceased operations. Cultural landmarks include the Steiger School, the Polovtsian stone women, and the monument to soldier-pilots, along with the City Museum of Local Lore and the Museum of the History of Mining."
+      ]
+    },
+    {
+      "heading": "Educational Institutions",
+      "paragraphs": [
+        "Lysychansk is home to seven institutions of higher education, including the Mining-Industrial Professional College and the Lysychansk Medical Professional College. Following the War in the Donbas, several universities relocated to Lysychansk from occupied territories, including those from Kadiivka and Brianka."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "donbas",
+    "donets",
+    "full-scale-russo-ukrainian-war",
+    "independent-ukraine",
+    "kreminna",
+    "luhansk",
+    "luhansk-oblast",
+    "luhansk-peoples-republic",
+    "siverskodonetsk",
+    "soviet-union",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Lysychansk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lysychansk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

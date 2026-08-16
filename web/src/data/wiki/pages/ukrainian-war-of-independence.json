@@ -23,7 +23,7 @@
     {
       "heading": "Background",
       "paragraphs": [
-        "During the First World War, [[ukraine|Ukraine]] was situated at the forefront of the conflict between Imperial Russia and Austria-Hungary. [[ukrainian|Ukrainian]] activists faced repression in Russia, while Galician Russophiles were persecuted by Austrians. In March 1917, following the February Revolution, the Central [[verkhovna-rada|Rada]] was formed in [[kyiv|Kyiv]], with [[mykhailo-hrushevskyi|Mykhailo Hrushevsky]] elected as its leader in April. The Central Rada aimed for greater Ukrainian autonomy, and in June 1917, it proclaimed Ukrainian autonomy, later establishing the [[ukrainian-peoples-republic|Ukrainian People's Republic]] (UPR) on November 20."
+        "During the First World War, [[ukraine|Ukraine]] was situated at the forefront of the conflict between Imperial Russia and Austria-Hungary. [[ukrainian|Ukrainian]] activists faced repression in Russia, while Galician Russophiles were persecuted by Austrians. In March 1917, following the February Revolution, the [[central-rada|Central Rada]] was formed in [[kyiv|Kyiv]], with [[mykhailo-hrushevskyi|Mykhailo Hrushevsky]] elected as its leader in April. The Central Rada aimed for greater Ukrainian autonomy, and in June 1917, it proclaimed Ukrainian autonomy, later establishing the [[ukrainian-peoples-republic|Ukrainian People's Republic]] (UPR) on November 20."
       ]
     },
     {
@@ -58,6 +58,7 @@
     }
   ],
   "links_out": [
+    "central-rada",
     "donetsk",
     "eastern-galicia",
     "full-scale-russo-ukrainian-war",
@@ -72,8 +73,7 @@
     "ukrainian",
     "ukrainian-peoples-republic",
     "ukrainian-soviet-socialist-republic",
-    "ukrainiansoviet-war",
-    "verkhovna-rada"
+    "ukrainiansoviet-war"
   ],
   "sources": [
     {

@@ -1,0 +1,111 @@
+{
+  "qid": "Q237206",
+  "slug": "pavlohrad",
+  "title": "Pavlohrad",
+  "type": "city of regional significance of Ukraine",
+  "category": "economy",
+  "aliases": [
+    "Pavlograd"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1779",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Russian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "106,683",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "59",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "71",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Q97178174",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.5200, 35.8700",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Pavlohrad is a city in eastern Ukraine, situated in Dnipropetrovsk Oblast, and serves as the administrative center of Pavlohrad Raion. As of 2022, the city has an estimated population of approximately 101,430.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Pavlohrad is located in eastern [[ukraine|Ukraine]] within [[dnipropetrovsk-oblast|Dnipropetrovsk Oblast]]. The city covers an area of 59.3 square kilometres (22.9 sq mi) and is intersected by several rivers, including the Vovcha, which flows 12.85 kilometres (7.98 mi) towards the Samara River, the Hnizdka at 3.9 kilometres (2.4 mi), and the Kocherha at 2.9 kilometres (1.8 mi)."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Pavlohrad is one of the oldest modern settlements in Dnipropetrovsk Oblast, with historical records dating back to the 17th century. The area was part of the Free Lands of the Zaporizhian Host, which were under the influence of the Polish-Lithuanian Commonwealth in the 16th and 17th centuries.",
+        "In the early 1770s, Zaporozhian Cossack Matvii Khizhnyak established winter quarters in the region, later known as sloboda Matviivka. In 1779, it became the headquarters of the Luhanske pikemen regiment and was renamed Luhanske. Following the establishment of the [[dnipro|Yekaterinoslav]] Viceroyalty in 1783, the city was designated as a district town and renamed Pavlohrad, a name change associated with the resettlement of Crimean Greeks. Pavlohrad achieved city status in 1784.",
+        "By the end of the 18th century, Pavlohrad had 426 homes and a population of 2,419. The first stone structure was the Holy Ascension Cathedral, and the city's first coat of arms was approved on 29 July 1811. The city underwent significant development in the late 19th century, with the establishment of various institutions and infrastructure."
+      ]
+    },
+    {
+      "heading": "World War II",
+      "paragraphs": [
+        "During World War II, Pavlohrad was severely impacted by the German occupation, which began in 1941. The occupying forces established transit camps and a Jewish ghetto, leading to significant loss of life within the local community. After the German retreat in February 1943, the city experienced further civilian persecution, including arrests and forced labor."
+      ]
+    },
+    {
+      "heading": "Recent History",
+      "paragraphs": [
+        "Pavlohrad was designated as a city of oblast significance until 18 July 2020, when it was merged into Pavlohrad Raion as part of an administrative reform. The city has been affected by the ongoing conflict [[coal-in-ukraine|in Ukraine]], particularly during the 2022 Russian invasion, which included missile strikes on key infrastructure such as the Pavlohrad-2 train station.",
+        "On 20 March 2024, a proposal to rename the city to Matviiv was supported by the Committee on the Organization of State Power, Local Self-government, Regional Development, and Urban Planning in the [[verkhovna-rada|Verkhovna Rada]]. However, the proposal did not receive sufficient votes on 9 October 2024."
+      ]
+    },
+    {
+      "heading": "Industry",
+      "paragraphs": [
+        "Pavlohrad is home to the Pavlohrad Mechanical Plant (PMZ), established in December 1963, which specializes in the production of solid-fueled rocket engines and missiles. By 1975, PMZ had become the largest solid-rocket factory within the Ministry of General Machine Building of [[soviet-union|the USSR]]. Recent attacks in 2023 have targeted this facility, impacting its operations and production capabilities."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "According to the 2001 [[ukrainian|Ukrainian]] census, Pavlohrad had a population of 119,672, with [[ukrainians|Ukrainians]] making up 72.3% and Russians 25%. The native language for 59.2% of the population was Ukrainian, while 39.8% spoke Russian."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "dnipro",
+    "dnipropetrovsk-oblast",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Pavlohrad — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pavlohrad",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

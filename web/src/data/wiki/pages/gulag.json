@@ -1,0 +1,76 @@
+{
+  "qid": "Q161448",
+  "slug": "gulag",
+  "title": "Gulag",
+  "type": "government agency",
+  "category": "war",
+  "aliases": [
+    "Correctional Labour Camps",
+    "Main Directorate of Correctional Labour Camps"
+  ],
+  "infobox": {
+    "label": "government agency",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Soviet Union",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Gulag was a system of labor camps in [[soviet-union|the Soviet Union]], primarily operational from the 1930s to the early 1950s, which played a significant role in political repression. This system affected millions, including many Ukrainians, who were subjected to forced labor and harsh conditions.",
+  "sections": [
+    {
+      "heading": "Definition and Structure",
+      "paragraphs": [
+        "The term Gulag originally referred to the division of the Soviet secret police responsible for managing forced labor camps. It was an abbreviation for 'Glávnoye upravléniye ispravítel'no-trudovýkh lageréy', meaning 'Main Directorate of Correctional Labour Camps'. Over time, the term came to represent the entire system of forced labor during the Soviet era.",
+        "The Gulag was established in 1930 and was initially administered by the OGPU, later transitioning to the NKVD and finally the [[ministry-of-internal-affairs-of-ukraine|Ministry of Internal Affairs]]. It became a key mechanism for political repression, housing both ordinary criminals and political prisoners."
+      ]
+    },
+    {
+      "heading": "Impact on Population",
+      "paragraphs": [
+        "The Gulag system expanded rapidly, with a population of 100,000 in the 1920s and reaching 1.5 million by the end of 1940. Scholars estimate that approximately 14 million individuals passed through the Gulag camps and colonies between 1930 and 1953, with around 1.5 to 1.7 million dying either in the camps or shortly after release.",
+        "The camps were notorious for their harsh conditions, and many prisoners were convicted through simplified procedures, leading to widespread extrajudicial punishment."
+      ]
+    },
+    {
+      "heading": "Historical Context and Evolution",
+      "paragraphs": [
+        "The origins of forced labor in Russia can be traced back to the tsarist era, where katorga was used as a form of punishment. The Bolsheviks adopted and expanded this system during the Russian Civil War, establishing a network of camps to isolate and eliminate perceived threats to the state.",
+        "By 1929, the distinction between criminal and political prisoners was abolished, consolidating control of the penal system under the OGPU. This marked the beginning of the Gulag as a unified system of repression."
+      ]
+    },
+    {
+      "heading": "Abolition and Legacy",
+      "paragraphs": [
+        "Following [[donetsk|Stalin]]'s death, a mass amnesty was granted, and [[nikita-khrushchev|Nikita Khrushchev]] initiated de-Stalinization, leading to the release of many political prisoners. The Gulag system was officially dissolved on January 25, 1960.",
+        "Aleksandr Solzhenitsyn's 'The Gulag Archipelago', published in 1973, brought international attention to the system, highlighting the brutal realities faced by prisoners. The term 'Gulag' has since become synonymous with the broader Soviet repressive system."
+      ]
+    },
+    {
+      "heading": "Relevance to Ukraine",
+      "paragraphs": [
+        "The Gulag system had a profound impact on [[ukraine|Ukraine]], as many [[ukrainians|Ukrainians]] were imprisoned and subjected to forced labor within these camps. The legacy of the Gulag continues to resonate in [[history-of-ukraine|Ukrainian history]] and collective memory, reflecting the broader experiences of repression under Soviet rule."
+      ]
+    }
+  ],
+  "links_out": [
+    "donetsk",
+    "history-of-ukraine",
+    "ministry-of-internal-affairs-of-ukraine",
+    "nikita-khrushchev",
+    "soviet-union",
+    "ukraine",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Gulag — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gulag",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

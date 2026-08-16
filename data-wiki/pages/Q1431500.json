@@ -43,7 +43,7 @@
       "heading": "Hydrological Features",
       "paragraphs": [
         "The reservoir has an average depth of six meters and a total volume of 13.5 cubic kilometers.",
-        "The water level within the reservoir is regulated by the Kremenchuk Hydroelectric Power Plant dam, which was constructed between 1954 and 1959."
+        "The water level within the reservoir is regulated by the [[kremenchuk|Kremenchuk]] Hydroelectric Power Plant dam, which was constructed between 1954 and 1959."
       ]
     },
     {
@@ -57,7 +57,7 @@
       "heading": "Ecological and Economic Importance",
       "paragraphs": [
         "The reservoir plays a crucial role in irrigation and flood control, which are vital for agricultural activities in the region.",
-        "Additionally, it supports fishing industries and facilitates transport from the ports of Cherkasy and Svitlovodsk, contributing to the local economy."
+        "Additionally, it supports fishing industries and facilitates transport from the ports of Cherkasy and [[svitlovodsk|Svitlovodsk]], contributing to the local economy."
       ]
     },
     {
@@ -70,8 +70,10 @@
   "links_out": [
     "cherkasy",
     "dnieper",
+    "kremenchuk",
     "kropyvnytskyi",
     "poltava",
+    "svitlovodsk",
     "ukrainian"
   ],
   "sources": [

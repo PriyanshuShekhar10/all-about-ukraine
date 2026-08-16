@@ -1,0 +1,98 @@
+{
+  "qid": "Q160440",
+  "slug": "crimean-khanate",
+  "title": "Crimean Khanate",
+  "type": "historical country",
+  "category": "history",
+  "aliases": [
+    "Crimea",
+    "Khanate of the Crimea",
+    "Kuban Tartary",
+    "Little Tartaria"
+  ],
+  "infobox": {
+    "label": "historical country",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1441",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Capital",
+        "value": "Bakhchysarai, Chufut-Kale",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "1,500,000",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "400,000",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "44.7550, 33.8525",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Crimean Khanate was a [[crimean-tatar|Crimean Tatar]] state that existed from 1441 until its annexation by the Russian Empire in 1783. It played a significant role in the [[history-of-ukraine|history of Ukraine]], particularly in the context of the region's ethnic and political dynamics.",
+  "sections": [
+    {
+      "heading": "Naming and Geography",
+      "paragraphs": [
+        "The Crimean Khanate, referred to as the Throne of Crimea and Desht-i Kipchak, was known in earlier European texts as Little Tartary. The khans of Crimea viewed their state as the successor to the Golden Horde and claimed titles that reflected this heritage. The Khanate encompassed the [[crimea|Crimean Peninsula]] and adjacent steppes, aligning with parts of South [[ukraine|Ukraine]], including areas of modern-day [[zaporizhzhia-oblast|Zaporizhzhia Oblast]] and parts of [[kherson-oblast|Kherson Oblast]].",
+        "The term 'Little Tartary' was used by English-speaking writers in the 18th and early 19th centuries to differentiate the region from Great Tartary, which included larger areas inhabited by Turkic peoples."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The Turkic presence in Crimea dates back to the 6th century, with the region becoming part of the Golden Horde by the 13th century. The local Kipchaks adopted the name Tatars during this period. The Crimean Khanate emerged in the early 15th century when clans of the Golden Horde settled in Crimea, inviting Hacı I Giray to lead them.",
+        "The Crimean Khanate was formally established in 1441 after Hacı I Giray successfully fought for independence from the Golden Horde. The khanate's capital was moved to Qırq Yer, located in present-day Bahçeseray."
+      ]
+    },
+    {
+      "heading": "Ottoman Influence",
+      "paragraphs": [
+        "Following the establishment of the Khanate, the Ottoman Empire became a significant influence, especially after the conquest of the Greek Principality of Theodoro in 1475. The Crimean khans maintained a degree of autonomy while serving as a protectorate of the Ottomans, who recognized their rule over the steppes.",
+        "The [[crimean-tatars|Crimean Tatars]] played a crucial role in the Ottoman military campaigns, particularly against Poland and Hungary, and the alliance between the Crimean Khanate and the Ottoman Empire was vital for both parties."
+      ]
+    },
+    {
+      "heading": "Economic Aspects and Slave Trade",
+      "paragraphs": [
+        "The economy of the Crimean Khanate was heavily reliant on the slave trade, with frequent raids conducted into neighboring regions to capture individuals for enslavement. It is estimated that between 1500 and 1700, around 2 million slaves were exported from the Khanate to the Ottoman Empire and the Middle East.",
+        "The raids often targeted areas in Poland-Lithuania and Muscovy, with significant losses reported. The last major Tatar raid in 1769 resulted in the capture of 20,000 individuals, highlighting the ongoing impact of the Khanate's slave trade on the populations of Ukraine and surrounding territories."
+      ]
+    },
+    {
+      "heading": "Decline and Annexation",
+      "paragraphs": [
+        "The Crimean Khanate continued to exist until its annexation by the Russian Empire in 1783, a move that violated the Treaty of Küçük Kaynarca of 1774, which had promised non-interference in its affairs. This annexation was met with protest from France, reflecting the geopolitical tensions of the time."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimea",
+    "crimean-tatar",
+    "crimean-tatars",
+    "history-of-ukraine",
+    "kherson-oblast",
+    "ukraine",
+    "zaporizhzhia-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Crimean Khanate — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Crimean_Khanate",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

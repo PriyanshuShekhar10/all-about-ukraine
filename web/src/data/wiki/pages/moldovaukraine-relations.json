@@ -24,7 +24,7 @@
     {
       "heading": "Historical Context",
       "paragraphs": [
-        "The early interactions between [[ukraine|Ukraine]] and Moldova can be traced back to November–December 1917, when the Central [[verkhovna-rada|Rada]] of the [[ukrainian-peoples-republic|Ukrainian People's Republic]] collaborated with the Sfatul Țării of the Moldavian Democratic Republic. Notably, the first session of the Moldovan Parliament occurred on November 21, 1917, in Chișinău, under the protection of Moldavian and [[ukrainian|Ukrainian]] troops.",
+        "The early interactions between [[ukraine|Ukraine]] and Moldova can be traced back to November–December 1917, when the [[central-rada|Central Rada]] of the [[ukrainian-peoples-republic|Ukrainian People's Republic]] collaborated with the Sfatul Țării of the Moldavian Democratic Republic. Notably, the first session of the Moldovan Parliament occurred on November 21, 1917, in Chișinău, under the protection of Moldavian and [[ukrainian|Ukrainian]] troops.",
         "Following the establishment of the Ukrainian People's Republic, its government prioritized defining its borders with Moldova."
       ]
     },
@@ -65,6 +65,7 @@
     }
   ],
   "links_out": [
+    "central-rada",
     "coal-in-ukraine",
     "full-scale-russo-ukrainian-war",
     "kyiv",
@@ -75,7 +76,6 @@
     "ukrainian",
     "ukrainian-peoples-republic",
     "ukrainians",
-    "verkhovna-rada",
     "volodymyr-zelenskyy"
   ],
   "sources": [

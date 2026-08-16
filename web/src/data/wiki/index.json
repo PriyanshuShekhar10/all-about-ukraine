@@ -43,6 +43,14 @@
     ]
   },
   {
+    "slug": "2015-ukrainian-local-elections",
+    "title": "2015 Ukrainian local elections",
+    "type": "municipal election",
+    "category": "politics",
+    "summary": "The 2015 Ukrainian local elections, held on 25 October, marked a significant political event [[coal-in-ukraine|in Ukraine]], occurring amid ongoing conflict and territorial disputes. A second round of mayoral elections took place on 15 November 2015 in cities where no candidate achieved a majority.",
+    "aliases": []
+  },
+  {
     "slug": "2019-ukrainian-presidential-election",
     "title": "2019 Ukrainian presidential election",
     "type": "Ukrainian presidential election",
@@ -152,7 +160,7 @@
     "title": "Alushta",
     "type": "city in Ukraine",
     "category": "geography",
-    "summary": "Alushta is a city of regional significance located on the southern coast of the [[crimea|Crimean peninsula]], within the Autonomous Republic of Crimea, which is internationally recognized as part of [[ukraine|Ukraine]] but currently occupied by the Russian Federation. As of the 2014 Census, the city had a population of 29,078.",
+    "summary": "Alushta is a city of regional significance located on the southern coast of the [[crimea|Crimean peninsula]], within the Autonomous Republic of [[crimean-khanate|Crimea]], which is internationally recognized as part of [[ukraine|Ukraine]] but currently occupied by the Russian Federation. As of the 2014 Census, the city had a population of 29,078.",
     "aliases": []
   },
   {
@@ -223,6 +231,16 @@
     ]
   },
   {
+    "slug": "andriy-yarmolenko",
+    "title": "Andriy Yarmolenko",
+    "type": "human",
+    "category": "people",
+    "summary": "Andriy Mykolayovych Yarmolenko is a prominent Ukrainian professional footballer, recognized for his role as a winger or forward for Dynamo Kyiv and as the captain of the Ukraine national team. He has been an international player since 2009, achieving notable success in various UEFA European Championships.",
+    "aliases": [
+      "Andriy Mykolayovych Yarmolenko"
+    ]
+  },
+  {
     "slug": "antonov",
     "title": "Antonov",
     "type": "aerospace manufacturer",
@@ -289,6 +307,14 @@
     "aliases": [
       "Arsen Borysovych Avakov"
     ]
+  },
+  {
+    "slug": "artem-dzyuba",
+    "title": "Artem Dzyuba",
+    "type": "human",
+    "category": "people",
+    "summary": "Artem Dzyuba is a prominent Russian professional footballer, born on 22 August 1988, who has made significant contributions to both club and international football. He has Ukrainian roots through his father, Sergey, who hails from Poltava Oblast, Ukraine.",
+    "aliases": []
   },
   {
     "slug": "artem-sytnyk",
@@ -411,6 +437,16 @@
     "aliases": []
   },
   {
+    "slug": "baryshivska-hromada",
+    "title": "Baryshivska Hromada",
+    "type": "urban-type settlement in Ukraine",
+    "category": "economy",
+    "summary": "Baryshivka is an urban-type settlement located in Kyiv Oblast, [[ukraine|Ukraine]], serving as the administrative center of the Baryshivka settlement hromada. As of 2022, it has a population of 10,294.",
+    "aliases": [
+      "Baryshevka"
+    ]
+  },
+  {
     "slug": "batkivshchyna",
     "title": "Batkivshchyna",
     "type": "political party",
@@ -503,11 +539,27 @@
     "aliases": []
   },
   {
+    "slug": "battle-of-zboriv",
+    "title": "Battle of Zboriv",
+    "type": "Wikimedia disambiguation page",
+    "category": "history",
+    "summary": "The Battle of Zboriv refers to two significant historical conflicts associated with [[ukraine|Ukraine]], one during the Khmelnytsky Uprising in the 17th century and another during World War I in the early 20th century.",
+    "aliases": []
+  },
+  {
     "slug": "beer-in-ukraine",
     "title": "beer in Ukraine",
     "type": "aspect in a geographic region",
     "category": "economy",
     "summary": "Beer production in Ukraine has a significant history and presence, with notable breweries and brands contributing to the national market. The industry has shown resilience, particularly during challenging times such as the 2022 Russian invasion of Ukraine.",
+    "aliases": []
+  },
+  {
+    "slug": "belovodskoye",
+    "title": "Belovodskoye",
+    "type": "village",
+    "category": "geography",
+    "summary": "Belovodskoye is a significant village located in the Chüy Region of Kyrgyzstan, with a population of 23,046 as of 2021. It serves as the administrative center of [[moskva|Moskva]] District and has historical connections to Ukrainian settlers.",
     "aliases": []
   },
   {
@@ -797,6 +849,14 @@
     ]
   },
   {
+    "slug": "borysthenes",
+    "title": "Borysthenes",
+    "type": "Potamoi",
+    "category": "history",
+    "summary": "Borysthenes is a term from classical antiquity that primarily denotes the Dnieper River and its associated river deity, as well as an alternate name for the ancient town of Pontic Olbia located near the river's mouth on the Black Sea coast. This geographical name highlights the historical significance of the Dnieper River in the context of [[ukraine|Ukraine]].",
+    "aliases": []
+  },
+  {
     "slug": "borzsa",
     "title": "Borzsa",
     "type": "river",
@@ -844,6 +904,16 @@
     "aliases": [
       "Bukovyna",
       "Bukowina"
+    ]
+  },
+  {
+    "slug": "burgerinitiatief",
+    "title": "Burgerinitiatief",
+    "type": "Wikimedia disambiguation page",
+    "category": "politics",
+    "summary": "The term 'Citizens' Initiative' or 'Civic Initiative' encompasses various political procedures and organizations across different countries, including connections to Ukraine's democratic processes and civic engagement.",
+    "aliases": [
+      "Citizens' Initiative"
     ]
   },
   {
@@ -908,6 +978,14 @@
     "type": "election commission",
     "category": "politics",
     "summary": "The Central Election Commission of Ukraine (TsVK) is an independent body responsible for organizing and conducting presidential, parliamentary, and local elections in Ukraine, as well as managing referendums. Established in November 1997, it operates under the Constitution and laws of Ukraine, ensuring the electoral process's legality and transparency.",
+    "aliases": []
+  },
+  {
+    "slug": "central-rada",
+    "title": "Central Rada",
+    "type": "parliament",
+    "category": "politics",
+    "summary": "The Central Rada, also known as the Central Council, was a significant governing body in the Ukrainian People's Republic that played a crucial role in the national movement for Ukrainian independence from 1917 to 1918. It was established as a revolutionary parliament and aimed to lead [[ukraine|Ukraine]] towards full sovereignty.",
     "aliases": []
   },
   {
@@ -1259,6 +1337,22 @@
     ]
   },
   {
+    "slug": "cossackia",
+    "title": "Cossackia",
+    "type": "topic",
+    "category": "history",
+    "summary": "Cossackia refers to the traditional regions inhabited by Cossack communities in Russia and Ukraine, particularly associated with the Zaporizhian Host. The term has also been used to propose an independent Cossack state, particularly during the early 20th century and World War II.",
+    "aliases": [
+      "Kazakia",
+      "Kozakia",
+      "Krayna kozakiv",
+      "Land of cossacks",
+      "Southruthenia",
+      "Strana kazakov",
+      "Yugorossia"
+    ]
+  },
+  {
     "slug": "cossacks",
     "title": "Cossacks",
     "type": "social class",
@@ -1320,11 +1414,24 @@
     ]
   },
   {
+    "slug": "crimean-khanate",
+    "title": "Crimean Khanate",
+    "type": "historical country",
+    "category": "history",
+    "summary": "The Crimean Khanate was a [[crimean-tatar|Crimean Tatar]] state that existed from 1441 until its annexation by the Russian Empire in 1783. It played a significant role in the [[history-of-ukraine|history of Ukraine]], particularly in the context of the region's ethnic and political dynamics.",
+    "aliases": [
+      "Crimea",
+      "Khanate of the Crimea",
+      "Kuban Tartary",
+      "Little Tartaria"
+    ]
+  },
+  {
     "slug": "crimean-tatar",
     "title": "Crimean Tatar",
     "type": "Wikimedia disambiguation page",
     "category": "politics",
-    "summary": "Crimean Tatar refers to both an ethnic group and a language associated with the Crimean Tatars, who are a significant minority [[coal-in-ukraine|in Ukraine]], particularly in the Crimean Peninsula.",
+    "summary": "Crimean Tatar refers to both an ethnic group and a language associated with the Crimean Tatars, who are a significant minority [[coal-in-ukraine|in Ukraine]], particularly in the [[crimea|Crimean Peninsula]].",
     "aliases": []
   },
   {
@@ -1854,6 +1961,20 @@
     ]
   },
   {
+    "slug": "european-solidarity",
+    "title": "European Solidarity",
+    "type": "political party",
+    "category": "people",
+    "summary": "European Solidarity is a [[political-party-in-ukraine|political party in Ukraine]], rooted in the parliamentary group Solidarity established in 2000 by Petro Poroshenko. The party has undergone several transformations and name changes, reflecting its evolving political stance and leadership, particularly in relation to Ukraine's European integration and governance reforms.",
+    "aliases": [
+      "All-Ukrainian Party of Peace and Unity",
+      "All-Ukrainian Union Solidarity",
+      "National Alliance of Freedom and Ukrainian patriotism \"OFFENSIVE\"",
+      "Petro Poroshenko Bloc",
+      "Solidarity"
+    ]
+  },
+  {
     "slug": "eurovision-song-contest-2016",
     "title": "Eurovision Song Contest 2016",
     "type": "Eurovision Song Contest edition",
@@ -1862,6 +1983,17 @@
     "aliases": [
       "ESC 2016",
       "Eurovision 2016"
+    ]
+  },
+  {
+    "slug": "eurovision-song-contest-2017",
+    "title": "Eurovision Song Contest 2017",
+    "type": "Eurovision Song Contest edition",
+    "category": "people",
+    "summary": "The Eurovision Song Contest 2017 marked the 62nd edition of the annual music competition, held in Kyiv, Ukraine. This event was notable for Ukraine's hosting role following its victory in the previous year and for the significant political context surrounding the participation of certain countries.",
+    "aliases": [
+      "ESC 2017",
+      "Eurovision 2017"
     ]
   },
   {
@@ -2042,6 +2174,17 @@
     "category": "war",
     "summary": "Gromada is a term of Polish origin that denotes a local assembly or organization, particularly relevant to the historical governance structures in Poland and its influence on [[ukrainian|Ukrainian]] territories during various periods.",
     "aliases": []
+  },
+  {
+    "slug": "gulag",
+    "title": "Gulag",
+    "type": "government agency",
+    "category": "war",
+    "summary": "The Gulag was a system of labor camps in [[soviet-union|the Soviet Union]], primarily operational from the 1930s to the early 1950s, which played a significant role in political repression. This system affected millions, including many Ukrainians, who were subjected to forced labor and harsh conditions.",
+    "aliases": [
+      "Correctional Labour Camps",
+      "Main Directorate of Correctional Labour Camps"
+    ]
   },
   {
     "slug": "gullivers-travels",
@@ -2260,6 +2403,17 @@
       "Grigorij Savvich Skovoroda",
       "Hryhoriy Skovoroda",
       "Hryhoriĭ Skovoroda"
+    ]
+  },
+  {
+    "slug": "hryshko-national-botanical-garden",
+    "title": "Hryshko National Botanical Garden",
+    "type": "protected area",
+    "category": "economy",
+    "summary": "The M. M. Hryshko National Botanical Garden is a significant botanical garden located in Kyiv, Ukraine, under the auspices of the National Academy of Sciences of Ukraine. Established in 1936, it features a diverse collection of plant species and serves as a popular recreational area for residents and visitors.",
+    "aliases": [
+      "M. M. Hryshko National Botanical Garden",
+      "M.M. Gryshko National Botanical Garden"
     ]
   },
   {
@@ -2558,6 +2712,16 @@
     ]
   },
   {
+    "slug": "ivano-frankivsk-national-medical-university",
+    "title": "Ivano-Frankivsk National Medical University",
+    "type": "university",
+    "category": "geography",
+    "summary": "Ivano-Frankivsk National Medical University is a state-sponsored higher education institution located in Ivano-Frankivsk, Ukraine, established in 1945. It is recognized for its medical education programs and holds a significant position in the Ukrainian educational landscape as a designated 'National Medical University.'",
+    "aliases": [
+      "National Medical University, Ivano-Frankivsk"
+    ]
+  },
+  {
     "slug": "ivano-frankivsk-national-technical-university-of-oil-and-gas",
     "title": "Ivano-Frankivsk National Technical University of Oil and Gas",
     "type": "university",
@@ -2665,6 +2829,19 @@
       "Khar'kov",
       "Kharkoff",
       "Kharkov"
+    ]
+  },
+  {
+    "slug": "kharkiv-national-university-of-radioelectronics",
+    "title": "Kharkiv National University of Radioelectronics",
+    "type": "university",
+    "category": "geography",
+    "summary": "Kharkiv National University of Radioelectronics (NURE) is a prominent state-sponsored technological university located in Kharkiv, [[ukraine|Ukraine]]. Established in 1930, it is recognized as one of the oldest institutions of its kind in the country, serving approximately 7,000 students.",
+    "aliases": [
+      "Kharkiv National University of Radio Electronics",
+      "Kharkiv State University of Radio Electronics",
+      "Kharkiv Technical University of Radioelectronics",
+      "NURE"
     ]
   },
   {
@@ -2876,6 +3053,14 @@
     "aliases": []
   },
   {
+    "slug": "kramatorsk",
+    "title": "Kramatorsk",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "summary": "Kramatorsk is a city in eastern Ukraine, serving as the administrative center of Kramatorsk Raion in Donetsk Oblast. It plays a significant role as an industrial hub and has been a focal point during the Russo-Ukrainian war.",
+    "aliases": []
+  },
+  {
     "slug": "kramatorsk-railway-station-attack",
     "title": "Kramatorsk railway station attack",
     "type": "missile strike",
@@ -2886,6 +3071,19 @@
       "Kramatorsk railway bombing",
       "Kramatorsk train station airstrike",
       "Missile strike at Kramatorsk station"
+    ]
+  },
+  {
+    "slug": "kremenchuk",
+    "title": "Kremenchuk",
+    "type": "city of regional significance of Ukraine",
+    "category": "economy",
+    "summary": "Kremenchuk is an industrial city located in central [[ukraine|Ukraine]] along the Dnipro River, serving as the administrative center of Kremenchuk Raion and Kremenchuk urban hromada in Poltava Oblast. With an estimated population of approximately 215,271 in 2022, it is recognized as a significant industrial hub in Ukraine and Eastern Europe.",
+    "aliases": [
+      "Kremenchug",
+      "Kremenchûg",
+      "Krementschug",
+      "Krzemieńczuk"
     ]
   },
   {
@@ -2944,6 +3142,14 @@
       "Zynovievsk",
       "Zynovivsk"
     ]
+  },
+  {
+    "slug": "krymske",
+    "title": "Krymske",
+    "type": "Wikimedia list article",
+    "category": "geography",
+    "summary": "Krymske refers to several locations within Ukraine, each with distinct administrative affiliations. These places are significant in their respective regions, contributing to the cultural and geographical diversity of Ukraine.",
+    "aliases": []
   },
   {
     "slug": "kryvbas",
@@ -3061,6 +3267,14 @@
     "aliases": [
       "Metro in Kyiv"
     ]
+  },
+  {
+    "slug": "kyiv-music-fest",
+    "title": "Kyiv Music Fest",
+    "type": "music festival",
+    "category": "culture",
+    "summary": "The Kyiv Music Fest is an annual international music festival held in Kyiv, Ukraine, dedicated to showcasing modern Ukrainian classical music and promoting Ukrainian musicians within the global arts context. Established in 1990, the festival has become a significant cultural event [[coal-in-ukraine|in Ukraine]].",
+    "aliases": []
   },
   {
     "slug": "kyiv-national-academic-theatre-of-operetta",
@@ -3424,6 +3638,16 @@
     "aliases": [
       "Ivan Franko National University of Lviv",
       "University of Lviv"
+    ]
+  },
+  {
+    "slug": "lysychansk",
+    "title": "Lysychansk",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "summary": "Lysychansk is a city located in Sievierodonetsk Raion, Luhansk Oblast, in eastern [[ukraine|Ukraine]], situated on the right bank of the Donets River. Historically significant as a mining and industrial center, it has faced considerable challenges, particularly during the ongoing conflict in Ukraine.",
+    "aliases": [
+      "Lisichansk"
     ]
   },
   {
@@ -3872,6 +4096,17 @@
     "aliases": []
   },
   {
+    "slug": "mykolayiv-state-agrarian-university",
+    "title": "Mykolayiv State Agrarian University",
+    "type": "college",
+    "category": "geography",
+    "summary": "Mykolaiv National Agrarian University (MNAU) is a prominent public agricultural college located in Mykolaiv, Ukraine, recognized for its contributions to agrarian education and research.",
+    "aliases": [
+      "MNAU",
+      "Mykolaiv National Agrarian University"
+    ]
+  },
+  {
     "slug": "myrhorod",
     "title": "Myrhorod",
     "type": "city of regional significance of Ukraine",
@@ -4121,6 +4356,17 @@
     ]
   },
   {
+    "slug": "nestor-the-chronicler",
+    "title": "Nestor the Chronicler",
+    "type": "human",
+    "category": "history",
+    "summary": "Nestor the Chronicler (c. 1056 – c. 1114) was a monk at the Monastery of the Caves in Kiev, recognized for his significant contributions to [[kievan-rus|Kievan Rus]]' literature, particularly through his hagiographies. His works, including the Life of the Venerable Theodosius and the Account of Boris and Gleb, are vital to understanding the cultural and religious [[history-of-ukraine|history of Ukraine]].",
+    "aliases": [
+      "Nestor litopysets",
+      "Nestor of Kiev"
+    ]
+  },
+  {
     "slug": "nikita-khrushchev",
     "title": "Nikita Khrushchev",
     "type": "human",
@@ -4194,6 +4440,18 @@
     ]
   },
   {
+    "slug": "nizhyn",
+    "title": "Nizhyn",
+    "type": "city of regional significance of Ukraine",
+    "category": "economy",
+    "summary": "Nizhyn is a city of regional significance located in Chernihiv Oblast, Ukraine, along the Oster River. As of 2022, it has a population of 65,830 and serves as the administrative center of Nizhyn Raion, highlighting its importance within the region.",
+    "aliases": [
+      "Nezhin",
+      "Nyzhen",
+      "Nyzhenʹ"
+    ]
+  },
+  {
     "slug": "nova-post",
     "title": "Nova Post",
     "type": "postal service",
@@ -4205,6 +4463,14 @@
       "Nova poshta LLC",
       "«Nova poshta», Ltd"
     ]
+  },
+  {
+    "slug": "novomoskovsk",
+    "title": "Novomoskovsk",
+    "type": "Wikimedia disambiguation page",
+    "category": "geography",
+    "summary": "Novomoskovsk refers to several locations and entities, primarily highlighting the town [[coal-in-ukraine|in Ukraine]]'s Dnipropetrovsk Oblast and its historical significance.",
+    "aliases": []
   },
   {
     "slug": "nuclear-power-in-ukraine",
@@ -4363,6 +4629,14 @@
     "aliases": [
       "Oleksandr Valentynovych Turchynov"
     ]
+  },
+  {
+    "slug": "oleksandr-vysotskyi",
+    "title": "Oleksandr Vysotskyi",
+    "type": "human",
+    "category": "war",
+    "summary": "Oleksandr Oleksandrovych Vysotskyi is a former professional football goalkeeper from [[ukraine|Ukraine]], born on 16 June 1986. His career in football reflects the sporting culture and talent development within Ukraine.",
+    "aliases": []
   },
   {
     "slug": "oles-honchar",
@@ -4594,6 +4868,26 @@
     ]
   },
   {
+    "slug": "pavlohrad",
+    "title": "Pavlohrad",
+    "type": "city of regional significance of Ukraine",
+    "category": "economy",
+    "summary": "Pavlohrad is a city in eastern Ukraine, situated in Dnipropetrovsk Oblast, and serves as the administrative center of Pavlohrad Raion. As of 2022, the city has an estimated population of approximately 101,430.",
+    "aliases": [
+      "Pavlograd"
+    ]
+  },
+  {
+    "slug": "pavlovo",
+    "title": "Pavlovo",
+    "type": "Wikimedia disambiguation page",
+    "category": "culture",
+    "summary": "Pavlovo refers to multiple inhabited localities primarily located in Russia, with a significant number of these localities being rural villages. While the name is prevalent in various Russian regions, it does not have a direct connection to [[ukraine|Ukraine]], yet its mention is relevant in the context of regional geography and historical ties between Ukraine and Russia.",
+    "aliases": [
+      "Pawłowo"
+    ]
+  },
+  {
     "slug": "pecherskyi-district",
     "title": "Pecherskyi District",
     "type": "raion of city in Ukraine",
@@ -4618,6 +4912,14 @@
     "type": "Wikimedia disambiguation page",
     "category": "history",
     "summary": "Peremyshl refers to multiple locations, including a village in Russia and a historical town in Muscovy, with relevance to the broader context of Eastern European geography.",
+    "aliases": []
+  },
+  {
+    "slug": "pervomaisk",
+    "title": "Pervomaisk",
+    "type": "Wikimedia disambiguation page",
+    "category": "geography",
+    "summary": "Pervomaisk is a term commonly used in the former Soviet Union, originating from the May Day holiday, known as International Workers' Day. In the context of Ukraine, it refers to several locations within the country.",
     "aliases": []
   },
   {
@@ -4919,6 +5221,14 @@
       "pisanica",
       "pisanka"
     ]
+  },
+  {
+    "slug": "pysanka-museum",
+    "title": "Pysanka Museum",
+    "type": "art museum",
+    "category": "culture",
+    "summary": "The Pysanka Museum, located in Kolomyia, [[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]], Ukraine, is the world's only museum dedicated to the art of pysanka, or Ukrainian Easter eggs. Opened on October 26, 1987, it serves as a significant cultural institution showcasing the rich tradition of pysanka [[coal-in-ukraine|in Ukraine]].",
+    "aliases": []
   },
   {
     "slug": "radio-ukraine",
@@ -5295,6 +5605,24 @@
     ]
   },
   {
+    "slug": "sakhalin",
+    "title": "Sakhalin",
+    "type": "island",
+    "category": "geography",
+    "summary": "Sakhalin is the largest island of Russia, located in Northeast Asia, with a complex history of territorial claims involving China, Russia, and Japan. Its geographical significance and historical connections to indigenous peoples, including the Ainu, Oroks, and Nivkhs, highlight its relevance to regional dynamics, including its ties to [[ukraine|Ukraine]] through historical trade and migration patterns.",
+    "aliases": [
+      "Karafuto",
+      "Kuye",
+      "Saghalien",
+      "Saghalien I.",
+      "Saghalien Is.",
+      "Saghalien Island",
+      "Sakhalin I.",
+      "Sakhalin Is.",
+      "Sakhalin Island"
+    ]
+  },
+  {
     "slug": "sakharov-prize",
     "title": "Sakharov Prize",
     "type": "human rights award",
@@ -5326,6 +5654,26 @@
       "Self-Help",
       "Self-Reliance"
     ]
+  },
+  {
+    "slug": "sarmatians",
+    "title": "Sarmatians",
+    "type": "historical ethnic group",
+    "category": "history",
+    "summary": "The Sarmatians were a significant confederation of ancient Iranian nomadic peoples who inhabited the Pontic steppe from approximately the 5th century BC to the 4th century AD. Their history is deeply intertwined with the region that includes modern-day Ukraine, where they played a crucial role in the cultural and political landscape of the time.",
+    "aliases": [
+      "Sarmatae",
+      "Sarmatai",
+      "Sarmats"
+    ]
+  },
+  {
+    "slug": "sarny",
+    "title": "Sarny",
+    "type": "city in Ukraine",
+    "category": "economy",
+    "summary": "Sarny is a small city located in [[rivne-oblast|Rivne Oblast]], [[western-ukraine|western Ukraine]], serving as the administrative center of Sarny Raion. With a population of 28,626 as of 2022, it is a significant railway hub situated on the Sluch River.",
+    "aliases": []
   },
   {
     "slug": "savchuk",
@@ -5443,7 +5791,7 @@
     "title": "Sevastopol",
     "type": "city or town",
     "category": "geography",
-    "summary": "Sevastopol is the largest city in [[crimea|Crimea]] and a significant port on the Black Sea, founded in 1783 by Catherine the Great. The city has a complex history marked by its strategic military importance and its contentious status following the annexation of Crimea by Russia in 2014, despite being internationally recognized as part of Ukraine.",
+    "summary": "Sevastopol is the largest city in [[crimean-khanate|Crimea]] and a significant port on the Black Sea, founded in 1783 by Catherine the Great. The city has a complex history marked by its strategic military importance and its contentious status following the annexation of Crimea by Russia in 2014, despite being internationally recognized as part of Ukraine.",
     "aliases": [
       "Aqyar",
       "Sebastopol",
@@ -5451,6 +5799,33 @@
       "Sevastopol'",
       "Sewastupolis",
       "Sewastúpolis"
+    ]
+  },
+  {
+    "slug": "shatsk-national-natural-park",
+    "title": "Shatsk National Natural Park",
+    "type": "national nature park",
+    "category": "geography",
+    "summary": "Shatsk National Natural Park is a significant national park in Ukraine, established in 1983 to conserve the unique natural environments of Volyn Polissia. Covering an area of 490 square kilometers, it is home to the Svitiaz Lake, the deepest lake in Ukraine, and a diverse range of flora and fauna, making it an important ecological and recreational area.",
+    "aliases": [
+      "Shatsk National Nature Park",
+      "Shatsky National Natural Park",
+      "Shatskyi National Nature Park",
+      "Shatskyi natsionalnyi pryrodnyi park"
+    ]
+  },
+  {
+    "slug": "shche-ne-vmerla-ukrainy-i-slava-i-volia",
+    "title": "Shche ne vmerla Ukrainy i slava, i volia",
+    "type": "national anthem",
+    "category": "politics",
+    "summary": "The State Anthem of Ukraine, known by its incipit 'Shche ne vmerla Ukrainy i slava, i volia', is a significant symbol of Ukrainian national identity and pride. The anthem's lyrics, composed by Pavlo Chubynskyi in 1862, were set to music by Mykhailo Verbytskyi in 1863, and it was officially adopted as the national anthem in 1992.",
+    "aliases": [
+      "Shche ne vmerla Ukraina",
+      "Shche ne vmerla Ukrainy ni slava, ni volia",
+      "State anthem of Ukraine",
+      "Павло Чубинський",
+      "Павло́ Плато́нович Чуби́нський"
     ]
   },
   {
@@ -5599,6 +5974,14 @@
     "type": "park",
     "category": "culture",
     "summary": "Sofiyivsky Park, located in Uman, Cherkasy Oblast, Ukraine, is an arboretum and scientific-research institute affiliated with the [[national-academy-of-sciences-of-ukraine|National Academy of Sciences of Ukraine]]. Established in 1796 by Count Stanisław Szczęsny Potocki, the park features over 2,000 species of trees and is recognized as a significant example of early 19th-century landscape gardening.",
+    "aliases": []
+  },
+  {
+    "slug": "soledar",
+    "title": "Soledar",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "summary": "Soledar is a city in Bakhmut Raion, [[donetsk-oblast|Donetsk Oblast]], Ukraine, known for its historical salt mining industry. Once a thriving settlement, it has been largely destroyed and depopulated due to the ongoing conflict in the region, particularly during the Russian invasion of Ukraine.",
     "aliases": []
   },
   {
@@ -5809,6 +6192,16 @@
     "summary": "Sviatoslav Ivanovych '[[moskva|Slava]]' Vakarchuk is a prominent [[ukrainian|Ukrainian]] musician, politician, public activist, and soldier, best known as the lead vocalist of the rock band Okean Elzy. He has played a significant role in Ukraine's cultural and political landscape, notably during key historical events such as the [[orange-revolution|Orange Revolution]] and Euromaidan.",
     "aliases": [
       "Svyatoslav Vakarchuk"
+    ]
+  },
+  {
+    "slug": "svitlovodsk",
+    "title": "Svitlovodsk",
+    "type": "city in Ukraine",
+    "category": "economy",
+    "summary": "Svitlovodsk is a city situated on the Dnieper River in Oleksandriia Raion, Kirovohrad Oblast, [[ukraine|Ukraine]]. It serves as the administrative center of the Svitlovodsk urban hromada and has an estimated population of approximately 43,130 as of 2022.",
+    "aliases": [
+      "Svitlovodske"
     ]
   },
   {
@@ -6546,6 +6939,14 @@
     ]
   },
   {
+    "slug": "ukrainian-socialist-party",
+    "title": "Ukrainian Socialist Party",
+    "type": "Wikimedia disambiguation page",
+    "category": "politics",
+    "summary": "The Ukrainian Socialist Party refers to several political entities from the 20th century, each contributing to the political landscape of Ukraine. Notably, it includes parties established in 1900 and 1950, as well as the Socialist Party of Ukraine founded in 1991.",
+    "aliases": []
+  },
+  {
     "slug": "ukrainian-soviet-socialist-republic",
     "title": "Ukrainian Soviet Socialist Republic",
     "type": "historical country",
@@ -6830,6 +7231,17 @@
     "aliases": []
   },
   {
+    "slug": "viktor-medvedchuk",
+    "title": "Viktor Medvedchuk",
+    "type": "human",
+    "category": "politics",
+    "summary": "Viktor Volodymyrovych Medvedchuk is a former Ukrainian lawyer, business oligarch, and politician known for his pro-Kremlin stance and close ties to Russian President Vladimir Putin. He has been a significant figure in Ukrainian politics, particularly in relation to the country's geopolitical orientation and internal conflicts.",
+    "aliases": [
+      "Medvedchuk Victor Vladimirovich",
+      "Viktor Volodymyrovych Medvedchuk"
+    ]
+  },
+  {
     "slug": "viktor-tsoi",
     "title": "Viktor Tsoi",
     "type": "human",
@@ -7078,6 +7490,16 @@
     "aliases": []
   },
   {
+    "slug": "vuhledar",
+    "title": "Vuhledar",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "summary": "Vuhledar is a city located in Volnovakha Raion, Donetsk Oblast, eastern [[ukraine|Ukraine]], serving as the administrative center of the Vuhledar urban hromada. Established during the 1960s coal industry development, it has a population of 14,144 as of early 2022 and has been significantly impacted by the ongoing conflict in Ukraine.",
+    "aliases": [
+      "Ugledar"
+    ]
+  },
+  {
     "slug": "vynnyky",
     "title": "Vynnyky",
     "type": "city in Ukraine",
@@ -7158,6 +7580,14 @@
     ]
   },
   {
+    "slug": "women-in-ukraine",
+    "title": "Women in Ukraine",
+    "type": "aspect in a geographic region",
+    "category": "people",
+    "summary": "Women in Ukraine possess equal constitutional rights to men across various sectors, including economic, political, cultural, and social realms. Despite this legal equality, women face significant challenges, particularly in instances of violence and underrepresentation in leadership roles.",
+    "aliases": []
+  },
+  {
     "slug": "yalta",
     "title": "Yalta",
     "type": "human settlement",
@@ -7170,7 +7600,7 @@
     "title": "Yalta Conference",
     "type": "summit",
     "category": "geography",
-    "summary": "The Yalta Conference, held from February 4 to 11, 1945, was a pivotal meeting of the leaders of the United States, the United Kingdom, and the Soviet Union to discuss the postwar reorganization of Europe, including issues directly impacting Ukraine. The conference took place in [[crimea|Crimea]] and set the stage for the political landscape of Eastern Europe after World War II.",
+    "summary": "The Yalta Conference, held from February 4 to 11, 1945, was a pivotal meeting of the leaders of the United States, the United Kingdom, and the Soviet Union to discuss the postwar reorganization of Europe, including issues directly impacting Ukraine. The conference took place in [[crimean-khanate|Crimea]] and set the stage for the political landscape of Eastern Europe after World War II.",
     "aliases": [
       "Argonaut Conference",
       "Crimea Conference"
@@ -7250,7 +7680,7 @@
     "title": "Yevpatoriya",
     "type": "city or town",
     "category": "people",
-    "summary": "Yevpatoriya is a city located in western [[crimea|Crimea]], north of Kalamita Bay, serving as the administrative center of Yevpatoria Municipality. As of the 2014 Census, it had a population of 105,719 and is recognized for its historical significance and contemporary role as a resort town within the context of [[ukraine|Ukraine]].",
+    "summary": "Yevpatoriya is a city located in western Crimea, north of Kalamita Bay, serving as the administrative center of Yevpatoria Municipality. As of the 2014 Census, it had a population of 105,719 and is recognized for its historical significance and contemporary role as a resort town within the context of [[ukraine|Ukraine]].",
     "aliases": [
       "Eupatoria",
       "Yevpatoria",
@@ -7491,6 +7921,16 @@
     "category": "war",
     "summary": "Zolochiv Castle, located in Zolochiv, Lviv Oblast, Ukraine, is a historic residence originally built for the Sobieski noble family in the 17th century. The castle is notable for its architectural style and historical significance, including its use during various military conflicts and its transformation over the centuries.",
     "aliases": []
+  },
+  {
+    "slug": "zolote",
+    "title": "Zolote",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "summary": "Zolote is a city located in Sievierodonetsk Raion, Luhansk Oblast, in eastern Ukraine, with a population of 13,007 as of 2022. The city was formed by merging several villages and has been significantly affected by the ongoing conflict in the Donbas region.",
+    "aliases": [
+      "Zolotoye"
+    ]
   },
   {
     "slug": "zolotonosha",

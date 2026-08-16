@@ -1,0 +1,85 @@
+{
+  "qid": "Q4195890",
+  "slug": "ivano-frankivsk-national-medical-university",
+  "title": "Ivano-Frankivsk National Medical University",
+  "type": "university",
+  "category": "geography",
+  "aliases": [
+    "National Medical University, Ivano-Frankivsk"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1945",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.9216, 24.7088",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Ivano-Frankivsk National Medical University is a state-sponsored higher education institution located in Ivano-Frankivsk, Ukraine, established in 1945. It is recognized for its medical education programs and holds a significant position in the Ukrainian educational landscape as a designated 'National Medical University.'",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Ivano-Frankivsk National Medical University ([[ukrainian|Ukrainian]]: Івано-Франківський національний медичний університет) is a state-sponsored university of higher education situated in [[ivano-frankivsk|Ivano-Frankivsk]], [[ukraine|Ukraine]]. The university is accredited and offers medical education at both undergraduate and postgraduate levels."
+      ]
+    },
+    {
+      "heading": "History and Accreditation",
+      "paragraphs": [
+        "The university's history began in 1945, and it is included in the WHO Directory of Medical Schools as well as the US FAIMER International Medical Education Directory (IMED). It is one of the few medical universities [[coal-in-ukraine|in Ukraine]] that has been granted the title of 'National Medical University' by the [[cabinet-of-ministers-of-ukraine|Ukrainian government]]."
+      ]
+    },
+    {
+      "heading": "Academic Programs",
+      "paragraphs": [
+        "Ivano-Frankivsk National Medical University offers a variety of majors including General Medicine (Doctor of Medicine degree, 6-year course), Dentistry (Doctor of Dentistry degree, 5-year course), Pediatrics (Doctor of Medicine degree, 6-year course), Pharmacy (Bachelor of Pharmacy degree, 5-year course), Nursing (RN, 3- or 4-year course), and Prosthodontics (MDS/Clinical Residency, 2-year course)."
+      ]
+    },
+    {
+      "heading": "Educational and Qualification Levels",
+      "paragraphs": [
+        "The university provides several educational and qualification levels, including Specialist (MD, MDD), Master of Medicine (Pharmacy), and Ph.D."
+      ]
+    },
+    {
+      "heading": "Postgraduate Training",
+      "paragraphs": [
+        "Postgraduate training at Ivano-Frankivsk National Medical University includes internship programs, clinical residencies, master and PhD courses, as well as specialization and post-diploma training for doctors."
+      ]
+    },
+    {
+      "heading": "Notable Alumni",
+      "paragraphs": [
+        "The university has produced several notable alumni, including Nazariy Mykhaylyuk, Shimon Rochkind, and Anatoly Skalny."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "coal-in-ukraine",
+    "ivano-frankivsk",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ivano-Frankivsk National Medical University — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ivano-Frankivsk_National_Medical_University",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

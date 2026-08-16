@@ -1,0 +1,70 @@
+{
+  "qid": "Q4220114",
+  "slug": "kyiv-music-fest",
+  "title": "Kyiv Music Fest",
+  "type": "music festival",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "music festival",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1990",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Kyiv Music Fest is an annual international music festival held in Kyiv, Ukraine, dedicated to showcasing modern Ukrainian classical music and promoting Ukrainian musicians within the global arts context. Established in 1990, the festival has become a significant cultural event [[coal-in-ukraine|in Ukraine]].",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Kyiv Music Fest ([[ukrainian|Ukrainian]]: Київ Музик Фест) is an international music festival that takes place annually in [[kyiv|Kyiv]], [[ukraine|Ukraine]]. The festival is focused on modern Ukrainian classical music and aims to elevate the profile of Ukrainian musicians on the world stage. It is organized by the Ministry of [[culture-of-ukraine|Culture of Ukraine]] and the National Union of Composers of Ukraine."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "First held in 1990, the Kyiv Music Fest was founded by Ukrainian composer Ivan Karabyts, who served as the festival's musical director until 2001. Following him, [[myroslav-skoryk|Myroslav Skoryk]] took over the role from 2002 to 2005 and again from 2013 to 2019. Ivan Nebesnyy directed the festival from 2006 to 2012, and since 2020, Ihor Shcherbakov has been the festival's director."
+      ]
+    },
+    {
+      "heading": "Festival Timing and Venues",
+      "paragraphs": [
+        "The festival is conducted annually from late September to early October. It features a program that includes contemporary works by both Ukrainian and international composers. Notable venues for the festival have included the [[national-opera-of-ukraine|National Opera of Ukraine]], the National Music Conservatory of Ukraine, the National Organ and Chamber Music Hall of Ukraine, the Kyiv Conservatory, the Lysenko Column Hall of the [[national-philharmonic-of-ukraine|National Philharmonic of Ukraine]], and the Kyiv House of Scientists of the [[national-academy-of-sciences-of-ukraine|National Academy of Sciences of Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "The Kyiv Music Fest plays a crucial role in promoting Ukrainian classical music and fostering cultural exchange. By highlighting the works of modern composers, the festival contributes to the international recognition of Ukraine's musical heritage and contemporary artistic expressions."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "culture-of-ukraine",
+    "kyiv",
+    "myroslav-skoryk",
+    "national-academy-of-sciences-of-ukraine",
+    "national-opera-of-ukraine",
+    "national-philharmonic-of-ukraine",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Kyiv Music Fest — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kyiv_Music_Fest",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}

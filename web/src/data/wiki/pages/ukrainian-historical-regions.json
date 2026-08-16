@@ -30,7 +30,7 @@
         "[[polesia|Polesia]], or the Land of Turov, is situated north of Kyiv Oblast and extends into parts of Belarus, while the Land of Pereiaslav primarily covers [[poltava-oblast|Poltava Oblast]] and eastern Kyiv Oblast, marking the southern part of Left-bank Ukraine, also known as [[little-russia|Little Russia]].",
         "The Land of [[chernihiv|Chernihiv]]-Siveria includes [[chernihiv-oblast|Chernihiv Oblast]] and parts of [[sumy-oblast|Sumy Oblast]], representing the northern part of Left-bank Ukraine. [[ruthenia|Ruthenia]], or the Kingdom of Rus, is associated with [[western-ukraine|Western Ukraine]] and Lesser Poland.",
         "[[volhynia|Volhynia]], located in [[volyn-oblast|Volyn Oblast]] and [[rivne-oblast|Rivne Oblast]], was a former principality, while regions like Chełm, Belz, and Przemyśl were part of Ruthenia. Other notable areas include Berestia, [[galicia|Galicia]], Red Ruthenia, and regions such as [[prykarpattia|Prykarpattia]], Pokuttia, and [[podolia|Podolia]], which contribute to the cultural mosaic of Ukraine.",
-        "Sloboda Ukraine, [[zaporizhzhia|Zaporizhzhia]], and the [[donbas|Donbas]] region, known for its historical significance, further illustrate the diverse historical landscape of Ukraine. Additional regions include the Azov Littoral, Black Sea Littoral, and [[crimea|Crimea]], each with its own historical context."
+        "Sloboda Ukraine, [[zaporizhzhia|Zaporizhzhia]], and the [[donbas|Donbas]] region, known for its historical significance, further illustrate the diverse historical landscape of Ukraine. Additional regions include the Azov Littoral, Black Sea Littoral, and [[crimean-khanate|Crimea]], each with its own historical context."
       ]
     },
     {
@@ -45,17 +45,18 @@
       "heading": "Historical States",
       "paragraphs": [
         "Ukraine's historical regions have been shaped by various states throughout history. [[kievan-rus|Kievan Rus]], existing from 879 to 1240, was one of the earliest states of the East Slavs. The [[kingdom-of-galiciavolhynia|Kingdom of Galicia–Volhynia]], which lasted from 1199 to 1349, and the [[cossack-hetmanate|Cossack Hetmanate]] from 1649 to 1764, are notable historical entities.",
-        "The 20th century saw the emergence of several short-lived governments, including the Central [[verkhovna-rada|Rada]] of the [[ukrainian-peoples-republic|Ukrainian People's Republic]] (1917–1918), the Odesa Soviet Republic (1918), and the [[west-ukrainian-peoples-republic|West Ukrainian People's Republic]] (1918–1919). The [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]] existed from 1919 to 1991, followed by the establishment of an [[independent-ukraine|independent Ukraine]] in 1991."
+        "The 20th century saw the emergence of several short-lived governments, including the [[central-rada|Central Rada]] of the [[ukrainian-peoples-republic|Ukrainian People's Republic]] (1917–1918), the Odesa Soviet Republic (1918), and the [[west-ukrainian-peoples-republic|West Ukrainian People's Republic]] (1918–1919). The [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]] existed from 1919 to 1991, followed by the establishment of an [[independent-ukraine|independent Ukraine]] in 1991."
       ]
     }
   ],
   "links_out": [
     "administrative-territorial-entity-of-ukraine",
+    "central-rada",
     "cherkasy-oblast",
     "chernihiv",
     "chernihiv-oblast",
     "cossack-hetmanate",
-    "crimea",
+    "crimean-khanate",
     "dnieper-ukraine",
     "donbas",
     "galicia",
@@ -78,7 +79,6 @@
     "ukraine",
     "ukrainian-peoples-republic",
     "ukrainian-soviet-socialist-republic",
-    "verkhovna-rada",
     "volhynia",
     "volyn-oblast",
     "west-ukrainian-peoples-republic",

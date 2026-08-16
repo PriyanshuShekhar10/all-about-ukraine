@@ -1,0 +1,86 @@
+{
+  "qid": "Q1859524",
+  "slug": "viktor-medvedchuk",
+  "title": "Viktor Medvedchuk",
+  "type": "human",
+  "category": "politics",
+  "aliases": [
+    "Medvedchuk Victor Vladimirovich",
+    "Viktor Volodymyrovych Medvedchuk"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1954-08-07",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Pochet",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "People's Deputy of Ukraine, People's Deputy of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Viktor Volodymyrovych Medvedchuk is a former Ukrainian lawyer, business oligarch, and politician known for his pro-Kremlin stance and close ties to Russian President Vladimir Putin. He has been a significant figure in Ukrainian politics, particularly in relation to the country's geopolitical orientation and internal conflicts.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Viktor Medvedchuk was born on 7 August 1954 in Pochet, Krasnoyarsk Krai, Russian SFSR. His father, Volodymyr Medvedchuk, faced imprisonment due to his involvement in [[ukrainian|Ukrainian]] nationalistic activities during World War II. The family returned to the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] in the mid-1960s, settling in Kornyn, [[zhytomyr-oblast|Zhytomyr Oblast]]. Medvedchuk graduated from high school in Borova, [[fastiv|Fastiv]] Raion in 1971 and later enrolled at the Law School of KSU Shevchenko, where he graduated in 1978 as a lawyer."
+      ]
+    },
+    {
+      "heading": "Legal Career and Political Involvement",
+      "paragraphs": [
+        "Medvedchuk began his legal career in 1979 and represented several dissidents, including poet Yuriy Lytvyn and [[vasyl-stus|Vasyl Stus]]. His defense strategies were criticized, particularly in the case of Stus, who ultimately died in a Soviet labor camp. In the early 1990s, he founded a successful legal firm and became a prominent political figure, joining the [[social-democratic-party-of-ukraine-united|Social Democratic Party of Ukraine]] in 1994.",
+        "Medvedchuk was first elected to the [[verkhovna-rada|Verkhovna Rada]] in 1997 and served multiple terms, including as First Deputy Chairman. He was head of the Presidential Administration under President [[leonid-kuchma|Leonid Kuchma]] from 2002 to 2005."
+      ]
+    },
+    {
+      "heading": "Recent Political Activities and Legal Troubles",
+      "paragraphs": [
+        "In 2018, Medvedchuk became chairman of the pro-Russian political organization Ukrainian Choice and was elected as a People's Deputy of [[ukraine|Ukraine]] on 29 August 2019. He opposed Ukraine's integration into the European Union. Following accusations of financing terrorism and treason related to [[crimean-khanate|Crimea]], he faced legal challenges, including house arrest and eventual arrest by the [[security-service-of-ukraine|Security Service of Ukraine]] in April 2022.",
+        "On 21 September 2022, Medvedchuk was exchanged for Ukrainian prisoners of war and subsequently fled to Russia. On 13 January 2023, he was stripped of his position as a people's deputy by the Verkhovna Rada."
+      ]
+    },
+    {
+      "heading": "Controversies and Influence",
+      "paragraphs": [
+        "Medvedchuk's political career has been marked by controversies, including allegations of involvement in suppressing the [[euromaidan|Euromaidan]] protests and connections to pro-[[kremlin|Kremlin]] activities. His close relationship with Russian President [[vladimir-putin|Vladimir Putin]] has positioned him as a polarizing figure [[coal-in-ukraine|in Ukraine]]'s political landscape, especially during times of heightened tensions between Ukraine and Russia."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "crimean-khanate",
+    "euromaidan",
+    "fastiv",
+    "kremlin",
+    "leonid-kuchma",
+    "security-service-of-ukraine",
+    "social-democratic-party-of-ukraine-united",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "vasyl-stus",
+    "verkhovna-rada",
+    "vladimir-putin",
+    "zhytomyr-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Viktor Medvedchuk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Viktor_Medvedchuk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-16",
+  "status": "published"
+}
