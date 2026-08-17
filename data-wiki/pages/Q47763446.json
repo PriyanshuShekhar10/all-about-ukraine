@@ -1,0 +1,48 @@
+{
+  "qid": "Q47763446",
+  "slug": "battle-of-donetsk-airport",
+  "title": "Battle of Donetsk Airport",
+  "type": "Wikimedia disambiguation page",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": [
+      {
+        "label": "Location",
+        "value": "Donetsk",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The Battle of Donetsk Airport was a significant military conflict during the ongoing [[full-scale-russo-ukrainian-war|war in Ukraine]], occurring in two distinct phases. It involved intense fighting for control of the strategically important [[donetsk|Donetsk]] Airport, reflecting the broader conflict between [[ukrainian|Ukrainian]] forces and separatist groups.",
+  "sections": [
+    {
+      "heading": "First Battle of Donetsk Airport",
+      "paragraphs": [
+        "The First Battle of Donetsk Airport occurred on 26–27 May 2014. This initial confrontation marked the beginning of the struggle for control over the airport, which was a critical asset in the region."
+      ]
+    },
+    {
+      "heading": "Second Battle of Donetsk Airport",
+      "paragraphs": [
+        "The Second Battle of Donetsk Airport took place from 28 September 2014 until 21 January 2015. This extended engagement was characterized by prolonged and fierce fighting, underscoring the significance of the airport in the context of the conflict in eastern [[ukraine|Ukraine]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "donetsk",
+    "full-scale-russo-ukrainian-war",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Battle of Donetsk Airport — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Donetsk_Airport",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

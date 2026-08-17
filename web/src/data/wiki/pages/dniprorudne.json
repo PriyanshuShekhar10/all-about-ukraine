@@ -1,0 +1,92 @@
+{
+  "qid": "Q760599",
+  "slug": "dniprorudne",
+  "title": "Dniprorudne",
+  "type": "city in Ukraine",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1961",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "18,468",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "7",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "86",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "47.3907, 35.0027",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Dniprorudne is a city located in the Vasylivka Raion of Zaporizhzhia Oblast, Ukraine, with a population of 17,736 as of 2022. It has been recognized as a city since 1970 and has played a significant role during the ongoing conflict [[coal-in-ukraine|in Ukraine]].",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Context",
+      "paragraphs": [
+        "Dniprorudne is situated in the [[vasylivka|Vasylivka]] Raion within the [[zaporizhzhia-oblast|Zaporizhzhia Oblast]] of [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Dniprorudne has held city status since 1970.",
+        "In the early stages of the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], the city was captured by Russian forces.",
+        "On 13 March 2022, the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] reported the abduction of Dniprorudne's mayor, Yevhen Matvieyev, by the Russian military. Matvieyev had been actively protesting against the Russian occupation, including a demonstration on 27 February aimed at preventing Russian tanks from entering the city.",
+        "On 4 December 2024, the Ukrainian government announced that Matvieyev had died in Russian captivity under torture, and his body was subsequently returned to Ukraine."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "As of January 1989, Dniprorudne had a population of 22,773.",
+        "By 2001, the population had decreased to 21,271. The demographic composition is predominantly [[ukrainian|Ukrainian]], with Russians representing the largest minority. The city exhibits a nearly equal distribution of Ukrainian and Russian speakers."
+      ]
+    },
+    {
+      "heading": "Transport",
+      "paragraphs": [
+        "Dniprorudne features an inland port, contributing to its logistical and transport capabilities."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "cabinet-of-ministers-of-ukraine",
+    "coal-in-ukraine",
+    "ukraine",
+    "ukrainian",
+    "vasylivka",
+    "zaporizhzhia-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Dniprorudne — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dniprorudne",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

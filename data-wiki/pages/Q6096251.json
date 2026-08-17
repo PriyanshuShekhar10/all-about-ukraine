@@ -1,0 +1,63 @@
+{
+  "qid": "Q6096251",
+  "slug": "ivan-franko-museum",
+  "title": "Ivan Franko Museum",
+  "type": "museum",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "museum",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Canada",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Winnipeg",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.9179, -97.1485",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Ivan Franko Museum is a dedicated institution honoring the legacy of Ukrainian writer and poet Ivan Franko, located in Winnipeg, Manitoba, Canada. It serves as a cultural hub for the Ukrainian community and operates primarily through volunteer efforts.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Ivan Franko Museum is dedicated to the life and works of [[ivan-franko|Ivan Franko]], who lived from 1856 to 1916. Franko is a significant figure in [[ukrainian-literature|Ukrainian literature]] and culture."
+      ]
+    },
+    {
+      "heading": "Location and Historical Significance",
+      "paragraphs": [
+        "The museum is situated within the [[ukrainian|Ukrainian]] Labour Temple at 591 Pritchard Avenue, which is recognized as a designated national historic site in Canada."
+      ]
+    },
+    {
+      "heading": "Operational Structure",
+      "paragraphs": [
+        "The museum primarily relies on the efforts of volunteers for its operations and is supported financially by community contributions. Admission to the museum has always been free, making it accessible to the public."
+      ]
+    }
+  ],
+  "links_out": [
+    "ivan-franko",
+    "ukrainian",
+    "ukrainian-literature"
+  ],
+  "sources": [
+    {
+      "title": "Ivan Franko Museum — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ivan_Franko_Museum",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

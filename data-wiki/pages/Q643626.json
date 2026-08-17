@@ -1,0 +1,76 @@
+{
+  "qid": "Q643626",
+  "slug": "aptiv",
+  "title": "Aptiv",
+  "type": "business",
+  "category": "war",
+  "aliases": [
+    "Aptiv PLC"
+  ],
+  "infobox": {
+    "label": "business",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2009-10-06",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "United Kingdom",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Dublin",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Aptiv PLC is an automotive technology and components supplier, originally part of General Motors, with significant operations in Ukraine and a global presence in 50 countries. The company has evolved through various corporate changes and now focuses on advanced automotive technologies, including autonomous driving solutions.",
+  "sections": [
+    {
+      "heading": "Company Overview",
+      "paragraphs": [
+        "Aptiv PLC, organized in Jersey and a tax resident of Schaffhausen, Switzerland, is a prominent supplier of automotive technology and components. The company operates 139 major manufacturing facilities and 11 major technical centers worldwide, including a notable presence [[coal-in-ukraine|in Ukraine]], contributing to its global operations across 50 countries."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The origins of Aptiv trace back to 1994 when it was established as the Automotive Components Group of General Motors (GM). It was renamed Delphi Automotive Systems in 1995. Following GM's corporate spin-off in May 1999, Delphi began shifting both factory and white-collar jobs to lower-cost countries, which included significant operational adjustments over the years."
+      ]
+    },
+    {
+      "heading": "Financial Challenges and Bankruptcy",
+      "paragraphs": [
+        "In the early 2000s, Delphi faced severe financial difficulties, leading to a bankruptcy filing in October 2005 due to unsustainable labor costs and pension obligations. The company reported losses of $4.8 billion in 2004 and $2.4 billion in 2005. The bankruptcy process concluded in October 2009, resulting in a reorganization that included relinquishing pension obligations to the Pension Benefit Guaranty Corporation."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "In recent years, Aptiv has focused on innovations in automotive technology, including the establishment of a joint venture with Hyundai Motor Group for autonomous driving, named Motional. The company has also made strategic acquisitions, such as Wind River Systems in January 2022, and expanded its technological capabilities with a new self-driving car platform introduced in January 2021."
+      ]
+    },
+    {
+      "heading": "Impact on Ukraine",
+      "paragraphs": [
+        "Aptiv's operations in Ukraine contribute to the local economy through manufacturing and technology development, aligning with the country's growing automotive sector. The company's global strategies and technological advancements have implications for [[ukraine|Ukraine]]'s automotive industry, particularly in the areas of innovation and employment."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Aptiv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aptiv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

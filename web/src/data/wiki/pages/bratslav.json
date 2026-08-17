@@ -1,0 +1,103 @@
+{
+  "qid": "Q903241",
+  "slug": "bratslav",
+  "title": "Bratslav",
+  "type": "urban-type settlement in Ukraine",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "urban-type settlement in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1362",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "355",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "19",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "201",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.8147, 28.9447",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Bratslav is a rural settlement [[coal-in-ukraine|in Ukraine]], situated in Tulchyn Raion of Vinnytsia Oblast, along the Southern Bug river. Historically significant, it served as a regional center in the Eastern [[podolia|Podolia]] region and was recognized as a medieval city with a population of 4,872 as of 2022.",
+  "sections": [
+    {
+      "heading": "Geographical and Demographic Overview",
+      "paragraphs": [
+        "Bratslav, known in [[ukrainian|Ukrainian]] as Брацлав and in Yiddish as בראַסלעװ, is located in the Tulchyn Raion of [[vinnytsia-oblast|Vinnytsia Oblast]], [[ukraine|Ukraine]]. The settlement lies by the [[southern-bug|Southern Bug]] river and had an estimated population of 4,872 in 2022."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "The first recorded mention of Bratslav dates to 1362. The settlement was granted city status with Magdeburg Rights in 1564. Initially part of the Grand Duchy of Lithuania, it became a voivodeship center in the Crown of the Kingdom of Poland following the Lublin Union of 1569.",
+        "Bratslav was a royal town governed by starostas and was notable for its fertile land, classified as chernozem. It was the capital of the Bracław Voivodeship, which lasted over 200 years. The town's coat of arms was granted in 1589, featuring a cross on a red field.",
+        "Throughout its history, Bratslav faced numerous challenges, including Tatar raids that led to the destruction of its castle. It became a Cossack regimental city during the [[bohdan-khmelnytsky|Bohdan Khmelnytsky]] rebellion in 1648 and was later part of the Russian Empire after the Second Partition of Poland in 1793."
+      ]
+    },
+    {
+      "heading": "Cultural and Religious Heritage",
+      "paragraphs": [
+        "Bratslav is significant in Jewish history as the residence of Rabbi Nachman, the founder of Breslover Hasidism, who lived there from 1802 to 1810. The town experienced severe persecution of its Jewish community following the 1917 Russian revolution, exemplified by the life of Rabbi Moishe Yankel Rabinovich, who served from 1919 to 1968."
+      ]
+    },
+    {
+      "heading": "Impact of World War II",
+      "paragraphs": [
+        "During World War II, Bratslav was occupied by German and Romanian forces on 22 July 1941, leading to the establishment of a ghetto for local Jews. By the end of December 1941, there were 747 Jews in Bratslav. Most were transferred to extermination camps in January 1942, and many were executed in the following months.",
+        "Bratslav remained under Romanian control until it was recaptured by the Red Army on 17 March 1944."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "As of 26 January 2024, Bratslav transitioned from an urban-type settlement to a rural settlement due to the enactment of a new law."
+      ]
+    },
+    {
+      "heading": "Notable Figures",
+      "paragraphs": [
+        "Among notable individuals from Bratslav are Ivan Bohun, a Ukrainian Cossack, and Ivan Volosheniuk, a Ukrainian writer."
+      ]
+    }
+  ],
+  "links_out": [
+    "bohdan-khmelnytsky",
+    "coal-in-ukraine",
+    "podolia",
+    "southern-bug",
+    "ukraine",
+    "ukrainian",
+    "vinnytsia-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Bratslav — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bratslav",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

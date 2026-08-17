@@ -1,0 +1,65 @@
+{
+  "qid": "Q597506",
+  "slug": "first-partition-of-poland",
+  "title": "First Partition of Poland",
+  "type": "aspect of history",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "aspect of history",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "1772",
+        "source": "wikidata:P585"
+      }
+    ]
+  },
+  "summary": "The First Partition of Poland occurred in 1772 and marked the beginning of the end for the Polish–Lithuanian Commonwealth, which was ultimately dissolved by 1795. This event significantly impacted [[ukraine|Ukraine]], as it involved territorial changes that affected the region's political landscape.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "By the late 18th century, the Polish–Lithuanian Commonwealth had diminished from a European power to a state under heavy influence from the Russian Empire, which effectively controlled the election of Polish–Lithuanian monarchs. The Repnin Sejm of 1767–68 exemplified this influence, as it was presided over by the Russian ambassador."
+      ]
+    },
+    {
+      "heading": "Motivations for the Partition",
+      "paragraphs": [
+        "The First Partition was driven by the rising power of the Russian Empire, which threatened both the Kingdom of Prussia and the Habsburg monarchy. Frederick the Great of Prussia orchestrated the partition to prevent Austria from engaging in war against Russia, as Austria was concerned about Russian victories in the Russo-Turkish War."
+      ]
+    },
+    {
+      "heading": "Execution of the Partition",
+      "paragraphs": [
+        "The partition agreement was signed on February 19, 1772, in Vienna, following a previous agreement in Saint Petersburg on February 6, 1772. In August of that year, troops from Russia, Prussia, and Austria entered the Commonwealth to occupy the agreed-upon territories."
+      ]
+    },
+    {
+      "heading": "Territorial Changes",
+      "paragraphs": [
+        "The partition resulted in the loss of approximately 211,000 square kilometres (30% of the Commonwealth's territory) and affected over four million people. Prussia gained significant territories, including parts of Royal Prussia and northern Greater Poland, while Austria acquired regions in Little Poland and [[galicia|Galicia]]. Russia took control of the northeastern territories, including parts of modern Belarus and Livonia."
+      ]
+    },
+    {
+      "heading": "Aftermath and Impact",
+      "paragraphs": [
+        "Following the partition, King Stanisław August Poniatowski sought assistance from Western Europe but received little support. The partitioning powers compelled the Sejm to approve their actions through military pressure, leading to significant political and social upheaval within the Commonwealth, including [[coal-in-ukraine|in Ukraine]], where the effects of the partition were felt deeply."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "galicia",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "First Partition of Poland — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/First_Partition_of_Poland",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

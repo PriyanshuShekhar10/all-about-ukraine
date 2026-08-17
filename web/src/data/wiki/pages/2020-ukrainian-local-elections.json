@@ -1,0 +1,87 @@
+{
+  "qid": "Q96919809",
+  "slug": "2020-ukrainian-local-elections",
+  "title": "2020 Ukrainian local elections",
+  "type": "municipal election",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "municipal election",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2020-10-25",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The 2020 Ukrainian local elections, held on 25 October 2020, involved the election of deputies to district councils, rural townships, and city mayors, with a significant impact on local governance [[coal-in-ukraine|in Ukraine]]. The elections were marked by a low voter turnout and the absence of elections in certain regions due to ongoing conflict.",
+  "sections": [
+    {
+      "heading": "Election Overview",
+      "paragraphs": [
+        "The 2020 Ukrainian local elections occurred on Sunday, 25 October 2020, where voters elected deputies for district councils and rural townships, as well as city mayors. Most voters were required to complete four ballots. Subsequent rounds of mayoral elections took place on 15, 22, and 29 November, and 6 December 2020, specifically in cities with populations exceeding 75,000 where no candidate received more than 50% of the votes.",
+        "Due to the 2014 [[russian-annexation-of-crimea|Russian annexation of Crimea]] and the loss of government control in parts of [[donetsk|Donetsk]] and [[luhansk|Luhansk]] Oblasts, elections were not conducted in these areas or in the Autonomous Republic of [[crimean-khanate|Crimea]]. Additionally, elections were held in new raions established following the 2020 administrative reform."
+      ]
+    },
+    {
+      "heading": "Election Results",
+      "paragraphs": [
+        "The [[central-election-commission-of-ukraine|Central Election Commission of Ukraine]] reported that the party [[servant-of-the-people|Servant of the People]] secured the highest number of seats, winning 17.59% of local deputies. Fatherland followed with 12.39%, and Opposition Platform — For Life garnered 11.75%. Other parties such as For the Future, [[european-solidarity|European Solidarity]], and Our Land received 11.42%, 10.73%, and 5.13% of the seats, respectively.",
+        "Independent candidates achieved significant success, winning 661 mayoral elections. Among the 733 elected mayors, Servant of the People candidates constituted 30.74%, while For the Future, Fatherland, Opposition Platform — For Life, Our Land, and European Solidarity accounted for smaller percentages. Voter turnout on the election day was 36.88%, a decrease from nearly 47% in the 2015 local elections."
+      ]
+    },
+    {
+      "heading": "Electoral System and Campaign",
+      "paragraphs": [
+        "This election marked the first instance where candidates were required to pay a cash deposit to participate, with amounts varying based on the population of the locality. For example, mayoral candidates in [[kyiv|Kyiv]] faced a deposit of 445,000 hryvnias, while those in smaller cities had significantly lower amounts.",
+        "The election campaign officially commenced on 5 September 2020, although political advertising began appearing on streets in late June. The [[verkhovna-rada|Ukrainian parliament]] announced the election date on 15 July 2020."
+      ]
+    },
+    {
+      "heading": "Voter Turnout and Demographics",
+      "paragraphs": [
+        "Nationwide voter turnout was reported at 36.88%, with the highest participation rates observed in [[western-ukraine|Western Ukraine]], ranging from 40% to 45%. In contrast, turnout was lower in regions such as Donetsk, [[mykolaiv|Mykolaiv]], and [[kharkiv-oblast|Kharkiv]] Oblasts, where it slightly exceeded 30%. The COVID-19 pandemic was cited by many voters as a reason for not participating.",
+        "During the second round of mayoral elections in several cities, the average turnout was 24%, with [[kamianets-podilskyi|Kamianets-Podilskyi]] recording the highest at 34.29% and [[sumy|Sumy]] the lowest at 19.02%."
+      ]
+    },
+    {
+      "heading": "Mayoral Elections in Key Cities",
+      "paragraphs": [
+        "In Kyiv, incumbent Mayor [[vitali-klitschko|Vitali Klitschko]] was re-elected in the first round, receiving 50.52% of the votes, totaling 365,161 votes. He was nominated by the UDAR party. Other candidates included Oleksandr Popov from Opposition Platform — For Life, who came in second with 68,757 votes, and Serhiy Prytula from the Voice party, who received 56,900 votes."
+      ]
+    }
+  ],
+  "links_out": [
+    "central-election-commission-of-ukraine",
+    "coal-in-ukraine",
+    "crimean-khanate",
+    "donetsk",
+    "european-solidarity",
+    "kamianets-podilskyi",
+    "kharkiv-oblast",
+    "kyiv",
+    "luhansk",
+    "mykolaiv",
+    "russian-annexation-of-crimea",
+    "servant-of-the-people",
+    "sumy",
+    "verkhovna-rada",
+    "vitali-klitschko",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "2020 Ukrainian local elections — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2020_Ukrainian_local_elections",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

@@ -1,0 +1,92 @@
+{
+  "qid": "Q12164283",
+  "slug": "hungaryukraine-relations",
+  "title": "Hungary–Ukraine relations",
+  "type": "bilateral relation",
+  "category": "politics",
+  "aliases": [
+    "Hungary-Ukraine relations",
+    "Ukraine-Hungary relations",
+    "Ukraine–Hungary relations"
+  ],
+  "infobox": {
+    "label": "bilateral relation",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1991-12-03",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Hungary",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Hungary–Ukraine relations have evolved since the early 1990s, shaped by historical ties and contemporary political issues, particularly concerning the rights of the Hungarian minority [[coal-in-ukraine|in Ukraine]]'s Zakarpattia region. The bilateral relationship has experienced significant fluctuations due to language laws, military base controversies, and energy agreements.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The modern bilateral relationship between Hungary and [[ukraine|Ukraine]] formally commenced in the early 1990s, following the end of communism in Hungary in 1989 and Ukraine's independence from [[soviet-union|the Soviet Union]] in 1991. Historical interactions date back to the late 9th century, during the Hungarian conquest of the Carpathian Basin, when Hungarians crossed the [[dnieper|Dnieper river]] near [[kyiv|Kyiv]], leading to peaceful passage through the city.",
+        "In 895, the Hungarians entered the Pannonian Basin through the Verecke Pass, located in present-day Ukraine, establishing the Kingdom of Hungary. A monument commemorating this passage was authorized by Ukraine in 1996 and completed in 2008."
+      ]
+    },
+    {
+      "heading": "Contemporary Relations",
+      "paragraphs": [
+        "Since the early 1990s, Hungary and Ukraine have maintained embassies in each other's capitals, with consulates in regions with significant minority populations. Relations remained largely positive until 2017, when the [[ukrainian|Ukrainian]] Education Law was enacted, mandating the use of Ukrainian as the language of instruction in state schools beyond the fifth grade. This law affected schools in Hungarian-majority areas of [[transcarpathia|Zakarpattia]], leading to tensions between the two nations.",
+        "Hungarian Minister of Foreign Affairs Péter Szijjártó responded by announcing Hungary would block Ukraine's integration into NATO and the European Union, marking a shift in Hungary's foreign policy towards Ukraine."
+      ]
+    },
+    {
+      "heading": "Key Issues and Tensions",
+      "paragraphs": [
+        "The 2017 language law triggered a rapid deterioration in relations, resulting in Hungary vetoing a NATO-Ukraine commission meeting. Ukrainian concessions included extending the transition period for the language law to 2023.",
+        "In March 2018, Ukraine's announcement to restore a military base in Berehove, a predominantly ethnic Hungarian area, drew immediate criticism from Hungary, which reiterated its stance on blocking Ukraine's NATO and EU integration until its concerns were addressed."
+      ]
+    },
+    {
+      "heading": "Hungarian Citizenship and Political Influence",
+      "paragraphs": [
+        "In September 2018, a video surfaced showing Hungarian diplomats in Berehove distributing Hungarian passports to Ukrainian citizens, which escalated tensions. Ukraine expelled the local Hungarian consul, leading to reciprocal actions from Hungary.",
+        "During the 2019 Ukrainian parliamentary election, Hungary attempted to influence the election results in favor of the Party of Hungarians of Ukraine, which led to accusations from the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] of violating international diplomatic norms."
+      ]
+    },
+    {
+      "heading": "Energy Agreements and Recent Developments",
+      "paragraphs": [
+        "On 27 September 2021, Hungary signed a 15-year natural gas contract with Gazprom, bypassing Ukraine and straining relations further. Ukraine condemned the deal, asserting it undermined both national security and bilateral relations.",
+        "In December 2021, Hungary signed an agreement to transport natural gas through Ukraine, indicating a potential thaw in relations as both nations expressed intentions to improve bilateral ties."
+      ]
+    },
+    {
+      "heading": "Response to the Russian Invasion of Ukraine",
+      "paragraphs": [
+        "In 2022, following the onset of the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], Hungarian leaders condemned the invasion and expressed support for Ukraine. This marked a significant moment in Hungary's political stance regarding the conflict, emphasizing [[european-solidarity|solidarity]] with Ukraine amidst ongoing tensions."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "coal-in-ukraine",
+    "dnieper",
+    "european-solidarity",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "soviet-union",
+    "transcarpathia",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Hungary–Ukraine relations — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hungary–Ukraine_relations",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

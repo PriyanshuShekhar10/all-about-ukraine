@@ -1,0 +1,63 @@
+{
+  "qid": "Q18229688",
+  "slug": "battle-of-mariupol",
+  "title": "Battle of Mariupol",
+  "type": "Wikimedia disambiguation page",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "The Battle of Mariupol encompasses several significant military engagements that have occurred in the city of Mariupol, Ukraine, highlighting its strategic importance in various conflicts involving Ukrainian forces and opposing factions.",
+  "sections": [
+    {
+      "heading": "Battle of Mariupol (1919)",
+      "paragraphs": [
+        "The first Battle of Mariupol took place in 1919, during the conflict between [[ukrainian-soviet-socialist-republic|Soviet Ukraine]] and the volunteer army of the Russian White Movement. This battle was part of the broader struggle for control over [[ukraine|Ukraine]] in the aftermath of the Russian Revolution."
+      ]
+    },
+    {
+      "heading": "Battle of Mariupol (May–June 2014)",
+      "paragraphs": [
+        "The second Battle of Mariupol occurred between May and June 2014, amidst the conflict between Ukraine and [[donetsk-peoples-republic|the Donetsk People's Republic]]. This battle was significant as it represented the ongoing tensions in Eastern Ukraine following the [[russian-annexation-of-crimea|annexation of Crimea by Russia]]."
+      ]
+    },
+    {
+      "heading": "Battle of Mariupol (September 2014)",
+      "paragraphs": [
+        "In September 2014, a subsequent Battle of Mariupol took place, again involving the Donetsk People's Republic and [[ukrainian|Ukrainian]] forces. This engagement further underscored the strategic importance of [[mariupol|Mariupol]] in the ongoing conflict in Eastern Ukraine."
+      ]
+    },
+    {
+      "heading": "Siege of Mariupol (2022)",
+      "paragraphs": [
+        "The [[siege-of-mariupol|Siege of Mariupol]] in 2022 marked a critical and devastating phase of the conflict between Russia and Ukraine. This siege drew international attention due to the severe humanitarian crisis and the strategic implications for control over the region."
+      ]
+    },
+    {
+      "heading": "Related Incidents",
+      "paragraphs": [
+        "Additionally, the January 2015 Mariupol rocket attack involved an artillery barrage by the Donetsk People's Republic, further illustrating the ongoing violence and instability in the region surrounding Mariupol."
+      ]
+    }
+  ],
+  "links_out": [
+    "donetsk-peoples-republic",
+    "mariupol",
+    "russian-annexation-of-crimea",
+    "siege-of-mariupol",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Battle of Mariupol — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Mariupol",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

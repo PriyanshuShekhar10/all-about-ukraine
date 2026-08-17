@@ -1,0 +1,79 @@
+{
+  "qid": "Q4294532",
+  "slug": "ministry-of-education-and-science-of-ukraine",
+  "title": "Ministry of Education and Science of Ukraine",
+  "type": "ministry of education",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "ministry of education",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1992",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Ministry of Education and Science of Ukraine is the principal executive authority responsible for education and scientific development [[coal-in-ukraine|in Ukraine]]. Established in its modern form in 1992, the ministry has undergone various reorganizations and plays a crucial role in shaping the educational landscape of the country.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The Ministry of Education and Science of Ukraine traces its origins to 28 June 1917, when Ivan Steshenko was appointed Secretary of Education in the First Vynnychenko government of the [[ukrainian-peoples-republic|Ukrainian People's Republic]]. The Ukrainian People's Republic ceased to exist following the 1921 Treaty of Riga, which divided its territory between Poland and [[soviet-union|the Soviet Union]].",
+        "The contemporary Ministry of Education was established on 8 July 1992 through the merger of two significant entities from the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]: the Ministry of Higher and Middle Specialized Education and the State Committee on Vocational-Technical Education. Prior to this, in 1991, there were two separate ministries overseeing education, namely the National and Higher ministries.",
+        "From 9 December 2010 to 28 February 2013, the Ministry of Education and Science was temporarily combined with the Ministry of Youth and Sports under the leadership of Dmytro Tabachnyk. Following a reorganization by President [[viktor-yanukovych|Viktor Yanukovych]] on 28 February 2013, the Ministry of Education and Science of Ukraine was reestablished alongside the Ministry of Youth and Sports."
+      ]
+    },
+    {
+      "heading": "Structure",
+      "paragraphs": [
+        "The Ministry of Education and Science of Ukraine is structured as a central body led by a minister, a first deputy, and several other deputies who assist the minister in various capacities. The ministry also includes representatives from state administrations that specialize in specific fields and coordinate the operations of government entities."
+      ]
+    },
+    {
+      "heading": "State and Former Agencies",
+      "paragraphs": [
+        "Among the state agencies under the Ministry is the State Service for Intellectual Property of [[ukraine|Ukraine]].",
+        "Former agencies include the Ministry of Education and Science, Youth and Sports of Ukraine, which was dissolved after its operation from 2010 to 2013, and the State Agency of Science, Innovations, and Informativeness of Ukraine."
+      ]
+    },
+    {
+      "heading": "List of Ministers",
+      "paragraphs": [
+        "The ministry has had a series of ministers since its inception, including those from the Ukrainian People's Republic, the [[ukrainian-state|Ukrainian State]], the [[west-ukrainian-peoples-republic|West Ukrainian People's Republic]], the Directorate of the Ukrainian People's Republic, and various periods of the [[ukrainian|Ukrainian]] Socialist Soviet Republic, culminating in the ministers of [[independent-ukraine|independent Ukraine]] since 1991."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "independent-ukraine",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainian-state",
+    "viktor-yanukovych",
+    "west-ukrainian-peoples-republic"
+  ],
+  "sources": [
+    {
+      "title": "Ministry of Education and Science of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ministry_of_Education_and_Science_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

@@ -1,0 +1,75 @@
+{
+  "qid": "Q50986580",
+  "slug": "roman-sushchenko",
+  "title": "Roman Sushchenko",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Roman Volodymyrovych Sushchenko"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1969-02-09",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Mykolaiv",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Roman Volodymyrovych Sushchenko is a Ukrainian journalist and artist, notable for his arrest in Russia on espionage charges in 2016 and subsequent detention until his release in 2019. His case has drawn significant attention and criticism from various Ukrainian and international organizations.",
+  "sections": [
+    {
+      "heading": "Early Life and Career",
+      "paragraphs": [
+        "Roman Sushchenko was born on 8 February 1969 in [[cherkasy|Cherkasy]], [[ukraine|Ukraine]]. He began his journalism career in 2002 with Ukrinform, Ukraine's state news agency, and later worked in France from 2010, where he became a prominent critic of Russian propaganda.",
+        "In addition to journalism, Sushchenko is an artist, with his works exhibited [[coal-in-ukraine|in Ukraine]], Poland, and France."
+      ]
+    },
+    {
+      "heading": "Detention in Russia",
+      "paragraphs": [
+        "On 30 September 2016, Sushchenko was arrested in Moscow on espionage charges, with the Russian Federal Security Service accusing him of spying for the Chief Directorate of Intelligence of the [[ministry-of-defence-of-ukraine|Ministry of Defence of Ukraine]]. Both Sushchenko and the [[ukrainian|Ukrainian]] Ministry of Defense denied these allegations.",
+        "The Ukrainian Foreign Ministry condemned the arrest, describing it as part of Russia's strategy to use [[ukrainians|Ukrainians]] as political hostages amid ongoing hybrid aggression against Ukraine. On 4 June 2018, the Moscow City Court sentenced Sushchenko to 12 years in a maximum security prison, a verdict denounced by [[president-of-ukraine|Ukrainian President]] [[petro-poroshenko|Petro Poroshenko]] as based on false charges."
+      ]
+    },
+    {
+      "heading": "Reactions and Advocacy",
+      "paragraphs": [
+        "Sushchenko's detention prompted widespread condemnation from various organizations. Shortly before his sentencing, he received the Ukrainian Ihor Lubchenko prize for defending freedom of speech. International entities such as PEN America and the Committee to Protect Journalists criticized the lack of evidence supporting the charges against him.",
+        "The European Parliament, on 16 March 2018, included Sushchenko among 30 Ukrainian citizens it deemed illegally detained in Russia, calling for their release. Additionally, the Sejm of Poland passed a resolution on 15 June 2018 advocating for the release of political prisoners, including Sushchenko."
+      ]
+    },
+    {
+      "heading": "Release",
+      "paragraphs": [
+        "Roman Sushchenko was released on 7 September 2019 as part of a prisoner swap between Russia and Ukraine, involving 35 prisoners on each side. Upon his return to [[kyiv|Kyiv]], he was welcomed by President Volodymyr Zelensky and his family."
+      ]
+    }
+  ],
+  "links_out": [
+    "cherkasy",
+    "coal-in-ukraine",
+    "kyiv",
+    "ministry-of-defence-of-ukraine",
+    "petro-poroshenko",
+    "president-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Roman Sushchenko — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Roman_Sushchenko",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

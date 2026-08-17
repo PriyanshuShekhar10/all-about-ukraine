@@ -1,0 +1,83 @@
+{
+  "qid": "Q2019437",
+  "slug": "olesko",
+  "title": "Olesko",
+  "type": "urban-type settlement in Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "urban-type settlement in Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "1,446",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "1",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "232",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.9667, 24.8833",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Olesko is a rural settlement located in Zolochiv Raion of Lviv Oblast in western Ukraine, with a population of 1,418 as of 2022. It is part of the Busk urban hromada, reflecting its integration into the administrative structure of [[ukraine|Ukraine]].",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Context",
+      "paragraphs": [
+        "Olesko is situated in [[zolochiv|Zolochiv]] Raion, which is part of [[lviv-oblast|Lviv Oblast]], a region in [[western-ukraine|western Ukraine]]. The settlement is included in the Busk urban hromada, indicating its role within the local governance framework."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "As of 2022, the estimated population of Olesko is 1,418 residents."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Olesko has historical importance as it was the residence of the rebbes of Alesk and the birthplace of Jan III Sobieski, who served as the King of Poland and Grand Duke of Lithuania.",
+        "The earliest documented Jewish community in Olesko dates back to 1500. By 1935, the Jewish population had reached 738, and the settlement was known for being home to tzadikim during the 19th century."
+      ]
+    },
+    {
+      "heading": "Administrative Changes",
+      "paragraphs": [
+        "On 18 July 2020, Olesko transitioned from Busk Raion, which was dissolved as part of an administrative reform [[coal-in-ukraine|in Ukraine]] that reduced the number of raions in Lviv Oblast to seven. The territory of Busk Raion was incorporated into Zolochiv Raion.",
+        "Additionally, on 26 January 2024, Olesko's status changed from an urban-type settlement to a rural settlement due to new legislation."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "lviv-oblast",
+    "ukraine",
+    "western-ukraine",
+    "zolochiv"
+  ],
+  "sources": [
+    {
+      "title": "Olesko — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Olesko",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

@@ -1,0 +1,81 @@
+{
+  "qid": "Q2985059",
+  "slug": "bohdan-lepky",
+  "title": "Bohdan Lepky",
+  "type": "human",
+  "category": "culture",
+  "aliases": [
+    "Bohdan Lepkyi"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1872-11-04",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1941-07-21",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Krohulets, Kryvenke",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Bohdan Teodor Nestor Sylvestrovych Lepky was a prominent Ukrainian writer, poet, scholar, and public figure, born on 9 November 1872 in Kryvenke, Ukraine. His literary contributions and cultural activities significantly influenced [[ukrainian-literature|Ukrainian literature]] and the relationship between Ukrainian and Polish cultures.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Bohdan Lepky was born on 9 November 1872 in Kryvenke, [[ukraine|Ukraine]], in the same house where Polish insurgent Bogdan Jarocki once resided. He spent his childhood in the nearby village of Krohulets, as the son of [[ukrainian|Ukrainian]] writer and Greek Catholic priest Sylvester Lepkyi.",
+        "At the age of six, Lepky began his education at a normal school in Berezhany, entering the second grade. He later attended the local gymnasium starting in 1883, where he noted the ethnic tolerance and mutual respect among Ukrainian and Polish students. After graduating from the gymnasium in 1891, he enrolled in the Academy of Arts in Vienna but left after a year to focus on literature. He subsequently studied [[history-of-ukraine|Ukrainian history]] and literature at [[lviv-university|Lviv University]], where he was involved in the society Vatra and the choir Boyan, graduating in 1895."
+      ]
+    },
+    {
+      "heading": "Career in Kraków",
+      "paragraphs": [
+        "In 1899, Lepky moved to Kraków, where he accepted a position at Jagiellonian University, which had initiated lectures on Ukrainian language and literature. He remained in Kraków for the rest of his life, residing at 28 Ulica Zielona, where he frequently hosted fellow Ukrainian academics, including Kyrylo Studynsky, Vasyl Stefanyk, and Vyacheslav Lypynsky.",
+        "During his time in Kraków, Lepky engaged with Polish artists such as Kazimierz Tetmajer and Stanisław Wyspiański. He is particularly recognized for his Polish translation of the ancient Ukrainian chronicle Słowo o pułku Igora (The Tale of Ihor's Host, 1905) and for his poem 'Zhuravli' (Cranes, 1910), which became widely known through a musical adaptation by his brother Lev Lepky."
+      ]
+    },
+    {
+      "heading": "Literary Contributions",
+      "paragraphs": [
+        "Bohdan Lepky's literary works include notable poems and prose that reflect his Ukrainian heritage and cultural insights. His poem 'Cranes' (1910) is famous for its evocative imagery and has been adapted into a song. Other significant works include 'Mazepa,' which explores the life of Ukrainian [[hetman|hetman]] [[ivan-mazepa|Ivan Mazepa]], and 'What is That Thunder?' (1914), a poem dedicated to the victims of World War I that later became a folk song.",
+        "He also authored a patriotic march titled 'Is it a Storm or is it a Thunder,' initially written in 1912 and later popularized among Ukrainian military groups. His autobiographical trilogy, 'Tale of My Life,' published between 1936 and 1941, provides insights into his personal experiences and relationships with notable figures like [[ivan-franko|Ivan Franko]]."
+      ]
+    },
+    {
+      "heading": "Legacy and Family",
+      "paragraphs": [
+        "Bohdan Lepky passed away in Kraków on 21 July 1941 and is interred at Rakowicki Cemetery. His literary legacy continues to influence Ukrainian culture and literature.",
+        "Lepky's brother, Lev, also made significant contributions to Ukrainian culture by creating the Mazepynka cap, which became the standard headgear for Ukrainian [[sich-riflemen|Sich Riflemen]] during World War I."
+      ]
+    }
+  ],
+  "links_out": [
+    "hetman",
+    "history-of-ukraine",
+    "ivan-franko",
+    "ivan-mazepa",
+    "lviv-university",
+    "sich-riflemen",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-literature"
+  ],
+  "sources": [
+    {
+      "title": "Bohdan Lepky — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bohdan_Lepky",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

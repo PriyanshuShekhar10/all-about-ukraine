@@ -1,0 +1,81 @@
+{
+  "qid": "Q3394393",
+  "slug": "mariinskyi-park",
+  "title": "Mariinskyi Park",
+  "type": "cemetery",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "cemetery",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1972-07-26",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "14",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4469, 30.5397",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Mariinskyi Park is a historic park located in the Pechersk neighborhood of Kyiv, [[ukraine|Ukraine]], serving both as a recreational area and a Soviet necropolis. Established in 1874, it has undergone various transformations and is recognized as part of Ukraine's Nature Preservation Fund.",
+  "sections": [
+    {
+      "heading": "History and Development",
+      "paragraphs": [
+        "Mariinskyi Park, named after the adjacent Mariinskyi Palace, was founded in 1874 with financial support from Maria Alexandrovna, the wife of Alexander II of Russia. Over the years, the park's aesthetics evolved significantly, featuring marble busts and sculptures by the late 19th century and a cast iron fountain established in 1900 that remains today.",
+        "Initially referred to as 'Tsarskyi' (imperial), the park's name was changed to Mariinskyi following the revolution. Throughout its history, it has also been known as the Park of the Victims of the Revolution, Proletarian Park, and Soviet Park. A children's railway operated in the park during the 1970s and 1980s, and the most recent major renovation occurred in 2000."
+      ]
+    },
+    {
+      "heading": "Geographical Location",
+      "paragraphs": [
+        "Located in the [[pecherskyi-district|Pechersk Raion]] of [[kyiv|Kyiv]], Mariinskyi Park is situated adjacent to significant government buildings, including the [[verkhovna-rada|Parliament of Ukraine]]. The park's northwestern boundary is defined by Constitution Square, while [[hrushevsky-street|Hrushevsky Street]] marks its southwestern edge. To the southeast, the park is bordered by Merezhko Street and residential buildings, and Park Road runs along its northeastern side towards the [[dnieper|Dnieper River]]."
+      ]
+    },
+    {
+      "heading": "Monuments and Memorials",
+      "paragraphs": [
+        "Mariinskyi Park is home to several monuments, including those commemorating the Heroes of the October Revolution and the participants of the January Uprising. A headstone marks the grave of Andriy Ivanov, and there is a monument dedicated to blossomed chestnuts.",
+        "Formerly, the park also featured a monument to Nikolai Vatutin, which was dismantled on February 9, 2023."
+      ]
+    },
+    {
+      "heading": "Graves and Historical Significance",
+      "paragraphs": [
+        "The park contains several graves of historical significance, including that of Andriy Ivanov and Nikolai Vatutin. It also features mass graves for Red Guards and Bolsheviks who participated in the [[ukrainiansoviet-war|Ukrainian-Soviet War]], as well as victims of Denikin's repressions and defenders of Kyiv executed by Bolsheviks during the same conflict. The exact locations of many of these burials remain unknown, as noted by the [[ukrainian-institute|Ukrainian Institute]] of National Memory."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnieper",
+    "hrushevsky-street",
+    "kyiv",
+    "pecherskyi-district",
+    "ukraine",
+    "ukrainian-institute",
+    "ukrainiansoviet-war",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Mariinskyi Park — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mariinskyi_Park",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

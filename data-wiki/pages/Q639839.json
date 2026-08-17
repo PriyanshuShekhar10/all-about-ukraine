@@ -1,0 +1,108 @@
+{
+  "qid": "Q639839",
+  "slug": "pereiaslav",
+  "title": "Pereiaslav",
+  "type": "city of regional significance of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Pereiaslav-Khmelnytskyi",
+    "Pereiaslavl"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Kievan Rus'",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "27,548",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "32",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "94",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.0650, 31.4450",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Pereiaslav is a historical city located in Boryspil Raion, [[kyiv-oblast|Kyiv Oblast]], central [[ukraine|Ukraine]]. Known for its rich history and cultural significance, it serves as the administrative center of the Pereiaslav urban hromada and hosts a population of approximately 26,273 as of 2022.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Pereiaslav is situated near the confluence of the Alta and Trubizh rivers, approximately 95 km (59.03 mi) southeast of [[kyiv|Kyiv]]. The city is classified as one of regional significance [[coal-in-ukraine|in Ukraine]] and is part of the Pereiaslav urban hromada.",
+        "As of 2022, the estimated population of Pereiaslav is around 26,273."
+      ]
+    },
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "The name Pereiaslav was officially reinstated by the [[verkhovna-rada|Verkhovna Rada]] on 30 September 2019, reflecting its historical significance. In various languages, the name is rendered as follows: [[ukrainian|Ukrainian]]: Переяслав, Yiddish: פּרעיאַסלעוו, Russian: Переяслав, Latin: Pereaslavia, Polish: Perejasław, and Lithuanian: Perejaslavas.",
+        "Historically, the city was known as Pereiaslavl from 907 until 1943, and as Pereiaslav-Khmelnytskyi from 1943 to 2019."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Pereiaslav has played a crucial role in the [[history-of-ukraine|history of Ukraine]], first mentioned in a 911 treaty with the Byzantine Empire. It was a center of power during [[kievan-rus|Kievan Rus]]', with Vladimir I constructing a fortress there in 992 to defend against nomadic invasions.",
+        "The city became a regimental center for the [[zaporozhian-cossacks|Zaporozhian Cossacks]] in the 16th century and was the site of the Pereiaslav Agreement in 1654, which marked a significant military alliance with the Tsardom of Russia."
+      ]
+    },
+    {
+      "heading": "Cultural and Educational Institutions",
+      "paragraphs": [
+        "Pereiaslav is often referred to as a 'living museum' due to its more than 20 museums, including the Museum of Folk Architecture and Household Traditions, which showcases Ukrainian culture and history.",
+        "The city is also home to [[hryhorii-skovoroda|Hryhorii Skovoroda]] University in Pereiaslav, which has its roots dating back to 1738 and has evolved through various educational reforms, reflecting the longstanding educational traditions of the region."
+      ]
+    },
+    {
+      "heading": "Jewish Community",
+      "paragraphs": [
+        "The Jewish community in Pereiaslav dates back to at least 1620. Throughout its history, the community faced significant challenges, including pogroms in 1881 and 1919, which resulted in loss of life and displacement.",
+        "Despite historical persecution, the Jewish population thrived in the late 19th and early 20th centuries, with several schools and cultural institutions established. However, the community diminished significantly during World War II."
+      ]
+    },
+    {
+      "heading": "Landmarks and Modern Developments",
+      "paragraphs": [
+        "Pereiaslav is notable for landmarks such as St. Michael's Church, built between 1646 and 1666, and the Ascension Monastery, which features a cathedral constructed from 1695 to 1700.",
+        "In recent years, Pereiaslav has undergone administrative changes, merging into [[boryspil|Boryspil]] Raion in July 2020 as part of a broader administrative reform in Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "boryspil",
+    "coal-in-ukraine",
+    "history-of-ukraine",
+    "hryhorii-skovoroda",
+    "kievan-rus",
+    "kyiv",
+    "kyiv-oblast",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada",
+    "zaporozhian-cossacks"
+  ],
+  "sources": [
+    {
+      "title": "Pereiaslav — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pereiaslav",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

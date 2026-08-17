@@ -37,7 +37,7 @@
       "paragraphs": [
         "Vynnyky, known as Winniki in Polish, was part of the [[ruthenian|Ruthenian]] Voivodeship of the Kingdom of Poland from the mid-14th century until the Partitions of Poland. Between 1772 and 1918, it was incorporated into Austrian [[galicia|Galicia]], and during the interwar period, it returned to Poland as part of the Lwow Voivodeship.",
         "In 1925, the population of Vynnyky was recorded at 6,000, comprising 3,300 Polish residents, 2,150 [[rusyns|Ruthenians]] ([[ukrainians|Ukrainians]]), 350 Jews, and 200 Germans.",
-        "A significant cultural event occurred on 28 September 1913 when the first sculptural monument to the [[ukrainian|Ukrainian]] national poet [[taras-shevchenko|Taras Shevchenko]] was inaugurated in Vynnyky, funded by the local Prosvita society. The ceremony was attended by notable figures from Galicia's Ukrainian community, including Volodymyr Levytsky, Yevhen Olesnytsky, and Bohdan Lepky. However, the monument was destroyed in 1919 during the Polish-[[full-scale-russo-ukrainian-war|Ukrainian War]].",
+        "A significant cultural event occurred on 28 September 1913 when the first sculptural monument to the [[ukrainian|Ukrainian]] national poet [[taras-shevchenko|Taras Shevchenko]] was inaugurated in Vynnyky, funded by the local [[prosvita|Prosvita]] society. The ceremony was attended by notable figures from Galicia's Ukrainian community, including Volodymyr Levytsky, Yevhen Olesnytsky, and [[bohdan-lepky|Bohdan Lepky]]. However, the monument was destroyed in 1919 during the Polish-[[full-scale-russo-ukrainian-war|Ukrainian War]].",
         "In the 1950s, Vynnyky served as a district center within [[lviv-oblast|Lviv Oblast]]. The city remained part of [[lviv-city-council|Lviv Municipality]] from 1959 until 18 July 2020, when administrative reforms led to the dissolution of the municipality and the formation of the new [[lviv|Lviv]] Raion."
       ]
     },
@@ -61,12 +61,14 @@
     }
   ],
   "links_out": [
+    "bohdan-lepky",
     "full-scale-russo-ukrainian-war",
     "galicia",
     "ivan-franko",
     "lviv",
     "lviv-city-council",
     "lviv-oblast",
+    "prosvita",
     "rusyns",
     "ruthenian",
     "taras-shevchenko",

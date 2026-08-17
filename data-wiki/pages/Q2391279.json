@@ -1,0 +1,83 @@
+{
+  "qid": "Q2391279",
+  "slug": "kryzhopil",
+  "title": "Kryzhopil",
+  "type": "urban-type settlement in Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "urban-type settlement in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1866",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "9,024",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "5",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "289",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.3842, 28.8625",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Kryzhopil is a rural settlement located in Tulchyn Raion, Vinnytsia Oblast, Ukraine, with a population of 8,479 as of 2022. Previously, it served as the administrative center of the former Kryzhopil Raion until the administrative reform in 2020.",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Context",
+      "paragraphs": [
+        "Kryzhopil, known in [[ukrainian|Ukrainian]] as Крижопіль and in Russian as Крыжополь, is situated in the Tulchyn Raion of [[vinnytsia-oblast|Vinnytsia Oblast]], [[ukraine|Ukraine]]. Prior to the administrative reform of 2020, it held the status of the administrative center for the now-defunct Kryzhopil Raion."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The establishment of Kryzhopil dates back to 1866, coinciding with the construction of the [[kyiv|Kyiv]]-[[odesa|Odesa]] railroad. The settlement was named after the nearby village of Krzyżopol, located 17 kilometers away from Kryzhopil. A railway station commenced operations in August 1870.",
+        "From its founding until 1923, Kryzhopil was part of the Olgopolsky Uyezd within the Podolian Governorate. During World War II, the settlement was occupied by Romanian forces and incorporated into the [[transnistria|Transnistria]] Governorate. It was liberated by the Red Army on 17 March 1944.",
+        "On 26 January 2024, Kryzhopil's designation as an urban-type settlement was revoked by new legislation, and it was reclassified as a rural settlement."
+      ]
+    },
+    {
+      "heading": "Notable Residents",
+      "paragraphs": [
+        "Among the notable individuals associated with Kryzhopil is Sidor Belarsky (1898–1975), a Ukrainian-American singer who gained recognition for his contributions to music."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "odesa",
+    "transnistria",
+    "ukraine",
+    "ukrainian",
+    "vinnytsia-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Kryzhopil — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kryzhopil",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

@@ -1,0 +1,96 @@
+{
+  "qid": "Q338683",
+  "slug": "prosvita",
+  "title": "Prosvita",
+  "type": "organization",
+  "category": "history",
+  "aliases": [
+    "Enlightenment"
+  ],
+  "infobox": {
+    "label": "organization",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1868",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Prosvita, officially known as the All-Ukrainian Prosvita Society named after [[taras-shevchenko|Taras Shevchenko]], is an enlightenment organization established in the 19th century to promote and preserve Ukrainian culture, education, and science. It has played a significant role in counteracting Russophile influences within Ukrainian society.",
+  "sections": [
+    {
+      "heading": "Founding and Early Development",
+      "paragraphs": [
+        "Prosvita was established in 1868 in [[lviv|Lviv]] by 65 delegates from various regions and intellectual groups, primarily from Lviv. Anatole Vakhnianyn was elected as the first head of the society.",
+        "By the end of 1913, Prosvita had expanded to include 77 affiliate societies and 2,648 reading rooms, and it also operated in the Duchy of [[bukovina|Bukovina]]."
+      ]
+    },
+    {
+      "heading": "Expansion and Challenges",
+      "paragraphs": [
+        "Following the First Russian Revolution in 1905, Prosvita opened local branches in areas under Russian rule where [[ukrainians|Ukrainians]] resided, including [[dnipro|Katerynoslav]] and [[odesa|Odesa]] in 1905, and [[kyiv|Kyiv]] in 1906. However, these branches were closed before World War I due to accusations of promoting separatism by imperial authorities.",
+        "A resurgence occurred after the Russian Revolution of 1917, with branches reestablished in [[dnieper-ukraine|Dnieper Ukraine]], [[volhynia|Volhynia]], and [[polesia|Polissia]], but many were again shut down by Soviet and Polish authorities in the 1920s and 1930s."
+      ]
+    },
+    {
+      "heading": "Interwar Period and Soviet Era",
+      "paragraphs": [
+        "After World War I, Prosvita continued to grow in [[galicia|Galicia]], opening over 500 new outlets in 1936 alone when Lviv was part of the Second Polish Republic. By the end of the interwar period, it included 83 affiliates, 3,210 reading rooms, and numerous cultural organizations.",
+        "In 1939, Prosvita was banned by Soviet authorities and operated only in Western Europe and the United States until 1988."
+      ]
+    },
+    {
+      "heading": "Renewal and Modern Activities",
+      "paragraphs": [
+        "Prosvita was revitalized during the Glasnost period in 1988-89 as the Shevchenko Association of [[ukrainian|Ukrainian Language]] and has since been active in the social life of [[independent-ukraine|independent Ukraine]]. It is currently led by Pavlo Movchan.",
+        "Today, Prosvita is affiliated with nearly all higher education institutions [[coal-in-ukraine|in Ukraine]], engaging teachers and students. Additionally, there are active youth organizations under the Prosvita banner."
+      ]
+    },
+    {
+      "heading": "Goals and Objectives",
+      "paragraphs": [
+        "The official aims of Prosvita include promoting the Ukrainian language as the sole state language, fostering mutual understanding and civil consent, contributing to the development of the [[ukrainian-state|Ukrainian state]], and enhancing the authority of Ukrainian culture abroad.",
+        "Prosvita also emphasizes the preservation of the natural environment and biodiversity."
+      ]
+    },
+    {
+      "heading": "Historical Leadership",
+      "paragraphs": [
+        "Throughout its history, Prosvita has had various leaders, including Anatole Vakhnianyn in its founding years, and more recently, [[dmytro-pavlychko|Dmytro Pavlychko]] and Pavlo Movchan in the modern era."
+      ]
+    }
+  ],
+  "links_out": [
+    "bukovina",
+    "coal-in-ukraine",
+    "dmytro-pavlychko",
+    "dnieper-ukraine",
+    "dnipro",
+    "galicia",
+    "independent-ukraine",
+    "kyiv",
+    "lviv",
+    "odesa",
+    "polesia",
+    "taras-shevchenko",
+    "ukrainian",
+    "ukrainian-state",
+    "ukrainians",
+    "volhynia"
+  ],
+  "sources": [
+    {
+      "title": "Prosvita — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Prosvita",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

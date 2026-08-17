@@ -1,0 +1,89 @@
+{
+  "qid": "Q102428782",
+  "slug": "ternopil-raion",
+  "title": "Ternopil Raion",
+  "type": "raion of Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "raion of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2020-07-19",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Ternopil",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "559,357",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.5346, 25.4960",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Ternopil Raion is an administrative district located in Ternopil Oblast, [[western-ukraine|western Ukraine]], with its administrative center in the city of Ternopil. As of 2022, the raion has an estimated population of 559,357.",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Overview",
+      "paragraphs": [
+        "Ternopil Raion ([[ukrainian|Ukrainian]]: Тернопільський район) is situated in the western part of [[ukraine|Ukraine]], within [[ternopil-oblast|Ternopil Oblast]]. The administrative center of the raion is the city of [[ternopil|Ternopil]]."
+      ]
+    },
+    {
+      "heading": "Population Statistics",
+      "paragraphs": [
+        "As of 2022, Ternopil Raion has an estimated population of 559,357. Prior to the administrative reform in July 2020, the raion's population was estimated at 67,199."
+      ]
+    },
+    {
+      "heading": "Administrative Reform of 2020",
+      "paragraphs": [
+        "On 18 July 2020, a significant administrative reform [[coal-in-ukraine|in Ukraine]] led to the reduction of the number of raions in Ternopil Oblast to three. This reform resulted in the expansion of Ternopil Raion, incorporating six abolished raions: Berezhany, Kozova, Pidhaitsi, Pidvolochysk, Terebovlia, and [[zboriv|Zboriv]] Raions, along with Berezhany Municipality and the city of Ternopil, which was previously categorized as a city of oblast significance."
+      ]
+    },
+    {
+      "heading": "Current Administrative Structure",
+      "paragraphs": [
+        "Following the 2020 reform, Ternopil Raion comprises 25 hromadas. These include Baikivtsi rural hromada, Bila rural hromada, Berezhany urban hromada, Ivanivka rural hromada, Kozliv settlement hromada, Kozova settlement hromada, Kupchyntsi rural hromada, Mykulyntsi settlement hromada, Naraiv rural hromada, Ozerna rural hromada, Pidhaitsi urban hromada, Pidhorodne rural hromada, Pidvolochysk settlement hromada, Saranchuky rural hromada, Skalat urban hromada, Skoryky rural hromada, Terebovlia urban hromada, Ternopil urban hromada, Velyka Berezovytsia settlement hromada, Velyki Birky settlement hromada, Velyki Hai rural hromada, Zaliztsi settlement hromada, Zbarazh urban hromada, Zboriv urban hromada, and Zolotnyky rural hromada."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Before the administrative reform in 2020, Ternopil Raion consisted of six hromadas: Baikivtsi rural hromada, Bila rural hromada, Pidhorodne rural hromada, Velyka Berezovytsia settlement hromada, Velyki Birky settlement hromada, and Velyki Hai rural hromada."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ternopil",
+    "ternopil-oblast",
+    "ukraine",
+    "ukrainian",
+    "western-ukraine",
+    "zboriv"
+  ],
+  "sources": [
+    {
+      "title": "Ternopil Raion — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ternopil_Raion",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

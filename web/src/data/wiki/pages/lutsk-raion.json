@@ -1,0 +1,92 @@
+{
+  "qid": "Q103820094",
+  "slug": "lutsk-raion",
+  "title": "Lutsk Raion",
+  "type": "raion of Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "raion of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2020-07-19",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Lutsk",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "457,300",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "5,247",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.7597, 25.3238",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Lutsk Raion is a district located in Volyn Oblast, [[western-ukraine|western Ukraine]], with its administrative center in the city of Lutsk. As of 2022, the population of the raion is 457,287, following significant administrative reforms in 2020 that expanded its area.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Lutsk Raion covers an area of 5,249.1 km², representing 4.8% of the total territory of [[volyn-oblast|Volyn Oblast]]. The district shares borders with Volodymyr, Kamen-Kashyrskyi, and Kovelskyi districts within Volyn Oblast, as well as the [[lviv-oblast|Lviv Oblast]] and [[rivne-oblast|Rivne Oblast]] of [[ukraine|Ukraine]]. The majority of the raion is situated in the Volhynian Upland, characterized by mixed forests and the Styr River basin, a tributary of the [[pripyat|Pripyat]]. The climate is moderately continental, featuring mild winters with January temperatures averaging -4.4 °C to -5.1 °C, and warm, humid summers with July temperatures around +18.8 °C. Annual precipitation ranges from 550 to 640 mm."
+      ]
+    },
+    {
+      "heading": "Communities of the District",
+      "paragraphs": [
+        "Lutsk Raion comprises 351 settlements, including 12 cities. It is organized into 15 territorial communities, with urban communities centered around the cities of Berestechko, Horokhiv, Kivertsi, [[lutsk|Lutsk]], Olyka, and Rozhyshche. Additionally, there are 9 rural communities, each with centers located in the villages of Kolky, Maryanivka, Torchyn, Tsuman, Boratyn, Horodyshche, Dorosyni, Kopachivka, and Pidhaitsi."
+      ]
+    },
+    {
+      "heading": "Economy of the District",
+      "paragraphs": [
+        "The economy of Lutsk Raion is primarily based on agriculture, with the cultivation of grain and industrial crops such as wheat, rapeseed, and sugar beet. The district's largest industrial center is Lutsk, which hosts food processing, woodworking, and light industries. Notably, the Bogdan Motors Automobile Company operates within the city."
+      ]
+    },
+    {
+      "heading": "Transport",
+      "paragraphs": [
+        "Lutsk Raion is served by several national highways, including H-17, which links [[rivne|Rivne]] to the Polish-[[ukrainian|Ukrainian]] border, and H-22, connecting Ustylug, Lutsk, and Rivne. The international highway M-19 also traverses the district, facilitating travel from Romania to the Belarusian border at Domanovo. Rail transport is significant, with railway lines extending to [[lviv|Lviv]] and [[kyiv|Kyiv]], and the largest railway stations in the district are located in Kivertsi and Lutsk."
+      ]
+    }
+  ],
+  "links_out": [
+    "kyiv",
+    "lutsk",
+    "lviv",
+    "lviv-oblast",
+    "pripyat",
+    "rivne",
+    "rivne-oblast",
+    "ukraine",
+    "ukrainian",
+    "volyn-oblast",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Lutsk Raion — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lutsk_Raion",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

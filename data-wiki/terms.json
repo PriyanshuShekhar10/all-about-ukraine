@@ -10145,5 +10145,502 @@
     "aliases": [],
     "notability": 5,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q2391279",
+    "slug": "kryzhopil",
+    "name": "Kryzhopil",
+    "wp_title": "Kryzhopil",
+    "type": "urban-type settlement in Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 20,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q3394393",
+    "slug": "mariinskyi-park",
+    "name": "Mariinskyi Park",
+    "wp_title": "Mariinskyi Park",
+    "type": "cemetery",
+    "category": "geography",
+    "aliases": [],
+    "notability": 9,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2019437",
+    "slug": "olesko",
+    "name": "Olesko",
+    "wp_title": "Olesko",
+    "type": "urban-type settlement in Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 22,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q639839",
+    "slug": "pereiaslav",
+    "name": "Pereiaslav",
+    "wp_title": "Pereiaslav",
+    "type": "city of regional significance of Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Pereiaslav-Khmelnytskyi",
+      "Pereiaslavl"
+    ],
+    "notability": 59,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q103820094",
+    "slug": "lutsk-raion",
+    "name": "Lutsk Raion",
+    "wp_title": "Lutsk Raion",
+    "type": "raion of Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 18,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q104530289",
+    "slug": "mykolaiv-raion",
+    "name": "Mykolaiv Raion",
+    "wp_title": "Mykolaiv Raion",
+    "type": "raion of Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 18,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q103859120",
+    "slug": "rivne-raion",
+    "name": "Rivne Raion",
+    "wp_title": "Rivne Raion",
+    "type": "raion of Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 15,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q102428782",
+    "slug": "ternopil-raion",
+    "name": "Ternopil Raion",
+    "wp_title": "Ternopil Raion",
+    "type": "raion of Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 18,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q574421",
+    "slug": "ternivka",
+    "name": "Ternivka",
+    "wp_title": "Ternivka",
+    "type": "city of regional significance of Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 34,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q28704028",
+    "slug": "mavka-the-forest-song",
+    "name": "Mavka: The Forest Song",
+    "wp_title": "Mavka: The Forest Song",
+    "type": "animated film",
+    "category": "people",
+    "aliases": [],
+    "notability": 24,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q50986580",
+    "slug": "roman-sushchenko",
+    "name": "Roman Sushchenko",
+    "wp_title": "Roman Sushchenko",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Roman Volodymyrovych Sushchenko"
+    ],
+    "notability": 6,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2985059",
+    "slug": "bohdan-lepky",
+    "name": "Bohdan Lepky",
+    "wp_title": "Bohdan Lepky",
+    "type": "human",
+    "category": "culture",
+    "aliases": [
+      "Bohdan Lepkyi"
+    ],
+    "notability": 20,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q12132975",
+    "slug": "minorities-in-ukraine",
+    "name": "minorities in Ukraine",
+    "wp_title": "Minorities in Ukraine",
+    "type": "groups of people in a location",
+    "category": "culture",
+    "aliases": [
+      "minorities of Ukraine"
+    ],
+    "notability": 2,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q6096251",
+    "slug": "ivan-franko-museum",
+    "name": "Ivan Franko Museum",
+    "wp_title": "Ivan Franko Museum",
+    "type": "museum",
+    "category": "culture",
+    "aliases": [],
+    "notability": 2,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q124052643",
+    "slug": "kyiv-city-ballet",
+    "name": "Kyiv City Ballet",
+    "wp_title": "Kyiv City Ballet",
+    "type": "topic",
+    "category": "culture",
+    "aliases": [],
+    "notability": 2,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q168351",
+    "slug": "the-velveteen-rabbit",
+    "name": "The Velveteen Rabbit",
+    "wp_title": "The Velveteen Rabbit",
+    "type": "literary work",
+    "category": "culture",
+    "aliases": [
+      "How Toys Become Real"
+    ],
+    "notability": 8,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q889618",
+    "slug": "chuhuiv",
+    "name": "Chuhuiv",
+    "wp_title": "Chuhuiv",
+    "type": "city of regional significance of Ukraine",
+    "category": "economy",
+    "aliases": [
+      "Chuguev",
+      "Chuguyev"
+    ],
+    "notability": 43,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q760599",
+    "slug": "dniprorudne",
+    "name": "Dniprorudne",
+    "wp_title": "Dniprorudne",
+    "type": "city in Ukraine",
+    "category": "economy",
+    "aliases": [],
+    "notability": 36,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q9208075",
+    "slug": "dnipropetrovsk-oblast-state-administration",
+    "name": "Dnipropetrovsk Oblast State Administration",
+    "wp_title": "Governor of Dnipropetrovsk Oblast",
+    "type": "regional state administration",
+    "category": "economy",
+    "aliases": [],
+    "notability": 6,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q904463",
+    "slug": "ukrainska-pravda",
+    "name": "Ukrainska Pravda",
+    "wp_title": "Ukrainska Pravda",
+    "type": "online newspaper",
+    "category": "economy",
+    "aliases": [
+      "Ukrainian Truth",
+      "pravda.com.ua"
+    ],
+    "notability": 26,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q695251",
+    "slug": "varta-ag",
+    "name": "VARTA AG",
+    "wp_title": "VARTA",
+    "type": "business",
+    "category": "economy",
+    "aliases": [
+      "Varta AG"
+    ],
+    "notability": 27,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q96919809",
+    "slug": "2020-ukrainian-local-elections",
+    "name": "2020 Ukrainian local elections",
+    "wp_title": "2020 Ukrainian local elections",
+    "type": "municipal election",
+    "category": "politics",
+    "aliases": [],
+    "notability": 10,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q12164283",
+    "slug": "hungaryukraine-relations",
+    "name": "Hungary–Ukraine relations",
+    "wp_title": "Hungary–Ukraine relations",
+    "type": "bilateral relation",
+    "category": "politics",
+    "aliases": [
+      "Hungary-Ukraine relations",
+      "Ukraine-Hungary relations",
+      "Ukraine–Hungary relations"
+    ],
+    "notability": 12,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2982576",
+    "slug": "liberal-party-of-ukraine",
+    "name": "Liberal Party of Ukraine",
+    "wp_title": "Liberal Party of Ukraine",
+    "type": "political party",
+    "category": "politics",
+    "aliases": [],
+    "notability": 6,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4294532",
+    "slug": "ministry-of-education-and-science-of-ukraine",
+    "name": "Ministry of Education and Science of Ukraine",
+    "wp_title": "Ministry of Education and Science of Ukraine",
+    "type": "ministry of education",
+    "category": "politics",
+    "aliases": [],
+    "notability": 11,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4294878",
+    "slug": "ministry-of-justice-of-ukraine",
+    "name": "Ministry of Justice of Ukraine",
+    "wp_title": "Ministry of Justice (Ukraine)",
+    "type": "justice ministry",
+    "category": "politics",
+    "aliases": [],
+    "notability": 14,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q903241",
+    "slug": "bratslav",
+    "name": "Bratslav",
+    "wp_title": "Bratslav",
+    "type": "urban-type settlement in Ukraine",
+    "category": "history",
+    "aliases": [],
+    "notability": 36,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q137293919",
+    "slug": "cossack-raids",
+    "name": "Cossack raids",
+    "wp_title": "Cossack raids",
+    "type": "conflict",
+    "category": "history",
+    "aliases": [],
+    "notability": 3,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q597506",
+    "slug": "first-partition-of-poland",
+    "name": "First Partition of Poland",
+    "wp_title": "First Partition of Poland",
+    "type": "aspect of history",
+    "category": "history",
+    "aliases": [],
+    "notability": 33,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2443988",
+    "slug": "heorhii-narbut",
+    "name": "Heorhii Narbut",
+    "wp_title": "Heorhiy Narbut",
+    "type": "human",
+    "category": "history",
+    "aliases": [
+      "Egor Narbut",
+      "Georges Narbout",
+      "Georgi Ivanovich Narbut",
+      "Georgii Narbut",
+      "Georgij Ivanovič Narbut",
+      "Georgy Ivanovich Narbut",
+      "Georgy Ivanovych Narbut",
+      "Georgy Narbut",
+      "Georgy. Narbut",
+      "Heorhiy Narbut",
+      "Jerzy Narbut",
+      "Yegor Ivanovich Narbut",
+      "Yurii Narbut"
+    ],
+    "notability": 21,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q913575",
+    "slug": "maslenitsa",
+    "name": "Maslenitsa",
+    "wp_title": "Maslenitsa",
+    "type": "Slavic holiday",
+    "category": "history",
+    "aliases": [],
+    "notability": 53,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q338683",
+    "slug": "prosvita",
+    "name": "Prosvita",
+    "wp_title": "Prosvita",
+    "type": "organization",
+    "category": "history",
+    "aliases": [
+      "Enlightenment"
+    ],
+    "notability": 10,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q7878381",
+    "slug": "ukraine-during-world-war-i",
+    "name": "Ukraine during World War I",
+    "wp_title": "Ukraine during World War I",
+    "type": "country in World War I",
+    "category": "history",
+    "aliases": [],
+    "notability": 7,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q515003",
+    "slug": "ukrainian-peoples-party",
+    "name": "Ukrainian People's Party",
+    "wp_title": "Ukrainian People's Party",
+    "type": "political party",
+    "category": "history",
+    "aliases": [],
+    "notability": 12,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q47763446",
+    "slug": "battle-of-donetsk-airport",
+    "name": "Battle of Donetsk Airport",
+    "wp_title": "Battle of Donetsk Airport",
+    "type": "Wikimedia disambiguation page",
+    "category": "war",
+    "aliases": [],
+    "notability": 10,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q18229688",
+    "slug": "battle-of-mariupol",
+    "name": "Battle of Mariupol",
+    "wp_title": "Battle of Mariupol",
+    "type": "Wikimedia disambiguation page",
+    "category": "war",
+    "aliases": [],
+    "notability": 14,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q12119499",
+    "slug": "oleh-liashko",
+    "name": "Oleh Liashko",
+    "wp_title": "Oleh Liashko",
+    "type": "human",
+    "category": "war",
+    "aliases": [
+      "Oleh Valeriiovych Liashko"
+    ],
+    "notability": 29,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q52897439",
+    "slug": "ukrainian-cultural-foundation",
+    "name": "Ukrainian Cultural Foundation",
+    "wp_title": "Ukrainian Cultural Foundation",
+    "type": "executive authority",
+    "category": "war",
+    "aliases": [],
+    "notability": 11,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q416088",
+    "slug": "zhukovka",
+    "name": "Zhukovka",
+    "wp_title": "Zhukovka",
+    "type": "Wikimedia disambiguation page",
+    "category": "war",
+    "aliases": [],
+    "notability": 11,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q643626",
+    "slug": "aptiv",
+    "name": "Aptiv",
+    "wp_title": "Aptiv",
+    "type": "business",
+    "category": "war",
+    "aliases": [
+      "Aptiv PLC"
+    ],
+    "notability": 21,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q83055",
+    "slug": "operation-barbarossa",
+    "name": "Operation Barbarossa",
+    "wp_title": "Operation Barbarossa",
+    "type": "invasion",
+    "category": "war",
+    "aliases": [
+      "Fall Barbarroja",
+      "Operation Fritz"
+    ],
+    "notability": 91,
+    "status": "synthesized"
   }
 ]

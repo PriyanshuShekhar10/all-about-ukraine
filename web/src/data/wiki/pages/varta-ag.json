@@ -1,0 +1,81 @@
+{
+  "qid": "Q695251",
+  "slug": "varta-ag",
+  "title": "VARTA AG",
+  "type": "business",
+  "category": "economy",
+  "aliases": [
+    "Varta AG"
+  ],
+  "infobox": {
+    "label": "business",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1887",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Germany",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Ellwangen, Berlin",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "VARTA AG is a German company specializing in the production of batteries for various markets, including automotive, industrial, and consumer sectors. Its historical developments and recent restructuring efforts have implications for its operations in Ukraine and the broader European market.",
+  "sections": [
+    {
+      "heading": "Company Overview",
+      "paragraphs": [
+        "VARTA AG, pronounced [ˈvaʁta], is a German manufacturer of batteries catering to global automotive, industrial, and consumer markets."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Founded in 1887 by Adolph Müller, VARTA became a subsidiary of Accumulatoren-Fabrik AFA in 1904. Following World War I, the company was acquired by German industrialists Günther Quandt and Carl Hermann Roderbourg. After World War II, most shares transitioned from Günther Quandt to his son Herbert Quandt. The East Berlin subsidiary was occupied by [[soviet-union|the Soviet Union]] and renamed BAE Batterien.",
+        "In 1977, Herbert Quandt restructured the company, retaining battery and plastics operations within VARTA while transferring pharmaceuticals and specialty chemicals to Altana and spinning off electrical operations to CEAG. The Quandt family retained ownership until 2006 when VARTA sold all its operating divisions."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "In 2019, VARTA reacquired its former consumer battery business from Energizer. On 19 October 2017, VARTA floated 11.6 million shares on the stock market, achieving a valuation of €668.5 million. In 2020, VARTA received €300 million from the German government to build an electric vehicle lithium-ion battery production facility but later abandoned this project to reduce costs. In 2023, the company announced the elimination of 800 jobs.",
+        "In February 2024, an attack on VARTA's IT systems disrupted production and led to a temporary exchange loss of approximately 8.4%. By June 2024, the company reported nearly €500 million in debt and initiated major restructuring efforts."
+      ]
+    },
+    {
+      "heading": "Financial Restructuring",
+      "paragraphs": [
+        "In July 2024, a compromise was reached involving significant debt write-offs and new investments from major shareholders, including Porsche and Michael Tojner. The restructuring adhered to the 'Act on the Stabilization and Restructuring Framework for Companies' (StaRUG) from 2021, allowing for court approval of the restructuring plan.",
+        "In October 2024, Porsche's acquisition of a non-controlling interest in VARTA was approved by Germany's Federal Cartel Office, alongside control of V4Drive Battery, which focuses on large-format lithium-ion cells for electric vehicles."
+      ]
+    },
+    {
+      "heading": "Impact on Ukraine",
+      "paragraphs": [
+        "VARTA's operations and restructuring efforts may have implications for the [[ukrainian|Ukrainian]] market, particularly in the context of electric vehicle battery production and supply chains in [[eastern-europe|Eastern Europe]]. The company's historical presence and recent developments could influence partnerships and investments [[coal-in-ukraine|in Ukraine]]'s growing automotive sector."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "eastern-europe",
+    "soviet-union",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "VARTA — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/VARTA",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

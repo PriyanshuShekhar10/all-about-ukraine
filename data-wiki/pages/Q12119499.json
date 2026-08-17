@@ -1,0 +1,85 @@
+{
+  "qid": "Q12119499",
+  "slug": "oleh-liashko",
+  "title": "Oleh Liashko",
+  "type": "human",
+  "category": "war",
+  "aliases": [
+    "Oleh Valeriiovych Liashko"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1972-12-03",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Chernihiv",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "People's Deputy of Ukraine, People's Deputy of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Oleh Valeriiovych Liashko is a Ukrainian politician, journalist, and soldier known for his long tenure in the Verkhovna Rada and as the leader of the Radical Party. He has played a significant role in Ukrainian politics, particularly during times of conflict.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Oleh Liashko was born on 3 December 1972 in [[chernihiv|Chernihiv]], [[ukraine|Ukraine]], and grew up in the village of Lozovivka in Starobilsk Raion. Following his parents' separation when he was two, he was placed in an orphanage and attended various boarding schools. He worked as a shepherd and later studied to become a tractor operator, graduating from the Faculty of Law at H.S. Skovoroda [[kharkiv-oblast|Kharkiv]] National Pedagogical University in 1998."
+      ]
+    },
+    {
+      "heading": "Career",
+      "paragraphs": [
+        "Liashko began his career in journalism, serving as a correspondent and editor for several newspapers [[coal-in-ukraine|in Ukraine]]. He entered politics as a member of the [[verkhovna-rada|Verkhovna Rada]] in 2006, initially representing the [[yulia-tymoshenko|Yulia Tymoshenko]] Bloc and later leading the Radical Party. He has been involved in significant legislative efforts, particularly during the [[russian-annexation-of-crimea|Russian annexation of Crimea]] in 2014, and has been a vocal figure in [[ukrainian|Ukrainian]] politics.",
+        "In the 2014 presidential election, Liashko received 8.32% of the vote, finishing third. His party won 22 seats in the 2014 parliamentary election, but he lost his seat in the 2019 election. Liashko attempted to regain a parliamentary position in 2020 but was unsuccessful."
+      ]
+    },
+    {
+      "heading": "Military Service",
+      "paragraphs": [
+        "In October 2022, Liashko joined the [[armed-forces-of-ukraine|Armed Forces of Ukraine]] in response to the Russian invasion. By 2024, he was appointed commander of a battalion specializing in unmanned systems, and in 2026, he became commander of the 432nd separate unmanned systems regiment, earning recognition for his battalion's effectiveness."
+      ]
+    },
+    {
+      "heading": "Relationship with Rinat Akhmetov",
+      "paragraphs": [
+        "Liashko's political career has included connections with prominent businessman Rinat Akhmetov, whom he described as a guarantor of Ukraine's independence in 2013. However, his relationship with Akhmetov has been scrutinized, particularly following the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], where Liashko has become more critical of Akhmetov."
+      ]
+    },
+    {
+      "heading": "Personal Life",
+      "paragraphs": [
+        "Liashko's personal life has been the subject of speculation, particularly regarding his sexual orientation, which he has consistently denied. He married Rosita Sairanen in June 2018, and they have one daughter, Vladyslava."
+      ]
+    }
+  ],
+  "links_out": [
+    "armed-forces-of-ukraine",
+    "chernihiv",
+    "coal-in-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "kharkiv-oblast",
+    "russian-annexation-of-crimea",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada",
+    "yulia-tymoshenko"
+  ],
+  "sources": [
+    {
+      "title": "Oleh Liashko — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oleh_Liashko",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

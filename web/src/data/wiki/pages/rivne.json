@@ -54,7 +54,7 @@
       }
     ]
   },
-  "summary": "Rivne is a city of regional significance in [[western-ukraine|western Ukraine]], serving as the administrative center of Rivne Oblast and Rivne Raion. With a population of 243,873 as of 2022, it has a rich historical background and plays a crucial role in the region's transportation and industry.",
+  "summary": "Rivne is a city of regional significance in [[western-ukraine|western Ukraine]], serving as the administrative center of Rivne Oblast and [[rivne-raion|Rivne Raion]]. With a population of 243,873 as of 2022, it has a rich historical background and plays a crucial role in the region's transportation and industry.",
   "sections": [
     {
       "heading": "Historical Overview",
@@ -95,6 +95,7 @@
     "full-scale-russo-ukrainian-war",
     "halych",
     "rivne-oblast",
+    "rivne-raion",
     "soviet-union",
     "ukraine",
     "ukrainian",

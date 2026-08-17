@@ -1,0 +1,98 @@
+{
+  "qid": "Q104530289",
+  "slug": "mykolaiv-raion",
+  "title": "Mykolaiv Raion",
+  "type": "raion of Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "raion of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2020-07-19",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Mykolaiv",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "656,300",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "7,433",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "46.9724, 31.8167",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Mykolaiv Raion is a district located in Mykolaiv Oblast, Ukraine, with a pre-war population estimated at 636,832 in 2022. The administrative center of the raion is the city of Mykolaiv.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "In the 19th century, the region was part of the [[kherson|Kherson]] Governorate. Following the Russian Revolution, it experienced several administrative changes. In December 1920, it was renamed [[mykolaiv|Nikolayev]] Governorate, and in 1921, it was incorporated into [[odesa|Odesa]] Governorate.",
+        "The [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]] abolished governorates in 1923, leading to the formation of Mykolaiv Raion within Mykolaiv Okruha, with Mykolaiv serving as its administrative center. The abolition of governorates in 1925 resulted in okruhas being directly governed by the Ukrainian SSR.",
+        "In 1930, the okruhas were dissolved, and Mykolaiv Raion was transferred to Varvarivka Raion. On 27 February 1932, the area became part of the newly established [[odesa-oblast|Odesa Oblast]]. Subsequently, on 22 September 1937, [[mykolaiv-oblast|Mykolaiv Oblast]] was formed from territories previously belonging to [[dnipro|Dnipropetrovsk]] and Odesa Oblasts, with Varvarivka Raion included in the new Mykolaiv Oblast.",
+        "On 8 August 1945, Shyrokolanivka Raion was created from parts of Varvarivka and Tylihulo-Berezanka Raions, leading to a division of the area between Varvarivka and Shyrokyi Lan Raions. Shyrokyi Lan Raion was dissolved on 7 June 1957, and its territory was divided between Varvarivka and Veselynove Raions. In January 1963, Varvarivka Raion was abolished, resulting in the re-establishment of Mykolaiv Raion."
+      ]
+    },
+    {
+      "heading": "Administrative Reform",
+      "paragraphs": [
+        "On 18 July 2020, as part of [[ukraine|Ukraine]]'s administrative reform, the number of raions in Mykolaiv Oblast was reduced to four, significantly expanding the area of Mykolaiv Raion. This reform merged four previously abolished raions—Berezanka, Nova Odesa, Ochakiv, and Vitovka—along with the cities of Mykolaiv and Ochakiv, which were previously designated as cities of oblast significance and not part of any raion."
+      ]
+    },
+    {
+      "heading": "Population Statistics",
+      "paragraphs": [
+        "As of 2001, the population of Mykolaiv Raion was recorded at 34,675. The population estimate for January 2020 was 29,389."
+      ]
+    },
+    {
+      "heading": "Current Structure",
+      "paragraphs": [
+        "Following the 2020 administrative reform, Mykolaiv Raion comprises 19 hromadas. These include the Berezanka settlement hromada, Chornomorka rural hromada, Halytsynove rural hromada, Kobleve rural hromada, Kostiantynivka rural hromada, Kutsurub rural hromada, Mishkovo-Pohorilove rural hromada, Mykolaiv urban hromada, Nechaiane rural hromada, Nova Odesa urban hromada, Ochakiv urban hromada, Olshanske settlement hromada, Pervomaiske settlement hromada, Radsadivska rural hromada, Shevchenkove rural hromada, Stepove rural hromada, Sukhyi Yelanets rural hromada, Vesniane rural hromada, and Voskresenske settlement hromada."
+      ]
+    },
+    {
+      "heading": "Previous Structure",
+      "paragraphs": [
+        "Prior to the 2020 reform, Mykolaiv Raion consisted of five hromadas: Nechaiane rural hromada, Olshanske settlement hromada, Radsadivska rural hromada, Stepove rural hromada, and Vesniane rural hromada."
+      ]
+    }
+  ],
+  "links_out": [
+    "dnipro",
+    "kherson",
+    "mykolaiv",
+    "mykolaiv-oblast",
+    "odesa",
+    "odesa-oblast",
+    "ukraine",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Mykolaiv Raion — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mykolaiv_Raion",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

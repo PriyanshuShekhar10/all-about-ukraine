@@ -61,6 +61,14 @@
     ]
   },
   {
+    "slug": "2020-ukrainian-local-elections",
+    "title": "2020 Ukrainian local elections",
+    "type": "municipal election",
+    "category": "politics",
+    "summary": "The 2020 Ukrainian local elections, held on 25 October 2020, involved the election of deputies to district councils, rural townships, and city mayors, with a significant impact on local governance [[coal-in-ukraine|in Ukraine]]. The elections were marked by a low voter turnout and the absence of elections in certain regions due to ongoing conflict.",
+    "aliases": []
+  },
+  {
     "slug": "2022-kharkiv-counteroffensive",
     "title": "2022 Kharkiv counteroffensive",
     "type": "counter-offensive",
@@ -275,6 +283,16 @@
     "aliases": []
   },
   {
+    "slug": "aptiv",
+    "title": "Aptiv",
+    "type": "business",
+    "category": "war",
+    "summary": "Aptiv PLC is an automotive technology and components supplier, originally part of General Motors, with significant operations in Ukraine and a global presence in 50 countries. The company has evolved through various corporate changes and now focuses on advanced automotive technologies, including autonomous driving solutions.",
+    "aliases": [
+      "Aptiv PLC"
+    ]
+  },
+  {
     "slug": "arcelormittal-kryvyi-rih",
     "title": "ArcelorMittal Kryvyi Rih",
     "type": "steel mill",
@@ -475,6 +493,14 @@
     "aliases": []
   },
   {
+    "slug": "battle-of-donetsk-airport",
+    "title": "Battle of Donetsk Airport",
+    "type": "Wikimedia disambiguation page",
+    "category": "war",
+    "summary": "The Battle of Donetsk Airport was a significant military conflict during the ongoing [[full-scale-russo-ukrainian-war|war in Ukraine]], occurring in two distinct phases. It involved intense fighting for control of the strategically important [[donetsk|Donetsk]] Airport, reflecting the broader conflict between [[ukrainian|Ukrainian]] forces and separatist groups.",
+    "aliases": []
+  },
+  {
     "slug": "battle-of-ilovaisk",
     "title": "Battle of Ilovaisk",
     "type": "battle",
@@ -513,6 +539,14 @@
     "aliases": [
       "Battle of Lwow"
     ]
+  },
+  {
+    "slug": "battle-of-mariupol",
+    "title": "Battle of Mariupol",
+    "type": "Wikimedia disambiguation page",
+    "category": "war",
+    "summary": "The Battle of Mariupol encompasses several significant military engagements that have occurred in the city of Mariupol, Ukraine, highlighting its strategic importance in various conflicts involving Ukrainian forces and opposing factions.",
+    "aliases": []
   },
   {
     "slug": "battle-of-mykolaiv",
@@ -616,6 +650,16 @@
     "summary": "Bohdan Khmelnytsky (c. 1595 – 6 August 1657) was a prominent [[ruthenian|Ruthenian]] nobleman and military leader of the [[zaporozhian-cossacks|Zaporozhian Cossacks]], serving as [[hetman|Hetman]] of the Zaporozhian Host. He is best known for leading a successful uprising against the Polish–Lithuanian Commonwealth, which resulted in the establishment of an independent Cossack state in [[dnieper-ukraine|Dnieper Ukraine]].",
     "aliases": [
       "Bohdan Khmelnytskyi"
+    ]
+  },
+  {
+    "slug": "bohdan-lepky",
+    "title": "Bohdan Lepky",
+    "type": "human",
+    "category": "culture",
+    "summary": "Bohdan Teodor Nestor Sylvestrovych Lepky was a prominent Ukrainian writer, poet, scholar, and public figure, born on 9 November 1872 in Kryvenke, Ukraine. His literary contributions and cultural activities significantly influenced [[ukrainian-literature|Ukrainian literature]] and the relationship between Ukrainian and Polish cultures.",
+    "aliases": [
+      "Bohdan Lepkyi"
     ]
   },
   {
@@ -866,6 +910,14 @@
       "Borzawa",
       "Borzhava"
     ]
+  },
+  {
+    "slug": "bratslav",
+    "title": "Bratslav",
+    "type": "urban-type settlement in Ukraine",
+    "category": "history",
+    "summary": "Bratslav is a rural settlement [[coal-in-ukraine|in Ukraine]], situated in Tulchyn Raion of Vinnytsia Oblast, along the Southern Bug river. Historically significant, it served as a regional center in the Eastern [[podolia|Podolia]] region and was recognized as a medieval city with a population of 4,872 as of 2022.",
+    "aliases": []
   },
   {
     "slug": "bucha-massacre",
@@ -1213,6 +1265,17 @@
     ]
   },
   {
+    "slug": "chuhuiv",
+    "title": "Chuhuiv",
+    "type": "city of regional significance of Ukraine",
+    "category": "economy",
+    "summary": "Chuhuiv is a city of regional significance located in Kharkiv Oblast, Ukraine, serving as the administrative center of Chuhuiv Raion. As of February 2024, the city has a population exceeding 30,000 residents and is known for its military history and educational institutions.",
+    "aliases": [
+      "Chuguev",
+      "Chuguyev"
+    ]
+  },
+  {
     "slug": "chumak",
     "title": "Chumak",
     "type": "occupation",
@@ -1323,6 +1386,14 @@
     "type": "mythical character",
     "category": "culture",
     "summary": "Cossack Mamay, or Kozak Mamai, is a prominent folklore hero [[coal-in-ukraine|in Ukraine]], symbolizing the spirit and culture of the [[cossacks|Cossacks]]. His image has been widely represented in various forms of Ukrainian art and literature, especially following the dissolution of the Zaporozhian Sich in 1775.",
+    "aliases": []
+  },
+  {
+    "slug": "cossack-raids",
+    "title": "Cossack raids",
+    "type": "conflict",
+    "category": "history",
+    "summary": "Cossack raids were a series of military offensives conducted by the Zaporozhian Cossacks of southern [[ukraine|Ukraine]] and the Don Cossacks of southern Russia from 1441 to 1774, primarily targeting the Crimean Khanate, the Nogai Horde, and the Ottoman Empire. These raids were a response to the Crimean–Nogai slave raids and involved actions such as freeing enslaved Christians and plundering settlements.",
     "aliases": []
   },
   {
@@ -1757,6 +1828,22 @@
     ]
   },
   {
+    "slug": "dnipropetrovsk-oblast-state-administration",
+    "title": "Dnipropetrovsk Oblast State Administration",
+    "type": "regional state administration",
+    "category": "economy",
+    "summary": "The Dnipropetrovsk Oblast State Administration serves as the executive branch for Dnipropetrovsk Oblast [[coal-in-ukraine|in Ukraine]], with the governor acting as its head. The position has evolved in response to the ongoing Russo-Ukrainian War, reflecting the region's strategic importance.",
+    "aliases": []
+  },
+  {
+    "slug": "dniprorudne",
+    "title": "Dniprorudne",
+    "type": "city in Ukraine",
+    "category": "economy",
+    "summary": "Dniprorudne is a city located in the Vasylivka Raion of Zaporizhzhia Oblast, Ukraine, with a population of 17,736 as of 2022. It has been recognized as a city since 1970 and has played a significant role during the ongoing conflict [[coal-in-ukraine|in Ukraine]].",
+    "aliases": []
+  },
+  {
     "slug": "donbas",
     "title": "Donbas",
     "type": "industrial region",
@@ -2069,6 +2156,14 @@
     ]
   },
   {
+    "slug": "first-partition-of-poland",
+    "title": "First Partition of Poland",
+    "type": "aspect of history",
+    "category": "history",
+    "summary": "The First Partition of Poland occurred in 1772 and marked the beginning of the end for the Polish–Lithuanian Commonwealth, which was ultimately dissolved by 1795. This event significantly impacted [[ukraine|Ukraine]], as it involved territorial changes that affected the region's political landscape.",
+    "aliases": []
+  },
+  {
     "slug": "flag-of-ukraine",
     "title": "flag of Ukraine",
     "type": "national flag",
@@ -2258,6 +2353,28 @@
     ]
   },
   {
+    "slug": "heorhii-narbut",
+    "title": "Heorhii Narbut",
+    "type": "human",
+    "category": "history",
+    "summary": "Heorhiy Ivanovych Narbut was a prominent Ukrainian graphic artist known for his significant contributions to the visual identity of the [[ukrainian-peoples-republic|Ukrainian People's Republic]] through his designs of banknotes, postage stamps, and the national coat of arms.",
+    "aliases": [
+      "Egor Narbut",
+      "Georges Narbout",
+      "Georgi Ivanovich Narbut",
+      "Georgii Narbut",
+      "Georgij Ivanovič Narbut",
+      "Georgy Ivanovich Narbut",
+      "Georgy Ivanovych Narbut",
+      "Georgy Narbut",
+      "Georgy. Narbut",
+      "Heorhiy Narbut",
+      "Jerzy Narbut",
+      "Yegor Ivanovich Narbut",
+      "Yurii Narbut"
+    ]
+  },
+  {
     "slug": "hetman",
     "title": "hetman",
     "type": "military rank",
@@ -2436,6 +2553,18 @@
     "summary": "Human rights in Ukraine encompass the fundamental rights of individuals within the country, reflecting a complex historical and contemporary landscape influenced by political, social, and military factors. Recent developments, particularly due to the ongoing conflict with Russia, have significantly impacted the state of human rights in Ukraine.",
     "aliases": [
       "human rights in Ukraine"
+    ]
+  },
+  {
+    "slug": "hungaryukraine-relations",
+    "title": "Hungary–Ukraine relations",
+    "type": "bilateral relation",
+    "category": "politics",
+    "summary": "Hungary–Ukraine relations have evolved since the early 1990s, shaped by historical ties and contemporary political issues, particularly concerning the rights of the Hungarian minority [[coal-in-ukraine|in Ukraine]]'s Zakarpattia region. The bilateral relationship has experienced significant fluctuations due to language laws, military base controversies, and energy agreements.",
+    "aliases": [
+      "Hungary-Ukraine relations",
+      "Ukraine-Hungary relations",
+      "Ukraine–Hungary relations"
     ]
   },
   {
@@ -2647,6 +2776,14 @@
       "Myron",
       "Zhyvyi"
     ]
+  },
+  {
+    "slug": "ivan-franko-museum",
+    "title": "Ivan Franko Museum",
+    "type": "museum",
+    "category": "culture",
+    "summary": "The Ivan Franko Museum is a dedicated institution honoring the legacy of Ukrainian writer and poet Ivan Franko, located in Winnipeg, Manitoba, Canada. It serves as a cultural hub for the Ukrainian community and operates primarily through volunteer efforts.",
+    "aliases": []
   },
   {
     "slug": "ivan-franko-national-academic-drama-theater",
@@ -3194,6 +3331,14 @@
     "aliases": []
   },
   {
+    "slug": "kryzhopil",
+    "title": "Kryzhopil",
+    "type": "urban-type settlement in Ukraine",
+    "category": "geography",
+    "summary": "Kryzhopil is a rural settlement located in Tulchyn Raion, Vinnytsia Oblast, Ukraine, with a population of 8,479 as of 2022. Previously, it served as the administrative center of the former Kryzhopil Raion until the administrative reform in 2020.",
+    "aliases": []
+  },
+  {
     "slug": "kupala-night",
     "title": "Kupala Night",
     "type": "Slavic holiday",
@@ -3238,6 +3383,14 @@
       "Kyïv",
       "Kyїv"
     ]
+  },
+  {
+    "slug": "kyiv-city-ballet",
+    "title": "Kyiv City Ballet",
+    "type": "topic",
+    "category": "culture",
+    "summary": "Kyiv City Ballet is an independent ballet company from [[ukraine|Ukraine]], currently based in Paris due to the ongoing conflict [[coal-in-ukraine|in Ukraine]]. Founded in 2012, the troupe continues to perform and tour internationally, showcasing a diverse repertoire.",
+    "aliases": []
   },
   {
     "slug": "kyiv-city-state-administration",
@@ -3459,6 +3612,14 @@
     ]
   },
   {
+    "slug": "liberal-party-of-ukraine",
+    "title": "Liberal Party of Ukraine",
+    "type": "political party",
+    "category": "politics",
+    "summary": "The Liberal Party of Ukraine (LPU) is a political party founded on September 12, 1991, in Donetsk, known for promoting liberal values and reforms [[coal-in-ukraine|in Ukraine]]. It has a significant membership base and was the first liberal party in the post-Soviet space to be recognized by Liberal International.",
+    "aliases": []
+  },
+  {
     "slug": "little-russia",
     "title": "Little Russia",
     "type": "administrative territorial entity",
@@ -3539,6 +3700,14 @@
       "Łuck",
       "Łućk"
     ]
+  },
+  {
+    "slug": "lutsk-raion",
+    "title": "Lutsk Raion",
+    "type": "raion of Ukraine",
+    "category": "geography",
+    "summary": "Lutsk Raion is a district located in Volyn Oblast, [[western-ukraine|western Ukraine]], with its administrative center in the city of Lutsk. As of 2022, the population of the raion is 457,287, following significant administrative reforms in 2020 that expanded its area.",
+    "aliases": []
   },
   {
     "slug": "lviv",
@@ -3684,6 +3853,14 @@
     "aliases": []
   },
   {
+    "slug": "mariinskyi-park",
+    "title": "Mariinskyi Park",
+    "type": "cemetery",
+    "category": "geography",
+    "summary": "Mariinskyi Park is a historic park located in the Pechersk neighborhood of Kyiv, [[ukraine|Ukraine]], serving both as a recreational area and a Soviet necropolis. Established in 1874, it has undergone various transformations and is recognized as part of Ukraine's Nature Preservation Fund.",
+    "aliases": []
+  },
+  {
     "slug": "mariupol",
     "title": "Mariupol",
     "type": "city of regional significance of Ukraine",
@@ -3716,11 +3893,27 @@
     ]
   },
   {
+    "slug": "maslenitsa",
+    "title": "Maslenitsa",
+    "type": "Slavic holiday",
+    "category": "history",
+    "summary": "Maslenitsa, also known as Butter Lady or Cheesefare Week, is an Eastern Slavic holiday celebrated in Ukraine and other Slavic countries during the last week before Great Lent. This festival retains elements of Slavic mythology and is characterized by various traditional activities and culinary practices.",
+    "aliases": []
+  },
+  {
     "slug": "mavka",
     "title": "Mavka",
     "type": "class of mythical entities",
     "category": "culture",
     "summary": "Mavka, or Nyavka, is a class of female spirit in Ukrainian folklore, often depicted as a beautiful temptress associated with the forest. These entities are believed to represent the souls of girls who died tragically, luring men to their demise while also having roles in agricultural life.",
+    "aliases": []
+  },
+  {
+    "slug": "mavka-the-forest-song",
+    "title": "Mavka: The Forest Song",
+    "type": "animated film",
+    "category": "people",
+    "summary": "Mavka: The Forest Song is a 3D-animated fantasy film from [[ukraine|Ukraine]], released in 2023, that draws inspiration from Lesya Ukrainka's play of the same name. The film, produced by the Animagrad studio under The Film.UA Group, showcases characters from Ukrainian and Slavic folklore and has achieved significant recognition in the realm of independent Ukrainian cinema.",
     "aliases": []
   },
   {
@@ -3848,6 +4041,14 @@
     ]
   },
   {
+    "slug": "ministry-of-education-and-science-of-ukraine",
+    "title": "Ministry of Education and Science of Ukraine",
+    "type": "ministry of education",
+    "category": "politics",
+    "summary": "The Ministry of Education and Science of Ukraine is the principal executive authority responsible for education and scientific development [[coal-in-ukraine|in Ukraine]]. Established in its modern form in 1992, the ministry has undergone various reorganizations and plays a crucial role in shaping the educational landscape of the country.",
+    "aliases": []
+  },
+  {
     "slug": "ministry-of-finance-of-ukraine",
     "title": "Ministry of Finance of Ukraine",
     "type": "finance ministry",
@@ -3882,6 +4083,24 @@
     "aliases": [
       "Ministry of Internal Affairs",
       "Ministry of the Interior of Ukraine"
+    ]
+  },
+  {
+    "slug": "ministry-of-justice-of-ukraine",
+    "title": "Ministry of Justice of Ukraine",
+    "type": "justice ministry",
+    "category": "politics",
+    "summary": "The Ministry of Justice of Ukraine is the principal governmental body responsible for regulating the state's legal policy and ensuring the protection of human rights within Ukraine. Established in the early 20th century, it plays a crucial role in aligning Ukrainian legislation with European Union standards.",
+    "aliases": []
+  },
+  {
+    "slug": "minorities-in-ukraine",
+    "title": "minorities in Ukraine",
+    "type": "groups of people in a location",
+    "category": "culture",
+    "summary": "Minorities in Ukraine constitute 22.2 percent of the nation's population, featuring a diverse array of ethnic groups. The presence of these minorities is significant in the context of Ukraine's cultural landscape and its relations with neighboring countries.",
+    "aliases": [
+      "minorities of Ukraine"
     ]
   },
   {
@@ -4085,6 +4304,14 @@
     "type": "oblast of Ukraine",
     "category": "geography",
     "summary": "Mykolaiv Oblast is a province in southern Ukraine, with its administrative center located in the city of Mykolaiv. As of 2022, the oblast has a population of approximately 1,091,821 residents and is significant for its historical, geographical, and economic contributions to Ukraine.",
+    "aliases": []
+  },
+  {
+    "slug": "mykolaiv-raion",
+    "title": "Mykolaiv Raion",
+    "type": "raion of Ukraine",
+    "category": "geography",
+    "summary": "Mykolaiv Raion is a district located in Mykolaiv Oblast, Ukraine, with a pre-war population estimated at 636,832 in 2022. The administrative center of the raion is the city of Mykolaiv.",
     "aliases": []
   },
   {
@@ -4586,6 +4813,16 @@
     ]
   },
   {
+    "slug": "oleh-liashko",
+    "title": "Oleh Liashko",
+    "type": "human",
+    "category": "war",
+    "summary": "Oleh Valeriiovych Liashko is a Ukrainian politician, journalist, and soldier known for his long tenure in the Verkhovna Rada and as the leader of the Radical Party. He has played a significant role in Ukrainian politics, particularly during times of conflict.",
+    "aliases": [
+      "Oleh Valeriiovych Liashko"
+    ]
+  },
+  {
     "slug": "oleh-sentsov",
     "title": "Oleh Sentsov",
     "type": "human",
@@ -4668,6 +4905,14 @@
     "aliases": []
   },
   {
+    "slug": "olesko",
+    "title": "Olesko",
+    "type": "urban-type settlement in Ukraine",
+    "category": "geography",
+    "summary": "Olesko is a rural settlement located in Zolochiv Raion of Lviv Oblast in western Ukraine, with a population of 1,418 as of 2022. It is part of the Busk urban hromada, reflecting its integration into the administrative structure of [[ukraine|Ukraine]].",
+    "aliases": []
+  },
+  {
     "slug": "olesko-castle",
     "title": "Olesko Castle",
     "type": "castle",
@@ -4685,6 +4930,17 @@
       "Olga Konstantinovna Kurylenko",
       "Olha Kostiantynivna Kurylenko",
       "Olha Kurylenko"
+    ]
+  },
+  {
+    "slug": "operation-barbarossa",
+    "title": "Operation Barbarossa",
+    "type": "invasion",
+    "category": "war",
+    "summary": "Operation Barbarossa was the code name for the Nazi Germany invasion of the Soviet Union, commencing on 22 June 1941, which significantly impacted Ukraine and its territories. This operation marked a pivotal escalation in World War II, leading to extensive military engagements and profound humanitarian crises in the region.",
+    "aliases": [
+      "Fall Barbarroja",
+      "Operation Fritz"
     ]
   },
   {
@@ -4905,6 +5161,17 @@
     "category": "politics",
     "summary": "Pensions in Ukraine serve as a financial support system for retirees, structured under a three-tiered system established by the Law of Ukraine on Compulsory State Pension Insurance. This system is crucial for addressing the needs of the aging population and ensuring financial stability for retirees in the country.",
     "aliases": []
+  },
+  {
+    "slug": "pereiaslav",
+    "title": "Pereiaslav",
+    "type": "city of regional significance of Ukraine",
+    "category": "geography",
+    "summary": "Pereiaslav is a historical city located in Boryspil Raion, [[kyiv-oblast|Kyiv Oblast]], central [[ukraine|Ukraine]]. Known for its rich history and cultural significance, it serves as the administrative center of the Pereiaslav urban hromada and hosts a population of approximately 26,273 as of 2022.",
+    "aliases": [
+      "Pereiaslav-Khmelnytskyi",
+      "Pereiaslavl"
+    ]
   },
   {
     "slug": "peremyshl",
@@ -5140,6 +5407,16 @@
     "aliases": []
   },
   {
+    "slug": "prosvita",
+    "title": "Prosvita",
+    "type": "organization",
+    "category": "history",
+    "summary": "Prosvita, officially known as the All-Ukrainian Prosvita Society named after [[taras-shevchenko|Taras Shevchenko]], is an enlightenment organization established in the 19th century to promote and preserve Ukrainian culture, education, and science. It has played a significant role in counteracting Russophile influences within Ukrainian society.",
+    "aliases": [
+      "Enlightenment"
+    ]
+  },
+  {
     "slug": "prut",
     "title": "Prut",
     "type": "river",
@@ -5343,7 +5620,7 @@
     "title": "Rivne",
     "type": "city of regional significance of Ukraine",
     "category": "history",
-    "summary": "Rivne is a city of regional significance in [[western-ukraine|western Ukraine]], serving as the administrative center of Rivne Oblast and Rivne Raion. With a population of 243,873 as of 2022, it has a rich historical background and plays a crucial role in the region's transportation and industry.",
+    "summary": "Rivne is a city of regional significance in [[western-ukraine|western Ukraine]], serving as the administrative center of Rivne Oblast and [[rivne-raion|Rivne Raion]]. With a population of 243,873 as of 2022, it has a rich historical background and plays a crucial role in the region's transportation and industry.",
     "aliases": [
       "Riwne",
       "Rovne",
@@ -5374,6 +5651,24 @@
       "Rivne Region",
       "Rivnenshchyna",
       "Rovno Oblast"
+    ]
+  },
+  {
+    "slug": "rivne-raion",
+    "title": "Rivne Raion",
+    "type": "raion of Ukraine",
+    "category": "geography",
+    "summary": "Rivne Raion is an administrative district located in Rivne Oblast, western Ukraine, with its administrative center in the city of Rivne. As of 2022, the population of the raion is estimated to be 625,543.",
+    "aliases": []
+  },
+  {
+    "slug": "roman-sushchenko",
+    "title": "Roman Sushchenko",
+    "type": "human",
+    "category": "people",
+    "summary": "Roman Volodymyrovych Sushchenko is a Ukrainian journalist and artist, notable for his arrest in Russia on espionage charges in 2016 and subsequent detention until his release in 2019. His case has drawn significant attention and criticism from various Ukrainian and international organizations.",
+    "aliases": [
+      "Roman Volodymyrovych Sushchenko"
     ]
   },
   {
@@ -6281,6 +6576,14 @@
     "aliases": []
   },
   {
+    "slug": "ternivka",
+    "title": "Ternivka",
+    "type": "city of regional significance of Ukraine",
+    "category": "geography",
+    "summary": "Ternivka is a city of regional significance located in Pavlohrad Raion, Dnipropetrovsk Oblast, in eastern Ukraine, with a population of 26,961 as of 2022. It serves as the administrative center of the Ternivka urban hromada, highlighting its importance within the local governance structure of Ukraine.",
+    "aliases": []
+  },
+  {
     "slug": "ternopil",
     "title": "Ternopil",
     "type": "city of regional significance of Ukraine",
@@ -6320,6 +6623,14 @@
     ]
   },
   {
+    "slug": "ternopil-raion",
+    "title": "Ternopil Raion",
+    "type": "raion of Ukraine",
+    "category": "geography",
+    "summary": "Ternopil Raion is an administrative district located in Ternopil Oblast, [[western-ukraine|western Ukraine]], with its administrative center in the city of Ternopil. As of 2022, the raion has an estimated population of 559,357.",
+    "aliases": []
+  },
+  {
     "slug": "ternopil-regional-art-museum",
     "title": "Ternopil Regional Art Museum",
     "type": "museum",
@@ -6339,6 +6650,16 @@
       "Tetiana Czarnowol",
       "Tetiana Mykolaivna Chornovol",
       "Tetiana Mykolayivna Chornovol"
+    ]
+  },
+  {
+    "slug": "the-velveteen-rabbit",
+    "title": "The Velveteen Rabbit",
+    "type": "literary work",
+    "category": "culture",
+    "summary": "The Velveteen Rabbit is a British children's book by Margery Williams, first published in 1922, that tells the story of a stuffed rabbit's longing to become real through the love of a child. Its themes of love and transformation resonate universally, including within [[ukrainian|Ukrainian]] culture.",
+    "aliases": [
+      "How Toys Become Real"
     ]
   },
   {
@@ -6455,6 +6776,14 @@
       "Ukrainia",
       "Ukraïna"
     ]
+  },
+  {
+    "slug": "ukraine-during-world-war-i",
+    "title": "Ukraine during World War I",
+    "type": "country in World War I",
+    "category": "history",
+    "summary": "During World War I, Ukraine was divided between the Russian and Austro-Hungarian Empires, with significant implications for its population and nationalist movements. The war exacerbated existing tensions and led to widespread suffering among Ukrainians caught in the conflict.",
+    "aliases": []
   },
   {
     "slug": "ukraine-east",
@@ -6611,6 +6940,14 @@
       "Ukrainian food",
       "cuisine of Ukraine"
     ]
+  },
+  {
+    "slug": "ukrainian-cultural-foundation",
+    "title": "Ukrainian Cultural Foundation",
+    "type": "executive authority",
+    "category": "war",
+    "summary": "The Ukrainian Cultural Foundation (UCF) is a state agency established in 2017 to foster the development of national culture and art [[coal-in-ukraine|in Ukraine]]. It aims to enhance access to cultural heritage, support cultural diversity, and integrate [[ukrainian|Ukrainian]] culture into the global context.",
+    "aliases": []
   },
   {
     "slug": "ukrainian-defense-industry",
@@ -6890,6 +7227,14 @@
     "aliases": []
   },
   {
+    "slug": "ukrainian-peoples-party",
+    "title": "Ukrainian People's Party",
+    "type": "political party",
+    "category": "history",
+    "summary": "The Ukrainian People's Party is a centre-right [[political-party-in-ukraine|political party in Ukraine]], established in 1999 and originally known as the Ukrainian People's Movement until 2003. It has played a significant role in various electoral processes [[coal-in-ukraine|in Ukraine]] and has undergone several organizational changes throughout its history.",
+    "aliases": []
+  },
+  {
     "slug": "ukrainian-peoples-republic",
     "title": "Ukrainian People's Republic",
     "type": "historical country",
@@ -7078,6 +7423,17 @@
     ]
   },
   {
+    "slug": "ukrainska-pravda",
+    "title": "Ukrainska Pravda",
+    "type": "online newspaper",
+    "category": "economy",
+    "summary": "Ukrainska Pravda is a prominent Ukrainian socio-political online media outlet, established in April 2000 by Heorhii Gongadze. It has played a significant role in advocating for press freedom and has been influential in various political movements in Ukraine.",
+    "aliases": [
+      "Ukrainian Truth",
+      "pravda.com.ua"
+    ]
+  },
+  {
     "slug": "ukrnafta",
     "title": "Ukrnafta",
     "type": "business",
@@ -7138,6 +7494,16 @@
     "summary": "Varenyky are traditional Ukrainian dumplings made from unleavened dough filled with various ingredients, making them a significant part of Ukrainian cuisine and culture.",
     "aliases": [
       "pyrohy"
+    ]
+  },
+  {
+    "slug": "varta-ag",
+    "title": "VARTA AG",
+    "type": "business",
+    "category": "economy",
+    "summary": "VARTA AG is a German company specializing in the production of batteries for various markets, including automotive, industrial, and consumer sectors. Its historical developments and recent restructuring efforts have implications for its operations in Ukraine and the broader European market.",
+    "aliases": [
+      "Varta AG"
     ]
   },
   {
@@ -7805,7 +8171,7 @@
     "title": "Zboriv",
     "type": "city in Ukraine",
     "category": "geography",
-    "summary": "Zboriv is a small city located in Ternopil Raion, Ternopil Oblast, in [[western-ukraine|western Ukraine]], within the historical region of [[galicia|Galicia]]. As of 2022, it has an estimated population of 6,621 and serves as the administrative center of Zboriv urban hromada.",
+    "summary": "Zboriv is a small city located in [[ternopil-raion|Ternopil Raion]], Ternopil Oblast, in [[western-ukraine|western Ukraine]], within the historical region of [[galicia|Galicia]]. As of 2022, it has an estimated population of 6,621 and serves as the administrative center of Zboriv urban hromada.",
     "aliases": []
   },
   {
@@ -7843,6 +8209,14 @@
     "aliases": [
       "Zheltye Vody"
     ]
+  },
+  {
+    "slug": "zhukovka",
+    "title": "Zhukovka",
+    "type": "Wikimedia disambiguation page",
+    "category": "war",
+    "summary": "Zhukovka refers to multiple inhabited localities primarily located in Russia, with various types of settlements including towns and villages. The name is relevant in the context of regional geography and administrative divisions, which may have implications for cross-border relations with Ukraine.",
+    "aliases": []
   },
   {
     "slug": "zhydachiv",

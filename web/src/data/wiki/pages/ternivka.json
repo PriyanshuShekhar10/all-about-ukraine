@@ -1,0 +1,86 @@
+{
+  "qid": "Q574421",
+  "slug": "ternivka",
+  "title": "Ternivka",
+  "type": "city of regional significance of Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1775",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "28,298",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "17",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "100",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.5231, 36.0826",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Ternivka is a city of regional significance located in Pavlohrad Raion, Dnipropetrovsk Oblast, in eastern Ukraine, with a population of 26,961 as of 2022. It serves as the administrative center of the Ternivka urban hromada, highlighting its importance within the local governance structure of Ukraine.",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Context",
+      "paragraphs": [
+        "Ternivka is situated in [[pavlohrad|Pavlohrad]] Raion, within the [[dnipropetrovsk-oblast|Dnipropetrovsk Oblast]] of eastern [[ukraine|Ukraine]]. It functions as the administrative center of the Ternivka urban hromada, one of the hromadas [[coal-in-ukraine|in Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "As of 2022, Ternivka has an estimated population of 26,961. The population is projected to be 23,972 in 2024."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "In April 1930, Ternivka was the site of a quickly suppressed pro-[[ukrainian|Ukrainian]] anti-Soviet revolt. The discovery of coal deposits in Ternivka and the nearby village of Bohdanivka occurred in 1950, leading to the establishment of the experimental Ternivska No. 1 mine in the fall of 1953. Initially lacking basic infrastructure, the village saw significant development, including the construction of barracks in 1953 and the introduction of electricity in 1956. By 1961, 8,000 square meters of housing had been constructed, and the first kindergarten was established in 1963. Ternivka was designated as an urban-type settlement in 1964 and subsequently became a city in 1976. By 1990, it was recognized as a city of regional subordination. Following administrative reforms on 18 July 2020, Ternivka's municipality was dissolved, and it was incorporated into Pavlohrad Raion."
+      ]
+    },
+    {
+      "heading": "Economic Activities",
+      "paragraphs": [
+        "The primary industry in Ternivka is coal mining, with several coal mines located on the outskirts of the city, including Ternivska, Zakhidno-Donbaska, Dniprovska, and Samarska mines."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "dnipropetrovsk-oblast",
+    "pavlohrad",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ternivka — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ternivka",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

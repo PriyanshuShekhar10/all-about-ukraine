@@ -1,0 +1,83 @@
+{
+  "qid": "Q904463",
+  "slug": "ukrainska-pravda",
+  "title": "Ukrainska Pravda",
+  "type": "online newspaper",
+  "category": "economy",
+  "aliases": [
+    "Ukrainian Truth",
+    "pravda.com.ua"
+  ],
+  "infobox": {
+    "label": "online newspaper",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2000-04-16",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Ukrainska Pravda is a prominent Ukrainian socio-political online media outlet, established in April 2000 by Heorhii Gongadze. It has played a significant role in advocating for press freedom and has been influential in various political movements in Ukraine.",
+  "sections": [
+    {
+      "heading": "Foundation and Early Years",
+      "paragraphs": [
+        "Ukrainska Pravda was founded in April 2000 by journalists Heorhii Gongadze and Olena Prytula, following discussions in December 1999 about the need for a [[ukrainian|Ukrainian]] online news outlet. Gongadze served as the editor-in-chief, while Prytula was his deputy. The site launched the day after a nationwide referendum initiated by President [[leonid-kuchma|Leonid Kuchma]].",
+        "Initial funding for the outlet came from a sponsor linked to Yevhen Marchuk, but this support ended after the publication released a critical article about him. Gongadze's kidnapping and murder in September 2000, which followed his protests against state censorship, garnered international attention and significantly increased the outlet's prominence."
+      ]
+    },
+    {
+      "heading": "Role in Political Movements",
+      "paragraphs": [
+        "Ukrainska Pravda played a crucial role during the [[orange-revolution|Orange Revolution]] in 2004, providing critical information and publishing exit poll data that indicated electoral fraud. The outlet's popularity surged after the release of tapes suggesting President Kuchma's involvement in Gongadze's murder.",
+        "In 2013, journalist Mustafa Nayyem's call for protests against the government's decision to postpone an EU association agreement marked the beginning of the [[euromaidan|Euromaidan]] movement. During this period, Ukrainska Pravda temporarily changed its name to Yevropeiska [[pravda|Pravda]] in [[european-solidarity|solidarity]] with the protesters."
+      ]
+    },
+    {
+      "heading": "Post-Euromaidan Developments",
+      "paragraphs": [
+        "Following the Euromaidan protests, several journalists from Ukrainska Pravda, including Serhii Leshchenko and Mustafa Nayyem, were elected to the [[verkhovna-rada|Verkhovna Rada]]. In October 2014, Sevhil Musaieva took over as editor-in-chief, while Olena Prytula continued to guide the publication strategically.",
+        "In 2015, Ukrainska Pravda launched a journalism school and a coworking space called MediaHub. The outlet has faced challenges, including the assassination of journalist Pavlo Sheremet in July 2016, which raised concerns about press safety [[coal-in-ukraine|in Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Recent Initiatives and Changes",
+      "paragraphs": [
+        "In 2020, Ukrainska Pravda redesigned its website to enhance user experience and launched the Ukrainska Pravda Readers' Club to encourage reader support. The club offers various membership tiers with exclusive benefits.",
+        "In May 2021, ownership of Ukrainska Pravda transferred to Tomáš Fiala, CEO of Dragon Capital, while Olena Prytula remained involved as the founding editor. The transition included commitments to maintain the publication's editorial integrity."
+      ]
+    },
+    {
+      "heading": "Awards and Recognition",
+      "paragraphs": [
+        "In 2019, the Heorhii Gongadze Prize was established by PEN [[ukraine|Ukraine]] in collaboration with Ukrainska Pravda, honoring independent journalists on May 21, Gongadze's birthday. This award reflects the outlet's ongoing commitment to journalistic integrity and freedom of expression."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "euromaidan",
+    "european-solidarity",
+    "leonid-kuchma",
+    "orange-revolution",
+    "pravda",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainska Pravda — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainska_Pravda",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

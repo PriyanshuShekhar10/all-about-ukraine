@@ -1,0 +1,68 @@
+{
+  "qid": "Q7878381",
+  "slug": "ukraine-during-world-war-i",
+  "title": "Ukraine during World War I",
+  "type": "country in World War I",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "country in World War I",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Russian Empire, Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "During World War I, Ukraine was divided between the Russian and Austro-Hungarian Empires, with significant implications for its population and nationalist movements. The war exacerbated existing tensions and led to widespread suffering among Ukrainians caught in the conflict.",
+  "sections": [
+    {
+      "heading": "Political Context",
+      "paragraphs": [
+        "At the onset of World War I, [[ukraine|Ukraine]] was not an independent state but was largely incorporated into the Russian Empire, with a western region under Austro-Hungarian control. The borders between these empires were established at the Congress of Vienna in 1815.",
+        "In the late 19th century, both the Russian and Austro-Hungarian Empires sought to influence [[ukrainian|Ukrainian]] territories amid a rising sense of nationalism. The Russian Empire regarded [[ukrainians|Ukrainians]] as Little Russians and had support from Russophile communities, while Austria-Hungary fostered [[ukrainian-nationalism|Ukrainian nationalism]]."
+      ]
+    },
+    {
+      "heading": "Military Engagements",
+      "paragraphs": [
+        "The Russian military campaign in [[galicia|Galicia]] commenced in August 1914, achieving significant territorial gains against the Austrians. Approximately 3.5 million Ukrainians served in the Imperial Russian Army, while around 250,000 fought for the Austro-Hungarian Army, leading to instances of Ukrainians fighting against each other."
+      ]
+    },
+    {
+      "heading": "Impact on Civilians",
+      "paragraphs": [
+        "The conflict severely affected Ukrainian civilians, with villages often destroyed during military operations. In Galicia, over 20,000 Ukrainians suspected of supporting Russian interests were detained in Austrian concentration camps.",
+        "The retreat of Russian forces in 1915 prompted a mass exodus of approximately 3.5 million civilians fleeing from advancing German and Austro-Hungarian troops. This evacuation led to widespread looting, destruction of infrastructure, and forced deportations, particularly targeting Eastern Orthodox populations."
+      ]
+    },
+    {
+      "heading": "Post-War Developments",
+      "paragraphs": [
+        "Following the Russian Revolution of 1917, Ukraine experienced intensified conflict as various factions vied for control. Despite attempts to establish independent Ukrainian states in [[kyiv|Kyiv]] and Lemberg, these efforts failed to gain international recognition.",
+        "The Treaty of Versailles in 1919 determined the borders of Ukraine, with Galicia and western [[volhynia|Volhynia]] assigned to Poland, [[bukovina|Bukovina]] to Romania, and central and eastern territories to [[soviet-union|the Soviet Union]], leading to a significant loss of Ukrainian aspirations for statehood."
+      ]
+    }
+  ],
+  "links_out": [
+    "bukovina",
+    "galicia",
+    "kyiv",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-nationalism",
+    "ukrainians",
+    "volhynia"
+  ],
+  "sources": [
+    {
+      "title": "Ukraine during World War I — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukraine_during_World_War_I",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

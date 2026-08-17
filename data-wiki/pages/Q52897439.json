@@ -1,0 +1,70 @@
+{
+  "qid": "Q52897439",
+  "slug": "ukrainian-cultural-foundation",
+  "title": "Ukrainian Cultural Foundation",
+  "type": "executive authority",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "executive authority",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2017",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Ukrainian Cultural Foundation (UCF) is a state agency established in 2017 to foster the development of national culture and art [[coal-in-ukraine|in Ukraine]]. It aims to enhance access to cultural heritage, support cultural diversity, and integrate [[ukrainian|Ukrainian]] culture into the global context.",
+  "sections": [
+    {
+      "heading": "Establishment",
+      "paragraphs": [
+        "The Ukrainian Cultural Foundation was established in 2017, following a proposal by former Minister of Culture Yevhen Nyshchuk. He advocated for the foundation to ensure equitable access to resources for cultural and artistic organizations across both budgetary and non-budgetary sectors, while also relieving the ministry of its role in fund distribution.",
+        "The creation of the UCF was officially approved by the [[verkhovna-rada|Parliament of Ukraine]] on March 23, 2017."
+      ]
+    },
+    {
+      "heading": "Functions",
+      "paragraphs": [
+        "The main responsibilities of the Ukrainian Cultural Foundation include promoting and implementing state policy in the cultural and artistic fields, developing modern cultural activities, stimulating innovative projects, and supporting international collaborations.",
+        "Additionally, the foundation focuses on preserving and promoting national cultural heritage, supporting artistic debuts, encouraging the creative work of cultural figures, and enhancing the global image of [[ukraine|Ukraine]], including support for cultural projects by the [[ukrainian-diaspora|Ukrainian diaspora]]."
+      ]
+    },
+    {
+      "heading": "Management Structure",
+      "paragraphs": [
+        "The UCF is managed by a chairman and a CEO. The chairman is appointed by the Minister of Culture and must possess expertise in the cultural sector, an impeccable reputation, and proficiency in the state language and a foreign language.",
+        "Maryna Poroshenko was appointed as chairman on January 19, 2018, but resigned on December 16, 2019. Mykhaylo Zakharkevych took over the role on February 1, 2020."
+      ]
+    },
+    {
+      "heading": "CEO Appointment",
+      "paragraphs": [
+        "The CEO of the UCF is responsible for the direct organizational and financial management of the foundation. The CEO is elected by the supervisory board through an open competitive process and must sign an employment contract with the Ministry of Culture.",
+        "Yuliia Fediv was elected as CEO on February 7, 2018, and Vladyslav Berkovski succeeded her on June 14, 2021."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-diaspora",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Cultural Foundation — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Cultural_Foundation",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

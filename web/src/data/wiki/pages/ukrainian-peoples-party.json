@@ -1,0 +1,71 @@
+{
+  "qid": "Q515003",
+  "slug": "ukrainian-peoples-party",
+  "title": "Ukrainian People's Party",
+  "type": "political party",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "political party",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1999",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Ukrainian People's Party is a centre-right [[political-party-in-ukraine|political party in Ukraine]], established in 1999 and originally known as the Ukrainian People's Movement until 2003. It has played a significant role in various electoral processes [[coal-in-ukraine|in Ukraine]] and has undergone several organizational changes throughout its history.",
+  "sections": [
+    {
+      "heading": "Foundation and Early History",
+      "paragraphs": [
+        "The Ukrainian People's Party, or Українська Народна Партія, was founded on Old Year's Day in 1999 as a result of a merger of local branches of the People's Movement of [[ukraine|Ukraine]]. Initially, it was known as the [[ukrainians|Ukrainian People]]'s Movement until it rebranded in January 2003 to avoid confusion with its predecessor."
+      ]
+    },
+    {
+      "heading": "Electoral Participation",
+      "paragraphs": [
+        "In the legislative elections held on 30 March 2002, the party was part of the [[viktor-yushchenko|Viktor Yushchenko]] Bloc Our Ukraine. Later, at its first congress under the new name in 2003, the party endorsed Viktor Yushchenko for the 2004 presidential election.",
+        "During the legislative elections on 26 March 2006, the party participated in the [[ukrainian|Ukrainian]] National Bloc of Kostenko and Plyushch, which did not surpass the 3% threshold. In the parliamentary elections on 30 September 2007, it was part of the Our Ukraine alliance, which secured 72 out of 450 seats.",
+        "In the 2010 local elections, the party achieved representation in several regional parliaments. However, in December 2011, it announced plans to merge with Our Ukraine, although this process did not finalize until February 2013, when the party remained independent.",
+        "In the 2012 parliamentary elections, the party competed under the Our Ukraine umbrella alongside the Congress of Ukrainian Nationalists, but received only 1.11% of the votes and failed to gain any parliamentary seats, losing in all 34 constituencies it contested.",
+        "The party approved a merger with the People's Movement of Ukraine in May 2013, but a faction led by Oleksandr Ivanovych Klymenko continued to operate independently. In the 2014 parliamentary elections, it again failed to win any seats, losing in all 8 constituencies it contested.",
+        "In the 2020 local elections, the party succeeded in electing 30 members to various levels of political office across Ukraine."
+      ]
+    },
+    {
+      "heading": "Leadership",
+      "paragraphs": [
+        "In June 2021, Yuri Kostenko was reelected as the leader of the Ukrainian People's Party, continuing the party's leadership structure amid its ongoing political activities."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "political-party-in-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "viktor-yushchenko"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian People's Party — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_People's_Party",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

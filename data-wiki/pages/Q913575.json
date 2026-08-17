@@ -1,0 +1,64 @@
+{
+  "qid": "Q913575",
+  "slug": "maslenitsa",
+  "title": "Maslenitsa",
+  "type": "Slavic holiday",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "Slavic holiday",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Russia, Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Maslenitsa, also known as Butter Lady or Cheesefare Week, is an Eastern Slavic holiday celebrated in Ukraine and other Slavic countries during the last week before Great Lent. This festival retains elements of Slavic mythology and is characterized by various traditional activities and culinary practices.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Maslenitsa ([[ukrainian|Ukrainian]]: Масниця) is an Eastern Slavic religious and folk holiday that occurs during the last week before Great Lent, specifically the eighth week before Eastern Orthodox Pascha. The date of Maslenitsa varies each year based on the date of Easter, aligning with the Western Christian Carnival, but with differences in the start of Lent."
+      ]
+    },
+    {
+      "heading": "Cultural Significance in Ukraine",
+      "paragraphs": [
+        "[[coal-in-ukraine|In Ukraine]], Maslenitsa is also referred to as Babskyi Tyzhden (Women's Week) or Kolodiy. This week highlights marriage and family traditions, where men humorously comply with women's wishes. Activities include the symbolic 'birth,' 'baptism,' and 'burial' of a wooden log, representing family values. Although less practiced today, Kolodiy serves as a reminder of festive Slavic customs."
+      ]
+    },
+    {
+      "heading": "Traditional Activities",
+      "paragraphs": [
+        "Maslenitsa features various traditional activities throughout the week. Monday marks the welcoming of 'Lady Maslenitsa' with the construction of an effigy, while Tuesday is often dedicated to young men seeking fiancées. Other days involve family gatherings, outdoor activities such as sledding and ice skating, and communal meals, particularly featuring pancakes."
+      ]
+    },
+    {
+      "heading": "Forgiveness Sunday",
+      "paragraphs": [
+        "The final day of Maslenitsa is known as 'Forgiveness Sunday' (Прощёное воскресенье), a time for relatives and friends to seek forgiveness from one another. The celebration culminates in the burning of the Maslenitsa effigy and the burying of its ashes, symbolizing renewal. This day is also significant as it marks the last opportunity for Orthodox Christians to consume dairy products before the fasting period of Great Lent."
+      ]
+    },
+    {
+      "heading": "Modern Observations",
+      "paragraphs": [
+        "In modern times, public celebrations of Maslenitsa have fluctuated, particularly influenced by historical events such as the Russian Revolution and the Soviet era. However, since the 1980s, there has been a revival of traditional practices. In Ukraine, Maslenitsa continues to be celebrated with a blend of old customs and contemporary festivities, reflecting its enduring cultural importance."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Maslenitsa — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maslenitsa",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

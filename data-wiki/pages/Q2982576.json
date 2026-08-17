@@ -1,0 +1,89 @@
+{
+  "qid": "Q2982576",
+  "slug": "liberal-party-of-ukraine",
+  "title": "Liberal Party of Ukraine",
+  "type": "political party",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "political party",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1991-09-12",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Liberal Party of Ukraine (LPU) is a political party founded on September 12, 1991, in Donetsk, known for promoting liberal values and reforms [[coal-in-ukraine|in Ukraine]]. It has a significant membership base and was the first liberal party in the post-Soviet space to be recognized by Liberal International.",
+  "sections": [
+    {
+      "heading": "Foundation and Registration",
+      "paragraphs": [
+        "The Liberal Party of Ukraine ([[ukrainian|Ukrainian]]: Ліберальна партія України, romanized: Liberalna Partiya Ukrayiny, or LPU) was established on September 12, 1991, in [[donetsk|Donetsk]]. The party was officially registered on October 10, 1991, with the [[ministry-of-justice-of-ukraine|Ministry of Justice of Ukraine]], holding certificate number 132."
+      ]
+    },
+    {
+      "heading": "Core Principles and Membership",
+      "paragraphs": [
+        "The Liberal Party of Ukraine is founded on the principles of liberalism, emphasizing the rule of law, political and economic freedoms, and a strong national identity. As of now, the party has approximately 32,000 members and operates 432 local and district centers across all [[administrative-territorial-entity-of-ukraine|regions of Ukraine]], including [[crimean-khanate|Crimea]], [[kyiv|Kyiv]], and [[sevastopol|Sevastopol]]."
+      ]
+    },
+    {
+      "heading": "International Recognition",
+      "paragraphs": [
+        "LPU is notable for being the first liberal party in the [[post-soviet-states|former Soviet Union]] to be recognized by Liberal International for meeting international standards of political liberalism. It gained observer member status on November 23, 1997, during the 48th Congress of Liberal International held in Oxford, Great Britain."
+      ]
+    },
+    {
+      "heading": "Congress and Leadership",
+      "paragraphs": [
+        "The founding congress took place on September 12, 1991, in Donetsk, where I.R. Markulov was elected as the first head of the party. Subsequent congresses have been held regularly, with significant events in Kyiv, including the first congress in June 1993 and others through the years, culminating in the 14th congress on November 1, 2009."
+      ]
+    },
+    {
+      "heading": "Political Activity and Elections",
+      "paragraphs": [
+        "The Liberal Party of Ukraine became an all-Ukrainian party in 1993 and adopted a social liberal program. It has participated in various elections, including the 1998 parliamentary elections as part of a bloc, and supported candidates in presidential elections. However, it has faced challenges in gaining parliamentary representation, with notable failures in the 2012, 2014, and 2019 elections."
+      ]
+    },
+    {
+      "heading": "Challenges and Developments",
+      "paragraphs": [
+        "In 2004, the LPU withdrew from the Our [[ukraine|Ukraine]] bloc to support [[viktor-yanukovych|Viktor Yanukovych]]'s presidential campaign. Following internal changes, including the resignation of V.P. Shcherban in 2005 and the election of P.S. Tsyganka as the new head, the party has navigated a complex political landscape, including a refusal to participate in early elections in 2007 due to concerns over transparency."
+      ]
+    }
+  ],
+  "links_out": [
+    "administrative-territorial-entity-of-ukraine",
+    "coal-in-ukraine",
+    "crimean-khanate",
+    "donetsk",
+    "kyiv",
+    "ministry-of-justice-of-ukraine",
+    "post-soviet-states",
+    "sevastopol",
+    "ukraine",
+    "ukrainian",
+    "viktor-yanukovych"
+  ],
+  "sources": [
+    {
+      "title": "Liberal Party of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Liberal_Party_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

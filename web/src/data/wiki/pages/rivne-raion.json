@@ -1,0 +1,102 @@
+{
+  "qid": "Q103859120",
+  "slug": "rivne-raion",
+  "title": "Rivne Raion",
+  "type": "raion of Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "raion of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2020-07-19",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Capital",
+        "value": "Rivne",
+        "source": "wikidata:P36"
+      },
+      {
+        "label": "Population",
+        "value": "634,900",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "7,218",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.6891, 26.5422",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Rivne Raion is an administrative district located in Rivne Oblast, western Ukraine, with its administrative center in the city of Rivne. As of 2022, the population of the raion is estimated to be 625,543.",
+  "sections": [
+    {
+      "heading": "Administrative Changes",
+      "paragraphs": [
+        "On 18 July 2020, a significant administrative reform [[coal-in-ukraine|in Ukraine]] reduced the number of raions in [[rivne-oblast|Rivne Oblast]] to four, leading to a substantial expansion of Rivne Raion. The population estimate for the raion in January 2020 was 92,981."
+      ]
+    },
+    {
+      "heading": "Communities",
+      "paragraphs": [
+        "Rivne Raion comprises 439 settlements, including six cities. It encompasses 26 territorial communities, which include urban communities such as [[rivne|Rivne]], Ostroh, Berezne, Zdolbuniv, Korets, and Kostopil, as well as various rural communities like Sosnove, Hoshcha, Mizoch, and others."
+      ]
+    },
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "The area of Rivne Raion covers 3,294.1 km² and shares borders with the [[sarny|Sarny]], Varash, and Dubno districts of Rivne Oblast, as well as the [[khmelnytskyi|Khmelnytskyi]], [[zhytomyr|Zhytomyr]], [[ternopil|Ternopil]], and [[volhynia|Volyn]] [[administrative-territorial-entity-of-ukraine|regions of Ukraine]]. The district's terrain is predominantly flat and lowland, characterized by pine and oak forests.",
+        "The district is situated mainly in the Volhynian Upland, with the Mizotsky ridge reaching a height of 342 m, which is the highest point in the Volyn Upland. The [[pripyat-river|Pripyat River]] basin encompasses the raion, with the Horyn River flowing through it. The climate is moderately continental, featuring mild winters and warm summers, with an average annual precipitation of 550 mm."
+      ]
+    },
+    {
+      "heading": "Natural Parks",
+      "paragraphs": [
+        "Derman-Ostroh National Nature Park is located within Rivne Raion, contributing to the region's ecological significance."
+      ]
+    },
+    {
+      "heading": "Transport Infrastructure",
+      "paragraphs": [
+        "Rivne Raion is served by major highways, including the European route E40 and the national highway H22, facilitating access to [[kyiv|Kyiv]], [[lviv|Lviv]], and Poland. Zdolbuniv, a city in the raion, serves as a crucial railway junction in [[western-ukraine|Western Ukraine]], with rail connections to Kovel, Lviv, and Kyiv. The Gdansk-[[odesa|Odesa]] Organisation for Co-operation between Railways corridor also traverses Zdolbuniv."
+      ]
+    }
+  ],
+  "links_out": [
+    "administrative-territorial-entity-of-ukraine",
+    "coal-in-ukraine",
+    "khmelnytskyi",
+    "kyiv",
+    "lviv",
+    "odesa",
+    "pripyat-river",
+    "rivne",
+    "rivne-oblast",
+    "sarny",
+    "ternopil",
+    "volhynia",
+    "western-ukraine",
+    "zhytomyr"
+  ],
+  "sources": [
+    {
+      "title": "Rivne Raion — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rivne_Raion",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

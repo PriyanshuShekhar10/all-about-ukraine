@@ -34,7 +34,7 @@
     {
       "heading": "Battle Overview",
       "paragraphs": [
-        "The First Battle of Kharkov occurred from 20 to 24 October 1941, as part of the final phase of Operation Barbarossa. The German 6th Army, part of Army Group South, engaged the Soviet Southwestern Front, with the Soviet 38th Army responsible for defending the city while its industrial facilities were evacuated."
+        "The First Battle of Kharkov occurred from 20 to 24 October 1941, as part of the final phase of [[operation-barbarossa|Operation Barbarossa]]. The German 6th Army, part of Army Group South, engaged the Soviet Southwestern Front, with the Soviet 38th Army responsible for defending the city while its industrial facilities were evacuated."
       ]
     },
     {
@@ -72,6 +72,7 @@
     "dnieper",
     "donbas",
     "kharkiv",
+    "operation-barbarossa",
     "soviet-union",
     "ukraine",
     "ukrainian-soviet-socialist-republic"

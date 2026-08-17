@@ -1,0 +1,72 @@
+{
+  "qid": "Q12132975",
+  "slug": "minorities-in-ukraine",
+  "title": "minorities in Ukraine",
+  "type": "groups of people in a location",
+  "category": "culture",
+  "aliases": [
+    "minorities of Ukraine"
+  ],
+  "infobox": {
+    "label": "groups of people in a location",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Ukraine",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "Minorities in Ukraine constitute 22.2 percent of the nation's population, featuring a diverse array of ethnic groups. The presence of these minorities is significant in the context of Ukraine's cultural landscape and its relations with neighboring countries.",
+  "sections": [
+    {
+      "heading": "Demographics of Minorities",
+      "paragraphs": [
+        "As of the 2001 census, significant ethnic minorities in Ukraine include ethnic Russians, who are the largest minority, as well as Belarusians, [[crimean-tatars|Crimean Tatars]], Bulgarians, Hungarians, and Romanians (including Moldovans). Additionally, there are smaller populations of Poles, Jews, Armenians, Roma, and other nationalities."
+      ]
+    },
+    {
+      "heading": "Political Context",
+      "paragraphs": [
+        "According to the Financial Times, issues concerning minorities in Ukraine represent a major potential barrier to the initiation of negotiations for [[ukraine|Ukraine]]'s accession to the European Union. Former Prime Minister of Hungary, Viktor Orbán, has repeatedly threatened to veto Ukraine's EU accession process over concerns related to minority rights."
+      ]
+    },
+    {
+      "heading": "Ethnic and Sub-Ethnic Groups",
+      "paragraphs": [
+        "The 2001 [[ukrainian|Ukrainian]] census identified several sub-ethnic groups among [[ukrainians|Ukrainians]], including Boykos, [[hutsuls|Hutsuls]], Lemkos, Litvins, Polishchuks, [[rusyns|Rusyns]], and Pinchuks, with no individuals identifying as Pinchuks at that time. Other Ukrainian sub-groups include Batyuks, Bukovinians, Dolynians, Opolyans, Podolyans, Pokuttians, Siverians, Slobozhans, and Volhynians. Outside Ukraine, Rusyns are often recognized as a separate nationality.",
+        "Among Russian sub-ethnic groups [[coal-in-ukraine|in Ukraine]] are the Lipovans, Molokans, and Goryuns, who identify as distinct from both Russians and Ukrainians or as a blend of the two. Other notable groups include Crimean and Nadazovia Greeks, as well as various German communities such as Carpathian, Crimean, Galician, Mennonite, Volhynian, and Zipser Germans, alongside Meskhetian Turks, Bessarabian Bulgarians, Hollenders, and Romanian-speaking Vlachs/Volokhs."
+      ]
+    },
+    {
+      "heading": "Indigenous Peoples",
+      "paragraphs": [
+        "The 2021 law 'On the Indigenous Peoples of Ukraine' defines indigenous peoples as ethnic minorities with unique languages, cultures, and representative bodies that have developed within Ukraine and lack state entities outside the country. This law recognizes the Crimean Tatars, Crimean Karaites, and Krymchaks as indigenous peoples of [[crimean-khanate|Crimea]]. There have been efforts to acknowledge additional groups, such as the Gagauz and Nadazovia Greeks, as indigenous."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "crimean-khanate",
+    "crimean-tatars",
+    "hutsuls",
+    "rusyns",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Minorities in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Minorities_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

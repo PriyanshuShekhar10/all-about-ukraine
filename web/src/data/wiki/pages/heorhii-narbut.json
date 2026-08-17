@@ -1,0 +1,84 @@
+{
+  "qid": "Q2443988",
+  "slug": "heorhii-narbut",
+  "title": "Heorhii Narbut",
+  "type": "human",
+  "category": "history",
+  "aliases": [
+    "Egor Narbut",
+    "Georges Narbout",
+    "Georgi Ivanovich Narbut",
+    "Georgii Narbut",
+    "Georgij Ivanovič Narbut",
+    "Georgy Ivanovich Narbut",
+    "Georgy Ivanovych Narbut",
+    "Georgy Narbut",
+    "Georgy. Narbut",
+    "Heorhiy Narbut",
+    "Jerzy Narbut",
+    "Yegor Ivanovich Narbut",
+    "Yurii Narbut"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1886-02-25",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1920-05-23",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Narbutivka",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Heorhiy Ivanovych Narbut was a prominent Ukrainian graphic artist known for his significant contributions to the visual identity of the [[ukrainian-peoples-republic|Ukrainian People's Republic]] through his designs of banknotes, postage stamps, and the national coat of arms.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Heorhiy Narbut was born on 25 February 1886 (O.S. 9 March) in the village of Narbutivka, which was part of the Russian Empire and is now located [[coal-in-ukraine|in Ukraine]], near Hlukhiv. His family claimed descent from ancient Lithuanian nobility, and he initially pursued painting through self-directed study."
+      ]
+    },
+    {
+      "heading": "Artistic Development in Saint Petersburg",
+      "paragraphs": [
+        "At approximately 20 years of age, Narbut moved to Saint Petersburg, where he lived from 1906 to 1917. During this period, he studied under noted painters Ivan Bilibin and Mstislav Dobuzhinsky. In 1909, he furthered his artistic education in Munich at the school of Simon Hollósy. Upon returning to Saint Petersburg, he became a member of the Mir iskusstva artistic organization. Between 1910 and 1912, Narbut worked as an illustrator for various fairy tales, including those of Hans Christian Andersen and the fables of Ivan Krylov."
+      ]
+    },
+    {
+      "heading": "Contributions in Kyiv",
+      "paragraphs": [
+        "In March 1917, Narbut relocated to [[kyiv|Kyiv]], where he assumed the role of professor and rector at the [[ukrainian|Ukrainian]] Academy of Arts by September of the same year. During his tenure, he designed Ukrainian banknotes, postage stamps, and charters for the newly established Ukrainian National Republic. He also contributed to several Ukrainian magazines, such as Nashe Mynule (Our Past), Zori (Stars), and Sontse Truda (The Sun of Labor). Narbut passed away from typhus in 1920."
+      ]
+    },
+    {
+      "heading": "Family",
+      "paragraphs": [
+        "Narbut's family included his daughter, Marina Berezowsky (1914–2011), who became a notable figure in ballet in Australia, and a son, Danylo Narbut (1916-1998), who was also an artist."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "kyiv",
+    "ukrainian",
+    "ukrainian-peoples-republic"
+  ],
+  "sources": [
+    {
+      "title": "Heorhiy Narbut — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Heorhiy_Narbut",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

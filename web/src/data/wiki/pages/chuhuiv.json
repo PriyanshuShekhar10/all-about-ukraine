@@ -1,0 +1,116 @@
+{
+  "qid": "Q889618",
+  "slug": "chuhuiv",
+  "title": "Chuhuiv",
+  "type": "city of regional significance of Ukraine",
+  "category": "economy",
+  "aliases": [
+    "Chuguev",
+    "Chuguyev"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1533",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Russian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "33,144",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "12",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "96",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Head of government",
+        "value": "Q109338632",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.8372, 36.6899",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Chuhuiv is a city of regional significance located in Kharkiv Oblast, Ukraine, serving as the administrative center of Chuhuiv Raion. As of February 2024, the city has a population exceeding 30,000 residents and is known for its military history and educational institutions.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Chuhuiv, known in [[ukrainian|Ukrainian]] as Чугуїв, is situated in [[kharkiv-oblast|Kharkiv Oblast]], [[ukraine|Ukraine]]. The city serves as the administrative center of Chuhuiv Raion and is part of the Chuhuiv urban hromada, which is one of the hromadas [[coal-in-ukraine|in Ukraine]]. According to the city council, the population of Chuhuiv is over 30,000 as of February 2024.",
+        "As per the 2001 census, Chuhuiv had a population of 37,348, predominantly composed of ethnic [[ukrainians|Ukrainians]]. It also has the highest concentration of individuals with a Russian background among major settlements in the Kharkiv region."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The founding date of Chuhuiv is debated, with claims ranging from 1540 to 1627. Some historians suggest that the city was established under the orders of Ivan the Terrible, the first Tsar of Russia, who reigned from 1547 to 1584.",
+        "In 1638, a military fort was constructed nearby by [[zaporozhian-cossacks|Ukrainian Cossacks]] led by Yakiv Ostryanyn, following orders from Muscovite Tsar Mikhail Fedorovich. The city has maintained a military presence since that time, with the Chuguev uprising of 1819 marking a revolt by military settlers.",
+        "During the [[ukrainian-war-of-independence|Ukrainian War of Independence]] from 1917 to 1920, control of Chuhuiv shifted among various factions. It subsequently became part of the Kharkiv Governorate in Ukraine. Under Soviet rule, Chuhuiv developed into a significant military training hub, hosting the Soviet Air Force Pilot Academy and the Red Army's Artillery School."
+      ]
+    },
+    {
+      "heading": "Military Significance",
+      "paragraphs": [
+        "Chuhuiv has historically been an important military location since Cossack times, housing a major Soviet Air Force base and a military pilot's academy. Presently, a Ukrainian Air Force base is located near the city.",
+        "On September 25, 2020, a tragic incident occurred when an An-26 military aircraft carrying cadets from the Ivan Kozhedub National Air Force University crashed near Chuhuiv, resulting in the deaths of 26 individuals, with one survivor sustaining serious injuries."
+      ]
+    },
+    {
+      "heading": "Recent Events",
+      "paragraphs": [
+        "Chuhuiv faced significant challenges during the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], beginning with shelling by Russian forces on February 24, 2022, which resulted in the death of a 14-year-old boy. On the same day, an air base near the city was also attacked.",
+        "In late February 2022, Russian forces partially captured Chuhuiv, taking positions on the outskirts. However, on March 7, 2022, Ukrainian forces successfully reclaimed the city, reportedly inflicting heavy casualties on the Russian military, including the deaths of two high-ranking officers."
+      ]
+    },
+    {
+      "heading": "Education",
+      "paragraphs": [
+        "Chuhuiv is home to eight schools providing education from grades 1 to 11, with the involvement of several Peace Corps volunteers since 2004. The city previously operated as a city of oblast significance until July 18, 2020, when administrative reforms led to its incorporation into Chuhuiv Raion.",
+        "In the 2013–2014 academic year, Chuhuiv had six preschool educational institutions, educating 1,195 children aged 2 to 6 years."
+      ]
+    },
+    {
+      "heading": "Notable Residents",
+      "paragraphs": [
+        "Chuhuiv has been the birthplace or residence of several notable individuals, including Semen Altman (born 1946), a Ukrainian football coach; Inna Dorofeieva (born 1965), a ballerina; and Ilya Repin (1844–1930), a prominent sculptor and painter.",
+        "Other notable figures include Sigrid Schauman (1877–1979), an artist and art critic; Yurii Sodol (born 1970), a Ukrainian military officer; and Oleksiy Symonenko (born 1976), a former Prosecutor General of Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "kharkiv-oblast",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-war-of-independence",
+    "ukrainians",
+    "zaporozhian-cossacks"
+  ],
+  "sources": [
+    {
+      "title": "Chuhuiv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chuhuiv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

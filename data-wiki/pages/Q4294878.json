@@ -1,0 +1,81 @@
+{
+  "qid": "Q4294878",
+  "slug": "ministry-of-justice-of-ukraine",
+  "title": "Ministry of Justice of Ukraine",
+  "type": "justice ministry",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "justice ministry",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1990",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "13 Arkhitektora Horodetskoho Street",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Ministry of Justice of Ukraine is the principal governmental body responsible for regulating the state's legal policy and ensuring the protection of human rights within Ukraine. Established in the early 20th century, it plays a crucial role in aligning Ukrainian legislation with European Union standards.",
+  "sections": [
+    {
+      "heading": "Main Objectives",
+      "paragraphs": [
+        "The Ministry of Justice aims to implement the state legal policy and adapt [[ukrainian|Ukrainian]] legislation to that of the European Union. It prepares proposals for legal reforms, promotes the development of legal science, and ensures the protection of human and citizen rights.",
+        "Additionally, the ministry is involved in improving legislation, systematizing laws, developing legal acts and international agreements, and conducting legal expertise. It coordinates legislative proceedings and actions related to the adaptation of Ukrainian legislation to European standards.",
+        "The ministry also organizes the implementation of judicial decisions, manages human resources, and provides expert support for justice, while overseeing notarial activities and civil status registrations."
+      ]
+    },
+    {
+      "heading": "Structure",
+      "paragraphs": [
+        "The Ministry of Justice consists of a central body led by a minister, a first deputy, and other deputies. It includes a government official responsible for representing [[ukraine|Ukraine]] in the European Court of Human Rights. The ministry supervises notaries and various state departments and agencies, each overseen by a deputy.",
+        "These agencies include the State Archive Service of Ukraine, the State Executive Service of Ukraine, the State Penitentiary Service of Ukraine, and the State Registration Service of Ukraine."
+      ]
+    },
+    {
+      "heading": "Regulation of Public Associations",
+      "paragraphs": [
+        "The Ministry of Justice is tasked with the registration of public associations, including branches of international organizations and foreign non-profit NGOs. Territorial authorities handle applications for registration, data changes, and liquidation of associations.",
+        "Public associations are defined by the Law of Ukraine as voluntary groups formed to protect rights and interests. They can be established by individuals or legal entities, with specific regulations governing their formation and operation."
+      ]
+    },
+    {
+      "heading": "Establishment and Operation of Public Associations",
+      "paragraphs": [
+        "To establish a public association, a minimum of two individuals over 18 years old is required. The process includes a constituent assembly where a charter is created, and an application for registration must be submitted to the Ministry of Justice within 60 days.",
+        "Public associations can operate with or without legal entity status, and they may have separate subdivisions. The ministry regulates the registration of these subdivisions and ensures compliance with the law."
+      ]
+    },
+    {
+      "heading": "State Registers",
+      "paragraphs": [
+        "The Ministry of Justice manages three state registers that provide information about public associations. The Unified State Register of Legal Entities, Individuals-Entrepreneurs and Public Formations serves as a public register for legal entities [[coal-in-ukraine|in Ukraine]].",
+        "Additionally, the Unified Register of Public Formations and the Register of Public Associations are specialized databases that track the registration and legalization of public formations, ensuring public access to this information."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ministry of Justice (Ukraine) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ministry_of_Justice_(Ukraine)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

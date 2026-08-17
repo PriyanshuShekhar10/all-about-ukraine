@@ -1,0 +1,71 @@
+{
+  "qid": "Q9208075",
+  "slug": "dnipropetrovsk-oblast-state-administration",
+  "title": "Dnipropetrovsk Oblast State Administration",
+  "type": "regional state administration",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "regional state administration",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1995-07-19",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Dnipro",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Dnipropetrovsk Oblast State Administration serves as the executive branch for Dnipropetrovsk Oblast [[coal-in-ukraine|in Ukraine]], with the governor acting as its head. The position has evolved in response to the ongoing Russo-Ukrainian War, reflecting the region's strategic importance.",
+  "sections": [
+    {
+      "heading": "Governance Structure",
+      "paragraphs": [
+        "The governor of [[dnipropetrovsk-oblast|Dnipropetrovsk Oblast]] is the leader of the executive branch for the region. This position is appointed by the [[president-of-ukraine|president of Ukraine]] based on a recommendation from the prime minister, with each governor serving a term of four years.",
+        "Since 24 February 2022, in light of the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]], the title of the governor has been officially changed to Head of the [[dnipro|Dnipropetrovsk]] Regional Military Civil Administration. The governor's official residence is situated in the city of [[dnieper|Dnipro]]."
+      ]
+    },
+    {
+      "heading": "Historical Overview of Governors",
+      "paragraphs": [
+        "The role of governor has seen various officeholders since its establishment, starting with Pavlo Lazarenko, who served as the representative of the President from 1992 to 1994. Following him, the heads of the administration included individuals such as Mykola [[derkach|Derkach]], Viktor Zabara, and Oleksandr Migdeyev.",
+        "Notable governors have included Mykola Shvets (1999–2003), Volodymyr Yatsuba (2003–2004), and [[ihor-kolomoyskyi|Ihor Kolomoyskyi]] (2014–2015). The position has also seen several acting governors, such as Volodymyr Meleshchyk and Dmytro Batura."
+      ]
+    },
+    {
+      "heading": "Recent Leadership",
+      "paragraphs": [
+        "In recent years, Valentyn Reznichenko served as governor from 2015 until 2023, followed by Volodymyr Orlov, who acted in the position in 2023. Currently, Serhiy Lysak holds the office, with a term extending until 2025.",
+        "The leadership of the Dnipropetrovsk Oblast State Administration continues to play a crucial role in managing the region's response to the ongoing challenges posed by the war and its governance."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "derkach",
+    "dnieper",
+    "dnipro",
+    "dnipropetrovsk-oblast",
+    "full-scale-russo-ukrainian-war",
+    "ihor-kolomoyskyi",
+    "president-of-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Governor of Dnipropetrovsk Oblast — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Governor_of_Dnipropetrovsk_Oblast",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

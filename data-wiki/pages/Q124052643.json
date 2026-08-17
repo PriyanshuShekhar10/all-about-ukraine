@@ -1,0 +1,58 @@
+{
+  "qid": "Q124052643",
+  "slug": "kyiv-city-ballet",
+  "title": "Kyiv City Ballet",
+  "type": "topic",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "topic",
+    "fields": []
+  },
+  "summary": "Kyiv City Ballet is an independent ballet company from [[ukraine|Ukraine]], currently based in Paris due to the ongoing conflict [[coal-in-ukraine|in Ukraine]]. Founded in 2012, the troupe continues to perform and tour internationally, showcasing a diverse repertoire.",
+  "sections": [
+    {
+      "heading": "Background",
+      "paragraphs": [
+        "Kyiv City Ballet was established in 2012 by Ivan Kozlov, who serves as the general director. The associate director is Ekaterina Kozlova, and the rehearsal director is Mykhaylo Shaherbakov. Due to the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], the company is currently operating from Paris, France."
+      ]
+    },
+    {
+      "heading": "Repertoire",
+      "paragraphs": [
+        "As of December 2023, the ensemble was engaged in a project titled Boys from [[kyiv|Kyiv]]. The repertoire included notable ballets such as Swan Lake, The Nutcracker, Romeo and Juliet, Scheherazade, Giselle, The Sleeping Beauty, Chopiniana, Don Quixote, Comical concert, Thoughts, and Tribute to Peace. Additionally, the company offers performances for children, featuring works like Cinderella, Snow White and the Seven Dwarves, Aibolit and Barmelei, and Coppelia."
+      ]
+    },
+    {
+      "heading": "Tour History",
+      "paragraphs": [
+        "In 2022, while on tour in France performing The Nutcracker, the group found itself stranded abroad due to the onset of the Russian invasion of Ukraine in February 2022."
+      ]
+    },
+    {
+      "heading": "National Opera of Ukraine Statement",
+      "paragraphs": [
+        "In January 2023, the [[national-opera-of-ukraine|National Opera of Ukraine]], located in Kyiv, released a statement clarifying that touring ballet groups with names similar to its own, including Kyiv City Ballet, are not official affiliates. The statement expressed the National Opera's concerns regarding performances of works by Russian composer [[pyotr-ilyich-tchaikovsky|Tchaikovsky]], such as The Nutcracker and Swan Lake, amid the ongoing conflict. This perspective is not universally accepted within the [[music-of-ukraine|Ukrainian music]] community, with some highlighting Tchaikovsky's [[ukrainian|Ukrainian]] heritage and the influences of Ukrainian culture on his music."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "music-of-ukraine",
+    "national-opera-of-ukraine",
+    "pyotr-ilyich-tchaikovsky",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Kyiv City Ballet — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kyiv_City_Ballet",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-17",
+  "status": "published"
+}

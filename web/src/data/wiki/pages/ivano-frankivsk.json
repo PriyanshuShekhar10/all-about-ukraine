@@ -63,7 +63,7 @@
     {
       "heading": "Historical Background",
       "paragraphs": [
-        "Originally founded as a fortress named Stanisławów in the mid-17th century by the Polish Potocki family, the city was annexed to the Habsburg Empire in 1772 during the First Partition of Poland. It evolved from a military fortification to a prominent urban center at the foothills of the [[carpathians|Carpathian Mountains]].",
+        "Originally founded as a fortress named Stanisławów in the mid-17th century by the Polish Potocki family, the city was annexed to the Habsburg Empire in 1772 during the [[first-partition-of-poland|First Partition of Poland]]. It evolved from a military fortification to a prominent urban center at the foothills of the [[carpathians|Carpathian Mountains]].",
         "In the aftermath of World War I, Stanisławów briefly served as the temporary capital of the [[west-ukrainian-peoples-republic|West Ukrainian People's Republic]]. Following the Peace of Riga in 1921, it became part of the Second Polish Republic until the onset of World War II, when it was annexed by [[soviet-union|the Soviet Union]] and later occupied by Nazi Germany."
       ]
     },
@@ -100,6 +100,7 @@
   ],
   "links_out": [
     "carpathians",
+    "first-partition-of-poland",
     "full-scale-russo-ukrainian-war",
     "hrushevsky-street",
     "ivan-franko",
