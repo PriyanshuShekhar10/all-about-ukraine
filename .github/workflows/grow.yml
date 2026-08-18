@@ -6,8 +6,9 @@ name: Grow wiki (daily)
 # regenerates graph.json (nodes/edges), so the knowledge-graph page grows
 # automatically with the corpus.
 #
-# Rate: throttled to ~100 entries/day (14 per section x 7 sections = 98).
-# Bump `per_category` (or add more scheduled runs) later to grow faster.
+# Rate: throttled to 1 new entry/day. The grow script rotates the target
+# section each day so coverage stays even across categories over a week.
+# Bump `total` later to grow faster.
 #
 # Deployment:
 #   * If the repo is connected to Cloudflare Pages via Git integration,
@@ -20,9 +21,9 @@ on:
     - cron: "0 0 * * *" # once a day at 00:00 UTC
   workflow_dispatch:
     inputs:
-      per_category:
-        description: "New entries to add per section"
-        default: "14"
+      total:
+        description: "New entries to add this run (all sections combined)"
+        default: "1"
 
 concurrency:
   group: grow-wiki
@@ -37,7 +38,7 @@ jobs:
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4o-mini' }}
-      PER_CATEGORY: ${{ github.event.inputs.per_category || '14' }}
+      TOTAL: ${{ github.event.inputs.total || '1' }}
       CF_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
       CF_ACCOUNT_ID: "7c486fb2ca6b72301939bdbc6e836332"
     steps:
@@ -54,11 +55,11 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r requirements.txt
 
-      - name: Add new terms (equally per section)
-        run: python wiki/grow.py --per-category "$PER_CATEGORY"
+      - name: Add new terms (1/day, rotating section)
+        run: python wiki/grow.py --per-category 1 --total "$TOTAL"
 
       - name: Build pages (gather -> synthesize -> resolve -> export)
-        run: python wiki/run.py --limit 300
+        run: python wiki/run.py --limit 5
 
       - name: Commit new content
         id: commit
@@ -70,7 +71,7 @@ jobs:
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "No new content this run."
           else
-            git commit -m "chore(content): hourly growth ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git commit -m "chore(content): daily growth ($(date -u +%Y-%m-%dT%H:%MZ))"
             git push
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi

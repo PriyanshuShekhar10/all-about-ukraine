@@ -8,10 +8,12 @@ drops anything already covered, and APPENDS the survivors to
 existing terms — ``run.py`` then gathers + synthesizes the freshly queued ones.
 
 "Equally for each section" = the same target number of new entries per category
-per run (``--per-category``, default 1).
+per run (``--per-category``, default 1). Pass ``--total N`` to cap the whole
+run (used for 1-page-a-day growth; the starting section rotates by UTC date).
 
 Usage:
     python wiki/grow.py --per-category 1
+    python wiki/grow.py --per-category 1 --total 1
     python wiki/grow.py --per-category 2 --dry-run
 """
 
@@ -22,6 +24,7 @@ import json
 import os
 import sys
 import time
+from datetime import datetime, timezone
 
 from wutil import load_env, load_terms, save_terms, slugify
 
@@ -83,6 +86,8 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--per-category", type=int, default=1,
                     help="new entries to add per section each run")
+    ap.add_argument("--total", type=int, default=0,
+                    help="cap on new entries this run (0 = no cap; grow every section)")
     ap.add_argument("--dry-run", action="store_true",
                     help="propose + resolve only; do not write terms.json")
     args = ap.parse_args()
@@ -100,13 +105,24 @@ def main() -> int:
 
     client = OpenAI()
     per_cat = max(1, args.per_category)
+    total_cap = max(0, args.total)
     # Over-ask so we still hit the target after dedupe/resolution failures.
     want = max(per_cat * 5, 10)
 
     new_terms: list[dict] = []
     summary: dict[str, int] = {}
 
-    for cat in GROW_CATEGORIES:
+    # Rotate the starting section by UTC day so a --total 1 cap still
+    # distributes evenly across categories over a week.
+    cats = list(GROW_CATEGORIES)
+    if total_cap:
+        shift = datetime.now(timezone.utc).timetuple().tm_yday % len(cats)
+        cats = cats[shift:] + cats[:shift]
+        print(f"Capped at {total_cap} new term(s); starting at [{cats[0]}]")
+
+    for cat in cats:
+        if total_cap and len(new_terms) >= total_cap:
+            break
         cat_name = CATEGORIES[cat]
         avoid = sorted({t["name"] for t in terms if t["category"] == cat})[:120]
         # Isolate each section: a transient API failure (e.g. Wikimedia 429 on
@@ -117,13 +133,18 @@ def main() -> int:
 
             resolved = resolve_titles(candidates) if candidates else {}
             picks: list[tuple[str, str]] = []
+            need = per_cat
+            if total_cap:
+                need = min(per_cat, max(0, total_cap - len(new_terms)))
+            if need <= 0:
+                break
             for title in candidates:
                 qid = resolved.get(title)
                 if not qid or qid in existing_qids or title.lower() in existing_names:
                     continue
                 picks.append((title, qid))
                 existing_qids.add(qid)  # avoid dupes within this run
-                if len(picks) >= per_cat:
+                if len(picks) >= need:
                     break
 
             if not picks:
