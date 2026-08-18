@@ -1,0 +1,96 @@
+{
+  "qid": "Q12132920",
+  "slug": "national-museum-тaras-shevchenko",
+  "title": "National Museum Тaras Shevchenko",
+  "type": "museum",
+  "category": "culture",
+  "aliases": [
+    "Taras Shevchenko National Museum"
+  ],
+  "infobox": {
+    "label": "museum",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1940",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Kyiv",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4433, 30.5158",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The National Museum of Taras Shevchenko, located in Kyiv, [[ukraine|Ukraine]], is dedicated to the life and contributions of the prominent Ukrainian painter and national poet, Taras Shevchenko.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The museum's origins trace back to an initiative by Shevchenko's friends aimed at preserving his legacy shortly after his death. By 1897, the collection had expanded and was transferred to the Museum of [[ukrainian|Ukrainian]] Antiquities, which later became part of the [[chernihiv|Chernihiv]] Regional Historical Museum.",
+        "In 1926, the Shevchenko Institute was established in [[kharkiv-oblast|Kharkiv]], becoming the new home for the collection, which initially operated as a section within the institute's manuscripts department.",
+        "A significant retrospective exhibition was funded by the Council of People's Commissars of [[soviet-union|the USSR]] in 1939, leading to the decision to establish a central museum in 1940. The exhibition took place at the Mariinskyi Palace and opened in 1941, but was closed due to the Second World War, with some artworks evacuated to Novosibirsk during the German occupation.",
+        "The museum officially opened in a specially adapted building on 24 April 1949. It underwent renovation from 1982 to 1989, during which time the exhibits were displayed in the [[kyiv-pechersk-lavra|Kyiv Pechersk Lavra]]. On 31 March 2001, the museum was designated as a [[lviv-national-museum|national museum]]."
+      ]
+    },
+    {
+      "heading": "Building",
+      "paragraphs": [
+        "The museum is situated in the Tereshchenka City Palace on [[taras-shevchenko|Taras Shevchenko]] Boulevard in [[kyiv|Kyiv]], a structure completed in 1841. In 1875, it was acquired by Nikola Tereshchenko, a philanthropist and sugar producer, who transformed it into an Italian Renaissance-style city palace with the assistance of architects Peter Fedorov and Ronald Tustanovsky."
+      ]
+    },
+    {
+      "heading": "Collection",
+      "paragraphs": [
+        "The museum's collection consists of over 72,000 items, including artworks and archival materials. Items from the collection have been loaned to museums in Latvia, Russia, and the Czech Republic.",
+        "The exhibits feature works by notable painters, sculptors, writers, and composers from Shevchenko's era, such as Karl Bryullov, Mykhailo Derehus, Ivan Yizhakevych, Vasyl Kasiyan, Fotii Krasytskyi, Ivan Kramskoi, Mikhail Mikeshin, Ilya Repin, Mykola Samokysch, Ivan Soschenko, Vasily Sternberg, Karpo Trokhymenko, Vasily Tropinin, and Konstantin Trutovsky. The collection also includes sculptures by Peter Kapschutschenko, Peter Clodt von Jürgensburg, Vladimir Beklemishev, among others."
+      ]
+    },
+    {
+      "heading": "AI Avatar of Taras Shevchenko and Digital Initiatives",
+      "paragraphs": [
+        "In March 2024, to mark the 210th anniversary of Taras Shevchenko's birth, the National Museum of Taras Shevchenko, in partnership with RAVATAR and with support from the [[vasyl-stus|Vasyl Stus]] Center, launched the world's first AI Avatar of Shevchenko. This initiative represents a significant step in the preservation of cultural heritage and the promotion of Shevchenko's legacy.",
+        "The AI Avatar is equipped with natural language processing capabilities, allowing it to engage in conversations through text, voice, or video formats via the Telegram messenger. It draws from a comprehensive knowledge base that includes information about Shevchenko's life and works, [[history-of-ukraine|Ukrainian history]], national ideals, and cultural identity, thereby creating new educational opportunities and enhancing engagement with Shevchenko's heritage.",
+        "To improve accessibility and interactivity, the AI Avatar maintains an Instagram page, providing users with updates on the project and insights into Shevchenko's life and artistry."
+      ]
+    },
+    {
+      "heading": "Notable Staff",
+      "paragraphs": [
+        "Yulia Shilenko serves as the Chief Curator of the National Museum of Taras Shevchenko."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernihiv",
+    "history-of-ukraine",
+    "kharkiv-oblast",
+    "kyiv",
+    "kyiv-pechersk-lavra",
+    "lviv-national-museum",
+    "soviet-union",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian",
+    "vasyl-stus"
+  ],
+  "sources": [
+    {
+      "title": "Taras Shevchenko National Museum — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Taras_Shevchenko_National_Museum",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

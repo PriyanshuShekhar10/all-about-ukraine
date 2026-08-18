@@ -1,0 +1,78 @@
+{
+  "qid": "Q2017541",
+  "slug": "oksana-lyniv",
+  "title": "Oksana Lyniv",
+  "type": "human",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1978-01-06",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Brody",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Oksana Yaroslavivna Lyniv is a prominent [[ukrainian|Ukrainian]] conductor known for her groundbreaking achievements in the field of classical music. She serves as the music director of the Teatro Comunale di Bologna and has significantly contributed to the establishment of the Youth Symphony Orchestra of Ukraine.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Oksana Lyniv was born on 6 January 1978 in Brody, which was part of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] at the time. She comes from a musical family, with both parents being musicians and her grandfather a choral conductor. Lyniv began her musical education by studying piano, flute, violin, and singing.",
+        "From 1992 to 1996, she attended the [[ivano-frankivsk|Stanislav]] Liudkevych Music School in [[lviv|Lviv]], where she focused on flute and conducting. At the age of 16, she conducted an orchestra for the first time, igniting her passion for conducting. She continued her studies at the Lysenko Music Academy in Lviv from 1996 to 2003, where she was mentored by notable teachers, including Bogdan Dashak."
+      ]
+    },
+    {
+      "heading": "Career Development",
+      "paragraphs": [
+        "Lyniv became the principal guest conductor of the Leopolis Chamber Symphony Orchestra in 2003. In 2004, she participated in the inaugural Gustav Mahler conducting competition held by the Bamberg Symphony, securing third prize. The following year, she served as an assistant conductor to Jonathan Nott at the Bamberg Symphony.",
+        "From 2005 to 2009, she furthered her studies at the Musikhochschule Dresden, receiving scholarships from various institutions. During this time, she participated in masterclasses with prominent conductors and was supported by the 'Dirigentenforum' of the German Music Council."
+      ]
+    },
+    {
+      "heading": "Notable Positions",
+      "paragraphs": [
+        "From 2008 to 2013, Lyniv held the position of associate chief conductor at the [[odesa|Odesa]] National Opera, where she worked on initiatives to establish a national youth orchestra [[coal-in-ukraine|in Ukraine]]. She later joined the Bavarian State Opera as an assistant conductor from 2013 to 2017, contributing to several productions.",
+        "In 2017, Lyniv was appointed chief conductor of the Graz Opera and the Graz Philharmonic Orchestra, becoming the first female conductor to hold such a position in these institutions. She concluded her tenure there at the end of the 2019-2020 season."
+      ]
+    },
+    {
+      "heading": "Recent Achievements",
+      "paragraphs": [
+        "In March 2021, Lyniv made her debut at the Teatro Comunale di Bologna, followed by a significant performance at the Bayreuth Festival on 25 July 2021, where she became the first female conductor to lead a production. In October 2021, she was named the music director of the Teatro Comunale di Bologna, effective January 2022, marking her as the first female music director of an Italian opera house.",
+        "In March 2022, she conducted Ai Weiwei's first opera production, Puccini's Turandot, at the Teatro dell'Opera di Roma. Lyniv is also scheduled to conduct Turandot at the Metropolitan Opera in the 2024 and 2026 seasons."
+      ]
+    },
+    {
+      "heading": "Awards and Recognition",
+      "paragraphs": [
+        "Lyniv has received several accolades for her contributions to music, including the Saxon Mozart Prize awarded to the Youth Symphony Orchestra of [[ukraine|Ukraine]] and its conductor in 2021, the Helena Vaz da Silva European Award in 2022, and the Bavarian Constitution Order in 2024."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ivano-frankivsk",
+    "lviv",
+    "odesa",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Oksana Lyniv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oksana_Lyniv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

@@ -10642,5 +10642,791 @@
     ],
     "notability": 91,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q148473",
+    "slug": "chortkiv",
+    "name": "Chortkiv",
+    "wp_title": "Chortkiv",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 54,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2623848",
+    "slug": "lviv-high-castle",
+    "name": "Lviv High Castle",
+    "wp_title": "Lviv High Castle",
+    "type": "castle",
+    "category": "geography",
+    "aliases": [],
+    "notability": 12,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q146456",
+    "slug": "mukachevo",
+    "name": "Mukachevo",
+    "wp_title": "Mukachevo",
+    "type": "city of regional significance of Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Minkatsch",
+      "Moekatsjeve",
+      "Moukatchevo",
+      "Mukaceve",
+      "Mukacevo",
+      "Mukacheve",
+      "Mukachiv",
+      "Mukachëvo",
+      "Mukaczewe",
+      "Mukaczewo",
+      "Mukacziw",
+      "Mukatjevo",
+      "Mukatschewe",
+      "Mukatschewo",
+      "Mukatschiw",
+      "Mukatseve",
+      "Mukatxeve",
+      "Mukatševe",
+      "Mukaĉeve",
+      "Mukačevo",
+      "Mukàtxeve",
+      "Muncaci",
+      "Munkacevo",
+      "Munkacs",
+      "Munkacz",
+      "Munkatch",
+      "Munkatsch",
+      "Munkatz",
+      "Munkačevo",
+      "Munkács"
+    ],
+    "notability": 67,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1595364",
+    "slug": "pochayiv-lavra",
+    "name": "Pochayiv Lavra",
+    "wp_title": "Pochaiv Lavra",
+    "type": "monastery",
+    "category": "geography",
+    "aliases": [],
+    "notability": 24,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1364829",
+    "slug": "roman-catholic-archdiocese-of-lviv",
+    "name": "Roman Catholic Archdiocese of Lviv",
+    "wp_title": "Roman Catholic Archdiocese of Lviv",
+    "type": "Roman Catholic metropolitan archdiocese",
+    "category": "geography",
+    "aliases": [
+      "Archdiocese of Lviv"
+    ],
+    "notability": 19,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4397734",
+    "slug": "rosava-river",
+    "name": "Rosava River",
+    "wp_title": "Rosava",
+    "type": "river",
+    "category": "geography",
+    "aliases": [],
+    "notability": 12,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q156593",
+    "slug": "sambir",
+    "name": "Sambir",
+    "wp_title": "Sambir",
+    "type": "city of regional significance of Ukraine",
+    "category": "geography",
+    "aliases": [
+      "Sambor"
+    ],
+    "notability": 54,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q156588",
+    "slug": "tysmenytsia",
+    "name": "Tysmenytsia",
+    "wp_title": "Tysmenytsia",
+    "type": "city in Ukraine",
+    "category": "geography",
+    "aliases": [],
+    "notability": 30,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q507997",
+    "slug": "uzh-river",
+    "name": "Uzh River",
+    "wp_title": "Uzh",
+    "type": "river",
+    "category": "geography",
+    "aliases": [
+      "Uh"
+    ],
+    "notability": 35,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q37555",
+    "slug": "polygon",
+    "name": "polygon",
+    "wp_title": "Polygon",
+    "type": "topic",
+    "category": "geography",
+    "aliases": [
+      "2-polytope"
+    ],
+    "notability": 116,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q12132952",
+    "slug": "national-university-of-physical-education-and-sport-of-ukraine",
+    "name": "National University of Physical Education and Sport of Ukraine",
+    "wp_title": "National University of Ukraine on Physical Education and Sport",
+    "type": "university",
+    "category": "geography",
+    "aliases": [
+      "Kyiv Institute of Physical Culture and Sports",
+      "Kyiv Institute of Physical Education",
+      "Kyiv Institute of Physical Education and Sport",
+      "Kyiv State Institute of Physical Culture",
+      "Kyiv State Institute of Physical Culture and Sports",
+      "Kyiv University of Physical Culture",
+      "UNUPES"
+    ],
+    "notability": 7,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1140920",
+    "slug": "20th-congress-of-the-communist-party-of-the-soviet-union",
+    "name": "20th Congress of the Communist Party of the Soviet Union",
+    "wp_title": "20th Congress of the Communist Party of the Soviet Union",
+    "type": "party conference",
+    "category": "people",
+    "aliases": [],
+    "notability": 27,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q51809582",
+    "slug": "gaidai",
+    "name": "Gaidai",
+    "wp_title": "Gaidai",
+    "type": "Wikimedia disambiguation page",
+    "category": "people",
+    "aliases": [],
+    "notability": 2,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2641614",
+    "slug": "makariv",
+    "name": "Makariv",
+    "wp_title": "Makariv",
+    "type": "urban-type settlement in Ukraine",
+    "category": "people",
+    "aliases": [],
+    "notability": 26,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q17297",
+    "slug": "matryoshka-doll",
+    "name": "matryoshka doll",
+    "wp_title": "Matryoshka doll",
+    "type": "topic",
+    "category": "people",
+    "aliases": [
+      "Babushka doll",
+      "Russian doll",
+      "Russian nesting doll",
+      "Russian tea doll",
+      "nesting doll",
+      "stacking doll"
+    ],
+    "notability": 68,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q156821",
+    "slug": "rohatyn",
+    "name": "Rohatyn",
+    "wp_title": "Rohatyn",
+    "type": "city in Ukraine",
+    "category": "people",
+    "aliases": [],
+    "notability": 44,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1774485",
+    "slug": "saint-georges-cathedral",
+    "name": "Saint George's Cathedral",
+    "wp_title": "St. George's Cathedral, Lviv",
+    "type": "cathedral",
+    "category": "people",
+    "aliases": [
+      "St George's Cathedral"
+    ],
+    "notability": 33,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2560981",
+    "slug": "dmytro-hnatyuk",
+    "name": "Dmytro Hnatyuk",
+    "wp_title": "Dmytro Hnatyuk",
+    "type": "human",
+    "category": "culture",
+    "aliases": [],
+    "notability": 14,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4213538",
+    "slug": "ivan-karabyts",
+    "name": "Ivan Karabyts",
+    "wp_title": "Ivan Karabyts",
+    "type": "human",
+    "category": "culture",
+    "aliases": [
+      "Ivan Fedorovich Karabits",
+      "Ivan Fedorovych Karabyts",
+      "Ivan Karabits"
+    ],
+    "notability": 10,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1984735",
+    "slug": "ivan-malkovych",
+    "name": "Ivan Malkovych",
+    "wp_title": "Ivan Malkovych",
+    "type": "human",
+    "category": "culture",
+    "aliases": [
+      "Ivan Antonovich Malkovych",
+      "Ivan Antonovych Malkovych"
+    ],
+    "notability": 15,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2017541",
+    "slug": "oksana-lyniv",
+    "name": "Oksana Lyniv",
+    "wp_title": "Oksana Lyniv",
+    "type": "human",
+    "category": "culture",
+    "aliases": [],
+    "notability": 21,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q247158",
+    "slug": "viktor-tikhonov",
+    "name": "Viktor Tikhonov",
+    "wp_title": "Viktor Tikhonov",
+    "type": "Wikimedia human name disambiguation page",
+    "category": "culture",
+    "aliases": [],
+    "notability": 15,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q200892",
+    "slug": "yevhen-stankovych",
+    "name": "Yevhen Stankovych",
+    "wp_title": "Yevhen Stankovych",
+    "type": "human",
+    "category": "culture",
+    "aliases": [
+      "Eugene Stankovych",
+      "Yevhen Fedorovych Stankovych"
+    ],
+    "notability": 23,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q161858",
+    "slug": "zinaida-serebryakova",
+    "name": "Zinaida Serebryakova",
+    "wp_title": "Zinaida Serebriakova",
+    "type": "human",
+    "category": "culture",
+    "aliases": [
+      "Sinaida Lanceray",
+      "Sinaida Serebrjakowa",
+      "Sinaïda Iévgénievna Serebryakova",
+      "Sinaïda Jewgenijewna Sserebjäkowa",
+      "Ssinaïda Jewgenijewa Lanssere",
+      "Zinaida Evgen'evna Lansere",
+      "Zinaida Evgen'evna Serebriakova",
+      "Zinaida Evgen'evna Serebrjakova",
+      "Zinaida Evgenevna Serebrjakova",
+      "Zinaida Evgenevna Serebryakova",
+      "Zinaida Evgenieva Serebriakova",
+      "Zinaida Evgenievna Serebryakova",
+      "Zinaida Lansere",
+      "Zinaida Yevgen'yevna Lansere",
+      "Zinaida Yevgen'yevna Serebryakova",
+      "Zinaida Yevgen'yevna née Lansere",
+      "Zinaida Yevgenivna Serebryakova",
+      "Zinaida Yevgenyevna Serebriakova",
+      "Zinaida nee Lansere",
+      "Zinaida née Lansere"
+    ],
+    "notability": 40,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q118719777",
+    "slug": "crimean-tatar-culture",
+    "name": "Crimean Tatar culture",
+    "wp_title": "Crimean Tatar culture",
+    "type": "culture by ethnic group",
+    "category": "culture",
+    "aliases": [],
+    "notability": 3,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q3608706",
+    "slug": "kryvyi-rih-national-university",
+    "name": "Kryvyi Rih National University",
+    "wp_title": "Kryvyi Rih National University",
+    "type": "university",
+    "category": "culture",
+    "aliases": [
+      "KNU",
+      "Krivoriz‘skij nacional‘nyj universitet",
+      "Kryvyi Rih University"
+    ],
+    "notability": 9,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q22232036",
+    "slug": "pavlivka",
+    "name": "Pavlivka",
+    "wp_title": "Pavlivka",
+    "type": "Wikimedia disambiguation page",
+    "category": "culture",
+    "aliases": [],
+    "notability": 11,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q12132920",
+    "slug": "national-museum-тaras-shevchenko",
+    "name": "National Museum Тaras Shevchenko",
+    "wp_title": "Taras Shevchenko National Museum",
+    "type": "museum",
+    "category": "culture",
+    "aliases": [
+      "Taras Shevchenko National Museum"
+    ],
+    "notability": 13,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q12144905",
+    "slug": "industry-in-ukraine",
+    "name": "Industry in Ukraine",
+    "wp_title": "Industry in Ukraine",
+    "type": "industry in a country or region",
+    "category": "economy",
+    "aliases": [],
+    "notability": 3,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q6980691",
+    "slug": "natural-gas-in-ukraine",
+    "name": "Natural gas in Ukraine",
+    "wp_title": "Natural gas in Ukraine",
+    "type": "aspect in a geographic region",
+    "category": "economy",
+    "aliases": [],
+    "notability": 4,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q16504508",
+    "slug": "republic-of-ukraine",
+    "name": "Republic of Ukraine",
+    "wp_title": "Post-Soviet transition in Ukraine",
+    "type": "topic",
+    "category": "economy",
+    "aliases": [],
+    "notability": 4,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q24278772",
+    "slug": "shipbuilding-in-ukraine",
+    "name": "shipbuilding in Ukraine",
+    "wp_title": "Shipbuilding in Ukraine",
+    "type": "aspect in a geographic region",
+    "category": "economy",
+    "aliases": [],
+    "notability": 3,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4453952",
+    "slug": "television-in-ukraine",
+    "name": "television in Ukraine",
+    "wp_title": "Television in Ukraine",
+    "type": "television in a country",
+    "category": "economy",
+    "aliases": [
+      "TV in Ukraine"
+    ],
+    "notability": 8,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q588819",
+    "slug": "tourism-in-ukraine",
+    "name": "tourism in Ukraine",
+    "wp_title": "Tourism in Ukraine",
+    "type": "tourism in a region",
+    "category": "economy",
+    "aliases": [
+      "Ukraine tourism",
+      "tourism of Ukraine"
+    ],
+    "notability": 20,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q328438",
+    "slug": "2007-ukrainian-parliamentary-election",
+    "name": "2007 Ukrainian parliamentary election",
+    "wp_title": "2007 Ukrainian parliamentary election",
+    "type": "Ukrainian parliamentary election",
+    "category": "politics",
+    "aliases": [
+      "Ukrainian parliamentary election, 2007"
+    ],
+    "notability": 20,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q20071491",
+    "slug": "2019-ukrainian-parliamentary-election",
+    "name": "2019 Ukrainian parliamentary election",
+    "wp_title": "2019 Ukrainian parliamentary election",
+    "type": "Ukrainian parliamentary election",
+    "category": "politics",
+    "aliases": [
+      "Ukrainian parliamentary election, 2019"
+    ],
+    "notability": 29,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1990730",
+    "slug": "mykola-shchors",
+    "name": "Mykola Shchors",
+    "wp_title": "Mykola Shchors",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "Mykola Oleksandrovich Shchors",
+      "Nikolai Aleksandrovich Shchors",
+      "Nikolay Shchors",
+      "Shchors, N. A."
+    ],
+    "notability": 22,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2505231",
+    "slug": "ukrainian-americans",
+    "name": "Ukrainian Americans",
+    "wp_title": "Ukrainian Americans",
+    "type": "ethnic group",
+    "category": "politics",
+    "aliases": [
+      "Ukrainian American"
+    ],
+    "notability": 14,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2336882",
+    "slug": "green-ukraine",
+    "name": "Green Ukraine",
+    "wp_title": "Green Ukraine",
+    "type": "historical region",
+    "category": "politics",
+    "aliases": [
+      "Transcathay",
+      "Zelenyi Klyn"
+    ],
+    "notability": 19,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4194493",
+    "slug": "zubrytsya",
+    "name": "Zubrytsya",
+    "wp_title": "Zubrytsia",
+    "type": "village of Ukraine",
+    "category": "politics",
+    "aliases": [],
+    "notability": 12,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q6518187",
+    "slug": "law-of-ukraine",
+    "name": "law of Ukraine",
+    "wp_title": "Law of Ukraine (legislation)",
+    "type": "law of Ukraine",
+    "category": "politics",
+    "aliases": [
+      "Ukraine act",
+      "legislation of Ukraine"
+    ],
+    "notability": 2,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2236860",
+    "slug": "battle-of-batih",
+    "name": "Battle of Batih",
+    "wp_title": "Battle of Batih",
+    "type": "battle",
+    "category": "history",
+    "aliases": [],
+    "notability": 11,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q644021",
+    "slug": "battle-of-kruty",
+    "name": "Battle of Kruty",
+    "wp_title": "Battle of Kruty",
+    "type": "battle",
+    "category": "history",
+    "aliases": [],
+    "notability": 22,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4094861",
+    "slug": "borshchahivka",
+    "name": "Borshchahivka",
+    "wp_title": "Borshchahivka",
+    "type": "historic district",
+    "category": "history",
+    "aliases": [],
+    "notability": 6,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q731497",
+    "slug": "evgeny-sokolov",
+    "name": "Evgeny Sokolov",
+    "wp_title": "Evgeny Sokolov",
+    "type": "human",
+    "category": "history",
+    "aliases": [],
+    "notability": 10,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q277597",
+    "slug": "geography-of-ukraine",
+    "name": "Geography of Ukraine",
+    "wp_title": "Geography of Ukraine",
+    "type": "geography of geographic location",
+    "category": "history",
+    "aliases": [
+      "Ukraine geography"
+    ],
+    "notability": 43,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q2088812",
+    "slug": "mykola-voronyi",
+    "name": "Mykola Voronyi",
+    "wp_title": "Mykola Voronyi",
+    "type": "human",
+    "category": "history",
+    "aliases": [
+      "Mykola Kindratovych Voronyi"
+    ],
+    "notability": 17,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q18758192",
+    "slug": "prizrak",
+    "name": "Prizrak",
+    "wp_title": "Ghost (2015 film)",
+    "type": "film",
+    "category": "history",
+    "aliases": [],
+    "notability": 12,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q7251672",
+    "slug": "protestantism-in-ukraine",
+    "name": "Protestantism in Ukraine",
+    "wp_title": "Protestantism in Ukraine",
+    "type": "Protestantism of an area",
+    "category": "history",
+    "aliases": [],
+    "notability": 5,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q122216705",
+    "slug": "soviet-occupation-of-ukraine",
+    "name": "Soviet occupation of Ukraine",
+    "wp_title": "Soviet occupation of Ukraine",
+    "type": "Wikimedia disambiguation page",
+    "category": "history",
+    "aliases": [],
+    "notability": 2,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q154659",
+    "slug": "theatre-in-ukraine",
+    "name": "theatre in Ukraine",
+    "wp_title": "Theatre of Ukraine",
+    "type": "theatre of an area",
+    "category": "history",
+    "aliases": [],
+    "notability": 25,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q951201",
+    "slug": "ukrainians-in-poland",
+    "name": "Ukrainians in Poland",
+    "wp_title": "Ukrainians in Poland",
+    "type": "ethnic group",
+    "category": "history",
+    "aliases": [],
+    "notability": 14,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q20066885",
+    "slug": "artem-dovbyk",
+    "name": "Artem Dovbyk",
+    "wp_title": "Artem Dovbyk",
+    "type": "human",
+    "category": "war",
+    "aliases": [],
+    "notability": 42,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q111046620",
+    "slug": "daria-kaleniuk",
+    "name": "Daria Kaleniuk",
+    "wp_title": "Daria Kaleniuk",
+    "type": "human",
+    "category": "war",
+    "aliases": [
+      "D. Kaleniuk"
+    ],
+    "notability": 6,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q1431229",
+    "slug": "donetsk-international-airport",
+    "name": "Donetsk International Airport",
+    "wp_title": "Donetsk International Airport",
+    "type": "international airport",
+    "category": "war",
+    "aliases": [
+      "DAP",
+      "Donetsk Airport",
+      "Donetsk Sergey Prokofiev International Airport"
+    ],
+    "notability": 38,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q4499410",
+    "slug": "the-holocaust-in-ukraine",
+    "name": "The Holocaust in Ukraine",
+    "wp_title": "The Holocaust in Ukraine",
+    "type": "genocide",
+    "category": "war",
+    "aliases": [
+      "Holocaust in Ukraine"
+    ],
+    "notability": 18,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q47496",
+    "slug": "marina-abramović",
+    "name": "Marina Abramović",
+    "wp_title": "Marina Abramović",
+    "type": "human",
+    "category": "war",
+    "aliases": [
+      "M. Abramovic",
+      "Marina Abramovic",
+      "Marina Abramovicz",
+      "Marina Abramoviæ"
+    ],
+    "notability": 71,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q223208",
+    "slug": "vorkuta-gulag",
+    "name": "Vorkuta Gulag",
+    "wp_title": "Vorkutlag",
+    "type": "prison labour camp",
+    "category": "war",
+    "aliases": [
+      "Vorkutlag"
+    ],
+    "notability": 14,
+    "status": "synthesized"
+  },
+  {
+    "qid": "Q997392",
+    "slug": "yavoriv",
+    "name": "Yavoriv",
+    "wp_title": "Yavoriv",
+    "type": "city in Ukraine",
+    "category": "war",
+    "aliases": [
+      "Jaworów",
+      "Yavorov"
+    ],
+    "notability": 48,
+    "status": "synthesized"
   }
 ]

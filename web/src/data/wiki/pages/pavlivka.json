@@ -1,0 +1,71 @@
+{
+  "qid": "Q22232036",
+  "slug": "pavlivka",
+  "title": "Pavlivka",
+  "type": "Wikimedia disambiguation page",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "Pavlivka refers to multiple settlements located [[coal-in-ukraine|in Ukraine]], each with distinct administrative affiliations across various regions.",
+  "sections": [
+    {
+      "heading": "Pavlivka in Donetsk Oblast",
+      "paragraphs": [
+        "One of the settlements named Pavlivka is a village situated in the [[vuhledar|Vuhledar]] urban hromada within the Volnovakha Raion of [[donetsk-oblast|Donetsk Oblast]]."
+      ]
+    },
+    {
+      "heading": "Pavlivka in Ivano-Frankivsk Oblast",
+      "paragraphs": [
+        "Another Pavlivka is a village located in the Yamnytsia rural hromada of [[ivano-frankivsk-raion|Ivano-Frankivsk Raion]] in [[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]]."
+      ]
+    },
+    {
+      "heading": "Pavlivka in Luhansk Oblast",
+      "paragraphs": [
+        "In [[luhansk-oblast|Luhansk Oblast]], Pavlivka is identified as a rural settlement within the Dovzhansk urban hromada of Dovzhansk Raion."
+      ]
+    },
+    {
+      "heading": "Pavlivka in Odesa Oblast",
+      "paragraphs": [
+        "There is also a village named Pavlivka in the Stepanivka rural hromada, which is part of the Rozdilna Raion in [[odesa-oblast|Odesa Oblast]]."
+      ]
+    },
+    {
+      "heading": "Pavlivka in Vinnytsia Oblast",
+      "paragraphs": [
+        "Additionally, a village called Pavlivka exists in the Kalynivka urban hromada of Khmilnyk Raion in [[vinnytsia-oblast|Vinnytsia Oblast]]."
+      ]
+    },
+    {
+      "heading": "Administrative Centre in Volyn Oblast",
+      "paragraphs": [
+        "Pavlivka also serves as the administrative centre of the Pavlivka rural hromada in Volodymyr Raion, located in [[volyn-oblast|Volyn Oblast]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "donetsk-oblast",
+    "ivano-frankivsk-oblast",
+    "ivano-frankivsk-raion",
+    "luhansk-oblast",
+    "odesa-oblast",
+    "vinnytsia-oblast",
+    "volyn-oblast",
+    "vuhledar"
+  ],
+  "sources": [
+    {
+      "title": "Pavlivka — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pavlivka",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

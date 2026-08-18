@@ -1,0 +1,129 @@
+{
+  "qid": "Q146456",
+  "slug": "mukachevo",
+  "title": "Mukachevo",
+  "type": "city of regional significance of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Minkatsch",
+    "Moekatsjeve",
+    "Moukatchevo",
+    "Mukaceve",
+    "Mukacevo",
+    "Mukacheve",
+    "Mukachiv",
+    "Mukachëvo",
+    "Mukaczewe",
+    "Mukaczewo",
+    "Mukacziw",
+    "Mukatjevo",
+    "Mukatschewe",
+    "Mukatschewo",
+    "Mukatschiw",
+    "Mukatseve",
+    "Mukatxeve",
+    "Mukatševe",
+    "Mukaĉeve",
+    "Mukačevo",
+    "Mukàtxeve",
+    "Muncaci",
+    "Munkacevo",
+    "Munkacs",
+    "Munkacz",
+    "Munkatch",
+    "Munkatsch",
+    "Munkatz",
+    "Munkačevo",
+    "Munkács"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "0701",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Austrian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "86,257",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "27",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "120",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.4414, 22.7136",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Mukachevo is a city of regional significance located in [[zakarpattia-oblast|Zakarpattia Oblast]], [[western-ukraine|western Ukraine]], serving as the administrative center of Mukachevo Raion. Historically significant and ethnically diverse, it has a rich cultural heritage and plays a vital role in the region's economy and demographics.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Mukachevo is situated in the valley of the Latorica River and is a key rail terminus and highway junction. As of 2022, the estimated population of Mukachevo is 85,569, with 77.1% identifying as ethnic [[ukrainian|Ukrainian]], alongside significant minorities including Russians (9.0%), Hungarians (8.5%), Germans (1.9%), and Roma (1.4%).",
+        "The city is positioned near the borders of Poland, Slovakia, Hungary, and Romania, contributing to its cultural diversity."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Mukachevo has a rich history, with early settlements dating back to before the Middle Ages. The city was part of various states, including Hungary, Czechoslovakia, and [[soviet-union|the Soviet Union]], before becoming part of [[independent-ukraine|independent Ukraine]] after World War II.",
+        "Historically, Mukachevo was a significant center for the Jewish community, with a population that was predominantly Jewish before World War II."
+      ]
+    },
+    {
+      "heading": "Cultural and Religious Heritage",
+      "paragraphs": [
+        "Mukachevo is recognized as a traditional stronghold of the Rusyn language and has been a historic spiritual center, particularly noted for its connection to the Eastern Orthodox eparchy of the Kyivan Metropolis.",
+        "The city experienced a significant religious transformation in the 17th century with the Union of [[uzhhorod|Uzhhorod]], which united the Eastern Orthodox Church with the Catholic Church."
+      ]
+    },
+    {
+      "heading": "Economic Development",
+      "paragraphs": [
+        "The economy of Mukachevo is diverse, featuring industries such as beer, wine, tobacco, food, textiles, timber, and furniture. The city also has strategic military significance, having hosted Mukachevo air base and a radar station during the Cold War.",
+        "The presence of companies like Fischer Sports, which produces winter sports equipment, highlights Mukachevo's role in the regional economy."
+      ]
+    },
+    {
+      "heading": "Recent Events",
+      "paragraphs": [
+        "In recent years, Mukachevo has been the site of notable events, including a clash in 2015 between [[cabinet-of-ministers-of-ukraine|Ukrainian government]] forces and far-right paramilitary groups, reflecting ongoing tensions related to local governance and illegal activities."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "independent-ukraine",
+    "soviet-union",
+    "ukrainian",
+    "uzhhorod",
+    "western-ukraine",
+    "zakarpattia-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Mukachevo — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mukachevo",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

@@ -15,7 +15,7 @@
       }
     ]
   },
-  "summary": "Pensions in Ukraine serve as a financial support system for retirees, structured under a three-tiered system established by the Law of Ukraine on Compulsory State Pension Insurance. This system is crucial for addressing the needs of the aging population and ensuring financial stability for retirees in the country.",
+  "summary": "Pensions in Ukraine serve as a financial support system for retirees, structured under a three-tiered system established by the [[law-of-ukraine|Law of Ukraine]] on Compulsory State Pension Insurance. This system is crucial for addressing the needs of the aging population and ensuring financial stability for retirees in the country.",
   "sections": [
     {
       "heading": "Pension System Overview",
@@ -57,6 +57,7 @@
   "links_out": [
     "coal-in-ukraine",
     "european-solidarity",
+    "law-of-ukraine",
     "petro-poroshenko",
     "ukraine",
     "verkhovna-rada"

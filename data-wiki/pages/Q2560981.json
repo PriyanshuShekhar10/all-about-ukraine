@@ -1,0 +1,85 @@
+{
+  "qid": "Q2560981",
+  "slug": "dmytro-hnatyuk",
+  "title": "Dmytro Hnatyuk",
+  "type": "human",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1925-03-28",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "2016-04-29",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Mamaivtsi, Northern Bukovina",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "deputy of the Supreme Soviet of the Soviet Union, People's Deputy of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Dmytro Mykhailovych Hnatyuk (28 March 1925 – 29 April 2016) was a prominent Soviet and Ukrainian baritone opera singer and a former member of the Ukrainian Parliament, recognized for his significant contributions to the arts [[coal-in-ukraine|in Ukraine]].",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Dmytro Hnatyuk was born on 28 March 1925 in the village of Mămăești, Sipeniț district, Cernăuți County, Romania. He completed his education at a Romanian-language school before graduating from the [[kyiv|Kyiv]] Conservatory in 1951, specializing as an opera and chamber singer."
+      ]
+    },
+    {
+      "heading": "Career in Music and Theatre",
+      "paragraphs": [
+        "Hnatyuk was a prominent singer at the Kiev Opera and Ballet Theatre, where he performed as a soloist in numerous operatic works. He graduated from the State Institute of Theatrical Arts in 1979, becoming a director. His career spanned from 1951 to 1988 as an opera singer, and he also served as the director of the State Academic Theatre of Opera and Ballet from 1988, contributing significantly to the [[ukrainian|Ukrainian]] cultural scene."
+      ]
+    },
+    {
+      "heading": "Political Involvement",
+      "paragraphs": [
+        "Hnatyuk was a member of the Supreme Soviet of [[soviet-union|the Soviet Union]] from 1972 to 1984, participating in the 8th to 10th sessions. He later served in the [[verkhovna-rada|Ukrainian Parliament]] from 1998 to 2002, initially elected as a member of Hromada and later joining the breakaway faction 'Fatherland' and subsequently 'Labour [[ukraine|Ukraine]]'."
+      ]
+    },
+    {
+      "heading": "Awards and Recognition",
+      "paragraphs": [
+        "Hnatyuk received numerous accolades throughout his career, including the title of People's Artist of Ukraine and People's Artist of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]. He was an academic at the Academy of Arts of Ukraine and a professor at the [[pyotr-ilyich-tchaikovsky|Tchaikovsky]] Music Academy. His notable honors include the Hero of Ukraine awarded on 28 March 2005, and multiple classes of the Order of Prince Yaroslav the Wise."
+      ]
+    },
+    {
+      "heading": "Personal Life",
+      "paragraphs": [
+        "Dmytro Hnatyuk was married to Halyna Hnatyuk, a Doctor of Philological Sciences and historian of the Ukrainian language. He passed away on 29 April 2016 and was laid to rest at Kyiv's Baikove Cemetery."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "kyiv",
+    "pyotr-ilyich-tchaikovsky",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Dmytro Hnatyuk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dmytro_Hnatyuk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

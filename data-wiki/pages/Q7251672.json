@@ -1,0 +1,75 @@
+{
+  "qid": "Q7251672",
+  "slug": "protestantism-in-ukraine",
+  "title": "Protestantism in Ukraine",
+  "type": "Protestantism of an area",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "Protestantism of an area",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Protestantism in Ukraine encompasses a diverse range of denominations and has a significant presence, with approximately 1.7 million adherents, representing about 3.8% of the population as of 2010. The movement has deep historical roots in the region, dating back to the 16th century, and has evolved into a vital part of the country's religious landscape.",
+  "sections": [
+    {
+      "heading": "Historical Overview",
+      "paragraphs": [
+        "Protestantism was introduced to [[ukraine|Ukraine]] in the 1530s and 1540s, initially through various pre-Reformation movements such as the Bogomils and Hussites. The first Protestant commune, established by Anabaptists, was founded in Volodymyr-Volynsk in 1536. Lutheran and Calvinist activities began in the 1540s, and by the 17th century, Protestantism had spread across various regions, including [[volhynia|Volhynia]], [[podolia|Podillia]], and southwestern [[transcarpathia|Transcarpathia]]."
+      ]
+    },
+    {
+      "heading": "Current Denominations and Membership",
+      "paragraphs": [
+        "As of the latest data, the All-[[ukrainian|Ukrainian]] Union of Churches of Evangelical Christian Baptists has nearly 150,000 members, while the All-Ukrainian Union of Evangelical Christians (Pentecostal) claims about 105,000 members. The Ukrainian Union of Seventh-day Adventists has approximately 40,000 members. The Protestant community [[coal-in-ukraine|in Ukraine]] is characterized by a more conservative and traditional approach compared to their counterparts in Western Europe and the United States."
+      ]
+    },
+    {
+      "heading": "Baptist Movement",
+      "paragraphs": [
+        "The Baptist Church, one of the oldest Protestant denominations in Ukraine, traces its roots back to the arrival of German Anabaptists in the 16th century. The first recorded Baptist baptism in Ukraine occurred in 1864, and the first Baptist communities were organized in 1867. The All-Ukraine Union of the Association of Evangelical Baptists was established in 1994 and currently encompasses nearly 90% of Baptists in the country."
+      ]
+    },
+    {
+      "heading": "Lutheranism in Ukraine",
+      "paragraphs": [
+        "Lutheranism has been present in Ukraine since the mid-16th century, particularly in regions such as Volhynia and [[galicia|Galicia]]. The Ukrainian Lutheran Church was founded in 1926 but faced persecution during the Soviet era. Since Ukraine's independence in 1991, Lutheran communities have been revitalized, with approximately 2,500 parishioners served by 22 national pastors by 2007."
+      ]
+    },
+    {
+      "heading": "Pentecostalism and Other Movements",
+      "paragraphs": [
+        "Pentecostalism emerged in Ukraine in the early 20th century, with significant growth following the establishment of organized communities in the 1920s. The All-Ukraine Union of Christians of the Evangelical Faith-Pentecostals was revived in 1990, incorporating various Pentecostal communities. The movement is known for its active missionary work and has established nearly 20 Bible seminaries and schools."
+      ]
+    },
+    {
+      "heading": "Reformed and Sub-Carpathian Reformed Churches",
+      "paragraphs": [
+        "Reformed churches have existed in Ukraine since the late 16th century, with a revival in the 1920s led by Ukrainian Canadian Presbyterian missionaries. The Evangelical Reformed Church in Ukraine currently has 7 congregations. The Sub-Carpathian Reformed Church, the oldest Protestant community in Ukraine, had 105 communities and 55 ministers by 2007, primarily serving ethnic Hungarians."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "galicia",
+    "podolia",
+    "transcarpathia",
+    "ukraine",
+    "ukrainian",
+    "volhynia"
+  ],
+  "sources": [
+    {
+      "title": "Protestantism in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Protestantism_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

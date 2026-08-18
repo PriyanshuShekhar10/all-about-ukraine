@@ -1,0 +1,81 @@
+{
+  "qid": "Q6980691",
+  "slug": "natural-gas-in-ukraine",
+  "title": "Natural gas in Ukraine",
+  "type": "aspect in a geographic region",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "aspect in a geographic region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Ukraine",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "Natural gas plays a crucial role [[coal-in-ukraine|in Ukraine]]'s energy landscape, with significant domestic production, consumption, and a vast transmission system. Ukraine is notable for having the largest gas storage capacity in Europe, which is vital for meeting seasonal demand.",
+  "sections": [
+    {
+      "heading": "Domestic Production",
+      "paragraphs": [
+        "[[ukraine|Ukraine]] is estimated to have natural gas reserves exceeding 670 billion cubic meters as of 2022. Domestic production peaked in 1975 at 68.1 billion cubic meters, but has since declined, stabilizing around 20 billion cubic meters in recent years.",
+        "The country aimed to increase natural gas production in the Black Sea from 1 billion cubic meters in 2011 to 3 billion cubic meters by 2015. In 2012, Black Sea production reached 1.2 billion cubic meters, with predictions of 1.65 billion cubic meters in 2013.",
+        "Over 70% of domestic gas production is conducted by UkrGasVydobuvannya, a subsidiary of the state-owned Naftogaz. Other private producers include [[dtek|DTEK]], Ukrnaftoburinnya, Burisma, Smart Energy, [[poltava|Poltava]] Petroleum Company, Geo Alliance Group, and KUB-GAS."
+      ]
+    },
+    {
+      "heading": "Consumption Patterns",
+      "paragraphs": [
+        "Ukraine ranks thirteenth in the world and fifth in Europe for natural gas consumption. From 1991 to 2012, consumption levels decreased from 118 billion cubic meters to less than 55 billion cubic meters, and further declined from 50.4 billion cubic meters in 2013 to 29.8 billion cubic meters in 2019.",
+        "Heavy industry is the largest consumer, accounting for 40% of domestic consumption, followed by households at over 30%, and communal heating systems at 20%. In 2013, Naftogaz reported that only four [[ukrainian|Ukrainian]] Oblasts consistently paid for natural gas."
+      ]
+    },
+    {
+      "heading": "Imports and Price Dynamics",
+      "paragraphs": [
+        "Despite domestic production, Ukraine imported about 80% of its natural gas needs in 1999. By 2017, domestic supply met 63.8% of consumption, with 36.2% still imported. Traditionally, imports came primarily from Turkmenistan and Russia.",
+        "In June 2014, Russia halted gas supplies due to unpaid debts, prompting Ukraine to increase imports from Poland and Hungary. Since 2015, Ukraine has not purchased gas directly from Russia, instead sourcing it from traders.",
+        "The price of Russian gas for Ukraine saw significant increases, rising from $50 per 1,000 cubic meters in 2004 to $426 in 2012. A temporary agreement in December 2013 reduced the price to $268 per 1,000 cubic meters."
+      ]
+    },
+    {
+      "heading": "Transmission System",
+      "paragraphs": [
+        "Ukraine's natural gas transmission system is one of the largest globally, consisting of 38,550 kilometers of pipelines and connecting with systems in Poland, Romania, Moldova, Hungary, and Slovakia. It is operated by the Gas Transmission System Operator of Ukraine.",
+        "The system includes 72 compressor stations and 13 underground gas storage facilities with a total active storage capacity of 30.9 billion cubic meters. The value of the transmission system is estimated between $9 billion and $25 billion."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The development of Ukraine's gas pipeline system began in [[galicia|Galicia]] with the first pipeline constructed in 1912. The system expanded significantly during the Soviet era, integrating various pipelines for gas export to Europe.",
+        "Key developments included the Dashava-[[kyiv|Kyiv]] pipeline, launched in 1948, which was the largest pipeline in Europe at the time, and the establishment of the first underground gas storage in 1964."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "dtek",
+    "galicia",
+    "kyiv",
+    "poltava",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Natural gas in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Natural_gas_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

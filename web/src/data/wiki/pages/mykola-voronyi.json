@@ -1,0 +1,87 @@
+{
+  "qid": "Q2088812",
+  "slug": "mykola-voronyi",
+  "title": "Mykola Voronyi",
+  "type": "human",
+  "category": "history",
+  "aliases": [
+    "Mykola Kindratovych Voronyi"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1871-12-06",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1938-06-07",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Yekaterinoslav Governorate",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Mykola Voronyi was a prominent Ukrainian writer, poet, actor, director, and political activist, whose contributions significantly influenced Ukrainian literature and theatre in the early 20th century.",
+  "sections": [
+    {
+      "heading": "Biography",
+      "paragraphs": [
+        "Mykola Kindratovych Voronyi was born on 6 December 1871 in Rostov-on-Don and spent his formative years in the [[dnipro|Yekaterinoslav]] Governorate. He pursued his studies in [[kharkiv-oblast|Kharkiv]], where he was arrested due to his political activities and subsequently spent three years under police supervision. Voronyi later emigrated, living and studying in [[lviv|Lviv]] and Vienna.",
+        "In 1895, he began his career as a director at the Ruska Besida Theatre in Lviv, where he also wrote articles on theatre, arts, and music. After returning to the Russian Empire in 1897, he performed with the troupes of notable figures such as Marko [[kropyvnytskyi|Kropyvnytskyi]] and Panas Saksahansky. By 1901, Voronyi shifted from acting to work as a zemstvo official, journalist, and theatre critic.",
+        "From 1910 onwards, he was associated with Mykola Sadovskyi's theatre in [[kyiv|Kyiv]]. Voronyi was a long-standing member of the Revolutionary [[ukrainian|Ukrainian]] Party and played a crucial role as a founding member of the Central Council of [[ukraine|Ukraine]]. In 1917, he co-founded the National Exemplary Theatre and, in 1918, served as a director, actor, and head of the literary department at the State People's Theatre.",
+        "After emigrating in 1920, he lived in Warsaw before moving back to Lviv, where he taught drama and directed the local music academy. In 1925, he became the director of the Grotesque Theatre in Lviv. Voronyi returned to [[ukrainian-soviet-socialist-republic|Soviet Ukraine]] in 1926, taking on roles as head of literary departments at operas in Kharkiv and Kyiv. However, in 1934, he was arrested and sentenced to three years of exile in Voronezh. He returned to Ukraine in 1937, settling in [[kirovohrad-oblast|Kirovohrad Oblast]], but was arrested again shortly thereafter and executed in [[odesa|Odesa]] by the NKVD troika in 1938 on fabricated charges of belonging to a Ukrainian militarist and nationalist organization."
+      ]
+    },
+    {
+      "heading": "Legacy",
+      "paragraphs": [
+        "Voronyi is recognized as one of the pioneering figures of Ukrainian modernism, having articulated the movement's manifesto in a 1903 article in the Literary-Scientific Herald. He challenged the realist lyricism characteristic of the Narodnik era and introduced urban and individualistic themes into Ukrainian poetry, enhancing its metrical and strophical diversity. Despite facing criticism for perceived superficiality and a focus on beauty over originality, his impact on [[ukrainian-literature|Ukrainian literature]] is undeniable.",
+        "He is also acknowledged as a foundational figure in Ukrainian theatrical theory and criticism, significantly contributing to the establishment of Ukrainian-language opera. His notable contributions include translating librettos for works such as The Love for Three Oranges by Sergei Prokofiev, Trilby by Aleksandr Yurasovsky, and Carmen by Georges Bizet, as well as translating various songs, including The Internationale, Marseillaise, and Warszawianka.",
+        "Voronyi's critical writings included analyses of composers such as Ostap Nyzhankivsky and played a vital role in the evolution of Ukrainian theatre, influencing figures like [[les-kurbas|Les Kurbas]] and his Young Theatre. A collection of Voronyi's works was published in Kyiv in 1989."
+      ]
+    },
+    {
+      "heading": "Works",
+      "paragraphs": [
+        "Voronyi's poetry collections include Lyrical Poems (Ліричні поезії, 1912), In Glow of Dreams (В сяйві мрій, 1913), For Ukraine (За Україну, 1921), and Poems (Поезії, Kharkiv, 1929).",
+        "His critical works encompass Theatre and Drama (Театр і драма, Kyiv, 1913), With Brush and Quill (Пензлем і пером, Prague, 1923), Dramatical Primadonna (Драматична примадонна, Lviv, 1924), dedicated to L. Linnytska, and Director (Режисер, Lviv, 1925)."
+      ]
+    },
+    {
+      "heading": "Family",
+      "paragraphs": [
+        "Voronyi's son, Marko, born in 1904 in [[chernihiv|Chernihiv]], followed in his father's footsteps as a poet. During the late 1920s, Marko's works were published in Lviv under the pen name Marko Antiokh, and later in Soviet Ukrainian magazines such as Chervonyi Shliakh. In 1935, he was arrested in Kyiv and sentenced to eight years in concentration camps, ultimately being executed on 3 November 1937 at Solovki."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernihiv",
+    "dnipro",
+    "kharkiv-oblast",
+    "kirovohrad-oblast",
+    "kropyvnytskyi",
+    "kyiv",
+    "les-kurbas",
+    "lviv",
+    "odesa",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-literature",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Mykola Voronyi — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mykola_Voronyi",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

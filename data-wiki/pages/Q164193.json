@@ -75,7 +75,7 @@
     {
       "heading": "Political Structure and Administration",
       "paragraphs": [
-        "Lviv Oblast was historically divided into 20 raions until a significant administrative reform on July 18, 2020, which reduced the number of districts to seven: [[drohobych|Drohobych]], Lviv, Sambir, [[sheptytskyi|Sheptytskyi]], Stryi, Yavoriv, and [[zolochiv|Zolochiv]]. The city of Lviv serves as the administrative center.",
+        "Lviv Oblast was historically divided into 20 raions until a significant administrative reform on July 18, 2020, which reduced the number of districts to seven: [[drohobych|Drohobych]], Lviv, [[sambir|Sambir]], [[sheptytskyi|Sheptytskyi]], Stryi, [[yavoriv|Yavoriv]], and [[zolochiv|Zolochiv]]. The city of Lviv serves as the administrative center.",
         "The governance of Lviv Oblast has seen various leadership structures, including chairmen of the executive committee and representatives of the president, reflecting the region's political evolution over time."
       ]
     },
@@ -97,6 +97,7 @@
     "galicia",
     "kievan-rus",
     "lviv",
+    "sambir",
     "sheptytskyi",
     "ukraine",
     "ukrainian",
@@ -107,6 +108,7 @@
     "volhynia",
     "west-ukrainian-peoples-republic",
     "western-ukraine",
+    "yavoriv",
     "zolochiv"
   ],
   "sources": [

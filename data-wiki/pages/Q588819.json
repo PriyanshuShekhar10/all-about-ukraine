@@ -1,0 +1,98 @@
+{
+  "qid": "Q588819",
+  "slug": "tourism-in-ukraine",
+  "title": "tourism in Ukraine",
+  "type": "tourism in a region",
+  "category": "economy",
+  "aliases": [
+    "Ukraine tourism",
+    "tourism of Ukraine"
+  ],
+  "infobox": {
+    "label": "tourism in a region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Ukraine",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "Tourism in Ukraine has historically attracted over 20 million foreign visitors annually before the 2014 Russian annexation of Crimea, which significantly reduced these numbers. The country offers diverse attractions ranging from natural landscapes to historical sites, contributing to its economy despite being underdeveloped.",
+  "sections": [
+    {
+      "heading": "Overview of Tourism",
+      "paragraphs": [
+        "Before the 2014 [[russian-annexation-of-crimea|Russian annexation of Crimea]], tourism in Ukraine drew more than 20 million foreign visitors each year, with numbers declining to approximately 10 million since then. The primary sources of visitors include countries from Eastern and Western Europe, Turkey, and Israel.",
+        "[[ukraine|Ukraine]] was ranked 8th in Europe for tourist arrivals according to the World Tourism Organization prior to the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]]. The country features a variety of attractions, including mountain ranges for skiing, hiking, and fishing, as well as a coastline along the Black Sea that serves as a popular summer destination."
+      ]
+    },
+    {
+      "heading": "Key Tourist Destinations",
+      "paragraphs": [
+        "Major tourist centers [[coal-in-ukraine|in Ukraine]] include [[kyiv|Kyiv]], [[lviv|Lviv]], [[odesa|Odesa]], and Kamyanets-Podilskyi, each known for their rich historical landmarks and hospitality infrastructure. Lesser-known cities, such as Odesa, also contribute to the tourism landscape.",
+        "The Seven Wonders of Ukraine and the Seven Natural Wonders of Ukraine highlight significant landmarks, selected through public voting, showcasing the country's cultural and natural heritage."
+      ]
+    },
+    {
+      "heading": "Regional Highlights",
+      "paragraphs": [
+        "Central Ukraine features cities like Kyiv, known for its ancient churches and cultural facilities, and [[chernihiv|Chernihiv]], recognized for its medieval architecture. Other notable cities include [[vinnytsia|Vinnytsia]], [[uman|Uman]], and [[poltava|Poltava]], each with unique attractions.",
+        "[[western-ukraine|Western Ukraine]] is highlighted by Lviv, celebrated for its architectural heritage, and [[ivano-frankivsk|Ivano-Frankivsk]], recognized as a top living destination. The region includes historic cities such as [[chernivtsi|Chernivtsi]] and [[kamianets-podilskyi|Kamianets-Podilskyi]].",
+        "Eastern Ukraine includes [[kharkiv-oblast|Kharkiv]], a major cultural and educational hub, and [[sviatohirsk|Sviatohirsk]], known for its monastery. The region also features cities like [[bakhmut|Bakhmut]], which has faced destruction due to conflict.",
+        "Southern Ukraine is characterized by Odesa, a cultural melting pot and significant trading center, alongside cities like [[zaporizhzhia|Zaporizhzhia]] and Bilhorod-Dnistrovskyi, which offer historical insights."
+      ]
+    },
+    {
+      "heading": "Natural Landscapes and Activities",
+      "paragraphs": [
+        "Ukraine's landscapes include the [[carpathians|Carpathian Mountains]], which provide opportunities for skiing and hiking, and the Black Sea coastline, known for its summer resorts. The [[dnieper|Dnieper]] and [[dniester|Dniester]] rivers offer options for cruises and canoeing, respectively.",
+        "The Seven Natural Wonders of Ukraine, including Askania-Nova and Lake Synevyr, showcase the country's ecological diversity and natural beauty."
+      ]
+    },
+    {
+      "heading": "Medical Tourism",
+      "paragraphs": [
+        "In recent years, Ukraine has seen a rise in medical tourism, particularly for dental services, which are offered at lower costs compared to Western and Russian clinics. Other popular medical tourism services include spas, eye and plastic surgery, and hair transplants."
+      ]
+    }
+  ],
+  "links_out": [
+    "bakhmut",
+    "carpathians",
+    "chernihiv",
+    "chernivtsi",
+    "coal-in-ukraine",
+    "dnieper",
+    "dniester",
+    "full-scale-russo-ukrainian-war",
+    "ivano-frankivsk",
+    "kamianets-podilskyi",
+    "kharkiv-oblast",
+    "kyiv",
+    "lviv",
+    "odesa",
+    "poltava",
+    "russian-annexation-of-crimea",
+    "sviatohirsk",
+    "ukraine",
+    "uman",
+    "vinnytsia",
+    "western-ukraine",
+    "zaporizhzhia"
+  ],
+  "sources": [
+    {
+      "title": "Tourism in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tourism_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

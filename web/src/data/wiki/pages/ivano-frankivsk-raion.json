@@ -57,7 +57,7 @@
     {
       "heading": "Subdivisions and Hromadas",
       "paragraphs": [
-        "Upon its establishment, Ivano-Frankivsk Raion included 20 hromadas, which are local administrative units. These hromadas were formed from the merger of five previously existing raions: Bohorodchany, [[halych|Halych]], Rohatyn, Tlumach, and Tysmenytsia, along with Ivano-Frankivsk and Burshtyn Municipalities.",
+        "Upon its establishment, Ivano-Frankivsk Raion included 20 hromadas, which are local administrative units. These hromadas were formed from the merger of five previously existing raions: Bohorodchany, [[halych|Halych]], [[rohatyn|Rohatyn]], Tlumach, and [[tysmenytsia|Tysmenytsia]], along with Ivano-Frankivsk and Burshtyn Municipalities.",
         "The hromadas within the raion include Bilshivtsi, Bohorodchany, Bukachivtsi, Burshtyn, Dubivtsi, Dzvyniach, Halych, Ivano-Frankivsk, Lysets, Obertyn, Olesha, Rohatyn, Solotvyn, Stari Bohorodchany, Tlumach, Tysmenytsia, Uhryniv, Yamnytsia, Yezupil, and Zahvizdia."
       ]
     }
@@ -66,6 +66,8 @@
     "halych",
     "ivano-frankivsk",
     "ivano-frankivsk-oblast",
+    "rohatyn",
+    "tysmenytsia",
     "ukraine"
   ],
   "sources": [

@@ -1,0 +1,79 @@
+{
+  "qid": "Q2236860",
+  "slug": "battle-of-batih",
+  "title": "Battle of Batih",
+  "type": "battle",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "battle",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Chetvertinivka",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.5917, 29.2822",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Battle of Batih, fought from June 1 to 2, 1652, near the village of Batih in the [[bratslav|Bratslav]] Regiment, was a significant conflict between the [[cossack-hetmanate|Cossack Hetmanate]] and the [[crimean-khanate|Crimean Khanate]] against the Polish–Lithuanian Commonwealth during the Khmelnytskyi Uprising. This battle marked a decisive defeat for the Polish forces, impacting the military landscape [[coal-in-ukraine|in Ukraine]] and the broader region.",
+  "sections": [
+    {
+      "heading": "Background",
+      "paragraphs": [
+        "The Battle of Batih was preceded by the failure of the Polish Sejm to ratify the Treaty of [[bila-tserkva|Bila Tserkva]], prompting the Polish–Lithuanian Commonwealth to mobilize Crown forces under Field [[hetman|Hetman]] Marcin Kalinowski in the Bracław Voivodeship. Historian Hrushevsky noted that Hetman [[bohdan-khmelnytsky|Bohdan Khmelnytsky]] accused the Poles of violating the treaty by destroying Cossack towns and preparing for war, leading to a Cossack council decision to release them from their oaths.",
+        "Kalinowski aimed to prevent the Cossack army from merging with the Horde by blocking their advance into Moldavia. However, by the end of May, the Cossack army had already mobilized and joined forces with the Tatars, prompting [[khmelnytskyi|Khmelnytsky]] to launch an attack before additional Polish troops could arrive."
+      ]
+    },
+    {
+      "heading": "Battle",
+      "paragraphs": [
+        "The battle commenced when the Polish cavalry engaged a small Tatar vanguard on June 1, 1652. As the first day progressed, Khmelnytsky's main forces arrived, allowing them to bypass the Polish camp unnoticed during the night.",
+        "On June 2, skirmishes resumed, but Kalinowski soon found himself encircled by Cossack and Tatar forces. The [[cossacks|Cossacks]] breached the Polish camp's defenses, leading to chaos and panic within the Crown Army, resulting in the flight of approximately fifteen hundred soldiers and the death of Kalinowski."
+      ]
+    },
+    {
+      "heading": "Massacre",
+      "paragraphs": [
+        "Following the battle, the [[zaporozhian-cossacks|Zaporozhian Cossacks]] executed Polish prisoners as retribution for their earlier defeat at Berestechko. According to historians, the decision to massacre the captives was made by Bohdan Khmelnytsky, who offered the [[crimean-tatars|Crimean Tatars]] a substantial payment for the right to execute between 10,000 to 15,000 Polish soldiers, with estimates of the actual number killed ranging from 3,000 to 8,000."
+      ]
+    },
+    {
+      "heading": "Aftermath",
+      "paragraphs": [
+        "The aftermath of the Battle of Batih left the Polish forces in disarray, reminiscent of earlier Polish defeats during the Khmelnytskyi Uprising. Notable Polish nobles, including Crown Great Quartermaster Samuel Kalinowski and Hetman Marcin Kalinowski, were killed either in the battle or during the subsequent massacre of prisoners, further weakening the Polish–Lithuanian Commonwealth's military standing."
+      ]
+    }
+  ],
+  "links_out": [
+    "bila-tserkva",
+    "bohdan-khmelnytsky",
+    "bratslav",
+    "coal-in-ukraine",
+    "cossack-hetmanate",
+    "cossacks",
+    "crimean-khanate",
+    "crimean-tatars",
+    "hetman",
+    "khmelnytskyi",
+    "zaporozhian-cossacks"
+  ],
+  "sources": [
+    {
+      "title": "Battle of Batih — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Batih",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

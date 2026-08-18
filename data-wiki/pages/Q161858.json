@@ -1,0 +1,101 @@
+{
+  "qid": "Q161858",
+  "slug": "zinaida-serebryakova",
+  "title": "Zinaida Serebryakova",
+  "type": "human",
+  "category": "culture",
+  "aliases": [
+    "Sinaida Lanceray",
+    "Sinaida Serebrjakowa",
+    "Sinaïda Iévgénievna Serebryakova",
+    "Sinaïda Jewgenijewna Sserebjäkowa",
+    "Ssinaïda Jewgenijewa Lanssere",
+    "Zinaida Evgen'evna Lansere",
+    "Zinaida Evgen'evna Serebriakova",
+    "Zinaida Evgen'evna Serebrjakova",
+    "Zinaida Evgenevna Serebrjakova",
+    "Zinaida Evgenevna Serebryakova",
+    "Zinaida Evgenieva Serebriakova",
+    "Zinaida Evgenievna Serebryakova",
+    "Zinaida Lansere",
+    "Zinaida Yevgen'yevna Lansere",
+    "Zinaida Yevgen'yevna Serebryakova",
+    "Zinaida Yevgen'yevna née Lansere",
+    "Zinaida Yevgenivna Serebryakova",
+    "Zinaida Yevgenyevna Serebriakova",
+    "Zinaida nee Lansere",
+    "Zinaida née Lansere"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1884-11-28",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1967-09-19",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Neskuchne",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Zinaida Serebryakova was a prominent Russian painter born in the Kharkov region, known for her contributions to the Modernist movement and her significant connection to [[ukraine|Ukraine]] through her early life and artistic development.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Zinaida Yevgenyevna Lansere was born on 10 December 1884 on the estate of Neskuchnoye near [[kharkiv|Kharkov]] in the Russian Empire. Her father, Yevgeny Aleksandrovich Lansere, was a sculptor, while her mother, Yekaterina Lansere, was a painter from the artistic Benois family. The family had notable artistic connections, including her grandfather Nicholas Benois, an architect, and her uncle Alexandre Benois, a painter and founder of the Mir iskusstva art group.",
+        "After her father's death in 1886, Zinaida's mother moved the family to Saint Petersburg, where they were immersed in an artistic environment. Zinaida graduated from a women's gymnasium in 1900 and entered an art school founded by Princess Maria Tenisheva in 1901, studying under Ilya Repin. She furthered her education in Italy and at the studio of Osip Braz in Saint Petersburg, and later studied in Paris at the Académie de la Grande Chaumière."
+      ]
+    },
+    {
+      "heading": "Artistic Success",
+      "paragraphs": [
+        "Serebryakova achieved early recognition with her self-portrait, At the Dressing-Table (1909), which was enthusiastically received at an exhibition by Mir iskusstva in 1910 and acquired by the Tretyakov Gallery. This success was followed by notable works such as Girl Bathing (1911) and portraits of her family members.",
+        "From 1914 to 1917, she focused on themes of Russian rural life, producing works like Peasants (1914–1915). In 1916, the Imperial Academy of Arts recognized her achievements, recommending her for the title of academician, although this was interrupted by the February Revolution."
+      ]
+    },
+    {
+      "heading": "Impact of the Revolution",
+      "paragraphs": [
+        "The October Revolution of 1917 significantly altered Serebryakova's life. Her estate was destroyed, her husband was arrested and died in 1919, and she faced financial hardship while caring for her children and sick mother. During this challenging period, she shifted from oil painting to more affordable mediums like charcoal and pencil.",
+        "Despite the turmoil, she found some work at the Kharkov Archaeological Museum, where she created drawings of exhibits. In December 1920, she relocated to Petrograd, where she was fortunate to share living space with artists from the Moscow Art Theatre, influencing her work during this time."
+      ]
+    },
+    {
+      "heading": "Life in Paris",
+      "paragraphs": [
+        "In 1924, Serebryakova moved to Paris for a mural commission and intended to return to [[soviet-union|the Soviet Union]]. However, she was unable to do so and only managed to reunite with two of her children in Paris over the following years. She traveled extensively, creating numerous works inspired by her travels, including over 130 portraits and sketches during a visit to Morocco.",
+        "In 1947, she became a French citizen, and it was not until the Khrushchev Thaw that she was allowed to reconnect with her family in the Soviet Union. Her works were exhibited in the Soviet Union in 1966, receiving significant acclaim."
+      ]
+    },
+    {
+      "heading": "Legacy",
+      "paragraphs": [
+        "Zinaida Serebryakova passed away on 19 September 1967 in Paris and is buried at the Russian cemetery in Sainte-Geneviève-des-Bois. Despite spending much of her life in France, her artistic roots and early experiences [[coal-in-ukraine|in Ukraine]] played a crucial role in shaping her work and identity as an artist."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "kharkiv",
+    "soviet-union",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Zinaida Serebriakova — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zinaida_Serebriakova",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

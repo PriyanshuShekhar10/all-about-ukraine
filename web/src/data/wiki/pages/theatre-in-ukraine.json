@@ -1,0 +1,83 @@
+{
+  "qid": "Q154659",
+  "slug": "theatre-in-ukraine",
+  "title": "theatre in Ukraine",
+  "type": "theatre of an area",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "theatre of an area",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Ukrainian theatre, known as Театральне мистецтво України, is a significant form of cultural expression that utilizes live performances to reflect the traditions, language, and [[culture-of-ukraine|culture of Ukraine]]. The history of Ukrainian theatre dates back to the early 17th century, evolving through various historical periods and influences.",
+  "sections": [
+    {
+      "heading": "Historical Origins",
+      "paragraphs": [
+        "The roots of [[ukrainian|Ukrainian]] theatre can be traced to ancient folk traditions, including games, dances, songs, and rituals. In the 11th century, entertainers known as skomorokhy performed throughout [[ukraine|Ukraine]], showcasing a cultural reverence for the Supreme Being in pre-Christian performances."
+      ]
+    },
+    {
+      "heading": "Medieval and Early Modern Development",
+      "paragraphs": [
+        "Theatre elements emerged during church ceremonies, as seen in the frescoes of [[saint-sophia-cathedral|Saint Sophia's Cathedral]] in [[kyiv|Kyiv]] from the 11th century. The [[lviv|Lviv]] Brotherhood School and [[ostroh-academy|Ostroh Academy]] became notable centers for religious drama development. The earliest written references to theatrical performances [[coal-in-ukraine|in Ukraine]] appeared in the 1620s, influenced by Jesuit educators who used theatre for propaganda. Surviving texts include Pamvo Berynda's 'Christmas Day proclamation' and performances commemorating John the Baptist's death in 1619."
+      ]
+    },
+    {
+      "heading": "Theatre Growth from the 17th to 19th Centuries",
+      "paragraphs": [
+        "The 17th and 18th centuries saw the rise of Nativity scenes and Christmas plays, alongside the popularity of portable puppet theatres known as Vertep. The first stationary theatre in Ukraine opened in [[kharkiv-oblast|Kharkiv]] in 1789, while Kyiv (1806), [[odesa|Odessa]] (1809), and [[poltava|Poltava]] (1808) saw the establishment of more theatres. The Ruska Besida Theatre in Lviv (1864–1924) marked the beginning of professional Ukrainian theatre, followed by the founding of the Theatre of Coryphaei in [[kropyvnytskyi|Yelisavetgrad]] in 1882."
+      ]
+    },
+    {
+      "heading": "20th Century Advancements",
+      "paragraphs": [
+        "In 1907, Mykola Sadovsky established the first resident Ukrainian theatre in Kyiv. Following Ukraine's independence in 1918, the State Drama Theatre was founded. The 'Young Theatre,' later known as the 'Berezil Theatre,' was created by [[les-kurbas|Les Kurbas]] and Hnat Yura, introducing works by prominent playwrights like Mykola Kulish and Volodymyr Vynnychenko. While the Berezil Theatre focused on avant-garde styles, the State Drama Theatre maintained realism, with figures like [[ivan-kotliarevskyi|Ivan Kotlyarevsky]] and Hryhoriy Kvitka-Osnovyanenko gaining acclaim."
+      ]
+    },
+    {
+      "heading": "Modern Theatre Scene",
+      "paragraphs": [
+        "In 1988, Volodymyr Kuchynskyi and colleagues founded the Lviv Young Ukrainian Theatre, later renamed the Les Kurbas Theatre, which has become a leading avant-garde institution in Ukraine. Ukrainian theatre has increasingly integrated into European culture, with numerous international theatre festivals held annually in the country."
+      ]
+    },
+    {
+      "heading": "Notable Figures and Theatre Companies",
+      "paragraphs": [
+        "Prominent Ukrainian playwrights before 1917 include Marko Kropyvnytskyi, Ivan Tobilevich, Mykhailo Kotsiubynskyi, [[ivan-franko|Ivan Franko]], and Lesia Ukrayinka. After the Communist revolution, influential writers included Mykola Kulish, Ivan Kocherha, Oleksandr Korniychuk, and Oles` Honchar. Many notable 19th-century theatre figures began in amateur theatre, with Maria Zankovetska recognized as a leading female star. The Tobilevychi family, consisting of Ivan Karpenko-Karyi, Mykola Sadovsky, and Panas Saksahansky, significantly contributed to the theatrical landscape. Ukrainian theatre encompasses various types, including music-drama, opera, ballet, and puppet theatres, with over 120 theatres and an annual audience of approximately 5.6 million."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "culture-of-ukraine",
+    "ivan-franko",
+    "ivan-kotliarevskyi",
+    "kharkiv-oblast",
+    "kropyvnytskyi",
+    "kyiv",
+    "les-kurbas",
+    "lviv",
+    "odesa",
+    "ostroh-academy",
+    "poltava",
+    "saint-sophia-cathedral",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Theatre of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Theatre_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

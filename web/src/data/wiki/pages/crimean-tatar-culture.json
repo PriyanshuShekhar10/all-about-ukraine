@@ -1,0 +1,78 @@
+{
+  "qid": "Q118719777",
+  "slug": "crimean-tatar-culture",
+  "title": "Crimean Tatar culture",
+  "type": "culture by ethnic group",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "culture by ethnic group",
+    "fields": []
+  },
+  "summary": "Crimean Tatar culture represents the heritage of the indigenous Turkic people of Ukraine, primarily established on the [[crimea|Crimean peninsula]]. This culture has evolved significantly since the era of the Crimean Khanate, which lasted from 1441 to 1783, and remains deeply intertwined with the history and traditions of Ukraine.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Crimean Tatar culture has its roots in the indigenous [[ukrainians|people of Ukraine]] of Turkic origin, primarily formed during the existence of the [[crimean-khanate|Crimean Khanate]] from 1441 to 1783. The [[crimean-tatars|Crimean Tatars]] identify as descendants of various groups that inhabited Crimea throughout different historical periods."
+      ]
+    },
+    {
+      "heading": "Religion",
+      "paragraphs": [
+        "The predominant religion among Crimean Tatars is Islam, which influences the holidays and celebrations they observe, aligning them with broader Muslim traditions."
+      ]
+    },
+    {
+      "heading": "Language",
+      "paragraphs": [
+        "The [[crimean-tatar|Crimean Tatar]] language is the native tongue of the Crimean Tatars and is currently recognized by UNESCO as an endangered language, highlighting the need for preservation efforts."
+      ]
+    },
+    {
+      "heading": "Cultural Interactions",
+      "paragraphs": [
+        "The Crimean Tatars and Ukrainians have historically shared cultural practices and daily life, fostering a rich exchange of traditions. However, the Soviet regime's repressive actions, especially following the deportation of Crimean Tatars on May 18, 1944, aimed to sever the historical ties between mainland [[ukraine|Ukraine]] and Crimea. Despite this, the histories of the Crimean Khanate and [[ukrainian|Ukrainian]] lands, particularly the [[zaporizhian-sich|Zaporozhian Sich]], are interconnected through shared economics, politics, and cultural practices."
+      ]
+    },
+    {
+      "heading": "Architecture",
+      "paragraphs": [
+        "Significant architectural contributions of Crimean Tatar culture include the Khan's Palace in [[bakhchysarai|Bakhchysarai]] and the Juma-Jami Mosque in [[yevpatoriya|Yevpatoria]], the latter being a notable example of 16th-century Islamic architecture and one of the main mosques of the Crimean Khanate."
+      ]
+    },
+    {
+      "heading": "Traditional Clothing",
+      "paragraphs": [
+        "During the Crimean Khanate, both men and women wore similar clothing styles, which included a caftan with narrow sleeves and wide harem pants. Men typically wore red skullcaps and tall hats, while women adorned their hair in braids, often covering their faces with kiseys when in public."
+      ]
+    },
+    {
+      "heading": "Cultural Preservation",
+      "paragraphs": [
+        "Various initiatives have been established to preserve and promote Crimean Tatar culture, such as the multimedia installation 'Stories of Crimea,' which immerses visitors in the region's history. Another project, 'Symbols of Crimea,' explores significant cultural symbols through personal narratives of individuals connected to Crimea. Additionally, the 'Cultural Treasures of Crimea' project aims to showcase the peninsula's cultural heritage, which is currently hindered by the ongoing occupation of Crimea by the Russian Federation."
+      ]
+    }
+  ],
+  "links_out": [
+    "bakhchysarai",
+    "crimea",
+    "crimean-khanate",
+    "crimean-tatar",
+    "crimean-tatars",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "yevpatoriya",
+    "zaporizhian-sich"
+  ],
+  "sources": [
+    {
+      "title": "Crimean Tatar culture — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Crimean_Tatar_culture",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

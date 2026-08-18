@@ -1,0 +1,80 @@
+{
+  "qid": "Q328438",
+  "slug": "2007-ukrainian-parliamentary-election",
+  "title": "2007 Ukrainian parliamentary election",
+  "type": "Ukrainian parliamentary election",
+  "category": "politics",
+  "aliases": [
+    "Ukrainian parliamentary election, 2007"
+  ],
+  "infobox": {
+    "label": "Ukrainian parliamentary election",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2007-09-30",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The 2007 Ukrainian parliamentary election took place on 30 September 2007, following a political crisis that led to the dissolution of the Verkhovna Rada. The election resulted in a narrow majority for the Yulia Tymoshenko Bloc and Our Ukraine-People's Self Defence, while the Party of Regions entered opposition.",
+  "sections": [
+    {
+      "heading": "Background",
+      "paragraphs": [
+        "The political landscape [[coal-in-ukraine|in Ukraine]] prior to the 2007 elections was marked by a power struggle between President [[viktor-yushchenko|Viktor Yushchenko]] and the parliamentary majority, which led to the dissolution of the [[verkhovna-rada|Verkhovna Rada]] on 2 April 2007. The Coalition of National Unity, consisting of the Party of Regions, Communist Party, and Socialist Party, opposed the [[yulia-tymoshenko|Yulia Tymoshenko]] Bloc and Our [[ukraine|Ukraine]].",
+        "In early 2007, some opposition members expressed support for the ruling coalition, potentially allowing it to secure a two-thirds majority. However, Yushchenko's decree to dissolve parliament was contested in the Constitutional Court, which did not rule on its constitutionality due to presidential intervention.",
+        "Originally scheduled for 27 May 2007, the election date was postponed to 30 September 2007 after an agreement among key political leaders on 27 May."
+      ]
+    },
+    {
+      "heading": "Election Process",
+      "paragraphs": [
+        "The election involved the distribution of 450 seats among parties that received at least 3% of the nationwide vote, calculated using the Hamilton method of apportionment. The official campaign commenced on 2 August 2007, with various deadlines set for party registrations and ballot preparations leading up to the election day.",
+        "A total of 3,354 international observers monitored the elections, which were reported to generally meet international democratic standards, despite some noted issues such as delays in forming election commissions and discrepancies in voter lists."
+      ]
+    },
+    {
+      "heading": "Election Results",
+      "paragraphs": [
+        "Voter turnout for the election was reported at 63.22%, surpassing the 50% threshold required for validity. Five parties successfully crossed the 3% vote threshold and entered the Verkhovna Rada: the Party of Regions, Yulia Tymoshenko Bloc, Our Ukraine-People's Self Defence, the Communist Party of Ukraine, and the Bloc Lytvyn. The Socialist Party of Ukraine fell short with 2.86% and did not secure any seats.",
+        "The election results indicated a consolidation of voter support towards major political parties, with the Tymoshenko Bloc and Lytvyn Bloc gaining significant parliamentary representation."
+      ]
+    },
+    {
+      "heading": "Government Formation",
+      "paragraphs": [
+        "Following the preliminary results, the Party of Regions claimed victory and began coalition negotiations. Meanwhile, the Yulia Tymoshenko Bloc sought a coalition with Our Ukraine and possibly the Lytvyn Bloc, rejecting any alliance with the Party of Regions or the Communists.",
+        "Yulia Tymoshenko was elected Prime Minister on 18 December 2007 after the coalition between her Bloc and Our Ukraine was formed. The Verkhovna Rada's authority hinged on the election of at least two-thirds of its members, necessitating stability within the parliament."
+      ]
+    },
+    {
+      "heading": "Parliamentary Dynamics",
+      "paragraphs": [
+        "Post-election, various factions emerged within the Verkhovna Rada, with the Party of Regions and the Bloc of Yulia Tymoshenko being prominent among them. The political landscape continued to evolve, with factions forming and dissolving in response to shifting alliances and electoral dynamics.",
+        "The parliament elected in 2007 convened for the last time on 6 December 2012, marking the end of its term amid ongoing political changes in Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ukraine",
+    "verkhovna-rada",
+    "viktor-yushchenko",
+    "yulia-tymoshenko"
+  ],
+  "sources": [
+    {
+      "title": "2007 Ukrainian parliamentary election — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2007_Ukrainian_parliamentary_election",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

@@ -52,7 +52,7 @@
     {
       "heading": "Neighborhoods",
       "paragraphs": [
-        "Sviatoshynskyi District encompasses several neighborhoods, including Sviatoshyn, Borshchahivka, Akademmistechko, Aviamistechko, Bilychi, Bratska Borshchahivka, Berkovets, Nyvky 4, Novobilichi, Katerynivka, Zhovtneve, Mykilska Borshchahivka, Pivdenna Borshchahivka, Mykhailivska Borshchahivka, Peremoha, and Galagany."
+        "Sviatoshynskyi District encompasses several neighborhoods, including Sviatoshyn, [[borshchahivka|Borshchahivka]], Akademmistechko, Aviamistechko, Bilychi, Bratska Borshchahivka, Berkovets, Nyvky 4, Novobilichi, Katerynivka, Zhovtneve, Mykilska Borshchahivka, Pivdenna Borshchahivka, Mykhailivska Borshchahivka, Peremoha, and Galagany."
       ]
     },
     {
@@ -76,6 +76,7 @@
   ],
   "links_out": [
     "administrative-territorial-entity-of-ukraine",
+    "borshchahivka",
     "irpin",
     "kyiv",
     "kyiv-oblast",

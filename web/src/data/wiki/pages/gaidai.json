@@ -1,0 +1,49 @@
+{
+  "qid": "Q51809582",
+  "slug": "gaidai",
+  "title": "Gaidai",
+  "type": "Wikimedia disambiguation page",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "The term 'Gaidai' encompasses several references, including a surname and educational institutions, as well as an asteroid. Its relevance extends to various fields, including academia and astronomy.",
+  "sections": [
+    {
+      "heading": "Gaidai Surname",
+      "paragraphs": [
+        "Gaidai is a surname that may be associated with individuals of [[ukrainian|Ukrainian]] descent or heritage, reflecting the diverse cultural background of [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Educational Institutions",
+      "paragraphs": [
+        "Kansai Gaidai University, located in Japan, is an institution of higher learning that may attract Ukrainian students interested in international studies.",
+        "Kansai Gaidai College serves as another educational establishment in Japan, contributing to the global network of institutions that may include Ukrainian scholars.",
+        "Kyoto Gaidai Nishi High School is a secondary educational institution in Japan, which may also host students from various countries, including Ukraine."
+      ]
+    },
+    {
+      "heading": "Astronomy",
+      "paragraphs": [
+        "8451 Gaidai is an asteroid, adding to the celestial nomenclature that may be of interest to the scientific community [[coal-in-ukraine|in Ukraine]] and beyond."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Gaidai — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gaidai",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

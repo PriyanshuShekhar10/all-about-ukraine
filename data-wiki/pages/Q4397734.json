@@ -1,0 +1,61 @@
+{
+  "qid": "Q4397734",
+  "slug": "rosava-river",
+  "title": "Rosava River",
+  "type": "river",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "river",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.9883, 30.8350",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Rosava is a river situated [[coal-in-ukraine|in Ukraine]], recognized as a left-bank tributary of the Ros River. It spans 90 kilometers and serves a basin area of 1,720 square kilometers.",
+  "sections": [
+    {
+      "heading": "Geographical Information",
+      "paragraphs": [
+        "The Rosava River is located in the [[dnieper|Dnieper]] Upland region of [[ukraine|Ukraine]]. It has a total length of 90 kilometers and drains a basin area of 1,720 square kilometers."
+      ]
+    },
+    {
+      "heading": "Administrative Regions",
+      "paragraphs": [
+        "The river flows through two administrative [[administrative-territorial-entity-of-ukraine|regions of Ukraine]]: [[kyiv-oblast|Kyiv Oblast]] and [[cherkasy-oblast|Cherkasy Oblast]]."
+      ]
+    },
+    {
+      "heading": "Settlements Along the River",
+      "paragraphs": [
+        "The Rosava River is associated with several cities and towns, notably Kaharlyk and Myronivka, which are situated along its banks."
+      ]
+    }
+  ],
+  "links_out": [
+    "administrative-territorial-entity-of-ukraine",
+    "cherkasy-oblast",
+    "coal-in-ukraine",
+    "dnieper",
+    "kyiv-oblast",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Rosava — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rosava",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

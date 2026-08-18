@@ -1,0 +1,95 @@
+{
+  "qid": "Q644021",
+  "slug": "battle-of-kruty",
+  "title": "Battle of Kruty",
+  "type": "battle",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "battle",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "1918-01-17",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Russian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Kruty",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "51.0823, 32.1458",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Battle of Kruty, occurring on January 29 or 30, 1918, near the Kruty railway station [[coal-in-ukraine|in Ukraine]], was a significant confrontation between a small Ukrainian force and advancing Bolshevik troops. This battle is emblematic of Ukrainian youth's sacrifice in the struggle for national sovereignty and has left a lasting legacy in Ukraine's historical narrative.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The Battle of Kruty took place during a tumultuous period in [[history-of-ukraine|Ukrainian history]] when the region was part of the [[nizhyn|Nizhyn]] Povit of [[chernihiv|Chernihiv]] Governorate. The battle was pivotal in delaying the Bolshevik advance toward [[kyiv|Kyiv]], thereby providing crucial time for [[ukrainian|Ukrainian]] peace negotiations in Brest."
+      ]
+    },
+    {
+      "heading": "Location and Strategic Importance",
+      "paragraphs": [
+        "The battle occurred near the Kruty railway station, which had been strategically significant since the 1890s due to its position at the intersection of two major railway lines. The original wooden station was destroyed during World War II, but its historical importance remains recognized."
+      ]
+    },
+    {
+      "heading": "Forces Engaged",
+      "paragraphs": [
+        "The Ukrainian forces, numbering approximately 400 soldiers, included military cadets and members of the [[ukrainians|Ukrainian People]]'s Army. They faced a much larger Bolshevik force of about 4,000 troops commanded by Mikhail Muravyov. Despite their numerical disadvantage, the Ukrainian forces managed to engage the enemy for up to five hours before being forced to withdraw."
+      ]
+    },
+    {
+      "heading": "Casualties and Aftermath",
+      "paragraphs": [
+        "The battle resulted in significant losses for the Ukrainian side, with over half of the 400 soldiers killed. Following the battle, the remains of 18 students were re-buried at Askold's Grave in Kyiv, where they were honored as heroes by [[mykhailo-hrushevskyi|Mykhailo Hrushevsky]], the then President of the Ukrainian [[central-rada|Central Rada]]."
+      ]
+    },
+    {
+      "heading": "Legacy and Commemoration",
+      "paragraphs": [
+        "The Battle of Kruty has become a symbol of Ukrainian resistance and sacrifice. It is commemorated annually, with memorials established at the site and in Kyiv. The battle is often referenced in [[ukrainian-literature|Ukrainian literature]] and art, highlighting its significance in the national consciousness and its role in the broader narrative of [[ukraine|Ukraine]]'s fight for independence."
+      ]
+    },
+    {
+      "heading": "Cultural Impact",
+      "paragraphs": [
+        "The battle has inspired various cultural expressions, including poetry, music, and visual arts. Notably, the poem 'To the Memory of the Thirty' by [[pavlo-tychyna|Pavlo Tychyna]] reflects on the heroism of the students who fought. Additionally, a mural and a film dedicated to the battle were created, further embedding its memory in Ukrainian culture."
+      ]
+    }
+  ],
+  "links_out": [
+    "central-rada",
+    "chernihiv",
+    "coal-in-ukraine",
+    "history-of-ukraine",
+    "kyiv",
+    "mykhailo-hrushevskyi",
+    "nizhyn",
+    "pavlo-tychyna",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-literature",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Battle of Kruty — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Kruty",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

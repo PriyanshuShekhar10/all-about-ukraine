@@ -1,0 +1,119 @@
+{
+  "qid": "Q1364829",
+  "slug": "roman-catholic-archdiocese-of-lviv",
+  "title": "Roman Catholic Archdiocese of Lviv",
+  "type": "Roman Catholic metropolitan archdiocese",
+  "category": "geography",
+  "aliases": [
+    "Archdiocese of Lviv"
+  ],
+  "infobox": {
+    "label": "Roman Catholic metropolitan archdiocese",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1361",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "4,482,000",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "68,000",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Lviv",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.8408, 24.0306",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Roman Catholic Archdiocese of Lviv is a significant ecclesiastical jurisdiction of the Latin Church located in western Ukraine. It serves as a metropolitan archdiocese with historical roots dating back to the 14th century and plays a vital role in the Catholic community of Ukraine.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Archdiocese of Lviv (of the Latins), known in Latin as Archidioecesis Leopolitana Latinorum and in [[ukrainian|Ukrainian]] as Львівська архідієцезія, is an ecclesiastical circumscription of the Roman Catholic Church situated in [[western-ukraine|western Ukraine]]. Its principal cathedral, the Metropolitan Cathedral Basilica of the Assumption of the Blessed Virgin Mary, is recognized as a minor basilica and a minor World Heritage Site. Additionally, the archdiocese includes the Basilica of the Exaltation of the Holy Cross located in [[chernivtsi|Chernivtsi]]."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The diocese was canonically established in 1358 or 1375 as the Diocese of [[lviv|Lviv]]. It was elevated to the status of a Metropolitan Archdiocese on August 28, 1412, by Pope Gregory XII, gaining territory from the previously suppressed Metropolitan Archdiocese of Halyč in [[galicia|Galicia]]. Over the years, the archdiocese has undergone territorial changes, losing land to the Diocese of Iaşi in Romania in 1930, gaining territory from the Diocese of Przemyśl in Poland in 1945, and losing further territory in 1991 to create the Apostolic Administration of Lubaczów. Notably, Pope John Paul II visited the archdiocese during his papal visit to [[ukraine|Ukraine]] in June 2001."
+      ]
+    },
+    {
+      "heading": "Demographics and Statistics",
+      "paragraphs": [
+        "As of 2014, the archdiocese served approximately 138,500 Roman Catholics, which constituted 3.1% of the total population of 4,500,000 within its jurisdiction. The archdiocese covers an area of 68,000 square kilometers and comprises 278 parishes, supported by 196 priests (140 diocesan and 56 religious), 215 lay religious members (including 76 brothers and 139 sisters), and 32 seminarians. The administrative structure includes 12 deaneries within the same area."
+      ]
+    },
+    {
+      "heading": "Ecclesiastical Province",
+      "paragraphs": [
+        "The Archdiocese of Lviv serves as a metropolitan see and oversees six Latin suffragan dioceses within its ecclesiastical province. These suffragan dioceses include the Diocese of Kamyanets-Podilskyi, Diocese of [[kharkiv-oblast|Kharkiv]]-[[zaporizhzhia|Zaporizhzhia]], Diocese of [[kyiv|Kyiv]]-[[zhytomyr|Zhytomyr]], Diocese of [[lutsk|Lutsk]], Diocese of [[mukachevo|Mukacheve]], and Diocese of [[odesa|Odesa]]-Simferopol."
+      ]
+    },
+    {
+      "heading": "Archdiocesan Structure",
+      "paragraphs": [
+        "The archdiocese is organized into several deaneries across different regions, including the Deanery of Chernivtsi in [[chernivtsi-oblast|Chernivtsi Oblast]], the Deaneries of [[halych|Halych]] and [[ivano-frankivsk|Ivano-Frankivsk]] in [[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]], the Deanery of [[ternopil|Ternopil]] and [[chortkiv|Chortkiv]] in [[ternopil-oblast|Ternopil Oblast]], and multiple deaneries within [[lviv-oblast|Lviv Oblast]], such as Horodok, Lviv, Mostyska, [[sambir|Sambir]], Stryi, [[zolochiv|Zolochiv]], and [[zhovkva|Zhovkva]]. The archdiocese also hosts a seminary located in Briukhovychi."
+      ]
+    },
+    {
+      "heading": "Leadership",
+      "paragraphs": [
+        "The current metropolitan archbishop of the Archdiocese of Lviv is Mieczysław Mokrzycki, who has held the position since October 21, 2008. The archdiocese has a rich history of episcopal leadership, with notable figures including St. Józef Bilczewski, who served from December 17, 1900, until his death on March 30, 1923, and Marian Jaworski, who was in office from January 16, 1990, until his retirement on October 21, 2008."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernivtsi",
+    "chernivtsi-oblast",
+    "chortkiv",
+    "galicia",
+    "halych",
+    "ivano-frankivsk",
+    "ivano-frankivsk-oblast",
+    "kharkiv-oblast",
+    "kyiv",
+    "lutsk",
+    "lviv",
+    "lviv-oblast",
+    "mukachevo",
+    "odesa",
+    "sambir",
+    "ternopil",
+    "ternopil-oblast",
+    "ukraine",
+    "ukrainian",
+    "western-ukraine",
+    "zaporizhzhia",
+    "zhovkva",
+    "zhytomyr",
+    "zolochiv"
+  ],
+  "sources": [
+    {
+      "title": "Roman Catholic Archdiocese of Lviv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Lviv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

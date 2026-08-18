@@ -1,0 +1,78 @@
+{
+  "qid": "Q47496",
+  "slug": "marina-abramović",
+  "title": "Marina Abramović",
+  "type": "human",
+  "category": "war",
+  "aliases": [
+    "M. Abramovic",
+    "Marina Abramovic",
+    "Marina Abramovicz",
+    "Marina Abramoviæ"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1946-11-30",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Belgrade",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Marina Abramović is a Serbian conceptual and performance artist known for her exploration of body art, endurance, and the interaction between performer and audience. Active for over four decades, she has been recognized as a pivotal figure in contemporary performance art, significantly influencing the field and its practices.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Marina Abramović was born on November 30, 1946, in Belgrade, PR Serbia, FPR Yugoslavia. She described her family background as 'Red bourgeoisie', with her great-uncle being Varnava, the Serbian Patriarch of the Serbian Orthodox Church. Both of her parents, Danica Rosić and Vojin Abramović, were Yugoslav Partisans during World War II and held positions in the postwar Yugoslavian government.",
+        "Raised primarily by her grandparents until the age of six, Abramović was influenced by her grandmother's religious practices. After moving in with her parents, she began taking lessons in piano, French, and English, although she did not receive formal art education. Her childhood was marked by strict parental control, particularly from her mother, which influenced her later artistic expressions."
+      ]
+    },
+    {
+      "heading": "Education and Teaching Career",
+      "paragraphs": [
+        "Abramović attended the Academy of Fine Arts in Belgrade from 1965 to 1970 and completed her post-graduate studies at the Academy of Fine Arts in Zagreb, SR Croatia, in 1972. She began teaching at the Academy of Fine Arts in Novi Sad from 1973 to 1975 while launching her first solo performances.",
+        "In 1976, she moved to Amsterdam and later served as a visiting professor at various prestigious institutions, including the Académie des Beaux-Arts in Paris and the Berlin University of the Arts, contributing to the education of future artists in performance art."
+      ]
+    },
+    {
+      "heading": "Art Career",
+      "paragraphs": [
+        "Abramović's performances often involve extreme physical and mental challenges, exploring the limits of the body and the relationship between performer and audience. Notable works include 'Rhythm 10' (1973), where she used knives to explore pain and consciousness, and 'Rhythm 5' (1974), which involved a burning pentagram and led to her loss of consciousness.",
+        "Her piece 'Rhythm 0' (1974) tested audience interaction by allowing them to use various objects on her body, resulting in a brutal confrontation that revealed human aggression and vulnerability. Abramović's works often reflect her personal history and the socio-political context of her upbringing."
+      ]
+    },
+    {
+      "heading": "Collaborations and Influence",
+      "paragraphs": [
+        "In 1976, Abramović began a significant collaboration with Uwe Laysiepen, known as Ulay. Their partnership explored themes of ego and artistic identity, resulting in performances that emphasized the connection between their bodies and the audience. They created a collective identity known as 'The Other', which blurred the lines between individual and shared artistic expression.",
+        "Their work tested physical limits and delved into consciousness, reflecting their cultural backgrounds and experiences. Abramović's exploration of the body and performance has had a lasting impact on contemporary art, influencing artists [[coal-in-ukraine|in Ukraine]] and beyond."
+      ]
+    },
+    {
+      "heading": "Legacy",
+      "paragraphs": [
+        "Marina Abramović is often referred to as the 'grandmother of performance art', having reshaped the language and practices of the genre. In 2007, she established the Marina Abramović Institute (MAI), a non-profit organization dedicated to performance art, further solidifying her role as a key figure in the field.",
+        "Her work continues to resonate within the art community, including in Ukraine, where performance art has gained prominence, reflecting the socio-political landscape and the exploration of identity and endurance."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Marina Abramović — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Marina_Abramović",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

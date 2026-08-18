@@ -1,0 +1,66 @@
+{
+  "qid": "Q12144905",
+  "slug": "industry-in-ukraine",
+  "title": "Industry in Ukraine",
+  "type": "industry in a country or region",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "industry in a country or region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Industry in Ukraine is characterized by a robust material and technical foundation, with significant contributions to the country's economy. As of 2007, the sector employed over 3.6 million individuals and generated substantial profits, reflecting its importance in the [[ukrainian|Ukrainian]] economic landscape.",
+  "sections": [
+    {
+      "heading": "Economic Contribution",
+      "paragraphs": [
+        "As of 2008, approximately 18% of [[ukraine|Ukraine]]'s employed population worked in the industrial sector, which contributed about 26% to the country's GDP in 2012."
+      ]
+    },
+    {
+      "heading": "Industrial Structure",
+      "paragraphs": [
+        "The industrial sector is primarily composed of ferrous metallurgy, mechanical engineering, electricity, chemical, and food industries. In 2010, manufacturing accounted for 66.3% of industrial output, followed by electricity at 22.7% and mining at 11%.",
+        "The industry predominantly utilizes the third and fourth technological systems, which together represent 95% of industrial production. These systems are based on sectors such as metallurgical, chemical, light industry, and mechanical engineering."
+      ]
+    },
+    {
+      "heading": "Challenges and Profitability",
+      "paragraphs": [
+        "Despite generating significant profits, the profitability of industrial products from 2003 to 2010 remained low, ranging from 3% to 6%. Of the 55,000 industrial enterprises, over 18,000 (33%) were unprofitable, and the workforce in the sector decreased by 14% between 2001 and 2007."
+      ]
+    },
+    {
+      "heading": "Export Dynamics",
+      "paragraphs": [
+        "Industrial exports constitute about 40% of Ukraine's gross domestic product; however, the export structure is heavily skewed towards raw materials, which comprise over 60%. High-tech and science-intensive industries account for only 15% of total production."
+      ]
+    },
+    {
+      "heading": "Heavy Industry Focus",
+      "paragraphs": [
+        "Heavy industry plays a dominant role [[coal-in-ukraine|in Ukraine]], particularly in mechanical engineering, ferrous metallurgy, and the coal industry, which collectively represent more than 80% of the total value of sold industrial products. Mechanical engineering alone contributes 12-14% to this total."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Industry in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Industry_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

@@ -1,0 +1,101 @@
+{
+  "qid": "Q148473",
+  "slug": "chortkiv",
+  "title": "Chortkiv",
+  "type": "city in Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Austrian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "29,169",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "30",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "218",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.0167, 25.8000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Chortkiv is a city located in Chortkiv Raion of [[ternopil-oblast|Ternopil Oblast]], [[western-ukraine|western Ukraine]], serving as the administrative center of the raion. With a population of approximately 28,279 as of 2022, Chortkiv has historical significance and is known for its architectural monuments and cultural heritage.",
+  "sections": [
+    {
+      "heading": "Geographical Context",
+      "paragraphs": [
+        "Chortkiv is situated in the northern part of the historic region of Galician [[podolia|Podolia]], along the banks of the Seret River. It serves as a regional commercial and small-scale manufacturing hub."
+      ]
+    },
+    {
+      "heading": "Historical Overview",
+      "paragraphs": [
+        "The first recorded mention of Chortkiv dates back to 1522 when Polish King Sigismund I the Old granted ownership to Jerzy Czortkowski, who named the town Czortków. The population was significantly impacted during the [[khmelnytsky-uprising|Khmelnytsky Uprising]] of 1648-1649, resulting in the near-total massacre of its 50 families.",
+        "Chortkiv was granted Magdeburg rights and later experienced a decline during the Ottoman expansion in central Europe, being under Ottoman rule from 1672 to 1699. After the [[first-partition-of-poland|First Partition of Poland]], it came under Austro-Hungarian control from 1772 to 1918, briefly interrupted by Russian rule.",
+        "On June 8, 1919, the [[ukrainian|Ukrainian]] Galician Army launched the Chortkiv offensive, but the town was soon taken by Polish forces. Following the Peace Treaty of Riga, it remained part of Poland until the Soviet invasion in September 1939.",
+        "During World War II, Chortkiv was annexed by [[soviet-union|the Soviet Union]] and later by Nazi Germany, where its Jewish population faced persecution and deportation. The town returned to Soviet control after the war and became part of [[independent-ukraine|independent Ukraine]] in 1991."
+      ]
+    },
+    {
+      "heading": "Population and Demographics",
+      "paragraphs": [
+        "In 1931, Chortkiv had a population of 19,000, comprised of 46.4% Polish Roman Catholics, 30% Jews, and 22.8% Ukrainian Greek Catholics. By January 1989, the population was recorded at 26,681, and it grew to 29,640 by January 2013."
+      ]
+    },
+    {
+      "heading": "Architectural and Cultural Heritage",
+      "paragraphs": [
+        "Chortkiv is home to several notable architectural monuments, including a fortress from the 16th and 17th centuries and historic wooden churches from the 17th and 18th centuries. Significant religious structures include the Church of the Dormition (1584), the Church of the Ascension (1630), and the Church of the Immaculate Conception of the Blessed Virgin Mary (1854), among others.",
+        "The city also has a rich Jewish heritage, with the remains of two synagogues and a history of Hasidic Jewish presence."
+      ]
+    },
+    {
+      "heading": "Administrative Status",
+      "paragraphs": [
+        "Until July 18, 2020, Chortkiv was designated as a city of oblast significance and was not part of Chortkiv Raion, despite being its center. Following administrative reforms [[coal-in-ukraine|in Ukraine]], the city was incorporated into Chortkiv Raion."
+      ]
+    },
+    {
+      "heading": "Notable Residents",
+      "paragraphs": [
+        "Chortkiv has been the birthplace or residence of several notable figures, including Ukrainian journalist Anna Blazhenko, Polish painter Sasza Blonder, and rabbi Bernard Hausner. Other prominent individuals include Oleksii Hunovskyi, a political figure, and Vasyl Makhno, a contemporary Ukrainian poet."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "first-partition-of-poland",
+    "independent-ukraine",
+    "khmelnytsky-uprising",
+    "podolia",
+    "soviet-union",
+    "ternopil-oblast",
+    "ukrainian",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Chortkiv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chortkiv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

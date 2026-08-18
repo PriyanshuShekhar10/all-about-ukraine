@@ -15,7 +15,7 @@
       }
     ]
   },
-  "summary": "The Battle of Donetsk Airport was a significant military conflict during the ongoing [[full-scale-russo-ukrainian-war|war in Ukraine]], occurring in two distinct phases. It involved intense fighting for control of the strategically important [[donetsk|Donetsk]] Airport, reflecting the broader conflict between [[ukrainian|Ukrainian]] forces and separatist groups.",
+  "summary": "The Battle of Donetsk Airport was a significant military conflict during the ongoing [[full-scale-russo-ukrainian-war|war in Ukraine]], occurring in two distinct phases. It involved intense fighting for control of the strategically important [[donetsk-international-airport|Donetsk Airport]], reflecting the broader conflict between [[ukrainian|Ukrainian]] forces and separatist groups.",
   "sections": [
     {
       "heading": "First Battle of Donetsk Airport",
@@ -31,7 +31,7 @@
     }
   ],
   "links_out": [
-    "donetsk",
+    "donetsk-international-airport",
     "full-scale-russo-ukrainian-war",
     "ukraine",
     "ukrainian"

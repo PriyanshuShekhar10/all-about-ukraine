@@ -44,7 +44,7 @@
     {
       "heading": "Legal Status and Structure",
       "paragraphs": [
-        "The legal framework governing the National Bank of Ukraine is defined by the [[constitution-of-ukraine|Constitution of Ukraine]] and the Law of Ukraine 'On the National Bank of Ukraine'. The NBU operates as a legal entity with its own property, which is classified as state property.",
+        "The legal framework governing the National Bank of Ukraine is defined by the [[constitution-of-ukraine|Constitution of Ukraine]] and the [[law-of-ukraine|Law of Ukraine]] 'On the National Bank of Ukraine'. The NBU operates as a legal entity with its own property, which is classified as state property.",
         "The authorized capital of the National Bank is UAH 100 million, which is entirely state-owned. According to Article 99 of the Constitution, the primary function of the NBU is to maintain the stability of the [[hryvnia|Hryvnia]], the national currency, while also ensuring the stability of the banking system and price stability."
       ]
     },
@@ -80,6 +80,7 @@
     "coal-in-ukraine",
     "constitution-of-ukraine",
     "hryvnia",
+    "law-of-ukraine",
     "oschadbank",
     "president-of-ukraine",
     "ukraine",

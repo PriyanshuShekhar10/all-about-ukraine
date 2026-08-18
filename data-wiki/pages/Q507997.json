@@ -1,0 +1,77 @@
+{
+  "qid": "Q507997",
+  "slug": "uzh-river",
+  "title": "Uzh River",
+  "type": "river",
+  "category": "geography",
+  "aliases": [
+    "Uh"
+  ],
+  "infobox": {
+    "label": "river",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Slovakia",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.9680, 22.9144",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Uzh River is a significant waterway located in western Ukraine and eastern Slovakia, originating in the [[ukrainian-carpathians|Ukrainian Carpathians]] and flowing through the city of Uzhhorod before joining the Laborec River. It plays an important role in the geography, ecology, and economy of the Zakarpattia Oblast [[coal-in-ukraine|in Ukraine]].",
+  "sections": [
+    {
+      "heading": "Geographical Overview",
+      "paragraphs": [
+        "The Uzh River springs from the Eastern Beskids of [[zakarpattia-oblast|Zakarpattia Oblast]] in [[western-ukraine|western Ukraine]], near Uzhok Pass and the Polish border. It flows southwest through towns such as Velykyi Bereznyi and Perechyn, passing the semi-ruined Nevitske Castle and into [[uzhhorod|Uzhhorod]], which is named after the river. The river then forms a portion of the Slovakia–[[ukraine|Ukraine]] border for about 1.5 km (0.93 mi) before entering Slovakia and ultimately becoming a tributary of the Laborec River near Drahňov in the Michalovce District.",
+        "The total length of the Uzh River is 127 km (79 mi), with 21.3 km (13.2 mi) located in Slovakia. It is part of the Tisza drainage basin, characterized by a winding course with low waterfalls and numerous islands."
+      ]
+    },
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "The origin of the name 'Uzh' is debated among etymologists. Some suggest it derives from the Slavic term for grass snake, which is prevalent in the river valley. Others propose it comes from the Proto-Slavic root meaning 'angle' or 'corner.' In Hungarian, the river is referred to as 'Ung,' which is also linked to the name of Hungary according to historical texts."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Historically, the Uzh River region was inhabited by Celto-Dacian tribes, later replaced by Germanic tribes. In the 5th century, Slavic tribes, including the White Croats, entered the area, eventually joined by the Magyars. Today, the river's upper reaches are home to Rusyn communities, while its lower sections have populations of [[ukrainians|Ukrainians]], Russians, Romani, Slovaks, and Hungarians."
+      ]
+    },
+    {
+      "heading": "Flora and Fauna",
+      "paragraphs": [
+        "The Uzh River flows through the East Carpathian Biosphere Reserve, which includes Uzh National Nature Park and Poloniny National Park. The area is noted for its biodiversity, featuring beech and fir forests, and is home to several notable plant species, including Lady Josika's lilac. The river supports various wildlife, including large carnivores such as brown bears, Eurasian lynx, and wolves, as well as salmonid fish like the European grayling."
+      ]
+    },
+    {
+      "heading": "Economic Importance",
+      "paragraphs": [
+        "The Uzh River is vital for local industries, providing drinking water and irrigation. It features a hydropower station at Uzhhorod and another weir at Nevytske. Additionally, mineral resources and natural gas extraction occur at its lower reaches, particularly in the areas of Pavlovce nad Uhom and Stretava."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ukraine",
+    "ukrainian-carpathians",
+    "ukrainians",
+    "uzhhorod",
+    "western-ukraine",
+    "zakarpattia-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Uzh — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Uzh",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

@@ -1,0 +1,86 @@
+{
+  "qid": "Q4213538",
+  "slug": "ivan-karabyts",
+  "title": "Ivan Karabyts",
+  "type": "human",
+  "category": "culture",
+  "aliases": [
+    "Ivan Fedorovich Karabits",
+    "Ivan Fedorovych Karabyts",
+    "Ivan Karabits"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1945-01-17",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "2002-01-20",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Yalta",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Ivan Fedorovych Karabyts was a prominent [[ukrainian|Ukrainian]] composer and conductor, recognized as a People's Artist of Ukraine. His contributions to music, particularly in the context of Ukrainian cultural development, have left a lasting impact.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Ivan Fedorovych Karabyts was born on 17 January 1945 in the village of [[yalta|Yalta]], located in [[donetsk-oblast|Donetsk Oblast]], eastern [[ukraine|Ukraine]]. He graduated from the [[kyiv|Kyiv]] Conservatory in 1971, where he studied under notable figures such as Borys Lyatoshynsky and [[myroslav-skoryk|Myroslav Skoryk]]."
+      ]
+    },
+    {
+      "heading": "Musical Career",
+      "paragraphs": [
+        "Karabyts held conducting positions with the Dance Ensemble of the Kyiv Military District and the Kyiv Camerata. Additionally, he contributed to the education of future musicians as a teacher at the Kyiv Conservatory.",
+        "His compositions include works for solo piano, orchestra, voice, and various instrumental combinations, with performances spanning across the [[post-soviet-states|former Soviet Union]], several European countries, and the United States."
+      ]
+    },
+    {
+      "heading": "Musical Style and Influence",
+      "paragraphs": [
+        "Karabyts' musical style was shaped by his teachers and contemporaries, including Borys Lyatoshynsky, as well as fellow composers such as V. Silvestrov and E. Stankovych. His early works are characterized by expressive musical language and a search for an individual style, often employing dodecaphony.",
+        "In the 1970s and 1980s, he focused on large-scale musical forms, producing symphonic and vocal-symphonic works that often explored themes of the Motherland, memory, and moral duty."
+      ]
+    },
+    {
+      "heading": "Later Works and Legacy",
+      "paragraphs": [
+        "Karabyts' later compositions showcased a synthesis of modern compositional techniques, integrating elements such as pointillism and aleatorics. His works often delved into themes of tragedy and repentance, exemplified in pieces like 'Concerto 3 Lamentation' and 'Music from Waterside.'",
+        "He identified significant works in his repertoire, including the 'Concerto for choir and orchestra Garden of Divine Songs' and the 'Symphony 5 songs about Ukraine.'"
+      ]
+    },
+    {
+      "heading": "Personal Life",
+      "paragraphs": [
+        "Ivan Karabyts passed away on 20 January 2002 in Kyiv at the age of 57. He was the father of conductor Kirill Karabits, continuing the family's musical legacy."
+      ]
+    }
+  ],
+  "links_out": [
+    "donetsk-oblast",
+    "kyiv",
+    "myroslav-skoryk",
+    "post-soviet-states",
+    "ukraine",
+    "ukrainian",
+    "yalta"
+  ],
+  "sources": [
+    {
+      "title": "Ivan Karabyts — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ivan_Karabyts",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

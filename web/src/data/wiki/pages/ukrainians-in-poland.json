@@ -1,0 +1,70 @@
+{
+  "qid": "Q951201",
+  "slug": "ukrainians-in-poland",
+  "title": "Ukrainians in Poland",
+  "type": "ethnic group",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "ethnic group",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Poland",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Ukrainians in Poland represent a significant ethnic group with various legal statuses, including ethnic minority, residents, and refugees. Their population has fluctuated dramatically, particularly following the Russian invasion of Ukraine in 2022, highlighting their deep connection to Ukraine.",
+  "sections": [
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "Ukrainians in Poland, known in [[ukrainian|Ukrainian]] as Українці Польщі and in Polish as Ukraińcy w Polsce, have diverse legal statuses, including ethnic minority, temporary and permanent residents, and refugees. According to the 2011 Polish census, the Ukrainian minority consisted of approximately 51,000 individuals, with 11,451 lacking Polish citizenship but living permanently in Poland. The census indicated that around 38,000 respondents identified Ukrainian as their first identity, with 28,000 claiming it as their sole identity. Additionally, 13,000 recognized it as a second identity, while 21,000 identified as both Ukrainian and Polish. However, these figures have evolved since the mid-2010s due to a significant influx of economic migrants and students from [[ukraine|Ukraine]], with pre-invasion estimates of the Ukrainian population in Poland ranging from 307,000 to nearly one million. Following the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] on 24 February 2022, the number of Ukrainians in Poland surged to 1.75 million by 2025."
+      ]
+    },
+    {
+      "heading": "Cultural Life",
+      "paragraphs": [
+        "During the era of the Polish People's Republic, the Ukrainian Social and Cultural Society (USKT) served as the only legal organization for Ukrainians in Poland. Since 1990, key Ukrainian organizations have emerged, including the Association of Ukrainians in Poland (Związek Ukraińców w Polsce), the Association of [[ukrainians|Ukrainians]] of Podlasie, and the Ukrainian Society of Lublin, among others. Prominent Ukrainian publications include the weekly Nasze Słowo and the bimonthly Над Бугом і Нарвою (Nad Buhom i Narwoju). Major Ukrainian cultural events in Poland encompass the Festival of Ukrainian Culture in Sopot, the Youth Market in Gdańsk, and various festivals celebrating Ukrainian culture across regions."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The history of Ukrainians in Poland has been marked by significant events since World War II. Following the defeat of the [[ukrainian-insurgent-army|Ukrainian Insurgent Army]] and the subsequent Soviet occupation, approximately 140,000 Ukrainians were forcibly relocated within Poland during [[operation-vistula|Operation Vistula]]. The 2002 Polish census recorded 27,172 individuals declaring Ukrainian nationality, with the largest populations in the Warmian-Masurian Voivodeship and other regions. The collapse of [[soviet-union|the Soviet Union]] in 1989 initiated a new wave of Ukrainian immigration, primarily consisting of job seekers, which continued to grow after Poland's EU accession in 2004."
+      ]
+    },
+    {
+      "heading": "Impact of the Russian Invasion",
+      "paragraphs": [
+        "The Russian invasion of Ukraine in 2022 led to a dramatic increase in Ukrainian refugees in Poland, with nearly 1.5 million entering the country. This influx significantly affected the demographics of Polish cities, such as Rzeszów and Warsaw, which saw population increases of 50% and 15%, respectively. Ukrainian refugees in Poland have legal rights to reside and work, as well as access to benefits similar to Polish citizens. However, disparities in labor market needs and the profile of newly arrived refugees, predominantly women and children, pose challenges that require targeted public policies and support."
+      ]
+    },
+    {
+      "heading": "Military Involvement",
+      "paragraphs": [
+        "In April 2024, the Polish government proposed to repatriate Ukrainian men of military age from Poland to join the [[ukrainian-ground-forces|Ukrainian army]]. The initiative coincided with plans to establish a volunteer military formation called the 'Ukrainian Legion (Poland)' to support Ukraine in the ongoing conflict. By mid-July 2024, thousands of Ukrainians in Poland had already registered for this new formation, reflecting the strong ties and commitment of the Ukrainian community in Poland to their homeland."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "operation-vistula",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-ground-forces",
+    "ukrainian-insurgent-army",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainians in Poland — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainians_in_Poland",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

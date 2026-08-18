@@ -1,0 +1,70 @@
+{
+  "qid": "Q200892",
+  "slug": "yevhen-stankovych",
+  "title": "Yevhen Stankovych",
+  "type": "human",
+  "category": "culture",
+  "aliases": [
+    "Eugene Stankovych",
+    "Yevhen Fedorovych Stankovych"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1942-09-19",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Svaliava",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Yevhen Fedorovych Stankovych is a prominent contemporary Ukrainian composer known for his diverse works in stage, orchestral, chamber, and choral music.",
+  "sections": [
+    {
+      "heading": "Biography",
+      "paragraphs": [
+        "Yevhen Fedorovych Stankovych was born on 19 September 1942 in Szolyva, which is currently recognized as Svaliava [[coal-in-ukraine|in Ukraine]].",
+        "In 1962, he began his studies in composition under Polish composer Adam Soltys at the L'viv [[mykola-lysenko|Mykola Lysenko]] Conservatoire. He furthered his education from 1965 to 1970 at the [[kyiv|Kyiv]] Conservatory, where he studied under notable [[ukrainian|Ukrainian]] composers Borys Lyatoshynsky and [[myroslav-skoryk|Myroslav Skoryk]].",
+        "Since 1988, Stankovych has served as a music editor and has been a professor of composition at the Kyiv Conservatory, now known as the National Music Academy of [[ukraine|Ukraine]], since 1998. He held the position of co-chair of the National Union of Composers of Ukraine alongside Skoryk from 2004 to 2010.",
+        "In 2012, he became the patron of the Stankovych Music Instrumental competition and in 2017, he chaired the organizing committee for the All-Ukrainian Open Music Olympiad 'The Voice of The Country'."
+      ]
+    },
+    {
+      "heading": "Works",
+      "paragraphs": [
+        "Stankovych's oeuvre includes 12 symphonies, five ballets, one opera, various instrumental concertos, film scores, and chamber music.",
+        "Notably, he composed a ballet inspired by the life of Princess Olga. His folk-opera 'When the Fern Blooms' is recognized as the first modern work of its kind, originally written in the 1970s but suppressed by Soviet authorities until its premiere in 2011."
+      ]
+    },
+    {
+      "heading": "Awards",
+      "paragraphs": [
+        "Stankovych has received several prestigious awards and honors for his contributions to music, including the title of Hero of Ukraine in 2008.",
+        "He was awarded the [[shevchenko-national-prize|Shevchenko National Prize]] in 1977 and received the Order of Friendship of Peoples and the Medal 'For Labour Valour' during the Soviet era."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "kyiv",
+    "mykola-lysenko",
+    "myroslav-skoryk",
+    "shevchenko-national-prize",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Yevhen Stankovych — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yevhen_Stankovych",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

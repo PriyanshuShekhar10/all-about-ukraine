@@ -1,0 +1,86 @@
+{
+  "qid": "Q223208",
+  "slug": "vorkuta-gulag",
+  "title": "Vorkuta Gulag",
+  "type": "prison labour camp",
+  "category": "war",
+  "aliases": [
+    "Vorkutlag"
+  ],
+  "infobox": {
+    "label": "prison labour camp",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1938-05-10",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "67.5141, 64.0838",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Vorkuta Corrective Labor Camp, commonly referred to as Vorkutlag, was a significant Gulag labor camp in the Soviet Union, operational from 1932 until 1962. It is notable for its connection to [[ukraine|Ukraine]], particularly during World War II when it became a vital source of coal following the occupation of [[ukrainian|Ukrainian]] coal-producing regions.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Vorkuta Corrective Labor Camp, known as Vorkutlag, was one of the largest labor camps in the Soviet [[gulag|Gulag]] system, located in Vorkuta, within the Komi Autonomous Soviet Socialist Republic. At its peak in 1951, the camp housed approximately 73,000 prisoners, including Soviet citizens and foreign nationals, such as prisoners of war, dissidents, political prisoners, and common criminals. These inmates were subjected to forced labor in coal mining and forestry operations.",
+        "The camp was managed by various Soviet authorities: the Joint State Political Directorate from 1932 to 1934, the NKVD from 1934 to 1946, and the [[ministry-of-internal-affairs-of-ukraine|Ministry of Internal Affairs]] until its closure in 1962. Vorkutlag was also the site of significant uprisings, including the Vorkuta Uprising in July 1953."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Vorkutlag was established on May 10, 1938, after being separated from Ukhtpechlag. The construction of the Pechora Mainline railway, which connected Moscow to Vorkuta and other northern regions, began in 1937 and was completed in 1941. This railway was crucial for transporting coal and prisoners, with the first train arriving in Vorkuta on December 28, 1941.",
+        "During World War II, Vorkutlag became a detention site for various groups, including Polish prisoners following the occupation of Poland, German prisoners of war, and Soviet citizens labeled as dissidents. The camp's harsh conditions led to high mortality rates, with many inmates succumbing to starvation, exposure, or overwork."
+      ]
+    },
+    {
+      "heading": "Coal Production and Economic Role",
+      "paragraphs": [
+        "Vorkutlag was a major coal production center, essential to the Soviet war economy, particularly after the German invasion of [[soviet-union|the Soviet Union]], which severely impacted coal production [[coal-in-ukraine|in Ukraine]]. By 1943, the camp's prisoner population surged, and coal extraction rates increased significantly under the leadership of Engineer-Colonel Mikhail Maltsev, who was appointed to boost production.",
+        "From 1940 to 1948, coal output from Vorkutlag increased eighteen-fold, largely due to investments from the Soviet government and the harsh discipline enforced by camp authorities."
+      ]
+    },
+    {
+      "heading": "Uprisings and Resistance",
+      "paragraphs": [
+        "The Lesoreid uprising on January 24, 1942, involved over 100 prisoners and was led by Mark Retyunin. The rebels aimed to capture the nearby town of Ust-Usa but were ultimately repelled by government forces, resulting in significant casualties.",
+        "The Vorkuta Uprising from July 19 to August 1, 1953, began as a strike by inmates demanding better conditions and political rights. The uprising escalated, leading to violent confrontations with camp authorities, resulting in the deaths of at least 53 prisoners."
+      ]
+    },
+    {
+      "heading": "Closure and Legacy",
+      "paragraphs": [
+        "The Vorkuta camp was officially closed in 1962 as part of [[nikita-khrushchev|Nikita Khrushchev]]'s De-Stalinization reforms, which led to the closure of many Gulag camps. An estimated two million prisoners were sent to Vorkutlag during its operation, with around 200,000 estimated deaths.",
+        "Following the camp's closure, many former prisoners settled in Vorkuta, facing restrictions on their movement and economic challenges. Today, Vorkuta is a declining town, with its population significantly reduced since the dissolution of the Soviet Union."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "gulag",
+    "ministry-of-internal-affairs-of-ukraine",
+    "nikita-khrushchev",
+    "soviet-union",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Vorkutlag — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vorkutlag",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

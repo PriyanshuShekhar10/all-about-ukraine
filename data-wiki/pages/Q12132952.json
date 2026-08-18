@@ -1,0 +1,79 @@
+{
+  "qid": "Q12132952",
+  "slug": "national-university-of-physical-education-and-sport-of-ukraine",
+  "title": "National University of Physical Education and Sport of Ukraine",
+  "type": "university",
+  "category": "geography",
+  "aliases": [
+    "Kyiv Institute of Physical Culture and Sports",
+    "Kyiv Institute of Physical Education",
+    "Kyiv Institute of Physical Education and Sport",
+    "Kyiv State Institute of Physical Culture",
+    "Kyiv State Institute of Physical Culture and Sports",
+    "Kyiv University of Physical Culture",
+    "UNUPES"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1930",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The National University of Physical Education and Sport of Ukraine, located in Kyiv, is a prominent institution dedicated to the fields of physical education and sports [[coal-in-ukraine|in Ukraine]].",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Established in 1930, the university initially operated as the National Institute of Physical [[education-in-ukraine|Education of Ukraine]] in [[kharkiv-oblast|Kharkiv]]. In 1944, it was relocated to [[kyiv|Kyiv]] and renamed the Kyiv State Institute of Physical Education.",
+        "Following [[ukraine|Ukraine]]'s independence, the institution underwent reorganization in 1995, becoming Kyiv National University of Physical Education. In 1998, it achieved national status and adopted its current name, the National University of Physical Education and Sport of Ukraine."
+      ]
+    },
+    {
+      "heading": "Structure",
+      "paragraphs": [
+        "The university comprises four faculties and one branch located in [[ivano-frankivsk|Ivano-Frankivsk]]. The faculties include the Coach Faculty, Sport and Management Faculty, Health, Physical Education and Tourism Faculty, and the Extra-Mural Faculty, which focuses on distance learning.",
+        "Additionally, the Ivano-Frankivsk College of Physical Education operates as a branch of the university."
+      ]
+    },
+    {
+      "heading": "Sports and Supporting Facilities",
+      "paragraphs": [
+        "The university is equipped with various sports facilities, including rowing facilities situated along the [[dnieper|Dnieper River]] and biking and skiing facilities located in Holosiiv Park.",
+        "The sports complex 'Olimp' features a main short course pool with six lanes (25x12 m), two children's pools (13.6x2.8 m and 5.7x2.8 m), and a fitness center known as 'Olimpiysky styl' (Olympic style).",
+        "Additional resources include a center for sport traumatology, an international center for Olympic research and education, a research institute, and a library."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "dnieper",
+    "education-in-ukraine",
+    "ivano-frankivsk",
+    "kharkiv-oblast",
+    "kyiv",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "National University of Ukraine on Physical Education and Sport — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_University_of_Ukraine_on_Physical_Education_and_Sport",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

@@ -1,0 +1,84 @@
+{
+  "qid": "Q1595364",
+  "slug": "pochayiv-lavra",
+  "title": "Pochayiv Lavra",
+  "type": "monastery",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "monastery",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.0050, 25.5067",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Holy Dormition Pochaiv Lavra, also referred to as the Pochaiv Monastery, is a significant Orthodox monastery located in Pochaiv, Kremenets Raion, [[ternopil-oblast|Ternopil Oblast]], Ukraine. It has served as a key spiritual center for Eastern Orthodoxy and Greek Catholicism throughout its history, with recent developments solidifying its status within the Orthodox Church of Ukraine.",
+  "sections": [
+    {
+      "heading": "Geographical and Historical Context",
+      "paragraphs": [
+        "The Pochaiv Lavra is situated atop a 60-meter hill in Pochaiv, approximately 18 km southwest of Kremenets and 70 km north of [[ternopil|Ternopil]]. The first documented mention of the monastery dates back to 1527, although local tradition suggests it was founded during the Mongol invasion by runaway monks from either the [[kyiv|Kyiv]] Monastery of the Caves or the Holy Mount Athos."
+      ]
+    },
+    {
+      "heading": "Spiritual Significance and Historical Evolution",
+      "paragraphs": [
+        "The monastery was a vital spiritual and ideological hub for Eastern Orthodoxy until 1720, and subsequently for Greek Catholicism until 1831, when it reverted to Orthodox control. In December 2023, following prolonged disputes, the Supreme Court of [[ukraine|Ukraine]] granted spiritual authority over the monastery to the Orthodox Church of Ukraine.",
+        "In 1597, the monastery's prominence increased when Anna Hojska donated lands and a miraculous icon of the Theotokos, known as Our Lady of Pochaiv, which was believed to have healing properties."
+      ]
+    },
+    {
+      "heading": "Notable Figures and Events",
+      "paragraphs": [
+        "Ivan Zalizo, a prominent advocate for Eastern Orthodoxy, joined the monastic community in 1604 and established a printing press in 1630 that produced theological literature for [[galicia|Galicia]] and [[volhynia|Volhynia]] until 1924. Zalizo, who later became known as Job of Pochaiv, implemented reforms and faced legal challenges from local nobility regarding the monastery's assets.",
+        "The monastery's resilience was highlighted during the Zbarazh War of 1675 when it was besieged by the Turkish Army, reportedly repelled by an apparition of the Theotokos."
+      ]
+    },
+    {
+      "heading": "Political and Religious Changes",
+      "paragraphs": [
+        "Following the Third Partition of Poland in 1795, the monastery came under Russian Empire control, leading to a gradual reversion of Greek Catholics to Russian Orthodoxy. In 1831, after the November Uprising, the monastery was officially reconsecrated as an Orthodox entity, marking the end of its Greek-Catholic monastic life.",
+        "By the late 19th century, Pochaiv became a pilgrimage destination for Orthodox Christians across the Russian Empire, symbolizing imperial Orthodoxy."
+      ]
+    },
+    {
+      "heading": "20th Century Developments",
+      "paragraphs": [
+        "The monastery faced numerous challenges throughout the 20th century, including the impacts of World War I and the Russian October Revolution. By 1923, it became part of the Polish Orthodox Church amid ongoing ecclesiastical disputes.",
+        "During World War II, the Lavra remained operational under German occupation, although it faced property confiscations. It became a center for the 'Autonomist' movement, asserting its independence while maintaining ties to Moscow."
+      ]
+    },
+    {
+      "heading": "Modern Era",
+      "paragraphs": [
+        "After World War II, the Lavra continued to be a significant site for Orthodox worship and community support. Following the war, it became a refuge for many, and its historical and spiritual legacy remains influential in contemporary [[ukrainian|Ukrainian]] Orthodoxy."
+      ]
+    }
+  ],
+  "links_out": [
+    "galicia",
+    "kyiv",
+    "ternopil",
+    "ternopil-oblast",
+    "ukraine",
+    "ukrainian",
+    "volhynia"
+  ],
+  "sources": [
+    {
+      "title": "Pochaiv Lavra — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pochaiv_Lavra",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

@@ -1,0 +1,87 @@
+{
+  "qid": "Q1990730",
+  "slug": "mykola-shchors",
+  "title": "Mykola Shchors",
+  "type": "human",
+  "category": "politics",
+  "aliases": [
+    "Mykola Oleksandrovich Shchors",
+    "Nikolai Aleksandrovich Shchors",
+    "Nikolay Shchors",
+    "Shchors, N. A."
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1895-05-25",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1919-08-30",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Snovsk",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Mykola Oleksandrovych Shchors was a Ukrainian-born commander in the Red Army during the Russian Civil War, known for his role in the conflict against the Ukrainian People's Republic. His legacy has been shaped by both his military actions and the subsequent glorification of his image in Soviet culture.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Mykola Shchors was born on 6 June 1895 in the village of Snovsk, located in the Gorodnya uyezd of [[chernihiv|Chernigov]] Governorate, into a [[ukrainian|Ukrainian]] kulak family. His father, Oleksandr Mykolayovich, was a locomotive engineer who moved to Snovsk from Stowbtsy in search of better opportunities.",
+        "As the eldest child, Mykola had several siblings, including Konstantin, Akulina, Yekaterina, and Olga. He began his education at a parish church school in 1905 and graduated in 1909. Following the death of his mother in 1906, his father remarried and had five more children."
+      ]
+    },
+    {
+      "heading": "Military Career and World War I",
+      "paragraphs": [
+        "In 1910, Shchors enrolled in a military medical college in [[kyiv|Kyiv]], graduating in 1914 as a junior physician assistant. He served at the front lines during World War I, where he was wounded and later diagnosed with tuberculosis.",
+        "After his recovery, he graduated from Vilnius Military School in May 1916 and was promoted to junior lieutenant. His military service included participation in the 335th Anapa Regiment, where he demonstrated courage and tactical skill."
+      ]
+    },
+    {
+      "heading": "Revolutionary Activities",
+      "paragraphs": [
+        "Following the October Revolution, Shchors returned to Snovsk in early 1918 and became involved in the conflict against the [[ukrainian-peoples-republic|Ukrainian People's Republic]]. He commanded various military units, including the 1st Bohun Regiment, and played a significant role in capturing Kyiv and other territories.",
+        "He briefly served as the mayor of Kyiv in February 1919 and continued to lead Red Army forces in their offensives against Ukrainian and Polish military units."
+      ]
+    },
+    {
+      "heading": "Death",
+      "paragraphs": [
+        "Mykola Shchors was killed in action on 30 August 1919 while fighting against the Ukrainian Galician Army near Biloshytsi in [[zhytomyr-oblast|Zhytomyr Oblast]]. His death was marked by ambiguity, and his body was initially buried in Samara, despite having no connections to the city."
+      ]
+    },
+    {
+      "heading": "Legacy",
+      "paragraphs": [
+        "Shchors' legacy [[coal-in-ukraine|in Ukraine]] is significant, as the city of Snovsk was named after him from 1935 to 2016. His contributions were commemorated through various monuments, an opera, and a film that elevated his status as a heroic figure in Soviet culture.",
+        "In 1954, a large monument to Shchors was erected in Kyiv, which was dismantled on 9 December 2023. His childhood home has been preserved as a memorial museum since 1939."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernihiv",
+    "coal-in-ukraine",
+    "kyiv",
+    "ukrainian",
+    "ukrainian-peoples-republic",
+    "zhytomyr-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Mykola Shchors — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mykola_Shchors",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

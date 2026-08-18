@@ -1,0 +1,98 @@
+{
+  "qid": "Q156821",
+  "slug": "rohatyn",
+  "title": "Rohatyn",
+  "type": "city in Ukraine",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1184",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Austrian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "7,797",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "9",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "255",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.4167, 24.6167",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Rohatyn is a city situated on the Hnyla Lypa River in Ivano-Frankivsk Oblast, western Ukraine, with a population of 7,521 as of 2022. It serves as the administrative center of the Rohatyn urban hromada and has a rich historical and cultural significance, particularly in relation to its Jewish community and notable historical figures.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Rohatyn is located in the [[ivano-frankivsk-raion|Ivano-Frankivsk Raion]] of [[ivano-frankivsk-oblast|Ivano-Frankivsk Oblast]], [[western-ukraine|western Ukraine]], along the Hnyla Lypa River. As of 2022, the city's population is estimated at 7,521."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "The city was first documented in 1184 as part of the [[kingdom-of-galiciavolhynia|Kingdom of Galicia–Volhynia]]. The name Rohatyn is thought to derive from [[ruthenia|Ruthenia]], with its emblem featuring a deer horn, symbolizing the Slavic roots of the name. The town gained Magdeburg rights in 1415 under Polish rule, becoming a significant trading and manufacturing hub.",
+        "Rohatyn was annexed by Austria after the [[first-partition-of-poland|First Partition of Poland]] in 1772 and became a county center. A [[ukrainian|Ukrainian]] gymnasium was established in 1909, and the city was granted status as a city in 1939 when it became part of [[ukrainian-soviet-socialist-republic|Soviet Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Jewish Community and the Holocaust",
+      "paragraphs": [
+        "The Jewish community in Rohatyn likely began in the 15th and 16th centuries, with formal rights granted by King Władysław IV Vasa in 1633. The community was part of the Council of Communities for the [[lviv|Lviv]] district and experienced significant cultural and educational development.",
+        "Before World War II, approximately 3,000 Jews lived in Rohatyn, making up about half of the population. The community suffered greatly during the Holocaust, with mass murders occurring in 1942 and the ghetto being liquidated by the Germans in 1943. The city was liberated by the Red Army on July 24, 1944, with only around 30 Jews surviving from the ghetto."
+      ]
+    },
+    {
+      "heading": "Cultural Heritage and Monuments",
+      "paragraphs": [
+        "Rohatyn is home to several historical monuments, including the stone Church of the Nativity of the Theotokos from the end of the 14th century, remnants of town walls and gates from the 13th and 14th centuries, and the wooden Church of the Holy Spirit, which is on the UNESCO World Heritage list. Other notable structures include the Dominican monastery ruins and the Renaissance-style Saint Nicholas's Church built in 1666."
+      ]
+    },
+    {
+      "heading": "Notable Figures",
+      "paragraphs": [
+        "Rohatyn is historically significant for being the birthplace of Hürrem Sultan (Roxelana), the influential consort of Ottoman Sultan Suleiman the Magnificent. Other notable figures include Lessia Leskiv, a Ukrainian sport shooter, and Ivan Krypiakevych, a prominent historian and academician."
+      ]
+    }
+  ],
+  "links_out": [
+    "first-partition-of-poland",
+    "ivano-frankivsk-oblast",
+    "ivano-frankivsk-raion",
+    "kingdom-of-galiciavolhynia",
+    "lviv",
+    "ruthenia",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Rohatyn — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rohatyn",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

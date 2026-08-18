@@ -1,0 +1,83 @@
+{
+  "qid": "Q17297",
+  "slug": "matryoshka-doll",
+  "title": "matryoshka doll",
+  "type": "topic",
+  "category": "people",
+  "aliases": [
+    "Babushka doll",
+    "Russian doll",
+    "Russian nesting doll",
+    "Russian tea doll",
+    "nesting doll",
+    "stacking doll"
+  ],
+  "infobox": {
+    "label": "topic",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Russia",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The matryoshka doll, also known as a Russian nesting doll, is a traditional wooden doll set originating from Russia, consisting of decreasingly sized figures placed one inside another. This cultural artifact is significant in Ukraine, reflecting shared Slavic heritage and artistic expression.",
+  "sections": [
+    {
+      "heading": "Definition and Structure",
+      "paragraphs": [
+        "A matryoshka doll, or matryoshka, is a collection of wooden dolls of diminishing size, nested within one another. The term 'matryoshka' is a diminutive of the Russian name Matryona, which is a common female name.",
+        "Typically, the outermost doll represents a woman in traditional Russian attire, while the inner dolls can depict various figures, often culminating in a small baby doll crafted from a single piece of wood."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The first set of matryoshka dolls was created in the 1890s by Vasily Zvyozdochkin, a woodturner, based on a design by Sergey Malyutin, a folk crafts painter. This initial set, consisting of eight dolls, was produced at the Children's Education Workshop in Moscow and featured a mother holding a rooster, with her children nested inside.",
+        "Following the closure of the workshop, matryoshka production moved to Sergiyev Posad, a city recognized for its toy-making since the 14th century."
+      ]
+    },
+    {
+      "heading": "Manufacturing Process",
+      "paragraphs": [
+        "Matryoshka dolls are primarily made from linden wood, crafted using a lathe and various chisels. Each doll is shaped to resemble a human figure, with the largest doll typically standing around six inches tall and containing five dolls.",
+        "Production centers for matryoshka dolls include Sergiev Posad, Semenov, and Kirov, among others. After [[soviet-union|the Soviet Union]]'s dissolution, independent artists began creating matryoshka dolls in various styles."
+      ]
+    },
+    {
+      "heading": "Cultural Significance and Themes",
+      "paragraphs": [
+        "Matryoshka dolls often embody themes from Russian folklore, nature, and contemporary culture, including depictions of political figures and popular celebrities. They are seen as symbols of family and motherhood, reflecting the nurturing aspect of Russian culture.",
+        "[[coal-in-ukraine|In Ukraine]], matryoshka dolls resonate with cultural identity and artistic expression, showcasing the interconnectedness of Slavic traditions."
+      ]
+    },
+    {
+      "heading": "Records and Recognition",
+      "paragraphs": [
+        "The largest set of matryoshka dolls, consisting of 51 pieces and hand-painted by Youlia Bereznitskaia, was completed in 2003 and is recognized by the Guinness World Records.",
+        "Matryoshka dolls have gained international acclaim, winning awards such as a gold medal at the 1906 Milan International exposition, and they continue to be a popular cultural export."
+      ]
+    },
+    {
+      "heading": "Symbolism",
+      "paragraphs": [
+        "Matryoshka dolls symbolize femininity and family lineage, often representing the connection between mothers and their children. This symbolism extends to broader themes of unity and continuity within families.",
+        "The dolls also serve as metaphors in various contexts, illustrating concepts such as layered structures in design and corporate frameworks."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "soviet-union"
+  ],
+  "sources": [
+    {
+      "title": "Matryoshka doll — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Matryoshka_doll",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

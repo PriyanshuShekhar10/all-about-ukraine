@@ -1,0 +1,87 @@
+{
+  "qid": "Q1774485",
+  "slug": "saint-georges-cathedral",
+  "title": "Saint George's Cathedral",
+  "type": "cathedral",
+  "category": "people",
+  "aliases": [
+    "St George's Cathedral"
+  ],
+  "infobox": {
+    "label": "cathedral",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1760",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Austrian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.8386, 24.0131",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Saint George's Cathedral, known in Ukrainian as Собор святого Юра, is a baroque-rococo cathedral situated in Lviv, a significant city in [[western-ukraine|western Ukraine]]. Constructed between 1744 and 1760, it has played a crucial role in the religious and cultural landscape of Ukraine, particularly as the mother church of the Ukrainian Greek Catholic Church during the 19th and 20th centuries.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The site of St. George's Cathedral has hosted a church since approximately 1280, during the period when the region was part of the Principality of [[halych|Halych]]-[[volhynia|Volhynia]]. The original wooden church and its fortress were destroyed by King Casimir III of Poland in 1340, leading to the construction of a four-column Byzantine basilica for the local Eastern Orthodox Church.",
+        "In 1642, Orthodox bishop Arseniy Zheliborskyi established a printing workshop at the cathedral. The Act of Unification of the [[lviv|Lviv]] archeparchy with the Holy See was proclaimed in July 1700, marking a significant moment in the church's history when bishop Joseph Shumlanskyi embraced the Union of Brest."
+      ]
+    },
+    {
+      "heading": "Construction and Significance",
+      "paragraphs": [
+        "The current structure of St. George's Cathedral was initiated in 1746 under the direction of Metropolitan Athanasius Szeptycki and completed in 1762 by Leo Szeptycki. In the 1800s, it became the mother church of the [[ukrainian-greek-catholic-church|Ukrainian Greek Catholic Church]] as the metropolitan seat was transferred to Lviv.",
+        "Following World War II, the Soviet regime persecuted the UGCC, leading to the imprisonment of Archbishop Josyf Slipyj in 1945 and the nullification of the Union of Brest during the Synod of Lviv in March 1946. The cathedral was reconsecrated as Saint Yury's and served as the mother church of the Lviv-[[ternopil|Ternopil]] diocese."
+      ]
+    },
+    {
+      "heading": "Restoration and Modern Role",
+      "paragraphs": [
+        "The UGCC reestablished itself in 1989 and began reclaiming parishes. On August 12, 1990, members of the People's Movement of [[ukraine|Ukraine]] occupied the cathedral, leading to its recognition by the [[lviv-oblast|Lviv Oblast]] council. The cathedral has remained a central site for the UGCC in the early years of Ukraine's independence.",
+        "A restoration of the cathedral took place in 1996 to mark the 400th anniversary of the Union of Brest, with ongoing efforts for the restoration of its grounds."
+      ]
+    },
+    {
+      "heading": "Architectural Features",
+      "paragraphs": [
+        "Designed by architect Bernard Meretyn and sculptor Johann Georg Pinsel, St. George's Cathedral showcases a blend of Western architectural influences and traditional [[ukrainian|Ukrainian]] church design. An expressive statue of St. George the Dragon-slayer by Pinsel is located in the church attic, alongside stone images of Pope St. Leo and St. Athanasius guarding the church portal.",
+        "The cathedral houses significant religious artifacts, including the Wonder-working Icon of the Virgin Mary, brought to Lviv in 1674, and features tombs of notable figures from the Ukrainian Greek-Catholic Church, such as Cardinal Sylvester Sembratovych and Metropolitan Andrei Sheptytsky."
+      ]
+    },
+    {
+      "heading": "Cultural Importance",
+      "paragraphs": [
+        "St. George's Cathedral holds a prominent position in the religious and cultural identity of Ukraine. It continues to function as the central church of the Ukrainian Catholic Archeparchy of Lviv, reflecting its enduring significance within the Ukrainian Greek Catholic Church and the broader Ukrainian society."
+      ]
+    }
+  ],
+  "links_out": [
+    "halych",
+    "lviv",
+    "lviv-oblast",
+    "ternopil",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-greek-catholic-church",
+    "volhynia",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "St. George's Cathedral, Lviv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/St._George's_Cathedral,_Lviv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

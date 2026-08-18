@@ -1,0 +1,82 @@
+{
+  "qid": "Q20066885",
+  "slug": "artem-dovbyk",
+  "title": "Artem Dovbyk",
+  "type": "human",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1997-06-21",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Cherkasy",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Artem Oleksandrovych Dovbyk is a Ukrainian professional footballer, born on 21 June 1997, who plays as a striker for Serie A club Bologna, on loan from Roma, and represents the Ukraine national team.",
+  "sections": [
+    {
+      "heading": "Early Life and Youth Career",
+      "paragraphs": [
+        "Artem Dovbyk was born in [[cherkasy|Cherkasy]], [[ukraine|Ukraine]], and is a product of the FC Cherkaskyi [[dnieper|Dnipro]] academy, having graduated from the Olympic Reserve Specialized Sports School [[slavutych|Slavutych]] in Cherkasy.",
+        "He made his professional debut on 26 July 2014 against Skala and scored his first goal on 16 August in a 3–1 victory against Krystal [[kherson|Kherson]], becoming the youngest scorer in the club's history at the age of 17 years and 55 days."
+      ]
+    },
+    {
+      "heading": "Club Career",
+      "paragraphs": [
+        "In summer 2015, Dovbyk signed with FC Dnipro, later going on loan to FC Zaria Bălți in April 2016, where he won the Moldovan Cup.",
+        "He scored a joint team high of 6 goals during the 2016–17 season, earning the [[ukrainian|Ukrainian]] Premier League Best Young Player award and a call-up to the Ukraine national team for the 2018 FIFA World Cup qualifiers.",
+        "After Dnipro's relegation, Dovbyk scored 12 goals in 13 games in the Ukrainian Second League before joining Danish club FC Midtjylland on a free transfer in 2018, where he became a national champion and cup holder.",
+        "In July 2020, he returned to Ukraine to play for SC Dnipro-1, where he became the top scorer in the 2022–23 season with 24 goals, including two hat-tricks.",
+        "On 6 August 2023, Dovbyk transferred to La Liga club Girona for a reported fee of €7 million, becoming the most expensive player in the club's history, and scored his first hat-trick on 21 January 2024.",
+        "On 2 August 2024, he moved to Serie A club Roma for €38 million, finishing his first season with 12 goals."
+      ]
+    },
+    {
+      "heading": "International Career",
+      "paragraphs": [
+        "Dovbyk was first called up to the Ukraine U19 national team but did not play any matches.",
+        "He made his senior national team debut on 31 March 2021 in a World Cup qualifier against Kazakhstan and was selected for UEFA Euro 2020, where he scored a decisive goal against Sweden in the round of 16.",
+        "In May 2024, he was called up to represent Ukraine at UEFA Euro 2024."
+      ]
+    },
+    {
+      "heading": "Personal Life",
+      "paragraphs": [
+        "Artem Dovbyk is married to Yulia Dovbyk, and they have a daughter."
+      ]
+    },
+    {
+      "heading": "Honours and Achievements",
+      "paragraphs": [
+        "Dovbyk has won several titles, including the Ukrainian Second League with Cherkaskyi Dnipro in 2014–15, the Moldovan Cup with Zaria in 2016, and multiple Danish titles with Midtjylland.",
+        "Individually, he has been recognized as the Ukrainian Premier League top scorer for the 2021–22 and 2022–23 seasons, and he won the Pichichi Trophy in 2023–24."
+      ]
+    }
+  ],
+  "links_out": [
+    "cherkasy",
+    "dnieper",
+    "kherson",
+    "slavutych",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Artem Dovbyk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Artem_Dovbyk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

@@ -1,0 +1,70 @@
+{
+  "qid": "Q2505231",
+  "slug": "ukrainian-americans",
+  "title": "Ukrainian Americans",
+  "type": "ethnic group",
+  "category": "politics",
+  "aliases": [
+    "Ukrainian American"
+  ],
+  "infobox": {
+    "label": "ethnic group",
+    "fields": []
+  },
+  "summary": "Ukrainian Americans are individuals in the United States with full or partial Ukrainian ancestry, numbering over 1 million as of 2018. They represent the second largest Ukrainian population outside the former Eastern Bloc, with significant communities in major metropolitan areas.",
+  "sections": [
+    {
+      "heading": "Demographics and Population",
+      "paragraphs": [
+        "As of 2021, there were an estimated 1,017,586 Americans of [[ukrainian|Ukrainian]] descent, comprising 0.3% of the total U.S. population. The Ukrainian American community is the second largest outside of the former Eastern Bloc, surpassed only by Canada.",
+        "The 2000 U.S. census recorded 892,922 individuals of Ukrainian ancestry. Major metropolitan areas with substantial Ukrainian American populations include New York City (160,000), Philadelphia (60,000), Chicago (46,000), and Detroit (45,000)."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Significant Ukrainian immigration to the United States began in the 1880s, primarily from Austro-Hungary, with early immigrants referred to as [[rusyns|Ruthenians]]. By 1899, estimates suggested a Ukrainian population in the U.S. between 200,000 and 500,000.",
+        "The Ukrainian National Association was established on February 22, 1894, in Shamokin, Pennsylvania. Additional waves of immigration occurred between 1920 and 1939 and after World War II, with approximately 85,000 displaced persons arriving in the U.S.",
+        "The largest influx of [[ukrainians|Ukrainians]] occurred in the early 1990s following the dissolution of [[soviet-union|the Soviet Union]], with many settling in urban centers and forming ethnic enclaves."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "Following the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], it is estimated that around 300,000 Ukrainians sought asylum in the United States during 2022-2023, marking a significant increase in the Ukrainian American population.",
+        "Ukrainian Americans have been active in supporting those affected by the conflict, particularly in areas with large Ukrainian Protestant communities, such as Sacramento."
+      ]
+    },
+    {
+      "heading": "Cultural and Religious Aspects",
+      "paragraphs": [
+        "The majority of Ukrainian Americans practice Christianity, with a mix of Orthodox, Catholic, Baptist, and Evangelical denominations.",
+        "Ukrainian Americans have maintained a strong cultural identity, often engaging in political advocacy regarding Ukrainian affairs, particularly in the Northeastern United States."
+      ]
+    },
+    {
+      "heading": "Commemoration and Community Engagement",
+      "paragraphs": [
+        "On September 11, 2001, 11 Ukrainian Americans lost their lives in the terrorist attacks at the World Trade Center, and their names were commemorated by Ukrinform during the 19th anniversary of the events in 2020.",
+        "In Bloomingdale, Illinois, a monument dedicated to the [[revolution-of-dignity|Revolution of Dignity]] was consecrated on September 21, 2015, by Filaret, the Ukrainian Orthodox Patriarch."
+      ]
+    }
+  ],
+  "links_out": [
+    "full-scale-russo-ukrainian-war",
+    "revolution-of-dignity",
+    "rusyns",
+    "soviet-union",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Americans — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Americans",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

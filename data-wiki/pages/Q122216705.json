@@ -1,0 +1,59 @@
+{
+  "qid": "Q122216705",
+  "slug": "soviet-occupation-of-ukraine",
+  "title": "Soviet occupation of Ukraine",
+  "type": "Wikimedia disambiguation page",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "The Soviet occupation of Ukraine encompasses various military actions and territorial changes involving Soviet forces from the early 20th century to the mid-20th century, significantly impacting the region's history and its relationship with the Soviet Union.",
+  "sections": [
+    {
+      "heading": "Ukrainian War of Independence (1917–1921)",
+      "paragraphs": [
+        "The [[ukrainian-war-of-independence|Ukrainian War of Independence]] was a pivotal conflict occurring from 1917 to 1921, during which [[ukraine|Ukraine]] sought to establish itself as an independent nation amidst the chaos of World War I and the Russian Revolution."
+      ]
+    },
+    {
+      "heading": "Soviet Invasions of Ukraine (1918–1919)",
+      "paragraphs": [
+        "The [[ukrainiansoviet-war|Soviet invasion of Ukraine]] in 1918 marked the beginning of direct military interventions by Soviet forces, followed by another invasion in 1919 that further entrenched Soviet influence in the region.",
+        "The [[kharkiv-oblast|Kharkiv]] Operation in December 1919 was a significant military engagement that aimed to consolidate Soviet control over Ukraine."
+      ]
+    },
+    {
+      "heading": "Annexations in the Late 1930s and 1940s",
+      "paragraphs": [
+        "In 1939, [[soviet-union|the Soviet Union]] annexed [[eastern-galicia|Eastern Galicia]] and [[volhynia|Volhynia]], expanding its territorial claims [[coal-in-ukraine|in Ukraine]].",
+        "The occupation of [[bessarabia|Bessarabia]] and Northern [[bukovina|Bukovina]] occurred in 1940, further illustrating the Soviet strategy of territorial expansion at the expense of [[ukrainian|Ukrainian]] sovereignty.",
+        "The annexation of [[transcarpathia|Transcarpathia]] took place between 1944 and 1945, completing a series of territorial acquisitions by the Soviet regime in Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "bessarabia",
+    "bukovina",
+    "coal-in-ukraine",
+    "eastern-galicia",
+    "kharkiv-oblast",
+    "soviet-union",
+    "transcarpathia",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-war-of-independence",
+    "ukrainiansoviet-war",
+    "volhynia"
+  ],
+  "sources": [
+    {
+      "title": "Soviet occupation of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Soviet_occupation_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

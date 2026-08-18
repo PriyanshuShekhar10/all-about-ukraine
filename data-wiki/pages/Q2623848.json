@@ -1,0 +1,82 @@
+{
+  "qid": "Q2623848",
+  "slug": "lviv-high-castle",
+  "title": "Lviv High Castle",
+  "type": "castle",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "castle",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1270",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "413",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.8483, 24.0389",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Lviv High Castle, known in Ukrainian as Високий замок, is a historic castle situated on Castle Hill in Lviv, [[ukraine|Ukraine]]. It is the highest point in the city, standing at 413 metres (1,355 ft) above sea level, and currently exists in a state of ruin.",
+  "sections": [
+    {
+      "heading": "Geographical Significance",
+      "paragraphs": [
+        "The Lviv High Castle is located at the summit of Castle Hill, which is the highest elevation in [[lviv|Lviv]]. Historically, it was surrounded by a fortification wall and served as a primary defensive structure for the city."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Prior to the construction of the castle, Lviv had various defensive structures, although their specific configurations are not well-documented. The first wooden fortifications were established by Leo I of [[halych|Halych]], but were destroyed in 1261 by Mongol leader Boroldai and rebuilt before 1283.",
+        "In 1340, after Lviv was captured by Casimir III of Poland, the king ordered the dismantling of the city's fortifications. The castle was rebuilt in stone and brick around 1362 under Casimir III, earning its designation as the 'High Castle' to distinguish it from the 'Lower Castle' in the city.",
+        "Throughout the 15th century, the castle was recognized as the most formidable fortification in [[ruthenian|Ruthenian]] lands. It underwent various repairs and was used to detain prisoners, including captured Teutonic knights. The castle's strategic importance increased during the mid-15th century due to Tatar raids, leading to further fortification repairs.",
+        "The castle faced multiple sieges and was involved in significant historical events, including the Chicken War in 1537 and the [[khmelnytsky-uprising|Khmelnytsky Uprising]] in 1648, when it was captured by Cossack forces."
+      ]
+    },
+    {
+      "heading": "Decline and Modern Developments",
+      "paragraphs": [
+        "The castle suffered extensive damage during the Swedish occupation in 1704 and was further disassembled by Austrians in 1777. By the 19th century, the ruins were largely dismantled, and new structures were erected in their place, including a park and an observation platform.",
+        "In 1869, the Union of Lublin Mound was constructed on the site of the former castle to commemorate the 300th anniversary of the Union of Lublin. A television tower was added to the hill in 1957.",
+        "Discussions regarding the reconstruction of the castle took place between 2004 and 2005, but the plans have not materialized."
+      ]
+    },
+    {
+      "heading": "Cultural References",
+      "paragraphs": [
+        "The Lviv High Castle is referenced in the autobiographical novel 'Highcastle: A Remembrance' by Lviv-born Polish writer Stanisław Lem. Additionally, it is mentioned in a [[ukrainian|Ukrainian]] folk song from the World War II era, which tells the story of a mother mourning her son who fell in battle near the castle."
+      ]
+    }
+  ],
+  "links_out": [
+    "halych",
+    "khmelnytsky-uprising",
+    "lviv",
+    "ruthenian",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Lviv High Castle — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lviv_High_Castle",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

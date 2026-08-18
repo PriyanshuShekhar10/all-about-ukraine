@@ -1,0 +1,94 @@
+{
+  "qid": "Q4499410",
+  "slug": "the-holocaust-in-ukraine",
+  "title": "The Holocaust in Ukraine",
+  "type": "genocide",
+  "category": "war",
+  "aliases": [
+    "Holocaust in Ukraine"
+  ],
+  "infobox": {
+    "label": "genocide",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "1940",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Ukrainian Soviet Socialist Republic",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The Holocaust in Ukraine refers to the systematic extermination of Jews during World War II, particularly under Nazi occupation in various regions that are now part of Ukraine. It is estimated that between 850,000 and 1,600,000 Jews were murdered, with significant local collaboration contributing to the genocide.",
+  "sections": [
+    {
+      "heading": "Context and Impact",
+      "paragraphs": [
+        "The Holocaust in Ukraine occurred within the broader framework of Nazi Germany's military control during World War II, particularly in the Reichskommissariat [[ukraine|Ukraine]] and surrounding areas. These regions included the General Government, the Crimean General Government, and parts of Romania and Hungary that are now part of Ukraine.",
+        "Between 1941 and 1945, the genocide resulted in the deaths of an estimated 850,000 to 1,600,000 Jews [[coal-in-ukraine|in Ukraine]], facilitated by local collaborators. Historian Timothy D. Snyder emphasized that the Holocaust was deeply intertwined with the Nazi war strategy aimed at conquering Ukraine."
+      ]
+    },
+    {
+      "heading": "Nazi Occupation Policies",
+      "paragraphs": [
+        "The Nazi regime viewed themselves as 'civilizers' while perceiving Jews and [[ukrainians|Ukrainians]] as racially inferior. Jews were targeted for extermination, while Ukrainians were relegated to a status of exploited labor. The Holocaust in Ukraine was characterized by localized mass killings rather than deportations to extermination camps.",
+        "Einsatzgruppen, or mobile killing squads, along with local police and [[ukrainian|Ukrainian]] auxiliaries, conducted systematic executions of Jews in their communities."
+      ]
+    },
+    {
+      "heading": "Massacres and Atrocities",
+      "paragraphs": [
+        "The total civilian casualties during the German occupation of Ukraine are estimated at four million, including up to one million Jews killed by various Nazi units and local collaborators. Notable massacres include the [[babi-yar|Babi Yar]] ravine incident, where 33,771 Jews were killed on September 29-30, 1941.",
+        "The [[mykolaiv|Nikolaev]] massacre in September 1941 resulted in the deaths of 35,782 Soviet citizens, primarily Jews. Eyewitness accounts from survivors detail the horrific nature of these executions."
+      ]
+    },
+    {
+      "heading": "Collaboration and Complicity",
+      "paragraphs": [
+        "Ukrainian collaboration with Nazi forces took various forms, including participation in local administration, police units, and concentration camp oversight. Approximately 100,000 Ukrainians joined police units that assisted the Nazis, while others engaged in mass shootings of Jews.",
+        "The [[organization-of-ukrainian-nationalists|Organization of Ukrainian Nationalists]] (OUN) coordinated with Nazi authorities, implementing antisemitic policies and organizing militias that contributed to the genocide, including the massacre of 6,000 Jews in [[lviv|Lviv]]."
+      ]
+    },
+    {
+      "heading": "Victims and Historical Estimates",
+      "paragraphs": [
+        "Estimates of Jewish deaths in Ukraine have evolved over time. Initially believed to be around 900,000, more recent studies suggest figures as high as 1.6 million, based on increased access to historical archives. Many Jews attempted to escape into forests but faced violence from various groups during the German retreat.",
+        "Timothy D. Snyder noted that by the end of 1942, the Soviet Jewish population under Nazi control had largely ceased to exist."
+      ]
+    },
+    {
+      "heading": "Resistance Efforts",
+      "paragraphs": [
+        "Jewish resistance in Ukraine manifested in several forms, including armed uprisings in ghettos, such as the Tuchyn Ghetto rebellion in September 1942, where residents fought back and allowed 2,000 Jews to escape.",
+        "Partisan warfare saw Jews fleeing to forests to engage in resistance, while family camps were established in remote areas, providing refuge under the protection of armed Jewish fighters."
+      ]
+    }
+  ],
+  "links_out": [
+    "babi-yar",
+    "coal-in-ukraine",
+    "lviv",
+    "mykolaiv",
+    "organization-of-ukrainian-nationalists",
+    "ukraine",
+    "ukrainian",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "The Holocaust in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Holocaust_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

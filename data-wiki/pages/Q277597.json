@@ -1,0 +1,88 @@
+{
+  "qid": "Q277597",
+  "slug": "geography-of-ukraine",
+  "title": "Geography of Ukraine",
+  "type": "geography of geographic location",
+  "category": "history",
+  "aliases": [
+    "Ukraine geography"
+  ],
+  "infobox": {
+    "label": "geography of geographic location",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.0000, 32.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Ukraine, the second-largest country in Europe, features a diverse geography that includes fertile plains, highlands, and a variety of climatic conditions. Its geographic location and natural resources significantly influence its agricultural productivity and environmental challenges.",
+  "sections": [
+    {
+      "heading": "Geographic Location",
+      "paragraphs": [
+        "[[ukraine|Ukraine]] is situated in [[eastern-europe|Eastern Europe]], bordered by the northern shores of the Black Sea and the Sea of Azov. The country shares borders with Belarus to the north, Poland, Slovakia, and Hungary to the west, Moldova and Romania to the southwest, and Russia to the east.",
+        "Covering a total area of 603,700 square kilometers (233,100 sq mi), Ukraine possesses an Exclusive Economic Zone of 147,318 square kilometers (56,880 sq mi) in the Black Sea. The total length of Ukraine's land borders is 6,993 kilometers (4,345 mi), with the longest border being with Russia at 1,974 kilometers (1,227 mi)."
+      ]
+    },
+    {
+      "heading": "Relief",
+      "paragraphs": [
+        "The majority of Ukraine's territory lies within the Great European Plain, while parts of its western and southern regions are part of the Alpine system. The country features two primary biomes: mixed forests in the central regions and steppe areas along the Black Sea coast.",
+        "The [[carpathians|Carpathian Mountains]] in the west, including the highest peak, Mount [[hoverla|Hoverla]] at 2,061 meters (6,762 ft), represent the only mountainous regions [[coal-in-ukraine|in Ukraine]], while the southern tip features the Crimean Mountains."
+      ]
+    },
+    {
+      "heading": "Soil",
+      "paragraphs": [
+        "Ukraine's soils can be categorized into three major types from northwest to southeast: sandy podzolized soils, fertile black earth (chernozems), and chestnut and salinized soils. Approximately two-thirds of the country's land is covered by black earth, making it one of the most fertile areas globally.",
+        "The northern region has deep chernozems about 1.5 meters (5 feet) thick, while the southernmost areas have thinner layers with less humus."
+      ]
+    },
+    {
+      "heading": "Hydrography",
+      "paragraphs": [
+        "Ukraine's territory is bordered by the Black Sea and the Sea of Azov, with over 95% of its rivers draining into these seas. Major rivers include the Desna, [[dnieper|Dnipro]], Dnister, Danube, [[pripyat|Prypiat]], Siverian [[donets|Donets]], and Southern Buh."
+      ]
+    },
+    {
+      "heading": "Climate",
+      "paragraphs": [
+        "Located in the mid-latitudes, Ukraine generally experiences a continental climate, except for its southern coastal regions, which have cold semi-arid and humid subtropical climates. Average annual temperatures range from 5.5–7 °C (41.9–44.6 °F) in the north to 11–13 °C (51.8–55.4 °F) in the south.",
+        "Precipitation varies significantly, being highest in the west and lowest in the east and southeast, which can affect agricultural productivity."
+      ]
+    },
+    {
+      "heading": "Environmental Issues",
+      "paragraphs": [
+        "Ukraine faces several environmental challenges, including inadequate supplies of potable water, air and water pollution, deforestation, and radioactive contamination from the 1986 [[chernobyl-disaster|Chernobyl disaster]]. These issues pose significant risks to the country's natural resources and public health."
+      ]
+    }
+  ],
+  "links_out": [
+    "carpathians",
+    "chernobyl-disaster",
+    "coal-in-ukraine",
+    "dnieper",
+    "donets",
+    "eastern-europe",
+    "hoverla",
+    "pripyat",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Geography of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

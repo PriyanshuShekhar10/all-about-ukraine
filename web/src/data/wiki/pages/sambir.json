@@ -1,0 +1,100 @@
+{
+  "qid": "Q156593",
+  "slug": "sambir",
+  "title": "Sambir",
+  "type": "city of regional significance of Ukraine",
+  "category": "geography",
+  "aliases": [
+    "Sambor"
+  ],
+  "infobox": {
+    "label": "city of regional significance of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1241",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "35,026",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "24",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "295",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.5167, 23.2000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Sambir is a city of regional significance located in Lviv Oblast, Ukraine, serving as the administrative center of Sambir Raion. With a population of approximately 34,152 in 2022, it is notable for its historical significance and strategic location near the Polish border.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Sambir is positioned on the left bank of the [[dniester|Dniester]] River and is recognized as a cultural, industrial, and tourist hub in [[modern-history-of-ukraine|modern Ukraine]]. It ranks as the fifth largest city in [[lviv-oblast|Lviv Oblast]], situated 78 miles from the regional center by rail and 76 km by road. The city spans an area of 24 km², with a length of 10.5 km from southwest to northeast and 4.5 km from northwest to southeast. The elevation of the city center is 305.96 m above sea level.",
+        "The city is strategically located on a vital route connecting Eastern and Western Europe, with electrified railway tracks, trunk pipelines, and power lines running through it."
+      ]
+    },
+    {
+      "heading": "Climate",
+      "paragraphs": [
+        "Sambir experiences an average annual temperature ranging from 8 to 10 °C (46 to 50 °F). Winters are relatively mild, with occasional thaws and minimal snow cover. Spring is characterized as long, windy, cool, and wet, while summers are warm and slightly rainy. Autumn is typically warm and dry, lasting until early November."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The history of Sambir and Staryi Sambir, located in [[galicia|Halychyna]], dates back to the 12th century when Staryi Sambir served as a significant center of the [[halych|Halych]] Princedom of [[kievan-rus|Kyivan Rus]]'. The city faced destruction in 1241 by the Tatars. Following this, part of the population relocated to a nearby village named Pohonich, which later became known as Novyi Sambir.",
+        "Sambir was officially founded in 1390 by Spytek of Melsztyn, who received permission from King Władysław II Jagiełło to establish the city in Pohonicz, granting it Magdeburg rights. The city developed as a commercial center due to its strategic location between the Baltic and Black Seas, facilitating trade routes."
+      ]
+    },
+    {
+      "heading": "Development and Challenges",
+      "paragraphs": [
+        "Throughout its early history, Sambir faced numerous challenges, including invasions and fires. In 1498, the city was completely burned down, and it was rebuilt in the 16th century. The establishment of city walls in 1530 by Starosta Krzysztof Odrowaz Szydlowski limited the city's expansion for over two centuries.",
+        "The city underwent significant changes during the Austrian rule after the [[first-partition-of-poland|First Partition of Poland]] in 1772, leading to the secularization of church properties and a construction boom following the introduction of local self-government in 1870."
+      ]
+    },
+    {
+      "heading": "20th Century and Beyond",
+      "paragraphs": [
+        "Sambir largely avoided destruction during World War I, but faced challenges during World War II, resulting in the loss of several buildings. Under Soviet rule, the city expanded with new residential areas and industrial development, contributing to its growth within [[ukraine|Ukraine]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "dniester",
+    "first-partition-of-poland",
+    "galicia",
+    "halych",
+    "kievan-rus",
+    "lviv-oblast",
+    "modern-history-of-ukraine",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Sambir — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sambir",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

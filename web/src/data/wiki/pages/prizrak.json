@@ -1,0 +1,52 @@
+{
+  "qid": "Q18758192",
+  "slug": "prizrak",
+  "title": "Prizrak",
+  "type": "film",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "film",
+    "fields": []
+  },
+  "summary": "Prizrak (Ghost) is a 2015 Russian comedy film directed by Aleksandr Voytinskiy, featuring actors Fedor Bondarchuk and Semyon Treskunov. The film is notable for being the first Russian production to utilize Dolby Atmos technology and has garnered approximately 383 million Russian rubles at the box office.",
+  "sections": [
+    {
+      "heading": "Plot Overview",
+      "paragraphs": [
+        "The narrative centers on Yuri Gordeev, an ambitious aircraft designer who faces a tragic turn of events after a car accident leads to his death, transforming him into a ghost. Previously, he was on the brink of a significant achievement with his aircraft, the YG-1, designed to take off from a 100-meter runway. Meanwhile, seventh grader Ivan Kuznetsov, known as Vanya, struggles with personal challenges, including an overprotective mother and bullying from classmates. Vanya is the only person capable of seeing Yuri's ghost, and together they have one week for Yuri to complete his life's work."
+      ]
+    },
+    {
+      "heading": "Cast",
+      "paragraphs": [
+        "The film features a notable cast, including Fedor Bondarchuk as Yuri Gordeyev and Semyon Treskunov as Vanya Kuznetsov. Other significant roles are played by Yan Tsapnik as Gena, Yuri's best friend; Kseniya Lavrova-Glinka as Vanya's mother; and Igor Ugolnikov as Polzunov, Yuri's business rival."
+      ]
+    },
+    {
+      "heading": "Production Details",
+      "paragraphs": [
+        "During the filming of Prizrak, actor Yan Tsapnik suffered a leg injury, which was subsequently incorporated into the film's script. The aircraft YG-1, designed by Yuri Gordeyev, was entirely created using computer graphics by the company Main Road Post, as real-life counterparts could not adequately represent the aircraft's unique features."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "As a Russian comedy film, Prizrak reflects elements of contemporary Russian cinema while also contributing to the broader cultural landscape [[coal-in-ukraine|in Ukraine]] and neighboring regions. The film's themes of ambition, loss, and redemption resonate with audiences familiar with the challenges faced by individuals in [[post-soviet-states|post-Soviet states]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "post-soviet-states"
+  ],
+  "sources": [
+    {
+      "title": "Ghost (2015 film) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ghost_(2015_film)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

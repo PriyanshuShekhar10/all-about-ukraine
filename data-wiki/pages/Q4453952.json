@@ -1,0 +1,82 @@
+{
+  "qid": "Q4453952",
+  "slug": "television-in-ukraine",
+  "title": "television in Ukraine",
+  "type": "television in a country",
+  "category": "economy",
+  "aliases": [
+    "TV in Ukraine"
+  ],
+  "infobox": {
+    "label": "television in a country",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Ukraine",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "Television in Ukraine has evolved significantly since its inception, beginning with experimental broadcasts in the late 1930s and developing into a diverse media landscape following the country's independence in 1991. The medium has played a crucial role in shaping public discourse and cultural identity in Ukraine.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Regular television broadcasting [[coal-in-ukraine|in Ukraine]] commenced during the Soviet era in 1951, although the first television broadcast occurred on 1 February 1939 in [[kyiv|Kyiv]]. This initial broadcast was experimental and not widely accessible, leading to its limited recognition in the history of [[ukrainian|Ukrainian]] television."
+      ]
+    },
+    {
+      "heading": "Development of Ukrainian Television",
+      "paragraphs": [
+        "The establishment of the Kyiv Television and Radio Center in 1951 marked a significant milestone in Ukrainian television history. Official broadcasts began on 6 November 1951, which is now celebrated as the birthday of Ukrainian television. Early programming was primarily studio-based, with the first outdoor broadcast occurring on 30 May 1954 during the 300th anniversary of the [[pereiaslav|Pereiaslav]] Council."
+      ]
+    },
+    {
+      "heading": "Expansion and Growth",
+      "paragraphs": [
+        "As television expanded beyond Kyiv, other Ukrainian cities began developing their own broadcasting capabilities. By the early 1960s, ten regional capitals had established television operations. The introduction of national channels, such as UA:1 and UA:2, in the 1960s formalized a structured broadcasting framework in Ukraine."
+      ]
+    },
+    {
+      "heading": "Technological Advancements",
+      "paragraphs": [
+        "The late 1980s saw the rise of international television bridges, reflecting a new openness in media during [[mikhail-gorbachev|Gorbachev]]'s glasnost. The Kyiv studio became the central hub for Ukrainian television, producing a significant amount of original programming while also diversifying content to cater to various audience segments."
+      ]
+    },
+    {
+      "heading": "Post-Independence Era",
+      "paragraphs": [
+        "Following [[ukraine|Ukraine]]'s independence in 1991, the Kyiv Television Center became the new headquarters for public television. A directive in 1995 aimed to prioritize Ukrainian-produced content, leading to a more autonomous broadcasting landscape. The National Council for Television and Radio Broadcasting facilitated the licensing of numerous broadcasters, contributing to a multi-channel environment."
+      ]
+    },
+    {
+      "heading": "Impact of Political Changes",
+      "paragraphs": [
+        "The [[orange-revolution|Orange Revolution]] in the early 2000s marked a turning point for Ukrainian television, leading to increased media freedom. However, the landscape continued to experience fluctuations in political pressure, as noted by the National Council for Television and Radio Broadcasting in 2009."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "kyiv",
+    "mikhail-gorbachev",
+    "orange-revolution",
+    "pereiaslav",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Television in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Television_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

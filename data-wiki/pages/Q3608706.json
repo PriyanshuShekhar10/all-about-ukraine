@@ -1,0 +1,87 @@
+{
+  "qid": "Q3608706",
+  "slug": "kryvyi-rih-national-university",
+  "title": "Kryvyi Rih National University",
+  "type": "university",
+  "category": "culture",
+  "aliases": [
+    "KNU",
+    "Krivoriz‘skij nacional‘nyj universitet",
+    "Kryvyi Rih University"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1922-10-04",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Kryvyi Rih",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "47.9055, 33.4013",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Kryvyi Rih National University is a public higher education institution located in Kryvyi Rih, Ukraine, established in 1922. The university has undergone several transformations and currently comprises seven faculties and five institutes, reflecting its significant role in the educational landscape of Ukraine.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Kryvyi Rih National University was originally founded in 1922 as the [[kryvyi-rih|Kryvyi Rih]] Evening Working College. In 1929, it evolved into an evening working institution and was later named the Kryvyi Rih Mining Institute in 1931. The Institute of Vocational Training was established in Kryvyi Rih in 1932 and was reorganized into a Pedagogical Institute that trained approximately 1,000 teachers before World War II.",
+        "During World War II, from September 20, 1941, to August 1944, the Kryvyi Rih Mining Institute was evacuated to Nizhny Tagil, Russia. Classes resumed in September 1944 at its original location, with an expanded range of engineering specialties. The institute was recognized for its academic excellence, with five of its faculty members awarded the Lenin or State Prizes. In 1994, it attained the status of a charter technical university.",
+        "The independence of [[ukraine|Ukraine]] in 1991 prompted significant changes within the university. In 2011, the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] established Kryvyi Rih National University by merging the Mining Institute, Pedagogical University, Economic Institute of [[kyiv-national-economic-university-named-after-vadym-hetman|Kyiv National Economic University]], and a branch of the National Metallurgical Academy of Ukraine."
+      ]
+    },
+    {
+      "heading": "Organisation and Administration",
+      "paragraphs": [
+        "Kryvyi Rih National University is structured into seven faculties and five institutes, which facilitate a diverse range of academic programs and research initiatives."
+      ]
+    },
+    {
+      "heading": "Academics",
+      "paragraphs": [
+        "The university maintains partnerships with universities in forty countries, including several former Soviet republics. These collaborations often involve student exchange programs, enhancing the international academic experience for students."
+      ]
+    },
+    {
+      "heading": "Campus and Library",
+      "paragraphs": [
+        "The university's library, established in 1922, houses over 1.7 million volumes, including more than 7,000 rare and valuable books. It attracts over 500,000 visitors annually and facilitates the loan of more than 1 million books each year. Digital access to library resources was initiated in 2005, promoting broader access to information."
+      ]
+    },
+    {
+      "heading": "Notable Alumni and Faculty",
+      "paragraphs": [
+        "Kryvyi Rih National University has produced several notable individuals, including Mykhailo Korolenko, Oleksandr Vilkul, Petro Dyminskyi, and Olena Zelenska, contributing to various fields within Ukraine and beyond."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "kryvyi-rih",
+    "kyiv-national-economic-university-named-after-vadym-hetman",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Kryvyi Rih National University — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kryvyi_Rih_National_University",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

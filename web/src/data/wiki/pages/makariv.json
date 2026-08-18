@@ -1,0 +1,97 @@
+{
+  "qid": "Q2641614",
+  "slug": "makariv",
+  "title": "Makariv",
+  "type": "urban-type settlement in Ukraine",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "urban-type settlement in Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "9,836",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "62",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "168",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4648, 29.8072",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Makariv is an urban-type settlement located in Bucha Raion of Kyiv Oblast, Ukraine, serving as the administrative center of the Makariv settlement hromada. As of 2022, it has a population of 9,390, reflecting a decline from 12,042 in 2001.",
+  "sections": [
+    {
+      "heading": "Geographical and Administrative Context",
+      "paragraphs": [
+        "Makariv is situated in Bucha Raion within the [[kyiv-oblast|Kyiv Oblast]] of [[ukraine|Ukraine]]. It functions as the administrative center for the Makariv settlement hromada, which is one of the hromadas [[coal-in-ukraine|in Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The documented history of Makariv dates back to its connection with the village of Voronin, part of the Yasinets estates owned by the Lithuanian feudal lords Ivashentsevichs, first mentioned in 1506. The settlement was named after Makar Vasentsevich, who settled there and changed the village's name to Makariv.",
+        "From the 16th to the 18th century, a castle existed in Makariv, which housed a small garrison during the final years of Polish rule. The estate was destroyed during the [[khmelnytsky-uprising|Khmelnytsky Uprising]], with local residents actively participating in the [[ukrainian|Ukrainian]] national liberation movement.",
+        "Makariv's governance changed multiple times during the [[ukrainian-war-of-independence|Ukrainian Revolution]] (1917–1921) until it was occupied by Soviet Russia in 1920 and annexed by [[soviet-union|the USSR]] in 1921. The village underwent collectivization in the 1920s and suffered greatly during [[holodomor|the Holodomor]], leading to approximately 3,450 deaths from hunger.",
+        "During World War II, Makariv was under German administration from July 10, 1941, to November 8, 1943, and its Jewish population faced genocide. The area also served as a base for partisan units."
+      ]
+    },
+    {
+      "heading": "Post-Independence Developments",
+      "paragraphs": [
+        "Since Ukraine's independence in 1991, Makariv has experienced significant economic changes, primarily focusing on agricultural production and processing. Until July 18, 2020, it served as the administrative center of Makariv Raion, which was dissolved as part of an administrative reform that reduced the number of raions in Kyiv Oblast."
+      ]
+    },
+    {
+      "heading": "Impact of the 2022 Russian Invasion",
+      "paragraphs": [
+        "During the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], Makariv was the site of military confrontations. On February 28, Ukrainian forces attacked a Russian military convoy in the settlement. Civilians were casualties of the conflict, with two deaths reported on the same day.",
+        "By March 2, Ukrainian military forces had retaken Makariv, although the area experienced heavy fighting and airstrikes in the following days, resulting in civilian casualties and significant damage to infrastructure.",
+        "On March 22, 2022, it was confirmed that Makariv had been recaptured, with the [[flag-of-ukraine|Ukrainian flag]] raised over the town."
+      ]
+    },
+    {
+      "heading": "Demographics and Notable Figures",
+      "paragraphs": [
+        "As of the 2001 census, the population of Makariv was recorded at 9,390. Notable individuals associated with Makariv include Serhiy Marchenko, the Minister of Finance of Ukraine since March 30, 2020, and Demetrius of Rostov, a significant religious figure and writer."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "coal-in-ukraine",
+    "flag-of-ukraine",
+    "holodomor",
+    "khmelnytsky-uprising",
+    "kyiv-oblast",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-war-of-independence"
+  ],
+  "sources": [
+    {
+      "title": "Makariv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Makariv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

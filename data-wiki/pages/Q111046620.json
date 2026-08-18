@@ -1,0 +1,77 @@
+{
+  "qid": "Q111046620",
+  "slug": "daria-kaleniuk",
+  "title": "Daria Kaleniuk",
+  "type": "human",
+  "category": "war",
+  "aliases": [
+    "D. Kaleniuk"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "2000",
+        "source": "wikidata:P569"
+      }
+    ]
+  },
+  "summary": "Daria Kaleniuk is a prominent Ukrainian civil society activist and the executive director of the Anti-Corruption Action Center in [[kyiv|Kyiv]], known for her advocacy against corruption and her efforts to gain international support for Ukraine during the 2022 Russian invasion.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Daria Kaleniuk was born in [[zhytomyr|Zhytomyr]], [[ukraine|Ukraine]]. She pursued her legal studies at the Yaroslav Mudryi National Law University and later obtained a Master of Financial Services Law from Chicago-Kent College of Law, supported by the Fulbright Foreign Student Program."
+      ]
+    },
+    {
+      "heading": "Youth Movement",
+      "paragraphs": [
+        "Kaleniuk began her involvement in civil society during her student years in [[kharkiv-oblast|Kharkiv]], where she joined the local branch of the All-[[ukrainian|Ukrainian]] youth NGO 'Foundation of Regional Initiatives'. She coordinated the international youth project 'Eurobus', which brought young leaders from the European Union to celebrate Europe Days in small towns across Eastern and Southern Ukraine."
+      ]
+    },
+    {
+      "heading": "Anti-Corruption Advocacy",
+      "paragraphs": [
+        "As a co-founder and executive director of the Anti-Corruption Action Center (AntAC), established in 2012, Kaleniuk has led numerous initiatives aimed at anti-corruption reforms. During the [[euromaidan|Euromaidan]] protests, she campaigned to freeze the assets of [[viktor-yanukovych|Viktor Yanukovych]] and his associates held in Western jurisdictions. In December 2013, she, along with AntAC’s Head of the Board Vitaliy Shabunin, launched Yanukovych Info, a website detailing the foreign holdings of Ukraine's then-President.",
+        "Following Yanukovych's ouster in 2014, AntAC supported the [[verkhovna-rada|Ukrainian parliament]] in crafting anti-corruption legislation, which included the establishment of the National Anti-Corruption Bureau of Ukraine, the Special Anti-Corruption Prosecutor's Office, and the High Anti-Corruption Court. Kaleniuk was a member of the first council of civil control at NABU and participated in the selection commissions for both NABU detectives and the Specialized Anti-Corruption Prosecutor's Office.",
+        "Kaleniuk also played a crucial role in advocating for asset recovery legislation and anti-money laundering laws [[coal-in-ukraine|in Ukraine]], founding the registry of Politically Exposed Persons to combat international money laundering and corruption."
+      ]
+    },
+    {
+      "heading": "International Advocacy",
+      "paragraphs": [
+        "In February 2022, on the eve of Russia’s full-scale invasion, Kaleniuk led the 'Block [[vladimir-putin|Putin]] Wallets' campaign through AntAC, calling for Western countries to seize the assets of Russian oligarchs. Following the invasion, she co-founded the International Centre for Ukrainian Victory (ICUV) with Hanna Hopko, Olena Halushka, and Olga Aivazovska, in collaboration with the Casimir Pulaski Foundation in Warsaw.",
+        "The ICUV focuses on advocating for Ukrainian interests internationally, including campaigns for increased security assistance, stronger sanctions against Russia, and funding for Ukraine's reconstruction. Kaleniuk has organized protests and advocacy actions in various cities, including Warsaw, Paris, and Washington, D.C., while continuing her work with AntAC."
+      ]
+    },
+    {
+      "heading": "Testimony and Global Advocacy",
+      "paragraphs": [
+        "On April 6, 2022, Kaleniuk testified before the Helsinki Commission, highlighting the connection between Russia's invasion and Ukraine's anti-corruption reforms. She urged European and American officials to address global corruption by targeting Russian oligarchs and their associates."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "euromaidan",
+    "kharkiv-oblast",
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada",
+    "viktor-yanukovych",
+    "vladimir-putin",
+    "zhytomyr"
+  ],
+  "sources": [
+    {
+      "title": "Daria Kaleniuk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Daria_Kaleniuk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

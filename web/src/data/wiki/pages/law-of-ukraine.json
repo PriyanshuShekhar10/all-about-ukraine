@@ -1,0 +1,68 @@
+{
+  "qid": "Q6518187",
+  "slug": "law-of-ukraine",
+  "title": "law of Ukraine",
+  "type": "law of Ukraine",
+  "category": "politics",
+  "aliases": [
+    "Ukraine act",
+    "legislation of Ukraine"
+  ],
+  "infobox": {
+    "label": "law of Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The law of Ukraine encompasses primary legislation enacted by the Verkhovna Rada, the national parliament, and requires presidential approval for promulgation. These laws are integral to the legal framework of Ukraine, supporting the Constitution and including various codified laws.",
+  "sections": [
+    {
+      "heading": "Legislative Process",
+      "paragraphs": [
+        "[[coal-in-ukraine|In Ukraine]], laws are primarily created by the [[verkhovna-rada|Verkhovna Rada]] and must be signed by the president to become effective. The legislative process typically involves three readings of a bill, which can be adopted after the first or second reading if deemed satisfactory. Additionally, the Verkhovna Rada may utilize a second first reading procedure, allowing for substantial amendments to a bill."
+      ]
+    },
+    {
+      "heading": "Codified Laws",
+      "paragraphs": [
+        "[[ukraine|Ukraine]] has several active codified laws that form the basis of its legal system. These include the Air Code (2011), Tax Code (2010), Budget Code (2010), Code of Administrative Proceedings (2005), Civil Procedural Code (2004), Criminal Executive Code (2003), Civil Code (2003), Customs Code (2012), Family Code (2002), Land Code (2001), Criminal Code (2001), Water Code (1995), Maritime Code (1995), Code on Subsoil (1994), Forest Code (1994), Economic Procedural Code (2003), Code on Administrative Offenses (1984), Labor Code (1971), and Criminal Procedural Code (1960)."
+      ]
+    },
+    {
+      "heading": "Inactive Codes",
+      "paragraphs": [
+        "There are also several inactive legal codes in Ukraine, which include the Correctional Labor Code (1970), Code on Marriage and Family (1969), Criminal Procedural Code (1960), Residential Code (1983), Economic Code (2003), Civil Code (1963), Civil Procedural Code (1963), Budget Code (2001), Air Code (1993), Economic Procedural Code (1991), Criminal Code (1960), Water Code (1972), Customs Code (2002), and various iterations of the Land Code."
+      ]
+    },
+    {
+      "heading": "Important State Laws",
+      "paragraphs": [
+        "One notable piece of legislation is the Law on Legal Succession of Ukraine, which outlines the principles governing the continuity of legal obligations and rights following the establishment of Ukraine as an independent state."
+      ]
+    },
+    {
+      "heading": "Secondary Legislation",
+      "paragraphs": [
+        "In addition to primary laws, various bodies of executive power in Ukraine issue secondary legislation. This includes decrees from the President, resolutions from the Cabinet, and orders from other governmental entities."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ukraine",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Law of Ukraine (legislation) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Law_of_Ukraine_(legislation)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

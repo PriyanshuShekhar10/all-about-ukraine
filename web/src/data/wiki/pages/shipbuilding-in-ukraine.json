@@ -1,0 +1,74 @@
+{
+  "qid": "Q24278772",
+  "slug": "shipbuilding-in-ukraine",
+  "title": "shipbuilding in Ukraine",
+  "type": "aspect in a geographic region",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "aspect in a geographic region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Ukraine",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "Shipbuilding in Ukraine has a long history, beginning during the Cossack era and evolving through various historical periods, including the Soviet period and into independence. The industry is significant for its contributions to both military and civilian maritime capabilities.",
+  "sections": [
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "The [[ukrainian|Ukrainian]] shipbuilding industry originated during the Cossack era, with the construction of popular vessels known as chaiky. Shipbuilding activities were primarily concentrated along the [[dnieper|Dnipro River]], where wood was abundant.",
+        "In the Cossack era, constructing a chaika took about two weeks and involved around 60 workers. These ships, measuring 15 to 22 m (49 to 72 ft) in length, were made from willow or linden for the bottoms and oak planks for the hulls, featuring cabins for storage and a mast with sails."
+      ]
+    },
+    {
+      "heading": "Pre-Soviet and Soviet Periods",
+      "paragraphs": [
+        "The first warship shipyard [[coal-in-ukraine|in Ukraine]] was established in [[mykolaiv|Mykolaiv]] in 1788, followed by a mechanical enterprise in [[kyiv|Kyiv]] in 1862, which later became Kuznya na Rybalskomu. By 1913, [[ukraine|Ukraine]] had seven shipbuilding and repair enterprises across Mykolaiv, [[kherson|Kherson]], and [[odesa|Odesa]].",
+        "During the Soviet era, major shipbuilding companies were located in Mykolaiv, Odesa, Kherson, and Kyiv, with the Black Sea Shipyard in Mykolaiv being the largest. This shipyard was notable for producing the world's first minelaying submarine, the Krab, in 1912."
+      ]
+    },
+    {
+      "heading": "Post-Independence Developments",
+      "paragraphs": [
+        "Since gaining independence, Ukraine has diversified its shipbuilding output, producing various vessels, including dry cargo ships and military vessels. In the first half of 2002, the industry produced products worth ₴270 million, influenced by restructuring and partnerships with European companies.",
+        "By 2006, production value reached ₴2.3 billion, with an 11% increase from the previous year, reflecting a positive trend in the shipbuilding sector."
+      ]
+    },
+    {
+      "heading": "Current Challenges and Companies",
+      "paragraphs": [
+        "Despite improvements, the Ukrainian shipbuilding industry faces challenges, including unprofitable contracts and difficulties in securing loans for modernization. Major shipyards include Kuznya na Rybalskomu in Kyiv and the Black Sea Shipyard in Mykolaiv.",
+        "Several shipyards are located in Russian-occupied territories, such as the [[sevastopol|Sevastopol]] Shipyard and Zalyv Shipbuilding yard, which are not under Ukrainian control."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "dnieper",
+    "kherson",
+    "kyiv",
+    "mykolaiv",
+    "odesa",
+    "sevastopol",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Shipbuilding in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shipbuilding_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

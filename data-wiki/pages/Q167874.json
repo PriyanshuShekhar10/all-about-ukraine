@@ -64,7 +64,7 @@
     {
       "heading": "History",
       "paragraphs": [
-        "Chernihiv Oblast was established on 15 October 1932 as part of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]]. The city of [[chernihiv|Chernihiv]], the capital, has been inhabited for over 2,000 years, with significant historical relevance dating back to the [[kievan-rus|Kievan Rus]]' period, where it was a major regional capital. The region has been under the control of various powers, including the Kievan Rus', Mongol Empire, Lithuania, Poland, and Russia. Notably, it was the site of the Battle of Kruty and the Koriukivka massacre. During World War II, the oblast was occupied by German forces from 1941 to 1943. In 2022, Chernihiv Oblast was one of the initial regions affected by the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], with military engagements occurring early in the conflict."
+        "Chernihiv Oblast was established on 15 October 1932 as part of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]]. The city of [[chernihiv|Chernihiv]], the capital, has been inhabited for over 2,000 years, with significant historical relevance dating back to the [[kievan-rus|Kievan Rus]]' period, where it was a major regional capital. The region has been under the control of various powers, including the Kievan Rus', Mongol Empire, Lithuania, Poland, and Russia. Notably, it was the site of the [[battle-of-kruty|Battle of Kruty]] and the Koriukivka massacre. During World War II, the oblast was occupied by German forces from 1941 to 1943. In 2022, Chernihiv Oblast was one of the initial regions affected by the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], with military engagements occurring early in the conflict."
       ]
     },
     {
@@ -94,6 +94,7 @@
     }
   ],
   "links_out": [
+    "battle-of-kruty",
     "chernihiv",
     "chernobyl-disaster",
     "dnieper",

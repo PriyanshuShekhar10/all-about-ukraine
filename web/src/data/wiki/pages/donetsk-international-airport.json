@@ -1,0 +1,92 @@
+{
+  "qid": "Q1431229",
+  "slug": "donetsk-international-airport",
+  "title": "Donetsk International Airport",
+  "type": "international airport",
+  "category": "war",
+  "aliases": [
+    "DAP",
+    "Donetsk Airport",
+    "Donetsk Sergey Prokofiev International Airport"
+  ],
+  "infobox": {
+    "label": "international airport",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1940",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "241",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.0690, 37.7420",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Donetsk Sergei Prokofiev International Airport (IATA: DOK, ICAO: UKCC) was a significant airport located 10 km northwest of Donetsk, Ukraine, which was destroyed during the conflict in the Donbas region in 2014. Named after the composer Sergei Prokofiev, a native of the area, the airport has been repurposed for military use as of December 2025.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The airport's origins trace back to a resolution from the [[donetsk|Stalino]] City Council on July 27, 1931, which called for the establishment of a civil aviation airfield in Stalino, the former name of Donetsk. The airport was officially founded in 1933, with the first Aeroflot flight operating on the Stalino-Starobilsk route.",
+        "During World War II, the airport's personnel were incorporated into the Red Army, and after the liberation of [[donbas|Donbas]] in 1944, the airport resumed passenger and cargo transport operations. By 1957, a new passenger terminal was opened, and the airport saw significant development in the late 1960s and early 1970s."
+      ]
+    },
+    {
+      "heading": "Renovation and Euro 2012",
+      "paragraphs": [
+        "In preparation for [[uefa-euro-2012|Euro 2012]], a major renovation project was undertaken from 2011 to 2012, which included the construction of a new terminal by the [[ukrainian|Ukrainian]] company Altcom. The project was funded by a combination of state and private investments, totaling $758 million.",
+        "The new terminal facilitated international flights and became a symbol of [[ukraine|Ukraine]]'s progress, handling over a million passengers in 2013, the last full year of its operation."
+      ]
+    },
+    {
+      "heading": "Conflict and Destruction",
+      "paragraphs": [
+        "The airport became a focal point during the conflict in Donbas, with [[donetsk-peoples-republic|the Donetsk People's Republic]] seizing control on May 26, 2014. Ukrainian forces attempted to regain control, resulting in significant casualties and damage to the airport infrastructure.",
+        "The airport changed hands multiple times during intense battles, leading to extensive destruction, including the collapse of the terminal's roof and the control tower by January 2015."
+      ]
+    },
+    {
+      "heading": "Military Use and Restoration",
+      "paragraphs": [
+        "As of December 2025, satellite imagery indicates that Russian forces have initiated restoration efforts at the airport, converting it for military purposes. Construction activities suggest preparations for drone operations, including the installation of launch pads and hangars for drone storage.",
+        "Reports indicate that the airport is being used to support the deployment of various drone types, enhancing military capabilities in the region."
+      ]
+    },
+    {
+      "heading": "Accidents and Incidents",
+      "paragraphs": [
+        "Throughout its operational history, Donetsk International Airport experienced several notable accidents, including a crash on January 19, 1949, involving an Aeroflot Ilyushin Il-12, and a tragic incident on February 13, 2013, when South Airlines Flight 8971 overshot the runway, resulting in five fatalities.",
+        "The airport also witnessed significant violence during the conflict, with aircraft destroyed amid military confrontations, notably during the First and Second Battles of Donetsk Airport."
+      ]
+    }
+  ],
+  "links_out": [
+    "donbas",
+    "donetsk",
+    "donetsk-peoples-republic",
+    "uefa-euro-2012",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Donetsk International Airport — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Donetsk_International_Airport",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

@@ -1,0 +1,74 @@
+{
+  "qid": "Q4094861",
+  "slug": "borshchahivka",
+  "title": "Borshchahivka",
+  "type": "historic district",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "historic district",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4263, 30.3737",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Borshchahivka is a historic neighborhood in the Sviatoshynskyi District of Kyiv, Ukraine, known for its urban development from the 1960s and 1970s and its historical significance dating back to the 15th century. The area is named after a river and has evolved from several villages into a residential district.",
+  "sections": [
+    {
+      "heading": "Geographical Context",
+      "paragraphs": [
+        "Borshchahivka ([[ukrainian|Ukrainian]]: Борщагівка, Russian: Борщаговка) is situated in the west and south-west of [[kyiv|Kyiv]], the capital of [[ukraine|Ukraine]]. It is part of the [[sviatoshynskyi-district|Sviatoshynskyi District]] and the suburban Bucha Raion. The Borshchahivka River flows through the neighborhood."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The first recorded mention of Borshchahivka dates back to 1497. The name is believed to derive from the herb hogweed (борщівник). Historically, the area consisted of several villages associated with Kyiv monasteries. On Guillaume de Beauplan's General map of Ukraine from 1648, it appears as Borsciowka, located within the Kyiv Voivodeship of the Polish-Lithuanian Commonwealth.",
+        "In the Polish Geographic Dictionary, a locality named Borzakowszczyzna near [[pyrohiv|Pyrohiv]] is noted, which was part of [[kyiv-pechersk-lavra|Kyiv Pechersk Lavra]]. The term 'Borszczhowka' refers to an older urban area in the former princely [[ruthenia|Ruthenia]]. By 1686, many villages named Borshchahivka were described as 'empty villages' due to devastation from wars in the late 17th century. In the early 18th century, only 22 households were recorded in the area.",
+        "Population growth was significant after the abolition of serfdom in the Russian Empire. In 1787, the population was 558, which increased to 5,702 by 1913. During the [[ukrainian-war-of-independence|Ukrainian War of Independence]] from 1918 to 1919, Borshchahivka witnessed numerous battles for control of Kyiv."
+      ]
+    },
+    {
+      "heading": "Urban Development",
+      "paragraphs": [
+        "The villages of Mykilska, Bratska, and Mykhailivska Borshchahivka were incorporated into Kyiv on 30 August 1971. In the early 1960s, the Kyivproject Institute initiated plans for new residential estates, with Mykilska Borshchahivka being the largest, intended to accommodate 100,000 residents. The construction of this residential area took place from 1966 to 1977, with a total of approximately 180 residential buildings completed.",
+        "The area was initially planned to include a metro extension, but instead, a light rail line was established, operational by 1978. The development transitioned from 5-story to 9-story buildings in the early 1970s, with the final microdistrict completed between 1984 and 1987."
+      ]
+    },
+    {
+      "heading": "Recent Events",
+      "paragraphs": [
+        "During the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]], on 29 March 2022, Borshchahivka experienced a missile attack that resulted in the death of a local resident and damage to residential buildings. The neighborhood was also affected during the [[battle-of-kyiv|Battle of Kyiv]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "battle-of-kyiv",
+    "full-scale-russo-ukrainian-war",
+    "kyiv",
+    "kyiv-pechersk-lavra",
+    "pyrohiv",
+    "ruthenia",
+    "sviatoshynskyi-district",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-war-of-independence"
+  ],
+  "sources": [
+    {
+      "title": "Borshchahivka — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Borshchahivka",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

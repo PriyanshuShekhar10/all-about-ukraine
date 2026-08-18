@@ -1,0 +1,71 @@
+{
+  "qid": "Q1140920",
+  "slug": "20th-congress-of-the-communist-party-of-the-soviet-union",
+  "title": "20th Congress of the Communist Party of the Soviet Union",
+  "type": "party conference",
+  "category": "people",
+  "aliases": [],
+  "infobox": {
+    "label": "party conference",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Moscow",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The 20th Congress of the Communist Party of the Soviet Union, held from February 14 to 25, 1956, is notable for Nikita Khrushchev's 'Secret Speech' which criticized the cult of personality surrounding Joseph Stalin. This Congress had significant implications for the political climate [[coal-in-ukraine|in Ukraine]] and the broader Soviet Union.",
+  "sections": [
+    {
+      "heading": "Congress Overview",
+      "paragraphs": [
+        "The 20th Congress of the Communist Party of the Soviet Union convened from February 14 to 25, 1956. It was characterized by the unexpected nature of its proceedings, particularly the opening remarks by First Secretary [[nikita-khrushchev|Nikita Khrushchev]], who called for a moment of silence in memory of deceased Communist leaders, including Joseph [[donetsk|Stalin]] and Klement Gottwald. The Congress elected 133 full voting members and 122 non-voting candidate members to the 20th Central Committee."
+      ]
+    },
+    {
+      "heading": "Khrushchev's Secret Speech",
+      "paragraphs": [
+        "On the final day of the Congress, February 25, an unscheduled session was held where Khrushchev delivered his 'Secret Speech'. He criticized the elevation of Stalin to a god-like status and acknowledged his own role in distorting Marxism-Leninism. Khrushchev referenced Lenin's Testament, which condemned Stalin's behavior, and suggested that Stalin's involvement in the murder of Sergei Kirov in 1934 contributed to the Great Terror.",
+        "Khrushchev's speech shocked the delegates, contradicting years of Soviet propaganda that portrayed Stalin as a benevolent leader. The speech was not made public until a month later, with the full text only being published in 1989. It was seen as a catalyst for anti-Soviet uprisings in Poland and Hungary in 1956 and contributed to the Sino-Soviet split."
+      ]
+    },
+    {
+      "heading": "Impact on Ukraine",
+      "paragraphs": [
+        "The events of the 20th Congress and Khrushchev's denunciation of Stalin had profound implications for [[ukraine|Ukraine]], which had suffered immensely during Stalin's regime. The speech's call to eradicate the cult of personality resonated within Ukraine, where the legacy of Stalin's policies had led to significant suffering, including [[holodomor|the Holodomor]].",
+        "The Congress and subsequent political shifts also influenced the [[ukrainian-communist-party|Ukrainian Communist Party]]'s stance and its relationship with the central Soviet authorities, as the discourse around Stalinism began to shift."
+      ]
+    },
+    {
+      "heading": "Aftermath and Reactions",
+      "paragraphs": [
+        "The resolution 'On overcoming the cult of personality and its consequences' was published on June 30, 1956, providing a framework for acceptable criticism of Stalinism. However, not all leaders accepted Khrushchev's new direction; for example, Albanian leader Enver Hoxha labeled him a 'revisionist' and cut diplomatic ties.",
+        "The Congress is often regarded as a pivotal moment in the history of [[soviet-union|the Soviet Union]], marking the beginning of a period of de-Stalinization that would affect various Soviet republics, including Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "donetsk",
+    "holodomor",
+    "nikita-khrushchev",
+    "soviet-union",
+    "ukraine",
+    "ukrainian-communist-party"
+  ],
+  "sources": [
+    {
+      "title": "20th Congress of the Communist Party of the Soviet Union — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/20th_Congress_of_the_Communist_Party_of_the_Soviet_Union",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

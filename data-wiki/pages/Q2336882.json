@@ -1,0 +1,87 @@
+{
+  "qid": "Q2336882",
+  "slug": "green-ukraine",
+  "title": "Green Ukraine",
+  "type": "historical region",
+  "category": "politics",
+  "aliases": [
+    "Transcathay",
+    "Zelenyi Klyn"
+  ],
+  "infobox": {
+    "label": "historical region",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1900",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Russian Empire",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "51.0000, 134.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Green Ukraine, also referred to as Zelenyi Klyn or Zakytaishchyna, is a historical region in the Russian Far East, situated between the Amur River and the Pacific Ocean, with significant Ukrainian settlement during the Russian Empire's expansion. This area, characterized by its geographical features and rich cultural history, played a notable role in the [[ukrainian-diaspora|Ukrainian diaspora]] and national movements in the early 20th century.",
+  "sections": [
+    {
+      "heading": "Geographical Overview",
+      "paragraphs": [
+        "Green Ukraine is located in Outer Manchuria, extending from the Amur River to the Pacific Ocean, with a coastline of approximately 2,500 km. The region encompasses about 1,000,000 square kilometers and is bordered by North Korea, specifically the city of Rason, and the Chinese provinces of Heilongjiang and Jilin.",
+        "The landscape is predominantly mountainous and plateaued, featuring taiga forests and numerous rivers. Notable geographical features include the Stanovoy Range to the north, the Dzhugdzhur mountains to the east, and the valleys of Zeya and Gilyuy to the south. The region experiences a temperate monsoon climate, with cold winters and hot, humid summers."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The term Zelenyi Klyn was adopted by [[ukrainian|Ukrainian]] settlers to describe the Russian Far East, which was traditionally inhabited by various indigenous Siberian and Manchurian groups. Significant Ukrainian migration occurred during the Russian Empire's expansion into [[siberia|Siberia]], particularly from the mid-17th century onward.",
+        "The area became part of the Russian Empire later than other parts of Siberia, with initial colonization attempts beginning in the 17th century. The Treaty of Nerchinsk in 1689 limited Russian territory in the Amur region, while further territorial gains were made after the [[crimean-war|Crimean War]]."
+      ]
+    },
+    {
+      "heading": "Ukrainian Settlement and Cultural Development",
+      "paragraphs": [
+        "In the 19th century, under Governor Paul Simon Unterberger, free transportation was offered to Ukrainian settlers, leading to a significant influx between 1883 and 1896. By 1897, the Ukrainian population had reached 310,000, with many settlers originating from [[chernihiv|Chernigov]] Governorate, influencing local architecture and culture.",
+        "Ukrainian cultural life developed slowly, with the establishment of clubs and societies in the early 20th century. The First All-Ukrainian Far Eastern Congress in 1917 marked a significant moment in the push for Ukrainian autonomy in the region."
+      ]
+    },
+    {
+      "heading": "Proposed State and Political Movements",
+      "paragraphs": [
+        "The February Revolution of 1917 led to the formation of the Far Eastern Krai [[verkhovna-rada|Rada]], advocating for Ukrainian national autonomy. Subsequent congresses in 1918 proclaimed Green Ukraine as part of the [[ukrainian-state|Ukrainian State]], despite geographical challenges.",
+        "The establishment of the Far Eastern Republic in 1920 included Ukrainian representatives and a ministry for Ukrainian affairs, reflecting the region's political aspirations during this turbulent period."
+      ]
+    },
+    {
+      "heading": "Later Developments and Demographics",
+      "paragraphs": [
+        "Following the Bolshevik occupation in 1922, Ukrainian organizations were suppressed, and cultural autonomy diminished. Despite this, the region's population grew to over 3 million by 1956, with a significant portion being East Slavic settlers.",
+        "The economy of Green Ukraine has traditionally been based on gold production, fishing, and hunting, with agriculture playing a secondary role due to limited arable land."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernihiv",
+    "crimean-war",
+    "siberia",
+    "ukrainian",
+    "ukrainian-diaspora",
+    "ukrainian-state",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Green Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Green_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

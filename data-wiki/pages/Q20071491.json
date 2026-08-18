@@ -1,0 +1,80 @@
+{
+  "qid": "Q20071491",
+  "slug": "2019-ukrainian-parliamentary-election",
+  "title": "2019 Ukrainian parliamentary election",
+  "type": "Ukrainian parliamentary election",
+  "category": "politics",
+  "aliases": [
+    "Ukrainian parliamentary election, 2019"
+  ],
+  "infobox": {
+    "label": "Ukrainian parliamentary election",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "2019-07-21",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The 2019 Ukrainian parliamentary election, held on 21 July 2019, marked a significant political shift in Ukraine, resulting in President Volodymyr Zelenskyy's Servant of the People party achieving an outright majority. This election was characterized by a high turnover of elected officials, with a substantial number of newcomers entering parliament.",
+  "sections": [
+    {
+      "heading": "Election Overview",
+      "paragraphs": [
+        "Parliamentary [[elections-in-ukraine|elections in Ukraine]] took place on 21 July 2019, having been rescheduled from the end of October following the dissolution of parliament by newly inaugurated [[volodymyr-zelenskyy|President Volodymyr Zelenskyy]] on 21 May 2019. This dissolution occurred during his inauguration, and despite claims of lacking legal grounds, the [[constitutional-court-of-ukraine|Constitutional Court of Ukraine]] upheld the legality of the decree on 20 June 2019. Zelenskyy cited 'a lack of a government coalition' as the reason for the dissolution."
+      ]
+    },
+    {
+      "heading": "Political Context",
+      "paragraphs": [
+        "Prior to the 2019 elections, the [[european-solidarity|Petro Poroshenko Bloc]] (PPB) emerged as the largest party in the 2014 parliamentary elections, securing 132 seats. A coalition agreement was formed on 21 November 2014, which included the People's Front, [[samopomich|Self Reliance]], Fatherland, and the Radical Party. However, the coalition faced challenges, leading to significant changes in leadership and the eventual rise of Zelenskyy."
+      ]
+    },
+    {
+      "heading": "Electoral System and Candidate Registration",
+      "paragraphs": [
+        "The electoral system for the 2019 parliamentary elections involved 225 seats elected through nationwide closed list proportional representation with a 5% electoral threshold, while another 225 seats were filled through a first-past-the-post system in single-member constituencies. Candidates had until 20 June 2019 to register, with the Central Election Commission registering a total of 5,845 candidates from 22 parties."
+      ]
+    },
+    {
+      "heading": "Election Results",
+      "paragraphs": [
+        "The election resulted in the [[servant-of-the-people|Servant of the People]] party winning an outright majority with 254 seats, a first for any party since [[ukraine|Ukraine]]'s post-Soviet independence. Approximately 80 percent of the elected candidates were new to parliament, with 83 deputies re-elected from the previous parliament and 13 deputies from earlier convocations. Notably, all deputies from the Servant of the People party were political newcomers, and 61 percent of the new MPs had no prior political experience."
+      ]
+    },
+    {
+      "heading": "Impact of Conflict on Elections",
+      "paragraphs": [
+        "The elections were impacted by the ongoing conflict [[coal-in-ukraine|in Ukraine]], with 26 out of 225 constituencies suspended due to the [[russian-annexation-of-crimea|annexation of Crimea by Russia]] in March 2014 and the occupation of parts of [[donetsk-oblast|Donetsk Oblast]] and [[luhansk-oblast|Luhansk Oblast]] by separatist forces since April 2014. This situation highlighted the complex political landscape in which the elections were conducted."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "constitutional-court-of-ukraine",
+    "donetsk-oblast",
+    "elections-in-ukraine",
+    "european-solidarity",
+    "luhansk-oblast",
+    "russian-annexation-of-crimea",
+    "samopomich",
+    "servant-of-the-people",
+    "ukraine",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "2019 Ukrainian parliamentary election — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2019_Ukrainian_parliamentary_election",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

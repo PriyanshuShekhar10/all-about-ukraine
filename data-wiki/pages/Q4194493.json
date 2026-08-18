@@ -1,0 +1,82 @@
+{
+  "qid": "Q4194493",
+  "slug": "zubrytsya",
+  "title": "Zubrytsya",
+  "type": "village of Ukraine",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "village of Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1578",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "1",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "653",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.1028, 23.2031",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Zubrytsia is a village located in the Drohobych Raion of Lviv Oblast, Ukraine, known for its historical significance and local architecture.",
+  "sections": [
+    {
+      "heading": "Geographical Context",
+      "paragraphs": [
+        "Zubrytsia ([[ukrainian|Ukrainian]]: Зубриця, Polish: Zubrzyca) is situated in the south-western part of [[ukraine|Ukraine]], specifically within [[drohobych|Drohobych]] Raion, [[lviv-oblast|Lviv Oblast]]."
+      ]
+    },
+    {
+      "heading": "Administrative Structure",
+      "paragraphs": [
+        "The village is part of the Skhidnytsia settlement hromada, which is one of the hromadas [[coal-in-ukraine|in Ukraine]].",
+        "Prior to 18 July 2020, Zubrytsia was part of Turka Raion, which was dissolved as a result of the administrative reform in Ukraine that aimed to streamline the number of raions in Lviv Oblast to seven."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "Originally, Zubrytsia started as a hamlet of Holovske and gained independence in the late 19th century."
+      ]
+    },
+    {
+      "heading": "Cultural Heritage",
+      "paragraphs": [
+        "The village is notable for its Orthodox church, which was constructed in 1871, reflecting the local architectural and cultural heritage."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "drohobych",
+    "lviv-oblast",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Zubrytsia — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zubrytsia",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

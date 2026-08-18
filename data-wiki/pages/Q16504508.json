@@ -1,0 +1,77 @@
+{
+  "qid": "Q16504508",
+  "slug": "republic-of-ukraine",
+  "title": "Republic of Ukraine",
+  "type": "topic",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "topic",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1991",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.0000, 32.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Republic of Ukraine emerged following its independence from the Soviet Union in 1991, marking a significant transition in its governance and constitution. This entry outlines the geographical, historical, and political context of Ukraine during the post-Soviet era.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "[[ukraine|Ukraine]]'s territory, which includes the [[crimea|Crimean Peninsula]], mirrors that of the [[ukrainian-soviet-socialist-republic|Ukrainian Soviet Socialist Republic]], encompassing a land area of approximately 603,700 square kilometres (233,100 sq mi)."
+      ]
+    },
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The Ukrainian Soviet Socialist Republic was established as one of the founding states of [[soviet-union|the Soviet Union]]. Before its formation, the [[ukrainian-peoples-republic|Ukrainian People's Republic]] was declared in 1917, asserting independence from Russia on 25 January 1918, but was subsequently absorbed by Soviet Russia in 1921.",
+        "In 1985, [[mikhail-gorbachev|Mikhail Gorbachev]] assumed leadership of the USSR, introducing policies such as perestroika and glasnost, which inadvertently sparked widespread unrest across Europe, culminating in events like the fall of the Berlin Wall in 1989.",
+        "Between 1990 and 1991, various Soviet republics, including Ukraine, declared their state sovereignty, with the Supreme Soviet of the Ukrainian SSR adopting the Declaration of State Sovereignty of Ukraine on 16 July 1990."
+      ]
+    },
+    {
+      "heading": "Independence",
+      "paragraphs": [
+        "Ukraine declared its independence on 24 August 1991, a decision that was ratified by a referendum on 1 December 1991, where 90.3% of voters supported independence.",
+        "On the same day, [[leonid-kravchuk|Leonid Kravchuk]], the head of the [[verkhovna-rada|Supreme Council of Ukraine]], was elected as the first president of the newly independent country. However, an economic and political crisis soon emerged, prompting Kravchuk to organize another presidential election.",
+        "In 1992, Mykola Plaviuk, the exiled [[president-of-ukraine|president of Ukraine]], transferred his powers to Kravchuk, thereby recognizing the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] as the legal successor to the Ukrainian People's Republic."
+      ]
+    },
+    {
+      "heading": "End of the Transitional Period",
+      "paragraphs": [
+        "In 1994, [[leonid-kuchma|Leonid Kuchma]] was elected president with 52% of the vote, implementing economic reforms that facilitated aid from the International Monetary Fund. Despite this, Kuchma did not secure a majority in the 1994 parliamentary elections and had to share power with opposition forces.",
+        "On 28 June 1996, the Ukrainian parliament issued the 13th legislation, adopting a new constitution that took effect immediately, officially designating the country as 'Ukraine.'"
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "crimea",
+    "leonid-kravchuk",
+    "leonid-kuchma",
+    "mikhail-gorbachev",
+    "president-of-ukraine",
+    "soviet-union",
+    "ukraine",
+    "ukrainian-peoples-republic",
+    "ukrainian-soviet-socialist-republic",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Post-Soviet transition in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Post-Soviet_transition_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

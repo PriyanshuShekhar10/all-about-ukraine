@@ -46,7 +46,7 @@
       "heading": "Regulation of Public Associations",
       "paragraphs": [
         "The Ministry of Justice is tasked with the registration of public associations, including branches of international organizations and foreign non-profit NGOs. Territorial authorities handle applications for registration, data changes, and liquidation of associations.",
-        "Public associations are defined by the Law of Ukraine as voluntary groups formed to protect rights and interests. They can be established by individuals or legal entities, with specific regulations governing their formation and operation."
+        "Public associations are defined by the [[law-of-ukraine|Law of Ukraine]] as voluntary groups formed to protect rights and interests. They can be established by individuals or legal entities, with specific regulations governing their formation and operation."
       ]
     },
     {
@@ -66,6 +66,7 @@
   ],
   "links_out": [
     "coal-in-ukraine",
+    "law-of-ukraine",
     "ukraine",
     "ukrainian"
   ],

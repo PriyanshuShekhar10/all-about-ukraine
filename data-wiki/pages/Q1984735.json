@@ -1,0 +1,69 @@
+{
+  "qid": "Q1984735",
+  "slug": "ivan-malkovych",
+  "title": "Ivan Malkovych",
+  "type": "human",
+  "category": "culture",
+  "aliases": [
+    "Ivan Antonovich Malkovych",
+    "Ivan Antonovych Malkovych"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1961-05-10",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Nyzhnii Bereziv",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Ivan Antonovych Malkovych is a prominent Ukrainian poet and publisher, recognized for his contributions to [[ukrainian-literature|Ukrainian literature]] and his role in promoting high-quality literary works through his publishing house, 'A-BA-BA-HA-LA-MA-HA.' He was awarded the [[shevchenko-national-prize|Shevchenko National Prize]] in 2017.",
+  "sections": [
+    {
+      "heading": "Biography",
+      "paragraphs": [
+        "Ivan Antonovych Malkovych was born on 10 May 1961 in Nyzhnii Bereziv, [[ivano-frankivsk|Ivano-Frankivsk]], [[ukraine|Ukraine]]. He pursued music studies as a violinist at the Music College in Ivano-Frankivsk before enrolling at [[taras-shevchenko-national-university-of-kyiv|Kyiv University]] in 1978, where he focused on [[ukrainian|Ukrainian]] philology. During his academic journey, he gained recognition from poet [[dmytro-pavlychko|Dmytro Pavlychko]], who became his mentor.",
+        "Malkovych played a significant role in the first Canadian-Ukrainian joint venture, known as Kobza, and contributed to the establishment of the [[chervona-ruta|Chervona Ruta]] festival of contemporary music, which took place in [[chernivtsi|Chernivtsi]] in 1989."
+      ]
+    },
+    {
+      "heading": "Literary Career",
+      "paragraphs": [
+        "Malkovych has authored six collections of poetry, showcasing his literary talent. His published works include: 'White Stone' ('Білий камінь', 1984), 'The Key' ('Ключ', 1988), 'Poems' ('Вірші', 1992), 'An Angel on my Shoulder' ('Із янголом на плечі', 1997), 'Winter Poems' ('Вірші на зиму', 2006), and 'All that's near' ('Все поруч', 2010)."
+      ]
+    },
+    {
+      "heading": "Awards and Recognition",
+      "paragraphs": [
+        "Malkovych has received several accolades for his literary contributions, including the Order of the Smile in 2004 from Poland. In 2017, he was honored with the [[taras-shevchenko|Taras Shevchenko]] National Prize of Ukraine for his poetry collection 'Podorozhnyk with New Poems,' further solidifying his status in the Ukrainian literary community."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernivtsi",
+    "chervona-ruta",
+    "dmytro-pavlychko",
+    "ivano-frankivsk",
+    "shevchenko-national-prize",
+    "taras-shevchenko",
+    "taras-shevchenko-national-university-of-kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-literature"
+  ],
+  "sources": [
+    {
+      "title": "Ivan Malkovych — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ivan_Malkovych",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

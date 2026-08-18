@@ -1,0 +1,59 @@
+{
+  "qid": "Q37555",
+  "slug": "polygon",
+  "title": "polygon",
+  "type": "topic",
+  "category": "geography",
+  "aliases": [
+    "2-polytope"
+  ],
+  "infobox": {
+    "label": "topic",
+    "fields": []
+  },
+  "summary": "A polygon is a two-dimensional geometric figure composed of line segments that form a closed shape. Polygons are significant in various fields, including mathematics, architecture, and art, and have relevance in Ukraine's cultural and educational contexts.",
+  "sections": [
+    {
+      "heading": "Definition and Structure",
+      "paragraphs": [
+        "In geometry, a polygon is defined as a plane figure formed by line segments that connect to create a closed polygonal chain. The individual segments are referred to as edges or sides, while the points where two edges intersect are known as vertices or corners. An n-gon is a polygon with n sides; for instance, a triangle qualifies as a 3-gon."
+      ]
+    },
+    {
+      "heading": "Types of Polygons",
+      "paragraphs": [
+        "Polygons can be classified based on various characteristics, including the number of sides and their geometric properties. A simple polygon does not intersect itself, while a polygonal chain may cross over itself, leading to star polygons and other self-intersecting forms. The classification also extends to convex and non-convex shapes, with convex polygons having all interior angles less than 180°, and non-convex polygons exhibiting at least one angle greater than 180°."
+      ]
+    },
+    {
+      "heading": "Etymology and Historical Context",
+      "paragraphs": [
+        "The term 'polygon' originates from the Greek words πολύς (polús), meaning 'much' or 'many,' and γωνία (gōnía), which translates to 'corner' or 'angle.' This etymology reflects the fundamental nature of polygons as figures with multiple angles."
+      ]
+    },
+    {
+      "heading": "Mathematical Properties",
+      "paragraphs": [
+        "In terms of mathematical properties, the sum of the interior angles of a simple n-gon is calculated as (n − 2) × π radians or (n − 2) × 180 degrees. The measure of any interior angle in a convex regular n-gon can be expressed as (1 − 2/n)π radians or 180 − 360/n degrees. The exterior angles of any polygon, when traced around, sum to 360°."
+      ]
+    },
+    {
+      "heading": "Application in Ukraine",
+      "paragraphs": [
+        "Polygons play a crucial role in various disciplines [[coal-in-ukraine|in Ukraine]], including mathematics education, architecture, and design. Understanding the properties and classifications of polygons is essential for students and professionals alike, contributing to the development of spatial reasoning and geometric skills."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Polygon — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Polygon",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

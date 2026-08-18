@@ -1,0 +1,58 @@
+{
+  "qid": "Q731497",
+  "slug": "evgeny-sokolov",
+  "title": "Evgeny Sokolov",
+  "type": "human",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1984-06-11",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Moscow",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Evgeny Sokolov, born on 11 June 1984, is a professional road bicycle racer from Russia, known for his participation in competitive cycling events, including his tenure with the UCI ProTour team Bbox Bouygues Telecom.",
+  "sections": [
+    {
+      "heading": "Early Life and Background",
+      "paragraphs": [
+        "Evgeny Sokolov was born in Russia on 11 June 1984. His early life and initial involvement in cycling are not extensively documented."
+      ]
+    },
+    {
+      "heading": "Professional Career",
+      "paragraphs": [
+        "Sokolov is recognized for his achievements in road bicycle racing, having competed at a professional level.",
+        "He was last associated with the UCI ProTour team Bbox Bouygues Telecom, contributing to the team's efforts in various cycling competitions."
+      ]
+    },
+    {
+      "heading": "Connection to Ukraine",
+      "paragraphs": [
+        "While Evgeny Sokolov is primarily identified as a Russian cyclist, the broader context of cycling in [[eastern-europe|Eastern Europe]], including [[ukraine|Ukraine]], highlights the regional significance of such athletes in promoting the sport across national boundaries."
+      ]
+    }
+  ],
+  "links_out": [
+    "eastern-europe",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Evgeny Sokolov — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Evgeny_Sokolov",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}

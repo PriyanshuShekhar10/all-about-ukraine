@@ -1,0 +1,104 @@
+{
+  "qid": "Q156588",
+  "slug": "tysmenytsia",
+  "title": "Tysmenytsia",
+  "type": "city in Ukraine",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "9,287",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "38",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "248",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.9008, 24.8492",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Tysmenytsia is a small city located in the Ivano-Frankivsk Raion of [[western-ukraine|western Ukraine]], serving as the administrative center of the Tysmenytsia urban hromada. As of 2022, its population is estimated to be 8,958.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "Tysmenytsia is situated near the administrative center of [[prykarpattia|Prykarpattia]], [[ivano-frankivsk|Ivano-Frankivsk]]. According to the [[ukrainian|Ukrainian]] Census conducted in 2001, the city had a population of 9,600.",
+        "The city is recognized for its fur factory, established in 1891, which was the fourth largest in the fur industry during the Soviet period in the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]."
+      ]
+    },
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The first documented mention of Tysmenytsia dates back to 1143. It was granted Magdeburg rights in 1449 by Polish king Casimir IV Jagiellon, when it was known as Tyśmienica and served as a royal town.",
+        "Due to its proximity to the southern border of Poland, Tyśmienica faced frequent raids by the [[crimean-tatars|Crimean Tatars]] and Wallachians. By around 1540, the presence of Armenian merchant warehouses in the town was noted.",
+        "A Roman Catholic parish was established by Mikołaj Potocki, the Voivode of Bracław Voivodeship, who also invited Armenian merchants, leading to the establishment of an Armenian community. The Dominican monastery in the town was destroyed in 1676 during the Polish–Ottoman War, rebuilt in 1678, and expanded in 1763.",
+        "In 1772, Tysmienica became part of the Habsburg Empire following the [[first-partition-of-poland|First Partition of Poland]] and remained within Austrian [[galicia|Galicia]] until 1918. The town suffered from several fires, leading to a decline in its significance compared to nearby Stanislawow (now Ivano-Frankivsk).",
+        "During the interwar period, Tyśmienica returned to Poland and was part of the Stanisławów Voivodeship until the 1939 invasion of Poland, when it was captured by the Red Army. Soviet authorities subsequently destroyed many historic buildings.",
+        "Under German occupation beginning in August 1941, the local Jewish community, numbering around 1,500, faced extermination, with few survivors by the end of the war.",
+        "On March 28, 1982, Tysmenytsia became the administrative center of the former [[ivano-frankivsk-raion|Ivano-Frankivsk Raion]], which was renamed Tysmenytsia. Following an administrative reform on July 18, 2020, Tysmenytsia Raion was abolished and merged into Ivano-Frankivsk Raion."
+      ]
+    },
+    {
+      "heading": "Demographics",
+      "paragraphs": [
+        "As per the 2001 Ukrainian census, Tysmenytsia had a population of 9,720. The ethnic composition of the town reflects its diverse historical influences."
+      ]
+    },
+    {
+      "heading": "Notable People",
+      "paragraphs": [
+        "Notable individuals associated with Tysmenytsia include Saint Job of Maniava, a Ukrainian Orthodox saint; Kost Levytsky, a Ukrainian politician; Henry Roth, a Jewish American writer; Oleh Lysheha, a Ukrainian poet; and Jacob Freud, the father of Sigmund Freud."
+      ]
+    },
+    {
+      "heading": "Sister Cities",
+      "paragraphs": [
+        "Tysmenytsia is twinned with Bandera, Texas, United States, fostering cultural and social exchange."
+      ]
+    },
+    {
+      "heading": "Transport",
+      "paragraphs": [
+        "Tysmenytsia is accessible by train, bus, or air travel to Ivano-Frankivsk, located approximately 20 minutes away by bus."
+      ]
+    }
+  ],
+  "links_out": [
+    "crimean-tatars",
+    "first-partition-of-poland",
+    "galicia",
+    "ivano-frankivsk",
+    "ivano-frankivsk-raion",
+    "prykarpattia",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Tysmenytsia — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tysmenytsia",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-18",
+  "status": "published"
+}
