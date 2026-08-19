@@ -1294,6 +1294,7 @@
       "zbruch",
       "zhmerynka",
       "zhovkva",
+      "zhovkva-castle",
       "zhovti-vody",
       "zhukovka",
       "zhydachiv",
@@ -1933,6 +1934,7 @@
       "zbruch",
       "zhmerynka",
       "zhovkva",
+      "zhovkva-castle",
       "zhovti-vody",
       "zhydachiv",
       "zhytomyr-oblast",
@@ -3003,7 +3005,8 @@
       "ukrainian-state",
       "ukrainian-war-of-independence",
       "vernadsky-national-library-of-ukraine",
-      "zhovkva"
+      "zhovkva",
+      "zhovkva-castle"
     ],
     "hetmanate": [
       "bila-tserkva-raion",
@@ -6743,7 +6746,8 @@
       "roman-catholic-archdiocese-of-lviv"
     ],
     "zhovkva": [
-      "roman-catholic-archdiocese-of-lviv"
+      "roman-catholic-archdiocese-of-lviv",
+      "zhovkva-castle"
     ],
     "zolochiv": [
       "lviv-oblast",
@@ -8042,6 +8046,9 @@
     "vynnyky": [
       "zhovkva"
     ],
+    "zhovkva-castle": [
+      "zhovkva"
+    ],
     "2012-ukrainian-parliamentary-election": [
       "borys-tarasyuk"
     ],
@@ -8915,6 +8922,7 @@
       "yevhen-hutsalo",
       "yevhen-stankovych",
       "zhovkva",
+      "zhovkva-castle",
       "zinaida-serebryakova",
       "zlata-ognevich",
       "zukra"
@@ -10345,7 +10353,7 @@
       "id": "hetman",
       "title": "hetman",
       "category": "history",
-      "degree": 46
+      "degree": 47
     },
     {
       "id": "hetmanate",
@@ -12901,7 +12909,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 728
+      "degree": 729
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -12949,7 +12957,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 641
+      "degree": 642
     },
     {
       "id": "ukrainian-americans",
@@ -13765,7 +13773,13 @@
       "id": "zhovkva",
       "title": "Zhovkva",
       "category": "culture",
-      "degree": 13
+      "degree": 15
+    },
+    {
+      "id": "zhovkva-castle",
+      "title": "Zhovkva Castle",
+      "category": "culture",
+      "degree": 5
     },
     {
       "id": "zhovti-vody",
@@ -28486,6 +28500,22 @@
       "target": "yevhen-stankovych"
     },
     {
+      "source": "zhovkva-castle",
+      "target": "hetman"
+    },
+    {
+      "source": "zhovkva-castle",
+      "target": "ukraine"
+    },
+    {
+      "source": "zhovkva-castle",
+      "target": "ukrainian"
+    },
+    {
+      "source": "zhovkva-castle",
+      "target": "zhovkva"
+    },
+    {
       "source": "kyiv-pechersk-lavra",
       "target": "cabinet-of-ministers-of-ukraine"
     },
@@ -40388,6 +40418,10 @@
     {
       "source": "zhovkva",
       "target": "western-ukraine"
+    },
+    {
+      "source": "zhovkva",
+      "target": "zhovkva-castle"
     },
     {
       "source": "ukrainian",

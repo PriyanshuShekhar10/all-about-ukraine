@@ -11428,5 +11428,16 @@
     ],
     "notability": 48,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q2425762",
+    "slug": "zhovkva-castle",
+    "name": "Zhovkva Castle",
+    "wp_title": "Zhovkva Castle",
+    "type": "castle",
+    "category": "culture",
+    "aliases": [],
+    "notability": 12,
+    "status": "synthesized"
   }
 ]

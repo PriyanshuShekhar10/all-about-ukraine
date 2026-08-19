@@ -1,0 +1,65 @@
+{
+  "qid": "Q2425762",
+  "slug": "zhovkva-castle",
+  "title": "Zhovkva Castle",
+  "type": "castle",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "castle",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.0544, 23.9689",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Zhovkva Castle, located in the town of Zhovkva, Ukraine, was established as a fortified residence by Polish Hetman Stanisław Żółkiewski in the late 16th century. The castle has significant historical connections to the Sobieski family and has undergone various phases of construction and restoration over the centuries.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Zhovkva Castle, known in [[ukrainian|Ukrainian]] as Жовківський замок and in Polish as Zamek w Żółkwi, is situated in the central square of [[zhovkva|Zhovkva]], [[ukraine|Ukraine]]. The castle was founded by Polish [[hetman|Hetman]] Stanisław Żółkiewski as his fortified residence, with construction commencing in 1594 and largely completed by 1606."
+      ]
+    },
+    {
+      "heading": "Architectural Features",
+      "paragraphs": [
+        "The castle features a typical Serlian entrance arch and is surrounded by moats that reach widths of up to 17 meters. One wing of the structure housed the arsenal and stables, while another wing was adjacent to the city wall. In 1606, a garden was established next to the hetman's residence, which included a menagerie with wisents, deer, and chamois. The palatine chapel within the castle was consecrated in 1640."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "The late 17th century marked the golden age of Zhovkva Castle when it was inherited by Jakub Sobieski, followed by his son, King Jan III Sobieski, who was originally from Zhovkva. It was at this castle that King Sobieski celebrated his victory at the Battle of Vienna."
+      ]
+    },
+    {
+      "heading": "Decline and Restoration",
+      "paragraphs": [
+        "Following the partition of Poland, Zhovkva Castle fell into disrepair and was auctioned. During the 19th century, the chapel and other structures were either dismantled or repurposed for a local school. The castle suffered additional damage during World War I, and while some restoration efforts were made just before World War II, extensive repairs were necessary after the conflict concluded."
+      ]
+    }
+  ],
+  "links_out": [
+    "hetman",
+    "ukraine",
+    "ukrainian",
+    "zhovkva"
+  ],
+  "sources": [
+    {
+      "title": "Zhovkva Castle — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zhovkva_Castle",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-19",
+  "status": "published"
+}
