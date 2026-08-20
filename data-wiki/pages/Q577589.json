@@ -1,0 +1,85 @@
+{
+  "qid": "Q577589",
+  "slug": "dovzhenko-film-studios",
+  "title": "Dovzhenko Film Studios",
+  "type": "film production company",
+  "category": "culture",
+  "aliases": [
+    "Kiev Film Studio",
+    "Oleksandr Dovzhenko National Film Studio"
+  ],
+  "infobox": {
+    "label": "film production company",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1927",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4558, 30.4498",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Dovzhenko Film Studios is a prominent Ukrainian film production company, originally established in the 1920s and named after the influential Soviet filmmaker Oleksandr Dovzhenko in 1957. It is one of the oldest and largest film studios in Ukraine, playing a significant role in the country's cinematic history.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "The Dovzhenko Film Studios were initiated in the 1920s when the All-[[ukrainian|Ukrainian]] Photo-Cinema-Directorate (VUFKU) proposed the construction of a cinema factory in 1925. The project by Valerian Rykov was selected, and construction began in 1927, making it the largest studio in the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]] at that time.",
+        "Although the filming pavilions were incomplete a year later, production commenced. The first film produced was 'Ivanko and the Butcher' directed by Aksel Lundin, with filming starting on October 12, 1927. The studio quickly attracted many talented filmmakers and operators, leading to a significant increase in both the quantity and quality of films being produced."
+      ]
+    },
+    {
+      "heading": "Evolution and National Status",
+      "paragraphs": [
+        "In 1930, the studio came under state control, aligning its output with the ideological goals of communism. The 1930s were formative years for the studio, which was evacuated to Tashkent during World War II and later resumed operations in [[kyiv|Kyiv]] after the city was liberated.",
+        "In 1957, the studio was named after [[oleksandr-dovzhenko|Oleksandr Dovzhenko]], reflecting its connection to one of [[ukraine|Ukraine]]'s most celebrated filmmakers. By 2000, the studio was granted national status, further solidifying its importance in the Ukrainian film industry."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "In December 2009, a digital restoration studio for Ukrainian films was established at the complex. However, on June 15, 2026, the studio suffered damage from a Russian strike during the ongoing conflict, which destroyed a significant costume collection and affected other buildings on the premises.",
+        "The Dovzhenko National Film Studio operates as a full-cycle enterprise, producing its own films while also providing services to other film and television companies [[coal-in-ukraine|in Ukraine]]. It has been recognized as a key producer of national films, with its status approved by the [[cabinet-of-ministers-of-ukraine|Cabinet of Ministers of Ukraine]] on January 26, 2011."
+      ]
+    },
+    {
+      "heading": "Notable Productions",
+      "paragraphs": [
+        "Dovzhenko Film Studios has been responsible for numerous significant films throughout its history. Some notable productions from the Soviet era include 'Man with a Movie Camera' (1929), 'Earth' (1930), and 'Shadows of Forgotten Ancestors' (1964).",
+        "In the post-independence era, the studio produced films such as 'Famine-33' (1991), 'A Friend of the Deceased' (1997), and 'Lost City' (2015), showcasing the studio's continuous contribution to Ukrainian cinema."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "coal-in-ukraine",
+    "kyiv",
+    "oleksandr-dovzhenko",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Dovzhenko Film Studios — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dovzhenko_Film_Studios",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-20",
+  "status": "published"
+}

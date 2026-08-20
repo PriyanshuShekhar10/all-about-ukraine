@@ -112,6 +112,7 @@
       "dniprorudne",
       "donets",
       "donetsk",
+      "dovzhenko-film-studios",
       "drohobych",
       "dtek",
       "easter-egg",
@@ -768,6 +769,7 @@
       "donetsk-international-airport",
       "donetsk-oblast",
       "donetsk-peoples-republic",
+      "dovzhenko-film-studios",
       "drohobych",
       "dtek",
       "easter-egg",
@@ -1455,6 +1457,7 @@
       "donetsk-international-airport",
       "donetsk-oblast",
       "donetsk-peoples-republic",
+      "dovzhenko-film-studios",
       "drohobych",
       "dtek",
       "easter-egg",
@@ -2576,6 +2579,7 @@
       "dnieper",
       "dnieper-ukraine",
       "dnipro",
+      "dovzhenko-film-studios",
       "dtek",
       "education-in-ukraine",
       "energy-in-ukraine",
@@ -3478,6 +3482,7 @@
       "dmytro-hnatyuk",
       "dmytro-kuleba",
       "donetsk",
+      "dovzhenko-film-studios",
       "drohobych",
       "executed-renaissance",
       "first-battle-of-kharkov",
@@ -3758,6 +3763,7 @@
       "decommunization-in-ukraine",
       "dniprorudne",
       "donetsk-oblast",
+      "dovzhenko-film-studios",
       "energoatom",
       "euromaidan",
       "henichesk",
@@ -7595,6 +7601,7 @@
     ],
     "oleksandr-dovzhenko": [
       "cinema-of-ukraine",
+      "dovzhenko-film-studios",
       "mykola-hlushchenko",
       "odesa-film-studio"
     ],
@@ -7974,6 +7981,9 @@
     "dtek": [
       "metinvest",
       "natural-gas-in-ukraine"
+    ],
+    "dovzhenko-film-studios": [
+      "dmytro-pavlychko"
     ],
     "maksym-kryvonis": [
       "kremenets-castle"
@@ -8820,6 +8830,7 @@
       "dmytro-bortnianskyi",
       "dmytro-hnatyuk",
       "dnipro-art-museum",
+      "dovzhenko-film-studios",
       "dumka",
       "easter-egg",
       "fc-dynamo-kyiv",
@@ -9531,7 +9542,7 @@
       "id": "cabinet-of-ministers-of-ukraine",
       "title": "Cabinet of Ministers of Ukraine",
       "category": "politics",
-      "degree": 61
+      "degree": 62
     },
     {
       "id": "carpathians",
@@ -9717,7 +9728,7 @@
       "id": "coal-in-ukraine",
       "title": "coal in Ukraine",
       "category": "economy",
-      "degree": 461
+      "degree": 462
     },
     {
       "id": "coat-of-arms-of-ukrainiae",
@@ -9951,7 +9962,7 @@
       "id": "dmytro-pavlychko",
       "title": "Dmytro Pavlychko",
       "category": "people",
-      "degree": 15
+      "degree": 16
     },
     {
       "id": "dmytro-razumkov",
@@ -10060,6 +10071,12 @@
       "title": "Donetsk People's Republic",
       "category": "war",
       "degree": 20
+    },
+    {
+      "id": "dovzhenko-film-studios",
+      "title": "Dovzhenko Film Studios",
+      "category": "culture",
+      "degree": 8
     },
     {
       "id": "drohobych",
@@ -10905,7 +10922,7 @@
       "id": "kyiv",
       "title": "Kyiv",
       "category": "geography",
-      "degree": 256
+      "degree": 257
     },
     {
       "id": "kyiv-city-ballet",
@@ -11757,7 +11774,7 @@
       "id": "oleksandr-dovzhenko",
       "title": "Oleksandr Dovzhenko",
       "category": "politics",
-      "degree": 18
+      "degree": 19
     },
     {
       "id": "oleksandr-turchynov",
@@ -12909,7 +12926,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 729
+      "degree": 730
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -12957,7 +12974,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 642
+      "degree": 643
     },
     {
       "id": "ukrainian-americans",
@@ -13245,7 +13262,7 @@
       "id": "ukrainian-soviet-socialist-republic",
       "title": "Ukrainian Soviet Socialist Republic",
       "category": "history",
-      "degree": 123
+      "degree": 124
     },
     {
       "id": "ukrainian-state",
@@ -36460,6 +36477,34 @@
       "target": "vladimir-putin"
     },
     {
+      "source": "dovzhenko-film-studios",
+      "target": "cabinet-of-ministers-of-ukraine"
+    },
+    {
+      "source": "dovzhenko-film-studios",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "dovzhenko-film-studios",
+      "target": "kyiv"
+    },
+    {
+      "source": "dovzhenko-film-studios",
+      "target": "oleksandr-dovzhenko"
+    },
+    {
+      "source": "dovzhenko-film-studios",
+      "target": "ukraine"
+    },
+    {
+      "source": "dovzhenko-film-studios",
+      "target": "ukrainian"
+    },
+    {
+      "source": "dovzhenko-film-studios",
+      "target": "ukrainian-soviet-socialist-republic"
+    },
+    {
       "source": "president-of-ukraine",
       "target": "armed-forces-of-ukraine"
     },
@@ -38202,6 +38247,10 @@
     {
       "source": "dmytro-pavlychko",
       "target": "carpathians"
+    },
+    {
+      "source": "dmytro-pavlychko",
+      "target": "dovzhenko-film-studios"
     },
     {
       "source": "dmytro-pavlychko",

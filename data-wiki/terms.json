@@ -11439,5 +11439,19 @@
     "aliases": [],
     "notability": 12,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q577589",
+    "slug": "dovzhenko-film-studios",
+    "name": "Dovzhenko Film Studios",
+    "wp_title": "Dovzhenko Film Studios",
+    "type": "film production company",
+    "category": "culture",
+    "aliases": [
+      "Kiev Film Studio",
+      "Oleksandr Dovzhenko National Film Studio"
+    ],
+    "notability": 25,
+    "status": "synthesized"
   }
 ]
