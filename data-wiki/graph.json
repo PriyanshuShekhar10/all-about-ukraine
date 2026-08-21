@@ -1146,6 +1146,7 @@
       "sviatoshynskyi-district",
       "sviatoslav-vakarchuk",
       "svitlovodsk",
+      "svyatogor",
       "syvash-bay",
       "taras-bulba",
       "taras-shevchenko",
@@ -8904,6 +8905,7 @@
       "savchuk",
       "sofiyivsky-park",
       "sviatoslav-vakarchuk",
+      "svyatogor",
       "taras-shevchenko-national-university-of-kyiv",
       "ternopil-regional-art-museum",
       "the-velveteen-rabbit",
@@ -12755,6 +12757,12 @@
       "degree": 11
     },
     {
+      "id": "svyatogor",
+      "title": "Svyatogor",
+      "category": "culture",
+      "degree": 1
+    },
+    {
       "id": "syvash-bay",
       "title": "Syvash Bay",
       "category": "history",
@@ -12926,7 +12934,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 730
+      "degree": 731
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -23643,6 +23651,10 @@
     {
       "source": "western-ukraine",
       "target": "volhynia"
+    },
+    {
+      "source": "svyatogor",
+      "target": "ukraine"
     },
     {
       "source": "matryoshka-doll",

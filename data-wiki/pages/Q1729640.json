@@ -1,0 +1,51 @@
+{
+  "qid": "Q1729640",
+  "slug": "svyatogor",
+  "title": "Svyatogor",
+  "type": "mythical character",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "mythical character",
+    "fields": []
+  },
+  "summary": "Svyatogor, also known as Sviatogor, is a legendary bogatyr in Russian byliny, or oral epic poems, whose name translates to 'sacred mountain'. His stories are integral to the folklore of Eastern Slavic cultures, including [[ukraine|Ukraine]].",
+  "sections": [
+    {
+      "heading": "Mythological Background",
+      "paragraphs": [
+        "Svyatogor's narrative is part of the Ilya Muromets cycle, which features various heroic figures in Slavic mythology. In the tale, Mother Earth struggles to support Svyatogor's immense weight, and he is unable to lift a bag due to the earth's pull. His father is depicted as 'dark' and blind, symbolizing origins from another realm."
+      ]
+    },
+    {
+      "heading": "Encounter with Ilya Muromets",
+      "paragraphs": [
+        "In the epic, Ilya Muromets, another prominent bogatyr serving Prince Vladimir the Bright Sun, embarks on a quest to confront Svyatogor, despite warnings from pilgrims who had healed him. During his journey, Ilya discovers Svyatogor asleep on a giant horse and initially fails to wake him. After striking Svyatogor three times with his mace, Ilya is captured but eventually befriends the giant."
+      ]
+    },
+    {
+      "heading": "Significance of the Stone Coffin",
+      "paragraphs": [
+        "The duo encounters a giant stone coffin, which they both intuitively feel is meant for Svyatogor. Ilya attempts to lie down in the coffin first but finds it too large, while Svyatogor fits perfectly. Upon closing the lid, Svyatogor seals himself inside, transferring part of his strength to Ilya through his breath just before the coffin is completely shut."
+      ]
+    },
+    {
+      "heading": "Cultural Impact",
+      "paragraphs": [
+        "Svyatogor has influenced various aspects of popular culture. The Slesarev Svyatogor aircraft was named after him, and he was the original name of the icebreaker Krasin. He appears in the 1956 Soviet film Ilya Muromets and in the animated film Alyosha Popovich and Tugarin Zmey (2004) from the Three Bogatyrs trilogy, where he is voiced by Ivan Krasko. Additionally, Svyatogor is featured in the video game Overwatch, where mechanical warriors named Svyatogor are present in the Volskaya Industries map."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Svyatogor — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Svyatogor",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-21",
+  "status": "published"
+}

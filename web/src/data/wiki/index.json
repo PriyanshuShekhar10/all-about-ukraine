@@ -6968,6 +6968,14 @@
     ]
   },
   {
+    "slug": "svyatogor",
+    "title": "Svyatogor",
+    "type": "mythical character",
+    "category": "culture",
+    "summary": "Svyatogor, also known as Sviatogor, is a legendary bogatyr in Russian byliny, or oral epic poems, whose name translates to 'sacred mountain'. His stories are integral to the folklore of Eastern Slavic cultures, including [[ukraine|Ukraine]].",
+    "aliases": []
+  },
+  {
     "slug": "syvash-bay",
     "title": "Syvash Bay",
     "type": "bay",

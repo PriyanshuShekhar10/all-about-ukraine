@@ -11453,5 +11453,16 @@
     ],
     "notability": 25,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q1729640",
+    "slug": "svyatogor",
+    "name": "Svyatogor",
+    "wp_title": "Svyatogor",
+    "type": "mythical character",
+    "category": "culture",
+    "aliases": [],
+    "notability": 12,
+    "status": "synthesized"
   }
 ]
