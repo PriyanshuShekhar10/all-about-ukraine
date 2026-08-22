@@ -11464,5 +11464,18 @@
     "aliases": [],
     "notability": 12,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q1296972",
+    "slug": "pifdenne",
+    "name": "Pifdenne",
+    "wp_title": "Pivdenne",
+    "type": "Wikimedia disambiguation page",
+    "category": "economy",
+    "aliases": [
+      "Pivdenne"
+    ],
+    "notability": 9,
+    "status": "synthesized"
   }
 ]

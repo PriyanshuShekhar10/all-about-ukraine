@@ -285,6 +285,7 @@
       "petro-poroshenko",
       "petrykivka-painting",
       "pidhirtsi-castle",
+      "pifdenne",
       "pivdenmash",
       "polesia",
       "political-party-in-ukraine",
@@ -2434,6 +2435,7 @@
       "makiivka",
       "mariupol",
       "pavlivka",
+      "pifdenne",
       "siege-of-mariupol",
       "soledar",
       "sviatohirsk",
@@ -3459,7 +3461,8 @@
       "odesa",
       "odesa-film-studio",
       "pavlivka",
-      "petro-poroshenko"
+      "petro-poroshenko",
+      "pifdenne"
     ],
     "ukrainian-soviet-socialist-republic": [
       "andriy-shevchenko",
@@ -5485,6 +5488,7 @@
       "oleksandr-dovzhenko",
       "oles-honchar",
       "pavlo-tychyna",
+      "pifdenne",
       "poltava-oblast",
       "pyriatyn",
       "radio-ukraine",
@@ -6395,6 +6399,7 @@
       "oleksandr-turchynov",
       "pavlohrad",
       "petrykivka-painting",
+      "pifdenne",
       "ternivka",
       "volodymyr-zelenskyy",
       "zhovti-vody"
@@ -7969,6 +7974,10 @@
     "russian-occupation-of-crimea": [
       "crimea-crisis"
     ],
+    "pifdenne": [
+      "leonid-kuchma",
+      "pivdenmash"
+    ],
     "gritsenko": [
       "dmytro-razumkov"
     ],
@@ -8432,6 +8441,7 @@
       "oschadbank",
       "ostriv",
       "pavlohrad",
+      "pifdenne",
       "pivdenmash",
       "postbank",
       "privatbank",
@@ -9730,7 +9740,7 @@
       "id": "coal-in-ukraine",
       "title": "coal in Ukraine",
       "category": "economy",
-      "degree": 462
+      "degree": 463
     },
     {
       "id": "coat-of-arms-of-ukrainiae",
@@ -10024,7 +10034,7 @@
       "id": "dnipropetrovsk-oblast",
       "title": "Dnipropetrovsk Oblast",
       "category": "war",
-      "degree": 39
+      "degree": 40
     },
     {
       "id": "dnipropetrovsk-oblast-state-administration",
@@ -10066,7 +10076,7 @@
       "id": "donetsk-oblast",
       "title": "Donetsk Oblast",
       "category": "economy",
-      "degree": 35
+      "degree": 36
     },
     {
       "id": "donetsk-peoples-republic",
@@ -10708,7 +10718,7 @@
       "id": "kharkiv-oblast",
       "title": "Kharkiv Oblast",
       "category": "geography",
-      "degree": 83
+      "degree": 84
     },
     {
       "id": "kharkiv-tractor-plant",
@@ -11038,7 +11048,7 @@
       "id": "leonid-kuchma",
       "title": "Leonid Kuchma",
       "category": "people",
-      "degree": 36
+      "degree": 37
     },
     {
       "id": "les-kurbas",
@@ -11728,7 +11738,7 @@
       "id": "odesa-oblast",
       "title": "Odesa Oblast",
       "category": "politics",
-      "degree": 16
+      "degree": 17
     },
     {
       "id": "oksana-baiul",
@@ -12007,10 +12017,16 @@
       "degree": 6
     },
     {
+      "id": "pifdenne",
+      "title": "Pifdenne",
+      "category": "economy",
+      "degree": 7
+    },
+    {
       "id": "pivdenmash",
       "title": "Pivdenmash",
       "category": "economy",
-      "degree": 11
+      "degree": 12
     },
     {
       "id": "pochayiv-lavra",
@@ -17331,6 +17347,26 @@
     {
       "source": "chernobyl",
       "target": "ukrainian"
+    },
+    {
+      "source": "pifdenne",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "pifdenne",
+      "target": "dnipropetrovsk-oblast"
+    },
+    {
+      "source": "pifdenne",
+      "target": "donetsk-oblast"
+    },
+    {
+      "source": "pifdenne",
+      "target": "kharkiv-oblast"
+    },
+    {
+      "source": "pifdenne",
+      "target": "odesa-oblast"
     },
     {
       "source": "shchedryk",
@@ -37386,6 +37422,10 @@
     },
     {
       "source": "leonid-kuchma",
+      "target": "pifdenne"
+    },
+    {
+      "source": "leonid-kuchma",
       "target": "pivdenmash"
     },
     {
@@ -40359,6 +40399,10 @@
     {
       "source": "pivdenmash",
       "target": "pavlohrad"
+    },
+    {
+      "source": "pivdenmash",
+      "target": "pifdenne"
     },
     {
       "source": "pivdenmash",

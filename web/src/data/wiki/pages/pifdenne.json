@@ -1,0 +1,51 @@
+{
+  "qid": "Q1296972",
+  "slug": "pifdenne",
+  "title": "Pifdenne",
+  "type": "Wikimedia disambiguation page",
+  "category": "economy",
+  "aliases": [
+    "Pivdenne"
+  ],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "Pivdenne is a toponym in Ukraine signifying 'southern' and is associated with various locations and facilities within the country.",
+  "sections": [
+    {
+      "heading": "Cities Named Pivdenne",
+      "paragraphs": [
+        "[[coal-in-ukraine|In Ukraine]], the name Pivdenne is attributed to two cities: Pivdenne in [[kharkiv-oblast|Kharkiv Oblast]] and Pivdenne in [[odesa-oblast|Odesa Oblast]]. These urban centers contribute to the regional identity and development of their respective oblasts."
+      ]
+    },
+    {
+      "heading": "Rural Settlements",
+      "paragraphs": [
+        "The name Pivdenne is also used for several rural settlements in Ukraine, specifically located in [[dnipropetrovsk-oblast|Dnipropetrovsk Oblast]] and [[donetsk-oblast|Donetsk Oblast]]. These settlements reflect the agricultural and community aspects of the regions."
+      ]
+    },
+    {
+      "heading": "Facilities and Structures",
+      "paragraphs": [
+        "KB Pivdenne is a notable facility associated with the name, serving as a designer of rockets and satellites. This institution plays a significant role in Ukraine's aerospace industry and technological advancement."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "dnipropetrovsk-oblast",
+    "donetsk-oblast",
+    "kharkiv-oblast",
+    "odesa-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Pivdenne — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pivdenne",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-22",
+  "status": "published"
+}
