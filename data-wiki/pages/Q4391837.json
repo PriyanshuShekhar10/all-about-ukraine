@@ -1,0 +1,70 @@
+{
+  "qid": "Q4391837",
+  "slug": "revolution-on-granite",
+  "title": "Revolution on Granite",
+  "type": "student protest",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "student protest",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Maidan Nezalezhnosti",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The Revolution on Granite was a significant student-led protest campaign that occurred in [[kyiv|Kyiv]] and [[western-ukraine|Western Ukraine]] from October 2 to October 17, 1990, during the period when Ukraine was part of [[soviet-union|the Soviet Union]]. The protests aimed at political reform and culminated in the resignation of Vitaliy Masol, the Chairman of the Council of Ministers of the Ukrainian SSR, marking a pivotal moment in Ukraine's path towards independence.",
+  "sections": [
+    {
+      "heading": "Background",
+      "paragraphs": [
+        "In 1989, a peaceful revolution emerged [[coal-in-ukraine|in Ukraine]], seeking to implement [[mikhail-gorbachev|Mikhail Gorbachev]]'s policies of perestroika and glasnost, alongside demands for greater autonomy and self-determination. The People's Movement of [[ukraine|Ukraine]] (Rukh) was established in September 1989 as the first non-communist [[political-party-in-ukraine|political party in Ukraine]], opposing the ruling Communist Party. Student organizations such as the Student Society of [[lviv|Lviv]] and the [[ukrainian|Ukrainian]] Student Union were formed in 1989, expressing disappointment over the results of the March 1990 parliamentary elections, which saw the Communist Party retain a majority."
+      ]
+    },
+    {
+      "heading": "Course of the Protests",
+      "paragraphs": [
+        "On October 2, 1990, student groups initiated a hunger strike and occupied [[maidan-nezalezhnosti|Maidan Nezalezhnosti]], formerly known as October Revolution Square, after opting against a site filled with Soviet police. The protest began with a rally attended by approximately 100,000 individuals and was supported by various organizations and cultural figures. The students aimed to prevent the signing of the New Union Treaty and demanded military service for [[ukrainians|Ukrainians]] to be confined to the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]], nationalization of Communist Party property, and the resignation of Vitaliy Masol.",
+        "Initially, only a few dozen students participated, but within days, hundreds joined, supported by tens of thousands of Ukrainians. The protesters set up tents on the square, leading to the campaign's name, 'Revolution on Granite.' Approximately 200 students engaged in a hunger strike, all of whom survived. On October 17, 1990, Masol resigned and was succeeded by Vitold Fokin, although not all student demands were immediately met."
+      ]
+    },
+    {
+      "heading": "Legacy",
+      "paragraphs": [
+        "The Revolution on Granite is recognized as the first major political protest centered on Maidan Nezalezhnosti, paving the way for subsequent movements such as the 2004 [[orange-revolution|Orange Revolution]] and the 2013–14 [[euromaidan|Euromaidan]]. Many organizers of the Revolution on Granite later played key roles in these later protests. A monument honoring protest leader Markiian Ivashchyshyn was unveiled in Lviv in May 2024, commemorating the impact of this significant event in Ukraine's history."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "euromaidan",
+    "kyiv",
+    "lviv",
+    "maidan-nezalezhnosti",
+    "mikhail-gorbachev",
+    "orange-revolution",
+    "political-party-in-ukraine",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "ukrainians",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Revolution on Granite — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Revolution_on_Granite",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-23",
+  "status": "published"
+}

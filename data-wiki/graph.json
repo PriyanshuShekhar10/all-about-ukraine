@@ -313,6 +313,7 @@
       "religion-in-ukraine",
       "renaissance-capital",
       "revolution-of-dignity",
+      "revolution-on-granite",
       "rivne-nuclear-power-plant",
       "rivne-oblast",
       "rivne-raion",
@@ -562,6 +563,7 @@
       "national-university-of-kyiv-mohyla-academy",
       "political-party-in-ukraine",
       "president-of-ukraine",
+      "revolution-on-granite",
       "serhiy-zhadan",
       "shche-ne-vmerla-ukrainy-i-slava-i-volia",
       "social-democratic-party-of-ukraine-united",
@@ -1076,6 +1078,7 @@
       "republic-of-abkhazia",
       "republic-of-ukraine",
       "revolution-of-dignity",
+      "revolution-on-granite",
       "rivne",
       "rivne-nuclear-power-plant",
       "rivne-oblast",
@@ -1731,6 +1734,7 @@
       "rail-transport-in-ukraine",
       "religion-in-ukraine",
       "revolution-of-dignity",
+      "revolution-on-granite",
       "rivne",
       "rivne-nuclear-power-plant",
       "rivne-oblast",
@@ -2240,6 +2244,7 @@
       "organization-of-ukrainian-nationalists",
       "polesia",
       "rava-ruska",
+      "revolution-on-granite",
       "rivne",
       "rivne-raion",
       "rohatyn",
@@ -2695,6 +2700,7 @@
       "radomysl-castle",
       "religion-in-ukraine",
       "revolution-of-dignity",
+      "revolution-on-granite",
       "rivne-raion",
       "roman-catholic-archdiocese-of-lviv",
       "roman-sushchenko",
@@ -2831,6 +2837,7 @@
       "pysanka",
       "rail-transport-in-ukraine",
       "rava-ruska",
+      "revolution-on-granite",
       "rivne-raion",
       "rohatyn",
       "roman-catholic-archdiocese-of-lviv",
@@ -3145,6 +3152,7 @@
       "prosvita",
       "rava-ruska",
       "religion-in-ukraine",
+      "revolution-on-granite",
       "rivne-oblast",
       "roman-sushchenko",
       "russian-occupation-of-crimea",
@@ -3537,6 +3545,7 @@
       "prime-minister-of-ukraine",
       "prykarpattia",
       "republic-of-ukraine",
+      "revolution-on-granite",
       "rohatyn",
       "ruslana-lyzhychko",
       "russian-annexation-of-crimea",
@@ -4248,6 +4257,7 @@
       "rail-transport-in-ukraine",
       "republic-of-abkhazia",
       "republic-of-ukraine",
+      "revolution-on-granite",
       "rivne",
       "rivne-oblast",
       "romaniaukraine-relations",
@@ -5056,6 +5066,7 @@
       "mykola-azarov",
       "mykolaiv",
       "revolution-of-dignity",
+      "revolution-on-granite",
       "russian-annexation-of-crimea",
       "russo-ukrainian-war",
       "samopomich",
@@ -6347,6 +6358,7 @@
     "political-party-in-ukraine": [
       "batkivshchyna",
       "european-solidarity",
+      "revolution-on-granite",
       "samopomich",
       "servant-of-the-people",
       "social-democratic-party-of-ukraine-united",
@@ -6605,7 +6617,8 @@
       "euromaidan",
       "flag-of-ukraine",
       "orange-revolution",
-      "revolution-of-dignity"
+      "revolution-of-dignity",
+      "revolution-on-granite"
     ],
     "west-ukrainian-peoples-republic": [
       "battle-of-lwów",
@@ -7003,6 +7016,7 @@
     "mikhail-gorbachev": [
       "nikolay-aleksandrovich-tikhonov",
       "republic-of-ukraine",
+      "revolution-on-granite",
       "soviet-famine-of-19321933",
       "soviet-union",
       "television-in-ukraine",
@@ -8063,6 +8077,9 @@
       "igor-sikorsky-kyiv-polytechnic-institute",
       "kyiv-zhuliany-international-airport"
     ],
+    "revolution-on-granite": [
+      "maidan-nezalezhnosti"
+    ],
     "vynnyky": [
       "zhovkva"
     ],
@@ -8682,6 +8699,7 @@
       "radio-ukraine",
       "religion-in-ukraine",
       "revolution-of-dignity",
+      "revolution-on-granite",
       "rivne",
       "rus-people",
       "russian-revolution-of-1905",
@@ -9740,7 +9758,7 @@
       "id": "coal-in-ukraine",
       "title": "coal in Ukraine",
       "category": "economy",
-      "degree": 463
+      "degree": 464
     },
     {
       "id": "coat-of-arms-of-ukrainiae",
@@ -10172,7 +10190,7 @@
       "id": "euromaidan",
       "title": "Euromaidan",
       "category": "history",
-      "degree": 52
+      "degree": 53
     },
     {
       "id": "european-solidarity",
@@ -10934,7 +10952,7 @@
       "id": "kyiv",
       "title": "Kyiv",
       "category": "geography",
-      "degree": 257
+      "degree": 258
     },
     {
       "id": "kyiv-city-ballet",
@@ -11120,7 +11138,7 @@
       "id": "lviv",
       "title": "Lviv",
       "category": "geography",
-      "degree": 109
+      "degree": 110
     },
     {
       "id": "lviv-city-council",
@@ -11186,7 +11204,7 @@
       "id": "maidan-nezalezhnosti",
       "title": "Maidan Nezalezhnosti",
       "category": "people",
-      "degree": 13
+      "degree": 15
     },
     {
       "id": "makariv",
@@ -11288,7 +11306,7 @@
       "id": "mikhail-gorbachev",
       "title": "Mikhail Gorbachev",
       "category": "history",
-      "degree": 15
+      "degree": 16
     },
     {
       "id": "mikhail-kovalchuk",
@@ -11852,7 +11870,7 @@
       "id": "orange-revolution",
       "title": "Orange Revolution",
       "category": "history",
-      "degree": 31
+      "degree": 32
     },
     {
       "id": "orel",
@@ -12062,7 +12080,7 @@
       "id": "political-party-in-ukraine",
       "title": "political party in Ukraine",
       "category": "politics",
-      "degree": 16
+      "degree": 17
     },
     {
       "id": "poltava",
@@ -12267,6 +12285,12 @@
       "title": "Revolution of Dignity",
       "category": "history",
       "degree": 35
+    },
+    {
+      "id": "revolution-on-granite",
+      "title": "Revolution on Granite",
+      "category": "history",
+      "degree": 15
     },
     {
       "id": "rivne",
@@ -12680,7 +12704,7 @@
       "id": "soviet-union",
       "title": "Soviet Union",
       "category": "politics",
-      "degree": 211
+      "degree": 212
     },
     {
       "id": "state-emergency-service-of-ukraine",
@@ -12950,7 +12974,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 731
+      "degree": 732
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -12998,7 +13022,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 643
+      "degree": 644
     },
     {
       "id": "ukrainian-americans",
@@ -13286,7 +13310,7 @@
       "id": "ukrainian-soviet-socialist-republic",
       "title": "Ukrainian Soviet Socialist Republic",
       "category": "history",
-      "degree": 124
+      "degree": 125
     },
     {
       "id": "ukrainian-state",
@@ -13334,7 +13358,7 @@
       "id": "ukrainians",
       "title": "Ukrainians",
       "category": "people",
-      "degree": 145
+      "degree": 146
     },
     {
       "id": "ukrainians-in-italy",
@@ -13646,7 +13670,7 @@
       "id": "western-ukraine",
       "title": "Western Ukraine",
       "category": "people",
-      "degree": 110
+      "degree": 111
     },
     {
       "id": "witold-pilecki",
@@ -34381,6 +34405,62 @@
       "target": "ukrainian-soviet-socialist-republic"
     },
     {
+      "source": "revolution-on-granite",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "revolution-on-granite",
+      "target": "euromaidan"
+    },
+    {
+      "source": "revolution-on-granite",
+      "target": "kyiv"
+    },
+    {
+      "source": "revolution-on-granite",
+      "target": "lviv"
+    },
+    {
+      "source": "revolution-on-granite",
+      "target": "maidan-nezalezhnosti"
+    },
+    {
+      "source": "revolution-on-granite",
+      "target": "mikhail-gorbachev"
+    },
+    {
+      "source": "revolution-on-granite",
+      "target": "orange-revolution"
+    },
+    {
+      "source": "revolution-on-granite",
+      "target": "political-party-in-ukraine"
+    },
+    {
+      "source": "revolution-on-granite",
+      "target": "soviet-union"
+    },
+    {
+      "source": "revolution-on-granite",
+      "target": "ukraine"
+    },
+    {
+      "source": "revolution-on-granite",
+      "target": "ukrainian"
+    },
+    {
+      "source": "revolution-on-granite",
+      "target": "ukrainian-soviet-socialist-republic"
+    },
+    {
+      "source": "revolution-on-granite",
+      "target": "ukrainians"
+    },
+    {
+      "source": "revolution-on-granite",
+      "target": "western-ukraine"
+    },
+    {
       "source": "rosava-river",
       "target": "administrative-territorial-entity-of-ukraine"
     },
@@ -40463,6 +40543,10 @@
     {
       "source": "maidan-nezalezhnosti",
       "target": "orange-revolution"
+    },
+    {
+      "source": "maidan-nezalezhnosti",
+      "target": "revolution-on-granite"
     },
     {
       "source": "maidan-nezalezhnosti",
