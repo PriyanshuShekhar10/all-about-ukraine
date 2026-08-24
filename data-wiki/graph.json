@@ -201,6 +201,7 @@
       "liberal-party-of-ukraine",
       "luhansk",
       "luhansk-peoples-republic",
+      "lustration-in-ukraine",
       "lviv",
       "lviv-city-council",
       "lviv-national-museum",
@@ -587,6 +588,7 @@
       "euromaidan",
       "history-of-ukraine",
       "luhansk-peoples-republic",
+      "lustration-in-ukraine",
       "national-guard-of-ukraine",
       "political-party-in-ukraine",
       "president-of-ukraine",
@@ -916,6 +918,7 @@
       "luhansk",
       "luhansk-oblast",
       "luhansk-peoples-republic",
+      "lustration-in-ukraine",
       "lutsk",
       "lutsk-raion",
       "lviv",
@@ -1589,6 +1592,7 @@
       "luhansk",
       "luhansk-oblast",
       "luhansk-peoples-republic",
+      "lustration-in-ukraine",
       "lutsk",
       "lutsk-raion",
       "lviv",
@@ -2004,6 +2008,7 @@
       "law-of-ukraine",
       "leonid-kuchma",
       "lgbt-rights-in-ukraine",
+      "lustration-in-ukraine",
       "lviv-city-council",
       "mariinskyi-park",
       "mariupol-theatre-airstrike",
@@ -3945,6 +3950,7 @@
       "kyiv-post",
       "kyiv-zhuliany-international-airport",
       "luhansk-peoples-republic",
+      "lustration-in-ukraine",
       "lviv",
       "lviv-national-environmental-university",
       "lysychansk",
@@ -5059,6 +5065,7 @@
       "independence-day-of-ukraine",
       "iryna-venediktova",
       "kyiv-post",
+      "lustration-in-ukraine",
       "maidan-nezalezhnosti",
       "mezhyhirya",
       "ministry-of-internal-affairs-of-ukraine",
@@ -5543,6 +5550,7 @@
       "leonid-kravchuk",
       "leonid-kuchma",
       "liberal-party-of-ukraine",
+      "lustration-in-ukraine",
       "mezhyhirya",
       "ministry-of-education-and-science-of-ukraine",
       "ministry-of-infrastructure-of-ukraine",
@@ -5673,6 +5681,7 @@
       "2022-russian-invasion-of-ukraine",
       "borys-tarasyuk",
       "kramatorsk-railway-station-attack",
+      "lustration-in-ukraine",
       "parliamentary-assembly-of-the-council-of-europe",
       "radomysl-castle",
       "ukraine"
@@ -8176,6 +8185,7 @@
       "law-of-ukraine",
       "liberal-party-of-ukraine",
       "local-government-in-ukraine",
+      "lustration-in-ukraine",
       "lviv-city-council",
       "lviv-oblast",
       "maksym-kryvonis",
@@ -9758,7 +9768,7 @@
       "id": "coal-in-ukraine",
       "title": "coal in Ukraine",
       "category": "economy",
-      "degree": 464
+      "degree": 465
     },
     {
       "id": "coat-of-arms-of-ukrainiae",
@@ -9818,7 +9828,7 @@
       "id": "council-of-europe",
       "title": "Council of Europe",
       "category": "politics",
-      "degree": 12
+      "degree": 13
     },
     {
       "id": "crimea",
@@ -10190,7 +10200,7 @@
       "id": "euromaidan",
       "title": "Euromaidan",
       "category": "history",
-      "degree": 53
+      "degree": 54
     },
     {
       "id": "european-solidarity",
@@ -10280,7 +10290,7 @@
       "id": "full-scale-russo-ukrainian-war",
       "title": "full-scale Russo-Ukrainian war",
       "category": "war",
-      "degree": 177
+      "degree": 178
     },
     {
       "id": "gaidai",
@@ -11121,6 +11131,12 @@
       "title": "Luhansk People's Republic",
       "category": "war",
       "degree": 24
+    },
+    {
+      "id": "lustration-in-ukraine",
+      "title": "Lustration in Ukraine",
+      "category": "politics",
+      "degree": 9
     },
     {
       "id": "lutsk",
@@ -12284,7 +12300,7 @@
       "id": "revolution-of-dignity",
       "title": "Revolution of Dignity",
       "category": "history",
-      "degree": 35
+      "degree": 36
     },
     {
       "id": "revolution-on-granite",
@@ -12974,7 +12990,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 732
+      "degree": 733
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13022,7 +13038,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 644
+      "degree": 645
     },
     {
       "id": "ukrainian-americans",
@@ -13478,7 +13494,7 @@
       "id": "verkhovna-rada",
       "title": "Verkhovna Rada",
       "category": "politics",
-      "degree": 111
+      "degree": 112
     },
     {
       "id": "vernadsky-national-library-of-ukraine",
@@ -13508,7 +13524,7 @@
       "id": "viktor-yanukovych",
       "title": "Viktor Yanukovych",
       "category": "politics",
-      "degree": 52
+      "degree": 53
     },
     {
       "id": "viktor-yushchenko",
@@ -24791,6 +24807,42 @@
     {
       "source": "prut",
       "target": "yaremche"
+    },
+    {
+      "source": "lustration-in-ukraine",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "lustration-in-ukraine",
+      "target": "council-of-europe"
+    },
+    {
+      "source": "lustration-in-ukraine",
+      "target": "euromaidan"
+    },
+    {
+      "source": "lustration-in-ukraine",
+      "target": "full-scale-russo-ukrainian-war"
+    },
+    {
+      "source": "lustration-in-ukraine",
+      "target": "revolution-of-dignity"
+    },
+    {
+      "source": "lustration-in-ukraine",
+      "target": "ukraine"
+    },
+    {
+      "source": "lustration-in-ukraine",
+      "target": "ukrainian"
+    },
+    {
+      "source": "lustration-in-ukraine",
+      "target": "verkhovna-rada"
+    },
+    {
+      "source": "lustration-in-ukraine",
+      "target": "viktor-yanukovych"
     },
     {
       "source": "pravda",

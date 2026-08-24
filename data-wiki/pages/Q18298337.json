@@ -1,0 +1,71 @@
+{
+  "qid": "Q18298337",
+  "slug": "lustration-in-ukraine",
+  "title": "Lustration in Ukraine",
+  "type": "aspect in a geographic region",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "aspect in a geographic region",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Lustration in Ukraine refers to the process of removing civil servants associated with former President Viktor Yanukovych from public office, initiated after his ousting during the [[revolution-of-dignity|Revolution of Dignity]] in 2014. This measure aimed to address corruption and improve governance in the wake of significant political upheaval.",
+  "sections": [
+    {
+      "heading": "Purpose and Scope",
+      "paragraphs": [
+        "The lustration campaign [[coal-in-ukraine|in Ukraine]] was designed to exclude civil servants who served under President [[viktor-yanukovych|Viktor Yanukovych]] from public office for a term of five to ten years. This included officials who did not resign voluntarily between 25 February 2010 and 22 February 2014, as well as those linked to the Soviet Communist Party or involved in activities undermining [[ukraine|Ukraine]]'s national integrity."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "Lustration emerged as a key demand during the [[euromaidan|Euromaidan]] protests, which began in November 2013 and culminated in Yanukovych's removal on 22 February 2014. Following this, Yehor Soboliev was appointed to lead the 'Committee on Lustration' in the new government formed by Arseniy Yatsenyuk. The [[verkhovna-rada|Ukrainian parliament]] adopted a lustration bill on 16 September 2014, which was enacted on 16 October 2014."
+      ]
+    },
+    {
+      "heading": "Implementation and Outcomes",
+      "paragraphs": [
+        "The initial wave of lustration in October 2014 resulted in the dismissal of 39 high-ranking officials. By mid-September 2015, approximately 700 officials had been lustrated. The process aimed to eliminate corrupt elements from the government, particularly those associated with the Yanukovych administration."
+      ]
+    },
+    {
+      "heading": "Criticism and Challenges",
+      "paragraphs": [
+        "The lustration law faced criticism from various quarters, including General Prosecutor Vitaly Yarema, who argued that it conflicted with the [[ukrainian|Ukrainian]] Constitution and international law. Concerns were raised about potential human rights violations and the impact on governance due to the dismissal of officials who could not be easily replaced. The Venice Commission of the [[council-of-europe|Council of Europe]] identified serious flaws in the lustration law and recommended revisions."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "In 2019, President Volodymyr Zelensky proposed expanding lustration to officials from the Poroshenko administration, reflecting public dissatisfaction with the bureaucracy. This proposal received significant criticism, particularly given the peaceful transition of power from Poroshenko to Zelensky and the perception of lesser corruption during Poroshenko's presidency compared to Yanukovych's. By 2020, lustration had been considered relatively successful in removing corrupt officials, though some members of Yanukovych's Party of Regions retained political influence as the 'Opposition Bloc'. Following the onset of the [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]], this opposition bloc and other pro-Russian parties were banned in 2022, effectively concluding the lustration process after eight years."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "council-of-europe",
+    "euromaidan",
+    "full-scale-russo-ukrainian-war",
+    "revolution-of-dignity",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada",
+    "viktor-yanukovych"
+  ],
+  "sources": [
+    {
+      "title": "Lustration in Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lustration_in_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-24",
+  "status": "published"
+}
