@@ -1,0 +1,77 @@
+{
+  "qid": "Q290441",
+  "slug": "ukrainian-democratic-alliance-for-reform",
+  "title": "Ukrainian Democratic Alliance for Reform",
+  "type": "political party",
+  "category": "politics",
+  "aliases": [],
+  "infobox": {
+    "label": "political party",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2005-03-14",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv, Yevhen Chykalenko Street, Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "The Ukrainian Democratic Alliance for Reform (UDAR) is a [[political-party-in-ukraine|political party in Ukraine]] led by former professional boxer Vitali Klitschko. Established in 2010, UDAR has played a significant role in [[ukrainian|Ukrainian]] politics, particularly in the context of its alignment with European political structures and its focus on anti-corruption and social reforms.",
+  "sections": [
+    {
+      "heading": "Formation and Early History",
+      "paragraphs": [
+        "Originally founded as the Political Party 'European Capital' in March 2005 by businessman Lev Partshaladze, the party gained minimal electoral support in its early years. In April 2010, it was renamed the Ukrainian Democratic Alliance for Reform and elected [[vitali-klitschko|Vitali Klitschko]] as its leader, following its involvement in the Vitali Klitschko Bloc during the 2008 [[kyiv|Kyiv]] local election."
+      ]
+    },
+    {
+      "heading": "Electoral Performance",
+      "paragraphs": [
+        "UDAR achieved notable success in the [[2012-ukrainian-parliamentary-election|2012 Ukrainian parliamentary election]], securing 40 seats. In the subsequent 2014 parliamentary election, 30% of the [[european-solidarity|Petro Poroshenko Bloc]]'s list was comprised of UDAR members, with Klitschko leading the list. The Petro Poroshenko Bloc won 132 seats, and on 28 August 2015, UDAR officially merged into this bloc.",
+        "In May 2019, Klitschko announced that UDAR would participate independently in the 2019 parliamentary elections, competing in 15 single-mandate constituencies but failing to win any seats. However, in the 2020 Kyiv local election, UDAR won 30 of the 120 Kyiv City Council seats and Klitschko was reelected as Mayor of Kyiv."
+      ]
+    },
+    {
+      "heading": "Political Ideology and Positions",
+      "paragraphs": [
+        "UDAR focuses on empowering ordinary [[ukrainians|Ukrainians]] and combating corruption, while advocating for transparency and reduced bureaucratic interaction. The party supports the Association Agreement between [[ukraine|Ukraine]] and the European Union but has not taken a definitive stance on NATO membership.",
+        "In education, UDAR aims to align Ukraine's educational standards with European norms, proposing a return to 12-year compulsory secondary education and greater autonomy for educational institutions. The party also seeks to streamline taxation, reduce the number of state agencies, and reform the court system."
+      ]
+    },
+    {
+      "heading": "International Relations and Support",
+      "paragraphs": [
+        "UDAR has established connections with international political entities, becoming an observer member of the European People's Party in 2013. The party has received support from the German government and the Konrad Adenauer Foundation, with the aim of positioning Klitschko as a significant political figure to counter Russian influence [[coal-in-ukraine|in Ukraine]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "2012-ukrainian-parliamentary-election",
+    "coal-in-ukraine",
+    "european-solidarity",
+    "kyiv",
+    "political-party-in-ukraine",
+    "ukraine",
+    "ukrainian",
+    "ukrainians",
+    "vitali-klitschko"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Democratic Alliance for Reform — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Democratic_Alliance_for_Reform",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-25",
+  "status": "published"
+}

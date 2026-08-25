@@ -384,6 +384,7 @@
       "ukrainian-contemporary-art",
       "ukrainian-cultural-foundation",
       "ukrainian-defense-industry",
+      "ukrainian-democratic-alliance-for-reform",
       "ukrainian-dramatic-theatre-of-maria-zankovetska",
       "ukrainian-embroidery",
       "ukrainian-exchange",
@@ -1198,6 +1199,7 @@
       "ukrainian-cuisine",
       "ukrainian-cultural-foundation",
       "ukrainian-defense-industry",
+      "ukrainian-democratic-alliance-for-reform",
       "ukrainian-democratic-party",
       "ukrainian-diaspora",
       "ukrainian-dramatic-theatre-of-maria-zankovetska",
@@ -1845,6 +1847,7 @@
       "ukrainian-cuisine",
       "ukrainian-cultural-foundation",
       "ukrainian-defense-industry",
+      "ukrainian-democratic-alliance-for-reform",
       "ukrainian-democratic-party",
       "ukrainian-diaspora",
       "ukrainian-embroidery",
@@ -2743,6 +2746,7 @@
       "ukrainian-communist-party",
       "ukrainian-contemporary-art",
       "ukrainian-cuisine",
+      "ukrainian-democratic-alliance-for-reform",
       "ukrainian-democratic-party",
       "ukrainian-embroidery",
       "ukrainian-exchange",
@@ -3184,6 +3188,7 @@
       "ukrainian",
       "ukrainian-americans",
       "ukrainian-canadian-congress",
+      "ukrainian-democratic-alliance-for-reform",
       "ukrainian-diaspora",
       "ukrainian-folklore",
       "ukrainian-institute-of-national-remembrance",
@@ -5334,7 +5339,8 @@
       "2020-ukrainian-local-elections",
       "battle-of-kyiv",
       "belovodskoye",
-      "kyiv-city-state-administration"
+      "kyiv-city-state-administration",
+      "ukrainian-democratic-alliance-for-reform"
     ],
     "azovstal": [
       "avdeyevka-coke-and-chemical-plant",
@@ -6371,6 +6377,7 @@
       "samopomich",
       "servant-of-the-people",
       "social-democratic-party-of-ukraine-united",
+      "ukrainian-democratic-alliance-for-reform",
       "ukrainian-democratic-party",
       "ukrainian-peoples-party"
     ],
@@ -6389,6 +6396,7 @@
       "petro-poroshenko",
       "shche-ne-vmerla-ukrainy-i-slava-i-volia",
       "ukraineeuropean-union-relations",
+      "ukrainian-democratic-alliance-for-reform",
       "ukrainska-pravda",
       "volodymyr-viatrovych"
     ],
@@ -7806,6 +7814,10 @@
     "mavka": [
       "mavka-the-forest-song"
     ],
+    "2012-ukrainian-parliamentary-election": [
+      "borys-tarasyuk",
+      "ukrainian-democratic-alliance-for-reform"
+    ],
     "energy-in-ukraine": [
       "centrenergo"
     ],
@@ -7922,6 +7934,9 @@
     "donetsk-international-airport": [
       "battle-of-donetsk-airport",
       "donetsk"
+    ],
+    "ukrainian-democratic-alliance-for-reform": [
+      "european-solidarity"
     ],
     "ostrih-bible": [
       "ostroh-academy"
@@ -8095,9 +8110,6 @@
     "zhovkva-castle": [
       "zhovkva"
     ],
-    "2012-ukrainian-parliamentary-election": [
-      "borys-tarasyuk"
-    ],
     "enerhodar": [
       "energoatom",
       "zaporizhzhia-nuclear-power-plant"
@@ -8229,6 +8241,7 @@
       "ukraineeuropean-union-relations",
       "ukrainian-americans",
       "ukrainian-communist-party",
+      "ukrainian-democratic-alliance-for-reform",
       "ukrainian-historiography",
       "ukrainian-institute",
       "ukrainian-insurgent-army",
@@ -9018,7 +9031,7 @@
       "id": "2012-ukrainian-parliamentary-election",
       "title": "2012 Ukrainian parliamentary election",
       "category": "politics",
-      "degree": 6
+      "degree": 7
     },
     {
       "id": "2015-ukrainian-local-elections",
@@ -9768,7 +9781,7 @@
       "id": "coal-in-ukraine",
       "title": "coal in Ukraine",
       "category": "economy",
-      "degree": 465
+      "degree": 466
     },
     {
       "id": "coat-of-arms-of-ukrainiae",
@@ -10206,7 +10219,7 @@
       "id": "european-solidarity",
       "title": "European Solidarity",
       "category": "people",
-      "degree": 21
+      "degree": 23
     },
     {
       "id": "eurovision-song-contest-2016",
@@ -10962,7 +10975,7 @@
       "id": "kyiv",
       "title": "Kyiv",
       "category": "geography",
-      "degree": 258
+      "degree": 259
     },
     {
       "id": "kyiv-city-ballet",
@@ -12096,7 +12109,7 @@
       "id": "political-party-in-ukraine",
       "title": "political party in Ukraine",
       "category": "politics",
-      "degree": 17
+      "degree": 18
     },
     {
       "id": "poltava",
@@ -12990,7 +13003,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 733
+      "degree": 734
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13038,7 +13051,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 645
+      "degree": 646
     },
     {
       "id": "ukrainian-americans",
@@ -13111,6 +13124,12 @@
       "title": "Ukrainian Defense Industry",
       "category": "economy",
       "degree": 6
+    },
+    {
+      "id": "ukrainian-democratic-alliance-for-reform",
+      "title": "Ukrainian Democratic Alliance for Reform",
+      "category": "politics",
+      "degree": 10
     },
     {
       "id": "ukrainian-democratic-party",
@@ -13374,7 +13393,7 @@
       "id": "ukrainians",
       "title": "Ukrainians",
       "category": "people",
-      "degree": 146
+      "degree": 147
     },
     {
       "id": "ukrainians-in-italy",
@@ -13566,7 +13585,7 @@
       "id": "vitali-klitschko",
       "title": "Vitali Klitschko",
       "category": "people",
-      "degree": 12
+      "degree": 13
     },
     {
       "id": "vladimir-lenin",
@@ -30657,6 +30676,42 @@
       "target": "ukrainians"
     },
     {
+      "source": "ukrainian-democratic-alliance-for-reform",
+      "target": "2012-ukrainian-parliamentary-election"
+    },
+    {
+      "source": "ukrainian-democratic-alliance-for-reform",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "ukrainian-democratic-alliance-for-reform",
+      "target": "european-solidarity"
+    },
+    {
+      "source": "ukrainian-democratic-alliance-for-reform",
+      "target": "kyiv"
+    },
+    {
+      "source": "ukrainian-democratic-alliance-for-reform",
+      "target": "political-party-in-ukraine"
+    },
+    {
+      "source": "ukrainian-democratic-alliance-for-reform",
+      "target": "ukraine"
+    },
+    {
+      "source": "ukrainian-democratic-alliance-for-reform",
+      "target": "ukrainian"
+    },
+    {
+      "source": "ukrainian-democratic-alliance-for-reform",
+      "target": "ukrainians"
+    },
+    {
+      "source": "ukrainian-democratic-alliance-for-reform",
+      "target": "vitali-klitschko"
+    },
+    {
       "source": "ostap-bender",
       "target": "coal-in-ukraine"
     },
@@ -34283,6 +34338,10 @@
     {
       "source": "european-solidarity",
       "target": "ukrainian"
+    },
+    {
+      "source": "european-solidarity",
+      "target": "ukrainian-democratic-alliance-for-reform"
     },
     {
       "source": "european-solidarity",
