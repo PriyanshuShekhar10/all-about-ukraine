@@ -43,6 +43,7 @@
       "battle-of-kiev",
       "battle-of-kruty",
       "beer-in-ukraine",
+      "beskids",
       "bila-tserkva-raion",
       "black-sea-shipping-company",
       "bohdan-hawrylyshyn",
@@ -663,6 +664,7 @@
       "battle-of-sumy",
       "battle-of-zboriv",
       "beer-in-ukraine",
+      "beskids",
       "bessarabia",
       "bila-tserkva",
       "bila-tserkva-raion",
@@ -1375,6 +1377,7 @@
       "battle-of-sumy",
       "beer-in-ukraine",
       "belovodskoye",
+      "beskids",
       "bila-tserkva-raion",
       "black-sea-shipping-company",
       "bohdan-hawrylyshyn",
@@ -2085,6 +2088,7 @@
       "viktor-yanukovych"
     ],
     "carpathians": [
+      "beskids",
       "borzsa",
       "bukovel",
       "bukovina",
@@ -2209,6 +2213,7 @@
       "2020-ukrainian-local-elections",
       "administrative-territorial-entity-of-ukraine",
       "alexander-j-motyl",
+      "beskids",
       "borshchiv",
       "boryslav",
       "borzsa",
@@ -4394,6 +4399,15 @@
       "zaporozhian-cossacks",
       "zbarazh-castle"
     ],
+    "beskids": [
+      "boryslav",
+      "divisions-of-the-carpathians",
+      "hoverla",
+      "lviv-oblast",
+      "ukrainian-carpathians",
+      "uzh-river",
+      "vistula"
+    ],
     "borzsa": [
       "ukrainian-carpathians"
     ],
@@ -5932,6 +5946,7 @@
     ],
     "transcarpathia": [
       "administrative-territorial-entity-of-ukraine",
+      "beskids",
       "hungaryukraine-relations",
       "hutsuls",
       "protestantism-in-ukraine",
@@ -7520,6 +7535,7 @@
       "verkhovna-rada"
     ],
     "hoverla": [
+      "beskids",
       "geography-of-ukraine",
       "ivano-frankivsk-oblast",
       "prut",
@@ -8262,6 +8278,7 @@
     "geography": [
       "alushta",
       "belovodskoye",
+      "beskids",
       "bila-tserkva",
       "bila-tserkva-raion",
       "bohuslav-raion",
@@ -9388,6 +9405,12 @@
       "degree": 6
     },
     {
+      "id": "beskids",
+      "title": "Beskids",
+      "category": "geography",
+      "degree": 14
+    },
+    {
       "id": "bessarabia",
       "title": "Bessarabia",
       "category": "politics",
@@ -9523,7 +9546,7 @@
       "id": "boryslav",
       "title": "Boryslav",
       "category": "geography",
-      "degree": 19
+      "degree": 20
     },
     {
       "id": "boryspil",
@@ -9601,7 +9624,7 @@
       "id": "carpathians",
       "title": "Carpathians",
       "category": "geography",
-      "degree": 33
+      "degree": 34
     },
     {
       "id": "categorysteel-industry-in-ukraine",
@@ -9781,7 +9804,7 @@
       "id": "coal-in-ukraine",
       "title": "coal in Ukraine",
       "category": "economy",
-      "degree": 466
+      "degree": 467
     },
     {
       "id": "coat-of-arms-of-ukrainiae",
@@ -9985,7 +10008,7 @@
       "id": "divisions-of-the-carpathians",
       "title": "divisions of the Carpathians",
       "category": "geography",
-      "degree": 4
+      "degree": 5
     },
     {
       "id": "dmitri-shostakovich",
@@ -10489,7 +10512,7 @@
       "id": "hoverla",
       "title": "Hoverla",
       "category": "geography",
-      "degree": 10
+      "degree": 12
     },
     {
       "id": "hrushevsky-street",
@@ -11203,7 +11226,7 @@
       "id": "lviv-oblast",
       "title": "Lviv Oblast",
       "category": "politics",
-      "degree": 54
+      "degree": 55
     },
     {
       "id": "lviv-polytechnic",
@@ -12943,7 +12966,7 @@
       "id": "transcarpathia",
       "title": "Transcarpathia",
       "category": "history",
-      "degree": 28
+      "degree": 29
     },
     {
       "id": "transnistria",
@@ -13003,7 +13026,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 734
+      "degree": 735
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13051,7 +13074,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 646
+      "degree": 647
     },
     {
       "id": "ukrainian-americans",
@@ -13087,7 +13110,7 @@
       "id": "ukrainian-carpathians",
       "title": "Ukrainian Carpathians",
       "category": "geography",
-      "degree": 16
+      "degree": 17
     },
     {
       "id": "ukrainian-civil-war",
@@ -13441,7 +13464,7 @@
       "id": "uzh-river",
       "title": "Uzh River",
       "category": "geography",
-      "degree": 8
+      "degree": 9
     },
     {
       "id": "uzhhorod",
@@ -13573,7 +13596,7 @@
       "id": "vistula",
       "title": "Vistula",
       "category": "geography",
-      "degree": 3
+      "degree": 4
     },
     {
       "id": "visual-arts-of-ukraine",
@@ -13705,7 +13728,7 @@
       "id": "western-ukraine",
       "title": "Western Ukraine",
       "category": "people",
-      "degree": 111
+      "degree": 112
     },
     {
       "id": "witold-pilecki",
@@ -14446,6 +14469,10 @@
     {
       "source": "sviatoslav-i-of-kiev",
       "target": "kievan-rus"
+    },
+    {
+      "source": "ukrainian-carpathians",
+      "target": "beskids"
     },
     {
       "source": "ukrainian-carpathians",
@@ -20597,6 +20624,10 @@
     },
     {
       "source": "boryslav",
+      "target": "beskids"
+    },
+    {
+      "source": "boryslav",
       "target": "coal-in-ukraine"
     },
     {
@@ -21974,6 +22005,10 @@
     {
       "source": "easter-egg",
       "target": "ukrainian"
+    },
+    {
+      "source": "lviv-oblast",
+      "target": "beskids"
     },
     {
       "source": "lviv-oblast",
@@ -27406,6 +27441,34 @@
     {
       "source": "chernobyl-nuclear-power-plant",
       "target": "ukraine"
+    },
+    {
+      "source": "beskids",
+      "target": "carpathians"
+    },
+    {
+      "source": "beskids",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "beskids",
+      "target": "hoverla"
+    },
+    {
+      "source": "beskids",
+      "target": "transcarpathia"
+    },
+    {
+      "source": "beskids",
+      "target": "ukraine"
+    },
+    {
+      "source": "beskids",
+      "target": "ukrainian"
+    },
+    {
+      "source": "beskids",
+      "target": "western-ukraine"
     },
     {
       "source": "kyiv-metro",
@@ -35537,6 +35600,10 @@
     },
     {
       "source": "divisions-of-the-carpathians",
+      "target": "beskids"
+    },
+    {
+      "source": "divisions-of-the-carpathians",
       "target": "carpathians"
     },
     {
@@ -36069,6 +36136,10 @@
     },
     {
       "source": "uzh-river",
+      "target": "beskids"
+    },
+    {
+      "source": "uzh-river",
       "target": "coal-in-ukraine"
     },
     {
@@ -36366,6 +36437,10 @@
     {
       "source": "ferrexpo",
       "target": "ukrainian"
+    },
+    {
+      "source": "vistula",
+      "target": "beskids"
     },
     {
       "source": "vistula",
@@ -37566,6 +37641,10 @@
     {
       "source": "hetman",
       "target": "ukrainian-war-of-independence"
+    },
+    {
+      "source": "hoverla",
+      "target": "beskids"
     },
     {
       "source": "hoverla",

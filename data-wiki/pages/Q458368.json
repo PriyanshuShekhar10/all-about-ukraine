@@ -32,7 +32,7 @@
     {
       "heading": "Eastern Carpathians",
       "paragraphs": [
-        "[[coal-in-ukraine|In Ukraine]], the Eastern Carpathians are recognized primarily in the northern part, north of the Prislop Pass. This province includes the Outer Eastern Carpathians, which feature subdivisions such as the Central Beskidian Piedmont and the Eastern Beskids, the latter encompassing the [[ukrainian-carpathians|Ukrainian Carpathians]]."
+        "[[coal-in-ukraine|In Ukraine]], the Eastern Carpathians are recognized primarily in the northern part, north of the Prislop Pass. This province includes the Outer Eastern Carpathians, which feature subdivisions such as the Central Beskidian Piedmont and the Eastern [[beskids|Beskids]], the latter encompassing the [[ukrainian-carpathians|Ukrainian Carpathians]]."
       ]
     },
     {
@@ -43,6 +43,7 @@
     }
   ],
   "links_out": [
+    "beskids",
     "carpathians",
     "coal-in-ukraine",
     "ukraine",

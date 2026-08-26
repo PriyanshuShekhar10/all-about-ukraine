@@ -43,7 +43,7 @@
     {
       "heading": "Regional Designations",
       "paragraphs": [
-        "Various regional and national traditions have produced overlapping classifications for the Eastern Carpathian mountain ranges. A notable section of the Outer Eastern Carpathians, which spans parts of southeastern Poland, northeastern Slovakia, and western Ukraine, is commonly referred to as the Eastern Beskids.",
+        "Various regional and national traditions have produced overlapping classifications for the Eastern Carpathian mountain ranges. A notable section of the Outer Eastern Carpathians, which spans parts of southeastern Poland, northeastern Slovakia, and western Ukraine, is commonly referred to as the Eastern [[beskids|Beskids]].",
         "In Slovakia, the same mountain range is also known as the Meadowed Mountains."
       ]
     },
@@ -56,6 +56,7 @@
     }
   ],
   "links_out": [
+    "beskids",
     "borzsa",
     "carpathians",
     "chernivtsi-oblast",

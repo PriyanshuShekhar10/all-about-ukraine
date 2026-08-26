@@ -649,6 +649,14 @@
     "aliases": []
   },
   {
+    "slug": "beskids",
+    "title": "Beskids",
+    "type": "mountain range",
+    "category": "geography",
+    "summary": "The Beskids, also known as the Beskid Mountains, are a series of mountain ranges within the Carpathians, extending from the Czech Republic to [[ukraine|Ukraine]]. The range is notable for its highest peak, [[hoverla|Hoverla]], which reaches an elevation of 2,061 meters (6,762 feet).",
+    "aliases": []
+  },
+  {
     "slug": "bessarabia",
     "title": "Bessarabia",
     "type": "historical region",

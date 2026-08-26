@@ -30,7 +30,7 @@
     {
       "heading": "Geographical Overview",
       "paragraphs": [
-        "The Vistula River originates in the Silesian Beskids at Barania Góra, rising to 1,220 meters (4,000 ft) above sea level. It flows through key Polish cities such as Kraków, Warsaw, and Gdańsk before emptying into the Vistula Lagoon or directly into the Gdańsk Bay of the Baltic Sea.",
+        "The Vistula River originates in the Silesian [[beskids|Beskids]] at Barania Góra, rising to 1,220 meters (4,000 ft) above sea level. It flows through key Polish cities such as Kraków, Warsaw, and Gdańsk before emptying into the Vistula Lagoon or directly into the Gdańsk Bay of the Baltic Sea.",
         "The river basin spans 193,960 km2 (74,890 sq mi), with 168,868 km2 (65,200 sq mi) located within Poland. The basin's average altitude is 270 meters (886 feet) and features a notable asymmetry in its drainage."
       ]
     },
@@ -62,6 +62,7 @@
     }
   ],
   "links_out": [
+    "beskids",
     "carpathians",
     "ukraine"
   ],

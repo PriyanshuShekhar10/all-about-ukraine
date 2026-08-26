@@ -1,0 +1,71 @@
+{
+  "qid": "Q215573",
+  "slug": "beskids",
+  "title": "Beskids",
+  "type": "mountain range",
+  "category": "geography",
+  "aliases": [],
+  "infobox": {
+    "label": "mountain range",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Poland, Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.4167, 20.2500",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Beskids, also known as the Beskid Mountains, are a series of mountain ranges within the Carpathians, extending from the Czech Republic to [[ukraine|Ukraine]]. The range is notable for its highest peak, [[hoverla|Hoverla]], which reaches an elevation of 2,061 meters (6,762 feet).",
+  "sections": [
+    {
+      "heading": "Geographical Overview",
+      "paragraphs": [
+        "The Beskids span approximately 600 kilometers (370 miles) in length and 50 to 70 kilometers (31 to 43 miles) in width. They primarily follow the southern border of Lesser Poland and northern Slovakia, extending into the Moravia and Czech Silesia regions of the eastern Czech Republic and into [[transcarpathia|Carpathian Ruthenia]] in [[western-ukraine|western Ukraine]].",
+        "The mountain range is geologically classified within the Outer Western [[carpathians|Carpathians]] and the Outer Eastern Carpathians. It begins at the Moravian Gate in the west, traverses eastward near the Tatra Mountains, and concludes [[coal-in-ukraine|in Ukraine]]. The exact eastern termination is debated, with older references indicating the source of the Tisza River, while newer accounts suggest the Uzhok Pass at the Polish-[[ukrainian|Ukrainian]] border."
+      ]
+    },
+    {
+      "heading": "Etymology and Historical Context",
+      "paragraphs": [
+        "The name 'Beskidy' lacks a definitive origin, with theories suggesting a Thracian or Illyrian root, though no consensus exists among linguists. The term has been historically used for centuries to denote the mountain range that separated the old Kingdom of Hungary from the old Kingdom of Poland, with its Latin designation, 'Beschad Alpes Poloniae,' recorded in 1269."
+      ]
+    },
+    {
+      "heading": "Subdivisions of the Beskids",
+      "paragraphs": [
+        "The Beskids are categorized into various subdivisions based on cultural and linguistic distinctions. These include the Western Beskids, Central Beskids, and Eastern Beskids, each comprising multiple ranges and geographical features.",
+        "The Eastern Beskids are particularly significant in Ukraine, featuring notable ranges such as the Bieszczady Mountains, Skole Beskids, and Gorgany, which are integral to the Ukrainian landscape and culture."
+      ]
+    },
+    {
+      "heading": "Economic and Environmental Significance",
+      "paragraphs": [
+        "The Beskids are rich in natural resources, including forests and coal, and were historically significant for iron ore extraction. The region hosts numerous tourist attractions, including historic wooden churches and ski resorts, contributing to local economies.",
+        "Environmental efforts in the Beskids aim to support wildlife populations, including bears, wolves, and lynx, highlighting the ecological importance of this mountain range."
+      ]
+    }
+  ],
+  "links_out": [
+    "carpathians",
+    "coal-in-ukraine",
+    "hoverla",
+    "transcarpathia",
+    "ukraine",
+    "ukrainian",
+    "western-ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Beskids — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Beskids",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-26",
+  "status": "published"
+}

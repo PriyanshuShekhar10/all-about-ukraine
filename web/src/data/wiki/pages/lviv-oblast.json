@@ -61,7 +61,7 @@
     {
       "heading": "Geography and Climate",
       "paragraphs": [
-        "Lviv Oblast features a diverse landscape, with the southern region characterized by the Beskids mountain range, which is part of the Eastern [[carpathians|Carpathians]] and includes the highest point, Pikui, at 1,408 meters. The northern areas consist of the upper [[dniester|Dniester]] and San River valleys, which are prone to flooding due to their flat alluvial plains.",
+        "Lviv Oblast features a diverse landscape, with the southern region characterized by the [[beskids|Beskids]] mountain range, which is part of the Eastern [[carpathians|Carpathians]] and includes the highest point, Pikui, at 1,408 meters. The northern areas consist of the upper [[dniester|Dniester]] and San River valleys, which are prone to flooding due to their flat alluvial plains.",
         "The climate in Lviv Oblast is moderately cool and humid, with average January temperatures ranging from −7 °C in the Carpathians to −3 °C in the river valleys. July temperatures vary from 14–15 °C in the Carpathians to 19 °C in the lower Dniester valley. The region receives significant precipitation, particularly in the summer, making it suitable for agriculture, especially for crops like sugar beets and winter wheat."
       ]
     },
@@ -88,6 +88,7 @@
     }
   ],
   "links_out": [
+    "beskids",
     "carpathians",
     "daniel-of-galicia",
     "dniester",
