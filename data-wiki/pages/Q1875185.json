@@ -1,0 +1,77 @@
+{
+  "qid": "Q1875185",
+  "slug": "arsenalna",
+  "title": "Arsenalna",
+  "type": "metro station",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "metro station",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1960",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.4444, 30.5453",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Arsenalna is a metro station on the Sviatoshynsko-Brovarska Line in Kyiv, notable for being the second-deepest metro station in the world at 105.5 meters (346 ft). Opened with the first stage of the Kyiv Metro, it features a unique design and serves as a significant landmark in the city.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Arsenalna station, located in [[kyiv|Kyiv]], is part of the Sviatoshynsko-Brovarska Line of the [[kyiv-metro|Kyiv Metro]]. It was inaugurated alongside the first stage of the metro system and is recognized as the second-deepest metro station globally, at a depth of 105.5 meters (346 ft), following Hongyancun station in Chongqing, which surpassed it in 2023."
+      ]
+    },
+    {
+      "heading": "Design and Architecture",
+      "paragraphs": [
+        "The station was designed by architects G Granatkin, S Krushynksky, and N Shchukina and is the only pylon trivault type station in the Kyiv Metro. While Arsenalna features decorative pylons, these are purely cosmetic, as the station has a small lobby connecting to the platforms and escalator tunnel.",
+        "The station's design was influenced by the challenging geological conditions of Kyiv, necessitating the freezing of soil during construction to prevent cave-ins. The station was initially intended to serve a low volume of passengers, primarily associated with the nearby Kyiv Arsenal Factory."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Arsenalna station has held the status of 'Architectural Monument of Local Significance' since 1986, with Protection Number 187. The station was named after the historic Arsenal Factory, which has since been transformed into the Mystetskyi Arsenal Museum, leading to increased visitor traffic and renewed interest in the station's infrastructure."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "The vestibule of Arsenalna underwent reconstruction starting in 2020, with partial reopening in 2021. The complete restoration of the vestibule and surrounding historical buildings was finalized in August 2021, with the official opening occurring on September 2, 2021.",
+        "During the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], Arsenalna station served as a bomb shelter, highlighting its role as a refuge for citizens during times of crisis."
+      ]
+    },
+    {
+      "heading": "Service Information",
+      "paragraphs": [
+        "Arsenalna station operates daily, with the first train to Lisova departing at 6:01 am and the first train to Akademmistechko at 5:48 am. The last train to Lisova leaves at 12:30 am, while the last train to Akademmistechko departs at 12:18 am."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "kyiv",
+    "kyiv-metro"
+  ],
+  "sources": [
+    {
+      "title": "Arsenalna (Kyiv Metro) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Arsenalna_(Kyiv_Metro)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-27",
+  "status": "published"
+}

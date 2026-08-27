@@ -62,11 +62,12 @@
     {
       "heading": "Visitor Information",
       "paragraphs": [
-        "Located on the Pechersk Hills in [[kyiv|Kyiv]], the museum is accessible via public transport, with the nearest metro station being Arsenalna. It operates daily from 10:00 to 18:00, with a general admission fee for the Hall of Memory set at ₴30 for adults, ₴20 for students, and ₴15 for children."
+        "Located on the Pechersk Hills in [[kyiv|Kyiv]], the museum is accessible via public transport, with the nearest metro station being [[arsenalna|Arsenalna]]. It operates daily from 10:00 to 18:00, with a general admission fee for the Hall of Memory set at ₴30 for adults, ₴20 for students, and ₴15 for children."
       ]
     }
   ],
   "links_out": [
+    "arsenalna",
     "coal-in-ukraine",
     "culture-of-ukraine",
     "haidamaka",

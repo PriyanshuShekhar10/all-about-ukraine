@@ -2560,6 +2560,7 @@
       "antonov",
       "antonov-airlines",
       "apostolic-nunciature-to-ukraine",
+      "arsenalna",
       "astarta-holding",
       "babi-yar",
       "bandura",
@@ -5226,6 +5227,7 @@
       "anatoly-shariy",
       "andriy-yarmolenko",
       "antonov-airlines",
+      "arsenalna",
       "beer-in-ukraine",
       "borodianka",
       "chernihiv",
@@ -7586,6 +7588,7 @@
       "oleh-blokhin"
     ],
     "kyiv-metro": [
+      "arsenalna",
       "kyiv",
       "vasyl-stus"
     ],
@@ -7706,6 +7709,10 @@
     ],
     "antonov-airlines": [
       "antonov"
+    ],
+    "arsenalna": [
+      "kyiv-metro",
+      "memorial-in-commemoration-of-famines-victims-in-ukraine"
     ],
     "vuhledar": [
       "pavlivka"
@@ -8883,6 +8890,7 @@
       "zolochiv-castle"
     ],
     "culture": [
+      "arsenalna",
       "bandura",
       "bohdan-lepky",
       "book-of-wisdom",
@@ -9090,7 +9098,7 @@
       "id": "2022-russian-invasion-of-ukraine",
       "title": "2022 Russian invasion of Ukraine",
       "category": "war",
-      "degree": 60
+      "degree": 61
     },
     {
       "id": "20th-congress-of-the-communist-party-of-the-soviet-union",
@@ -9217,6 +9225,12 @@
       "title": "Arsen Avakov",
       "category": "war",
       "degree": 9
+    },
+    {
+      "id": "arsenalna",
+      "title": "Arsenalna",
+      "category": "culture",
+      "degree": 5
     },
     {
       "id": "artem-dovbyk",
@@ -10998,7 +11012,7 @@
       "id": "kyiv",
       "title": "Kyiv",
       "category": "geography",
-      "degree": 259
+      "degree": 260
     },
     {
       "id": "kyiv-city-ballet",
@@ -11022,7 +11036,7 @@
       "id": "kyiv-metro",
       "title": "Kyiv Metro",
       "category": "history",
-      "degree": 10
+      "degree": 12
     },
     {
       "id": "kyiv-music-fest",
@@ -11334,7 +11348,7 @@
       "id": "memorial-in-commemoration-of-famines-victims-in-ukraine",
       "title": "Memorial in Commemoration of Famines' Victims in Ukraine",
       "category": "politics",
-      "degree": 11
+      "degree": 12
     },
     {
       "id": "metinvest",
@@ -25083,6 +25097,18 @@
       "target": "ukrainian"
     },
     {
+      "source": "arsenalna",
+      "target": "2022-russian-invasion-of-ukraine"
+    },
+    {
+      "source": "arsenalna",
+      "target": "kyiv"
+    },
+    {
+      "source": "arsenalna",
+      "target": "kyiv-metro"
+    },
+    {
       "source": "prizrak",
       "target": "coal-in-ukraine"
     },
@@ -27469,6 +27495,10 @@
     {
       "source": "beskids",
       "target": "western-ukraine"
+    },
+    {
+      "source": "kyiv-metro",
+      "target": "arsenalna"
     },
     {
       "source": "kyiv-metro",
@@ -31929,6 +31959,10 @@
     {
       "source": "mariinskyi-park",
       "target": "verkhovna-rada"
+    },
+    {
+      "source": "memorial-in-commemoration-of-famines-victims-in-ukraine",
+      "target": "arsenalna"
     },
     {
       "source": "memorial-in-commemoration-of-famines-victims-in-ukraine",

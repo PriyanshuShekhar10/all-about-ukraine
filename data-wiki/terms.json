@@ -11521,5 +11521,16 @@
     "aliases": [],
     "notability": 56,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q1875185",
+    "slug": "arsenalna",
+    "name": "Arsenalna",
+    "wp_title": "Arsenalna (Kyiv Metro)",
+    "type": "metro station",
+    "category": "culture",
+    "aliases": [],
+    "notability": 19,
+    "status": "synthesized"
   }
 ]

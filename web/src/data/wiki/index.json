@@ -355,6 +355,14 @@
     ]
   },
   {
+    "slug": "arsenalna",
+    "title": "Arsenalna",
+    "type": "metro station",
+    "category": "culture",
+    "summary": "Arsenalna is a metro station on the Sviatoshynsko-Brovarska Line in Kyiv, notable for being the second-deepest metro station in the world at 105.5 meters (346 ft). Opened with the first stage of the Kyiv Metro, it features a unique design and serves as a significant landmark in the city.",
+    "aliases": []
+  },
+  {
     "slug": "artem-dovbyk",
     "title": "Artem Dovbyk",
     "type": "human",
