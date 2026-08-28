@@ -11532,5 +11532,18 @@
     "aliases": [],
     "notability": 19,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q152486",
+    "slug": "battle-of-poltava",
+    "name": "Battle of Poltava",
+    "wp_title": "Battle of Poltava",
+    "type": "battle",
+    "category": "history",
+    "aliases": [
+      "Siege of Poltava"
+    ],
+    "notability": 62,
+    "status": "synthesized"
   }
 ]

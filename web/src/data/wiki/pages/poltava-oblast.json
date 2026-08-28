@@ -73,7 +73,7 @@
     {
       "heading": "Points of Interest",
       "paragraphs": [
-        "Poltava Oblast is home to several historic and cultural sites nominated for the Seven Wonders of Ukraine, including the Gogol Museum-Reserve, Kotliarevsky Museum and Manor, Saint Nicholas Church, Poltava Museum of Local Lore, and Exaltation of the Holy Cross Monastery. The region also features the site of the Battle of Poltava and the Bilsk hillfort, with Opishnia recognized for its decorative ceramics and the [[lviv-national-museum|National Museum]]-Reserve of Ukrainian Pottery."
+        "Poltava Oblast is home to several historic and cultural sites nominated for the Seven Wonders of Ukraine, including the Gogol Museum-Reserve, Kotliarevsky Museum and Manor, Saint Nicholas Church, Poltava Museum of Local Lore, and Exaltation of the Holy Cross Monastery. The region also features the site of the [[battle-of-poltava|Battle of Poltava]] and the Bilsk hillfort, with Opishnia recognized for its decorative ceramics and the [[lviv-national-museum|National Museum]]-Reserve of Ukrainian Pottery."
       ]
     },
     {
@@ -91,6 +91,7 @@
     }
   ],
   "links_out": [
+    "battle-of-poltava",
     "cherkasy",
     "cherkasy-oblast",
     "chernihiv",

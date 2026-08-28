@@ -20,7 +20,7 @@
     {
       "heading": "History",
       "paragraphs": [
-        "The Ukrainian diaspora has a complex history, beginning with political emigration after the Battle of [[poltava|Poltava]] in 1709, when some [[cossacks|Cossacks]] settled in Turkey and Western Europe. Subsequent waves of emigration occurred after the fall of the [[zaporizhian-sich|Zaporozhian Sich]] in 1775, leading to [[ukrainian|Ukrainian]] settlements in regions such as Dobruja and the Volga.",
+        "The Ukrainian diaspora has a complex history, beginning with political emigration after the [[battle-of-poltava|Battle of Poltava]] in 1709, when some [[cossacks|Cossacks]] settled in Turkey and Western Europe. Subsequent waves of emigration occurred after the fall of the [[zaporizhian-sich|Zaporozhian Sich]] in 1775, leading to [[ukrainian|Ukrainian]] settlements in regions such as Dobruja and the Volga.",
         "By 1880, the Ukrainian diaspora numbered approximately 1.2 million, with a significant presence in the Russian Empire and Austro-Hungary. The late 19th century saw a surge in emigration to the Americas, particularly influenced by Dr. Joseph Oleskiw's advocacy for Ukrainian agricultural settlers to move to Canada.",
         "Before World War I, nearly 500,000 [[ukrainians|Ukrainians]] had emigrated to the Americas, with the diaspora in the US, Canada, and South America growing significantly. By 1914, the Ukrainian diaspora in the Americas was estimated to be between 700,000 and 750,000.",
         "The diaspora played a crucial role in advocating for Ukrainian independence during the tumultuous years surrounding World War I and the Russian Civil War, leading to the establishment of various Ukrainian organizations and cultural institutions abroad."
@@ -36,8 +36,8 @@
     }
   ],
   "links_out": [
+    "battle-of-poltava",
     "cossacks",
-    "poltava",
     "post-soviet-states",
     "soviet-union",
     "ukraine",

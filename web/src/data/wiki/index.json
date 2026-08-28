@@ -617,6 +617,16 @@
     "aliases": []
   },
   {
+    "slug": "battle-of-poltava",
+    "title": "Battle of Poltava",
+    "type": "battle",
+    "category": "history",
+    "summary": "The Battle of Poltava, fought on 8 July 1709, was a pivotal conflict in the Great Northern War, where the Russian army led by Tsar Peter I defeated the Swedish forces commanded by Carl Gustaf Rehnskiöld. This battle significantly altered the balance of power in Eastern Europe, marking the decline of the Swedish Empire and the rise of Russian dominance, with lasting implications for Ukraine's historical trajectory.",
+    "aliases": [
+      "Siege of Poltava"
+    ]
+  },
+  {
     "slug": "battle-of-sievierodonetsk",
     "title": "Battle of Sievierodonetsk",
     "type": "battle",

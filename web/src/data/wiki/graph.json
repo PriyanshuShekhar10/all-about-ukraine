@@ -660,6 +660,7 @@
       "battle-of-kyiv",
       "battle-of-lwów",
       "battle-of-mariupol",
+      "battle-of-poltava",
       "battle-of-sievierodonetsk",
       "battle-of-sumy",
       "battle-of-zboriv",
@@ -1373,6 +1374,7 @@
       "battle-of-kyiv",
       "battle-of-mariupol",
       "battle-of-mykolaiv",
+      "battle-of-poltava",
       "battle-of-sievierodonetsk",
       "battle-of-sumy",
       "beer-in-ukraine",
@@ -2121,6 +2123,7 @@
     ],
     "eastern-europe": [
       "bahmut",
+      "battle-of-poltava",
       "bessarabia",
       "borscht",
       "boryspil-international-airport",
@@ -3002,6 +3005,7 @@
     "hetman": [
       "battle-of-batih",
       "battle-of-lwów",
+      "battle-of-poltava",
       "bila-tserkva-raion",
       "bohdan-khmelnytsky",
       "bohdan-lepky",
@@ -3052,6 +3056,7 @@
       "ukrainization"
     ],
     "ivan-mazepa": [
+      "battle-of-poltava",
       "bila-tserkva-raion",
       "bohdan-lepky",
       "cossack-hetmanate",
@@ -3607,6 +3612,7 @@
     "cossack-hetmanate": [
       "administrative-territorial-entity-of-ukraine",
       "battle-of-batih",
+      "battle-of-poltava",
       "bohdan-khmelnytsky",
       "bohuslav",
       "chernihiv",
@@ -4350,6 +4356,7 @@
     ],
     "history-of-ukraine": [
       "battle-of-kruty",
+      "battle-of-poltava",
       "bohdan-lepky",
       "borys-voznytskyi-lviv-national-art-gallery",
       "cossack-hetmanate",
@@ -6354,6 +6361,7 @@
     "poltava": [
       "andriy-yarmolenko",
       "astarta-holding",
+      "battle-of-poltava",
       "belovodskoye",
       "borscht",
       "cabbage-roll",
@@ -6362,7 +6370,6 @@
       "ferrexpo",
       "horishni-plavni",
       "ivan-kotliarevskyi",
-      "ivan-mazepa",
       "kremenchuk-reservoir",
       "mykola-lysenko",
       "national-university-yuri-kondratyuk-poltava-polytechnic",
@@ -6372,12 +6379,10 @@
       "oleh-skrypka",
       "oles-honchar",
       "poltava-oblast",
-      "pyotr-ilyich-tchaikovsky",
       "pyriatyn",
       "russian-revolution-of-1905",
       "theatre-in-ukraine",
       "tourism-in-ukraine",
-      "ukrainian-diaspora",
       "ukrainian-embroidery",
       "ukrainian-folk-music",
       "ukrainian-peoples-republic",
@@ -7069,6 +7074,11 @@
       "mariinskyi-park",
       "verkhovna-rada"
     ],
+    "vorskla": [
+      "andriy-yarmolenko",
+      "battle-of-poltava",
+      "poltava"
+    ],
     "les-kurbas": [
       "mykola-voronyi",
       "theatre-in-ukraine"
@@ -7200,16 +7210,19 @@
     "west-ukrainian-national-university": [
       "ternopil"
     ],
+    "battle-of-poltava": [
+      "ivan-mazepa",
+      "poltava",
+      "poltava-oblast",
+      "pyotr-ilyich-tchaikovsky",
+      "ukrainian-diaspora"
+    ],
     "ukrainian-national-revival": [
       "cossack-hetmanate",
       "modern-history-of-ukraine",
       "mykhailo-hrushevskyi",
       "poltava",
       "ukrainians"
-    ],
-    "vorskla": [
-      "andriy-yarmolenko",
-      "poltava"
     ],
     "western-bug": [
       "polesia",
@@ -8671,6 +8684,7 @@
       "battle-of-kiev",
       "battle-of-kruty",
       "battle-of-lwów",
+      "battle-of-poltava",
       "battle-of-zboriv",
       "bohdan-hawrylyshyn",
       "bohdan-khmelnytsky",
@@ -9389,6 +9403,12 @@
       "degree": 6
     },
     {
+      "id": "battle-of-poltava",
+      "title": "Battle of Poltava",
+      "category": "history",
+      "degree": 14
+    },
+    {
       "id": "battle-of-sievierodonetsk",
       "title": "Battle of Sievierodonetsk",
       "category": "war",
@@ -9842,7 +9862,7 @@
       "id": "cossack-hetmanate",
       "title": "Cossack Hetmanate",
       "category": "history",
-      "degree": 49
+      "degree": 50
     },
     {
       "id": "cossack-mamay",
@@ -10196,7 +10216,7 @@
       "id": "eastern-europe",
       "title": "Eastern Europe",
       "category": "geography",
-      "degree": 63
+      "degree": 64
     },
     {
       "id": "eastern-galicia",
@@ -10460,7 +10480,7 @@
       "id": "hetman",
       "title": "hetman",
       "category": "history",
-      "degree": 47
+      "degree": 48
     },
     {
       "id": "hetmanate",
@@ -10496,7 +10516,7 @@
       "id": "history-of-ukraine",
       "title": "history of Ukraine",
       "category": "people",
-      "degree": 65
+      "degree": 66
     },
     {
       "id": "history-of-ukrainian-nationality",
@@ -10700,7 +10720,7 @@
       "id": "ivan-mazepa",
       "title": "Ivan Mazepa",
       "category": "people",
-      "degree": 20
+      "degree": 21
     },
     {
       "id": "ivan-sirko",
@@ -12152,13 +12172,13 @@
       "id": "poltava",
       "title": "Poltava",
       "category": "geography",
-      "degree": 40
+      "degree": 39
     },
     {
       "id": "poltava-oblast",
       "title": "Poltava Oblast",
       "category": "people",
-      "degree": 41
+      "degree": 42
     },
     {
       "id": "polygon",
@@ -13040,7 +13060,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 735
+      "degree": 736
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13088,7 +13108,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 647
+      "degree": 648
     },
     {
       "id": "ukrainian-americans",
@@ -13688,7 +13708,7 @@
       "id": "vorskla",
       "title": "Vorskla",
       "category": "geography",
-      "degree": 7
+      "degree": 8
     },
     {
       "id": "vostok-battalion",
@@ -19249,6 +19269,42 @@
       "target": "viktor-yanukovych"
     },
     {
+      "source": "battle-of-poltava",
+      "target": "cossack-hetmanate"
+    },
+    {
+      "source": "battle-of-poltava",
+      "target": "eastern-europe"
+    },
+    {
+      "source": "battle-of-poltava",
+      "target": "hetman"
+    },
+    {
+      "source": "battle-of-poltava",
+      "target": "history-of-ukraine"
+    },
+    {
+      "source": "battle-of-poltava",
+      "target": "ivan-mazepa"
+    },
+    {
+      "source": "battle-of-poltava",
+      "target": "poltava"
+    },
+    {
+      "source": "battle-of-poltava",
+      "target": "ukraine"
+    },
+    {
+      "source": "battle-of-poltava",
+      "target": "ukrainian"
+    },
+    {
+      "source": "battle-of-poltava",
+      "target": "vorskla"
+    },
+    {
       "source": "potato-pancake",
       "target": "coal-in-ukraine"
     },
@@ -20007,6 +20063,10 @@
     {
       "source": "ternopil",
       "target": "zaporozhian-cossacks"
+    },
+    {
+      "source": "poltava",
+      "target": "battle-of-poltava"
     },
     {
       "source": "poltava",
@@ -22266,6 +22326,10 @@
     },
     {
       "source": "ivan-mazepa",
+      "target": "battle-of-poltava"
+    },
+    {
+      "source": "ivan-mazepa",
       "target": "bila-tserkva"
     },
     {
@@ -22291,10 +22355,6 @@
     {
       "source": "ivan-mazepa",
       "target": "kyiv"
-    },
-    {
-      "source": "ivan-mazepa",
-      "target": "poltava"
     },
     {
       "source": "ivan-mazepa",
@@ -22743,6 +22803,10 @@
     {
       "source": "2019-ukrainian-presidential-election",
       "target": "yulia-tymoshenko"
+    },
+    {
+      "source": "poltava-oblast",
+      "target": "battle-of-poltava"
     },
     {
       "source": "poltava-oblast",
@@ -31058,11 +31122,11 @@
     },
     {
       "source": "ukrainian-diaspora",
-      "target": "cossacks"
+      "target": "battle-of-poltava"
     },
     {
       "source": "ukrainian-diaspora",
-      "target": "poltava"
+      "target": "cossacks"
     },
     {
       "source": "ukrainian-diaspora",
@@ -39130,15 +39194,15 @@
     },
     {
       "source": "pyotr-ilyich-tchaikovsky",
+      "target": "battle-of-poltava"
+    },
+    {
+      "source": "pyotr-ilyich-tchaikovsky",
       "target": "coal-in-ukraine"
     },
     {
       "source": "pyotr-ilyich-tchaikovsky",
       "target": "dnipro"
-    },
-    {
-      "source": "pyotr-ilyich-tchaikovsky",
-      "target": "poltava"
     },
     {
       "source": "pyotr-ilyich-tchaikovsky",

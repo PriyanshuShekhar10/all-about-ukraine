@@ -43,7 +43,7 @@
     {
       "heading": "Historical Overview",
       "paragraphs": [
-        "Poltava was first recorded as Ltava in the 12th century Rus' chronicles. The city has been known as Poltava since 1430 and became an integral part of the [[cossack-hetmanate|Cossack Hetmanate]] in the 17th century, serving as a center for a Cossack regiment in Left-bank [[ukraine|Ukraine]]. The city was the site of the pivotal Battle of Poltava in 1709 during the Great Northern War."
+        "Poltava was first recorded as Ltava in the 12th century Rus' chronicles. The city has been known as Poltava since 1430 and became an integral part of the [[cossack-hetmanate|Cossack Hetmanate]] in the 17th century, serving as a center for a Cossack regiment in Left-bank [[ukraine|Ukraine]]. The city was the site of the pivotal [[battle-of-poltava|Battle of Poltava]] in 1709 during the Great Northern War."
       ]
     },
     {
@@ -66,6 +66,7 @@
     }
   ],
   "links_out": [
+    "battle-of-poltava",
     "coal-in-ukraine",
     "cossack-hetmanate",
     "poltava-oblast",

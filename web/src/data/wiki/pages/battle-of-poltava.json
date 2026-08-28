@@ -1,0 +1,88 @@
+{
+  "qid": "Q152486",
+  "slug": "battle-of-poltava",
+  "title": "Battle of Poltava",
+  "type": "battle",
+  "category": "history",
+  "aliases": [
+    "Siege of Poltava"
+  ],
+  "infobox": {
+    "label": "battle",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "1709-06-27",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Poltava",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "49.6314, 34.5528",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Battle of Poltava, fought on 8 July 1709, was a pivotal conflict in the Great Northern War, where the Russian army led by Tsar Peter I defeated the Swedish forces commanded by Carl Gustaf Rehnskiöld. This battle significantly altered the balance of power in Eastern Europe, marking the decline of the Swedish Empire and the rise of Russian dominance, with lasting implications for Ukraine's historical trajectory.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The Battle of Poltava was the largest and most decisive battle of the Great Northern War, which began in 1700. The Swedish Empire, under King Charles XII, initially achieved several victories against a coalition that included the Polish-Lithuanian Commonwealth, Denmark-Norway, and the Tsardom of Russia. By 1707, Charles chose to invade Russia, aiming to capture Moscow, but faced significant challenges due to harsh weather and Russian tactics."
+      ]
+    },
+    {
+      "heading": "Prelude to the Battle",
+      "paragraphs": [
+        "In the spring of 1709, the Swedish forces, reduced to around 20,000 men, laid siege to the fortress of [[poltava|Poltava]], an important location on the [[vorskla|Vorskla River]]. Meanwhile, Tsar Peter I advanced with a larger Russian army of 75,000 to 80,000 soldiers to relieve the siege. On 20 June, Charles XII was wounded, leading to Field Marshal Rehnskiöld taking command of the Swedish forces."
+      ]
+    },
+    {
+      "heading": "The Battle",
+      "paragraphs": [
+        "The battle commenced on 28 June 1709, with the Swedish army attempting to launch a surprise attack. However, due to delays and a lack of sufficient artillery, the element of surprise was lost. Despite initial successes in capturing Russian redoubts, the Swedish forces ultimately faced severe casualties and disorganization. By 9:30 a.m., the Swedish forces were overwhelmed, leading to their retreat and eventual surrender."
+      ]
+    },
+    {
+      "heading": "Consequences",
+      "paragraphs": [
+        "The defeat at Poltava marked a catastrophic turning point for the Swedish Empire, leading to its decline as a dominant power in the Baltic region. The battle not only revitalized the anti-Swedish coalition but also established Russian supremacy in [[eastern-europe|Eastern Europe]]. This shift had profound implications for [[ukraine|Ukraine]], as it transitioned from being a contested territory to a region under Russian influence."
+      ]
+    },
+    {
+      "heading": "Significance in Ukrainian History",
+      "paragraphs": [
+        "The Battle of Poltava is crucial in the context of [[history-of-ukraine|Ukrainian history]] as it involved significant [[ukrainian|Ukrainian]] figures, such as [[ivan-mazepa|Ivan Mazepa]], the [[hetman|hetman]] of the [[cossack-hetmanate|Cossack Hetmanate]], who allied with the Swedish forces. The aftermath of the battle further integrated Ukraine into the Russian Empire's sphere of influence, shaping its political landscape for centuries to come."
+      ]
+    }
+  ],
+  "links_out": [
+    "cossack-hetmanate",
+    "eastern-europe",
+    "hetman",
+    "history-of-ukraine",
+    "ivan-mazepa",
+    "poltava",
+    "ukraine",
+    "ukrainian",
+    "vorskla"
+  ],
+  "sources": [
+    {
+      "title": "Battle of Poltava — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Poltava",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-28",
+  "status": "published"
+}

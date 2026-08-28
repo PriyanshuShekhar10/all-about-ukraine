@@ -47,7 +47,7 @@
     {
       "heading": "Early Life and Heritage",
       "paragraphs": [
-        "Tchaikovsky was born in Votkinsk, present-day Udmurtia, Russia. His lineage includes connections to [[ukraine|Ukraine]], as his grandfather, Pyotr Fedorovich Tchaikovsky, was born in Nikolaevka, [[dnipro|Yekaterinoslav]] Governorate, now [[coal-in-ukraine|in Ukraine]]. Tchaikovsky's great-grandfather, Fyodor Chaika, was a Zaporozhian Cossack who fought in the Battle of [[poltava|Poltava]] in 1709.",
+        "Tchaikovsky was born in Votkinsk, present-day Udmurtia, Russia. His lineage includes connections to [[ukraine|Ukraine]], as his grandfather, Pyotr Fedorovich Tchaikovsky, was born in Nikolaevka, [[dnipro|Yekaterinoslav]] Governorate, now [[coal-in-ukraine|in Ukraine]]. Tchaikovsky's great-grandfather, Fyodor Chaika, was a Zaporozhian Cossack who fought in the [[battle-of-poltava|Battle of Poltava]] in 1709.",
         "Raised in a family with artistic inclinations, Tchaikovsky's parents encouraged his musical education from an early age. His mother, Alexandra, played a significant role in his early life, and her death when he was 14 deeply affected him, prompting his first serious composition."
       ]
     },
@@ -74,9 +74,9 @@
     }
   ],
   "links_out": [
+    "battle-of-poltava",
     "coal-in-ukraine",
     "dnipro",
-    "poltava",
     "ukraine",
     "ukrainian"
   ],
