@@ -11545,5 +11545,18 @@
     ],
     "notability": 62,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q1348657",
+    "slug": "victor-pynzenyk",
+    "name": "Victor Pynzenyk",
+    "wp_title": "Viktor Pynzenyk",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "Viktor Mykhailovych Pynzenyk"
+    ],
+    "notability": 10,
+    "status": "synthesized"
   }
 ]

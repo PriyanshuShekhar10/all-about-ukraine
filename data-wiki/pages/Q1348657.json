@@ -1,0 +1,79 @@
+{
+  "qid": "Q1348657",
+  "slug": "victor-pynzenyk",
+  "title": "Victor Pynzenyk",
+  "type": "human",
+  "category": "politics",
+  "aliases": [
+    "Viktor Mykhailovych Pynzenyk"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1954-04-15",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Smolohovytsia",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "First Deputy Prime Minister of Ukraine, Minister of Finance of Ukraine",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Viktor Mykhailovych Pynzenyk is a prominent [[ukrainian|Ukrainian]] politician and economist, known for his significant contributions to economic reforms in post-Soviet Ukraine. He served as the Minister of Finance and was instrumental in the introduction of Ukraine's national currency, the [[hryvnia|hryvnia]], in 1996.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Viktor Pynzenyk was born on 15 April 1954 in Smolohovytsia, located in the [[zakarpattia-oblast|Zakarpattia Oblast]] of the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]], now [[ukraine|Ukraine]]. He completed his secondary education and went on to study at [[lviv|Lviv]] State University, graduating in 1975 with a degree in economics. Pynzenyk continued his academic journey at the same university, earning his Candidate of Science degree in 1980 and later obtaining his Doktor of Science degree from Moscow State University in 1989. In 1996, he received an honorary doctorate from the [[national-university-of-kyiv-mohyla-academy|National University of Kyiv-Mohyla Academy]]."
+      ]
+    },
+    {
+      "heading": "Political and Economic Career",
+      "paragraphs": [
+        "Pynzenyk was sworn into the [[verkhovna-rada|Ukrainian parliament]] on 4 January 1992 and quickly became a member of the economic reforms working group. He was appointed Vice-Prime Minister and Minister of Economy later that year, where he initiated the first economic reforms in [[independent-ukraine|independent Ukraine]], aiding in its transition to a market economy. He was elected to the second convocation of parliament in March 1992 and served until April 1998. Pynzenyk held various positions, including First Vice Prime Minister from October 1994 to September 1995 and Vice Prime Minister from August 1995 to April 1997.",
+        "In the 1998 parliamentary elections, he was re-elected and served until 2002. He was part of the 'Our Ukraine' electoral bloc in 2002 and was appointed Minister of Economy on 4 February 2005, serving until August 2006. Pynzenyk returned to parliament in November 2007 as a member of the Reforms and Order Party. He became Minister of Finance in [[yulia-tymoshenko|Yulia Tymoshenko]]'s Cabinet on 18 December 2007 but resigned on 12 February 2008 due to disagreements over budgetary principles. His resignation was met with mixed reactions from Tymoshenko and President [[viktor-yushchenko|Viktor Yushchenko]]. Pynzenyk was officially dismissed from his ministerial position on 17 February 2009.",
+        "After leaving the Reforms and Order Party in April 2010, Pynzenyk became deputy chairman of the supervisory council of UkrSibbank in February 2011. He returned to politics in the 2012 parliamentary elections as a candidate for the UDAR party and was re-elected, continuing to serve in the 2014 elections as part of the [[european-solidarity|Petro Poroshenko Bloc]]."
+      ]
+    },
+    {
+      "heading": "Personal Life",
+      "paragraphs": [
+        "Despite his political career, Viktor Pynzenyk remains a professor at [[lviv-university|Lviv University]] and has been recognized as an honorary professor at the [[kyiv|Kyiv]]-Mohyla Academy and the Economics Institute of [[ternopil|Ternopil]]. He was named an 'Honored Economist of Ukraine' in 2004. Pynzenyk is married to Mariya Romanivna, and they have two children, Volodymyr and Vitaliy, as well as two daughters from a previous marriage, Olga and Yulia. His interests include tourism, music, and the card game preferans. In 2006, he reported an income of 265,200 hryvnias ($53,000) and owns a Toyota RAV4 and a Toyota 4Runner."
+      ]
+    }
+  ],
+  "links_out": [
+    "european-solidarity",
+    "hryvnia",
+    "independent-ukraine",
+    "kyiv",
+    "lviv",
+    "lviv-university",
+    "national-university-of-kyiv-mohyla-academy",
+    "ternopil",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic",
+    "verkhovna-rada",
+    "viktor-yushchenko",
+    "yulia-tymoshenko",
+    "zakarpattia-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Viktor Pynzenyk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Viktor_Pynzenyk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-29",
+  "status": "published"
+}

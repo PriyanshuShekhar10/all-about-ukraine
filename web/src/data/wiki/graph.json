@@ -1259,6 +1259,7 @@
       "vasylivka",
       "velykyi-bychkiv",
       "verkhovna-rada",
+      "victor-pynzenyk",
       "viktor-medvedchuk",
       "viktor-tikhonov",
       "viktor-tsoi",
@@ -1912,6 +1913,7 @@
       "vasylivka",
       "velykyi-bychkiv",
       "vernadsky-national-library-of-ukraine",
+      "victor-pynzenyk",
       "viktor-medvedchuk",
       "viktor-tikhonov",
       "viktor-yanukovych",
@@ -2062,6 +2064,7 @@
       "ukrainian-red-cross-society",
       "ukrainian-womens-union",
       "ukrainska-pravda",
+      "victor-pynzenyk",
       "viktor-medvedchuk",
       "viktor-yanukovych",
       "volodymyr-hroisman",
@@ -2087,6 +2090,7 @@
       "oles-honchar-dnipro-national-university",
       "political-party-in-ukraine",
       "prime-minister-of-ukraine",
+      "victor-pynzenyk",
       "viktor-yanukovych"
     ],
     "carpathians": [
@@ -2516,6 +2520,7 @@
       "ternopil-oblast",
       "ternopil-raion",
       "ternopil-regional-art-museum",
+      "victor-pynzenyk",
       "viktor-yushchenko",
       "volhynia",
       "west-ukrainian-national-university",
@@ -2781,6 +2786,7 @@
       "vasyl-symonenko",
       "verkhovna-rada",
       "vernadsky-national-library-of-ukraine",
+      "victor-pynzenyk",
       "viktor-yanukovych",
       "vinnytsia",
       "vitali-klitschko",
@@ -2890,6 +2896,7 @@
       "uzhhorod-national-university",
       "vasyl-krychevsky",
       "vasyl-slipak",
+      "victor-pynzenyk",
       "vinnytsia",
       "vira-vovk",
       "volodymyr-viatrovych",
@@ -3594,6 +3601,7 @@
       "uzhhorod",
       "velykyi-bychkiv",
       "verkhovna-rada",
+      "victor-pynzenyk",
       "viktor-medvedchuk",
       "viktor-yanukovych",
       "viktor-yushchenko",
@@ -4434,6 +4442,7 @@
       "uzh-river",
       "uzhhorod",
       "velykyi-bychkiv",
+      "victor-pynzenyk",
       "zakarpattia"
     ],
     "central-rada": [
@@ -4472,6 +4481,7 @@
       "national-bank-of-ukraine",
       "sviatohirsk-lavra",
       "ukraine-international-airlines",
+      "victor-pynzenyk",
       "viktor-yushchenko"
     ],
     "law-of-ukraine": [
@@ -5949,6 +5959,7 @@
       "sumy-oblast",
       "ukraine-nato-relations",
       "ukrainian-peoples-party",
+      "victor-pynzenyk",
       "viktor-yanukovych",
       "west-ukrainian-national-university",
       "yevpatoriya"
@@ -5999,6 +6010,7 @@
       "ukrainian-historical-regions",
       "ukrainian-historiography",
       "ukrainian-socialist-party",
+      "victor-pynzenyk",
       "yavoriv",
       "zmiivka",
       "zolotonosha"
@@ -6420,6 +6432,7 @@
       "ukraineeuropean-union-relations",
       "ukrainian-democratic-alliance-for-reform",
       "ukrainska-pravda",
+      "victor-pynzenyk",
       "volodymyr-viatrovych"
     ],
     "culture-of-ukraine": [
@@ -6742,7 +6755,8 @@
     ],
     "national-university-of-kyiv-mohyla-academy": [
       "national-academy-of-arts-of-ukraine",
-      "podil"
+      "podil",
+      "victor-pynzenyk"
     ],
     "khortytsia": [
       "dnieper-ukraine",
@@ -6761,6 +6775,22 @@
       "treaty-of-pereyaslav",
       "ukrainian-historical-regions",
       "zolotonosha"
+    ],
+    "lviv-university": [
+      "andrii-parubii",
+      "bohdan-lepky",
+      "borys-tarasyuk",
+      "dmytro-pavlychko",
+      "iryna-vilde",
+      "ivan-franko",
+      "les-kurbas",
+      "lviv",
+      "national-forestry-university",
+      "sviatoslav-vakarchuk",
+      "taras-shevchenko-national-university-of-kyiv",
+      "victor-pynzenyk",
+      "volodymyr-viatrovych",
+      "yevhen-konovalets"
     ],
     "kobzar": [
       "bandura",
@@ -6837,21 +6867,6 @@
       "les-kurbas",
       "memorial-in-commemoration-of-famines-victims-in-ukraine",
       "ukrainian-national-revival"
-    ],
-    "lviv-university": [
-      "andrii-parubii",
-      "bohdan-lepky",
-      "borys-tarasyuk",
-      "dmytro-pavlychko",
-      "iryna-vilde",
-      "ivan-franko",
-      "les-kurbas",
-      "lviv",
-      "national-forestry-university",
-      "sviatoslav-vakarchuk",
-      "taras-shevchenko-national-university-of-kyiv",
-      "volodymyr-viatrovych",
-      "yevhen-konovalets"
     ],
     "ukrainian-avant-garde": [
       "les-kurbas"
@@ -8288,6 +8303,7 @@
       "ukrainian-womens-union",
       "vasyl-symonenko",
       "verkhovna-rada",
+      "victor-pynzenyk",
       "viktor-medvedchuk",
       "viktor-yanukovych",
       "vladimir-putin",
@@ -10276,7 +10292,7 @@
       "id": "european-solidarity",
       "title": "European Solidarity",
       "category": "people",
-      "degree": 23
+      "degree": 24
     },
     {
       "id": "eurovision-song-contest-2016",
@@ -10570,7 +10586,7 @@
       "id": "hryvnia",
       "title": "hryvnia",
       "category": "economy",
-      "degree": 13
+      "degree": 14
     },
     {
       "id": "human-rights-in-ukraine",
@@ -10630,7 +10646,7 @@
       "id": "independent-ukraine",
       "title": "Independent Ukraine",
       "category": "politics",
-      "degree": 35
+      "degree": 36
     },
     {
       "id": "industry-in-ukraine",
@@ -11032,7 +11048,7 @@
       "id": "kyiv",
       "title": "Kyiv",
       "category": "geography",
-      "degree": 260
+      "degree": 261
     },
     {
       "id": "kyiv-city-ballet",
@@ -11224,7 +11240,7 @@
       "id": "lviv",
       "title": "Lviv",
       "category": "geography",
-      "degree": 110
+      "degree": 111
     },
     {
       "id": "lviv-city-council",
@@ -11278,7 +11294,7 @@
       "id": "lviv-university",
       "title": "Lviv University",
       "category": "people",
-      "degree": 20
+      "degree": 21
     },
     {
       "id": "lysychansk",
@@ -11728,7 +11744,7 @@
       "id": "national-university-of-kyiv-mohyla-academy",
       "title": "National University of Kyiv-Mohyla Academy",
       "category": "people",
-      "degree": 13
+      "degree": 14
     },
     {
       "id": "national-university-of-physical-education-and-sport-of-ukraine",
@@ -12940,7 +12956,7 @@
       "id": "ternopil",
       "title": "Ternopil",
       "category": "geography",
-      "degree": 33
+      "degree": 34
     },
     {
       "id": "ternopil-castle",
@@ -13060,7 +13076,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 736
+      "degree": 737
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13108,7 +13124,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 648
+      "degree": 649
     },
     {
       "id": "ukrainian-americans",
@@ -13402,7 +13418,7 @@
       "id": "ukrainian-soviet-socialist-republic",
       "title": "Ukrainian Soviet Socialist Republic",
       "category": "history",
-      "degree": 125
+      "degree": 126
     },
     {
       "id": "ukrainian-state",
@@ -13570,13 +13586,19 @@
       "id": "verkhovna-rada",
       "title": "Verkhovna Rada",
       "category": "politics",
-      "degree": 112
+      "degree": 113
     },
     {
       "id": "vernadsky-national-library-of-ukraine",
       "title": "Vernadsky National Library of Ukraine",
       "category": "culture",
       "degree": 7
+    },
+    {
+      "id": "victor-pynzenyk",
+      "title": "Victor Pynzenyk",
+      "category": "politics",
+      "degree": 15
     },
     {
       "id": "viktor-medvedchuk",
@@ -13606,7 +13628,7 @@
       "id": "viktor-yushchenko",
       "title": "Viktor Yushchenko",
       "category": "people",
-      "degree": 32
+      "degree": 33
     },
     {
       "id": "vinnytsia",
@@ -13846,7 +13868,7 @@
       "id": "yulia-tymoshenko",
       "title": "Yulia Tymoshenko",
       "category": "people",
-      "degree": 27
+      "degree": 28
     },
     {
       "id": "zakarpattia",
@@ -13858,7 +13880,7 @@
       "id": "zakarpattia-oblast",
       "title": "Zakarpattia Oblast",
       "category": "geography",
-      "degree": 25
+      "degree": 26
     },
     {
       "id": "zaliznyi-port",
@@ -17791,6 +17813,66 @@
     {
       "source": "luhansk",
       "target": "zaporizhzhia"
+    },
+    {
+      "source": "victor-pynzenyk",
+      "target": "european-solidarity"
+    },
+    {
+      "source": "victor-pynzenyk",
+      "target": "hryvnia"
+    },
+    {
+      "source": "victor-pynzenyk",
+      "target": "independent-ukraine"
+    },
+    {
+      "source": "victor-pynzenyk",
+      "target": "kyiv"
+    },
+    {
+      "source": "victor-pynzenyk",
+      "target": "lviv"
+    },
+    {
+      "source": "victor-pynzenyk",
+      "target": "lviv-university"
+    },
+    {
+      "source": "victor-pynzenyk",
+      "target": "national-university-of-kyiv-mohyla-academy"
+    },
+    {
+      "source": "victor-pynzenyk",
+      "target": "ternopil"
+    },
+    {
+      "source": "victor-pynzenyk",
+      "target": "ukraine"
+    },
+    {
+      "source": "victor-pynzenyk",
+      "target": "ukrainian"
+    },
+    {
+      "source": "victor-pynzenyk",
+      "target": "ukrainian-soviet-socialist-republic"
+    },
+    {
+      "source": "victor-pynzenyk",
+      "target": "verkhovna-rada"
+    },
+    {
+      "source": "victor-pynzenyk",
+      "target": "viktor-yushchenko"
+    },
+    {
+      "source": "victor-pynzenyk",
+      "target": "yulia-tymoshenko"
+    },
+    {
+      "source": "victor-pynzenyk",
+      "target": "zakarpattia-oblast"
     },
     {
       "source": "taras-shevchenko",
