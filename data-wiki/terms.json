@@ -11558,5 +11558,16 @@
     ],
     "notability": 10,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q187002",
+    "slug": "baba-yaga",
+    "name": "Baba Yaga",
+    "wp_title": "Baba Yaga",
+    "type": "mythic humanoid",
+    "category": "history",
+    "aliases": [],
+    "notability": 72,
+    "status": "synthesized"
   }
 ]

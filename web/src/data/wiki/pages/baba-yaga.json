@@ -1,0 +1,65 @@
+{
+  "qid": "Q187002",
+  "slug": "baba-yaga",
+  "title": "Baba Yaga",
+  "type": "mythic humanoid",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "mythic humanoid",
+    "fields": []
+  },
+  "summary": "Baba Yaga is a prominent female figure in Slavic folklore, often characterized by her dual nature as both a menacing witch and a helpful old woman. Her stories are deeply rooted in Ukrainian culture, where she is depicted in various narratives and artistic representations.",
+  "sections": [
+    {
+      "heading": "Folkloric Characteristics",
+      "paragraphs": [
+        "Baba Yaga is portrayed in Slavic folklore as a complex character with contrasting roles. In some tales, she is depicted as a fearsome old woman who consumes children, while in others, she acts as a benevolent figure aiding heroes. Commonly recognized as a witch, she is associated with forest wildlife and is known for her unique traits, such as flying in a wooden mortar and residing in a hut that stands on chicken legs."
+      ]
+    },
+    {
+      "heading": "Etymology and Cultural Significance",
+      "paragraphs": [
+        "The name Baba Yaga has variations across many Slavic languages, with 'baba' meaning 'grandmother' or 'old woman' in several dialects. The term 'yaga' lacks a clear etymology, with various theories suggesting connections to words meaning 'horror' or 'witch' in different Slavic languages. This ambiguity reflects her multifaceted nature in folklore, making her a subject of interest in [[ukrainian|Ukrainian]] cultural studies."
+      ]
+    },
+    {
+      "heading": "Historical References",
+      "paragraphs": [
+        "The earliest clear mention of Baba Yaga dates back to 1755 in Mikhail V. Lomonosov's Russian Grammar, where she is listed among other Slavic mythological figures. This reference highlights her uniqueness within Slavic mythology, as she does not have a direct equivalent in Roman mythology. Baba Yaga's stories often include distinctive elements such as her chicken-legged hut and her use of a mortar and pestle, which are tied to ancient pagan rituals."
+      ]
+    },
+    {
+      "heading": "Representation in Art and Literature",
+      "paragraphs": [
+        "Baba Yaga's image has been depicted in various forms of art, including lubki, woodblock prints from the 17th and 18th centuries. In these prints, she is sometimes shown in humorous contexts, reflecting her dual nature as both a feared witch and a figure of folklore. Additionally, she appears in numerous tales collected by Alexander Afanasyev, which are integral to Ukrainian literary heritage."
+      ]
+    },
+    {
+      "heading": "Cultural Analogues and Influence",
+      "paragraphs": [
+        "Baba Yaga shares similarities with other folkloric figures across [[eastern-europe|Eastern Europe]], such as Ježibaba in West Slavic folklore and various 'Forest Mother' figures. Scholars suggest that her character may have been influenced by interactions with Finno-Ugric and Siberian cultures, particularly in her association with the forest and her dwelling. During the ongoing [[full-scale-russo-ukrainian-war|Russo-Ukrainian war]], references to Baba Yaga have emerged in contemporary discourse, illustrating her enduring relevance in Ukrainian culture."
+      ]
+    },
+    {
+      "heading": "Modern Interpretations",
+      "paragraphs": [
+        "Baba Yaga continues to inspire modern literature and art, including Mussorgsky's 'Pictures at an Exhibition' and contemporary novels that reinterpret her character. These adaptations often explore her role beyond the traditional narratives, reflecting changing perceptions of her character in the context of Ukrainian and Eastern European identity."
+      ]
+    }
+  ],
+  "links_out": [
+    "eastern-europe",
+    "full-scale-russo-ukrainian-war",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Baba Yaga — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Baba_Yaga",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-30",
+  "status": "published"
+}

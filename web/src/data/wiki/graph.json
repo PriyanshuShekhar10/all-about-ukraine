@@ -1360,6 +1360,7 @@
       "avdeyevka-coke-and-chemical-plant",
       "azov-brigade",
       "azovstal",
+      "baba-yaga",
       "babi-yar",
       "bakhchysarai",
       "bakhmut",
@@ -2126,6 +2127,7 @@
       "zakarpattia-oblast"
     ],
     "eastern-europe": [
+      "baba-yaga",
       "bahmut",
       "battle-of-poltava",
       "bessarabia",
@@ -3906,6 +3908,7 @@
       "artem-dzyuba",
       "avdeyevka-coke-and-chemical-plant",
       "azovstal",
+      "baba-yaga",
       "bakhmut",
       "banking-in-ukraine",
       "battle-of-bakhmut",
@@ -8696,6 +8699,7 @@
     "history": [
       "abakan",
       "andriivskyi-descent",
+      "baba-yaga",
       "battle-of-batih",
       "battle-of-kiev",
       "battle-of-kruty",
@@ -9303,6 +9307,12 @@
       "title": "Azovstal",
       "category": "economy",
       "degree": 16
+    },
+    {
+      "id": "baba-yaga",
+      "title": "Baba Yaga",
+      "category": "history",
+      "degree": 3
     },
     {
       "id": "babi-yar",
@@ -10232,7 +10242,7 @@
       "id": "eastern-europe",
       "title": "Eastern Europe",
       "category": "geography",
-      "degree": 64
+      "degree": 65
     },
     {
       "id": "eastern-galicia",
@@ -10376,7 +10386,7 @@
       "id": "full-scale-russo-ukrainian-war",
       "title": "full-scale Russo-Ukrainian war",
       "category": "war",
-      "degree": 178
+      "degree": 179
     },
     {
       "id": "gaidai",
@@ -13124,7 +13134,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 649
+      "degree": 650
     },
     {
       "id": "ukrainian-americans",
@@ -25221,6 +25231,18 @@
     {
       "source": "oleh-blokhin",
       "target": "verkhovna-rada"
+    },
+    {
+      "source": "baba-yaga",
+      "target": "eastern-europe"
+    },
+    {
+      "source": "baba-yaga",
+      "target": "full-scale-russo-ukrainian-war"
+    },
+    {
+      "source": "baba-yaga",
+      "target": "ukrainian"
     },
     {
       "source": "odesa",

@@ -435,6 +435,14 @@
     ]
   },
   {
+    "slug": "baba-yaga",
+    "title": "Baba Yaga",
+    "type": "mythic humanoid",
+    "category": "history",
+    "summary": "Baba Yaga is a prominent female figure in Slavic folklore, often characterized by her dual nature as both a menacing witch and a helpful old woman. Her stories are deeply rooted in Ukrainian culture, where she is depicted in various narratives and artistic representations.",
+    "aliases": []
+  },
+  {
     "slug": "babi-yar",
     "title": "Babi Yar",
     "type": "place of mass murder",
