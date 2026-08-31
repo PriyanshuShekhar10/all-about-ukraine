@@ -1775,6 +1775,7 @@
       "samopomich",
       "sarny",
       "savchuk",
+      "second-partition-of-poland",
       "security-service-of-ukraine",
       "sergei-bubka",
       "serhiy-haidai",
@@ -7169,6 +7170,16 @@
       "volhynia",
       "zhytomyr"
     ],
+    "second-partition-of-poland": [
+      "bohuslav",
+      "bratslav",
+      "kamianets-podilskyi",
+      "khmelnytskyi",
+      "uman",
+      "zbruch",
+      "zhmerynka",
+      "zhytomyr-oblast"
+    ],
     "southern-bug": [
       "bratslav",
       "khmelnytskyi",
@@ -8788,6 +8799,7 @@
       "ruthenian",
       "sarmatians",
       "scythians",
+      "second-partition-of-poland",
       "sich-riflemen",
       "slavutych",
       "soviet-famine-of-19321933",
@@ -9522,7 +9534,7 @@
       "id": "bohuslav",
       "title": "Bohuslav",
       "category": "history",
-      "degree": 10
+      "degree": 11
     },
     {
       "id": "bohuslav-raion",
@@ -9636,7 +9648,7 @@
       "id": "bratslav",
       "title": "Bratslav",
       "category": "history",
-      "degree": 8
+      "degree": 9
     },
     {
       "id": "bucha-massacre",
@@ -10812,7 +10824,7 @@
       "id": "kamianets-podilskyi",
       "title": "Kamianets-Podilskyi",
       "category": "geography",
-      "degree": 19
+      "degree": 20
     },
     {
       "id": "karpaty",
@@ -10878,7 +10890,7 @@
       "id": "khmelnytskyi",
       "title": "Khmelnytskyi",
       "category": "geography",
-      "degree": 35
+      "degree": 36
     },
     {
       "id": "khmelnytskyi-oblast",
@@ -12633,6 +12645,12 @@
       "degree": 5
     },
     {
+      "id": "second-partition-of-poland",
+      "title": "Second Partition of Poland",
+      "category": "history",
+      "degree": 9
+    },
+    {
       "id": "security-service-of-ukraine",
       "title": "Security Service of Ukraine",
       "category": "politics",
@@ -13134,7 +13152,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 650
+      "degree": 651
     },
     {
       "id": "ukrainian-americans",
@@ -13518,7 +13536,7 @@
       "id": "uman",
       "title": "Uman",
       "category": "history",
-      "degree": 15
+      "degree": 16
     },
     {
       "id": "uzh-river",
@@ -13950,13 +13968,13 @@
       "id": "zbruch",
       "title": "Zbruch",
       "category": "geography",
-      "degree": 11
+      "degree": 12
     },
     {
       "id": "zhmerynka",
       "title": "Zhmerynka",
       "category": "economy",
-      "degree": 11
+      "degree": 12
     },
     {
       "id": "zhovkva",
@@ -13998,7 +14016,7 @@
       "id": "zhytomyr-oblast",
       "title": "Zhytomyr Oblast",
       "category": "people",
-      "degree": 24
+      "degree": 25
     },
     {
       "id": "zinaida-serebryakova",
@@ -19914,6 +19932,10 @@
     },
     {
       "source": "khmelnytskyi",
+      "target": "second-partition-of-poland"
+    },
+    {
+      "source": "khmelnytskyi",
       "target": "southern-bug"
     },
     {
@@ -25642,6 +25664,10 @@
     },
     {
       "source": "bohuslav",
+      "target": "second-partition-of-poland"
+    },
+    {
+      "source": "bohuslav",
       "target": "taras-shevchenko"
     },
     {
@@ -25675,6 +25701,10 @@
     {
       "source": "kamianets-podilskyi",
       "target": "podolia"
+    },
+    {
+      "source": "kamianets-podilskyi",
+      "target": "second-partition-of-poland"
     },
     {
       "source": "kamianets-podilskyi",
@@ -27067,6 +27097,10 @@
     {
       "source": "uman",
       "target": "podolia"
+    },
+    {
+      "source": "uman",
+      "target": "second-partition-of-poland"
     },
     {
       "source": "uman",
@@ -31433,6 +31467,10 @@
       "target": "ukraine"
     },
     {
+      "source": "second-partition-of-poland",
+      "target": "ukrainian"
+    },
+    {
       "source": "mikhail-gorbachev",
       "target": "chernihiv"
     },
@@ -33183,6 +33221,10 @@
     {
       "source": "zhytomyr-oblast",
       "target": "radomysl-castle"
+    },
+    {
+      "source": "zhytomyr-oblast",
+      "target": "second-partition-of-poland"
     },
     {
       "source": "zhytomyr-oblast",
@@ -41178,6 +41220,10 @@
     },
     {
       "source": "bratslav",
+      "target": "second-partition-of-poland"
+    },
+    {
+      "source": "bratslav",
       "target": "southern-bug"
     },
     {
@@ -42074,6 +42120,10 @@
     },
     {
       "source": "zhmerynka",
+      "target": "second-partition-of-poland"
+    },
+    {
+      "source": "zhmerynka",
       "target": "soviet-union"
     },
     {
@@ -42307,6 +42357,10 @@
     {
       "source": "zbruch",
       "target": "lviv"
+    },
+    {
+      "source": "zbruch",
+      "target": "second-partition-of-poland"
     },
     {
       "source": "zbruch",

@@ -1,0 +1,73 @@
+{
+  "qid": "Q3025374",
+  "slug": "second-partition-of-poland",
+  "title": "Second Partition of Poland",
+  "type": "partition",
+  "category": "history",
+  "aliases": [],
+  "infobox": {
+    "label": "partition",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "1793-01-23",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Russia",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Saint Petersburg",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The Second Partition of Poland in 1793 was a significant event that contributed to the dissolution of the Polish–Lithuanian Commonwealth, occurring after the Polish–Russian War of 1792. This partition involved the territorial division of the Commonwealth primarily between the Russian Empire and the Kingdom of Prussia, impacting the [[ukrainian|Ukrainian]] territories within the Commonwealth.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "By 1790, the Polish–Lithuanian Commonwealth faced severe political challenges, leading to an alliance with Prussia. The Polish-Prussian Pact of 1790 was signed, which provided temporary hope for reform. The May Constitution of 1791 aimed to modernize governance and reduce abuses, but it provoked aggressive reactions from neighboring powers, particularly Russia, which invaded in 1792."
+      ]
+    },
+    {
+      "heading": "The Polish–Russian War of 1792",
+      "paragraphs": [
+        "During the Polish–Russian War of 1792, the Polish forces, supporting constitutional reforms, fought against the Russian army, which was backed by the Targowica Confederation, a pro-Russian faction among Polish magnates. The Polish forces, led by Prince Józef Poniatowski, faced overwhelming odds and were ultimately abandoned by their Prussian allies, leading to a decision by King Stanisław August Poniatowski to join the Targowica Confederation."
+      ]
+    },
+    {
+      "heading": "Partition Agreement",
+      "paragraphs": [
+        "On 23 January 1793, a treaty was signed between Prussia and Russia, which resulted in the revocation of Polish reforms and the division of Commonwealth territories. The Grodno Sejm, under coercion, ratified the territorial claims of both powers. Russia annexed 250,000 square kilometers, while Prussia took 58,000 square kilometers, significantly reducing the Commonwealth's size."
+      ]
+    },
+    {
+      "heading": "Territorial Changes",
+      "paragraphs": [
+        "As a result of the Second Partition, Russia acquired regions including the Kiev, Bracław, Podole, and Minsk Voivodeships, along with parts of several others, reorganizing these into new viceroyalties. Prussia gained control over Gdańsk, Toruń, and several voivodeships, forming South Prussia. The population of the Commonwealth decreased by approximately 5 million, leaving around 4 million in the remaining territories."
+      ]
+    },
+    {
+      "heading": "Consequences and Aftermath",
+      "paragraphs": [
+        "The Targowica Confederation and King Stanisław August Poniatowski suffered a loss of prestige following the partition. In March 1794, the Kościuszko Uprising emerged in response to the growing support for reformers. However, the defeat of this uprising in November 1794 led to the Third Partition of Poland, which ultimately ended the existence of the Commonwealth."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Second Partition of Poland — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Second_Partition_of_Poland",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-08-31",
+  "status": "published"
+}
