@@ -316,6 +316,7 @@
       "renaissance-capital",
       "revolution-of-dignity",
       "revolution-on-granite",
+      "right-sector",
       "rivne-nuclear-power-plant",
       "rivne-oblast",
       "rivne-raion",
@@ -1086,6 +1087,7 @@
       "republic-of-ukraine",
       "revolution-of-dignity",
       "revolution-on-granite",
+      "right-sector",
       "rivne",
       "rivne-nuclear-power-plant",
       "rivne-oblast",
@@ -1748,6 +1750,7 @@
       "religion-in-ukraine",
       "revolution-of-dignity",
       "revolution-on-granite",
+      "right-sector",
       "rivne",
       "rivne-nuclear-power-plant",
       "rivne-oblast",
@@ -2496,6 +2499,7 @@
       "nadiya-savchenko",
       "national-guard-of-ukraine",
       "petro-poroshenko",
+      "right-sector",
       "russiaukraine-relations",
       "russo-ukrainian-war",
       "security-service-of-ukraine",
@@ -5115,6 +5119,7 @@
       "mykolaiv",
       "revolution-of-dignity",
       "revolution-on-granite",
+      "right-sector",
       "russian-annexation-of-crimea",
       "russo-ukrainian-war",
       "samopomich",
@@ -5358,6 +5363,7 @@
       "oleh-sentsov",
       "oleksandr-turchynov",
       "president-of-ukraine",
+      "right-sector",
       "rivne-nuclear-power-plant",
       "siege-of-mariupol",
       "ukrainian-canadian-congress",
@@ -6422,6 +6428,7 @@
     "ukrainian-parliamentary-elections": [
       "anatoly-shariy",
       "european-solidarity",
+      "right-sector",
       "samopomich"
     ],
     "european-solidarity": [
@@ -7098,6 +7105,33 @@
       "battle-of-poltava",
       "poltava"
     ],
+    "boryslav": [
+      "drohobych",
+      "right-sector",
+      "ukrnafta",
+      "vira-vovk",
+      "west-ukrainian-peoples-republic"
+    ],
+    "dmytro-yarosh": [
+      "right-sector"
+    ],
+    "ukrainian-diaspora": [
+      "green-ukraine",
+      "holodomor",
+      "independence-day-of-ukraine",
+      "kolomyjka",
+      "music-of-ukraine",
+      "mykola-leontovych",
+      "pysanka",
+      "right-sector",
+      "ukrainian-cultural-foundation",
+      "ukrainian-folklore",
+      "ukrainian-museum",
+      "ukrainians"
+    ],
+    "ukrainian-national-assembly-ukrainian-national-self-defence": [
+      "right-sector"
+    ],
     "les-kurbas": [
       "mykola-voronyi",
       "theatre-in-ukraine"
@@ -7125,19 +7159,6 @@
       "music-of-ukraine",
       "mykola-leontovych",
       "oleh-skrypka"
-    ],
-    "ukrainian-diaspora": [
-      "green-ukraine",
-      "holodomor",
-      "independence-day-of-ukraine",
-      "kolomyjka",
-      "music-of-ukraine",
-      "mykola-leontovych",
-      "pysanka",
-      "ukrainian-cultural-foundation",
-      "ukrainian-folklore",
-      "ukrainian-museum",
-      "ukrainians"
     ],
     "ukrainian-folk-music": [
       "music-of-ukraine",
@@ -7369,12 +7390,6 @@
       "bessarabia",
       "henichesk",
       "ivan-kotliarevskyi"
-    ],
-    "boryslav": [
-      "drohobych",
-      "ukrnafta",
-      "vira-vovk",
-      "west-ukrainian-peoples-republic"
     ],
     "boryspil-international-airport": [
       "boryspil",
@@ -7728,6 +7743,11 @@
     "republic-of-abkhazia": [
       "transnistria",
       "transnistria-conflict",
+      "ukrainian-national-assembly-ukrainian-national-self-defence"
+    ],
+    "right-sector": [
+      "arsen-avakov",
+      "dmytro-yarosh",
       "ukrainian-national-assembly-ukrainian-national-self-defence"
     ],
     "dnieper-ukraine": [
@@ -8898,6 +8918,7 @@
       "operation-barbarossa",
       "pavlo-klimkin",
       "radomysl-castle",
+      "right-sector",
       "romaniaukraine-relations",
       "russian-annexation-of-crimea",
       "russian-occupation-of-crimea",
@@ -9264,13 +9285,13 @@
       "id": "armed-forces-of-ukraine",
       "title": "Armed Forces of Ukraine",
       "category": "politics",
-      "degree": 40
+      "degree": 41
     },
     {
       "id": "arsen-avakov",
       "title": "Arsen Avakov",
       "category": "war",
-      "degree": 9
+      "degree": 10
     },
     {
       "id": "arsenalna",
@@ -9618,7 +9639,7 @@
       "id": "boryslav",
       "title": "Boryslav",
       "category": "geography",
-      "degree": 20
+      "degree": 21
     },
     {
       "id": "boryspil",
@@ -9876,7 +9897,7 @@
       "id": "coal-in-ukraine",
       "title": "coal in Ukraine",
       "category": "economy",
-      "degree": 467
+      "degree": 468
     },
     {
       "id": "coat-of-arms-of-ukrainiae",
@@ -10122,7 +10143,7 @@
       "id": "dmytro-yarosh",
       "title": "Dmytro Yarosh",
       "category": "war",
-      "degree": 13
+      "degree": 15
     },
     {
       "id": "dmytro-yavornytsky",
@@ -10308,7 +10329,7 @@
       "id": "euromaidan",
       "title": "Euromaidan",
       "category": "history",
-      "degree": 54
+      "degree": 55
     },
     {
       "id": "european-solidarity",
@@ -12417,6 +12438,12 @@
       "degree": 15
     },
     {
+      "id": "right-sector",
+      "title": "Right Sector",
+      "category": "war",
+      "degree": 14
+    },
+    {
       "id": "rivne",
       "title": "Rivne",
       "category": "history",
@@ -13104,7 +13131,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 737
+      "degree": 738
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13152,7 +13179,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 651
+      "degree": 652
     },
     {
       "id": "ukrainian-americans",
@@ -13242,7 +13269,7 @@
       "id": "ukrainian-diaspora",
       "title": "Ukrainian diaspora",
       "category": "people",
-      "degree": 19
+      "degree": 20
     },
     {
       "id": "ukrainian-dramatic-theatre-of-maria-zankovetska",
@@ -13344,7 +13371,7 @@
       "id": "ukrainian-national-assembly-ukrainian-national-self-defence",
       "title": "Ukrainian National Assembly – Ukrainian National Self Defence",
       "category": "history",
-      "degree": 10
+      "degree": 12
     },
     {
       "id": "ukrainian-national-museum",
@@ -13398,7 +13425,7 @@
       "id": "ukrainian-parliamentary-elections",
       "title": "Ukrainian parliamentary elections",
       "category": "people",
-      "degree": 8
+      "degree": 9
     },
     {
       "id": "ukrainian-peoples-party",
@@ -13788,7 +13815,7 @@
       "id": "war-in-donbas",
       "title": "War in Donbas",
       "category": "war",
-      "degree": 38
+      "degree": 39
     },
     {
       "id": "west-ukrainian-national-university",
@@ -19429,6 +19456,50 @@
     {
       "source": "potato-pancake",
       "target": "ukrainian-cuisine"
+    },
+    {
+      "source": "right-sector",
+      "target": "armed-forces-of-ukraine"
+    },
+    {
+      "source": "right-sector",
+      "target": "boryslav"
+    },
+    {
+      "source": "right-sector",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "right-sector",
+      "target": "dmytro-yarosh"
+    },
+    {
+      "source": "right-sector",
+      "target": "euromaidan"
+    },
+    {
+      "source": "right-sector",
+      "target": "ukraine"
+    },
+    {
+      "source": "right-sector",
+      "target": "ukrainian"
+    },
+    {
+      "source": "right-sector",
+      "target": "ukrainian-diaspora"
+    },
+    {
+      "source": "right-sector",
+      "target": "ukrainian-national-assembly-ukrainian-national-self-defence"
+    },
+    {
+      "source": "right-sector",
+      "target": "ukrainian-parliamentary-elections"
+    },
+    {
+      "source": "right-sector",
+      "target": "war-in-donbas"
     },
     {
       "source": "ukrainian-baroque",
@@ -26781,6 +26852,10 @@
     {
       "source": "ukrainian-national-assembly-ukrainian-national-self-defence",
       "target": "republic-of-abkhazia"
+    },
+    {
+      "source": "ukrainian-national-assembly-ukrainian-national-self-defence",
+      "target": "right-sector"
     },
     {
       "source": "ukrainian-national-assembly-ukrainian-national-self-defence",
@@ -39056,6 +39131,10 @@
     },
     {
       "source": "arsen-avakov",
+      "target": "right-sector"
+    },
+    {
+      "source": "arsen-avakov",
       "target": "ukraine"
     },
     {
@@ -41505,6 +41584,10 @@
     {
       "source": "dmytro-yarosh",
       "target": "euromaidan"
+    },
+    {
+      "source": "dmytro-yarosh",
+      "target": "right-sector"
     },
     {
       "source": "dmytro-yarosh",

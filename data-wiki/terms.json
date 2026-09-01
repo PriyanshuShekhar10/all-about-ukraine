@@ -11580,5 +11580,20 @@
     "aliases": [],
     "notability": 33,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q15361249",
+    "slug": "right-sector",
+    "name": "Right Sector",
+    "wp_title": "Right Sector",
+    "type": "political organization",
+    "category": "war",
+    "aliases": [
+      "Pravi Sektor",
+      "Praviy Sektor",
+      "Pravy Sektor"
+    ],
+    "notability": 38,
+    "status": "synthesized"
   }
 ]

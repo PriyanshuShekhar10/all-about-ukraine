@@ -6082,6 +6082,18 @@
     "aliases": []
   },
   {
+    "slug": "right-sector",
+    "title": "Right Sector",
+    "type": "political organization",
+    "category": "war",
+    "summary": "Right Sector is a coalition of right-wing to far-right nationalist organizations in Ukraine, formed during the Euromaidan protests in late 2013. It transitioned into a political party in March 2014 and has been involved in various political and military activities in Ukraine.",
+    "aliases": [
+      "Pravi Sektor",
+      "Praviy Sektor",
+      "Pravy Sektor"
+    ]
+  },
+  {
     "slug": "rivne",
     "title": "Rivne",
     "type": "city of regional significance of Ukraine",

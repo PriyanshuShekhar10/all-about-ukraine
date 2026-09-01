@@ -1,0 +1,95 @@
+{
+  "qid": "Q15361249",
+  "slug": "right-sector",
+  "title": "Right Sector",
+  "type": "political organization",
+  "category": "war",
+  "aliases": [
+    "Pravi Sektor",
+    "Praviy Sektor",
+    "Pravy Sektor"
+  ],
+  "infobox": {
+    "label": "political organization",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "2013",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Right Sector is a coalition of right-wing to far-right nationalist organizations in Ukraine, formed during the Euromaidan protests in late 2013. It transitioned into a political party in March 2014 and has been involved in various political and military activities in Ukraine.",
+  "sections": [
+    {
+      "heading": "Origins",
+      "paragraphs": [
+        "Right Sector emerged in November 2013 as a coalition of several ultranationalist groups, including Trident, led by [[dmytro-yarosh|Dmytro Yarosh]], and the [[ukrainian|Ukrainian]] National Assembly–Ukrainian National Self-Defense ([[ukrainian-national-assembly-ukrainian-national-self-defence|UNA–UNSO]]). The organization was formed primarily by street-fighting soccer fans and right-wing nationalists, and it claims to have received donations from the [[ukrainian-diaspora|Ukrainian diaspora]]."
+      ]
+    },
+    {
+      "heading": "Role in Euromaidan",
+      "paragraphs": [
+        "Right Sector played a significant role in the [[euromaidan|Euromaidan]] protests, particularly during the violent clashes in January 2014. The group was noted for its organization and effectiveness in confronting police forces. It encouraged its members to engage in violent resistance and claimed to have accumulated a considerable arsenal of weapons.",
+        "The organization faced accusations of antisemitism and was labeled as extremist by the Yanukovych government, which threatened its members with imprisonment."
+      ]
+    },
+    {
+      "heading": "Political Developments",
+      "paragraphs": [
+        "On 22 March 2014, Right Sector officially became a political party, claiming approximately 10,000 members. In the 2014 [[ukrainian-parliamentary-elections|Ukrainian parliamentary elections]], Dmytro Yarosh won a seat, while another spokesperson, [[boryslav|Boryslav]] Bereza, also secured a position as an independent candidate.",
+        "In the 2019 parliamentary elections, Right Sector participated in a united radical right party list but did not win any seats."
+      ]
+    },
+    {
+      "heading": "Military Involvement",
+      "paragraphs": [
+        "Right Sector's paramilitary wing, the Ukrainian Volunteer Corps, fought in the [[war-in-donbas|Donbas war]]. Dmytro Yarosh was appointed as an advisor to the [[armed-forces-of-ukraine|Ukrainian Armed Forces]] in April 2015. However, he stepped down as the leader of Right Sector in November 2015, citing a shift away from revolutionary activities."
+      ]
+    },
+    {
+      "heading": "Aftermath and Reformation",
+      "paragraphs": [
+        "Following Yarosh's departure, a significant portion of Right Sector's members left to form the Ukrainian Volunteer Army. In November 2022, the Ukrainian Volunteer Corps was restructured into the 67th Separate Mechanized Brigade, which later faced disbandment in 2024 due to issues regarding preferential treatment."
+      ]
+    },
+    {
+      "heading": "Controversies and Propaganda",
+      "paragraphs": [
+        "Right Sector has been a focal point of Russian propaganda, often exaggerated as a threat to Russian speakers and Jews [[coal-in-ukraine|in Ukraine]]. Incidents of vandalism attributed to Right Sector were often dismissed as false flag operations by Russian media. The organization has faced scrutiny for its actions and the portrayal of its influence within [[ukraine|Ukraine]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "armed-forces-of-ukraine",
+    "boryslav",
+    "coal-in-ukraine",
+    "dmytro-yarosh",
+    "euromaidan",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-diaspora",
+    "ukrainian-national-assembly-ukrainian-national-self-defence",
+    "ukrainian-parliamentary-elections",
+    "war-in-donbas"
+  ],
+  "sources": [
+    {
+      "title": "Right Sector — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Right_Sector",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-01",
+  "status": "published"
+}
