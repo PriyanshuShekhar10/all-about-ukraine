@@ -63,6 +63,7 @@
       "bukovina",
       "burgerinitiatief",
       "cabbage-roll",
+      "carpathian-biosphere-reserve",
       "carpathians",
       "categorysteel-industry-in-ukraine",
       "catholic-church-in-ukraine",
@@ -697,6 +698,7 @@
       "burgerinitiatief",
       "cabbage-roll",
       "cabinet-of-ministers-of-ukraine",
+      "carpathian-biosphere-reserve",
       "carpathians",
       "categorysteel-industry-in-ukraine",
       "catholic-church-in-ukraine",
@@ -1412,6 +1414,7 @@
       "bukovina",
       "cabbage-roll",
       "cabinet-of-ministers-of-ukraine",
+      "carpathian-biosphere-reserve",
       "carpathians",
       "categorysteel-industry-in-ukraine",
       "catholic-church-in-ukraine",
@@ -3926,6 +3929,7 @@
       "borshchahivka",
       "borys-filatov",
       "bucha-massacre",
+      "carpathian-biosphere-reserve",
       "catholic-church-in-ukraine",
       "cherkasy",
       "chernihiv-oblast",
@@ -4439,6 +4443,7 @@
       "agriculture-in-ukraine",
       "alina-pash",
       "borzsa",
+      "carpathian-biosphere-reserve",
       "ivano-frankivsk-oblast",
       "karpaty",
       "mukachevo",
@@ -4513,6 +4518,7 @@
       "bohdan-hawrylyshyn",
       "bucha-massacre",
       "cabinet-of-ministers-of-ukraine",
+      "carpathian-biosphere-reserve",
       "chernihiv-oblast",
       "constitution-of-ukraine",
       "dnipropetrovsk-oblast",
@@ -5589,6 +5595,7 @@
       "2019-ukrainian-presidential-election",
       "banking-in-ukraine",
       "borys-tarasyuk",
+      "carpathian-biosphere-reserve",
       "daria-kaleniuk",
       "dmytro-kuleba",
       "euromaidan",
@@ -8068,6 +8075,9 @@
     "ukrainian-opera": [
       "anatoliy-solovyanenko"
     ],
+    "carpathian-biosphere-reserve": [
+      "uzh-river"
+    ],
     "horishni-plavni": [
       "ferrexpo"
     ],
@@ -8357,6 +8367,7 @@
       "borzsa",
       "buchach",
       "bukovel",
+      "carpathian-biosphere-reserve",
       "carpathians",
       "cherkasy",
       "chernihiv",
@@ -9714,6 +9725,12 @@
       "degree": 62
     },
     {
+      "id": "carpathian-biosphere-reserve",
+      "title": "Carpathian Biosphere Reserve",
+      "category": "geography",
+      "degree": 8
+    },
+    {
       "id": "carpathians",
       "title": "Carpathians",
       "category": "geography",
@@ -9897,7 +9914,7 @@
       "id": "coal-in-ukraine",
       "title": "coal in Ukraine",
       "category": "economy",
-      "degree": 468
+      "degree": 469
     },
     {
       "id": "coat-of-arms-of-ukrainiae",
@@ -10419,7 +10436,7 @@
       "id": "full-scale-russo-ukrainian-war",
       "title": "full-scale Russo-Ukrainian war",
       "category": "war",
-      "degree": 179
+      "degree": 180
     },
     {
       "id": "gaidai",
@@ -12273,7 +12290,7 @@
       "id": "president-of-ukraine",
       "title": "President of Ukraine",
       "category": "politics",
-      "degree": 75
+      "degree": 76
     },
     {
       "id": "prime-minister-of-ukraine",
@@ -13131,7 +13148,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 738
+      "degree": 739
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13179,7 +13196,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 652
+      "degree": 653
     },
     {
       "id": "ukrainian-americans",
@@ -13569,7 +13586,7 @@
       "id": "uzh-river",
       "title": "Uzh River",
       "category": "geography",
-      "degree": 9
+      "degree": 10
     },
     {
       "id": "uzhhorod",
@@ -13677,7 +13694,7 @@
       "id": "viktor-yanukovych",
       "title": "Viktor Yanukovych",
       "category": "politics",
-      "degree": 53
+      "degree": 54
     },
     {
       "id": "viktor-yushchenko",
@@ -13935,7 +13952,7 @@
       "id": "zakarpattia-oblast",
       "title": "Zakarpattia Oblast",
       "category": "geography",
-      "degree": 26
+      "degree": 27
     },
     {
       "id": "zaliznyi-port",
@@ -36459,6 +36476,10 @@
     },
     {
       "source": "uzh-river",
+      "target": "carpathian-biosphere-reserve"
+    },
+    {
+      "source": "uzh-river",
       "target": "coal-in-ukraine"
     },
     {
@@ -41072,6 +41093,34 @@
     {
       "source": "maidan-nezalezhnosti",
       "target": "ukrainian"
+    },
+    {
+      "source": "carpathian-biosphere-reserve",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "carpathian-biosphere-reserve",
+      "target": "full-scale-russo-ukrainian-war"
+    },
+    {
+      "source": "carpathian-biosphere-reserve",
+      "target": "president-of-ukraine"
+    },
+    {
+      "source": "carpathian-biosphere-reserve",
+      "target": "ukraine"
+    },
+    {
+      "source": "carpathian-biosphere-reserve",
+      "target": "ukrainian"
+    },
+    {
+      "source": "carpathian-biosphere-reserve",
+      "target": "viktor-yanukovych"
+    },
+    {
+      "source": "carpathian-biosphere-reserve",
+      "target": "zakarpattia-oblast"
     },
     {
       "source": "zhovkva",

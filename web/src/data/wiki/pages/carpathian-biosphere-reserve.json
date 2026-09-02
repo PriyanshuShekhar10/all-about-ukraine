@@ -1,0 +1,93 @@
+{
+  "qid": "Q864741",
+  "slug": "carpathian-biosphere-reserve",
+  "title": "Carpathian Biosphere Reserve",
+  "type": "biosphere reserve",
+  "category": "geography",
+  "aliases": [
+    "CBR",
+    "Karpatskyi biosfernyi zapovidnyk"
+  ],
+  "infobox": {
+    "label": "biosphere reserve",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1968",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "53,630",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.0300, 24.1200",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Carpathian Biosphere Reserve is a significant biosphere reserve located [[coal-in-ukraine|in Ukraine]], established in 1968 and recognized by UNESCO in 1992. It encompasses a vast area of protected landscapes, including primeval beech forests, and plays a vital role in conservation and local community livelihoods.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Carpathian Biosphere Reserve ([[ukrainian|Ukrainian]]: Карпатський біосферний заповідник) is situated in the eastern part of [[zakarpattia-oblast|Zakarpattia Oblast]], [[ukraine|Ukraine]]. It covers a total area of 65,828 hectares (162,660 acres) and consists of eight separate preservation massifs and two botanical zakazniks (Chorna Hora and Yulivska Hora). The reserve is primarily composed of virgin forests, including the largest massif of primeval beech forests in Europe located in the Uholsko-Shyrokoluzhanskyi massif, which spans over 21,000 hectares."
+      ]
+    },
+    {
+      "heading": "History and Development",
+      "paragraphs": [
+        "The Carpathian Biosphere Reserve was established in 1968 and reorganized as a biosphere reserve in 1983. It became part of the UNESCO World Network of Biosphere Reserves in 1992 and had its beech forests inscribed as a UNESCO World Heritage Site in 2007. In 2010, a decree was issued by [[president-of-ukraine|Ukrainian President]] [[viktor-yanukovych|Viktor Yanukovych]] to expand the reserve's territory, which faced delays due to local community opposition and funding issues. The reserve's territory was officially increased by nearly 19,000 hectares in 2025."
+      ]
+    },
+    {
+      "heading": "Humanitarian Role During Conflict",
+      "paragraphs": [
+        "Following the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] in February 2022, the Carpathian Biosphere Reserve provided shelter for hundreds of internally displaced persons (IDPs). Support from the Frankfurt Zoological Society (FZS) included accommodations and essential supplies such as medicines and food. The FZS continues to assist the reserve's operations through various programs, including biodiversity monitoring."
+      ]
+    },
+    {
+      "heading": "Biodiversity and Conservation",
+      "paragraphs": [
+        "The Carpathian Biosphere Reserve is home to a rich diversity of flora and fauna, with 3,022 total plant species recorded, including 197 species listed in the Red Book of Ukraine. The fauna includes 66 mammal species, 195 bird species, and significant populations of large carnivores such as wolves and lynxes. The reserve has been designated an Important Bird Area (IBA) due to its significance for bird populations."
+      ]
+    },
+    {
+      "heading": "Threats and Controversies",
+      "paragraphs": [
+        "The reserve faces threats from proposed developments, such as a large ski resort in the Svydovets massif, which has sparked conflict between conservationists and investors. Additionally, illegal logging remains a significant concern, exacerbated by the ongoing war. These activities threaten the ecological integrity of the reserve and the livelihoods of local communities."
+      ]
+    },
+    {
+      "heading": "Socio-Economic Importance",
+      "paragraphs": [
+        "The Carpathian Biosphere Reserve plays a crucial role in the livelihoods of local communities, where many residents engage in traditional agricultural practices, including cattle and sheep grazing. Access to grazing areas and wood for heating and construction is vital for the local population, which also relies on small-scale tourism and non-timber forest products for additional income."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "president-of-ukraine",
+    "ukraine",
+    "ukrainian",
+    "viktor-yanukovych",
+    "zakarpattia-oblast"
+  ],
+  "sources": [
+    {
+      "title": "Carpathian Biosphere Reserve — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Carpathian_Biosphere_Reserve",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-02",
+  "status": "published"
+}

@@ -46,7 +46,7 @@
     {
       "heading": "Flora and Fauna",
       "paragraphs": [
-        "The Uzh River flows through the East Carpathian Biosphere Reserve, which includes Uzh National Nature Park and Poloniny National Park. The area is noted for its biodiversity, featuring beech and fir forests, and is home to several notable plant species, including Lady Josika's lilac. The river supports various wildlife, including large carnivores such as brown bears, Eurasian lynx, and wolves, as well as salmonid fish like the European grayling."
+        "The Uzh River flows through the East [[carpathian-biosphere-reserve|Carpathian Biosphere Reserve]], which includes Uzh National Nature Park and Poloniny National Park. The area is noted for its biodiversity, featuring beech and fir forests, and is home to several notable plant species, including Lady Josika's lilac. The river supports various wildlife, including large carnivores such as brown bears, Eurasian lynx, and wolves, as well as salmonid fish like the European grayling."
       ]
     },
     {
@@ -58,6 +58,7 @@
   ],
   "links_out": [
     "beskids",
+    "carpathian-biosphere-reserve",
     "coal-in-ukraine",
     "ukraine",
     "ukrainian-carpathians",

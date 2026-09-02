@@ -11595,5 +11595,19 @@
     ],
     "notability": 38,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q864741",
+    "slug": "carpathian-biosphere-reserve",
+    "name": "Carpathian Biosphere Reserve",
+    "wp_title": "Carpathian Biosphere Reserve",
+    "type": "biosphere reserve",
+    "category": "geography",
+    "aliases": [
+      "CBR",
+      "Karpatskyi biosfernyi zapovidnyk"
+    ],
+    "notability": 33,
+    "status": "synthesized"
   }
 ]

@@ -1089,6 +1089,17 @@
     ]
   },
   {
+    "slug": "carpathian-biosphere-reserve",
+    "title": "Carpathian Biosphere Reserve",
+    "type": "biosphere reserve",
+    "category": "geography",
+    "summary": "The Carpathian Biosphere Reserve is a significant biosphere reserve located [[coal-in-ukraine|in Ukraine]], established in 1968 and recognized by UNESCO in 1992. It encompasses a vast area of protected landscapes, including primeval beech forests, and plays a vital role in conservation and local community livelihoods.",
+    "aliases": [
+      "CBR",
+      "Karpatskyi biosfernyi zapovidnyk"
+    ]
+  },
+  {
     "slug": "carpathians",
     "title": "Carpathians",
     "type": "mountain range",
