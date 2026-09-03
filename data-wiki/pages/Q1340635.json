@@ -1,0 +1,84 @@
+{
+  "qid": "Q1340635",
+  "slug": "demographics-of-ukraine",
+  "title": "demographics of Ukraine",
+  "type": "country population",
+  "category": "economy",
+  "aliases": [
+    "population of Ukraine"
+  ],
+  "infobox": {
+    "label": "country population",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "42,501,767",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Location",
+        "value": "Ukraine",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The demographics of Ukraine have undergone significant changes, particularly influenced by historical events, migration trends, and the ongoing impacts of the Russo-Ukrainian war. As of 2026, Ukraine's population is estimated at 36.7 million, a stark decline from nearly 42 million in 2020, primarily due to refugee outflows and low birth rates.",
+  "sections": [
+    {
+      "heading": "Current Population Estimates",
+      "paragraphs": [
+        "According to the United Nations, [[ukraine|Ukraine]]'s population is projected to be 36.7 million by 2026. In July 2023, reports indicated that the population in [[ukrainian|Ukrainian]]-controlled areas may have fallen to 28 million, a significant decrease from the 2020 population of almost 42 million.",
+        "This demographic decline is largely attributed to the ongoing Ukrainian refugee crisis and territorial losses resulting from the [[full-scale-russo-ukrainian-war|Russo-Ukrainian war]], which have led to mass emigration."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "At the end of the 17th century, Ukraine's population was approximately four million. The early 20th century population estimates are based on various sources, with the 1931 figures being academic estimates due to the absence of an official census in [[ukrainian-soviet-socialist-republic|Soviet Ukraine]] during that time."
+      ]
+    },
+    {
+      "heading": "Impact of War and Migration",
+      "paragraphs": [
+        "The demographic crisis [[coal-in-ukraine|in Ukraine]] has been exacerbated by the military conflict that began with the Russian invasion in 2022, leading to approximately 9 million people fleeing the country, marking it as Europe's largest refugee crisis since World War II.",
+        "A study by the Vienna Institute for International Economic Studies in July 2023 projected that Ukraine's population could decline to about 35 million by 2040, representing a 20% decrease from pre-war figures."
+      ]
+    },
+    {
+      "heading": "Fertility Rates and Population Decline",
+      "paragraphs": [
+        "As of 2020, Ukraine's birth rate was recorded at 8.1 live births per 1,000 population, while the death rate was 14.7 deaths per 1,000 population. The fertility rate has fallen below 1.3 since 2021, making it one of the lowest globally.",
+        "In recent years, the birth rate has seen a significant decline, with 2023 witnessing a 28% decrease in births compared to the first half of 2021."
+      ]
+    },
+    {
+      "heading": "Government Responses and Future Projections",
+      "paragraphs": [
+        "To combat population decline, the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] has implemented various policies, including increased child support payments. Despite these efforts, the ongoing conflict and its repercussions are expected to hinder demographic recovery.",
+        "Future projections suggest a potential increase in the fertility rate to 1.60 children per woman by 2030, although this remains contingent on the resolution of current socio-political challenges."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "coal-in-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Demographics of Ukraine — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Ukraine",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-03",
+  "status": "published"
+}

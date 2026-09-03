@@ -101,6 +101,7 @@
       "declaration-of-independence-of-ukraine",
       "decommunization-in-ukraine",
       "defenders-of-ukraine-day",
+      "demographics-of-ukraine",
       "deportation-of-the-crimean-tatars",
       "divisions-of-the-carpathians",
       "dmytro-hnatyuk",
@@ -756,6 +757,7 @@
       "declaration-of-independence-of-ukraine",
       "decommunization-in-ukraine",
       "defenders-of-ukraine-day",
+      "demographics-of-ukraine",
       "denys-shmyhal",
       "deportation-of-the-crimean-tatars",
       "derkach",
@@ -1457,6 +1459,7 @@
       "decentralisation-in-ukraine",
       "decommunization-in-ukraine",
       "defenders-of-ukraine-day",
+      "demographics-of-ukraine",
       "denys-shmyhal",
       "derkach",
       "dmitri-shostakovich",
@@ -3529,6 +3532,7 @@
       "crimea",
       "dance-in-ukraine",
       "declaration-of-independence-of-ukraine",
+      "demographics-of-ukraine",
       "dmytro-hnatyuk",
       "dmytro-kuleba",
       "donetsk",
@@ -3814,6 +3818,7 @@
       "chernobyl-exclusion-zone",
       "constitution-of-ukraine",
       "decommunization-in-ukraine",
+      "demographics-of-ukraine",
       "dniprorudne",
       "donetsk-oblast",
       "dovzhenko-film-studios",
@@ -3942,6 +3947,7 @@
       "cyborgs-heroes-never-die",
       "decommunization-in-ukraine",
       "defenders-of-ukraine-day",
+      "demographics-of-ukraine",
       "dmytro-kuleba",
       "dnipro",
       "dnipropetrovsk-oblast",
@@ -8537,6 +8543,7 @@
       "clairette-blanche",
       "coal-in-ukraine",
       "cyborgs-heroes-never-die",
+      "demographics-of-ukraine",
       "dnipropetrovsk-oblast-state-administration",
       "dniprorudne",
       "donetsk-oblast",
@@ -9722,7 +9729,7 @@
       "id": "cabinet-of-ministers-of-ukraine",
       "title": "Cabinet of Ministers of Ukraine",
       "category": "politics",
-      "degree": 62
+      "degree": 63
     },
     {
       "id": "carpathian-biosphere-reserve",
@@ -9914,7 +9921,7 @@
       "id": "coal-in-ukraine",
       "title": "coal in Ukraine",
       "category": "economy",
-      "degree": 469
+      "degree": 470
     },
     {
       "id": "coat-of-arms-of-ukrainiae",
@@ -10095,6 +10102,12 @@
       "title": "Defenders of Ukraine Day",
       "category": "war",
       "degree": 18
+    },
+    {
+      "id": "demographics-of-ukraine",
+      "title": "demographics of Ukraine",
+      "category": "economy",
+      "degree": 6
     },
     {
       "id": "denys-shmyhal",
@@ -10436,7 +10449,7 @@
       "id": "full-scale-russo-ukrainian-war",
       "title": "full-scale Russo-Ukrainian war",
       "category": "war",
-      "degree": 180
+      "degree": 181
     },
     {
       "id": "gaidai",
@@ -13148,7 +13161,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 739
+      "degree": 740
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13196,7 +13209,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 653
+      "degree": 654
     },
     {
       "id": "ukrainian-americans",
@@ -13490,7 +13503,7 @@
       "id": "ukrainian-soviet-socialist-republic",
       "title": "Ukrainian Soviet Socialist Republic",
       "category": "history",
-      "degree": 126
+      "degree": 127
     },
     {
       "id": "ukrainian-state",
@@ -17833,6 +17846,30 @@
     {
       "source": "ukrainian-soviet-socialist-republic",
       "target": "volhynia"
+    },
+    {
+      "source": "demographics-of-ukraine",
+      "target": "cabinet-of-ministers-of-ukraine"
+    },
+    {
+      "source": "demographics-of-ukraine",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "demographics-of-ukraine",
+      "target": "full-scale-russo-ukrainian-war"
+    },
+    {
+      "source": "demographics-of-ukraine",
+      "target": "ukraine"
+    },
+    {
+      "source": "demographics-of-ukraine",
+      "target": "ukrainian"
+    },
+    {
+      "source": "demographics-of-ukraine",
+      "target": "ukrainian-soviet-socialist-republic"
     },
     {
       "source": "pyrohiv",

@@ -11609,5 +11609,18 @@
     ],
     "notability": 33,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q1340635",
+    "slug": "demographics-of-ukraine",
+    "name": "demographics of Ukraine",
+    "wp_title": "Demographics of Ukraine",
+    "type": "country population",
+    "category": "economy",
+    "aliases": [
+      "population of Ukraine"
+    ],
+    "notability": 27,
+    "status": "synthesized"
   }
 ]

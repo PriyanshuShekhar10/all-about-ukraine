@@ -1757,6 +1757,16 @@
     ]
   },
   {
+    "slug": "demographics-of-ukraine",
+    "title": "demographics of Ukraine",
+    "type": "country population",
+    "category": "economy",
+    "summary": "The demographics of Ukraine have undergone significant changes, particularly influenced by historical events, migration trends, and the ongoing impacts of the Russo-Ukrainian war. As of 2026, Ukraine's population is estimated at 36.7 million, a stark decline from nearly 42 million in 2020, primarily due to refugee outflows and low birth rates.",
+    "aliases": [
+      "population of Ukraine"
+    ]
+  },
+  {
     "slug": "denys-shmyhal",
     "title": "Denys Shmyhal",
     "type": "human",
