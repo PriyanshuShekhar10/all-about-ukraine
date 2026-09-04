@@ -667,6 +667,7 @@
       "battle-of-sievierodonetsk",
       "battle-of-sumy",
       "battle-of-zboriv",
+      "baturyn",
       "beer-in-ukraine",
       "beskids",
       "bessarabia",
@@ -3026,6 +3027,7 @@
       "battle-of-batih",
       "battle-of-lwów",
       "battle-of-poltava",
+      "baturyn",
       "bila-tserkva-raion",
       "bohdan-khmelnytsky",
       "bohdan-lepky",
@@ -3077,6 +3079,7 @@
     ],
     "ivan-mazepa": [
       "battle-of-poltava",
+      "baturyn",
       "bila-tserkva-raion",
       "bohdan-lepky",
       "cossack-hetmanate",
@@ -3635,6 +3638,7 @@
       "administrative-territorial-entity-of-ukraine",
       "battle-of-batih",
       "battle-of-poltava",
+      "baturyn",
       "bohdan-khmelnytsky",
       "bohuslav",
       "chernihiv",
@@ -3814,6 +3818,7 @@
       "administrative-territorial-entity-of-ukraine",
       "anatoly-shariy",
       "antonov",
+      "baturyn",
       "central-election-commission-of-ukraine",
       "chernobyl-exclusion-zone",
       "constitution-of-ukraine",
@@ -4383,6 +4388,7 @@
     "history-of-ukraine": [
       "battle-of-kruty",
       "battle-of-poltava",
+      "baturyn",
       "bohdan-lepky",
       "borys-voznytskyi-lviv-national-art-gallery",
       "cossack-hetmanate",
@@ -4702,6 +4708,7 @@
     ],
     "khmelnytsky-uprising": [
       "battle-of-zboriv",
+      "baturyn",
       "cherkasy",
       "chortkiv",
       "cossack-hetmanate",
@@ -5340,6 +5347,7 @@
       "ukrnafta"
     ],
     "chernihiv-oblast": [
+      "baturyn",
       "chernihiv",
       "kyiv-oblast",
       "leonid-kuchma",
@@ -5970,6 +5978,7 @@
       "2007-ukrainian-parliamentary-election",
       "2019-ukrainian-presidential-election",
       "arsen-avakov",
+      "baturyn",
       "borys-tarasyuk",
       "foreign-relations-of-ukraine",
       "memorial-in-commemoration-of-famines-victims-in-ukraine",
@@ -7064,6 +7073,17 @@
       "ternopil",
       "zboriv"
     ],
+    "nizhyn": [
+      "battle-of-kruty",
+      "baturyn",
+      "chernihiv-oblast",
+      "nikolai-gogol",
+      "ostriv",
+      "sergei-korolev",
+      "state-emergency-service-of-ukraine",
+      "ukrainian-architecture",
+      "yevhen-hutsalo"
+    ],
     "viktor-medvedchuk": [
       "social-democratic-party-of-ukraine-united",
       "vasyl-stus"
@@ -7494,16 +7514,6 @@
     "battle-of-kruty": [
       "chernihiv-oblast",
       "ukrainiansoviet-war"
-    ],
-    "nizhyn": [
-      "battle-of-kruty",
-      "chernihiv-oblast",
-      "nikolai-gogol",
-      "ostriv",
-      "sergei-korolev",
-      "state-emergency-service-of-ukraine",
-      "ukrainian-architecture",
-      "yevhen-hutsalo"
     ],
     "ruslana-lyzhychko": [
       "trembita"
@@ -7948,6 +7958,9 @@
     ],
     "kyiv-city-state-administration": [
       "vitali-klitschko"
+    ],
+    "baturyn": [
+      "pysanka"
     ],
     "easter-egg": [
       "pysanka"
@@ -8977,6 +8990,7 @@
     "culture": [
       "arsenalna",
       "bandura",
+      "baturyn",
       "bohdan-lepky",
       "book-of-wisdom",
       "borscht",
@@ -9504,6 +9518,12 @@
       "degree": 4
     },
     {
+      "id": "baturyn",
+      "title": "Baturyn",
+      "category": "culture",
+      "degree": 11
+    },
+    {
       "id": "beer-in-ukraine",
       "title": "beer in Ukraine",
       "category": "economy",
@@ -9729,7 +9749,7 @@
       "id": "cabinet-of-ministers-of-ukraine",
       "title": "Cabinet of Ministers of Ukraine",
       "category": "politics",
-      "degree": 63
+      "degree": 64
     },
     {
       "id": "carpathian-biosphere-reserve",
@@ -9801,7 +9821,7 @@
       "id": "chernihiv-oblast",
       "title": "Chernihiv Oblast",
       "category": "economy",
-      "degree": 29
+      "degree": 30
     },
     {
       "id": "chernivtsi",
@@ -9945,7 +9965,7 @@
       "id": "cossack-hetmanate",
       "title": "Cossack Hetmanate",
       "category": "history",
-      "degree": 50
+      "degree": 51
     },
     {
       "id": "cossack-mamay",
@@ -10569,7 +10589,7 @@
       "id": "hetman",
       "title": "hetman",
       "category": "history",
-      "degree": 48
+      "degree": 49
     },
     {
       "id": "hetmanate",
@@ -10605,7 +10625,7 @@
       "id": "history-of-ukraine",
       "title": "history of Ukraine",
       "category": "people",
-      "degree": 66
+      "degree": 67
     },
     {
       "id": "history-of-ukrainian-nationality",
@@ -10809,7 +10829,7 @@
       "id": "ivan-mazepa",
       "title": "Ivan Mazepa",
       "category": "people",
-      "degree": 21
+      "degree": 22
     },
     {
       "id": "ivan-sirko",
@@ -10935,7 +10955,7 @@
       "id": "khmelnytsky-uprising",
       "title": "Khmelnytsky Uprising",
       "category": "history",
-      "degree": 36
+      "degree": 37
     },
     {
       "id": "khmelnytskyi",
@@ -11871,7 +11891,7 @@
       "id": "nizhyn",
       "title": "Nizhyn",
       "category": "economy",
-      "degree": 16
+      "degree": 17
     },
     {
       "id": "nova-post",
@@ -12387,7 +12407,7 @@
       "id": "pysanka",
       "title": "pysanka",
       "category": "culture",
-      "degree": 9
+      "degree": 10
     },
     {
       "id": "pysanka-museum",
@@ -13161,7 +13181,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 740
+      "degree": 741
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13713,7 +13733,7 @@
       "id": "viktor-yushchenko",
       "title": "Viktor Yushchenko",
       "category": "people",
-      "degree": 33
+      "degree": 34
     },
     {
       "id": "vinnytsia",
@@ -19166,6 +19186,46 @@
     {
       "source": "zboriv",
       "target": "western-ukraine"
+    },
+    {
+      "source": "baturyn",
+      "target": "cabinet-of-ministers-of-ukraine"
+    },
+    {
+      "source": "baturyn",
+      "target": "chernihiv-oblast"
+    },
+    {
+      "source": "baturyn",
+      "target": "cossack-hetmanate"
+    },
+    {
+      "source": "baturyn",
+      "target": "hetman"
+    },
+    {
+      "source": "baturyn",
+      "target": "history-of-ukraine"
+    },
+    {
+      "source": "baturyn",
+      "target": "ivan-mazepa"
+    },
+    {
+      "source": "baturyn",
+      "target": "khmelnytsky-uprising"
+    },
+    {
+      "source": "baturyn",
+      "target": "nizhyn"
+    },
+    {
+      "source": "baturyn",
+      "target": "ukraine"
+    },
+    {
+      "source": "baturyn",
+      "target": "viktor-yushchenko"
     },
     {
       "source": "chechenrussian-conflict",
@@ -31830,6 +31890,10 @@
     {
       "source": "nestor-the-chronicler",
       "target": "volhynia"
+    },
+    {
+      "source": "pysanka",
+      "target": "baturyn"
     },
     {
       "source": "pysanka",

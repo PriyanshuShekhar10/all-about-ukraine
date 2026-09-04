@@ -1,0 +1,103 @@
+{
+  "qid": "Q149016",
+  "slug": "baturyn",
+  "title": "Baturyn",
+  "type": "city in Ukraine",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "city in Ukraine",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1625",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Soviet Union",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Population",
+        "value": "2,552",
+        "source": "wikidata:P1082"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "700",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "145",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "51.3333, 32.8833",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Baturyn is a historic city located in Chernihiv Oblast, northern Ukraine, on the banks of the Seym River. It is recognized as the former capital of the Cossack Hetmanate and is home to the historical and cultural reserve known as the Hetman's Capital.",
+  "sections": [
+    {
+      "heading": "Geography and Demographics",
+      "paragraphs": [
+        "Baturyn is situated in [[nizhyn|Nizhyn]] Raion of [[chernihiv-oblast|Chernihiv Oblast]], [[ukraine|Ukraine]]. As of 2022, the estimated population of the city is 2,406."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "Baturyn is noted for its role as the capital of the [[cossack-hetmanate|Cossack Hetmanate]] from 1699 to 1708 and again from 1750 to 1764. The city is associated with the historical and cultural reserve known as the [[hetman|Hetman]]'s Capital, which underscores its importance in [[history-of-ukraine|Ukrainian history]]."
+      ]
+    },
+    {
+      "heading": "Early History",
+      "paragraphs": [
+        "Archaeological evidence indicates that a settlement existed in Baturyn as early as the 9th–10th centuries, with a fortified stronghold dating back to the 11th–13th centuries. The settlement was destroyed during the Mongol invasion in 1239. Over the centuries, Baturyn changed hands between various powers, including the Grand Duchy of Lithuania and the Polish–Lithuanian Commonwealth, before becoming a Cossack stronghold during the [[khmelnytsky-uprising|Khmelnytsky Uprising]] of 1648–1657."
+      ]
+    },
+    {
+      "heading": "Cossack Capital",
+      "paragraphs": [
+        "Following its reconstruction, Baturyn became the center of Cossack power in 1669, serving as the capital of the Cossack Hetmanate until 1708. Under Hetman [[ivan-mazepa|Ivan Mazepa]], the city flourished, reaching a population of over 20,000 and featuring significant institutions such as the General Military Chancellery. However, in 1708, Baturyn was sacked by Russian forces, leading to a drastic decline in its population and status."
+      ]
+    },
+    {
+      "heading": "Modern Developments",
+      "paragraphs": [
+        "Baturyn lost its city status in 1923 but regained it in 2008. The city has been recognized for its historical significance, with the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] declaring it a national site of history and culture in June 1993. Restoration efforts, particularly under President [[viktor-yushchenko|Viktor Yushchenko]], have aimed to preserve its historical sites, including the Hetman palace of Kyrylo Rozumovskyi, which was officially reopened in 2009."
+      ]
+    },
+    {
+      "heading": "Cultural Heritage",
+      "paragraphs": [
+        "The Hetman palace of Kyrylo Rozumovskyi is a central feature of Baturyn, showcasing Baroque and Neoclassical architectural styles. The palace has undergone various restoration efforts and is now a venue for cultural events, reflecting Baturyn's rich historical and cultural legacy."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "chernihiv-oblast",
+    "cossack-hetmanate",
+    "hetman",
+    "history-of-ukraine",
+    "ivan-mazepa",
+    "khmelnytsky-uprising",
+    "nizhyn",
+    "ukraine",
+    "viktor-yushchenko"
+  ],
+  "sources": [
+    {
+      "title": "Baturyn — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Baturyn",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-04",
+  "status": "published"
+}
