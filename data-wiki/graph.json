@@ -815,6 +815,7 @@
       "gaidai",
       "galicia",
       "geography-of-ukraine",
+      "george-tuka",
       "gorodok",
       "great-famine",
       "grigory-leps",
@@ -1506,6 +1507,7 @@
       "full-scale-russo-ukrainian-war",
       "gaidai",
       "galicia",
+      "george-tuka",
       "golden-gate",
       "gorodok",
       "green-ukraine",
@@ -2633,6 +2635,7 @@
       "fc-dynamo-kyiv",
       "flag-of-ukraine",
       "full-scale-russo-ukrainian-war",
+      "george-tuka",
       "golden-gate",
       "hanna-malyar",
       "heorhii-narbut",
@@ -4832,6 +4835,7 @@
       "decommunization-in-ukraine",
       "defenders-of-ukraine-day",
       "european-solidarity",
+      "george-tuka",
       "horishni-plavni",
       "ihor-kolomoyskyi",
       "jamala",
@@ -5126,6 +5130,7 @@
       "dnipro",
       "flag-of-ukraine",
       "full-scale-russo-ukrainian-war",
+      "george-tuka",
       "independence-day-of-ukraine",
       "iryna-venediktova",
       "kyiv-post",
@@ -5370,6 +5375,7 @@
       "cyborgs-heroes-never-die",
       "defenders-of-ukraine-day",
       "dmytro-yarosh",
+      "george-tuka",
       "kramatorsk-railway-station-attack",
       "kyiv-city-state-administration",
       "kyivstar",
@@ -5701,6 +5707,7 @@
       "2019-ukrainian-parliamentary-election",
       "battle-of-sievierodonetsk",
       "donetsk-oblast",
+      "george-tuka",
       "karpaty",
       "kharkiv-oblast",
       "kreminna",
@@ -7649,6 +7656,7 @@
     ],
     "kremlin": [
       "boris-nemtsov",
+      "george-tuka",
       "sofia-rotaru",
       "viktor-medvedchuk",
       "yelena-gagarina",
@@ -7729,6 +7737,7 @@
     ],
     "igor-sikorsky-kyiv-polytechnic-institute": [
       "borys-paton",
+      "george-tuka",
       "igor-sikorsky",
       "oleh-skrypka"
     ],
@@ -8925,6 +8934,7 @@
       "fc-zorya-luhansk",
       "first-battle-of-kharkov",
       "full-scale-russo-ukrainian-war",
+      "george-tuka",
       "gromada",
       "gulag",
       "haidamaka",
@@ -9317,7 +9327,7 @@
       "id": "armed-forces-of-ukraine",
       "title": "Armed Forces of Ukraine",
       "category": "politics",
-      "degree": 41
+      "degree": 42
     },
     {
       "id": "arsen-avakov",
@@ -10379,7 +10389,7 @@
       "id": "euromaidan",
       "title": "Euromaidan",
       "category": "history",
-      "degree": 55
+      "degree": 56
     },
     {
       "id": "european-solidarity",
@@ -10487,6 +10497,12 @@
       "id": "geography-of-ukraine",
       "title": "Geography of Ukraine",
       "category": "history",
+      "degree": 9
+    },
+    {
+      "id": "george-tuka",
+      "title": "George Tuka",
+      "category": "war",
       "degree": 9
     },
     {
@@ -10715,7 +10731,7 @@
       "id": "igor-sikorsky-kyiv-polytechnic-institute",
       "title": "Igor Sikorsky Kyiv Polytechnic Institute",
       "category": "politics",
-      "degree": 9
+      "degree": 10
     },
     {
       "id": "ihor-kolomoyskyi",
@@ -11075,7 +11091,7 @@
       "id": "kremlin",
       "title": "Kremlin",
       "category": "war",
-      "degree": 9
+      "degree": 10
     },
     {
       "id": "kropyvnytskyi",
@@ -11141,7 +11157,7 @@
       "id": "kyiv",
       "title": "Kyiv",
       "category": "geography",
-      "degree": 261
+      "degree": 262
     },
     {
       "id": "kyiv-city-ballet",
@@ -11303,7 +11319,7 @@
       "id": "luhansk-oblast",
       "title": "Luhansk Oblast",
       "category": "war",
-      "degree": 24
+      "degree": 25
     },
     {
       "id": "luhansk-peoples-republic",
@@ -12215,7 +12231,7 @@
       "id": "petro-poroshenko",
       "title": "Petro Poroshenko",
       "category": "politics",
-      "degree": 38
+      "degree": 39
     },
     {
       "id": "petrykivka-painting",
@@ -13181,7 +13197,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 741
+      "degree": 742
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13229,7 +13245,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 654
+      "degree": 655
     },
     {
       "id": "ukrainian-americans",
@@ -27198,6 +27214,42 @@
     {
       "source": "national-academy-of-arts-of-ukraine",
       "target": "ukrainian-state"
+    },
+    {
+      "source": "george-tuka",
+      "target": "armed-forces-of-ukraine"
+    },
+    {
+      "source": "george-tuka",
+      "target": "euromaidan"
+    },
+    {
+      "source": "george-tuka",
+      "target": "igor-sikorsky-kyiv-polytechnic-institute"
+    },
+    {
+      "source": "george-tuka",
+      "target": "kremlin"
+    },
+    {
+      "source": "george-tuka",
+      "target": "kyiv"
+    },
+    {
+      "source": "george-tuka",
+      "target": "luhansk-oblast"
+    },
+    {
+      "source": "george-tuka",
+      "target": "petro-poroshenko"
+    },
+    {
+      "source": "george-tuka",
+      "target": "ukraine"
+    },
+    {
+      "source": "george-tuka",
+      "target": "ukrainian"
     },
     {
       "source": "kolomyjka",

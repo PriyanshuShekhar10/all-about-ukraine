@@ -11633,5 +11633,18 @@
     "aliases": [],
     "notability": 49,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q20680017",
+    "slug": "george-tuka",
+    "name": "George Tuka",
+    "wp_title": "George Tuka",
+    "type": "human",
+    "category": "war",
+    "aliases": [
+      "Heorhiy Tuka"
+    ],
+    "notability": 9,
+    "status": "synthesized"
   }
 ]

@@ -1,0 +1,85 @@
+{
+  "qid": "Q20680017",
+  "slug": "george-tuka",
+  "title": "George Tuka",
+  "type": "human",
+  "category": "war",
+  "aliases": [
+    "Heorhiy Tuka"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1963-11-24",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Kyiv",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "Governor of Luhansk Oblast",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "George Tuka is a [[ukrainian|Ukrainian]] politician and activist known for his roles in government and community volunteer movements, particularly during the conflict in Eastern Ukraine. He served as Deputy Minister for the temporarily occupied territories and internally displaced persons and was the governor of Luhansk Oblast.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "George Tuka was born on 24 November 1963 in [[kyiv|Kyiv]], [[ukraine|Ukraine]]. He graduated from the [[igor-sikorsky-kyiv-polytechnic-institute|Kyiv Polytechnic Institute]] in 1986."
+      ]
+    },
+    {
+      "heading": "Political Career",
+      "paragraphs": [
+        "Tuka's political involvement began with the [[euromaidan|Euromaidan]] protests, where he was injured by the Berkut special police force on 18 February 2014. He co-founded the community volunteer movement Narodnyi Tyl and was a co-founder of the political party Ukraine is One Country during the 2014 parliamentary elections.",
+        "On 22 July 2015, President [[petro-poroshenko|Petro Poroshenko]] appointed Tuka as governor of [[luhansk-oblast|Luhansk Oblast]], a position he held until his dismissal on 29 April 2016. Subsequently, he served as Deputy Minister for the temporarily occupied territories and internally displaced persons in the Groysman government from 29 April 2016 to 29 August 2019."
+      ]
+    },
+    {
+      "heading": "Activism and Controversies",
+      "paragraphs": [
+        "Tuka participated in the Arab Spring protests in Egypt, where he resided for two and a half years. He was also involved in the establishment of the website 'Myrotvorets' ('Peacemaker'), which lists individuals labeled as 'separatists' or '[[kremlin|Kremlin]] agents.' Tuka faced scrutiny regarding the site's potential role in the illegal distribution of personal data.",
+        "In response to concerns about the site's activities, he remarked on the significant number of individuals listed, indicating a focus on broader issues of accountability rather than specific cases."
+      ]
+    },
+    {
+      "heading": "Recognition",
+      "paragraphs": [
+        "George Tuka has been awarded the Order of Merit, III grade, acknowledging his contributions to Ukraine."
+      ]
+    },
+    {
+      "heading": "Personal Life",
+      "paragraphs": [
+        "Tuka has a son who has volunteered for the [[armed-forces-of-ukraine|Armed Forces of Ukraine]], highlighting a personal commitment to the nation's defense."
+      ]
+    }
+  ],
+  "links_out": [
+    "armed-forces-of-ukraine",
+    "euromaidan",
+    "igor-sikorsky-kyiv-polytechnic-institute",
+    "kremlin",
+    "kyiv",
+    "luhansk-oblast",
+    "petro-poroshenko",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "George Tuka — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_Tuka",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-05",
+  "status": "published"
+}

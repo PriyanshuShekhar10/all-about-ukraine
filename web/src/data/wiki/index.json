@@ -2423,6 +2423,16 @@
     ]
   },
   {
+    "slug": "george-tuka",
+    "title": "George Tuka",
+    "type": "human",
+    "category": "war",
+    "summary": "George Tuka is a [[ukrainian|Ukrainian]] politician and activist known for his roles in government and community volunteer movements, particularly during the conflict in Eastern Ukraine. He served as Deputy Minister for the temporarily occupied territories and internally displaced persons and was the governor of Luhansk Oblast.",
+    "aliases": [
+      "Heorhiy Tuka"
+    ]
+  },
+  {
     "slug": "golden-gate",
     "title": "Golden Gate",
     "type": "gate",
