@@ -11646,5 +11646,19 @@
     ],
     "notability": 9,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q1197987",
+    "slug": "lysenkoism",
+    "name": "Lysenkoism",
+    "wp_title": "Lysenkoism",
+    "type": "school of thought",
+    "category": "history",
+    "aliases": [
+      "Lysenkovshchina",
+      "Neolamarkism"
+    ],
+    "notability": 33,
+    "status": "synthesized"
   }
 ]

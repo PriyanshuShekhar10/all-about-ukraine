@@ -1,0 +1,68 @@
+{
+  "qid": "Q1197987",
+  "slug": "lysenkoism",
+  "title": "Lysenkoism",
+  "type": "school of thought",
+  "category": "history",
+  "aliases": [
+    "Lysenkovshchina",
+    "Neolamarkism"
+  ],
+  "infobox": {
+    "label": "school of thought",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Soviet Union",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Lysenkoism was a pseudoscientific movement led by Soviet biologist Trofim Lysenko that rejected established genetics and promoted agricultural practices based on Lamarckian principles during the mid-20th century. This ideology had significant implications for scientific research and agricultural policy in the Soviet Union, including Ukraine.",
+  "sections": [
+    {
+      "heading": "Origins and Context",
+      "paragraphs": [
+        "Lysenkoism emerged in the context of a broader ideological struggle between Marxism and Darwinism. In the early 20th century, Mendelian genetics was established as a scientific discipline, but some Marxists viewed Darwinian principles as incompatible with their ideological framework. They favored a form of Lamarckism, which posited that acquired characteristics could be inherited, aligning more closely with Marxist views on social change and collective progress."
+      ]
+    },
+    {
+      "heading": "Lysenko's Theories",
+      "paragraphs": [
+        "In 1928, Trofim Lysenko rejected Mendelian genetics and claimed to have developed agricultural techniques that could significantly increase crop yields. His methods included vernalization, species transformation, and the inheritance of acquired characteristics. Lysenko's assertions, particularly his claim that he could transform Triticum durum into Triticum vulgare, were scientifically unfounded but gained traction within the Soviet agricultural framework."
+      ]
+    },
+    {
+      "heading": "Political Rise and Support",
+      "paragraphs": [
+        "Lysenko's rise to prominence was facilitated by his alignment with Soviet ideology and the Communist Party's goals. His rejection of modern genetics and promotion of rapid environmental adaptation resonated with officials seeking solutions during the agricultural crises of the 1930s. With Joseph [[donetsk|Stalin]]'s backing, Lysenko's theories were propagated through state media, while dissenting scientists faced severe repercussions, including imprisonment and execution."
+      ]
+    },
+    {
+      "heading": "Impact on Science and Agriculture",
+      "paragraphs": [
+        "The promotion of Lysenkoism led to the suppression of genetic research in [[soviet-union|the Soviet Union]], including [[ukraine|Ukraine]], where many biologists were dismissed or persecuted. The official endorsement of Lysenko's ideas resulted in a significant setback for scientific progress in various biological disciplines, as traditional genetics was labeled 'fascist science.' This ideological battle not only affected scientific inquiry but also had dire consequences for agricultural practices and food security in the region."
+      ]
+    },
+    {
+      "heading": "Decline and Legacy",
+      "paragraphs": [
+        "Lysenkoism reached its peak during the late 1940s, particularly after the August 1948 Session of the Academy of Agricultural Sciences, where it was declared the only correct theory. However, the eventual recognition of the failures of Lysenko's methods led to a gradual decline of his influence. The legacy of Lysenkoism remains a cautionary tale regarding the intersection of politics and science, particularly in the context of Soviet agricultural policies that affected Ukraine and its scientific community."
+      ]
+    }
+  ],
+  "links_out": [
+    "donetsk",
+    "soviet-union",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Lysenkoism — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lysenkoism",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-06",
+  "status": "published"
+}

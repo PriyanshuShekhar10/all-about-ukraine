@@ -4107,6 +4107,17 @@
     ]
   },
   {
+    "slug": "lysenkoism",
+    "title": "Lysenkoism",
+    "type": "school of thought",
+    "category": "history",
+    "summary": "Lysenkoism was a pseudoscientific movement led by Soviet biologist Trofim Lysenko that rejected established genetics and promoted agricultural practices based on Lamarckian principles during the mid-20th century. This ideology had significant implications for scientific research and agricultural policy in the Soviet Union, including Ukraine.",
+    "aliases": [
+      "Lysenkovshchina",
+      "Neolamarkism"
+    ]
+  },
+  {
     "slug": "lysychansk",
     "title": "Lysychansk",
     "type": "city in Ukraine",

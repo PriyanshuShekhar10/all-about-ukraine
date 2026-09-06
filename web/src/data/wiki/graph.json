@@ -939,6 +939,7 @@
       "lviv-polytechnic",
       "lviv-theatre-of-opera-and-ballet",
       "lviv-university",
+      "lysenkoism",
       "lysychansk",
       "maidan-nezalezhnosti",
       "makariv",
@@ -4265,6 +4266,7 @@
       "lviv",
       "lviv-polytechnic",
       "lviv-theatre-of-opera-and-ballet",
+      "lysenkoism",
       "lysychansk",
       "maidan-nezalezhnosti",
       "makariv",
@@ -4891,6 +4893,7 @@
       "liberal-party-of-ukraine",
       "luhansk-oblast",
       "luhansk-peoples-republic",
+      "lysenkoism",
       "makiivka",
       "mariupol",
       "mariupol-theatre-airstrike",
@@ -8826,6 +8829,7 @@
       "kievan-rus",
       "kingdom-of-galiciavolhynia",
       "kyiv-metro",
+      "lysenkoism",
       "maslenitsa",
       "mikhail-gorbachev",
       "mikhail-kovalchuk",
@@ -10281,7 +10285,7 @@
       "id": "donetsk",
       "title": "Donetsk",
       "category": "geography",
-      "degree": 72
+      "degree": 73
     },
     {
       "id": "donetsk-international-airport",
@@ -11404,6 +11408,12 @@
       "title": "Lviv University",
       "category": "people",
       "degree": 21
+    },
+    {
+      "id": "lysenkoism",
+      "title": "Lysenkoism",
+      "category": "history",
+      "degree": 3
     },
     {
       "id": "lysychansk",
@@ -12927,7 +12937,7 @@
       "id": "soviet-union",
       "title": "Soviet Union",
       "category": "politics",
-      "degree": 212
+      "degree": 213
     },
     {
       "id": "state-emergency-service-of-ukraine",
@@ -13197,7 +13207,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 742
+      "degree": 743
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -16354,6 +16364,18 @@
     {
       "source": "great-famine",
       "target": "ukrainians"
+    },
+    {
+      "source": "lysenkoism",
+      "target": "donetsk"
+    },
+    {
+      "source": "lysenkoism",
+      "target": "soviet-union"
+    },
+    {
+      "source": "lysenkoism",
+      "target": "ukraine"
     },
     {
       "source": "bohdan-hawrylyshyn",
