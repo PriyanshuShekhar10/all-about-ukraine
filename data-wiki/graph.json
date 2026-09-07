@@ -17,6 +17,7 @@
       "2022-russian-invasion-of-ukraine",
       "20th-congress-of-the-communist-party-of-the-soviet-union",
       "administrative-territorial-entity-of-ukraine",
+      "admiral-makarov",
       "agriculture-in-ukraine",
       "alexander-j-motyl",
       "alina-pash",
@@ -624,6 +625,7 @@
       "2022-russian-invasion-of-ukraine",
       "20th-congress-of-the-communist-party-of-the-soviet-union",
       "administrative-territorial-entity-of-ukraine",
+      "admiral-makarov",
       "agriculture-in-ukraine",
       "alexander-j-motyl",
       "alina-pash",
@@ -4184,6 +4186,7 @@
     "soviet-union": [
       "2004-ukrainian-presidential-election",
       "20th-congress-of-the-communist-party-of-the-soviet-union",
+      "admiral-makarov",
       "alexander-j-motyl",
       "anatoliy-solovyanenko",
       "andrii-yermak",
@@ -8906,6 +8909,7 @@
       "2022-kharkiv-counteroffensive",
       "2022-kherson-counteroffensive",
       "2022-russian-invasion-of-ukraine",
+      "admiral-makarov",
       "alexander-j-motyl",
       "alina-pash",
       "anatoly-shariy",
@@ -9230,6 +9234,12 @@
       "title": "administrative territorial entity of Ukraine",
       "category": "politics",
       "degree": 35
+    },
+    {
+      "id": "admiral-makarov",
+      "title": "Admiral Makarov",
+      "category": "war",
+      "degree": 3
     },
     {
       "id": "agriculture-in-ukraine",
@@ -9955,7 +9965,7 @@
       "id": "coal-in-ukraine",
       "title": "coal in Ukraine",
       "category": "economy",
-      "degree": 470
+      "degree": 471
     },
     {
       "id": "coat-of-arms-of-ukrainiae",
@@ -12937,7 +12947,7 @@
       "id": "soviet-union",
       "title": "Soviet Union",
       "category": "politics",
-      "degree": 213
+      "degree": 214
     },
     {
       "id": "state-emergency-service-of-ukraine",
@@ -13207,7 +13217,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 743
+      "degree": 744
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -17180,6 +17190,18 @@
     {
       "source": "tetiana-chornovol",
       "target": "war-in-donbas"
+    },
+    {
+      "source": "admiral-makarov",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "admiral-makarov",
+      "target": "soviet-union"
+    },
+    {
+      "source": "admiral-makarov",
+      "target": "ukraine"
     },
     {
       "source": "museum-of-the-great-patriotic-war",

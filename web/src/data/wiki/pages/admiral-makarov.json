@@ -1,0 +1,54 @@
+{
+  "qid": "Q1218461",
+  "slug": "admiral-makarov",
+  "title": "Admiral Makarov",
+  "type": "Wikimedia disambiguation page",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "Admiral Makarov refers to various individuals and vessels, with significant connections to naval history and maritime education relevant to [[ukraine|Ukraine]].",
+  "sections": [
+    {
+      "heading": "Notable Individuals",
+      "paragraphs": [
+        "Konstantin Makarov (1931–2011) was a Soviet Admiral of the Fleet, contributing to naval operations during the Soviet era.",
+        "Stepan Makarov (1849–1904) served as a Russian vice admiral and is recognized for his naval strategies and contributions to maritime warfare."
+      ]
+    },
+    {
+      "heading": "Naval Vessels",
+      "paragraphs": [
+        "The Russian frigate Admiral Makarov was commissioned in 2017 and is part of the modern naval fleet, reflecting ongoing maritime developments in the region.",
+        "An icebreaker named Admiral Makarov was completed in 1975, playing a role in Arctic navigation and operations.",
+        "The Russian cruiser Admiral Makarov was in service from 1908 to 1922, representing a significant period in naval history.",
+        "The Soviet cruiser Admiral Makarov (1946) was formerly the German cruiser Nürnberg and was part of the Soviet naval fleet post-World War II.",
+        "Another Soviet cruiser, Admiral Makarov (1970), was a Kresta II-class cruiser that served from 1972 until 1992, during a pivotal time in the Cold War.",
+        "The vessel known as Admiral Makarov was originally the United States Coast Guard ship USCGC Southwind, which was lent to [[soviet-union|the Soviet Union]] from 1945 to 1949.",
+        "MV Admiral Makarov (1939) was a Soviet cargo liner that later became the research vessel Vityaz, contributing to maritime research."
+      ]
+    },
+    {
+      "heading": "Educational Institution",
+      "paragraphs": [
+        "The Admiral Makarov State Maritime Academy is an educational institution that focuses on maritime studies and training, playing a crucial role in developing maritime professionals [[coal-in-ukraine|in Ukraine]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "soviet-union",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Admiral Makarov — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Admiral_Makarov",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-07",
+  "status": "published"
+}

@@ -11660,5 +11660,16 @@
     ],
     "notability": 33,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q1218461",
+    "slug": "admiral-makarov",
+    "name": "Admiral Makarov",
+    "wp_title": "Admiral Makarov",
+    "type": "Wikimedia disambiguation page",
+    "category": "war",
+    "aliases": [],
+    "notability": 6,
+    "status": "synthesized"
   }
 ]
