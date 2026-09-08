@@ -579,6 +579,14 @@
     ]
   },
   {
+    "slug": "battle-of-kharkiv",
+    "title": "Battle of Kharkiv",
+    "type": "Wikimedia disambiguation page",
+    "category": "war",
+    "summary": "The term 'Battle of Kharkiv' encompasses several significant military engagements related to the city of Kharkiv, Ukraine, spanning from World War I to contemporary conflicts, particularly during the ongoing Russian invasion of Ukraine.",
+    "aliases": []
+  },
+  {
     "slug": "battle-of-kiev",
     "title": "Battle of Kiev",
     "type": "battle",

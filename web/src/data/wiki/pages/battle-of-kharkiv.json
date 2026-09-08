@@ -1,0 +1,54 @@
+{
+  "qid": "Q111014417",
+  "slug": "battle-of-kharkiv",
+  "title": "Battle of Kharkiv",
+  "type": "Wikimedia disambiguation page",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "Wikimedia disambiguation page",
+    "fields": []
+  },
+  "summary": "The term 'Battle of Kharkiv' encompasses several significant military engagements related to the city of Kharkiv, Ukraine, spanning from World War I to contemporary conflicts, particularly during the ongoing Russian invasion of Ukraine.",
+  "sections": [
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The [[kharkiv-oblast|Kharkiv]] Operation, which occurred in June 1919, is one of the earliest military actions associated with the city during the tumultuous period following World War I."
+      ]
+    },
+    {
+      "heading": "World War II Engagements",
+      "paragraphs": [
+        "During World War II, Kharkiv was the site of four major battles, each contributing to the city's strategic significance. The [[first-battle-of-kharkov|First Battle of Kharkov]] took place in October 1941, followed by the [[second-battle-of-kharkov|Second Battle of Kharkov]] in May 1942, and the Third Battle of [[kharkiv|Kharkov]] in February 1943.",
+        "The Belgorod–Kharkov offensive operation, also recognized as the Fourth Battle of Kharkov, occurred in August 1943, marking a pivotal moment in the conflict."
+      ]
+    },
+    {
+      "heading": "Recent Conflicts",
+      "paragraphs": [
+        "In the context of the ongoing Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]], the Battle of Kharkiv began in February 2022, highlighting the city's continued strategic importance.",
+        "This was followed by the [[2022-kharkiv-counteroffensive|2022 Kharkiv counteroffensive]], which commenced in September 2022, showcasing [[ukraine|Ukraine]]'s military response to the invasion.",
+        "Looking ahead, the 2024 Kharkiv offensive is anticipated to begin in May 2024, indicating the ongoing military relevance of Kharkiv in the conflict."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-kharkiv-counteroffensive",
+    "first-battle-of-kharkov",
+    "full-scale-russo-ukrainian-war",
+    "kharkiv",
+    "kharkiv-oblast",
+    "second-battle-of-kharkov",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Battle of Kharkiv — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Kharkiv",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-08",
+  "status": "published"
+}

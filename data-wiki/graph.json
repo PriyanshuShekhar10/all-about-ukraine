@@ -660,6 +660,7 @@
       "battle-of-bakhmut",
       "battle-of-donetsk-airport",
       "battle-of-ilovaisk",
+      "battle-of-kharkiv",
       "battle-of-kiev",
       "battle-of-kruty",
       "battle-of-kyiv",
@@ -3937,6 +3938,7 @@
       "banking-in-ukraine",
       "battle-of-bakhmut",
       "battle-of-donetsk-airport",
+      "battle-of-kharkiv",
       "battle-of-kyiv",
       "battle-of-mykolaiv",
       "battle-of-sievierodonetsk",
@@ -4927,6 +4929,7 @@
       "yevhen-konoplyanka"
     ],
     "kharkiv": [
+      "battle-of-kharkiv",
       "belovodskoye",
       "first-battle-of-kharkov",
       "hryhorii-skovoroda",
@@ -5371,6 +5374,89 @@
       "ukrainian-historical-regions",
       "ukrnafta"
     ],
+    "2022-kharkiv-counteroffensive": [
+      "battle-of-kharkiv"
+    ],
+    "first-battle-of-kharkov": [
+      "battle-of-kharkiv"
+    ],
+    "kharkiv-oblast": [
+      "2015-ukrainian-local-elections",
+      "2020-ukrainian-local-elections",
+      "2022-kharkiv-counteroffensive",
+      "andrii-parubii",
+      "antonov",
+      "antonov-airlines",
+      "arsen-avakov",
+      "battle-of-ilovaisk",
+      "battle-of-kharkiv",
+      "beer-in-ukraine",
+      "borys-hrinchenko",
+      "boryspil",
+      "centrenergo",
+      "chuhuiv",
+      "cinema-of-ukraine",
+      "daria-kaleniuk",
+      "dmytro-yavornytsky",
+      "dnipropetrovsk-oblast",
+      "donets",
+      "donetsk-oblast",
+      "energy-in-ukraine",
+      "fine-arts-museum-kharkiv",
+      "hryhorii-skovoroda",
+      "intercession-of-the-theotokos",
+      "iryna-venediktova",
+      "ivan-franko-national-academic-drama-theater",
+      "ivan-kotliarevskyi",
+      "ivan-sirko",
+      "kharkiv",
+      "kharkiv-national-university-of-radioelectronics",
+      "kharkiv-tractor-plant",
+      "kryvyi-rih-metrotram",
+      "kyiv-metro",
+      "luhansk-oblast",
+      "mykola-lysenko",
+      "mykola-voronyi",
+      "nadiya-savchenko",
+      "national-museum-тaras-shevchenko",
+      "national-philharmonic-of-ukraine",
+      "national-university-of-physical-education-and-sport-of-ukraine",
+      "nikolay-aleksandrovich-tikhonov",
+      "nova-post",
+      "oleh-liashko",
+      "oleksandr-dovzhenko",
+      "oles-honchar",
+      "pavlo-tychyna",
+      "pifdenne",
+      "poltava-oblast",
+      "pyriatyn",
+      "radio-ukraine",
+      "roman-catholic-archdiocese-of-lviv",
+      "serhiy-zhadan",
+      "soviet-famine-of-19321933",
+      "soviet-occupation-of-ukraine",
+      "sumy-oblast",
+      "taras-shevchenko-national-university-of-kyiv",
+      "theatre-in-ukraine",
+      "tourism-in-ukraine",
+      "transport-in-ukraine",
+      "ukraine",
+      "ukraine-east",
+      "ukrainian-avant-garde",
+      "ukrainian-contemporary-art",
+      "ukrainian-independence-referendum",
+      "ukrainian-peoples-republic",
+      "ukrainian-rock",
+      "ukrainian-war-of-independence",
+      "ukrainization",
+      "vasyl-symonenko",
+      "women-in-ukraine",
+      "znamianka",
+      "zolochiv"
+    ],
+    "second-battle-of-kharkov": [
+      "battle-of-kharkiv"
+    ],
     "armed-forces-of-ukraine": [
       "2022-kharkiv-counteroffensive",
       "andriy-yarmolenko",
@@ -5540,79 +5626,6 @@
       "iryna-venediktova",
       "mezhyhirya",
       "volodymyr-zelenskyy"
-    ],
-    "kharkiv-oblast": [
-      "2015-ukrainian-local-elections",
-      "2020-ukrainian-local-elections",
-      "2022-kharkiv-counteroffensive",
-      "andrii-parubii",
-      "antonov",
-      "antonov-airlines",
-      "arsen-avakov",
-      "battle-of-ilovaisk",
-      "beer-in-ukraine",
-      "borys-hrinchenko",
-      "boryspil",
-      "centrenergo",
-      "chuhuiv",
-      "cinema-of-ukraine",
-      "daria-kaleniuk",
-      "dmytro-yavornytsky",
-      "dnipropetrovsk-oblast",
-      "donets",
-      "donetsk-oblast",
-      "energy-in-ukraine",
-      "fine-arts-museum-kharkiv",
-      "hryhorii-skovoroda",
-      "intercession-of-the-theotokos",
-      "iryna-venediktova",
-      "ivan-franko-national-academic-drama-theater",
-      "ivan-kotliarevskyi",
-      "ivan-sirko",
-      "kharkiv",
-      "kharkiv-national-university-of-radioelectronics",
-      "kharkiv-tractor-plant",
-      "kryvyi-rih-metrotram",
-      "kyiv-metro",
-      "luhansk-oblast",
-      "mykola-lysenko",
-      "mykola-voronyi",
-      "nadiya-savchenko",
-      "national-museum-тaras-shevchenko",
-      "national-philharmonic-of-ukraine",
-      "national-university-of-physical-education-and-sport-of-ukraine",
-      "nikolay-aleksandrovich-tikhonov",
-      "nova-post",
-      "oleh-liashko",
-      "oleksandr-dovzhenko",
-      "oles-honchar",
-      "pavlo-tychyna",
-      "pifdenne",
-      "poltava-oblast",
-      "pyriatyn",
-      "radio-ukraine",
-      "roman-catholic-archdiocese-of-lviv",
-      "serhiy-zhadan",
-      "soviet-famine-of-19321933",
-      "soviet-occupation-of-ukraine",
-      "sumy-oblast",
-      "taras-shevchenko-national-university-of-kyiv",
-      "theatre-in-ukraine",
-      "tourism-in-ukraine",
-      "transport-in-ukraine",
-      "ukraine",
-      "ukraine-east",
-      "ukrainian-avant-garde",
-      "ukrainian-contemporary-art",
-      "ukrainian-independence-referendum",
-      "ukrainian-peoples-republic",
-      "ukrainian-rock",
-      "ukrainian-war-of-independence",
-      "ukrainization",
-      "vasyl-symonenko",
-      "women-in-ukraine",
-      "znamianka",
-      "zolochiv"
     ],
     "viktor-yanukovych": [
       "2004-ukrainian-presidential-election",
@@ -8922,6 +8935,7 @@
       "battle-of-debaltseve",
       "battle-of-donetsk-airport",
       "battle-of-ilovaisk",
+      "battle-of-kharkiv",
       "battle-of-kyiv",
       "battle-of-mariupol",
       "battle-of-mykolaiv",
@@ -9203,7 +9217,7 @@
       "id": "2022-kharkiv-counteroffensive",
       "title": "2022 Kharkiv counteroffensive",
       "category": "war",
-      "degree": 7
+      "degree": 8
     },
     {
       "id": "2022-kherson-counteroffensive",
@@ -9480,6 +9494,12 @@
       "title": "Battle of Ilovaisk",
       "category": "war",
       "degree": 11
+    },
+    {
+      "id": "battle-of-kharkiv",
+      "title": "Battle of Kharkiv",
+      "category": "war",
+      "degree": 7
     },
     {
       "id": "battle-of-kiev",
@@ -10469,7 +10489,7 @@
       "id": "first-battle-of-kharkov",
       "title": "First Battle of Kharkov",
       "category": "war",
-      "degree": 9
+      "degree": 10
     },
     {
       "id": "first-partition-of-poland",
@@ -10493,7 +10513,7 @@
       "id": "full-scale-russo-ukrainian-war",
       "title": "full-scale Russo-Ukrainian war",
       "category": "war",
-      "degree": 181
+      "degree": 182
     },
     {
       "id": "gaidai",
@@ -10943,7 +10963,7 @@
       "id": "kharkiv",
       "title": "Kharkiv",
       "category": "geography",
-      "degree": 18
+      "degree": 19
     },
     {
       "id": "kharkiv-national-university-of-radioelectronics",
@@ -10955,7 +10975,7 @@
       "id": "kharkiv-oblast",
       "title": "Kharkiv Oblast",
       "category": "geography",
-      "degree": 84
+      "degree": 85
     },
     {
       "id": "kharkiv-tractor-plant",
@@ -12755,7 +12775,7 @@
       "id": "second-battle-of-kharkov",
       "title": "Second Battle of Kharkov",
       "category": "war",
-      "degree": 5
+      "degree": 6
     },
     {
       "id": "second-partition-of-poland",
@@ -13217,7 +13237,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 744
+      "degree": 745
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -15114,6 +15134,34 @@
     {
       "source": "siege-of-chernihiv",
       "target": "ukrainian"
+    },
+    {
+      "source": "battle-of-kharkiv",
+      "target": "2022-kharkiv-counteroffensive"
+    },
+    {
+      "source": "battle-of-kharkiv",
+      "target": "first-battle-of-kharkov"
+    },
+    {
+      "source": "battle-of-kharkiv",
+      "target": "full-scale-russo-ukrainian-war"
+    },
+    {
+      "source": "battle-of-kharkiv",
+      "target": "kharkiv"
+    },
+    {
+      "source": "battle-of-kharkiv",
+      "target": "kharkiv-oblast"
+    },
+    {
+      "source": "battle-of-kharkiv",
+      "target": "second-battle-of-kharkov"
+    },
+    {
+      "source": "battle-of-kharkiv",
+      "target": "ukraine"
     },
     {
       "source": "battle-of-kyiv",
