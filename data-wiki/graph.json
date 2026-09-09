@@ -533,6 +533,7 @@
       "russian-occupation-of-crimea",
       "russiaukraine-relations",
       "russo-ukrainian-war",
+      "sea-of-azov",
       "sergei-korolev",
       "sevastopol",
       "siege-of-mariupol",
@@ -1128,6 +1129,7 @@
       "sarmatians",
       "savchuk",
       "scythians",
+      "sea-of-azov",
       "second-battle-of-kharkov",
       "security-service-of-ukraine",
       "sergei-bubka",
@@ -1791,6 +1793,7 @@
       "samopomich",
       "sarny",
       "savchuk",
+      "sea-of-azov",
       "second-partition-of-poland",
       "security-service-of-ukraine",
       "sergei-bubka",
@@ -2192,6 +2195,7 @@
       "rus-khaganate",
       "rus-people",
       "russiaukraine-relations",
+      "sea-of-azov",
       "siberia",
       "soviet-invasion-of-poland",
       "soviet-union",
@@ -5310,6 +5314,7 @@
       "oleh-sentsov",
       "pripyat",
       "romaniaukraine-relations",
+      "sea-of-azov",
       "sergei-bubka",
       "serhiy-haidai",
       "serhiy-zhadan",
@@ -5540,8 +5545,27 @@
       "mariupol-theatre-airstrike",
       "metinvest",
       "roshen",
+      "sea-of-azov",
       "siege-of-mariupol",
       "ukraine-east"
+    ],
+    "sea-of-azov": [
+      "black-sea-shipping-company",
+      "chornomornaftogaz",
+      "crimea",
+      "donetsk-oblast",
+      "foreign-relations-of-ukraine",
+      "geography-of-ukraine",
+      "henichesk",
+      "kerch-strait-incident",
+      "kherson-oblast",
+      "mariupol",
+      "siege-of-mariupol",
+      "syvash-bay",
+      "ukraine",
+      "ukraine-east",
+      "ukrainian-state",
+      "zaporizhzhia-oblast"
     ],
     "siege-of-mariupol": [
       "azov-brigade",
@@ -5591,6 +5615,7 @@
       "russian-war-crimes",
       "russiaukraine-relations",
       "russo-ukrainian-war",
+      "sea-of-azov",
       "sevastopol",
       "tourism-in-ukraine",
       "ukraine",
@@ -7441,6 +7466,7 @@
       "green-ukraine",
       "history-of-crimea",
       "ivan-aivazovsky",
+      "sea-of-azov",
       "sevastopol",
       "yevpatoriya"
     ],
@@ -8005,6 +8031,9 @@
       "ukrainian-national-womens-league-of-america",
       "vasyl-krychevsky"
     ],
+    "kerch-strait-incident": [
+      "sea-of-azov"
+    ],
     "operation-vistula": [
       "eastern-galicia",
       "organization-of-ukrainian-nationalists",
@@ -8517,6 +8546,7 @@
       "saint-sophia-cathedral",
       "sakhalin",
       "sambir",
+      "sea-of-azov",
       "sevastopol",
       "shatsk-national-natural-park",
       "sheptytskyi",
@@ -9229,7 +9259,7 @@
       "id": "2022-russian-invasion-of-ukraine",
       "title": "2022 Russian invasion of Ukraine",
       "category": "war",
-      "degree": 61
+      "degree": 62
     },
     {
       "id": "20th-congress-of-the-communist-party-of-the-soviet-union",
@@ -9607,7 +9637,7 @@
       "id": "black-sea-shipping-company",
       "title": "Black Sea Shipping Company",
       "category": "economy",
-      "degree": 13
+      "degree": 14
     },
     {
       "id": "bohdan-hawrylyshyn",
@@ -9931,7 +9961,7 @@
       "id": "chornomornaftogaz",
       "title": "Chornomornaftogaz",
       "category": "economy",
-      "degree": 7
+      "degree": 8
     },
     {
       "id": "chortkiv",
@@ -10051,7 +10081,7 @@
       "id": "crimea",
       "title": "Crimea",
       "category": "geography",
-      "degree": 21
+      "degree": 22
     },
     {
       "id": "crimea-crisis",
@@ -10069,7 +10099,7 @@
       "id": "crimean-khanate",
       "title": "Crimean Khanate",
       "category": "history",
-      "degree": 91
+      "degree": 92
     },
     {
       "id": "crimean-tatar",
@@ -10093,7 +10123,7 @@
       "id": "crimean-war",
       "title": "Crimean War",
       "category": "history",
-      "degree": 17
+      "degree": 18
     },
     {
       "id": "cucutenitrypillia-culture",
@@ -10327,7 +10357,7 @@
       "id": "donetsk-oblast",
       "title": "Donetsk Oblast",
       "category": "economy",
-      "degree": 36
+      "degree": 37
     },
     {
       "id": "donetsk-peoples-republic",
@@ -10369,7 +10399,7 @@
       "id": "eastern-europe",
       "title": "Eastern Europe",
       "category": "geography",
-      "degree": 65
+      "degree": 66
     },
     {
       "id": "eastern-galicia",
@@ -10507,7 +10537,7 @@
       "id": "foreign-relations-of-ukraine",
       "title": "foreign relations of Ukraine",
       "category": "politics",
-      "degree": 8
+      "degree": 9
     },
     {
       "id": "full-scale-russo-ukrainian-war",
@@ -10531,7 +10561,7 @@
       "id": "geography-of-ukraine",
       "title": "Geography of Ukraine",
       "category": "history",
-      "degree": 9
+      "degree": 10
     },
     {
       "id": "george-tuka",
@@ -10621,7 +10651,7 @@
       "id": "henichesk",
       "title": "Henichesk",
       "category": "economy",
-      "degree": 15
+      "degree": 16
     },
     {
       "id": "hennadiy-avdyeyenko",
@@ -10957,7 +10987,7 @@
       "id": "kerch-strait-incident",
       "title": "Kerch Strait incident",
       "category": "war",
-      "degree": 8
+      "degree": 10
     },
     {
       "id": "kharkiv",
@@ -10999,7 +11029,7 @@
       "id": "kherson-oblast",
       "title": "Kherson Oblast",
       "category": "politics",
-      "degree": 24
+      "degree": 25
     },
     {
       "id": "khmelnytsky-uprising",
@@ -11491,7 +11521,7 @@
       "id": "mariupol",
       "title": "Mariupol",
       "category": "geography",
-      "degree": 23
+      "degree": 25
     },
     {
       "id": "mariupol-theatre-airstrike",
@@ -12655,7 +12685,7 @@
       "id": "russian-annexation-of-crimea",
       "title": "Russian annexation of Crimea",
       "category": "war",
-      "degree": 58
+      "degree": 59
     },
     {
       "id": "russian-occupation-of-crimea",
@@ -12772,6 +12802,12 @@
       "degree": 20
     },
     {
+      "id": "sea-of-azov",
+      "title": "Sea of Azov",
+      "category": "geography",
+      "degree": 25
+    },
+    {
       "id": "second-battle-of-kharkov",
       "title": "Second Battle of Kharkov",
       "category": "war",
@@ -12883,7 +12919,7 @@
       "id": "siege-of-mariupol",
       "title": "Siege of Mariupol",
       "category": "war",
-      "degree": 19
+      "degree": 20
     },
     {
       "id": "siverskodonetsk",
@@ -13069,7 +13105,7 @@
       "id": "syvash-bay",
       "title": "Syvash Bay",
       "category": "history",
-      "degree": 7
+      "degree": 8
     },
     {
       "id": "taras-bulba",
@@ -13237,7 +13273,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 745
+      "degree": 747
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13249,7 +13285,7 @@
       "id": "ukraine-east",
       "title": "Ukraine east",
       "category": "economy",
-      "degree": 17
+      "degree": 18
     },
     {
       "id": "ukraine-international-airlines",
@@ -13285,7 +13321,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 655
+      "degree": 656
     },
     {
       "id": "ukrainian-americans",
@@ -13585,7 +13621,7 @@
       "id": "ukrainian-state",
       "title": "Ukrainian State",
       "category": "politics",
-      "degree": 41
+      "degree": 42
     },
     {
       "id": "ukrainian-state-film-agency",
@@ -14071,7 +14107,7 @@
       "id": "zaporizhzhia-oblast",
       "title": "Zaporizhzhia Oblast",
       "category": "economy",
-      "degree": 22
+      "degree": 23
     },
     {
       "id": "zaporozhian-cossacks",
@@ -15237,6 +15273,10 @@
     },
     {
       "source": "siege-of-mariupol",
+      "target": "sea-of-azov"
+    },
+    {
+      "source": "siege-of-mariupol",
       "target": "ukraine"
     },
     {
@@ -15686,6 +15726,10 @@
     {
       "source": "syvash-bay",
       "target": "henichesk"
+    },
+    {
+      "source": "syvash-bay",
+      "target": "sea-of-azov"
     },
     {
       "source": "syvash-bay",
@@ -19481,6 +19525,10 @@
     },
     {
       "source": "ukrainian-state",
+      "target": "sea-of-azov"
+    },
+    {
+      "source": "ukrainian-state",
       "target": "ukraine"
     },
     {
@@ -21769,6 +21817,10 @@
     },
     {
       "source": "foreign-relations-of-ukraine",
+      "target": "sea-of-azov"
+    },
+    {
+      "source": "foreign-relations-of-ukraine",
       "target": "transnistria"
     },
     {
@@ -22394,6 +22446,10 @@
     {
       "source": "kherson-oblast",
       "target": "president-of-ukraine"
+    },
+    {
+      "source": "kherson-oblast",
+      "target": "sea-of-azov"
     },
     {
       "source": "kherson-oblast",
@@ -24021,6 +24077,10 @@
     },
     {
       "source": "zaporizhzhia-oblast",
+      "target": "sea-of-azov"
+    },
+    {
+      "source": "zaporizhzhia-oblast",
       "target": "ukraine"
     },
     {
@@ -25158,6 +25218,10 @@
     {
       "source": "ukraine-east",
       "target": "revolution-of-dignity"
+    },
+    {
+      "source": "ukraine-east",
+      "target": "sea-of-azov"
     },
     {
       "source": "ukraine-east",
@@ -26901,6 +26965,10 @@
     },
     {
       "source": "donetsk-oblast",
+      "target": "sea-of-azov"
+    },
+    {
+      "source": "donetsk-oblast",
       "target": "soviet-union"
     },
     {
@@ -27794,6 +27862,10 @@
     {
       "source": "ukraine",
       "target": "russian-annexation-of-crimea"
+    },
+    {
+      "source": "ukraine",
+      "target": "sea-of-azov"
     },
     {
       "source": "ukraine",
@@ -31053,6 +31125,10 @@
     },
     {
       "source": "geography-of-ukraine",
+      "target": "sea-of-azov"
+    },
+    {
+      "source": "geography-of-ukraine",
       "target": "ukraine"
     },
     {
@@ -32616,6 +32692,42 @@
       "target": "ukraine"
     },
     {
+      "source": "sea-of-azov",
+      "target": "2022-russian-invasion-of-ukraine"
+    },
+    {
+      "source": "sea-of-azov",
+      "target": "crimean-khanate"
+    },
+    {
+      "source": "sea-of-azov",
+      "target": "crimean-war"
+    },
+    {
+      "source": "sea-of-azov",
+      "target": "eastern-europe"
+    },
+    {
+      "source": "sea-of-azov",
+      "target": "kerch-strait-incident"
+    },
+    {
+      "source": "sea-of-azov",
+      "target": "mariupol"
+    },
+    {
+      "source": "sea-of-azov",
+      "target": "russian-annexation-of-crimea"
+    },
+    {
+      "source": "sea-of-azov",
+      "target": "ukraine"
+    },
+    {
+      "source": "sea-of-azov",
+      "target": "ukrainian"
+    },
+    {
       "source": "gorodok",
       "target": "eastern-europe"
     },
@@ -33177,6 +33289,10 @@
     },
     {
       "source": "mariupol",
+      "target": "sea-of-azov"
+    },
+    {
+      "source": "mariupol",
       "target": "ukraine"
     },
     {
@@ -33350,6 +33466,10 @@
     {
       "source": "black-sea-shipping-company",
       "target": "odesa"
+    },
+    {
+      "source": "black-sea-shipping-company",
+      "target": "sea-of-azov"
     },
     {
       "source": "black-sea-shipping-company",
@@ -35841,6 +35961,10 @@
     },
     {
       "source": "chornomornaftogaz",
+      "target": "sea-of-azov"
+    },
+    {
+      "source": "chornomornaftogaz",
       "target": "soviet-union"
     },
     {
@@ -37794,6 +37918,10 @@
     {
       "source": "kerch-strait-incident",
       "target": "russian-annexation-of-crimea"
+    },
+    {
+      "source": "kerch-strait-incident",
+      "target": "sea-of-azov"
     },
     {
       "source": "kerch-strait-incident",
@@ -40177,6 +40305,10 @@
     },
     {
       "source": "henichesk",
+      "target": "sea-of-azov"
+    },
+    {
+      "source": "henichesk",
       "target": "syvash-bay"
     },
     {
@@ -40314,6 +40446,10 @@
     {
       "source": "crimea",
       "target": "eastern-europe"
+    },
+    {
+      "source": "crimea",
+      "target": "sea-of-azov"
     },
     {
       "source": "crimea",

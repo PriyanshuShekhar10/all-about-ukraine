@@ -11682,5 +11682,30 @@
     "aliases": [],
     "notability": 7,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q35000",
+    "slug": "sea-of-azov",
+    "name": "Sea of Azov",
+    "wp_title": "Sea of Azov",
+    "type": "sea",
+    "category": "geography",
+    "aliases": [
+      "Azov Sea",
+      "Lake Maeotis",
+      "Lake of Maeotis",
+      "Maeotian Sea",
+      "Maeotian Swamp",
+      "Maeotis Sea",
+      "Meotida",
+      "Sea of Asof",
+      "Sea of Asoff",
+      "Sea of Asov",
+      "Sea of Azof",
+      "Sea of Azoff",
+      "Sea of Maeotis"
+    ],
+    "notability": 132,
+    "status": "synthesized"
   }
 ]

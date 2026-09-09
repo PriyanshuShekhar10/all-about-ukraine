@@ -27,7 +27,7 @@
     {
       "heading": "Geographic Location",
       "paragraphs": [
-        "[[ukraine|Ukraine]] is situated in [[eastern-europe|Eastern Europe]], bordered by the northern shores of the Black Sea and the Sea of Azov. The country shares borders with Belarus to the north, Poland, Slovakia, and Hungary to the west, Moldova and Romania to the southwest, and Russia to the east.",
+        "[[ukraine|Ukraine]] is situated in [[eastern-europe|Eastern Europe]], bordered by the northern shores of the Black Sea and the [[sea-of-azov|Sea of Azov]]. The country shares borders with Belarus to the north, Poland, Slovakia, and Hungary to the west, Moldova and Romania to the southwest, and Russia to the east.",
         "Covering a total area of 603,700 square kilometers (233,100 sq mi), Ukraine possesses an Exclusive Economic Zone of 147,318 square kilometers (56,880 sq mi) in the Black Sea. The total length of Ukraine's land borders is 6,993 kilometers (4,345 mi), with the longest border being with Russia at 1,974 kilometers (1,227 mi)."
       ]
     },
@@ -74,6 +74,7 @@
     "eastern-europe",
     "hoverla",
     "pripyat",
+    "sea-of-azov",
     "ukraine"
   ],
   "sources": [

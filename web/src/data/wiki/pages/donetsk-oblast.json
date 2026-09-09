@@ -59,7 +59,7 @@
     {
       "heading": "Geographical Overview",
       "paragraphs": [
-        "Donetsk Oblast is situated in southeastern [[ukraine|Ukraine]], covering an area of 26,517 km², which represents approximately 4.4% of the country's total area. The region is bordered by [[dnipro|Dnipropetrovsk]] and [[zaporizhzhia|Zaporizhzhia]] Oblasts to the southwest, [[kharkiv-oblast|Kharkiv Oblast]] to the north, [[luhansk-oblast|Luhansk Oblast]] to the northeast, the Rostov Oblast in Russia to the east, and the Sea of Azov to the south.",
+        "Donetsk Oblast is situated in southeastern [[ukraine|Ukraine]], covering an area of 26,517 km², which represents approximately 4.4% of the country's total area. The region is bordered by [[dnipro|Dnipropetrovsk]] and [[zaporizhzhia|Zaporizhzhia]] Oblasts to the southwest, [[kharkiv-oblast|Kharkiv Oblast]] to the north, [[luhansk-oblast|Luhansk Oblast]] to the northeast, the Rostov Oblast in Russia to the east, and the [[sea-of-azov|Sea of Azov]] to the south.",
         "The oblast extends 270 km from north to south and 190 km from east to west, with notable geographical points including Bilosarayska Kosa in the south and Shevchenko of Volnovakha Raion in the west."
       ]
     },
@@ -100,6 +100,7 @@
     "donetsk",
     "kharkiv-oblast",
     "luhansk-oblast",
+    "sea-of-azov",
     "soviet-union",
     "ukraine",
     "ukrainian",

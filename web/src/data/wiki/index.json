@@ -6589,6 +6589,28 @@
     ]
   },
   {
+    "slug": "sea-of-azov",
+    "title": "Sea of Azov",
+    "type": "sea",
+    "category": "geography",
+    "summary": "The Sea of Azov is an inland shelf sea located in [[eastern-europe|Eastern Europe]], connected to the Black Sea via the Strait of Kerch. Bordered by Ukraine to the northwest and southwest, the sea has significant implications for Ukraine's economy and security, particularly in light of ongoing territorial disputes and military conflicts.",
+    "aliases": [
+      "Azov Sea",
+      "Lake Maeotis",
+      "Lake of Maeotis",
+      "Maeotian Sea",
+      "Maeotian Swamp",
+      "Maeotis Sea",
+      "Meotida",
+      "Sea of Asof",
+      "Sea of Asoff",
+      "Sea of Asov",
+      "Sea of Azof",
+      "Sea of Azoff",
+      "Sea of Maeotis"
+    ]
+  },
+  {
     "slug": "second-battle-of-kharkov",
     "title": "Second Battle of Kharkov",
     "type": "battle",

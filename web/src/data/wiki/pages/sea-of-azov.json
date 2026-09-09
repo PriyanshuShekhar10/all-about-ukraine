@@ -1,0 +1,94 @@
+{
+  "qid": "Q35000",
+  "slug": "sea-of-azov",
+  "title": "Sea of Azov",
+  "type": "sea",
+  "category": "geography",
+  "aliases": [
+    "Azov Sea",
+    "Lake Maeotis",
+    "Lake of Maeotis",
+    "Maeotian Sea",
+    "Maeotian Swamp",
+    "Maeotis Sea",
+    "Meotida",
+    "Sea of Asof",
+    "Sea of Asoff",
+    "Sea of Asov",
+    "Sea of Azof",
+    "Sea of Azoff",
+    "Sea of Maeotis"
+  ],
+  "infobox": {
+    "label": "sea",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Russia, Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "37,600",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "46.0000, 37.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Sea of Azov is an inland shelf sea located in [[eastern-europe|Eastern Europe]], connected to the Black Sea via the Strait of Kerch. Bordered by Ukraine to the northwest and southwest, the sea has significant implications for Ukraine's economy and security, particularly in light of ongoing territorial disputes and military conflicts.",
+  "sections": [
+    {
+      "heading": "Geographical Features",
+      "paragraphs": [
+        "The Sea of Azov is characterized as the shallowest sea in the world, with depths ranging from 0.9 to 14 metres (3 to 46 ft). It spans approximately 360 kilometres (220 mi) in length and 180 kilometres (110 mi) in width, covering an area of 39,000 square kilometres (15,000 sq mi). The sea is largely influenced by the inflow of the Don, Kuban, and other rivers, which contribute to its low salinity and high biomass, particularly green algae.",
+        "The sea's bottom is relatively smooth and flat, with a gradual increase in depth toward the center. It features numerous bays, limans, and narrow spits formed by sediment deposits from the rivers."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "In antiquity, the Sea of Azov was known as the Maeotis Swamp and served as a barrier against nomadic migrations. The region has a rich history, including the establishment of the Bosporan Kingdom, which thrived on trade and agriculture.",
+        "The Sea of Azov has been the site of numerous military campaigns, notably during the Russo-Turkish Wars in the late 17th and 18th centuries, where control of the sea was crucial for naval expansion. The [[crimean-war|Crimean War]] (1853–56) also saw significant conflict in the area, as allied forces attempted to disrupt Russian supply lines."
+      ]
+    },
+    {
+      "heading": "21st Century Developments",
+      "paragraphs": [
+        "In December 2003, [[ukraine|Ukraine]] and Russia signed a treaty designating the Sea of Azov and the Kerch Strait as shared internal waters. However, tensions escalated in recent years, particularly following the [[russian-annexation-of-crimea|annexation of Crimea by Russia]] in 2014 and the subsequent military actions in the region.",
+        "In September 2018, Ukraine announced plans to strengthen its naval presence along the Sea of Azov's coast, which became increasingly strategic following the construction of the Crimean Bridge. The situation deteriorated further with the [[kerch-strait-incident|Kerch Strait incident]] in November 2018, when Russia seized three [[ukrainian|Ukrainian]] Navy vessels.",
+        "The conflict intensified with the onset of the [[2022-russian-invasion-of-ukraine|2022 Russian invasion of Ukraine]], leading to the siege and eventual capture of [[mariupol|Mariupol]], which significantly restricted Ukraine's access to the sea."
+      ]
+    },
+    {
+      "heading": "Economic and Strategic Importance",
+      "paragraphs": [
+        "The Sea of Azov holds vital economic significance for Ukraine, particularly for its ports such as Mariupol and Berdiansk, which are crucial for trade and shipping. Control of the sea is also strategically important for Russia, providing a land route to [[crimean-khanate|Crimea]] and facilitating marine traffic.",
+        "The ongoing military presence and territorial disputes in the region underscore the sea's role in the broader geopolitical landscape, particularly regarding Ukraine's sovereignty and security."
+      ]
+    }
+  ],
+  "links_out": [
+    "2022-russian-invasion-of-ukraine",
+    "crimean-khanate",
+    "crimean-war",
+    "eastern-europe",
+    "kerch-strait-incident",
+    "mariupol",
+    "russian-annexation-of-crimea",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Sea of Azov — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sea_of_Azov",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-09",
+  "status": "published"
+}
