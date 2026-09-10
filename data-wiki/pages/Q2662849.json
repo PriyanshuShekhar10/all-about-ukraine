@@ -1,0 +1,78 @@
+{
+  "qid": "Q2662849",
+  "slug": "iryna-bilyk",
+  "title": "Iryna Bilyk",
+  "type": "human",
+  "category": "culture",
+  "aliases": [
+    "Irina Bilyk",
+    "Iryna Biłyk",
+    "Iryna Mykolayivna Bilyk"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1970-04-06",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Kyiv",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Iryna Mykolayivna Bilyk is a prominent Ukrainian singer-songwriter, recognized for her significant contributions to the music [[industry-in-ukraine|industry in Ukraine]]. Born on 6 April 1970 in Kyiv, she has received numerous accolades, including the Order of Princess Olga of the 3rd class and the titles of Merited Artist of Ukraine and People's Artist of Ukraine.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Iryna Bilyk was born on 6 April 1970 in [[kyiv|Kyiv]], [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]. Her parents were engineers employed at an aircraft factory, and she has a younger brother named Serhiy.",
+        "From the age of five, Bilyk engaged in dancing and classical ballet, and by six, she began singing in the children's song ensemble 'Sonechko'. This ensemble allowed her to tour [[soviet-union|the USSR]] and make her first appearance on central television. She composed her first song at the age of ten and later worked as a music teacher after graduating from music school."
+      ]
+    },
+    {
+      "heading": "Musical Career",
+      "paragraphs": [
+        "Bilyk's career began in 1989 when she participated in the [[chervona-ruta|Chervona Ruta]] [[music-of-ukraine|Ukrainian music]] festival. In 1990, she released her first album 'Kuvala Zozulya' with the group 'Tsey Dosh nadovgo'. By 1992, she created her first music video for 'Lyshe Tvoya' and became a laureate at the international festival 'Song Vernissage'.",
+        "Her rise to fame occurred between 1993 and 1998, marked by her successful tours and albums such as 'Ya roskazhu' and 'Tak Prosto'. Bilyk became the most popular singer [[coal-in-ukraine|in Ukraine]] by 1995, performing for President Bill Clinton and receiving multiple awards, including 'Singer of the Year'."
+      ]
+    },
+    {
+      "heading": "Continued Success and International Ventures",
+      "paragraphs": [
+        "In 1999, Bilyk celebrated her 10th anniversary in music with the album 'Krashche: 1988-1998' and held a sold-out concert in London. She ventured into fashion with her clothing line and sought opportunities in the foreign music market, releasing the Polish-language album 'Biłyk' in 2002.",
+        "From 2004 to 2013, Bilyk expanded her repertoire to include Russian songs, with her album 'Lubov. Yad' achieving platinum status. She engaged in charitable efforts through her tours and continued to receive recognition, including the title of People's Artist of [[ukraine|Ukraine]] in 2008."
+      ]
+    },
+    {
+      "heading": "Recent Years and Legacy",
+      "paragraphs": [
+        "Bilyk's song 'Taxi' became a major hit in 2014, remaining at the top of [[ukrainian|Ukrainian]] charts for six months. She continued to release new music and albums, including 'Bez Grima' in 2017, which she described as her most intimate work.",
+        "In 2018, she embarked on a large-scale tour titled 'Bez Grima. The Best. About Love', performing across 35 cities in Ukraine. Bilyk's influence on the Ukrainian music scene has led to her being referred to as the 'Ukrainian Madonna', and she remains a significant figure in contemporary Ukrainian culture."
+      ]
+    }
+  ],
+  "links_out": [
+    "chervona-ruta",
+    "coal-in-ukraine",
+    "industry-in-ukraine",
+    "kyiv",
+    "music-of-ukraine",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Iryna Bilyk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Iryna_Bilyk",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-10",
+  "status": "published"
+}

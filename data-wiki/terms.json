@@ -11707,5 +11707,20 @@
     ],
     "notability": 132,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q2662849",
+    "slug": "iryna-bilyk",
+    "name": "Iryna Bilyk",
+    "wp_title": "Iryna Bilyk",
+    "type": "human",
+    "category": "culture",
+    "aliases": [
+      "Irina Bilyk",
+      "Iryna Biłyk",
+      "Iryna Mykolayivna Bilyk"
+    ],
+    "notability": 50,
+    "status": "synthesized"
   }
 ]

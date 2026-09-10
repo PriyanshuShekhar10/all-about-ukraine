@@ -155,6 +155,7 @@
       "industry-in-ukraine",
       "intercession-of-the-theotokos",
       "irpin",
+      "iryna-bilyk",
       "iryna-venediktova",
       "ivan-franko",
       "ivan-kotliarevskyi",
@@ -857,6 +858,7 @@
       "intermarium",
       "interpipe-group",
       "irpin",
+      "iryna-bilyk",
       "iryna-venediktova",
       "ivan-aivazovsky",
       "ivan-franko",
@@ -1551,6 +1553,7 @@
       "intercession-of-the-theotokos",
       "interpipe-group",
       "irpin",
+      "iryna-bilyk",
       "iryna-venediktova",
       "iryna-vilde",
       "ivan-aivazovsky",
@@ -2657,6 +2660,7 @@
       "independence-day-of-ukraine",
       "intercession-of-the-theotokos",
       "irpin",
+      "iryna-bilyk",
       "ivan-franko",
       "ivan-franko-national-academic-drama-theater",
       "ivan-karabyts",
@@ -3562,6 +3566,7 @@
       "holodomor",
       "ihor-kolomoyskyi",
       "intermarium",
+      "iryna-bilyk",
       "iryna-venediktova",
       "iryna-vilde",
       "ivan-franko-national-academic-drama-theater",
@@ -4256,6 +4261,7 @@
       "ihor-kolomoyskyi",
       "intermarium",
       "interpipe-group",
+      "iryna-bilyk",
       "ivano-frankivsk",
       "ivano-frankivsk-oblast",
       "jamala",
@@ -6663,6 +6669,7 @@
       "cossack-mamay",
       "dakh-daughters",
       "dmytro-bortnianskyi",
+      "iryna-bilyk",
       "khmelnytskyi",
       "kolomyjka",
       "kyiv-city-ballet",
@@ -7676,6 +7683,7 @@
       "zakarpattia"
     ],
     "industry-in-ukraine": [
+      "iryna-bilyk",
       "kryvbas",
       "ukrainian-wine"
     ],
@@ -7771,6 +7779,7 @@
       "artem-sytnyk"
     ],
     "chervona-ruta": [
+      "iryna-bilyk",
       "ivan-malkovych",
       "sofia-rotaru",
       "ukrainian-rock"
@@ -8156,6 +8165,9 @@
     ],
     "horishni-plavni": [
       "ferrexpo"
+    ],
+    "iryna-bilyk": [
+      "alina-pash"
     ],
     "mykola-shchors": [
       "oleksandr-dovzhenko"
@@ -9076,6 +9088,7 @@
       "gritsenko",
       "hetmanate",
       "hopak",
+      "iryna-bilyk",
       "iryna-vilde",
       "ivan-franko-museum",
       "ivan-franko-national-academic-drama-theater",
@@ -9301,7 +9314,7 @@
       "id": "alina-pash",
       "title": "Alina Pash",
       "category": "war",
-      "degree": 10
+      "degree": 11
     },
     {
       "id": "alushta",
@@ -9943,7 +9956,7 @@
       "id": "chervona-ruta",
       "title": "Chervona Ruta",
       "category": "culture",
-      "degree": 10
+      "degree": 11
     },
     {
       "id": "chervonohryhorivka",
@@ -10015,7 +10028,7 @@
       "id": "coal-in-ukraine",
       "title": "coal in Ukraine",
       "category": "economy",
-      "degree": 471
+      "degree": 472
     },
     {
       "id": "coat-of-arms-of-ukrainiae",
@@ -10825,7 +10838,7 @@
       "id": "industry-in-ukraine",
       "title": "Industry in Ukraine",
       "category": "economy",
-      "degree": 5
+      "degree": 6
     },
     {
       "id": "intercession-of-the-theotokos",
@@ -10850,6 +10863,12 @@
       "title": "Irpin",
       "category": "war",
       "degree": 9
+    },
+    {
+      "id": "iryna-bilyk",
+      "title": "Iryna Bilyk",
+      "category": "culture",
+      "degree": 10
     },
     {
       "id": "iryna-venediktova",
@@ -11221,7 +11240,7 @@
       "id": "kyiv",
       "title": "Kyiv",
       "category": "geography",
-      "degree": 262
+      "degree": 263
     },
     {
       "id": "kyiv-city-ballet",
@@ -11713,7 +11732,7 @@
       "id": "music-of-ukraine",
       "title": "music of Ukraine",
       "category": "culture",
-      "degree": 34
+      "degree": 35
     },
     {
       "id": "mykhailo-hrushevskyi",
@@ -13003,7 +13022,7 @@
       "id": "soviet-union",
       "title": "Soviet Union",
       "category": "politics",
-      "degree": 214
+      "degree": 215
     },
     {
       "id": "state-emergency-service-of-ukraine",
@@ -13273,7 +13292,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 747
+      "degree": 748
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13321,7 +13340,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 656
+      "degree": 657
     },
     {
       "id": "ukrainian-americans",
@@ -13615,7 +13634,7 @@
       "id": "ukrainian-soviet-socialist-republic",
       "title": "Ukrainian Soviet Socialist Republic",
       "category": "history",
-      "degree": 127
+      "degree": 128
     },
     {
       "id": "ukrainian-state",
@@ -30832,6 +30851,42 @@
       "target": "ukrainian"
     },
     {
+      "source": "iryna-bilyk",
+      "target": "chervona-ruta"
+    },
+    {
+      "source": "iryna-bilyk",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "iryna-bilyk",
+      "target": "industry-in-ukraine"
+    },
+    {
+      "source": "iryna-bilyk",
+      "target": "kyiv"
+    },
+    {
+      "source": "iryna-bilyk",
+      "target": "music-of-ukraine"
+    },
+    {
+      "source": "iryna-bilyk",
+      "target": "soviet-union"
+    },
+    {
+      "source": "iryna-bilyk",
+      "target": "ukraine"
+    },
+    {
+      "source": "iryna-bilyk",
+      "target": "ukrainian"
+    },
+    {
+      "source": "iryna-bilyk",
+      "target": "ukrainian-soviet-socialist-republic"
+    },
+    {
       "source": "cossack-mamay",
       "target": "coal-in-ukraine"
     },
@@ -37170,6 +37225,10 @@
     {
       "source": "alina-pash",
       "target": "full-scale-russo-ukrainian-war"
+    },
+    {
+      "source": "alina-pash",
+      "target": "iryna-bilyk"
     },
     {
       "source": "alina-pash",
