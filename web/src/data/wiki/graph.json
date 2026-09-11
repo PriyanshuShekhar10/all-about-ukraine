@@ -893,6 +893,7 @@
       "kievan-rus",
       "kingdom-of-galiciavolhynia",
       "kirovohrad-oblast",
+      "kobzar-2",
       "kramatorsk",
       "kramatorsk-railway-station-attack",
       "kremenchuk",
@@ -1586,6 +1587,7 @@
       "kingdom-of-galiciavolhynia",
       "kirovohrad-oblast",
       "kobzar",
+      "kobzar-2",
       "kolomyjka",
       "kramatorsk",
       "kramatorsk-railway-station-attack",
@@ -2669,6 +2671,7 @@
       "judicial-system-of-ukraine",
       "khotyn-fortress",
       "khrushchyovka",
+      "kobzar-2",
       "kryvyi-rih-metrotram",
       "kryzhopil",
       "kyiv-city-ballet",
@@ -5053,6 +5056,7 @@
       "iryna-vilde",
       "ivan-kotliarevskyi",
       "ivan-malkovych",
+      "kobzar-2",
       "kolomyjka",
       "kyiv-national-university-of-culture-and-arts",
       "leonid-kravchuk",
@@ -5096,6 +5100,7 @@
       "ivan-franko-museum",
       "ivan-kotliarevskyi",
       "ivan-malkovych",
+      "kobzar-2",
       "lesya-ukrainka",
       "mikhail-bulgakov",
       "mykhailo-hrushevskyi",
@@ -6885,6 +6890,7 @@
     ],
     "kobzar": [
       "bandura",
+      "kobzar-2",
       "music-of-ukraine",
       "taras-shevchenko"
     ],
@@ -7210,6 +7216,7 @@
       "green-ukraine",
       "holodomor",
       "independence-day-of-ukraine",
+      "kobzar-2",
       "kolomyjka",
       "music-of-ukraine",
       "mykola-leontovych",
@@ -7319,6 +7326,7 @@
     "chyhyryn": [
       "bohdan-khmelnytsky",
       "chyhyryn-raion",
+      "kobzar-2",
       "kremenchuk",
       "zvenyhorodka"
     ],
@@ -9098,6 +9106,7 @@
       "kherson-art-museum",
       "khrushchyovka",
       "kobzar",
+      "kobzar-2",
       "kolomyjka",
       "kryvyi-rih-national-university",
       "kupala-night",
@@ -9998,7 +10007,7 @@
       "id": "chyhyryn",
       "title": "Chyhyryn",
       "category": "geography",
-      "degree": 18
+      "degree": 19
     },
     {
       "id": "chyhyryn-raion",
@@ -11126,7 +11135,13 @@
       "id": "kobzar",
       "title": "kobzar",
       "category": "culture",
-      "degree": 7
+      "degree": 8
+    },
+    {
+      "id": "kobzar-2",
+      "title": "Kobzar",
+      "category": "culture",
+      "degree": 8
     },
     {
       "id": "kolomyjka",
@@ -11240,7 +11255,7 @@
       "id": "kyiv",
       "title": "Kyiv",
       "category": "geography",
-      "degree": 263
+      "degree": 264
     },
     {
       "id": "kyiv-city-ballet",
@@ -13136,7 +13151,7 @@
       "id": "taras-shevchenko",
       "title": "Taras Shevchenko",
       "category": "people",
-      "degree": 51
+      "degree": 52
     },
     {
       "id": "taras-shevchenko-national-university-of-kyiv",
@@ -13292,7 +13307,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 748
+      "degree": 749
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13340,7 +13355,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 657
+      "degree": 658
     },
     {
       "id": "ukrainian-americans",
@@ -13430,7 +13445,7 @@
       "id": "ukrainian-diaspora",
       "title": "Ukrainian diaspora",
       "category": "people",
-      "degree": 20
+      "degree": 21
     },
     {
       "id": "ukrainian-dramatic-theatre-of-maria-zankovetska",
@@ -13520,7 +13535,7 @@
       "id": "ukrainian-literature",
       "title": "Ukrainian literature",
       "category": "culture",
-      "degree": 39
+      "degree": 40
     },
     {
       "id": "ukrainian-museum",
@@ -30793,6 +30808,38 @@
     {
       "source": "bohdan-stupka",
       "target": "vinnytsia"
+    },
+    {
+      "source": "kobzar-2",
+      "target": "chyhyryn"
+    },
+    {
+      "source": "kobzar-2",
+      "target": "kobzar"
+    },
+    {
+      "source": "kobzar-2",
+      "target": "kyiv"
+    },
+    {
+      "source": "kobzar-2",
+      "target": "taras-shevchenko"
+    },
+    {
+      "source": "kobzar-2",
+      "target": "ukraine"
+    },
+    {
+      "source": "kobzar-2",
+      "target": "ukrainian"
+    },
+    {
+      "source": "kobzar-2",
+      "target": "ukrainian-diaspora"
+    },
+    {
+      "source": "kobzar-2",
+      "target": "ukrainian-literature"
     },
     {
       "source": "jamala",

@@ -11722,5 +11722,16 @@
     ],
     "notability": 50,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q2658157",
+    "slug": "kobzar-2",
+    "name": "Kobzar",
+    "wp_title": "Kobzar (poetry collection)",
+    "type": "literary work",
+    "category": "culture",
+    "aliases": [],
+    "notability": 20,
+    "status": "synthesized"
   }
 ]

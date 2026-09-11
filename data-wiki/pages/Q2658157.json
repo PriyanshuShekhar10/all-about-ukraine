@@ -1,0 +1,67 @@
+{
+  "qid": "Q2658157",
+  "slug": "kobzar-2",
+  "title": "Kobzar",
+  "type": "literary work",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "literary work",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1840",
+        "source": "wikidata:P571"
+      }
+    ]
+  },
+  "summary": "Kobzar is a significant collection of poems by Ukrainian poet and painter Taras Shevchenko, first published in 1840 in Saint Petersburg. This work has become emblematic of Ukrainian national identity and literary revival, establishing Shevchenko as a central figure in Ukrainian culture.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "[[kobzar|Kobzar]] ([[ukrainian|Ukrainian]]: Кобзар, meaning 'The bard') is a book of poems authored by [[taras-shevchenko|Taras Shevchenko]], a prominent Ukrainian poet and painter. The collection was first published in 1840 in Saint Petersburg, within the Russian Empire. Shevchenko, who was born in Moryntsi, [[kyiv|Kyiv]] Governorate, is often referred to as The Kobzar, a title that signifies both a social role in Ukrainian culture and the broader significance of his work in the context of Ukrainian national and literary revival."
+      ]
+    },
+    {
+      "heading": "Content and Editions",
+      "paragraphs": [
+        "The initial publication of Kobzar included eight poems: 'Думи мої, думи мої, лихо мені з вами' (My thoughts, my thoughts, you are my doom), 'Перебендя' (Perebendya), 'Катерина' (Kateryna), 'Тополя' (Poplar tree), 'Думка' (Thought), 'Нащо мені чорні брови' (Why should I have Black Eyebrows), 'До Основ'яненка' (To Osnovyanenko), and 'Іван Підкова' (Ivan Pidkova), as well as 'Тарасова ніч' (Taras's night).",
+        "During Shevchenko's lifetime, three editions of Kobzar were released: in 1840, 1844, and 1860. The latter two editions included the poem 'Hajdamaki', which was published in 1841. The 1844 edition was titled 'Чигиринський Кобзар і Гайдамаки' ('[[chyhyryn|Chyhyryn]] Kobzar and Hajdamaki')."
+      ]
+    },
+    {
+      "heading": "Censorship and Impact",
+      "paragraphs": [
+        "Censorship imposed by the Russian Empire led to the suppression of Shevchenko's poetry, resulting in the publication of his works in regions outside the Empire's control, such as Prague and areas now part of Germany. After Shevchenko's arrest in 1847, Kobzar was banned and confiscated, making surviving copies rare.",
+        "Only a few copies of the original 1840 edition remain, with one preserved in the National Library of [[ukraine|Ukraine]] named after Vernadsky and others in various museums and libraries worldwide."
+      ]
+    },
+    {
+      "heading": "Later Editions and Legacy",
+      "paragraphs": [
+        "Subsequent editions of Kobzar appeared throughout the 19th and early 20th centuries, including a notable publication in 1861 in the magazine Osnova, which featured 69 poems by Shevchenko. A more comprehensive edition was published in 1867, compiled by M. I. Kostomarov and G.S. Vashkevich.",
+        "The Prague edition in 1876 included many previously unpublished works, and further translations and adaptations appeared in the [[ukrainian-diaspora|Ukrainian diaspora]] and beyond. The Kobzar remains a foundational text in [[ukrainian-literature|Ukrainian literature]] and is celebrated for its cultural significance."
+      ]
+    }
+  ],
+  "links_out": [
+    "chyhyryn",
+    "kobzar",
+    "kyiv",
+    "taras-shevchenko",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-diaspora",
+    "ukrainian-literature"
+  ],
+  "sources": [
+    {
+      "title": "Kobzar (poetry collection) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kobzar_(poetry_collection)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-11",
+  "status": "published"
+}
