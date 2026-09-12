@@ -1,0 +1,84 @@
+{
+  "qid": "Q425765",
+  "slug": "ukrainian-village",
+  "title": "Ukrainian Village",
+  "type": "neighborhood",
+  "category": "economy",
+  "aliases": [
+    "Ukrainian Village, Chicago"
+  ],
+  "infobox": {
+    "label": "neighborhood",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "United States",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Head of government",
+        "value": "Rahm Emanuel",
+        "source": "wikidata:P6"
+      },
+      {
+        "label": "Coordinates",
+        "value": "41.8960, -87.6837",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Ukrainian Village is a neighborhood in Chicago, recognized for its significant [[ukrainian-americans|Ukrainian American]] population and cultural institutions, serving as a central hub for nearly 70,000 Ukrainians in the greater Chicago area.",
+  "sections": [
+    {
+      "heading": "Geographical Context",
+      "paragraphs": [
+        "Ukrainian Village is situated on the near west side of Chicago, bordered by Division Street to the north, Grand Avenue to the south, Western Avenue to the west, and Damen Avenue to the east. Some maps extend its western boundary to Campbell Street. It is part of the West Town community area."
+      ]
+    },
+    {
+      "heading": "Historical Development",
+      "paragraphs": [
+        "Originally, Ukrainian Village was farmland and predominantly inhabited by German Americans in the mid-19th century. However, with the influx of Slavic immigrants in the late 19th century, the neighborhood transformed significantly. The establishment of an elevated train line in 1895 facilitated access to workplaces, encouraging dense settlement by [[ukrainians|Ukrainians]] who were familiar with the Polish community nearby.",
+        "Today, the [[ukrainian|Ukrainian]] community in the Chicago metropolitan area is notably concentrated in Ukrainian Village, which houses various cultural and religious institutions, including three major Ukrainian churches, financial institutions, and the [[ukrainian-national-museum|Ukrainian National Museum]]."
+      ]
+    },
+    {
+      "heading": "Cultural Institutions",
+      "paragraphs": [
+        "Ukrainian Village is home to numerous cultural institutions that reflect its rich heritage. These include the Ukrainian Cultural Center, the [[ukrainian-institute|Ukrainian Institute]] of Modern Art, and a Ukrainian-language grammar school. The neighborhood also features many Ukrainian-owned businesses, restaurants, and youth organizations.",
+        "Although the area has maintained a middle-class demographic largely composed of older Eastern European residents, it faces challenges from gentrification affecting the broader West Town community."
+      ]
+    },
+    {
+      "heading": "Religious Significance",
+      "paragraphs": [
+        "The neighborhood features several significant churches, including St. Nicholas Ukrainian Catholic Cathedral, which was the first [[ukrainian-greek-catholic-church|Ukrainian Greek Catholic church]] in the area. Sts. Volodymyr and Olha Ukrainian Catholic Parish was established in 1968 to preserve Ukrainian traditions, while St. Volodymyr Ukrainian Orthodox Cathedral, founded in 1916, represents the Eastern Orthodox faith predominant [[coal-in-ukraine|in Ukraine]].",
+        "Holy Trinity Russian Orthodox Cathedral, commissioned by St. John Kochurov and designed by Louis Sullivan, is also a notable landmark within the community."
+      ]
+    },
+    {
+      "heading": "Ukrainian Village District",
+      "paragraphs": [
+        "On December 4, 2002, the Ukrainian Village District was designated as a Chicago Landmark District, focusing on Haddon Avenue, Thomas Street, and Cortez Street, among others. This designation was extended in 2005 and again on April 11, 2007, highlighting the area's cultural and historical significance."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ukrainian",
+    "ukrainian-americans",
+    "ukrainian-greek-catholic-church",
+    "ukrainian-institute",
+    "ukrainian-national-museum",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Ukrainian Village, Chicago — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Village,_Chicago",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-12",
+  "status": "published"
+}

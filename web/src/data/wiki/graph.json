@@ -416,6 +416,7 @@
       "ukrainian-socialist-party",
       "ukrainian-soviet-socialist-republic",
       "ukrainian-state-film-agency",
+      "ukrainian-village",
       "ukrainian-wine",
       "ukrainian-world-congress",
       "ukrainians",
@@ -1916,6 +1917,7 @@
       "ukrainian-state",
       "ukrainian-state-film-agency",
       "ukrainian-traditional-costumes",
+      "ukrainian-village",
       "ukrainian-war-of-independence",
       "ukrainian-wine",
       "ukrainian-womens-union",
@@ -3253,6 +3255,7 @@
       "ukrainian-peoples-republic",
       "ukrainian-state",
       "ukrainian-traditional-costumes",
+      "ukrainian-village",
       "ukrainian-womens-union",
       "ukrainian-world-congress",
       "ukrainians-in-italy",
@@ -6186,6 +6189,7 @@
       "saint-georges-cathedral",
       "shche-ne-vmerla-ukrainy-i-slava-i-volia",
       "ukrainian-orthodox-church-moscow-patriarchate",
+      "ukrainian-village",
       "volhynia",
       "yavoriv"
     ],
@@ -6954,7 +6958,8 @@
     "ukrainian-institute": [
       "mariinskyi-park",
       "ukrainian-contemporary-art",
-      "ukrainian-institute-of-national-remembrance"
+      "ukrainian-institute-of-national-remembrance",
+      "ukrainian-village"
     ],
     "executed-renaissance": [
       "les-kurbas"
@@ -8104,6 +8109,12 @@
     "ukrainian-world-congress": [
       "ukrainian-canadian-congress"
     ],
+    "ukrainian-americans": [
+      "ukrainian-village"
+    ],
+    "ukrainian-national-museum": [
+      "ukrainian-village"
+    ],
     "categorysteel-industry-in-ukraine": [
       "illich-steel-iron-works"
     ],
@@ -8259,6 +8270,9 @@
     ],
     "olesko": [
       "olesko-castle"
+    ],
+    "ukrainian-village": [
+      "ukrainian-national-museum"
     ],
     "kolomyjka": [
       "dance-in-ukraine"
@@ -8706,6 +8720,7 @@
       "ukrainian-dramatic-theatre-of-maria-zankovetska",
       "ukrainian-exchange",
       "ukrainian-railways",
+      "ukrainian-village",
       "ukrainian-wine",
       "ukrainska-pravda",
       "ukrnafta",
@@ -10037,7 +10052,7 @@
       "id": "coal-in-ukraine",
       "title": "coal in Ukraine",
       "category": "economy",
-      "degree": 472
+      "degree": 473
     },
     {
       "id": "coat-of-arms-of-ukrainiae",
@@ -13355,13 +13370,13 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 658
+      "degree": 659
     },
     {
       "id": "ukrainian-americans",
       "title": "Ukrainian Americans",
       "category": "politics",
-      "degree": 6
+      "degree": 7
     },
     {
       "id": "ukrainian-architecture",
@@ -13487,7 +13502,7 @@
       "id": "ukrainian-greek-catholic-church",
       "title": "Ukrainian Greek Catholic Church",
       "category": "culture",
-      "degree": 20
+      "degree": 21
     },
     {
       "id": "ukrainian-ground-forces",
@@ -13517,7 +13532,7 @@
       "id": "ukrainian-institute",
       "title": "Ukrainian Institute",
       "category": "politics",
-      "degree": 7
+      "degree": 8
     },
     {
       "id": "ukrainian-institute-of-national-remembrance",
@@ -13553,7 +13568,7 @@
       "id": "ukrainian-national-museum",
       "title": "Ukrainian National Museum",
       "category": "people",
-      "degree": 7
+      "degree": 9
     },
     {
       "id": "ukrainian-national-revival",
@@ -13670,6 +13685,12 @@
       "degree": 15
     },
     {
+      "id": "ukrainian-village",
+      "title": "Ukrainian Village",
+      "category": "economy",
+      "degree": 8
+    },
+    {
       "id": "ukrainian-war-of-independence",
       "title": "Ukrainian War of Independence",
       "category": "history",
@@ -13697,7 +13718,7 @@
       "id": "ukrainians",
       "title": "Ukrainians",
       "category": "people",
-      "degree": 147
+      "degree": 148
     },
     {
       "id": "ukrainians-in-italy",
@@ -34570,6 +34591,34 @@
       "target": "ukrainian"
     },
     {
+      "source": "ukrainian-village",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "ukrainian-village",
+      "target": "ukrainian"
+    },
+    {
+      "source": "ukrainian-village",
+      "target": "ukrainian-americans"
+    },
+    {
+      "source": "ukrainian-village",
+      "target": "ukrainian-greek-catholic-church"
+    },
+    {
+      "source": "ukrainian-village",
+      "target": "ukrainian-institute"
+    },
+    {
+      "source": "ukrainian-village",
+      "target": "ukrainian-national-museum"
+    },
+    {
+      "source": "ukrainian-village",
+      "target": "ukrainians"
+    },
+    {
       "source": "vasyl-stus",
       "target": "coal-in-ukraine"
     },
@@ -40700,6 +40749,10 @@
     {
       "source": "ukrainian-national-museum",
       "target": "ukrainian-museum"
+    },
+    {
+      "source": "ukrainian-national-museum",
+      "target": "ukrainian-village"
     },
     {
       "source": "ukrainian-national-museum",

@@ -7879,7 +7879,7 @@
     "title": "Ukrainian National Museum",
     "type": "national museum",
     "category": "people",
-    "summary": "The Ukrainian National Museum (UNM) is situated in the Ukrainian Village neighborhood of Chicago, USA, and serves as a repository for a diverse range of Ukrainian cultural artifacts, artworks, and historical materials.",
+    "summary": "The Ukrainian National Museum (UNM) is situated in the [[ukrainian-village|Ukrainian Village]] neighborhood of Chicago, USA, and serves as a repository for a diverse range of Ukrainian cultural artifacts, artworks, and historical materials.",
     "aliases": []
   },
   {
@@ -8063,6 +8063,16 @@
     "category": "culture",
     "summary": "Ukrainian traditional costumes reflect the rich cultural heritage of ethnic Ukrainians, characterized by distinct garments such as the vyshyvanka, sashes, and vinok flower crowns. The clothing styles vary across the four macroregions of Ukraine, showcasing differences in gender, social status, and local influences.",
     "aliases": []
+  },
+  {
+    "slug": "ukrainian-village",
+    "title": "Ukrainian Village",
+    "type": "neighborhood",
+    "category": "economy",
+    "summary": "Ukrainian Village is a neighborhood in Chicago, recognized for its significant [[ukrainian-americans|Ukrainian American]] population and cultural institutions, serving as a central hub for nearly 70,000 Ukrainians in the greater Chicago area.",
+    "aliases": [
+      "Ukrainian Village, Chicago"
+    ]
   },
   {
     "slug": "ukrainian-war-of-independence",

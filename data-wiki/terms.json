@@ -11733,5 +11733,18 @@
     "aliases": [],
     "notability": 20,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q425765",
+    "slug": "ukrainian-village",
+    "name": "Ukrainian Village",
+    "wp_title": "Ukrainian Village, Chicago",
+    "type": "neighborhood",
+    "category": "economy",
+    "aliases": [
+      "Ukrainian Village, Chicago"
+    ],
+    "notability": 8,
+    "status": "synthesized"
   }
 ]

@@ -25,7 +25,7 @@
       }
     ]
   },
-  "summary": "The Ukrainian National Museum (UNM) is situated in the Ukrainian Village neighborhood of Chicago, USA, and serves as a repository for a diverse range of Ukrainian cultural artifacts, artworks, and historical materials.",
+  "summary": "The Ukrainian National Museum (UNM) is situated in the [[ukrainian-village|Ukrainian Village]] neighborhood of Chicago, USA, and serves as a repository for a diverse range of Ukrainian cultural artifacts, artworks, and historical materials.",
   "sections": [
     {
       "heading": "Foundation and Collections",
@@ -65,6 +65,7 @@
     "ukrainian",
     "ukrainian-embroidery",
     "ukrainian-museum",
+    "ukrainian-village",
     "ukrainians"
   ],
   "sources": [
