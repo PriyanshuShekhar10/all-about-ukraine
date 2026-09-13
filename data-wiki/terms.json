@@ -11746,5 +11746,18 @@
     ],
     "notability": 8,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q1425651",
+    "slug": "kyiv-reservoir",
+    "name": "Kyiv Reservoir",
+    "wp_title": "Kyiv Reservoir",
+    "type": "reservoir",
+    "category": "geography",
+    "aliases": [
+      "Kyiv Sea"
+    ],
+    "notability": 30,
+    "status": "synthesized"
   }
 ]

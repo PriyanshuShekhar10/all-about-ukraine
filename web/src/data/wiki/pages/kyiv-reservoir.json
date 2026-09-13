@@ -1,0 +1,83 @@
+{
+  "qid": "Q1425651",
+  "slug": "kyiv-reservoir",
+  "title": "Kyiv Reservoir",
+  "type": "reservoir",
+  "category": "geography",
+  "aliases": [
+    "Kyiv Sea"
+  ],
+  "infobox": {
+    "label": "reservoir",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine, Belarus",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "922",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Elevation (m)",
+        "value": "99",
+        "source": "wikidata:P2044"
+      },
+      {
+        "label": "Coordinates",
+        "value": "50.9064, 30.4994",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Kyiv Reservoir, also known as the Kyiv Sea, is a significant water reservoir situated on the Dnipro River in Ukraine, covering an area of 922 square kilometers. Established between 1964 and 1966, it serves multiple purposes including hydroelectricity generation and irrigation, while also presenting environmental and safety concerns.",
+  "sections": [
+    {
+      "heading": "Geographical and Physical Characteristics",
+      "paragraphs": [
+        "The Kyiv Reservoir, referred to in [[ukrainian|Ukrainian]] as Київське водосховище and locally known as Київське море, is located on the [[dnieper|Dnipro River]] [[coal-in-ukraine|in Ukraine]]. The reservoir spans an area of 922 square kilometers (356 square miles) within the [[kyiv-oblast|Kyiv Oblast]] and is named after the capital city of [[kyiv|Kyiv]], situated to the south.",
+        "Measuring 110 kilometers in length and 12 kilometers in width, the reservoir has a depth ranging from four to eight meters. It holds a total volume of 3.7 cubic kilometers (0.89 cubic miles) with a usable volume of 1.2 cubic kilometers (0.29 cubic miles)."
+      ]
+    },
+    {
+      "heading": "Construction and Purpose",
+      "paragraphs": [
+        "The reservoir was formed between 1964 and 1966 following the construction of the dam for the Kyiv Hydroelectric Power Plant at Vyshhorod. Its primary uses include hydroelectricity generation, industrial and public water consumption, and irrigation."
+      ]
+    },
+    {
+      "heading": "Environmental Impact",
+      "paragraphs": [
+        "The creation of the Kyiv Reservoir, along with other reservoirs such as the Kakhovka Reservoir, has facilitated a deep-water navigation route on the Dnipro River. However, it has also led to significant environmental issues, including reduced water flow velocity that affects oxygen levels and disrupts aquatic ecosystems. Additionally, the flooding caused by the reservoir's formation submerged several nearby villages, including Teremtsi, which faced evacuation during the [[chernobyl-disaster|Chernobyl disaster]] in 1986."
+      ]
+    },
+    {
+      "heading": "Safety Concerns",
+      "paragraphs": [
+        "The Kyiv Reservoir poses a potential risk of catastrophic flooding if its dam were to fail. Following the [[chernobyl|Chernobyl]] nuclear disaster in 1986, the reservoir's bottom silt became contaminated with radionuclides, raising concerns about the environmental implications of draining the reservoir. Such actions could potentially release radioactive dust into the atmosphere, impacting Europe.",
+        "Concerns regarding the dam's security have been raised intermittently, particularly during the [[kyiv-offensive|Kyiv offensive]] in February 2022 when Russian forces briefly seized control of the power plant. Ukrainian forces regained control shortly after, and there were reports of intercepted missiles aimed at the dam, highlighting ongoing safety issues."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernobyl",
+    "chernobyl-disaster",
+    "coal-in-ukraine",
+    "dnieper",
+    "kyiv",
+    "kyiv-oblast",
+    "kyiv-offensive",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Kyiv Reservoir — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kyiv_Reservoir",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-13",
+  "status": "published"
+}

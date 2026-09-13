@@ -3805,6 +3805,16 @@
     ]
   },
   {
+    "slug": "kyiv-reservoir",
+    "title": "Kyiv Reservoir",
+    "type": "reservoir",
+    "category": "geography",
+    "summary": "The Kyiv Reservoir, also known as the Kyiv Sea, is a significant water reservoir situated on the Dnipro River in Ukraine, covering an area of 922 square kilometers. Established between 1964 and 1966, it serves multiple purposes including hydroelectricity generation and irrigation, while also presenting environmental and safety concerns.",
+    "aliases": [
+      "Kyiv Sea"
+    ]
+  },
+  {
     "slug": "kyiv-zhuliany-international-airport",
     "title": "Kyiv Zhuliany International Airport",
     "type": "international airport",
