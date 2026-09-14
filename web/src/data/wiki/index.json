@@ -2072,6 +2072,18 @@
     ]
   },
   {
+    "slug": "donetsk-national-technical-university",
+    "title": "Donetsk National Technical University",
+    "type": "university",
+    "category": "geography",
+    "summary": "Donetsk National Technical University (DonNTU) is the largest and oldest higher education institution in the Donbas region of [[ukraine|Ukraine]], established in 1921. Due to the ongoing [[full-scale-russo-ukrainian-war|Russo-Ukrainian war]], the university operates in a split format, with a Ukrainian-controlled campus in Drohobych and a Russian-controlled campus in Donetsk.",
+    "aliases": [
+      "DNTU",
+      "DonNTU",
+      "Donetsk Polytechnic Institute"
+    ]
+  },
+  {
     "slug": "donetsk-oblast",
     "title": "Donetsk Oblast",
     "type": "oblast of Ukraine",

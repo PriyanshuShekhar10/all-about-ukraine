@@ -1,0 +1,100 @@
+{
+  "qid": "Q1968183",
+  "slug": "donetsk-national-technical-university",
+  "title": "Donetsk National Technical University",
+  "type": "university",
+  "category": "geography",
+  "aliases": [
+    "DNTU",
+    "DonNTU",
+    "Donetsk Polytechnic Institute"
+  ],
+  "infobox": {
+    "label": "university",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1921-05-30",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Donetsk, Pokrovsk",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "48.2781, 37.1783",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "Donetsk National Technical University (DonNTU) is the largest and oldest higher education institution in the Donbas region of [[ukraine|Ukraine]], established in 1921. Due to the ongoing [[full-scale-russo-ukrainian-war|Russo-Ukrainian war]], the university operates in a split format, with a Ukrainian-controlled campus in Drohobych and a Russian-controlled campus in Donetsk.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Founded in 1921, Donetsk National Technical University was the first higher education institution in the [[donbas|Donbas]] region. Notably, [[nikita-khrushchev|Nikita Khrushchev]] attended the university during its early years.",
+        "In 1941, the university temporarily relocated to Prokopyevsk, RSFSR (modern-day Russia). Following the loss of [[cabinet-of-ministers-of-ukraine|Ukrainian government]] control over [[donetsk|Donetsk]] in 2014 amid the [[war-in-donbas|war in Donbas]], the university was divided into two branches: one remaining in Donetsk and the other moving to Pokrovsk.",
+        "As of 2022, the Donetsk National Technical University has been accredited in Russia, with graduates receiving diplomas recognized by Russian authorities. In December 2023, the Russian branch won a gold medal at a competitive programming championship.",
+        "On 28 February 2024, a Russian missile attack partially destroyed the temporary building of the [[ukrainian|Ukrainian]] campus in Pokrovsk, prompting the relocation of its activities first to [[lutsk|Lutsk]] and subsequently to [[drohobych|Drohobych]] in [[lviv-oblast|Lviv Oblast]]."
+      ]
+    },
+    {
+      "heading": "Structure",
+      "paragraphs": [
+        "Donetsk National Technical University is recognized as the first technical university [[coal-in-ukraine|in Ukraine]] and serves as a prominent educational institution in the Donbas region. The university accommodates approximately 27,000 students across seven faculties, offering 60 different specializations.",
+        "The academic staff includes 28 correspondent members and academicians from engineering academies, along with 18 honorary researchers and professors. Several faculty members are recognized as honorary and full members of international organizations and academies, with some receiving support from the Soros Fund."
+      ]
+    },
+    {
+      "heading": "Cooperation",
+      "paragraphs": [
+        "The Russian branch of DonNTU maintains over 110 cooperation agreements with universities worldwide. It features an office of the Siemens company and offers engineering programs in German, French, and English.",
+        "A Polish faculty has been established, and thirty professors from foreign institutions hold the title of Honorary Doctors of DonNTU. The university also has a reading room sponsored by the Goethe Institute from Germany.",
+        "Donetsk National Technical University is a member of the European Association of Universities (EAU) and participates in numerous international organizations and programs, including the World Union of Mine Surveyors and the European Association for International Education."
+      ]
+    },
+    {
+      "heading": "Notable People",
+      "paragraphs": [
+        "The university has produced several notable figures in various fields. Academics include Oleksandr Anopriyenko and [[mykola-azarov|Mykola Azarov]], the latter being a former [[prime-minister-of-ukraine|Prime Minister of Ukraine]].",
+        "Alumni of DonNTU include [[ivano-frankivsk|Stanislav]] Aseyev, a writer and human rights activist; Nikita Khrushchev, the former First Secretary of the Communist Party of [[soviet-union|the Soviet Union]]; and [[viktor-yanukovych|Viktor Yanukovych]], the fourth [[president-of-ukraine|President of Ukraine]]."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "coal-in-ukraine",
+    "donbas",
+    "donetsk",
+    "drohobych",
+    "full-scale-russo-ukrainian-war",
+    "ivano-frankivsk",
+    "lutsk",
+    "lviv-oblast",
+    "mykola-azarov",
+    "nikita-khrushchev",
+    "president-of-ukraine",
+    "prime-minister-of-ukraine",
+    "soviet-union",
+    "ukraine",
+    "ukrainian",
+    "viktor-yanukovych",
+    "war-in-donbas"
+  ],
+  "sources": [
+    {
+      "title": "Donetsk National Technical University — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Donetsk_National_Technical_University",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-14",
+  "status": "published"
+}

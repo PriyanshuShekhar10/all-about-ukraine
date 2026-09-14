@@ -116,6 +116,7 @@
       "dniprorudne",
       "donets",
       "donetsk",
+      "donetsk-national-technical-university",
       "dovzhenko-film-studios",
       "drohobych",
       "dtek",
@@ -789,6 +790,7 @@
       "donets",
       "donetsk",
       "donetsk-international-airport",
+      "donetsk-national-technical-university",
       "donetsk-oblast",
       "donetsk-peoples-republic",
       "dovzhenko-film-studios",
@@ -1493,6 +1495,7 @@
       "donbas",
       "donets",
       "donetsk-international-airport",
+      "donetsk-national-technical-university",
       "donetsk-oblast",
       "donetsk-peoples-republic",
       "dovzhenko-film-studios",
@@ -2453,6 +2456,7 @@
       "20th-congress-of-the-communist-party-of-the-soviet-union",
       "battle-of-kiev",
       "deportation-of-the-crimean-tatars",
+      "donetsk-national-technical-university",
       "gulag",
       "hopak",
       "khrushchyovka",
@@ -2518,6 +2522,7 @@
       "bakhmut",
       "battle-of-sievierodonetsk",
       "coal-in-ukraine",
+      "donetsk-national-technical-university",
       "full-scale-russo-ukrainian-war",
       "igor-girkin",
       "kreminna",
@@ -2846,6 +2851,7 @@
     "lutsk": [
       "beer-in-ukraine",
       "chervona-ruta",
+      "donetsk-national-technical-university",
       "lutsk-raion",
       "oksana-zabuzhko",
       "roman-catholic-archdiocese-of-lviv",
@@ -2952,6 +2958,7 @@
     "lviv-oblast": [
       "boryslav",
       "denys-shmyhal",
+      "donetsk-national-technical-university",
       "drohobych",
       "ivan-franko",
       "ivano-frankivsk-oblast",
@@ -3851,6 +3858,7 @@
       "decommunization-in-ukraine",
       "demographics-of-ukraine",
       "dniprorudne",
+      "donetsk-national-technical-university",
       "donetsk-oblast",
       "dovzhenko-film-studios",
       "energoatom",
@@ -3988,6 +3996,7 @@
       "dnipropetrovsk-oblast-state-administration",
       "donbas",
       "donetsk",
+      "donetsk-national-technical-university",
       "donetsk-peoples-republic",
       "eastern-galicia",
       "electricity-in-ukraine",
@@ -4253,6 +4262,7 @@
       "dmytro-pavlychko",
       "dmytro-yarosh",
       "dniester",
+      "donetsk-national-technical-university",
       "donetsk-oblast",
       "eastern-europe",
       "economy-of-ukraine",
@@ -4567,6 +4577,7 @@
       "constitution-of-ukraine",
       "dnipropetrovsk-oblast",
       "dnipropetrovsk-oblast-state-administration",
+      "donetsk-national-technical-university",
       "ivano-frankivsk-oblast",
       "judicial-system-of-ukraine",
       "kherson",
@@ -4900,6 +4911,7 @@
       "deportation-of-the-crimean-tatars",
       "donets",
       "donetsk-international-airport",
+      "donetsk-national-technical-university",
       "donetsk-oblast",
       "energy-in-ukraine",
       "executed-renaissance",
@@ -5683,6 +5695,7 @@
       "carpathian-biosphere-reserve",
       "daria-kaleniuk",
       "dmytro-kuleba",
+      "donetsk-national-technical-university",
       "euromaidan",
       "foreign-relations-of-ukraine",
       "human-rights-in-ukraine",
@@ -5730,6 +5743,7 @@
       "donets",
       "donetsk",
       "donetsk-international-airport",
+      "donetsk-national-technical-university",
       "donetsk-oblast",
       "donetsk-peoples-republic",
       "economy-of-ukraine",
@@ -6043,6 +6057,7 @@
       "yulia-tymoshenko"
     ],
     "mykola-azarov": [
+      "donetsk-national-technical-university",
       "prime-minister-of-ukraine"
     ],
     "viktor-yushchenko": [
@@ -6277,6 +6292,7 @@
     "ivano-frankivsk": [
       "chernivtsi-oblast",
       "dniester-canyon",
+      "donetsk-national-technical-university",
       "eastern-galicia",
       "galicia",
       "halych",
@@ -6745,6 +6761,7 @@
     "drohobych": [
       "boryslav",
       "dmytro-yarosh",
+      "donetsk-national-technical-university",
       "ivan-franko",
       "lviv-oblast",
       "prykarpattia",
@@ -7054,6 +7071,7 @@
     "prime-minister-of-ukraine": [
       "cabinet-of-ministers-of-ukraine",
       "denys-shmyhal",
+      "donetsk-national-technical-university",
       "leonid-kuchma",
       "mykola-azarov",
       "national-security-and-defense-council-of-ukraine",
@@ -8187,6 +8205,9 @@
     "religion-in-ukraine": [
       "ukrainian-greek-catholic-church"
     ],
+    "donetsk-national-technical-university": [
+      "anatoliy-solovyanenko"
+    ],
     "ukrainian-opera": [
       "anatoliy-solovyanenko"
     ],
@@ -8507,6 +8528,7 @@
       "donbas",
       "donets",
       "donetsk",
+      "donetsk-national-technical-university",
       "eastern-europe",
       "fastiv",
       "galicia",
@@ -9362,7 +9384,7 @@
       "id": "anatoliy-solovyanenko",
       "title": "Anatoliy Solovyanenko",
       "category": "people",
-      "degree": 12
+      "degree": 13
     },
     {
       "id": "anatoly-shariy",
@@ -9872,7 +9894,7 @@
       "id": "cabinet-of-ministers-of-ukraine",
       "title": "Cabinet of Ministers of Ukraine",
       "category": "politics",
-      "degree": 64
+      "degree": 65
     },
     {
       "id": "carpathian-biosphere-reserve",
@@ -10064,7 +10086,7 @@
       "id": "coal-in-ukraine",
       "title": "coal in Ukraine",
       "category": "economy",
-      "degree": 474
+      "degree": 475
     },
     {
       "id": "coat-of-arms-of-ukrainiae",
@@ -10382,7 +10404,7 @@
       "id": "donbas",
       "title": "Donbas",
       "category": "geography",
-      "degree": 62
+      "degree": 63
     },
     {
       "id": "donets",
@@ -10394,13 +10416,19 @@
       "id": "donetsk",
       "title": "Donetsk",
       "category": "geography",
-      "degree": 73
+      "degree": 74
     },
     {
       "id": "donetsk-international-airport",
       "title": "Donetsk International Airport",
       "category": "war",
       "degree": 8
+    },
+    {
+      "id": "donetsk-national-technical-university",
+      "title": "Donetsk National Technical University",
+      "category": "geography",
+      "degree": 19
     },
     {
       "id": "donetsk-oblast",
@@ -10424,7 +10452,7 @@
       "id": "drohobych",
       "title": "Drohobych",
       "category": "economy",
-      "degree": 22
+      "degree": 23
     },
     {
       "id": "dtek",
@@ -10592,7 +10620,7 @@
       "id": "full-scale-russo-ukrainian-war",
       "title": "full-scale Russo-Ukrainian war",
       "category": "war",
-      "degree": 182
+      "degree": 183
     },
     {
       "id": "gaidai",
@@ -10976,7 +11004,7 @@
       "id": "ivano-frankivsk",
       "title": "Ivano-Frankivsk",
       "category": "geography",
-      "degree": 33
+      "degree": 34
     },
     {
       "id": "ivano-frankivsk-national-medical-university",
@@ -11468,7 +11496,7 @@
       "id": "lutsk",
       "title": "Lutsk",
       "category": "geography",
-      "degree": 16
+      "degree": 17
     },
     {
       "id": "lutsk-raion",
@@ -11516,7 +11544,7 @@
       "id": "lviv-oblast",
       "title": "Lviv Oblast",
       "category": "politics",
-      "degree": 55
+      "degree": 56
     },
     {
       "id": "lviv-polytechnic",
@@ -11792,7 +11820,7 @@
       "id": "mykola-azarov",
       "title": "Mykola Azarov",
       "category": "politics",
-      "degree": 15
+      "degree": 16
     },
     {
       "id": "mykola-hlushchenko",
@@ -12020,7 +12048,7 @@
       "id": "nikita-khrushchev",
       "title": "Nikita Khrushchev",
       "category": "history",
-      "degree": 18
+      "degree": 19
     },
     {
       "id": "nikolai-gogol",
@@ -12476,13 +12504,13 @@
       "id": "president-of-ukraine",
       "title": "President of Ukraine",
       "category": "politics",
-      "degree": 76
+      "degree": 77
     },
     {
       "id": "prime-minister-of-ukraine",
       "title": "Prime Minister of Ukraine",
       "category": "politics",
-      "degree": 24
+      "degree": 25
     },
     {
       "id": "pripyat",
@@ -13070,7 +13098,7 @@
       "id": "soviet-union",
       "title": "Soviet Union",
       "category": "politics",
-      "degree": 215
+      "degree": 216
     },
     {
       "id": "state-emergency-service-of-ukraine",
@@ -13340,7 +13368,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 749
+      "degree": 750
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13388,7 +13416,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 660
+      "degree": 661
     },
     {
       "id": "ukrainian-americans",
@@ -13892,7 +13920,7 @@
       "id": "viktor-yanukovych",
       "title": "Viktor Yanukovych",
       "category": "politics",
-      "degree": 54
+      "degree": 55
     },
     {
       "id": "viktor-yushchenko",
@@ -14030,7 +14058,7 @@
       "id": "war-in-donbas",
       "title": "War in Donbas",
       "category": "war",
-      "degree": 39
+      "degree": 40
     },
     {
       "id": "west-ukrainian-national-university",
@@ -26337,6 +26365,78 @@
       "target": "zaporozhian-cossacks"
     },
     {
+      "source": "donetsk-national-technical-university",
+      "target": "cabinet-of-ministers-of-ukraine"
+    },
+    {
+      "source": "donetsk-national-technical-university",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "donetsk-national-technical-university",
+      "target": "donbas"
+    },
+    {
+      "source": "donetsk-national-technical-university",
+      "target": "donetsk"
+    },
+    {
+      "source": "donetsk-national-technical-university",
+      "target": "drohobych"
+    },
+    {
+      "source": "donetsk-national-technical-university",
+      "target": "full-scale-russo-ukrainian-war"
+    },
+    {
+      "source": "donetsk-national-technical-university",
+      "target": "ivano-frankivsk"
+    },
+    {
+      "source": "donetsk-national-technical-university",
+      "target": "lutsk"
+    },
+    {
+      "source": "donetsk-national-technical-university",
+      "target": "lviv-oblast"
+    },
+    {
+      "source": "donetsk-national-technical-university",
+      "target": "mykola-azarov"
+    },
+    {
+      "source": "donetsk-national-technical-university",
+      "target": "nikita-khrushchev"
+    },
+    {
+      "source": "donetsk-national-technical-university",
+      "target": "president-of-ukraine"
+    },
+    {
+      "source": "donetsk-national-technical-university",
+      "target": "prime-minister-of-ukraine"
+    },
+    {
+      "source": "donetsk-national-technical-university",
+      "target": "soviet-union"
+    },
+    {
+      "source": "donetsk-national-technical-university",
+      "target": "ukraine"
+    },
+    {
+      "source": "donetsk-national-technical-university",
+      "target": "ukrainian"
+    },
+    {
+      "source": "donetsk-national-technical-university",
+      "target": "viktor-yanukovych"
+    },
+    {
+      "source": "donetsk-national-technical-university",
+      "target": "war-in-donbas"
+    },
+    {
       "source": "independence-day-of-ukraine",
       "target": "euromaidan"
     },
@@ -36975,6 +37075,10 @@
     {
       "source": "anatoliy-solovyanenko",
       "target": "donetsk"
+    },
+    {
+      "source": "anatoliy-solovyanenko",
+      "target": "donetsk-national-technical-university"
     },
     {
       "source": "anatoliy-solovyanenko",

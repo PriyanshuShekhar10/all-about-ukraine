@@ -11759,5 +11759,20 @@
     ],
     "notability": 30,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q1968183",
+    "slug": "donetsk-national-technical-university",
+    "name": "Donetsk National Technical University",
+    "wp_title": "Donetsk National Technical University",
+    "type": "university",
+    "category": "geography",
+    "aliases": [
+      "DNTU",
+      "DonNTU",
+      "Donetsk Polytechnic Institute"
+    ],
+    "notability": 17,
+    "status": "synthesized"
   }
 ]
