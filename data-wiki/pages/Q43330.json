@@ -1,0 +1,82 @@
+{
+  "qid": "Q43330",
+  "slug": "mikheil-saakashvili",
+  "title": "Mikheil Saakashvili",
+  "type": "human",
+  "category": "people",
+  "aliases": [
+    "Mikhail Saakashvili",
+    "Mixeil Saak'ashvili"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1967-12-21",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Tbilisi",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "Governor of Odesa Oblast, Member of the Parliament of Georgia",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Mikheil Saakashvili is a Georgian-Ukrainian politician who served as the third president of Georgia from January 2004 to November 2013 and held the position of governor of Ukraine's Odesa Oblast from May 2015 to November 2016. His political career is marked by significant reforms in Georgia and a notable connection to Ukraine's political landscape.",
+  "sections": [
+    {
+      "heading": "Early Life and Education",
+      "paragraphs": [
+        "Mikheil Saakashvili was born on 21 December 1967 in Tbilisi, the capital of the then Georgian Soviet Socialist Republic. His father, Nikoloz Saakashvili, is a physician, and his mother, Giuli Alasania, was a historian. During his university years, he completed a shortened military service with the Soviet Border Troops at [[boryspil|Boryspil]] Airport [[coal-in-ukraine|in Ukraine]] from 1989 to 1990. Saakashvili graduated from the Institute of International Relations of the [[taras-shevchenko-national-university-of-kyiv|Taras Shevchenko National University of Kyiv]] in 1992, where he developed a friendship with future [[president-of-ukraine|Ukrainian President]] [[petro-poroshenko|Petro Poroshenko]].",
+        "While in Ukraine, he participated in the October 1990 student protest known as the '[[revolution-on-granite|Revolution on Granite]].' Saakashvili later worked as a human rights officer for the interim State Council of Georgia and received a fellowship from the United States State Department, culminating in an LL.M. from Columbia Law School in 1994."
+      ]
+    },
+    {
+      "heading": "Political Career in Georgia",
+      "paragraphs": [
+        "Saakashvili entered Georgian politics in 1995 as a member of Parliament and served as Minister of Justice under President Eduard Shevardnadze. He founded the United National Movement party in 2001, which became a significant force in Georgian politics. In 2003, he played a pivotal role in the Rose Revolution, which led to the ousting of Shevardnadze and his own election as president in 2004.",
+        "As president, Saakashvili implemented extensive reforms aimed at reducing corruption and improving the economy, including a significant reduction in taxes and the dismissal of many civil servants. However, his administration faced criticism over police brutality and human rights abuses."
+      ]
+    },
+    {
+      "heading": "Governorship in Ukraine",
+      "paragraphs": [
+        "In May 2015, Saakashvili was appointed governor of [[ukraine|Ukraine]]'s [[odesa-oblast|Odesa Oblast]], a position he held until November 2016. His tenure was marked by efforts to combat corruption and implement reforms in the region. Saakashvili's connection to Ukraine was further solidified when he was granted [[ukrainian|Ukrainian]] citizenship in 2019 by [[volodymyr-zelenskyy|President Volodymyr Zelenskyy]], who later appointed him to lead the National Reform Council in May 2020."
+      ]
+    },
+    {
+      "heading": "Legal Issues and Return to Georgia",
+      "paragraphs": [
+        "Following his presidency in Georgia, Saakashvili faced legal challenges, including criminal charges filed against him in 2014. In 2018, he was sentenced in absentia to six years in prison for various offenses, including ordering the beating of an opposition politician. After a period of statelessness, he returned to Ukraine in 2019 and resumed his political activities.",
+        "In October 2021, Saakashvili announced his return to Georgia after an eight-year absence but was promptly arrested upon arrival. He began serving his prison sentence, and since May 2022, he has been receiving treatment in a civilian clinic in Tbilisi."
+      ]
+    }
+  ],
+  "links_out": [
+    "boryspil",
+    "coal-in-ukraine",
+    "odesa-oblast",
+    "petro-poroshenko",
+    "president-of-ukraine",
+    "revolution-on-granite",
+    "taras-shevchenko-national-university-of-kyiv",
+    "ukraine",
+    "ukrainian",
+    "volodymyr-zelenskyy"
+  ],
+  "sources": [
+    {
+      "title": "Mikheil Saakashvili — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mikheil_Saakashvili",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-15",
+  "status": "published"
+}

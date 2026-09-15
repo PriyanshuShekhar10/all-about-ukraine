@@ -11774,5 +11774,19 @@
     ],
     "notability": 17,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q43330",
+    "slug": "mikheil-saakashvili",
+    "name": "Mikheil Saakashvili",
+    "wp_title": "Mikheil Saakashvili",
+    "type": "human",
+    "category": "people",
+    "aliases": [
+      "Mikhail Saakashvili",
+      "Mixeil Saak'ashvili"
+    ],
+    "notability": 121,
+    "status": "synthesized"
   }
 ]

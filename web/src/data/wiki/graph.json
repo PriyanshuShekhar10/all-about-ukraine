@@ -229,6 +229,7 @@
       "mezhyhirya",
       "mikhail-bulgakov",
       "mikhail-gorbachev",
+      "mikheil-saakashvili",
       "ministry-of-defence-of-ukraine",
       "ministry-of-education-and-science-of-ukraine",
       "ministry-of-finance-of-ukraine",
@@ -964,6 +965,7 @@
       "mikhail-bulgakov",
       "mikhail-gorbachev",
       "mikhail-lomonosov",
+      "mikheil-saakashvili",
       "ministry-of-defence-of-ukraine",
       "ministry-of-economy",
       "ministry-of-education-and-science-of-ukraine",
@@ -1658,6 +1660,7 @@
       "mikhail-bulgakov",
       "mikhail-gorbachev",
       "mikhail-lomonosov",
+      "mikheil-saakashvili",
       "ministry-of-defence-of-ukraine",
       "ministry-of-economy",
       "ministry-of-education-and-science-of-ukraine",
@@ -3540,6 +3543,7 @@
       "agriculture-in-ukraine",
       "izmail",
       "kirovohrad-oblast",
+      "mikheil-saakashvili",
       "mykolaiv-oblast",
       "mykolaiv-raion",
       "odesa",
@@ -4590,6 +4594,7 @@
       "lviv-national-academy-of-arts",
       "mariupol-theatre-airstrike",
       "mezhyhirya",
+      "mikheil-saakashvili",
       "ministry-of-defence-of-ukraine",
       "ministry-of-foreign-affairs-of-ukraine",
       "ministry-of-internal-affairs-of-ukraine",
@@ -4880,6 +4885,7 @@
       "ihor-kolomoyskyi",
       "jamala",
       "kerch-strait-incident",
+      "mikheil-saakashvili",
       "ministry-of-internal-affairs-of-ukraine",
       "nadiya-savchenko",
       "oleksandr-turchynov",
@@ -5287,6 +5293,7 @@
       "kramatorsk-railway-station-attack",
       "kyiv-national-economic-university-named-after-vadym-hetman",
       "mariupol-theatre-airstrike",
+      "mikheil-saakashvili",
       "moldovaukraine-relations",
       "motor-sich",
       "national-security-and-defense-council-of-ukraine",
@@ -6620,6 +6627,7 @@
     "boryspil": [
       "boryspil-international-airport",
       "kyiv-zhuliany-international-airport",
+      "mikheil-saakashvili",
       "pereiaslav",
       "pyriatyn",
       "tetiana-chornovol"
@@ -7686,6 +7694,7 @@
       "ivan-malkovych",
       "kyiv-national-university-of-culture-and-arts",
       "leonid-kravchuk",
+      "mikheil-saakashvili",
       "mykola-lysenko",
       "nina-matviienko",
       "oksana-zabuzhko",
@@ -8160,6 +8169,10 @@
       "battle-of-donetsk-airport",
       "donetsk"
     ],
+    "revolution-on-granite": [
+      "maidan-nezalezhnosti",
+      "mikheil-saakashvili"
+    ],
     "ukrainian-democratic-alliance-for-reform": [
       "european-solidarity"
     ],
@@ -8337,9 +8350,6 @@
     "igor-sikorsky": [
       "igor-sikorsky-kyiv-polytechnic-institute",
       "kyiv-zhuliany-international-airport"
-    ],
-    "revolution-on-granite": [
-      "maidan-nezalezhnosti"
     ],
     "vynnyky": [
       "zhovkva"
@@ -8820,6 +8830,7 @@
       "makariv",
       "matryoshka-doll",
       "mavka-the-forest-song",
+      "mikheil-saakashvili",
       "museum-of-the-great-patriotic-war",
       "mykhailo-hrushevskyi",
       "mykola-hlushchenko",
@@ -9828,7 +9839,7 @@
       "id": "boryspil",
       "title": "Boryspil",
       "category": "geography",
-      "degree": 20
+      "degree": 21
     },
     {
       "id": "boryspil-international-airport",
@@ -10086,7 +10097,7 @@
       "id": "coal-in-ukraine",
       "title": "coal in Ukraine",
       "category": "economy",
-      "degree": 475
+      "degree": 476
     },
     {
       "id": "coat-of-arms-of-ukrainiae",
@@ -11697,6 +11708,12 @@
       "degree": 2
     },
     {
+      "id": "mikheil-saakashvili",
+      "title": "Mikheil Saakashvili",
+      "category": "people",
+      "degree": 10
+    },
+    {
       "id": "ministry-of-defence-of-ukraine",
       "title": "Ministry of Defence of Ukraine",
       "category": "war",
@@ -12132,7 +12149,7 @@
       "id": "odesa-oblast",
       "title": "Odesa Oblast",
       "category": "politics",
-      "degree": 17
+      "degree": 18
     },
     {
       "id": "oksana-baiul",
@@ -12396,7 +12413,7 @@
       "id": "petro-poroshenko",
       "title": "Petro Poroshenko",
       "category": "politics",
-      "degree": 39
+      "degree": 40
     },
     {
       "id": "petrykivka-painting",
@@ -12504,7 +12521,7 @@
       "id": "president-of-ukraine",
       "title": "President of Ukraine",
       "category": "politics",
-      "degree": 77
+      "degree": 78
     },
     {
       "id": "prime-minister-of-ukraine",
@@ -12666,7 +12683,7 @@
       "id": "revolution-on-granite",
       "title": "Revolution on Granite",
       "category": "history",
-      "degree": 15
+      "degree": 16
     },
     {
       "id": "right-sector",
@@ -13218,7 +13235,7 @@
       "id": "taras-shevchenko-national-university-of-kyiv",
       "title": "Taras Shevchenko National University of Kyiv",
       "category": "culture",
-      "degree": 21
+      "degree": 22
     },
     {
       "id": "tawrija",
@@ -13368,7 +13385,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 750
+      "degree": 751
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13416,7 +13433,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 661
+      "degree": 662
     },
     {
       "id": "ukrainian-americans",
@@ -14010,7 +14027,7 @@
       "id": "volodymyr-zelenskyy",
       "title": "Volodymyr Zelenskyy",
       "category": "politics",
-      "degree": 41
+      "degree": 42
     },
     {
       "id": "volyn-oblast",
@@ -35335,6 +35352,46 @@
     {
       "source": "odesa-national-maritime-university",
       "target": "ukrainian"
+    },
+    {
+      "source": "mikheil-saakashvili",
+      "target": "boryspil"
+    },
+    {
+      "source": "mikheil-saakashvili",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "mikheil-saakashvili",
+      "target": "odesa-oblast"
+    },
+    {
+      "source": "mikheil-saakashvili",
+      "target": "petro-poroshenko"
+    },
+    {
+      "source": "mikheil-saakashvili",
+      "target": "president-of-ukraine"
+    },
+    {
+      "source": "mikheil-saakashvili",
+      "target": "revolution-on-granite"
+    },
+    {
+      "source": "mikheil-saakashvili",
+      "target": "taras-shevchenko-national-university-of-kyiv"
+    },
+    {
+      "source": "mikheil-saakashvili",
+      "target": "ukraine"
+    },
+    {
+      "source": "mikheil-saakashvili",
+      "target": "ukrainian"
+    },
+    {
+      "source": "mikheil-saakashvili",
+      "target": "volodymyr-zelenskyy"
     },
     {
       "source": "oschadbank",
