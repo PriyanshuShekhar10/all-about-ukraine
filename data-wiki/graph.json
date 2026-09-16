@@ -1646,6 +1646,7 @@
       "lviv-university",
       "lysychansk",
       "maidan-nezalezhnosti",
+      "maidens-prayer",
       "makariv",
       "makiivka",
       "mariupol",
@@ -8447,6 +8448,7 @@
       "lustration-in-ukraine",
       "lviv-city-council",
       "lviv-oblast",
+      "maidens-prayer",
       "maksym-kryvonis",
       "memorial-in-commemoration-of-famines-victims-in-ukraine",
       "ministry-of-education-and-science-of-ukraine",
@@ -11594,6 +11596,12 @@
       "degree": 15
     },
     {
+      "id": "maidens-prayer",
+      "title": "Maiden's Prayer",
+      "category": "politics",
+      "degree": 1
+    },
+    {
       "id": "makariv",
       "title": "Makariv",
       "category": "people",
@@ -13433,7 +13441,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 662
+      "degree": 663
     },
     {
       "id": "ukrainian-americans",
@@ -37204,6 +37212,10 @@
     {
       "source": "arcelormittal-kryvyi-rih",
       "target": "soviet-union"
+    },
+    {
+      "source": "maidens-prayer",
+      "target": "ukrainian"
     },
     {
       "source": "uzh-river",

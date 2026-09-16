@@ -11788,5 +11788,18 @@
     ],
     "notability": 121,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q4922389",
+    "slug": "maidens-prayer",
+    "name": "Maiden's Prayer",
+    "wp_title": "Maiden's Prayer",
+    "type": "musical work/composition",
+    "category": "politics",
+    "aliases": [
+      "A Maiden's Prayer"
+    ],
+    "notability": 5,
+    "status": "synthesized"
   }
 ]
