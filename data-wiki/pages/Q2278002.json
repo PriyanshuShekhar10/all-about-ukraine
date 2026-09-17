@@ -1,0 +1,77 @@
+{
+  "qid": "Q2278002",
+  "slug": "lviv-philharmonic",
+  "title": "Lviv Philharmonic",
+  "type": "philharmonic society",
+  "category": "culture",
+  "aliases": [],
+  "infobox": {
+    "label": "philharmonic society",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1907",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine, Austria–Hungary",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Lviv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Myroslav Skoryk Lviv National Philharmonic is a prominent cultural institution located in Lviv, [[ukraine|Ukraine]], recognized as a national philharmonic since 2017. It serves as a hub for classical music performances and houses several esteemed musical ensembles.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "The Lviv Philharmonic commenced its activities in 1902 at the site of the former Scarbeck Theater, now known as the Maria Zankovetska National Academic [[ukrainian|Ukrainian]] Drama Theater. In 1933, Adam Soltys established the Academic Symphony Orchestra associated with the Lviv Philharmonic. The institution was granted state status in 1939, and since 1944, its symphony orchestra has been performing regularly.",
+        "The Philharmonic is home to various ensembles, including the Academic Symphony Orchestra, the [[lviv|Lviv]] Virtuosos Academic Chamber Orchestra, the High Castle Academic Instrumental Ensemble, the [[bandura|bandura]] quartet 'Lvivianky', and the ensemble '19th Class'. On August 18, 2017, the [[verkhovna-rada|Verkhovna Rada]] approved a decree to elevate the Lviv Regional Philharmonic to national status. Subsequently, on September 29, 2020, the Lviv Regional Council honored the institution by naming it after [[myroslav-skoryk|Myroslav Skoryk]]."
+      ]
+    },
+    {
+      "heading": "Building",
+      "paragraphs": [
+        "The building of the Lviv Philharmonic was designed in 1905 by architect Władysław Halytskyi in the Neo-Baroque style, commissioned by the [[galicia|Halychyna]] Musical Society. It was intended to accommodate a conservatory and a concert hall, with part of the structure designated as a revenue-generating house. Construction was briefly halted and resumed in the Vienna Secession style under architect Władysław Sadłowski in 1906.",
+        "The sculptural decorations of the building's facades, featuring reliefs of musical instruments and two metal swan sculptures in the attic, were created by sculptor Piotr Witalis Harasimowicz. The interior of the two-tiered concert hall was adorned with busts of composers by sculptor Luna Drexlerówna. The building's design was showcased in a 1910 exhibition of Polish architects in Lviv. Following World War II, the building served as the concert hall for the Lysenko Conservatory and has been the home of the Lviv Regional Philharmonic since the 1940s. It is listed in the Register of Architectural Monuments of Local Significance with protection number 374-m."
+      ]
+    },
+    {
+      "heading": "Performances",
+      "paragraphs": [
+        "The Lviv Philharmonic has hosted numerous distinguished performers, including Solomiya Krushelnytska, Oleksandr Myshuga, Richard Strauss, Gustav Mahler, Bela Bartok, Anton Rubinstein, Ferruccio Busoni, and many others. Notable composers such as [[dmitri-shostakovich|Dmitri Shostakovich]], Borys Liatoshynsky, Aram Khachaturian, and Myroslav Skoryk have also given recitals at this venue."
+      ]
+    },
+    {
+      "heading": "Competitions and Festivals",
+      "paragraphs": [
+        "Since 1981, the Lviv Philharmonic has organized the music festival 'Virtuosos of the Country', which gained international status in 1990. The venue has hosted several significant competitions, including the Kvitka Tsysyk International Ukrainian Romance Competition from April 1 to 3, 2011, and the 'W LIVE. Quiet Days of Love and Music of Peace' International Music Marathon from June 29 to July 1, 2017, honoring opera singer [[vasyl-slipak|Vasyl Slipak]]. Additionally, the Vasyl Slipak International Competition of Young Vocalists took place from December 15 to 20, 2017, with the Lviv Regional Philharmonic serving as a co-founder and organizer."
+      ]
+    }
+  ],
+  "links_out": [
+    "bandura",
+    "dmitri-shostakovich",
+    "galicia",
+    "lviv",
+    "myroslav-skoryk",
+    "ukraine",
+    "ukrainian",
+    "vasyl-slipak",
+    "verkhovna-rada"
+  ],
+  "sources": [
+    {
+      "title": "Lviv National Philharmonic — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lviv_National_Philharmonic",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-17",
+  "status": "published"
+}

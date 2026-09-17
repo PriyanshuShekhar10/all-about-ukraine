@@ -948,6 +948,7 @@
       "lviv-high-castle",
       "lviv-national-academy-of-arts",
       "lviv-oblast",
+      "lviv-philharmonic",
       "lviv-polytechnic",
       "lviv-theatre-of-opera-and-ballet",
       "lviv-university",
@@ -1641,6 +1642,7 @@
       "lviv-national-environmental-university",
       "lviv-national-museum",
       "lviv-oblast",
+      "lviv-philharmonic",
       "lviv-polytechnic",
       "lviv-theatre-of-opera-and-ballet",
       "lviv-university",
@@ -2057,6 +2059,7 @@
       "lgbt-rights-in-ukraine",
       "lustration-in-ukraine",
       "lviv-city-council",
+      "lviv-philharmonic",
       "mariinskyi-park",
       "mariupol-theatre-airstrike",
       "memorial-in-commemoration-of-famines-victims-in-ukraine",
@@ -2888,6 +2891,7 @@
       "lviv-national-environmental-university",
       "lviv-national-museum",
       "lviv-oblast",
+      "lviv-philharmonic",
       "lviv-polytechnic",
       "lviv-theatre-of-opera-and-ballet",
       "lviv-university",
@@ -3737,6 +3741,7 @@
       "lviv-national-academy-of-arts",
       "lviv-national-environmental-university",
       "lviv-oblast",
+      "lviv-philharmonic",
       "lviv-theatre-of-opera-and-ballet",
       "modern-history-of-ukraine",
       "natural-gas-in-ukraine",
@@ -6446,6 +6451,7 @@
     ],
     "bandura": [
       "cossack-song",
+      "lviv-philharmonic",
       "music-of-ukraine",
       "ukrainian-folk-music"
     ],
@@ -7869,6 +7875,7 @@
     "myroslav-skoryk": [
       "ivan-karabyts",
       "kyiv-music-fest",
+      "lviv-philharmonic",
       "nina-matviienko",
       "ukrainian-folk-music",
       "ukrainian-opera",
@@ -7923,6 +7930,12 @@
     ],
     "bratslav": [
       "battle-of-batih"
+    ],
+    "dmitri-shostakovich": [
+      "lviv-philharmonic"
+    ],
+    "vasyl-slipak": [
+      "lviv-philharmonic"
     ],
     "jamala": [
       "eurovision-song-contest-2016",
@@ -8099,6 +8112,9 @@
       "eastern-galicia",
       "organization-of-ukrainian-nationalists",
       "ukrainians-in-poland"
+    ],
+    "lviv-philharmonic": [
+      "lviv"
     ],
     "kyiv-national-economic-university-named-after-vadym-hetman": [
       "kryvyi-rih-national-university",
@@ -9179,6 +9195,7 @@
       "kyiv-post",
       "lviv-national-academy-of-arts",
       "lviv-national-museum",
+      "lviv-philharmonic",
       "lviv-polytechnic",
       "lviv-theatre-of-opera-and-ballet",
       "mavka",
@@ -9559,7 +9576,7 @@
       "id": "bandura",
       "title": "bandura",
       "category": "culture",
-      "degree": 11
+      "degree": 12
     },
     {
       "id": "banking-in-ukraine",
@@ -10315,7 +10332,7 @@
       "id": "dmitri-shostakovich",
       "title": "Dmitri Shostakovich",
       "category": "history",
-      "degree": 4
+      "degree": 5
     },
     {
       "id": "dmytro-bortnianskyi",
@@ -10645,7 +10662,7 @@
       "id": "galicia",
       "title": "Galicia",
       "category": "geography",
-      "degree": 78
+      "degree": 79
     },
     {
       "id": "geography-of-ukraine",
@@ -11521,7 +11538,7 @@
       "id": "lviv",
       "title": "Lviv",
       "category": "geography",
-      "degree": 111
+      "degree": 113
     },
     {
       "id": "lviv-city-council",
@@ -11558,6 +11575,12 @@
       "title": "Lviv Oblast",
       "category": "politics",
       "degree": 56
+    },
+    {
+      "id": "lviv-philharmonic",
+      "title": "Lviv Philharmonic",
+      "category": "culture",
+      "degree": 10
     },
     {
       "id": "lviv-polytechnic",
@@ -11923,7 +11946,7 @@
       "id": "myroslav-skoryk",
       "title": "Myroslav Skoryk",
       "category": "culture",
-      "degree": 15
+      "degree": 16
     },
     {
       "id": "nadia",
@@ -13393,7 +13416,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 751
+      "degree": 752
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13441,7 +13464,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 663
+      "degree": 664
     },
     {
       "id": "ukrainian-americans",
@@ -13879,7 +13902,7 @@
       "id": "vasyl-slipak",
       "title": "Vasyl Slipak",
       "category": "war",
-      "degree": 8
+      "degree": 9
     },
     {
       "id": "vasyl-stus",
@@ -13909,7 +13932,7 @@
       "id": "verkhovna-rada",
       "title": "Verkhovna Rada",
       "category": "politics",
-      "degree": 113
+      "degree": 114
     },
     {
       "id": "vernadsky-national-library-of-ukraine",
@@ -28598,6 +28621,42 @@
       "target": "ukraine"
     },
     {
+      "source": "lviv-philharmonic",
+      "target": "bandura"
+    },
+    {
+      "source": "lviv-philharmonic",
+      "target": "dmitri-shostakovich"
+    },
+    {
+      "source": "lviv-philharmonic",
+      "target": "galicia"
+    },
+    {
+      "source": "lviv-philharmonic",
+      "target": "lviv"
+    },
+    {
+      "source": "lviv-philharmonic",
+      "target": "myroslav-skoryk"
+    },
+    {
+      "source": "lviv-philharmonic",
+      "target": "ukraine"
+    },
+    {
+      "source": "lviv-philharmonic",
+      "target": "ukrainian"
+    },
+    {
+      "source": "lviv-philharmonic",
+      "target": "vasyl-slipak"
+    },
+    {
+      "source": "lviv-philharmonic",
+      "target": "verkhovna-rada"
+    },
+    {
       "source": "kyivstar",
       "target": "armed-forces-of-ukraine"
     },
@@ -33188,6 +33247,10 @@
     {
       "source": "lviv",
       "target": "lviv-oblast"
+    },
+    {
+      "source": "lviv",
+      "target": "lviv-philharmonic"
     },
     {
       "source": "lviv",

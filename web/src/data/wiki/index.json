@@ -4132,6 +4132,14 @@
     ]
   },
   {
+    "slug": "lviv-philharmonic",
+    "title": "Lviv Philharmonic",
+    "type": "philharmonic society",
+    "category": "culture",
+    "summary": "Myroslav Skoryk Lviv National Philharmonic is a prominent cultural institution located in Lviv, [[ukraine|Ukraine]], recognized as a national philharmonic since 2017. It serves as a hub for classical music performances and houses several esteemed musical ensembles.",
+    "aliases": []
+  },
+  {
     "slug": "lviv-polytechnic",
     "title": "Lviv Polytechnic",
     "type": "university",

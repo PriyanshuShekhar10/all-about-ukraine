@@ -11801,5 +11801,16 @@
     ],
     "notability": 5,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q2278002",
+    "slug": "lviv-philharmonic",
+    "name": "Lviv Philharmonic",
+    "wp_title": "Lviv National Philharmonic",
+    "type": "philharmonic society",
+    "category": "culture",
+    "aliases": [],
+    "notability": 6,
+    "status": "synthesized"
   }
 ]
