@@ -574,6 +574,7 @@
       "maidan-nezalezhnosti",
       "modern-history-of-ukraine",
       "national-university-of-kyiv-mohyla-academy",
+      "party-of-regions",
       "political-party-in-ukraine",
       "president-of-ukraine",
       "revolution-on-granite",
@@ -590,6 +591,22 @@
       "volodymyr-viatrovych",
       "yulia-tymoshenko"
     ],
+    "party-of-regions": [
+      "2004-ukrainian-presidential-election",
+      "2006-ukrainian-parliamentary-election",
+      "2007-ukrainian-parliamentary-election",
+      "2010-ukrainian-presidential-election",
+      "2012-ukrainian-parliamentary-election",
+      "dmytro-razumkov",
+      "elections-in-ukraine",
+      "european-solidarity",
+      "lustration-in-ukraine",
+      "mykola-azarov",
+      "petro-poroshenko",
+      "political-party-in-ukraine",
+      "ukraine-east",
+      "viktor-yanukovych"
+    ],
     "revolution-of-dignity": [
       "2022-russian-invasion-of-ukraine",
       "banking-in-ukraine",
@@ -602,6 +619,7 @@
       "luhansk-peoples-republic",
       "lustration-in-ukraine",
       "national-guard-of-ukraine",
+      "party-of-regions",
       "political-party-in-ukraine",
       "president-of-ukraine",
       "russian-occupation-of-crimea",
@@ -1055,6 +1073,7 @@
       "ostroh-academy",
       "pale-of-settlement",
       "parliamentary-assembly-of-the-council-of-europe",
+      "party-of-regions",
       "paska",
       "pavlo-klimkin",
       "pavlo-skoropadsky",
@@ -1742,6 +1761,7 @@
       "ostrih-bible",
       "ostriv",
       "ostroh-academy",
+      "party-of-regions",
       "paska",
       "pavlo-klimkin",
       "pavlo-skoropadsky",
@@ -2075,6 +2095,7 @@
       "oleh-blokhin",
       "oleh-liashko",
       "oleksandr-turchynov",
+      "party-of-regions",
       "pavlo-klimkin",
       "pavlo-tychyna",
       "pavlohrad",
@@ -2753,6 +2774,7 @@
       "oleksandr-dovzhenko",
       "oles-honchar",
       "orange-revolution",
+      "party-of-regions",
       "pavlo-tychyna",
       "pavlo-tychyna-museum",
       "pavlo-zibrov",
@@ -3310,6 +3332,7 @@
       "decentralisation-in-ukraine",
       "liberal-party-of-ukraine",
       "mykolaiv",
+      "party-of-regions",
       "polesia",
       "radomysl-castle",
       "religion-in-ukraine",
@@ -4614,6 +4637,7 @@
       "oleksandr-turchynov",
       "oles-honchar-dnipro-national-university",
       "ostroh-academy",
+      "party-of-regions",
       "petro-poroshenko",
       "pivdenmash",
       "poltava-oblast",
@@ -4956,6 +4980,7 @@
       "oleksandr-dovzhenko",
       "oles-honchar",
       "olga-kurylenko",
+      "party-of-regions",
       "pavlo-tychyna",
       "pravda",
       "second-battle-of-kharkov",
@@ -5724,6 +5749,7 @@
       "mykola-azarov",
       "oleksandr-turchynov",
       "orange-revolution",
+      "party-of-regions",
       "president-of-ukraine",
       "prime-minister-of-ukraine",
       "revolution-of-dignity",
@@ -6071,6 +6097,7 @@
     ],
     "mykola-azarov": [
       "donetsk-national-technical-university",
+      "party-of-regions",
       "prime-minister-of-ukraine"
     ],
     "viktor-yushchenko": [
@@ -6542,6 +6569,7 @@
     "political-party-in-ukraine": [
       "batkivshchyna",
       "european-solidarity",
+      "party-of-regions",
       "revolution-on-granite",
       "samopomich",
       "servant-of-the-people",
@@ -6562,6 +6590,7 @@
       "2020-ukrainian-local-elections",
       "hungaryukraine-relations",
       "ministry-of-foreign-affairs-of-ukraine",
+      "party-of-regions",
       "pensions-in-ukraine",
       "petro-poroshenko",
       "shche-ne-vmerla-ukrainy-i-slava-i-volia",
@@ -6961,6 +6990,7 @@
       "kamianets-podilskyi",
       "khotyn-raion",
       "odesa-international-film-festival",
+      "party-of-regions",
       "prut",
       "roman-catholic-archdiocese-of-lviv",
       "romaniaukraine-relations",
@@ -8487,6 +8517,7 @@
       "oles-honchar-dnipro-national-university",
       "organization-of-ukrainian-nationalists",
       "parliamentary-assembly-of-the-council-of-europe",
+      "party-of-regions",
       "pavlo-skoropadsky",
       "pavlo-tychyna-uman-state-pedagogical-university",
       "pensions-in-ukraine",
@@ -9294,31 +9325,31 @@
       "id": "2004-ukrainian-presidential-election",
       "title": "2004 Ukrainian presidential election",
       "category": "politics",
-      "degree": 10
+      "degree": 11
     },
     {
       "id": "2006-ukrainian-parliamentary-election",
       "title": "2006 Ukrainian parliamentary election",
       "category": "politics",
-      "degree": 8
+      "degree": 9
     },
     {
       "id": "2007-ukrainian-parliamentary-election",
       "title": "2007 Ukrainian parliamentary election",
       "category": "politics",
-      "degree": 5
+      "degree": 6
     },
     {
       "id": "2010-ukrainian-presidential-election",
       "title": "2010 Ukrainian presidential election",
       "category": "politics",
-      "degree": 7
+      "degree": 8
     },
     {
       "id": "2012-ukrainian-parliamentary-election",
       "title": "2012 Ukrainian parliamentary election",
       "category": "politics",
-      "degree": 7
+      "degree": 8
     },
     {
       "id": "2015-ukrainian-local-elections",
@@ -9378,7 +9409,7 @@
       "id": "administrative-territorial-entity-of-ukraine",
       "title": "administrative territorial entity of Ukraine",
       "category": "politics",
-      "degree": 35
+      "degree": 36
     },
     {
       "id": "admiral-makarov",
@@ -10002,7 +10033,7 @@
       "id": "chernivtsi",
       "title": "Chernivtsi",
       "category": "geography",
-      "degree": 24
+      "degree": 25
     },
     {
       "id": "chernivtsi-oblast",
@@ -10362,7 +10393,7 @@
       "id": "dmytro-razumkov",
       "title": "Dmytro Razumkov",
       "category": "politics",
-      "degree": 11
+      "degree": 12
     },
     {
       "id": "dmytro-yarosh",
@@ -10446,7 +10477,7 @@
       "id": "donetsk",
       "title": "Donetsk",
       "category": "geography",
-      "degree": 74
+      "degree": 75
     },
     {
       "id": "donetsk-international-airport",
@@ -10530,7 +10561,7 @@
       "id": "elections-in-ukraine",
       "title": "elections in Ukraine",
       "category": "war",
-      "degree": 16
+      "degree": 17
     },
     {
       "id": "electricity-in-ukraine",
@@ -10566,7 +10597,7 @@
       "id": "european-solidarity",
       "title": "European Solidarity",
       "category": "people",
-      "degree": 24
+      "degree": 26
     },
     {
       "id": "eurovision-song-contest-2016",
@@ -11340,7 +11371,7 @@
       "id": "kyiv",
       "title": "Kyiv",
       "category": "geography",
-      "degree": 264
+      "degree": 265
     },
     {
       "id": "kyiv-city-ballet",
@@ -11520,7 +11551,7 @@
       "id": "lustration-in-ukraine",
       "title": "Lustration in Ukraine",
       "category": "politics",
-      "degree": 9
+      "degree": 10
     },
     {
       "id": "lutsk",
@@ -11868,7 +11899,7 @@
       "id": "mykola-azarov",
       "title": "Mykola Azarov",
       "category": "politics",
-      "degree": 16
+      "degree": 18
     },
     {
       "id": "mykola-hlushchenko",
@@ -12294,7 +12325,7 @@
       "id": "orange-revolution",
       "title": "Orange Revolution",
       "category": "history",
-      "degree": 32
+      "degree": 33
     },
     {
       "id": "orel",
@@ -12349,6 +12380,12 @@
       "title": "Parliamentary Assembly of the Council of Europe",
       "category": "politics",
       "degree": 7
+    },
+    {
+      "id": "party-of-regions",
+      "title": "Party of Regions",
+      "category": "politics",
+      "degree": 28
     },
     {
       "id": "paska",
@@ -12444,7 +12481,7 @@
       "id": "petro-poroshenko",
       "title": "Petro Poroshenko",
       "category": "politics",
-      "degree": 40
+      "degree": 41
     },
     {
       "id": "petrykivka-painting",
@@ -12504,7 +12541,7 @@
       "id": "political-party-in-ukraine",
       "title": "political party in Ukraine",
       "category": "politics",
-      "degree": 18
+      "degree": 20
     },
     {
       "id": "poltava",
@@ -12552,7 +12589,7 @@
       "id": "president-of-ukraine",
       "title": "President of Ukraine",
       "category": "politics",
-      "degree": 78
+      "degree": 79
     },
     {
       "id": "prime-minister-of-ukraine",
@@ -12708,7 +12745,7 @@
       "id": "revolution-of-dignity",
       "title": "Revolution of Dignity",
       "category": "history",
-      "degree": 36
+      "degree": 37
     },
     {
       "id": "revolution-on-granite",
@@ -13416,7 +13453,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 752
+      "degree": 753
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13428,7 +13465,7 @@
       "id": "ukraine-east",
       "title": "Ukraine east",
       "category": "economy",
-      "degree": 18
+      "degree": 19
     },
     {
       "id": "ukraine-international-airlines",
@@ -13464,7 +13501,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 664
+      "degree": 665
     },
     {
       "id": "ukrainian-americans",
@@ -13932,7 +13969,7 @@
       "id": "verkhovna-rada",
       "title": "Verkhovna Rada",
       "category": "politics",
-      "degree": 114
+      "degree": 115
     },
     {
       "id": "vernadsky-national-library-of-ukraine",
@@ -13968,7 +14005,7 @@
       "id": "viktor-yanukovych",
       "title": "Viktor Yanukovych",
       "category": "politics",
-      "degree": 55
+      "degree": 57
     },
     {
       "id": "viktor-yushchenko",
@@ -14431,6 +14468,10 @@
     {
       "source": "political-party-in-ukraine",
       "target": "orange-revolution"
+    },
+    {
+      "source": "political-party-in-ukraine",
+      "target": "party-of-regions"
     },
     {
       "source": "political-party-in-ukraine",
@@ -17826,6 +17867,10 @@
     },
     {
       "source": "elections-in-ukraine",
+      "target": "party-of-regions"
+    },
+    {
+      "source": "elections-in-ukraine",
       "target": "russian-annexation-of-crimea"
     },
     {
@@ -19039,6 +19084,10 @@
     {
       "source": "viktor-yanukovych",
       "target": "orange-revolution"
+    },
+    {
+      "source": "viktor-yanukovych",
+      "target": "party-of-regions"
     },
     {
       "source": "viktor-yanukovych",
@@ -25402,6 +25451,10 @@
     },
     {
       "source": "ukraine-east",
+      "target": "party-of-regions"
+    },
+    {
+      "source": "ukraine-east",
       "target": "revolution-of-dignity"
     },
     {
@@ -25611,6 +25664,10 @@
     {
       "source": "lustration-in-ukraine",
       "target": "full-scale-russo-ukrainian-war"
+    },
+    {
+      "source": "lustration-in-ukraine",
+      "target": "party-of-regions"
     },
     {
       "source": "lustration-in-ukraine",
@@ -32526,6 +32583,10 @@
     },
     {
       "source": "2006-ukrainian-parliamentary-election",
+      "target": "party-of-regions"
+    },
+    {
+      "source": "2006-ukrainian-parliamentary-election",
       "target": "ukraine"
     },
     {
@@ -32543,6 +32604,10 @@
     {
       "source": "2007-ukrainian-parliamentary-election",
       "target": "coal-in-ukraine"
+    },
+    {
+      "source": "2007-ukrainian-parliamentary-election",
+      "target": "party-of-regions"
     },
     {
       "source": "2007-ukrainian-parliamentary-election",
@@ -34917,6 +34982,62 @@
       "target": "viktor-medvedchuk"
     },
     {
+      "source": "party-of-regions",
+      "target": "administrative-territorial-entity-of-ukraine"
+    },
+    {
+      "source": "party-of-regions",
+      "target": "chernivtsi"
+    },
+    {
+      "source": "party-of-regions",
+      "target": "donetsk"
+    },
+    {
+      "source": "party-of-regions",
+      "target": "european-solidarity"
+    },
+    {
+      "source": "party-of-regions",
+      "target": "kyiv"
+    },
+    {
+      "source": "party-of-regions",
+      "target": "mykola-azarov"
+    },
+    {
+      "source": "party-of-regions",
+      "target": "orange-revolution"
+    },
+    {
+      "source": "party-of-regions",
+      "target": "political-party-in-ukraine"
+    },
+    {
+      "source": "party-of-regions",
+      "target": "president-of-ukraine"
+    },
+    {
+      "source": "party-of-regions",
+      "target": "revolution-of-dignity"
+    },
+    {
+      "source": "party-of-regions",
+      "target": "ukraine"
+    },
+    {
+      "source": "party-of-regions",
+      "target": "ukrainian"
+    },
+    {
+      "source": "party-of-regions",
+      "target": "verkhovna-rada"
+    },
+    {
+      "source": "party-of-regions",
+      "target": "viktor-yanukovych"
+    },
+    {
       "source": "lviv-national-academy-of-arts",
       "target": "education-in-ukraine"
     },
@@ -35518,6 +35639,10 @@
     },
     {
       "source": "european-solidarity",
+      "target": "party-of-regions"
+    },
+    {
+      "source": "european-solidarity",
       "target": "petro-poroshenko"
     },
     {
@@ -35603,6 +35728,10 @@
     {
       "source": "2012-ukrainian-parliamentary-election",
       "target": "elections-in-ukraine"
+    },
+    {
+      "source": "2012-ukrainian-parliamentary-election",
+      "target": "party-of-regions"
     },
     {
       "source": "2012-ukrainian-parliamentary-election",
@@ -37830,6 +37959,10 @@
     },
     {
       "source": "2004-ukrainian-presidential-election",
+      "target": "party-of-regions"
+    },
+    {
+      "source": "2004-ukrainian-presidential-election",
       "target": "soviet-union"
     },
     {
@@ -37907,6 +38040,10 @@
     {
       "source": "mykola-azarov",
       "target": "leonid-kuchma"
+    },
+    {
+      "source": "mykola-azarov",
+      "target": "party-of-regions"
     },
     {
       "source": "mykola-azarov",
@@ -38043,6 +38180,10 @@
     {
       "source": "petro-poroshenko",
       "target": "odesa-oblast"
+    },
+    {
+      "source": "petro-poroshenko",
+      "target": "party-of-regions"
     },
     {
       "source": "petro-poroshenko",
@@ -38906,6 +39047,10 @@
     },
     {
       "source": "dmytro-razumkov",
+      "target": "party-of-regions"
+    },
+    {
+      "source": "dmytro-razumkov",
       "target": "servant-of-the-people"
     },
     {
@@ -39591,6 +39736,10 @@
     {
       "source": "2010-ukrainian-presidential-election",
       "target": "elections-in-ukraine"
+    },
+    {
+      "source": "2010-ukrainian-presidential-election",
+      "target": "party-of-regions"
     },
     {
       "source": "2010-ukrainian-presidential-election",

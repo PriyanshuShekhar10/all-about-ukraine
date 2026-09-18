@@ -11812,5 +11812,23 @@
     "aliases": [],
     "notability": 6,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q4266",
+    "slug": "party-of-regions",
+    "name": "Party of Regions",
+    "wp_title": "Party of Regions",
+    "type": "political party",
+    "category": "politics",
+    "aliases": [
+      "Party of Regions Ukraine",
+      "Party of Ukrainian Regions",
+      "Party of the Regions",
+      "Regions faction",
+      "Regions of Ukraine",
+      "Vremya Regionov"
+    ],
+    "notability": 41,
+    "status": "synthesized"
   }
 ]

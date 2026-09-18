@@ -42,7 +42,7 @@
     {
       "heading": "Candidates and Campaign",
       "paragraphs": [
-        "A total of 18 candidates participated in the presidential elections. Notable candidates included Yulia Tymoshenko, the incumbent Prime Minister, and Viktor Yanukovych, the leader of the Party of Regions.",
+        "A total of 18 candidates participated in the presidential elections. Notable candidates included Yulia Tymoshenko, the incumbent Prime Minister, and Viktor Yanukovych, the leader of the [[party-of-regions|Party of Regions]].",
         "The official campaign began on 19 October 2009, with a preceding unofficial campaign starting in the summer. The Central Election Commission estimated the election's budget at ₴1.5 billion, with candidates expected to spend significant amounts on their campaigns."
       ]
     },
@@ -63,6 +63,7 @@
   "links_out": [
     "coal-in-ukraine",
     "elections-in-ukraine",
+    "party-of-regions",
     "ukraine",
     "ukrainian",
     "verkhovna-rada",

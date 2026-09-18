@@ -27,7 +27,7 @@
     {
       "heading": "Background",
       "paragraphs": [
-        "The political landscape [[coal-in-ukraine|in Ukraine]] prior to the 2007 elections was marked by a power struggle between President [[viktor-yushchenko|Viktor Yushchenko]] and the parliamentary majority, which led to the dissolution of the [[verkhovna-rada|Verkhovna Rada]] on 2 April 2007. The Coalition of National Unity, consisting of the Party of Regions, Communist Party, and Socialist Party, opposed the [[yulia-tymoshenko|Yulia Tymoshenko]] Bloc and Our [[ukraine|Ukraine]].",
+        "The political landscape [[coal-in-ukraine|in Ukraine]] prior to the 2007 elections was marked by a power struggle between President [[viktor-yushchenko|Viktor Yushchenko]] and the parliamentary majority, which led to the dissolution of the [[verkhovna-rada|Verkhovna Rada]] on 2 April 2007. The Coalition of National Unity, consisting of the [[party-of-regions|Party of Regions]], Communist Party, and Socialist Party, opposed the [[yulia-tymoshenko|Yulia Tymoshenko]] Bloc and Our [[ukraine|Ukraine]].",
         "In early 2007, some opposition members expressed support for the ruling coalition, potentially allowing it to secure a two-thirds majority. However, Yushchenko's decree to dissolve parliament was contested in the Constitutional Court, which did not rule on its constitutionality due to presidential intervention.",
         "Originally scheduled for 27 May 2007, the election date was postponed to 30 September 2007 after an agreement among key political leaders on 27 May."
       ]
@@ -63,6 +63,7 @@
   ],
   "links_out": [
     "coal-in-ukraine",
+    "party-of-regions",
     "ukraine",
     "verkhovna-rada",
     "viktor-yushchenko",

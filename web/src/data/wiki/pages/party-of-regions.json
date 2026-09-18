@@ -1,0 +1,91 @@
+{
+  "qid": "Q4266",
+  "slug": "party-of-regions",
+  "title": "Party of Regions",
+  "type": "political party",
+  "category": "politics",
+  "aliases": [
+    "Party of Regions Ukraine",
+    "Party of Ukrainian Regions",
+    "Party of the Regions",
+    "Regions faction",
+    "Regions of Ukraine",
+    "Vremya Regionov"
+  ],
+  "infobox": {
+    "label": "political party",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1997-10-26",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Party of Regions was a pro-Russian [[political-party-in-ukraine|political party in Ukraine]], established in late 1997, that became the largest party in the country from 2006 to 2014. Following the Revolution of Dignity, the party ceased to participate in elections and was officially banned in 2023.",
+  "sections": [
+    {
+      "heading": "Formation and Early Years",
+      "paragraphs": [
+        "The Party of Regions originated from the Party of Regional Revival of [[ukraine|Ukraine]], which held its founding congress on 26 October 1997 in [[kyiv|Kyiv]], led by Volodymyr Rybak. It was officially registered on 6 November 1997, and its parliamentary faction was created on 13 January 1998, headed by Gennadiy Samofalov.",
+        "In the 1998 parliamentary elections, the party secured 0.90% of the votes, electing one representative to the [[verkhovna-rada|Ukrainian Parliament]], with notable success in [[chernivtsi|Chernivtsi]] and [[donetsk|Donetsk]] Oblasts."
+      ]
+    },
+    {
+      "heading": "Transition to Party of Regions",
+      "paragraphs": [
+        "On 17 November 2000, the party merged with four others to form the Party of Regional Revival 'Labor [[european-solidarity|Solidarity]] of Ukraine', which was rebranded as the Party of Regions on 3 March 2001. [[mykola-azarov|Mykola Azarov]] was initially elected as the party leader but resigned in December 2001, leading to Volodymyr Semynozhenko's appointment.",
+        "The party gained parliamentary representation through the '[[administrative-territorial-entity-of-ukraine|Regions of Ukraine]]' faction and participated in the 2002 parliamentary elections as part of the For United Ukraine electoral bloc."
+      ]
+    },
+    {
+      "heading": "Political Influence and Electoral Success",
+      "paragraphs": [
+        "The Party of Regions shifted its ideology towards populism and pro-Russian policies ahead of the 2004 presidential election, allowing [[viktor-yanukovych|Viktor Yanukovych]] to attract voters from the Communist party in eastern Ukraine. After losing the election amidst the [[orange-revolution|Orange Revolution]], the party claimed victimization by the new government.",
+        "In the 2006 parliamentary elections, the party received 32.14% of the votes, winning 186 seats and forming a coalition government led by Yanukovych."
+      ]
+    },
+    {
+      "heading": "Subsequent Elections and Yanukovych's Presidency",
+      "paragraphs": [
+        "In the 2007 parliamentary elections, the Party of Regions won 175 seats with 34.37% of the vote, becoming the largest party in opposition after the formation of a coalition government by its rivals. The party endorsed Yanukovych in the 2010 presidential elections, leading to his election as [[president-of-ukraine|President of Ukraine]] on 7 February 2010."
+      ]
+    },
+    {
+      "heading": "Decline and Ban",
+      "paragraphs": [
+        "Following the [[revolution-of-dignity|Revolution of Dignity]] in 2014, many party members, including prominent figures like Mykola Azarov and Viktor Yanukovych, fled to Russia. The party did not participate in subsequent elections, and on 21 February 2023, the [[ukrainian|Ukrainian]] Eighth Administrative Court of Appeal officially banned the Party of Regions."
+      ]
+    }
+  ],
+  "links_out": [
+    "administrative-territorial-entity-of-ukraine",
+    "chernivtsi",
+    "donetsk",
+    "european-solidarity",
+    "kyiv",
+    "mykola-azarov",
+    "orange-revolution",
+    "political-party-in-ukraine",
+    "president-of-ukraine",
+    "revolution-of-dignity",
+    "ukraine",
+    "ukrainian",
+    "verkhovna-rada",
+    "viktor-yanukovych"
+  ],
+  "sources": [
+    {
+      "title": "Party of Regions — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Party_of_Regions",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-18",
+  "status": "published"
+}
