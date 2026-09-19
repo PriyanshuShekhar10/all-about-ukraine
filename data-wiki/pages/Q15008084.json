@@ -37,7 +37,7 @@
       "paragraphs": [
         "The Central Building of the university, constructed between 1828 and 1832 in the classical style by architect Louis Charlemagne, serves as a notable architectural monument from the first half of the 19th century.",
         "The university's origins trace back to December 12, 1818, when Varvara Riepina established the Institute of Noble Maidens in [[poltava|Poltava]], which was the first educational institution for noble girls in the Russian Empire's provincial capital.",
-        "In January 1918, the Institute of Noble Maidens was evacuated to Vladikavkaz due to the October Revolution, where it initiated the establishment of a municipal girls' school. From 1918 to 1930, the Central Building was repurposed for various educational and social functions.",
+        "In January 1918, the Institute of Noble Maidens was evacuated to Vladikavkaz due to the [[october-revolution|October Revolution]], where it initiated the establishment of a municipal girls' school. From 1918 to 1930, the Central Building was repurposed for various educational and social functions.",
         "During the 1930s, Poltava became a center for training agricultural construction engineers, leading to the establishment of the Poltava Institute of Agricultural Construction in 1930, which occupied the former Institute of Noble Maidens building.",
         "As World War II commenced, the institute was evacuated to Oral, Kazakhstan, where students and faculty contributed to the war effort. They returned to Poltava in October 1942, facing the challenge of rebuilding the war-damaged institute.",
         "In the post-war decade, the institution expanded its facilities and academic offerings, with new faculties being established between 1954 and 1971."
@@ -70,6 +70,7 @@
   ],
   "links_out": [
     "myrhorod",
+    "october-revolution",
     "poltava",
     "ukraine"
   ],

@@ -1,0 +1,87 @@
+{
+  "qid": "Q42976",
+  "slug": "october-revolution",
+  "title": "October Revolution",
+  "type": "revolution",
+  "category": "history",
+  "aliases": [
+    "Bolshevik Revolution",
+    "October Revolution of 1917",
+    "Red October",
+    "Red Revolution"
+  ],
+  "infobox": {
+    "label": "revolution",
+    "fields": [
+      {
+        "label": "Date",
+        "value": "1917-10-25",
+        "source": "wikidata:P585"
+      },
+      {
+        "label": "Country",
+        "value": "Russian Republic",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Saint Petersburg, Russian Republic",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The October Revolution, also referred to as the Great October Socialist Revolution, was a pivotal event in the Russian Revolution of 1917, leading to the establishment of Bolshevik rule. Its repercussions were significant for [[ukraine|Ukraine]], which experienced political upheaval and social change during this period.",
+  "sections": [
+    {
+      "heading": "Overview of the October Revolution",
+      "paragraphs": [
+        "The October Revolution, also known as the Great October Socialist Revolution, took place on 7 November 1917 (O.S. 25 October) in Petrograd (now Saint Petersburg). It was led by the Bolsheviks under [[vladimir-lenin|Vladimir Lenin]] and marked the second revolution in Russia that year, following the February Revolution.",
+        "The revolution initiated the Russian Civil War and was characterized by an insurrection that began with the occupation of government buildings and culminated in the capture of the Winter Palace, the seat of the Provisional Government."
+      ]
+    },
+    {
+      "heading": "Context and Background",
+      "paragraphs": [
+        "The October Revolution followed the February Revolution, which resulted in the abdication of Tsar Nicholas II and the establishment of a Provisional Government led by Alexander Kerensky. This government faced widespread dissatisfaction due to its continued involvement in World War I and its inability to address social and economic crises.",
+        "By late 1917, the Bolsheviks gained support from urban workers and soldiers, who organized strikes and uprisings against the Provisional Government. [[coal-in-ukraine|In Ukraine]], particularly in industrial regions like the [[donbas|Donbas]], workers and peasants expressed their discontent through strikes and protests."
+      ]
+    },
+    {
+      "heading": "Key Events Leading to the Revolution",
+      "paragraphs": [
+        "On 10 October 1917, the Petrograd Soviet, led by Leon Trotsky, voted to support a military uprising against the Provisional Government. Following the government's attempts to suppress dissent by closing newspapers and restricting movement in Petrograd, a full-scale uprising began on 25 October (N.S. 6 November).",
+        "Bolshevik sailors and soldiers rallied to the cause, leading to the occupation of key government buildings and ultimately the capture of the Winter Palace on 26 October (N.S. 8 November)."
+      ]
+    },
+    {
+      "heading": "Aftermath and Civil War",
+      "paragraphs": [
+        "The October Revolution was not universally accepted, leading to a civil war that lasted until late 1922 and resulted in the formation of [[soviet-union|the Soviet Union]]. The event was viewed differently across the political spectrum; the Soviet regime celebrated it as a victory for the working class, while many Western observers criticized it as a totalitarian coup.",
+        "In Ukraine, the revolution influenced the political landscape, contributing to the rise of various nationalist movements and the eventual struggle for independence amidst the chaos of the civil war."
+      ]
+    },
+    {
+      "heading": "Cultural Impact and Legacy",
+      "paragraphs": [
+        "The October Revolution inspired numerous cultural works and sparked communist movements worldwide. In the Soviet Union, October Revolution Day became a public holiday, highlighting its significance in the state's foundation.",
+        "The legacy of the revolution continues to be a subject of debate, with its implications still felt in Ukraine's political and cultural discourse today."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "donbas",
+    "soviet-union",
+    "ukraine",
+    "vladimir-lenin"
+  ],
+  "sources": [
+    {
+      "title": "October Revolution — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/October_Revolution",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-19",
+  "status": "published"
+}

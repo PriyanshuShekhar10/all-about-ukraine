@@ -5235,6 +5235,19 @@
     "aliases": []
   },
   {
+    "slug": "october-revolution",
+    "title": "October Revolution",
+    "type": "revolution",
+    "category": "history",
+    "summary": "The October Revolution, also referred to as the Great October Socialist Revolution, was a pivotal event in the Russian Revolution of 1917, leading to the establishment of Bolshevik rule. Its repercussions were significant for [[ukraine|Ukraine]], which experienced political upheaval and social change during this period.",
+    "aliases": [
+      "Bolshevik Revolution",
+      "October Revolution of 1917",
+      "Red October",
+      "Red Revolution"
+    ]
+  },
+  {
     "slug": "odesa",
     "title": "Odesa",
     "type": "port city",
@@ -8216,7 +8229,7 @@
     "title": "Ukrainian–Soviet War",
     "type": "war",
     "category": "history",
-    "summary": "The Ukrainian–Soviet War refers to the conflict between the Ukrainian People's Republic and the Bolshevik forces from 1917 to 1921, following the October Revolution. This war is significant in [[history-of-ukraine|Ukrainian history]] as it represents a struggle for independence amidst the backdrop of broader revolutionary and civil conflicts in the region.",
+    "summary": "The Ukrainian–Soviet War refers to the conflict between the Ukrainian People's Republic and the Bolshevik forces from 1917 to 1921, following the [[october-revolution|October Revolution]]. This war is significant in [[history-of-ukraine|Ukrainian history]] as it represents a struggle for independence amidst the backdrop of broader revolutionary and civil conflicts in the region.",
     "aliases": [
       "Soviet invasion of Ukraine",
       "Soviet-Ukrainian War",

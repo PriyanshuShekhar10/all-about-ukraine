@@ -264,6 +264,7 @@
       "nova-post",
       "novomoskovsk",
       "nuclear-power-in-ukraine",
+      "october-revolution",
       "odesa",
       "odesa-film-studio",
       "odesa-oblast",
@@ -1044,6 +1045,7 @@
       "nova-post",
       "novomoskovsk",
       "nuclear-power-in-ukraine",
+      "october-revolution",
       "odesa",
       "odesa-film-studio",
       "odesa-international-film-festival",
@@ -4361,6 +4363,7 @@
       "nikita-khrushchev",
       "nikolay-aleksandrovich-tikhonov",
       "nina-matviienko",
+      "october-revolution",
       "odesa-film-studio",
       "oksana-baiul",
       "oleh-blokhin",
@@ -5802,6 +5805,7 @@
       "makiivka",
       "minsk-agreements",
       "nikita-khrushchev",
+      "october-revolution",
       "religion-in-ukraine",
       "russiaukraine-relations",
       "russo-ukrainian-war",
@@ -7024,6 +7028,27 @@
     "ivan-sirko": [
       "cossack-raids"
     ],
+    "october-revolution": [
+      "fc-zorya-luhansk",
+      "fine-arts-museum-kharkiv",
+      "history-of-kyiv",
+      "illich-steel-iron-works",
+      "kyiv",
+      "kyiv-metro",
+      "lysychansk",
+      "mariinskyi-park",
+      "mykola-shchors",
+      "national-university-yuri-kondratyuk-poltava-polytechnic",
+      "nikolay-aleksandrovich-tikhonov",
+      "pochayiv-lavra",
+      "revolution-on-granite",
+      "soviet-union",
+      "sviatohirsk-lavra",
+      "ukrainian-peoples-republic",
+      "ukrainiansoviet-war",
+      "vladimir-lenin",
+      "zinaida-serebryakova"
+    ],
     "ukrainian-institute": [
       "mariinskyi-park",
       "ukrainian-contemporary-art",
@@ -7263,6 +7288,7 @@
     ],
     "vladimir-lenin": [
       "illich-steel-iron-works",
+      "october-revolution",
       "russian-revolution-of-1905",
       "soviet-union"
     ],
@@ -9015,6 +9041,7 @@
       "nestor-the-chronicler",
       "nikita-khrushchev",
       "nikolai-gogol",
+      "october-revolution",
       "operation-vistula",
       "orange-revolution",
       "orel",
@@ -10147,7 +10174,7 @@
       "id": "coal-in-ukraine",
       "title": "coal in Ukraine",
       "category": "economy",
-      "degree": 476
+      "degree": 477
     },
     {
       "id": "coat-of-arms-of-ukrainiae",
@@ -10465,7 +10492,7 @@
       "id": "donbas",
       "title": "Donbas",
       "category": "geography",
-      "degree": 63
+      "degree": 64
     },
     {
       "id": "donets",
@@ -10639,7 +10666,7 @@
       "id": "fc-zorya-luhansk",
       "title": "FC Zorya Luhansk",
       "category": "war",
-      "degree": 6
+      "degree": 7
     },
     {
       "id": "ferrexpo",
@@ -10651,7 +10678,7 @@
       "id": "fine-arts-museum-kharkiv",
       "title": "Fine Arts Museum Kharkiv",
       "category": "culture",
-      "degree": 6
+      "degree": 7
     },
     {
       "id": "first-battle-of-kharkov",
@@ -10825,7 +10852,7 @@
       "id": "history-of-kyiv",
       "title": "history of Kyiv",
       "category": "history",
-      "degree": 9
+      "degree": 10
     },
     {
       "id": "history-of-the-cossacks",
@@ -10945,7 +10972,7 @@
       "id": "illich-steel-iron-works",
       "title": "Illich Steel & Iron Works",
       "category": "economy",
-      "degree": 11
+      "degree": 12
     },
     {
       "id": "independence-day-of-ukraine",
@@ -11371,7 +11398,7 @@
       "id": "kyiv",
       "title": "Kyiv",
       "category": "geography",
-      "degree": 265
+      "degree": 266
     },
     {
       "id": "kyiv-city-ballet",
@@ -11395,7 +11422,7 @@
       "id": "kyiv-metro",
       "title": "Kyiv Metro",
       "category": "history",
-      "degree": 12
+      "degree": 13
     },
     {
       "id": "kyiv-music-fest",
@@ -11641,7 +11668,7 @@
       "id": "lysychansk",
       "title": "Lysychansk",
       "category": "geography",
-      "degree": 16
+      "degree": 17
     },
     {
       "id": "maidan-nezalezhnosti",
@@ -11677,7 +11704,7 @@
       "id": "mariinskyi-park",
       "title": "Mariinskyi Park",
       "category": "geography",
-      "degree": 9
+      "degree": 10
     },
     {
       "id": "marina-abramović",
@@ -11929,7 +11956,7 @@
       "id": "mykola-shchors",
       "title": "Mykola Shchors",
       "category": "politics",
-      "degree": 7
+      "degree": 8
     },
     {
       "id": "mykola-voronyi",
@@ -12109,7 +12136,7 @@
       "id": "national-university-yuri-kondratyuk-poltava-polytechnic",
       "title": "National University «Yuri Kondratyuk Poltava Polytechnic»",
       "category": "politics",
-      "degree": 3
+      "degree": 4
     },
     {
       "id": "natural-gas-in-ukraine",
@@ -12139,7 +12166,7 @@
       "id": "nikolay-aleksandrovich-tikhonov",
       "title": "Nikolay Aleksandrovich Tikhonov",
       "category": "politics",
-      "degree": 9
+      "degree": 10
     },
     {
       "id": "nina-matviienko",
@@ -12170,6 +12197,12 @@
       "title": "nuclear power in Ukraine",
       "category": "economy",
       "degree": 8
+    },
+    {
+      "id": "october-revolution",
+      "title": "October Revolution",
+      "category": "history",
+      "degree": 24
     },
     {
       "id": "odesa",
@@ -12511,7 +12544,7 @@
       "id": "pochayiv-lavra",
       "title": "Pochayiv Lavra",
       "category": "geography",
-      "degree": 8
+      "degree": 9
     },
     {
       "id": "podil",
@@ -12751,7 +12784,7 @@
       "id": "revolution-on-granite",
       "title": "Revolution on Granite",
       "category": "history",
-      "degree": 16
+      "degree": 17
     },
     {
       "id": "right-sector",
@@ -13183,7 +13216,7 @@
       "id": "soviet-union",
       "title": "Soviet Union",
       "category": "politics",
-      "degree": 216
+      "degree": 218
     },
     {
       "id": "state-emergency-service-of-ukraine",
@@ -13243,7 +13276,7 @@
       "id": "sviatohirsk-lavra",
       "title": "Sviatohirsk Lavra",
       "category": "war",
-      "degree": 13
+      "degree": 14
     },
     {
       "id": "sviatoshyn",
@@ -13453,7 +13486,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 753
+      "degree": 754
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13759,7 +13792,7 @@
       "id": "ukrainian-peoples-republic",
       "title": "Ukrainian People's Republic",
       "category": "history",
-      "degree": 69
+      "degree": 70
     },
     {
       "id": "ukrainian-presidential-election",
@@ -13867,7 +13900,7 @@
       "id": "ukrainiansoviet-war",
       "title": "Ukrainian–Soviet War",
       "category": "history",
-      "degree": 15
+      "degree": 16
     },
     {
       "id": "ukrainization",
@@ -14053,7 +14086,7 @@
       "id": "vladimir-lenin",
       "title": "Vladimir Lenin",
       "category": "history",
-      "degree": 8
+      "degree": 10
     },
     {
       "id": "vladimir-putin",
@@ -14377,7 +14410,7 @@
       "id": "zinaida-serebryakova",
       "title": "Zinaida Serebryakova",
       "category": "culture",
-      "degree": 4
+      "degree": 5
     },
     {
       "id": "zlata-ognevich",
@@ -18643,6 +18676,10 @@
     },
     {
       "source": "vladimir-lenin",
+      "target": "october-revolution"
+    },
+    {
+      "source": "vladimir-lenin",
       "target": "soviet-union"
     },
     {
@@ -19359,6 +19396,10 @@
     },
     {
       "source": "sviatohirsk-lavra",
+      "target": "october-revolution"
+    },
+    {
+      "source": "sviatohirsk-lavra",
       "target": "soviet-union"
     },
     {
@@ -19679,6 +19720,10 @@
     },
     {
       "source": "national-university-yuri-kondratyuk-poltava-polytechnic",
+      "target": "october-revolution"
+    },
+    {
+      "source": "national-university-yuri-kondratyuk-poltava-polytechnic",
       "target": "poltava"
     },
     {
@@ -19848,6 +19893,10 @@
     {
       "source": "soviet-union",
       "target": "nikita-khrushchev"
+    },
+    {
+      "source": "soviet-union",
+      "target": "october-revolution"
     },
     {
       "source": "soviet-union",
@@ -21987,6 +22036,10 @@
     },
     {
       "source": "pochayiv-lavra",
+      "target": "october-revolution"
+    },
+    {
+      "source": "pochayiv-lavra",
       "target": "ternopil"
     },
     {
@@ -22340,6 +22393,10 @@
     {
       "source": "zinaida-serebryakova",
       "target": "kharkiv"
+    },
+    {
+      "source": "zinaida-serebryakova",
+      "target": "october-revolution"
     },
     {
       "source": "zinaida-serebryakova",
@@ -26055,6 +26112,10 @@
     },
     {
       "source": "kyiv",
+      "target": "october-revolution"
+    },
+    {
+      "source": "kyiv",
       "target": "soviet-union"
     },
     {
@@ -26972,6 +27033,10 @@
     {
       "source": "mykola-shchors",
       "target": "kyiv"
+    },
+    {
+      "source": "mykola-shchors",
+      "target": "october-revolution"
     },
     {
       "source": "mykola-shchors",
@@ -28439,6 +28504,10 @@
     },
     {
       "source": "kyiv-metro",
+      "target": "october-revolution"
+    },
+    {
+      "source": "kyiv-metro",
       "target": "post-soviet-states"
     },
     {
@@ -29635,6 +29704,10 @@
     },
     {
       "source": "ukrainiansoviet-war",
+      "target": "october-revolution"
+    },
+    {
+      "source": "ukrainiansoviet-war",
       "target": "ukraine"
     },
     {
@@ -29836,6 +29909,10 @@
     {
       "source": "ukrainian-peoples-republic",
       "target": "kherson"
+    },
+    {
+      "source": "ukrainian-peoples-republic",
+      "target": "october-revolution"
     },
     {
       "source": "ukrainian-peoples-republic",
@@ -32447,6 +32524,10 @@
     },
     {
       "source": "nikolay-aleksandrovich-tikhonov",
+      "target": "october-revolution"
+    },
+    {
+      "source": "nikolay-aleksandrovich-tikhonov",
       "target": "soviet-union"
     },
     {
@@ -32708,6 +32789,10 @@
     {
       "source": "lysychansk",
       "target": "luhansk-peoples-republic"
+    },
+    {
+      "source": "lysychansk",
+      "target": "october-revolution"
     },
     {
       "source": "lysychansk",
@@ -32984,6 +33069,10 @@
     {
       "source": "mariinskyi-park",
       "target": "kyiv"
+    },
+    {
+      "source": "mariinskyi-park",
+      "target": "october-revolution"
     },
     {
       "source": "mariinskyi-park",
@@ -33952,6 +34041,10 @@
     {
       "source": "history-of-kyiv",
       "target": "kyiv"
+    },
+    {
+      "source": "history-of-kyiv",
+      "target": "october-revolution"
     },
     {
       "source": "history-of-kyiv",
@@ -35119,6 +35212,10 @@
     },
     {
       "source": "illich-steel-iron-works",
+      "target": "october-revolution"
+    },
+    {
+      "source": "illich-steel-iron-works",
       "target": "siberia"
     },
     {
@@ -35336,6 +35433,26 @@
     {
       "source": "ministry-of-justice-of-ukraine",
       "target": "ukrainian"
+    },
+    {
+      "source": "october-revolution",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "october-revolution",
+      "target": "donbas"
+    },
+    {
+      "source": "october-revolution",
+      "target": "soviet-union"
+    },
+    {
+      "source": "october-revolution",
+      "target": "ukraine"
+    },
+    {
+      "source": "october-revolution",
+      "target": "vladimir-lenin"
     },
     {
       "source": "donetsk",
@@ -35864,6 +35981,10 @@
     {
       "source": "revolution-on-granite",
       "target": "mikhail-gorbachev"
+    },
+    {
+      "source": "revolution-on-granite",
+      "target": "october-revolution"
     },
     {
       "source": "revolution-on-granite",
@@ -36440,6 +36561,10 @@
     {
       "source": "fine-arts-museum-kharkiv",
       "target": "kharkiv-oblast"
+    },
+    {
+      "source": "fine-arts-museum-kharkiv",
+      "target": "october-revolution"
     },
     {
       "source": "fine-arts-museum-kharkiv",
@@ -40744,6 +40869,10 @@
     {
       "source": "fc-zorya-luhansk",
       "target": "luhansk"
+    },
+    {
+      "source": "fc-zorya-luhansk",
+      "target": "october-revolution"
     },
     {
       "source": "fc-zorya-luhansk",

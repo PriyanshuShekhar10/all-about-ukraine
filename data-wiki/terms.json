@@ -11830,5 +11830,21 @@
     ],
     "notability": 41,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q42976",
+    "slug": "october-revolution",
+    "name": "October Revolution",
+    "wp_title": "October Revolution",
+    "type": "revolution",
+    "category": "history",
+    "aliases": [
+      "Bolshevik Revolution",
+      "October Revolution of 1917",
+      "Red October",
+      "Red Revolution"
+    ],
+    "notability": 117,
+    "status": "synthesized"
   }
 ]
