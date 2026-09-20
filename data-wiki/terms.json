@@ -11846,5 +11846,20 @@
     ],
     "notability": 117,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q230073",
+    "slug": "anne-of-kyiv",
+    "name": "Anne of Kyiv",
+    "wp_title": "Anne of Kiev",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "Anna Yaroslavna",
+      "Anne of Kiev",
+      "Anne of Russia"
+    ],
+    "notability": 62,
+    "status": "synthesized"
   }
 ]

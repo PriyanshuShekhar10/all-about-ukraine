@@ -1,0 +1,85 @@
+{
+  "qid": "Q230073",
+  "slug": "anne-of-kyiv",
+  "title": "Anne of Kyiv",
+  "type": "human",
+  "category": "politics",
+  "aliases": [
+    "Anna Yaroslavna",
+    "Anne of Kiev",
+    "Anne of Russia"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1025",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1075-09-05",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Kyiv",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "regent, Queen Consort of France",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Anne of Kyiv, also known as Anna Yaroslavna (c. 1030 – 1075), was a princess of Kievan Rus who became Queen of France through her marriage to King Henry I in 1051. Her reign as regent and her contributions to both French and Ukrainian history highlight her significance in the medieval period.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Anne was born around 1030, likely as the youngest daughter of Yaroslav the Wise, Grand Prince of Kiev, and Ingegerd Olofsdotter of Sweden. Although her exact birthdate is uncertain, it is suggested to be between 1027 and 1032. Her upbringing in [[kievan-rus|Kievan Rus]], known for its educational advancements under her father's rule, likely provided her with a significant level of literacy."
+      ]
+    },
+    {
+      "heading": "Marriage and Queenship",
+      "paragraphs": [
+        "In 1051, Anne married King Henry I of France, becoming the first French queen to be crowned at Reims Cathedral. The marriage was politically motivated, addressing Henry's need for an heir after the death of his first wife. Anne and Henry had three sons, including Philip I, and possibly a daughter named Emma. Anne is credited with introducing the name 'Philip' to Western European royalty, reflecting her Eastern Orthodox heritage."
+      ]
+    },
+    {
+      "heading": "Regency and Political Influence",
+      "paragraphs": [
+        "Following Henry's death in 1060, Anne served as regent for her son Philip I. She played an active role in governance, evidenced by her name appearing on various charters. However, her influence diminished after her controversial remarriage to Count Ralph IV of Valois, which led to her estrangement from her son and his advisors."
+      ]
+    },
+    {
+      "heading": "Cultural Contributions",
+      "paragraphs": [
+        "Anne founded the Abbey of St. Vincent at Senlis, dedicating resources to ensure its sustainability. Her correspondence and actions during this period reflect her adherence to Greek Orthodox beliefs, indicating her cultural roots in Kievan Rus."
+      ]
+    },
+    {
+      "heading": "Legacy",
+      "paragraphs": [
+        "Anne of Kyiv's legacy has evolved over the centuries, becoming a symbol of [[ukrainian-nationalism|Ukrainian nationalism]] in the 20th century. In 1998, [[ukraine|Ukraine]] issued a postage stamp in her honor, and in 2005, a bronze statue was unveiled in Senlis. The naming of the 'Anne of Kyiv' Brigade in 2024 further emphasizes her enduring significance in [[history-of-ukraine|Ukrainian history]] and identity."
+      ]
+    }
+  ],
+  "links_out": [
+    "history-of-ukraine",
+    "kievan-rus",
+    "ukraine",
+    "ukrainian-nationalism"
+  ],
+  "sources": [
+    {
+      "title": "Anne of Kiev — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anne_of_Kiev",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-20",
+  "status": "published"
+}

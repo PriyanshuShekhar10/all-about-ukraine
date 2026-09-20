@@ -662,6 +662,7 @@
       "andriivskyi-descent",
       "andriy-shevchenko",
       "andriy-yarmolenko",
+      "anne-of-kyiv",
       "antonov",
       "antonov-airlines",
       "apostolic-nunciature-to-ukraine",
@@ -4188,6 +4189,7 @@
       "ukrainian-carpathians"
     ],
     "kievan-rus": [
+      "anne-of-kyiv",
       "bila-tserkva",
       "boryslav",
       "boryspil",
@@ -4464,6 +4466,7 @@
       "zolotonosha"
     ],
     "history-of-ukraine": [
+      "anne-of-kyiv",
       "battle-of-kruty",
       "battle-of-poltava",
       "baturyn",
@@ -4834,6 +4837,7 @@
     "ukrainian-nationalism": [
       "alexander-j-motyl",
       "andrii-parubii",
+      "anne-of-kyiv",
       "bohdan-khmelnytsky",
       "history-of-ukraine",
       "leonid-kravchuk",
@@ -8242,6 +8246,9 @@
       "battle-of-donetsk-airport",
       "donetsk"
     ],
+    "anne-of-kyiv": [
+      "education-in-ukraine"
+    ],
     "revolution-on-granite": [
       "maidan-nezalezhnosti",
       "mikheil-saakashvili"
@@ -8479,6 +8486,7 @@
       "administrative-territorial-entity-of-ukraine",
       "andrii-parubii",
       "andrii-yermak",
+      "anne-of-kyiv",
       "armed-forces-of-ukraine",
       "batkivshchyna",
       "bessarabia",
@@ -9509,6 +9517,12 @@
       "title": "Andriy Yarmolenko",
       "category": "people",
       "degree": 13
+    },
+    {
+      "id": "anne-of-kyiv",
+      "title": "Anne of Kyiv",
+      "category": "politics",
+      "degree": 5
     },
     {
       "id": "antonov",
@@ -10582,7 +10596,7 @@
       "id": "education-in-ukraine",
       "title": "education in Ukraine",
       "category": "politics",
-      "degree": 12
+      "degree": 13
     },
     {
       "id": "elections-in-ukraine",
@@ -10870,7 +10884,7 @@
       "id": "history-of-ukraine",
       "title": "history of Ukraine",
       "category": "people",
-      "degree": 67
+      "degree": 68
     },
     {
       "id": "history-of-ukrainian-nationality",
@@ -11260,7 +11274,7 @@
       "id": "kievan-rus",
       "title": "Kievan Rus'",
       "category": "history",
-      "degree": 68
+      "degree": 69
     },
     {
       "id": "kingdom-of-galiciavolhynia",
@@ -13486,7 +13500,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 754
+      "degree": 755
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13750,7 +13764,7 @@
       "id": "ukrainian-nationalism",
       "title": "Ukrainian nationalism",
       "category": "politics",
-      "degree": 28
+      "degree": 29
     },
     {
       "id": "ukrainian-opera",
@@ -28831,6 +28845,22 @@
       "target": "uman"
     },
     {
+      "source": "anne-of-kyiv",
+      "target": "history-of-ukraine"
+    },
+    {
+      "source": "anne-of-kyiv",
+      "target": "kievan-rus"
+    },
+    {
+      "source": "anne-of-kyiv",
+      "target": "ukraine"
+    },
+    {
+      "source": "anne-of-kyiv",
+      "target": "ukrainian-nationalism"
+    },
+    {
       "source": "soviet-invasion-of-poland",
       "target": "eastern-europe"
     },
@@ -35617,6 +35647,10 @@
     {
       "source": "mykolayiv-state-agrarian-university",
       "target": "ukraine"
+    },
+    {
+      "source": "education-in-ukraine",
+      "target": "anne-of-kyiv"
     },
     {
       "source": "education-in-ukraine",
