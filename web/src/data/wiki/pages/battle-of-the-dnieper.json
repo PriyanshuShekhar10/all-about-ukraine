@@ -1,0 +1,81 @@
+{
+  "qid": "Q313836",
+  "slug": "battle-of-the-dnieper",
+  "title": "Battle of the Dnieper",
+  "type": "battle",
+  "category": "history",
+  "aliases": [
+    "Battle of the Dnipro"
+  ],
+  "infobox": {
+    "label": "battle",
+    "fields": [
+      {
+        "label": "Location",
+        "value": "Dnieper",
+        "source": "wikidata:P276"
+      }
+    ]
+  },
+  "summary": "The Battle of the Dnieper was a significant military campaign during World War II, occurring in 1943 on the Eastern Front. This extensive operation involved nearly four million troops and was crucial for the liberation of [[ukrainian|Ukrainian]] territories from German occupation, including the pivotal city of Kiev.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Battle of the Dnieper, referred to by German forces as the Defensive battles on the [[dnieper|Dnieper]], was a major military campaign in 1943 on the Eastern Front of World War II. It was one of the largest operations of the war, engaging almost four million troops and spanning a front of 1,400 kilometers (870 miles). Over a four-month period, the Red Army successfully regained control of the eastern bank of the Dnieper River from German forces, culminating in the liberation of Kiev during the Second [[battle-of-kiev|Battle of Kiev]]."
+      ]
+    },
+    {
+      "heading": "Strategic Context",
+      "paragraphs": [
+        "Following the Battle of Kursk, German forces in southern [[ukraine|Ukraine]] were on the defensive. By mid-August 1943, Adolf Hitler recognized that the impending Soviet offensive could not be contained on the open steppe and ordered the construction of fortifications along the Dnieper River. Meanwhile, Joseph [[donetsk|Stalin]] was intent on launching a significant offensive [[coal-in-ukraine|in Ukraine]], focusing on a southwesterly direction with a stabilized northern flank."
+      ]
+    },
+    {
+      "heading": "Soviet Planning and Organization",
+      "paragraphs": [
+        "The operation commenced on 26 August 1943, with Soviet divisions mobilizing along a 1,400-kilometer front from Smolensk to the [[sea-of-azov|Sea of Azov]]. The operation involved 36 Combined Arms, four Tank, and five Air Armies, totaling 2,650,000 personnel. [[soviet-union|The Soviets]] deployed 51,000 guns and mortars, 2,400 tanks, and 2,850 aircraft. The Dnieper, being the third largest river in Europe, posed significant challenges due to its width and the steepness of its western bank, which was fortified by German defenses.",
+        "The Soviet high command, Stavka, opted for a direct assault rather than a deep penetration strategy, prioritizing a rapid advance to prevent German scorched earth tactics. The assault was launched across a 300-kilometer front, utilizing all available transport means, including makeshift rafts and fishing boats."
+      ]
+    },
+    {
+      "heading": "German Defense Preparations",
+      "paragraphs": [
+        "In response to the Soviet offensive, German forces initiated the construction of the Dnieper defense complex, known as 'Ostwall' or 'Eastern Wall', beginning on 11 August 1943. Although fortifications were established along the river, the defenses were not uniformly completed, focusing instead on likely assault points. On 7 September 1943, German forces were ordered to implement a scorched earth policy, destroying resources that could aid the Soviet war effort."
+      ]
+    },
+    {
+      "heading": "Course of the Battle",
+      "paragraphs": [
+        "Despite the numerical superiority of the Soviet forces, the battle was fiercely contested, with German troops employing rear guard tactics to slow the Soviet advance. By mid-September, it became evident that the Germans could not maintain their defensive positions against the Soviet offensive. On 15 September 1943, Hitler commanded Army Group South to retreat to the Dnieper defense line.",
+        "The battle for [[poltava|Poltava]] was particularly intense, with the city heavily fortified. After a challenging urban conflict, Soviet forces overcame the garrison, advancing towards the Dnieper by the end of September 1943."
+      ]
+    },
+    {
+      "heading": "Airborne Operations",
+      "paragraphs": [
+        "In a strategic maneuver, the Central Front's 3rd Tank Army was dispatched to secure the Dnieper before German defenses could stabilize. On 23 September, Soviet infantry crossed the river using makeshift rafts, establishing fragile bridgeheads. An urgent airborne assault was ordered to bolster these positions, with the Voronezh Front's airborne brigades tasked with securing a wide perimeter on the Dnieper loop. However, logistical challenges and delays hampered the operation, complicating the execution of the airborne mission."
+      ]
+    }
+  ],
+  "links_out": [
+    "battle-of-kiev",
+    "coal-in-ukraine",
+    "dnieper",
+    "donetsk",
+    "poltava",
+    "sea-of-azov",
+    "soviet-union",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Battle of the Dnieper — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Dnieper",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-21",
+  "status": "published"
+}

@@ -43,6 +43,7 @@
       "battle-of-batih",
       "battle-of-kiev",
       "battle-of-kruty",
+      "battle-of-the-dnieper",
       "beer-in-ukraine",
       "beskids",
       "bila-tserkva-raion",
@@ -695,6 +696,7 @@
       "battle-of-poltava",
       "battle-of-sievierodonetsk",
       "battle-of-sumy",
+      "battle-of-the-dnieper",
       "battle-of-zboriv",
       "baturyn",
       "beer-in-ukraine",
@@ -1425,6 +1427,7 @@
       "battle-of-poltava",
       "battle-of-sievierodonetsk",
       "battle-of-sumy",
+      "battle-of-the-dnieper",
       "beer-in-ukraine",
       "belovodskoye",
       "beskids",
@@ -2380,6 +2383,7 @@
       "antonov-airlines",
       "artem-dovbyk",
       "battle-of-kiev",
+      "battle-of-the-dnieper",
       "borys-filatov",
       "boryspil",
       "borysthenes",
@@ -4268,6 +4272,7 @@
       "banking-in-ukraine",
       "battle-of-kiev",
       "battle-of-lwów",
+      "battle-of-the-dnieper",
       "bessarabia",
       "black-sea-shipping-company",
       "bohdan-stupka",
@@ -4948,6 +4953,7 @@
       "battle-of-bakhmut",
       "battle-of-ilovaisk",
       "battle-of-kiev",
+      "battle-of-the-dnieper",
       "categorysteel-industry-in-ukraine",
       "crimea",
       "culture-of-ukraine",
@@ -5628,6 +5634,7 @@
       "ukraine-east"
     ],
     "sea-of-azov": [
+      "battle-of-the-dnieper",
       "black-sea-shipping-company",
       "chornomornaftogaz",
       "crimea",
@@ -6544,6 +6551,7 @@
       "andriy-yarmolenko",
       "astarta-holding",
       "battle-of-poltava",
+      "battle-of-the-dnieper",
       "belovodskoye",
       "borscht",
       "cabbage-roll",
@@ -8144,6 +8152,10 @@
     "andriy-shevchenko": [
       "andriy-yarmolenko"
     ],
+    "battle-of-kiev": [
+      "battle-of-the-dnieper",
+      "first-battle-of-kharkov"
+    ],
     "kyiv-city-state-administration": [
       "vitali-klitschko"
     ],
@@ -8362,9 +8374,6 @@
     ],
     "maksym-kryvonis": [
       "kremenets-castle"
-    ],
-    "battle-of-kiev": [
-      "first-battle-of-kharkov"
     ],
     "zhydachiv": [
       "ostriv"
@@ -8988,6 +8997,7 @@
       "battle-of-kruty",
       "battle-of-lwów",
       "battle-of-poltava",
+      "battle-of-the-dnieper",
       "battle-of-zboriv",
       "bohdan-hawrylyshyn",
       "bohdan-khmelnytsky",
@@ -9708,7 +9718,7 @@
       "id": "battle-of-kiev",
       "title": "Battle of Kiev",
       "category": "history",
-      "degree": 10
+      "degree": 11
     },
     {
       "id": "battle-of-kruty",
@@ -9757,6 +9767,12 @@
       "title": "Battle of Sumy",
       "category": "war",
       "degree": 5
+    },
+    {
+      "id": "battle-of-the-dnieper",
+      "title": "Battle of the Dnieper",
+      "category": "history",
+      "degree": 9
     },
     {
       "id": "battle-of-zboriv",
@@ -10188,7 +10204,7 @@
       "id": "coal-in-ukraine",
       "title": "coal in Ukraine",
       "category": "economy",
-      "degree": 477
+      "degree": 478
     },
     {
       "id": "coat-of-arms-of-ukrainiae",
@@ -10452,7 +10468,7 @@
       "id": "dnieper",
       "title": "Dnieper",
       "category": "geography",
-      "degree": 90
+      "degree": 91
     },
     {
       "id": "dnieper-ukraine",
@@ -10518,7 +10534,7 @@
       "id": "donetsk",
       "title": "Donetsk",
       "category": "geography",
-      "degree": 75
+      "degree": 76
     },
     {
       "id": "donetsk-international-airport",
@@ -12594,7 +12610,7 @@
       "id": "poltava",
       "title": "Poltava",
       "category": "geography",
-      "degree": 39
+      "degree": 40
     },
     {
       "id": "poltava-oblast",
@@ -13032,7 +13048,7 @@
       "id": "sea-of-azov",
       "title": "Sea of Azov",
       "category": "geography",
-      "degree": 25
+      "degree": 26
     },
     {
       "id": "second-battle-of-kharkov",
@@ -13230,7 +13246,7 @@
       "id": "soviet-union",
       "title": "Soviet Union",
       "category": "politics",
-      "degree": 218
+      "degree": 219
     },
     {
       "id": "state-emergency-service-of-ukraine",
@@ -13500,7 +13516,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 755
+      "degree": 756
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13548,7 +13564,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 665
+      "degree": 666
     },
     {
       "id": "ukrainian-americans",
@@ -32527,6 +32543,42 @@
     {
       "source": "republic-of-abkhazia",
       "target": "ukraine"
+    },
+    {
+      "source": "battle-of-the-dnieper",
+      "target": "battle-of-kiev"
+    },
+    {
+      "source": "battle-of-the-dnieper",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "battle-of-the-dnieper",
+      "target": "dnieper"
+    },
+    {
+      "source": "battle-of-the-dnieper",
+      "target": "donetsk"
+    },
+    {
+      "source": "battle-of-the-dnieper",
+      "target": "poltava"
+    },
+    {
+      "source": "battle-of-the-dnieper",
+      "target": "sea-of-azov"
+    },
+    {
+      "source": "battle-of-the-dnieper",
+      "target": "soviet-union"
+    },
+    {
+      "source": "battle-of-the-dnieper",
+      "target": "ukraine"
+    },
+    {
+      "source": "battle-of-the-dnieper",
+      "target": "ukrainian"
     },
     {
       "source": "nikolay-aleksandrovich-tikhonov",

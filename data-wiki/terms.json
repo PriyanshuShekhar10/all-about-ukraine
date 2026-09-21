@@ -11861,5 +11861,18 @@
     ],
     "notability": 62,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q313836",
+    "slug": "battle-of-the-dnieper",
+    "name": "Battle of the Dnieper",
+    "wp_title": "Battle of the Dnieper",
+    "type": "battle",
+    "category": "history",
+    "aliases": [
+      "Battle of the Dnipro"
+    ],
+    "notability": 37,
+    "status": "synthesized"
   }
 ]

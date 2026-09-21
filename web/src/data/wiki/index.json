@@ -679,6 +679,16 @@
     "aliases": []
   },
   {
+    "slug": "battle-of-the-dnieper",
+    "title": "Battle of the Dnieper",
+    "type": "battle",
+    "category": "history",
+    "summary": "The Battle of the Dnieper was a significant military campaign during World War II, occurring in 1943 on the Eastern Front. This extensive operation involved nearly four million troops and was crucial for the liberation of [[ukrainian|Ukrainian]] territories from German occupation, including the pivotal city of Kiev.",
+    "aliases": [
+      "Battle of the Dnipro"
+    ]
+  },
+  {
     "slug": "battle-of-zboriv",
     "title": "Battle of Zboriv",
     "type": "Wikimedia disambiguation page",
