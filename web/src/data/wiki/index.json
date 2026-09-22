@@ -3244,6 +3244,16 @@
     "aliases": []
   },
   {
+    "slug": "kamchatka-peninsula",
+    "title": "Kamchatka Peninsula",
+    "type": "peninsula",
+    "category": "geography",
+    "summary": "The Kamchatka Peninsula is a prominent geographical feature in the Russian Far East, extending 1,250 kilometers with an area of approximately 270,000 square kilometers. Its unique volcanic landscape and significant biodiversity have made it a UNESCO World Heritage Site, while its historical and cultural connections to indigenous peoples offer insights into the region's past.",
+    "aliases": [
+      "Kamchatka"
+    ]
+  },
+  {
     "slug": "kamianets-podilskyi",
     "title": "Kamianets-Podilskyi",
     "type": "city of regional significance of Ukraine",

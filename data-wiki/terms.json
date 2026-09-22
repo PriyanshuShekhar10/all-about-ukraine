@@ -11874,5 +11874,18 @@
     ],
     "notability": 37,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q993",
+    "slug": "kamchatka-peninsula",
+    "name": "Kamchatka Peninsula",
+    "wp_title": "Kamchatka Peninsula",
+    "type": "peninsula",
+    "category": "geography",
+    "aliases": [
+      "Kamchatka"
+    ],
+    "notability": 105,
+    "status": "synthesized"
   }
 ]

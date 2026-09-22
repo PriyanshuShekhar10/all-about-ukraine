@@ -1606,6 +1606,7 @@
       "izmail",
       "jamala",
       "judicial-system-of-ukraine",
+      "kamchatka-peninsula",
       "kamianets-podilskyi",
       "kerch-strait-incident",
       "kharkiv",
@@ -8645,6 +8646,7 @@
       "ivano-frankivsk-raion",
       "iziaslav",
       "izmail",
+      "kamchatka-peninsula",
       "kamianets-podilskyi",
       "kharkiv",
       "kharkiv-national-university-of-radioelectronics",
@@ -11173,6 +11175,12 @@
       "degree": 10
     },
     {
+      "id": "kamchatka-peninsula",
+      "title": "Kamchatka Peninsula",
+      "category": "geography",
+      "degree": 1
+    },
+    {
       "id": "kamianets-podilskyi",
       "title": "Kamianets-Podilskyi",
       "category": "geography",
@@ -13564,7 +13572,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 666
+      "degree": 667
     },
     {
       "id": "ukrainian-americans",
@@ -43727,6 +43735,10 @@
     {
       "source": "ivano-frankivsk-raion",
       "target": "ukraine"
+    },
+    {
+      "source": "kamchatka-peninsula",
+      "target": "ukrainian"
     },
     {
       "source": "rava-ruska",

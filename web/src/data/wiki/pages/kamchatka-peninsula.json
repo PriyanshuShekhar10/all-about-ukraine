@@ -1,0 +1,75 @@
+{
+  "qid": "Q993",
+  "slug": "kamchatka-peninsula",
+  "title": "Kamchatka Peninsula",
+  "type": "peninsula",
+  "category": "geography",
+  "aliases": [
+    "Kamchatka"
+  ],
+  "infobox": {
+    "label": "peninsula",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Russia, Tsardom of Russia",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Area (km²)",
+        "value": "270,000",
+        "source": "wikidata:P2046"
+      },
+      {
+        "label": "Coordinates",
+        "value": "57.0000, 160.0000",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Kamchatka Peninsula is a prominent geographical feature in the Russian Far East, extending 1,250 kilometers with an area of approximately 270,000 square kilometers. Its unique volcanic landscape and significant biodiversity have made it a UNESCO World Heritage Site, while its historical and cultural connections to indigenous peoples offer insights into the region's past.",
+  "sections": [
+    {
+      "heading": "Geography",
+      "paragraphs": [
+        "The Kamchatka Peninsula is located in the Russian Far East, bordered by the Sea of Okhotsk to the west and the Bering Sea to the east. The peninsula is characterized by its mountainous terrain, including the Kamchatka and Eastern Ranges, with the Kamchatka River flowing through the central valley. Major geographical features include Avacha Bay, Cape Lopatka, and various peninsulas such as Shipunsky Point and Kronotsky Point."
+      ]
+    },
+    {
+      "heading": "Climate",
+      "paragraphs": [
+        "Kamchatka experiences a subarctic climate, receiving up to 2,700 millimeters of precipitation annually, which is significantly higher than other regions in Eastern Russia. The climate is influenced by prevailing westerly winds and varies considerably between the coastal and interior areas, with the coastal regions being wetter and milder compared to the drier interior valley."
+      ]
+    },
+    {
+      "heading": "Geology and Volcanism",
+      "paragraphs": [
+        "The Kamchatka Peninsula is renowned for its volcanic activity, featuring around 160 volcanoes, 29 of which are still active. This area is part of the Pacific Ring of Fire and includes six UNESCO World Heritage sites. The highest volcano, Klyuchevskaya Sopka, stands at 4,750 meters, making it the largest active volcano in the Northern Hemisphere."
+      ]
+    },
+    {
+      "heading": "History and Exploration",
+      "paragraphs": [
+        "Before Russian exploration, the peninsula was inhabited by various indigenous groups, including the Itelmen and Koryak. Russian exploration began in the 17th century, with significant figures such as Ivan Moskvitin and Vladimir Atlasov contributing to the region's mapping and settlement. The establishment of Petropavlovsk-Kamchatsky in 1740 marked a pivotal point in the peninsula's history, which saw a mix of indigenous and Russian populations."
+      ]
+    },
+    {
+      "heading": "Cultural Significance",
+      "paragraphs": [
+        "The Kamchatka Peninsula's unique biodiversity and geological features have made it a site of interest not only for scientists but also for tourists. The indigenous cultures and their historical connections to the land highlight the importance of Kamchatka in understanding the broader context of Russian and [[ukrainian|Ukrainian]] interactions in the region."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Kamchatka Peninsula — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kamchatka_Peninsula",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-22",
+  "status": "published"
+}
