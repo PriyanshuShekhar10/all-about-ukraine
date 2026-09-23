@@ -1206,6 +1206,7 @@
       "sviatoslav-vakarchuk",
       "svitlovodsk",
       "svyatogor",
+      "syr-darya",
       "syvash-bay",
       "taras-bulba",
       "taras-shevchenko",
@@ -8726,6 +8727,7 @@
       "state-university-of-trade-and-economics",
       "sumy",
       "sviatohirsk",
+      "syr-darya",
       "ternivka",
       "ternopil",
       "ternopil-castle",
@@ -13353,6 +13355,12 @@
       "degree": 1
     },
     {
+      "id": "syr-darya",
+      "title": "Syr Darya",
+      "category": "geography",
+      "degree": 1
+    },
+    {
       "id": "syvash-bay",
       "title": "Syvash Bay",
       "category": "history",
@@ -13524,7 +13532,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 756
+      "degree": 757
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -37447,6 +37455,10 @@
     {
       "source": "yulia-tymoshenko",
       "target": "verkhovna-rada"
+    },
+    {
+      "source": "syr-darya",
+      "target": "ukraine"
     },
     {
       "source": "chernobyl-disaster",

@@ -1,0 +1,92 @@
+{
+  "qid": "Q483159",
+  "slug": "syr-darya",
+  "title": "Syr Darya",
+  "type": "river",
+  "category": "geography",
+  "aliases": [
+    "Iaxartes",
+    "Iaxartes River",
+    "Jaxartes",
+    "Jaxartes River",
+    "River Iaxartes",
+    "River Jaxartes",
+    "River Sir",
+    "River Sirr",
+    "River Syr",
+    "River Yaxartes",
+    "Sir",
+    "Sir Daria",
+    "Sir Darya",
+    "Sir River",
+    "Sir-Daria",
+    "Sirr",
+    "Sirr Darya",
+    "Sirr River",
+    "Syr",
+    "Syr River",
+    "Syr-darya",
+    "Syrdarya",
+    "Sîr-daria",
+    "Yaxartes",
+    "Yaxartes River"
+  ],
+  "infobox": {
+    "label": "river",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Kazakhstan, Uzbekistan",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Coordinates",
+        "value": "40.9006, 71.7581",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Syr Darya, historically referred to as the Jaxartes, is a significant river in Central Asia, originating in the Tian Shan mountains and flowing through several countries, including Uzbekistan and Kazakhstan. Its connection to Ukraine is primarily through historical contexts and ecological impacts that resonate with broader regional issues.",
+  "sections": [
+    {
+      "heading": "Geographical Overview",
+      "paragraphs": [
+        "The Syr Darya rises from two main headstreams, the Naryn River and the Kara Darya, in the Tian Shan Mountains located in Kyrgyzstan and eastern Uzbekistan. It flows for approximately 2,256.25 kilometres (1,401.97 mi) in a west and north-west direction, traversing Uzbekistan, the Sughd province of Tajikistan, and southern Kazakhstan before reaching the northern remnants of the Aral Sea.",
+        "The river drains an area exceeding 800,000 square kilometres (310,000 sq mi), although only around 160,000 square kilometres (62,000 sq mi) contribute significant flow. The Syr Darya's annual flow is approximately 37 cubic kilometres (30,000,000 acre⋅ft; 8.9 mi3) per year, which is notably less than that of the Amu Darya."
+      ]
+    },
+    {
+      "heading": "Historical Significance",
+      "paragraphs": [
+        "The Syr Darya has been historically significant since ancient times. In 329 BC, Alexander the Great encountered resistance from local tribes at the river during his campaign, leading to the Battle of Jaxartes. Following this, he established a garrison at the City of Cyrus, later known as Alexandria Eschate, which is located in present-day Tajikistan.",
+        "Throughout history, the river has served as a vital resource for agriculture and trade in Central Asia, influencing the development of surrounding regions, including areas that are now part of [[ukraine|Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Ecological Impact",
+      "paragraphs": [
+        "The extensive irrigation projects initiated during the Soviet era significantly altered the ecological landscape of the Syr Darya. These projects diverted large amounts of water for agricultural purposes, particularly for cotton and rice cultivation, leading to the near disappearance of the Aral Sea, once the world's fourth-largest lake.",
+        "The ecological damage has had lasting effects, with reduced water flow impacting local ecosystems and increasing pollution levels, including elevated uranium concentrations in the river's water, particularly in Tajikistan."
+      ]
+    },
+    {
+      "heading": "Cultural and Linguistic Aspects",
+      "paragraphs": [
+        "The name Syr Darya, which translates to 'secret river' in Tajik, has evolved over time. The earliest recorded name, Jaxartes, is derived from Ancient Greek and has connections to the Persian term Yakhsha Arta, meaning 'True Pearl', likely referring to the river's glacial waters.",
+        "The current name was adopted in the 18th century, with historical references indicating its importance in the cultural narratives of the region, which also intersect with the histories of neighboring areas, including Ukraine."
+      ]
+    }
+  ],
+  "links_out": [
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Syr Darya — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Syr_Darya",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-23",
+  "status": "published"
+}
