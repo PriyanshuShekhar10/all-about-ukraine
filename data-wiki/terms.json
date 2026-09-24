@@ -11924,5 +11924,20 @@
     ],
     "notability": 94,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q4082777",
+    "slug": "belarusukraine-relations",
+    "name": "Belarus–Ukraine relations",
+    "wp_title": "Belarus–Ukraine relations",
+    "type": "bilateral relation",
+    "category": "politics",
+    "aliases": [
+      "Belarus-Ukraine relations",
+      "Ukraine-Belarus relations",
+      "Ukraine–Belarus relations"
+    ],
+    "notability": 18,
+    "status": "synthesized"
   }
 ]

@@ -1,0 +1,82 @@
+{
+  "qid": "Q4082777",
+  "slug": "belarusukraine-relations",
+  "title": "Belarus–Ukraine relations",
+  "type": "bilateral relation",
+  "category": "politics",
+  "aliases": [
+    "Belarus-Ukraine relations",
+    "Ukraine-Belarus relations",
+    "Ukraine–Belarus relations"
+  ],
+  "infobox": {
+    "label": "bilateral relation",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Belarus, Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "Belarus–Ukraine relations encompass a complex history marked by shared cultural ties, significant diplomatic interactions, and recent tensions exacerbated by geopolitical conflicts. The relationship has evolved through various phases, particularly influenced by events surrounding the Russian invasion of Ukraine.",
+  "sections": [
+    {
+      "heading": "Historical Background",
+      "paragraphs": [
+        "Belarus and [[ukraine|Ukraine]] share a historical connection as both were part of [[kievan-rus|Kievan Rus]]' from the 9th to the 13th centuries CE, later coming under the Polish–Lithuanian Commonwealth from 1569 to 1795 and subsequently the Russian Empire from 1721 to 1917. Both nations were part of [[soviet-union|the Soviet Union]] prior to its dissolution in 1991, with Belarus as the Byelorussian SSR and Ukraine as the [[ukrainian-soviet-socialist-republic|Ukrainian SSR]]. They became founding members of the United Nations in 1945 and share closely related cultures as East Slavic nations."
+      ]
+    },
+    {
+      "heading": "Modern Diplomatic Relations",
+      "paragraphs": [
+        "Belarus and Ukraine share an 891-km border, with a state border agreement signed in 1997 awaiting ratification by the Belarusian parliament. The Honorary Consul of Ukraine in Belarus is businessman Valentin Baiko. Diplomatic relations have seen both cooperation and conflict, particularly in the context of regional security."
+      ]
+    },
+    {
+      "heading": "Tensions and Conflicts",
+      "paragraphs": [
+        "The relationship began to deteriorate in 2020 amid protests in Belarus against President Alexander Lukashenko, following criticism from the [[cabinet-of-ministers-of-ukraine|Ukrainian government]]. This decline continued into 2021, culminating in the Russian [[full-scale-russo-ukrainian-war|invasion of Ukraine]] on 24 February 2022, which was facilitated by Belarus allowing Russian troops to operate from its territory. Despite these tensions, Ukraine has not severed diplomatic ties with Belarus, although relations remain frozen.",
+        "In July 2024, Lukashenko labeled Ukraine as an enemy, and tensions escalated further with Belarusian claims of high combat readiness near the Belarus–Ukraine border. The Belarusian Foreign Ministry also warned Ukraine regarding airspace violations."
+      ]
+    },
+    {
+      "heading": "Potential for Rapprochement",
+      "paragraphs": [
+        "On 19 October 2025, a potential shift in relations was indicated when Ivan Tertel, head of the Belarusian State Security Committee, expressed a willingness to find a consensus with Ukraine to end the Russo-Ukrainian war. This statement reflects Belarus's attempt to mitigate its diplomatic and economic isolation by seeking a mediating role."
+      ]
+    },
+    {
+      "heading": "Diplomatic Visits",
+      "paragraphs": [
+        "Significant diplomatic visits have occurred between the two nations, including multiple visits by [[president-of-ukraine|Ukrainian President]] [[petro-poroshenko|Petro Poroshenko]] to Belarus from 2014 to 2018, and several visits by Belarusian President Alexander Lukashenko to Ukraine from 2004 to 2019."
+      ]
+    },
+    {
+      "heading": "Resident Diplomatic Missions",
+      "paragraphs": [
+        "Belarus maintains an embassy in [[kyiv|Kyiv]], while Ukraine has an embassy in Minsk and a consulate-general in Brest, reflecting ongoing diplomatic engagement despite the complexities of their bilateral relations."
+      ]
+    }
+  ],
+  "links_out": [
+    "cabinet-of-ministers-of-ukraine",
+    "full-scale-russo-ukrainian-war",
+    "kievan-rus",
+    "kyiv",
+    "petro-poroshenko",
+    "president-of-ukraine",
+    "soviet-union",
+    "ukraine",
+    "ukrainian-soviet-socialist-republic"
+  ],
+  "sources": [
+    {
+      "title": "Belarus–Ukraine relations — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Belarus–Ukraine_relations",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-24",
+  "status": "published"
+}

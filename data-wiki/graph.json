@@ -700,6 +700,7 @@
       "battle-of-zboriv",
       "baturyn",
       "beer-in-ukraine",
+      "belarusukraine-relations",
       "beskids",
       "bessarabia",
       "bila-tserkva",
@@ -2652,6 +2653,7 @@
       "battle-of-kiev",
       "battle-of-kruty",
       "battle-of-kyiv",
+      "belarusukraine-relations",
       "bila-tserkva",
       "black-sea-shipping-company",
       "bohdan-hawrylyshyn",
@@ -3595,6 +3597,7 @@
       "azovstal",
       "battle-of-kiev",
       "battle-of-mariupol",
+      "belarusukraine-relations",
       "bessarabia",
       "boryspil-international-airport",
       "buchach",
@@ -3894,6 +3897,7 @@
       "anatoly-shariy",
       "antonov",
       "baturyn",
+      "belarusukraine-relations",
       "central-election-commission-of-ukraine",
       "chernobyl-exclusion-zone",
       "constitution-of-ukraine",
@@ -4014,6 +4018,7 @@
       "battle-of-mykolaiv",
       "battle-of-sievierodonetsk",
       "battle-of-sumy",
+      "belarusukraine-relations",
       "borscht",
       "borshchahivka",
       "borys-filatov",
@@ -4196,6 +4201,7 @@
     ],
     "kievan-rus": [
       "anne-of-kyiv",
+      "belarusukraine-relations",
       "bila-tserkva",
       "boryslav",
       "boryspil",
@@ -4275,6 +4281,7 @@
       "battle-of-kiev",
       "battle-of-lwów",
       "battle-of-the-dnieper",
+      "belarusukraine-relations",
       "bessarabia",
       "black-sea-shipping-company",
       "bohdan-stupka",
@@ -4615,6 +4622,7 @@
       "andrii-yermak",
       "apostolic-nunciature-to-ukraine",
       "battle-of-kyiv",
+      "belarusukraine-relations",
       "bohdan-hawrylyshyn",
       "bucha-massacre",
       "cabinet-of-ministers-of-ukraine",
@@ -4919,6 +4927,7 @@
     "petro-poroshenko": [
       "2019-ukrainian-presidential-election",
       "anatoly-shariy",
+      "belarusukraine-relations",
       "constitution-of-ukraine",
       "cyborgs-heroes-never-die",
       "decommunization-in-ukraine",
@@ -8500,6 +8509,7 @@
       "anne-of-kyiv",
       "armed-forces-of-ukraine",
       "batkivshchyna",
+      "belarusukraine-relations",
       "bessarabia",
       "boris-nemtsov",
       "borys-filatov",
@@ -9797,6 +9807,12 @@
       "degree": 12
     },
     {
+      "id": "belarusukraine-relations",
+      "title": "Belarus–Ukraine relations",
+      "category": "politics",
+      "degree": 9
+    },
+    {
       "id": "belovodskoye",
       "title": "Belovodskoye",
       "category": "geography",
@@ -10016,7 +10032,7 @@
       "id": "cabinet-of-ministers-of-ukraine",
       "title": "Cabinet of Ministers of Ukraine",
       "category": "politics",
-      "degree": 65
+      "degree": 66
     },
     {
       "id": "carpathian-biosphere-reserve",
@@ -10742,7 +10758,7 @@
       "id": "full-scale-russo-ukrainian-war",
       "title": "full-scale Russo-Ukrainian war",
       "category": "war",
-      "degree": 183
+      "degree": 184
     },
     {
       "id": "gaidai",
@@ -11300,7 +11316,7 @@
       "id": "kievan-rus",
       "title": "Kievan Rus'",
       "category": "history",
-      "degree": 69
+      "degree": 70
     },
     {
       "id": "kingdom-of-galiciavolhynia",
@@ -11438,7 +11454,7 @@
       "id": "kyiv",
       "title": "Kyiv",
       "category": "geography",
-      "degree": 266
+      "degree": 267
     },
     {
       "id": "kyiv-city-ballet",
@@ -12554,7 +12570,7 @@
       "id": "petro-poroshenko",
       "title": "Petro Poroshenko",
       "category": "politics",
-      "degree": 41
+      "degree": 42
     },
     {
       "id": "petrykivka-painting",
@@ -12662,7 +12678,7 @@
       "id": "president-of-ukraine",
       "title": "President of Ukraine",
       "category": "politics",
-      "degree": 79
+      "degree": 80
     },
     {
       "id": "prime-minister-of-ukraine",
@@ -13256,7 +13272,7 @@
       "id": "soviet-union",
       "title": "Soviet Union",
       "category": "politics",
-      "degree": 219
+      "degree": 220
     },
     {
       "id": "state-emergency-service-of-ukraine",
@@ -13532,7 +13548,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 757
+      "degree": 758
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13874,7 +13890,7 @@
       "id": "ukrainian-soviet-socialist-republic",
       "title": "Ukrainian Soviet Socialist Republic",
       "category": "history",
-      "degree": 128
+      "degree": 129
     },
     {
       "id": "ukrainian-state",
@@ -34331,6 +34347,42 @@
     {
       "source": "zhytomyr-oblast",
       "target": "zhytomyr"
+    },
+    {
+      "source": "belarusukraine-relations",
+      "target": "cabinet-of-ministers-of-ukraine"
+    },
+    {
+      "source": "belarusukraine-relations",
+      "target": "full-scale-russo-ukrainian-war"
+    },
+    {
+      "source": "belarusukraine-relations",
+      "target": "kievan-rus"
+    },
+    {
+      "source": "belarusukraine-relations",
+      "target": "kyiv"
+    },
+    {
+      "source": "belarusukraine-relations",
+      "target": "petro-poroshenko"
+    },
+    {
+      "source": "belarusukraine-relations",
+      "target": "president-of-ukraine"
+    },
+    {
+      "source": "belarusukraine-relations",
+      "target": "soviet-union"
+    },
+    {
+      "source": "belarusukraine-relations",
+      "target": "ukraine"
+    },
+    {
+      "source": "belarusukraine-relations",
+      "target": "ukrainian-soviet-socialist-republic"
     },
     {
       "source": "dnieper",
