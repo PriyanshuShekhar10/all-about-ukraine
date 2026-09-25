@@ -444,6 +444,7 @@
       "vitali-klitschko",
       "vladimir-lenin",
       "vladimir-shcherbakov",
+      "vladimir-vysotsky",
       "volodymyr-hroisman",
       "volodymyr-zelenskyy",
       "volyn-oblast",
@@ -4459,6 +4460,7 @@
       "vladimir-lenin",
       "vladimir-putin",
       "vladimir-shcherbakov",
+      "vladimir-vysotsky",
       "volhynia",
       "vorkuta-gulag",
       "vuhledar",
@@ -6430,6 +6432,9 @@
     ],
     "yevpatoriya": [
       "crimean-tatar-culture"
+    ],
+    "vladimir-vysotsky": [
+      "grigory-leps"
     ],
     "ukrainian-baroque": [
       "intercession-of-the-theotokos",
@@ -8607,6 +8612,7 @@
       "viktor-medvedchuk",
       "viktor-yanukovych",
       "vladimir-putin",
+      "vladimir-vysotsky",
       "volodymyr-zelenskyy",
       "zolochiv",
       "zubrytsya"
@@ -10224,7 +10230,7 @@
       "id": "coal-in-ukraine",
       "title": "coal in Ukraine",
       "category": "economy",
-      "degree": 478
+      "degree": 479
     },
     {
       "id": "coat-of-arms-of-ukrainiae",
@@ -10812,7 +10818,7 @@
       "id": "grigory-leps",
       "title": "Grigory Leps",
       "category": "politics",
-      "degree": 6
+      "degree": 7
     },
     {
       "id": "gritsenko",
@@ -13272,7 +13278,7 @@
       "id": "soviet-union",
       "title": "Soviet Union",
       "category": "politics",
-      "degree": 220
+      "degree": 221
     },
     {
       "id": "state-emergency-service-of-ukraine",
@@ -14167,6 +14173,12 @@
       "title": "Vladimir the Great",
       "category": "culture",
       "degree": 12
+    },
+    {
+      "id": "vladimir-vysotsky",
+      "title": "Vladimir Vysotsky",
+      "category": "politics",
+      "degree": 3
     },
     {
       "id": "volhynia",
@@ -16699,6 +16711,10 @@
     {
       "source": "grigory-leps",
       "target": "vladimir-putin"
+    },
+    {
+      "source": "grigory-leps",
+      "target": "vladimir-vysotsky"
     },
     {
       "source": "national-art-museum-of-ukraine",
@@ -37763,6 +37779,14 @@
     {
       "source": "roman-sushchenko",
       "target": "ukrainians"
+    },
+    {
+      "source": "vladimir-vysotsky",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "vladimir-vysotsky",
+      "target": "soviet-union"
     },
     {
       "source": "ukrainian-peoples-party",

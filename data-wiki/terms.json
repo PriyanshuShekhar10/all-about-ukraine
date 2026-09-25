@@ -11939,5 +11939,28 @@
     ],
     "notability": 18,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q512",
+    "slug": "vladimir-vysotsky",
+    "name": "Vladimir Vysotsky",
+    "wp_title": "Vladimir Vysotsky",
+    "type": "human",
+    "category": "politics",
+    "aliases": [
+      "V.S. Visotskii",
+      "V.S. Visotskiy",
+      "V.S. Vysotsky",
+      "Visotskii",
+      "Visotskiy",
+      "Vladimir Semyonovich Visotskii",
+      "Vladimir Semyonovich Visotskiy",
+      "Vladimir Semyonovich Vysotsky",
+      "Vladimir Visotskii",
+      "Vladimir Visotskiy",
+      "Vysotsky"
+    ],
+    "notability": 117,
+    "status": "synthesized"
   }
 ]

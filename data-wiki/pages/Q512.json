@@ -1,0 +1,85 @@
+{
+  "qid": "Q512",
+  "slug": "vladimir-vysotsky",
+  "title": "Vladimir Vysotsky",
+  "type": "human",
+  "category": "politics",
+  "aliases": [
+    "V.S. Visotskii",
+    "V.S. Visotskiy",
+    "V.S. Vysotsky",
+    "Visotskii",
+    "Visotskiy",
+    "Vladimir Semyonovich Visotskii",
+    "Vladimir Semyonovich Visotskiy",
+    "Vladimir Semyonovich Vysotsky",
+    "Vladimir Visotskii",
+    "Vladimir Visotskiy",
+    "Vysotsky"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1938-01-25",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1980-07-25",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Moscow",
+        "source": "wikidata:P19"
+      }
+    ]
+  },
+  "summary": "Vladimir Semyonovich Vysotsky (25 January 1938 – 25 July 1980) was a prominent Soviet singer, songwriter, poet, and actor whose work significantly influenced Soviet culture, including in Ukraine. Known for his unique vocal style and socially and politically charged lyrics, Vysotsky's legacy continues to resonate with audiences in Ukraine and beyond.",
+  "sections": [
+    {
+      "heading": "Early Life",
+      "paragraphs": [
+        "Vysotsky was born on 25 January 1938 in Moscow, to Semyon Vladimirovich Vysotsky, a Jewish man originally from Kiev, and Nina Maksimovna Vysotsky, a Russian translator. His early life was marked by a strong inclination towards theater, fostered by his mother, who frequently took him to performances.",
+        "During World War II, Vysotsky and his mother were evacuated to Vorontsovka, Orenburg Oblast, while his father served in the Red Army. The family returned to Moscow in 1943, and after his parents' divorce in 1946, Vysotsky lived with his father and stepmother in Germany before returning to Moscow in 1949.",
+        "In 1953, Vysotsky began drama courses and received his first guitar, which would become instrumental in his musical career."
+      ]
+    },
+    {
+      "heading": "Career Beginnings",
+      "paragraphs": [
+        "Vysotsky enrolled in the Moscow State University of Civil Engineering in 1955 but left after a year to pursue acting. He joined the Moscow Art Theatre School, where he met influential figures, including Bulat Okudzhava. His early roles included Porfiry Petrovich in 'Crime and Punishment' and his first film role in 'Female Age-Mates.'",
+        "In 1963, Vysotsky recorded an hour-long reel-to-reel tape of his songs, which circulated widely and began to establish his reputation in Moscow."
+      ]
+    },
+    {
+      "heading": "Rise to Fame",
+      "paragraphs": [
+        "Vysotsky's career took off after joining the Taganka Theatre in 1964, where he debuted in Bertolt Brecht's 'The Good Person of Szechwan.' His innovative performances and songwriting gained him a cult following, particularly through his contributions to various plays and films.",
+        "His breakthrough role came in the 1967 film 'Vertical,' which featured songs he had written during filming. The film's success, along with the release of its soundtrack, catapulted him to fame, making his music widely popular across [[soviet-union|the Soviet Union]], including [[coal-in-ukraine|in Ukraine]]."
+      ]
+    },
+    {
+      "heading": "Cultural Impact",
+      "paragraphs": [
+        "Despite facing backlash from the Soviet cultural establishment, Vysotsky's work resonated deeply with the public. His songs often contained sharp social commentary, reflecting the sentiments of many, including those in Ukraine, where his Jewish heritage and connection to Kiev added a layer of cultural significance.",
+        "Vysotsky's influence extended beyond his lifetime, inspiring countless musicians and artists in the Soviet Union and continuing to be celebrated in Ukraine as a symbol of artistic freedom and resilience."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "soviet-union"
+  ],
+  "sources": [
+    {
+      "title": "Vladimir Vysotsky — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vladimir_Vysotsky",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-25",
+  "status": "published"
+}
