@@ -665,6 +665,7 @@
       "andriy-shevchenko",
       "andriy-yarmolenko",
       "anne-of-kyiv",
+      "anti-ukrainian-sentiment",
       "antonov",
       "antonov-airlines",
       "apostolic-nunciature-to-ukraine",
@@ -1399,6 +1400,7 @@
       "andriivskyi-descent",
       "andriy-shevchenko",
       "andriy-yarmolenko",
+      "anti-ukrainian-sentiment",
       "antonov",
       "antonov-airlines",
       "apostolic-nunciature-to-ukraine",
@@ -2197,6 +2199,7 @@
       "zakarpattia-oblast"
     ],
     "eastern-europe": [
+      "anti-ukrainian-sentiment",
       "baba-yaga",
       "bahmut",
       "battle-of-poltava",
@@ -3198,6 +3201,7 @@
     ],
     "ukrainians": [
       "2022-russian-invasion-of-ukraine",
+      "anti-ukrainian-sentiment",
       "bakhchysarai",
       "bandura",
       "batkivshchyna",
@@ -4003,6 +4007,7 @@
       "anatoly-shariy",
       "andrii-parubii",
       "andriy-yarmolenko",
+      "anti-ukrainian-sentiment",
       "antonov",
       "apostolic-nunciature-to-ukraine",
       "arcelormittal-kryvyi-rih",
@@ -4273,6 +4278,7 @@
       "anatoliy-solovyanenko",
       "andrii-yermak",
       "andriy-yarmolenko",
+      "anti-ukrainian-sentiment",
       "arcelormittal-kryvyi-rih",
       "armed-forces-of-ukraine",
       "artem-dzyuba",
@@ -4855,6 +4861,7 @@
       "alexander-j-motyl",
       "andrii-parubii",
       "anne-of-kyiv",
+      "anti-ukrainian-sentiment",
       "bohdan-khmelnytsky",
       "history-of-ukraine",
       "leonid-kravchuk",
@@ -6072,6 +6079,7 @@
     "holodomor": [
       "20th-congress-of-the-communist-party-of-the-soviet-union",
       "alexander-j-motyl",
+      "anti-ukrainian-sentiment",
       "borodianka",
       "boryspil",
       "dnipropetrovsk-oblast",
@@ -8042,6 +8050,14 @@
     "ukrainian-democratic-party": [
       "borys-hrinchenko"
     ],
+    "russian-war-crimes": [
+      "anti-ukrainian-sentiment"
+    ],
+    "stepan-bandera": [
+      "anti-ukrainian-sentiment",
+      "dmytro-yarosh",
+      "organization-of-ukrainian-nationalists"
+    ],
     "national-historical-museum-of-ukraine": [
       "crimea-gold-and-secrets-of-the-black-sea"
     ],
@@ -8441,10 +8457,6 @@
       "council-of-europe",
       "economy-of-ukraine",
       "transnistria"
-    ],
-    "stepan-bandera": [
-      "dmytro-yarosh",
-      "organization-of-ukrainian-nationalists"
     ],
     "the-holocaust-in-ukraine": [
       "organization-of-ukrainian-nationalists"
@@ -9011,6 +9023,7 @@
     "history": [
       "abakan",
       "andriivskyi-descent",
+      "anti-ukrainian-sentiment",
       "baba-yaga",
       "battle-of-batih",
       "battle-of-kiev",
@@ -9553,6 +9566,12 @@
       "title": "Anne of Kyiv",
       "category": "politics",
       "degree": 5
+    },
+    {
+      "id": "anti-ukrainian-sentiment",
+      "title": "anti-Ukrainian sentiment",
+      "category": "history",
+      "degree": 10
     },
     {
       "id": "antonov",
@@ -10620,7 +10639,7 @@
       "id": "eastern-europe",
       "title": "Eastern Europe",
       "category": "geography",
-      "degree": 66
+      "degree": 67
     },
     {
       "id": "eastern-galicia",
@@ -10764,7 +10783,7 @@
       "id": "full-scale-russo-ukrainian-war",
       "title": "full-scale Russo-Ukrainian war",
       "category": "war",
-      "degree": 184
+      "degree": 185
     },
     {
       "id": "gaidai",
@@ -10938,7 +10957,7 @@
       "id": "holodomor",
       "title": "Holodomor",
       "category": "history",
-      "degree": 29
+      "degree": 30
     },
     {
       "id": "hopak",
@@ -12978,7 +12997,7 @@
       "id": "russian-war-crimes",
       "title": "Russian war crimes",
       "category": "war",
-      "degree": 6
+      "degree": 7
     },
     {
       "id": "russiaukraine-relations",
@@ -13278,7 +13297,7 @@
       "id": "soviet-union",
       "title": "Soviet Union",
       "category": "politics",
-      "degree": 221
+      "degree": 222
     },
     {
       "id": "state-emergency-service-of-ukraine",
@@ -13308,7 +13327,7 @@
       "id": "stepan-bandera",
       "title": "Stepan Bandera",
       "category": "economy",
-      "degree": 15
+      "degree": 16
     },
     {
       "id": "sudak",
@@ -13554,7 +13573,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 758
+      "degree": 759
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13602,7 +13621,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 667
+      "degree": 668
     },
     {
       "id": "ukrainian-americans",
@@ -13818,7 +13837,7 @@
       "id": "ukrainian-nationalism",
       "title": "Ukrainian nationalism",
       "category": "politics",
-      "degree": 29
+      "degree": 30
     },
     {
       "id": "ukrainian-opera",
@@ -13950,7 +13969,7 @@
       "id": "ukrainians",
       "title": "Ukrainians",
       "category": "people",
-      "degree": 148
+      "degree": 149
     },
     {
       "id": "ukrainians-in-italy",
@@ -29395,6 +29414,46 @@
     {
       "source": "zbarazh-castle",
       "target": "ukrainian"
+    },
+    {
+      "source": "anti-ukrainian-sentiment",
+      "target": "eastern-europe"
+    },
+    {
+      "source": "anti-ukrainian-sentiment",
+      "target": "full-scale-russo-ukrainian-war"
+    },
+    {
+      "source": "anti-ukrainian-sentiment",
+      "target": "holodomor"
+    },
+    {
+      "source": "anti-ukrainian-sentiment",
+      "target": "russian-war-crimes"
+    },
+    {
+      "source": "anti-ukrainian-sentiment",
+      "target": "soviet-union"
+    },
+    {
+      "source": "anti-ukrainian-sentiment",
+      "target": "stepan-bandera"
+    },
+    {
+      "source": "anti-ukrainian-sentiment",
+      "target": "ukraine"
+    },
+    {
+      "source": "anti-ukrainian-sentiment",
+      "target": "ukrainian"
+    },
+    {
+      "source": "anti-ukrainian-sentiment",
+      "target": "ukrainian-nationalism"
+    },
+    {
+      "source": "anti-ukrainian-sentiment",
+      "target": "ukrainians"
     },
     {
       "source": "oles-honchar",

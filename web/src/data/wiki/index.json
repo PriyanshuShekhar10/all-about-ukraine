@@ -297,6 +297,17 @@
     ]
   },
   {
+    "slug": "anti-ukrainian-sentiment",
+    "title": "anti-Ukrainian sentiment",
+    "type": "sentiment",
+    "category": "history",
+    "summary": "Anti-Ukrainian sentiment refers to negative attitudes and beliefs directed towards Ukrainians, their culture, and language. This sentiment has historical roots and has manifested in various forms, particularly in relation to the Russian Empire and [[soviet-union|the Soviet Union]], as well as during contemporary conflicts involving Ukraine.",
+    "aliases": [
+      "Ukrainophobia",
+      "anti-Ukrainianism"
+    ]
+  },
+  {
     "slug": "antonov",
     "title": "Antonov",
     "type": "aerospace manufacturer",

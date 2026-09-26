@@ -11962,5 +11962,19 @@
     ],
     "notability": 117,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q2387047",
+    "slug": "anti-ukrainian-sentiment",
+    "name": "anti-Ukrainian sentiment",
+    "wp_title": "Anti-Ukrainian sentiment",
+    "type": "sentiment",
+    "category": "history",
+    "aliases": [
+      "Ukrainophobia",
+      "anti-Ukrainianism"
+    ],
+    "notability": 27,
+    "status": "synthesized"
   }
 ]

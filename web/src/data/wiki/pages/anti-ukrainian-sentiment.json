@@ -1,0 +1,70 @@
+{
+  "qid": "Q2387047",
+  "slug": "anti-ukrainian-sentiment",
+  "title": "anti-Ukrainian sentiment",
+  "type": "sentiment",
+  "category": "history",
+  "aliases": [
+    "Ukrainophobia",
+    "anti-Ukrainianism"
+  ],
+  "infobox": {
+    "label": "sentiment",
+    "fields": []
+  },
+  "summary": "Anti-Ukrainian sentiment refers to negative attitudes and beliefs directed towards Ukrainians, their culture, and language. This sentiment has historical roots and has manifested in various forms, particularly in relation to the Russian Empire and [[soviet-union|the Soviet Union]], as well as during contemporary conflicts involving Ukraine.",
+  "sections": [
+    {
+      "heading": "Definition and Types",
+      "paragraphs": [
+        "Anti-Ukrainian sentiment, also known as Ukrainophobia or anti-Ukrainianism, encompasses animosity towards [[ukrainians|Ukrainians]], their culture, language, and the nation of [[ukraine|Ukraine]]. Scholars categorize this sentiment into two main types: discrimination against Ukrainians based on ethnic or cultural origins, and the conceptual rejection of Ukrainians as a distinct ethnic group, often asserting that their identity and language are artificially constructed."
+      ]
+    },
+    {
+      "heading": "Ukrainophobic Stereotypes",
+      "paragraphs": [
+        "Ukrainophobic stereotypes prevalent in Russian nationalist narratives include derogatory beliefs about Ukrainians, such as claims of greed, cunning, lack of education, and associations with criminality. These narratives often portray [[ukrainian-nationalism|Ukrainian nationalism]] as linked to neo-Nazism, particularly in the context of the ongoing [[full-scale-russo-ukrainian-war|Russo-Ukrainian War]], where figures like [[stepan-bandera|Stepan Bandera]] are misrepresented despite historical complexities."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The roots of anti-Ukrainian sentiment can be traced back to the Russian Empire, where [[ukrainian|Ukrainian]] self-awareness prompted government restrictions on the Ukrainian language, exemplified by decrees like the Valuev Circular of 1863 and the Ems ukaz of 1876. Organizations such as the 'Black Hundreds' actively opposed Ukrainian self-determination, and various edicts throughout the 17th to 19th centuries sought to suppress Ukrainian culture and language.",
+        "Under Soviet rule, initial support for Ukrainian cultural expression was replaced by a policy of Russification by 1932. The Great Purge led to the persecution of Ukrainian intellectuals, while [[holodomor|the Holodomor]], a man-made famine from 1932 to 1933, disproportionately affected ethnic Ukrainians, indicating systematic bias against them."
+      ]
+    },
+    {
+      "heading": "Contemporary Anti-Ukrainian Sentiment",
+      "paragraphs": [
+        "During the current Russian invasion of Ukraine, anti-Ukrainian hate speech has proliferated, drawing parallels to historical instances of dehumanization that justified violence against various groups. This includes the celebration of [[russian-war-crimes|Russian war crimes]] and the propagation of conspiracy theories targeting Ukraine, which often intersect with broader political narratives."
+      ]
+    },
+    {
+      "heading": "International Perspectives",
+      "paragraphs": [
+        "Nazi Germany's ideology also contributed to anti-Ukrainian sentiment, viewing Ukrainians as subhuman and unworthy of sovereignty. The regime's plans for [[eastern-europe|Eastern Europe]] included the mass expulsion and enslavement of Slavic peoples, including Ukrainians, reflecting a long-standing history of racial prejudice and exploitation."
+      ]
+    }
+  ],
+  "links_out": [
+    "eastern-europe",
+    "full-scale-russo-ukrainian-war",
+    "holodomor",
+    "russian-war-crimes",
+    "soviet-union",
+    "stepan-bandera",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-nationalism",
+    "ukrainians"
+  ],
+  "sources": [
+    {
+      "title": "Anti-Ukrainian sentiment — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anti-Ukrainian_sentiment",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-26",
+  "status": "published"
+}
