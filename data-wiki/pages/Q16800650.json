@@ -1,0 +1,96 @@
+{
+  "qid": "Q16800650",
+  "slug": "battle-of-mariupol-2",
+  "title": "Battle of Mariupol",
+  "type": "battle",
+  "category": "war",
+  "aliases": [],
+  "infobox": {
+    "label": "battle",
+    "fields": [
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Location",
+        "value": "Mariupol",
+        "source": "wikidata:P276"
+      },
+      {
+        "label": "Coordinates",
+        "value": "47.0958, 37.5494",
+        "source": "wikidata:P625"
+      }
+    ]
+  },
+  "summary": "The Battle of Mariupol, which occurred during the 2014 pro-Russian unrest [[coal-in-ukraine|in Ukraine]], was a significant conflict involving Ukrainian government forces and separatist militants in the city of Mariupol, Donetsk Oblast. The battle highlighted the tensions in Ukraine following the [[revolution-of-dignity|Revolution of Dignity]] and the ongoing conflict in the [[donbas|Donbas]] region.",
+  "sections": [
+    {
+      "heading": "Background",
+      "paragraphs": [
+        "[[mariupol|Mariupol]], the second-largest city in [[donetsk-oblast|Donetsk Oblast]], experienced unrest beginning in March 2014, with pro-Russian and anti-government groups occupying the city council building on 18 March 2014. The first violent incident occurred on 16 April 2014 when approximately 300 protesters attacked a [[ukrainian|Ukrainian]] military unit, resulting in the death of three attackers after government troops opened fire."
+      ]
+    },
+    {
+      "heading": "Events of May 2014",
+      "paragraphs": [
+        "On 9 May 2014, a violent clash erupted at the Mariupol police headquarters, with the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] deploying armoured personnel carriers (APCs) in response to an attempted takeover by separatists. The fighting led to the building catching fire, and Internal Affairs Minister [[arsen-avakov|Arsen Avakov]] reported that twenty separatists were killed during the confrontation.",
+        "Following the clashes, Ukrainian forces withdrew from Mariupol, leaving it under the control of pro-Russian protesters. Reports indicated that some Ukrainian troops shot at unarmed civilians during their withdrawal, prompting calls for an investigation into the use of excessive force."
+      ]
+    },
+    {
+      "heading": "Intervention of Metinvest Steelworkers",
+      "paragraphs": [
+        "On 11 May 2014, [[metinvest|Metinvest]], led by Rinat Akhmetov and Vadim Novinsky, announced the formation of militia groups from local steelworkers to assist police in protecting civilians. An agreement signed on 15 May allowed steelworkers and police to conduct joint patrols, leading to the removal of barricades and insurgents from the city center by 16 May."
+      ]
+    },
+    {
+      "heading": "Government Recapture of Mariupol",
+      "paragraphs": [
+        "Heavy fighting resumed on 13 June 2014, as Ukrainian military operations aimed to retake Mariupol. The Azov and [[dnieper|Dnipro]]-1 Battalions successfully regained control of the city, resulting in the deaths of five militants and two soldiers. Following this operation, [[president-of-ukraine|Ukrainian President]] [[petro-poroshenko|Petro Poroshenko]] instructed the temporary relocation of the [[donetsk|Donetsk]] regional capital to Mariupol."
+      ]
+    },
+    {
+      "heading": "Casualties and Aftermath",
+      "paragraphs": [
+        "The 9 May incident resulted in conflicting reports regarding casualties, with Avakov stating one policeman and approximately twenty 'terrorists' were killed. Locals believed many of the deceased were civilians. The city administration declared 10 May a day of mourning, and a public funeral was held in [[kyiv|Kyiv]] for an [[azov-brigade|Azov Battalion]] member killed in the fighting.",
+        "In January 2015, a Bellingcat investigation suggested that Ukrainian forces had made efforts to avoid civilian casualties during the conflict. The legacy of the battle continued as pro-Russian separatists attempted to breach the city again, but Ukrainian control persisted until the [[siege-of-mariupol|Siege of Mariupol]] in May 2022."
+      ]
+    },
+    {
+      "heading": "Anniversary Celebrations",
+      "paragraphs": [
+        "On 13 June 2015, a monument was unveiled in Mariupol to honor the defenders of Military Unit No. 3057, commemorating the first anniversary of the battle."
+      ]
+    }
+  ],
+  "links_out": [
+    "arsen-avakov",
+    "azov-brigade",
+    "cabinet-of-ministers-of-ukraine",
+    "coal-in-ukraine",
+    "dnieper",
+    "donbas",
+    "donetsk",
+    "donetsk-oblast",
+    "kyiv",
+    "mariupol",
+    "metinvest",
+    "petro-poroshenko",
+    "president-of-ukraine",
+    "revolution-of-dignity",
+    "siege-of-mariupol",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Battle of Mariupol (May–June 2014) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Mariupol_(May–June_2014)",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-27",
+  "status": "published"
+}

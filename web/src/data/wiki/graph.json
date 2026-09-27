@@ -43,6 +43,7 @@
       "battle-of-batih",
       "battle-of-kiev",
       "battle-of-kruty",
+      "battle-of-mariupol-2",
       "battle-of-the-dnieper",
       "beer-in-ukraine",
       "beskids",
@@ -614,6 +615,7 @@
       "2022-russian-invasion-of-ukraine",
       "banking-in-ukraine",
       "batkivshchyna",
+      "battle-of-mariupol-2",
       "cossack-mamay",
       "decommunization-in-ukraine",
       "donetsk-peoples-republic",
@@ -1428,6 +1430,7 @@
       "battle-of-kruty",
       "battle-of-kyiv",
       "battle-of-mariupol",
+      "battle-of-mariupol-2",
       "battle-of-mykolaiv",
       "battle-of-poltava",
       "battle-of-sievierodonetsk",
@@ -2390,6 +2393,7 @@
       "antonov-airlines",
       "artem-dovbyk",
       "battle-of-kiev",
+      "battle-of-mariupol-2",
       "battle-of-the-dnieper",
       "borys-filatov",
       "boryspil",
@@ -2526,6 +2530,7 @@
       "bakhmut",
       "battle-of-debaltseve",
       "battle-of-ilovaisk",
+      "battle-of-mariupol-2",
       "centrenergo",
       "dnipropetrovsk-oblast",
       "donetsk",
@@ -2657,6 +2662,7 @@
       "battle-of-kiev",
       "battle-of-kruty",
       "battle-of-kyiv",
+      "battle-of-mariupol-2",
       "belarusukraine-relations",
       "bila-tserkva",
       "black-sea-shipping-company",
@@ -3901,6 +3907,7 @@
       "administrative-territorial-entity-of-ukraine",
       "anatoly-shariy",
       "antonov",
+      "battle-of-mariupol-2",
       "baturyn",
       "belarusukraine-relations",
       "central-election-commission-of-ukraine",
@@ -4630,6 +4637,7 @@
       "andrii-yermak",
       "apostolic-nunciature-to-ukraine",
       "battle-of-kyiv",
+      "battle-of-mariupol-2",
       "belarusukraine-relations",
       "bohdan-hawrylyshyn",
       "bucha-massacre",
@@ -4936,6 +4944,7 @@
     "petro-poroshenko": [
       "2019-ukrainian-presidential-election",
       "anatoly-shariy",
+      "battle-of-mariupol-2",
       "belarusukraine-relations",
       "constitution-of-ukraine",
       "cyborgs-heroes-never-die",
@@ -4973,6 +4982,7 @@
       "battle-of-bakhmut",
       "battle-of-ilovaisk",
       "battle-of-kiev",
+      "battle-of-mariupol-2",
       "battle-of-the-dnieper",
       "categorysteel-industry-in-ukraine",
       "crimea",
@@ -5641,6 +5651,7 @@
       "avdeyevka-coke-and-chemical-plant",
       "azovstal",
       "battle-of-mariupol",
+      "battle-of-mariupol-2",
       "cinema-of-ukraine",
       "dmitri-shostakovich",
       "donbas",
@@ -5676,6 +5687,7 @@
       "azov-brigade",
       "azovstal",
       "battle-of-mariupol",
+      "battle-of-mariupol-2",
       "battle-of-mykolaiv",
       "illich-steel-iron-works",
       "mariupol-theatre-airstrike",
@@ -5808,6 +5820,7 @@
       "battle-of-bakhmut",
       "battle-of-debaltseve",
       "battle-of-ilovaisk",
+      "battle-of-mariupol-2",
       "battle-of-sievierodonetsk",
       "categorysteel-industry-in-ukraine",
       "coal-in-ukraine",
@@ -7723,14 +7736,30 @@
       "chernihiv-oblast",
       "ukrainiansoviet-war"
     ],
+    "arsen-avakov": [
+      "artem-sytnyk",
+      "battle-of-mariupol-2"
+    ],
+    "azov-brigade": [
+      "azovstal",
+      "battle-of-mariupol-2"
+    ],
+    "metinvest": [
+      "avdeyevka-coke-and-chemical-plant",
+      "azovstal",
+      "battle-of-mariupol-2",
+      "categorysteel-industry-in-ukraine",
+      "kryvbas"
+    ],
     "ruslana-lyzhychko": [
       "trembita"
     ],
     "battle-of-ilovaisk": [
       "azov-brigade"
     ],
-    "battle-of-mariupol": [
+    "battle-of-mariupol-2": [
       "azov-brigade",
+      "battle-of-mariupol",
       "national-guard-of-ukraine"
     ],
     "national-guard-of-ukraine": [
@@ -7922,9 +7951,6 @@
       "decommunization-in-ukraine",
       "national-museum-of-the-history-of-ukraine-in-world-war-ii"
     ],
-    "arsen-avakov": [
-      "artem-sytnyk"
-    ],
     "oleh-sentsov": [
       "artem-sytnyk"
     ],
@@ -8060,12 +8086,6 @@
     ],
     "national-historical-museum-of-ukraine": [
       "crimea-gold-and-secrets-of-the-black-sea"
-    ],
-    "metinvest": [
-      "avdeyevka-coke-and-chemical-plant",
-      "azovstal",
-      "categorysteel-industry-in-ukraine",
-      "kryvbas"
     ],
     "peremyshl": [
       "kingdom-of-galiciavolhynia",
@@ -8230,9 +8250,6 @@
     "ukrainian-orthodox-church-kyiv-patriarchate": [
       "buchach",
       "ukrainian-orthodox-church"
-    ],
-    "azov-brigade": [
-      "azovstal"
     ],
     "transport-in-ukraine": [
       "dnieper",
@@ -9175,6 +9192,7 @@
       "battle-of-kharkiv",
       "battle-of-kyiv",
       "battle-of-mariupol",
+      "battle-of-mariupol-2",
       "battle-of-mykolaiv",
       "battle-of-sievierodonetsk",
       "battle-of-sumy",
@@ -9613,7 +9631,7 @@
       "id": "arsen-avakov",
       "title": "Arsen Avakov",
       "category": "war",
-      "degree": 10
+      "degree": 11
     },
     {
       "id": "arsenalna",
@@ -9655,7 +9673,7 @@
       "id": "azov-brigade",
       "title": "Azov Brigade",
       "category": "war",
-      "degree": 12
+      "degree": 13
     },
     {
       "id": "azovstal",
@@ -9781,7 +9799,13 @@
       "id": "battle-of-mariupol",
       "title": "Battle of Mariupol",
       "category": "war",
-      "degree": 9
+      "degree": 8
+    },
+    {
+      "id": "battle-of-mariupol-2",
+      "title": "Battle of Mariupol",
+      "category": "war",
+      "degree": 19
     },
     {
       "id": "battle-of-mykolaiv",
@@ -10057,7 +10081,7 @@
       "id": "cabinet-of-ministers-of-ukraine",
       "title": "Cabinet of Ministers of Ukraine",
       "category": "politics",
-      "degree": 66
+      "degree": 67
     },
     {
       "id": "carpathian-biosphere-reserve",
@@ -10249,7 +10273,7 @@
       "id": "coal-in-ukraine",
       "title": "coal in Ukraine",
       "category": "economy",
-      "degree": 479
+      "degree": 480
     },
     {
       "id": "coat-of-arms-of-ukrainiae",
@@ -10513,7 +10537,7 @@
       "id": "dnieper",
       "title": "Dnieper",
       "category": "geography",
-      "degree": 91
+      "degree": 92
     },
     {
       "id": "dnieper-ukraine",
@@ -10567,7 +10591,7 @@
       "id": "donbas",
       "title": "Donbas",
       "category": "geography",
-      "degree": 64
+      "degree": 65
     },
     {
       "id": "donets",
@@ -10579,7 +10603,7 @@
       "id": "donetsk",
       "title": "Donetsk",
       "category": "geography",
-      "degree": 76
+      "degree": 77
     },
     {
       "id": "donetsk-international-airport",
@@ -10597,7 +10621,7 @@
       "id": "donetsk-oblast",
       "title": "Donetsk Oblast",
       "category": "economy",
-      "degree": 37
+      "degree": 38
     },
     {
       "id": "donetsk-peoples-republic",
@@ -11479,7 +11503,7 @@
       "id": "kyiv",
       "title": "Kyiv",
       "category": "geography",
-      "degree": 267
+      "degree": 268
     },
     {
       "id": "kyiv-city-ballet",
@@ -11797,7 +11821,7 @@
       "id": "mariupol",
       "title": "Mariupol",
       "category": "geography",
-      "degree": 25
+      "degree": 26
     },
     {
       "id": "mariupol-theatre-airstrike",
@@ -11845,7 +11869,7 @@
       "id": "metinvest",
       "title": "Metinvest",
       "category": "economy",
-      "degree": 12
+      "degree": 13
     },
     {
       "id": "mezhyhirya",
@@ -12595,7 +12619,7 @@
       "id": "petro-poroshenko",
       "title": "Petro Poroshenko",
       "category": "politics",
-      "degree": 42
+      "degree": 43
     },
     {
       "id": "petrykivka-painting",
@@ -12703,7 +12727,7 @@
       "id": "president-of-ukraine",
       "title": "President of Ukraine",
       "category": "politics",
-      "degree": 80
+      "degree": 81
     },
     {
       "id": "prime-minister-of-ukraine",
@@ -12859,7 +12883,7 @@
       "id": "revolution-of-dignity",
       "title": "Revolution of Dignity",
       "category": "history",
-      "degree": 37
+      "degree": 38
     },
     {
       "id": "revolution-on-granite",
@@ -13213,7 +13237,7 @@
       "id": "siege-of-mariupol",
       "title": "Siege of Mariupol",
       "category": "war",
-      "degree": 20
+      "degree": 21
     },
     {
       "id": "siverskodonetsk",
@@ -13621,7 +13645,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 668
+      "degree": 669
     },
     {
       "id": "ukrainian-americans",
@@ -23444,6 +23468,70 @@
       "target": "verkhovna-rada"
     },
     {
+      "source": "battle-of-mariupol-2",
+      "target": "arsen-avakov"
+    },
+    {
+      "source": "battle-of-mariupol-2",
+      "target": "azov-brigade"
+    },
+    {
+      "source": "battle-of-mariupol-2",
+      "target": "cabinet-of-ministers-of-ukraine"
+    },
+    {
+      "source": "battle-of-mariupol-2",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "battle-of-mariupol-2",
+      "target": "dnieper"
+    },
+    {
+      "source": "battle-of-mariupol-2",
+      "target": "donbas"
+    },
+    {
+      "source": "battle-of-mariupol-2",
+      "target": "donetsk"
+    },
+    {
+      "source": "battle-of-mariupol-2",
+      "target": "donetsk-oblast"
+    },
+    {
+      "source": "battle-of-mariupol-2",
+      "target": "kyiv"
+    },
+    {
+      "source": "battle-of-mariupol-2",
+      "target": "mariupol"
+    },
+    {
+      "source": "battle-of-mariupol-2",
+      "target": "metinvest"
+    },
+    {
+      "source": "battle-of-mariupol-2",
+      "target": "petro-poroshenko"
+    },
+    {
+      "source": "battle-of-mariupol-2",
+      "target": "president-of-ukraine"
+    },
+    {
+      "source": "battle-of-mariupol-2",
+      "target": "revolution-of-dignity"
+    },
+    {
+      "source": "battle-of-mariupol-2",
+      "target": "siege-of-mariupol"
+    },
+    {
+      "source": "battle-of-mariupol-2",
+      "target": "ukrainian"
+    },
+    {
       "source": "trembita",
       "target": "carpathians"
     },
@@ -23573,7 +23661,7 @@
     },
     {
       "source": "azov-brigade",
-      "target": "battle-of-mariupol"
+      "target": "battle-of-mariupol-2"
     },
     {
       "source": "azov-brigade",
@@ -25738,6 +25826,10 @@
     {
       "source": "lviv-polytechnic",
       "target": "ukrainian"
+    },
+    {
+      "source": "battle-of-mariupol",
+      "target": "battle-of-mariupol-2"
     },
     {
       "source": "battle-of-mariupol",
@@ -35773,7 +35865,7 @@
     },
     {
       "source": "national-guard-of-ukraine",
-      "target": "battle-of-mariupol"
+      "target": "battle-of-mariupol-2"
     },
     {
       "source": "national-guard-of-ukraine",

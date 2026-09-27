@@ -11976,5 +11976,16 @@
     ],
     "notability": 27,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q16800650",
+    "slug": "battle-of-mariupol-2",
+    "name": "Battle of Mariupol",
+    "wp_title": "Battle of Mariupol (May–June 2014)",
+    "type": "battle",
+    "category": "war",
+    "aliases": [],
+    "notability": 14,
+    "status": "synthesized"
   }
 ]
