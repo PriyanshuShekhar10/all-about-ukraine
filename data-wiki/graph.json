@@ -437,6 +437,7 @@
       "vasyl-symonenko",
       "verkhovna-rada",
       "vernadsky-national-library-of-ukraine",
+      "vernissage",
       "viktor-medvedchuk",
       "viktor-yanukovych",
       "viktor-yushchenko",
@@ -1313,6 +1314,7 @@
       "vasylivka",
       "velykyi-bychkiv",
       "verkhovna-rada",
+      "vernissage",
       "victor-pynzenyk",
       "viktor-medvedchuk",
       "viktor-tikhonov",
@@ -8155,6 +8157,9 @@
     "eurovision-song-contest-2016": [
       "jamala"
     ],
+    "vernissage": [
+      "iryna-bilyk"
+    ],
     "national-art-museum-of-ukraine": [
       "cossack-mamay"
     ],
@@ -9389,6 +9394,7 @@
       "varenyky",
       "vasyl-krychevsky",
       "vernadsky-national-library-of-ukraine",
+      "vernissage",
       "viktor-tikhonov",
       "viktor-tsoi",
       "vira-vovk",
@@ -10273,7 +10279,7 @@
       "id": "coal-in-ukraine",
       "title": "coal in Ukraine",
       "category": "economy",
-      "degree": 480
+      "degree": 481
     },
     {
       "id": "coat-of-arms-of-ukrainiae",
@@ -11119,7 +11125,7 @@
       "id": "iryna-bilyk",
       "title": "Iryna Bilyk",
       "category": "culture",
-      "degree": 10
+      "degree": 11
     },
     {
       "id": "iryna-venediktova",
@@ -13597,7 +13603,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 759
+      "degree": 760
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -14120,6 +14126,12 @@
       "title": "Vernadsky National Library of Ukraine",
       "category": "culture",
       "degree": 7
+    },
+    {
+      "id": "vernissage",
+      "title": "vernissage",
+      "category": "culture",
+      "degree": 3
     },
     {
       "id": "victor-pynzenyk",
@@ -31572,6 +31584,10 @@
       "target": "ukrainian-soviet-socialist-republic"
     },
     {
+      "source": "iryna-bilyk",
+      "target": "vernissage"
+    },
+    {
       "source": "cossack-mamay",
       "target": "coal-in-ukraine"
     },
@@ -41422,6 +41438,14 @@
     {
       "source": "telecommunications-in-ukraine",
       "target": "ukrainians"
+    },
+    {
+      "source": "vernissage",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "vernissage",
+      "target": "ukraine"
     },
     {
       "source": "vladimir-putin",

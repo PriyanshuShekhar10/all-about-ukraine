@@ -1,0 +1,59 @@
+{
+  "qid": "Q772257",
+  "slug": "vernissage",
+  "title": "vernissage",
+  "type": "topic",
+  "category": "culture",
+  "aliases": [
+    "art opening",
+    "gallery opening",
+    "gallery reception",
+    "opening party",
+    "opening reception",
+    "private view"
+  ],
+  "infobox": {
+    "label": "topic",
+    "fields": []
+  },
+  "summary": "A vernissage is a preview event for an art exhibition, typically held before the official opening, and may be exclusive to invited guests. This practice has historical significance in the context of art exhibitions in Ukraine and beyond.",
+  "sections": [
+    {
+      "heading": "Definition and Purpose",
+      "paragraphs": [
+        "A vernissage, derived from the French term meaning 'varnishing', serves as a preview for an art exhibition, which may be private prior to the formal opening. When access is restricted to invited guests, it is referred to as a private view."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The tradition of vernissages dates back to the nineteenth century, particularly during official exhibitions like the Royal Academy summer exhibition, where artists would apply finishing touches to their works by varnishing them. This practice attracted patrons and the elite to visit academies on varnishing day, leading to a custom of celebrating the completion of artworks with friends and sponsors. By the twentieth century, vernissages evolved into a platform for marketing artworks to potential buyers and critics."
+      ]
+    },
+    {
+      "heading": "Related Concepts",
+      "paragraphs": [
+        "A related term is 'finissage', which refers to the ceremonial conclusion of an art exhibition, also originating from French, meaning 'finishing'. Additionally, larger art exhibitions may feature a 'midissage', an event occurring midway through the exhibition's duration. While these terms are less common in English, they are more frequently utilized in German and Dutch contexts."
+      ]
+    },
+    {
+      "heading": "Vernissage in Ukraine",
+      "paragraphs": [
+        "[[coal-in-ukraine|In Ukraine]], vernissages play a significant role in the art community, providing artists with a platform to showcase their work and engage with patrons and art enthusiasts. The practice contributes to the cultural landscape of [[ukraine|Ukraine]], highlighting the importance of art exhibitions in fostering connections between artists and the public."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "ukraine"
+  ],
+  "sources": [
+    {
+      "title": "Vernissage — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vernissage",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-28",
+  "status": "published"
+}

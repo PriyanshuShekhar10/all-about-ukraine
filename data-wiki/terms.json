@@ -11987,5 +11987,23 @@
     "aliases": [],
     "notability": 14,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q772257",
+    "slug": "vernissage",
+    "name": "vernissage",
+    "wp_title": "Vernissage",
+    "type": "topic",
+    "category": "culture",
+    "aliases": [
+      "art opening",
+      "gallery opening",
+      "gallery reception",
+      "opening party",
+      "opening reception",
+      "private view"
+    ],
+    "notability": 26,
+    "status": "synthesized"
   }
 ]

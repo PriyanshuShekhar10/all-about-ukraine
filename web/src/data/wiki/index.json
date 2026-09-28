@@ -8530,6 +8530,21 @@
     "aliases": []
   },
   {
+    "slug": "vernissage",
+    "title": "vernissage",
+    "type": "topic",
+    "category": "culture",
+    "summary": "A vernissage is a preview event for an art exhibition, typically held before the official opening, and may be exclusive to invited guests. This practice has historical significance in the context of art exhibitions in Ukraine and beyond.",
+    "aliases": [
+      "art opening",
+      "gallery opening",
+      "gallery reception",
+      "opening party",
+      "opening reception",
+      "private view"
+    ]
+  },
+  {
     "slug": "victor-pynzenyk",
     "title": "Victor Pynzenyk",
     "type": "human",
