@@ -12005,5 +12005,20 @@
     ],
     "notability": 26,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q42398",
+    "slug": "mikhail-sholokhov",
+    "name": "Mikhail Sholokhov",
+    "wp_title": "Mikhail Sholokhov",
+    "type": "human",
+    "category": "culture",
+    "aliases": [
+      "Michail Sholokhov",
+      "Mijaíl Sholojov",
+      "Mikhail Aleksandrovich Sholokhov"
+    ],
+    "notability": 117,
+    "status": "synthesized"
   }
 ]

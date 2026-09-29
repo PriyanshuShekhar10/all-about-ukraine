@@ -1,0 +1,87 @@
+{
+  "qid": "Q42398",
+  "slug": "mikhail-sholokhov",
+  "title": "Mikhail Sholokhov",
+  "type": "human",
+  "category": "culture",
+  "aliases": [
+    "Michail Sholokhov",
+    "Mijaíl Sholojov",
+    "Mikhail Aleksandrovich Sholokhov"
+  ],
+  "infobox": {
+    "label": "human",
+    "fields": [
+      {
+        "label": "Born",
+        "value": "1905-05-11",
+        "source": "wikidata:P569"
+      },
+      {
+        "label": "Died",
+        "value": "1984-02-21",
+        "source": "wikidata:P570"
+      },
+      {
+        "label": "Birthplace",
+        "value": "Kruzhilin",
+        "source": "wikidata:P19"
+      },
+      {
+        "label": "Position held",
+        "value": "deputy of the Supreme Soviet of the Soviet Union",
+        "source": "wikidata:P39"
+      }
+    ]
+  },
+  "summary": "Mikhail Aleksandrovich Sholokhov was a prominent Russian novelist, born on 24 May 1905, who received the Nobel Prize in Literature in 1965. His literary works, particularly 'And Quiet Flows the Don,' explore the lives of Don Cossacks, reflecting significant historical events that resonate within the Ukrainian context.",
+  "sections": [
+    {
+      "heading": "Early Life and Background",
+      "paragraphs": [
+        "Sholokhov was born in the Russian Empire, specifically in the Kruzhilin hamlet of stanitsa Vyoshenskaya, an area historically linked to the [[cossacks|Cossacks]]. His mother, Anastasia Danilovna Chernikova, was of [[ukrainian|Ukrainian]] peasant descent from the [[chernihiv-oblast|Chernihiv oblast]], while his father, Aleksander Mikhailovich Sholokhov, belonged to the lower middle class. The family identified as inogorodnye, a term used by Don Cossacks to describe outsiders, which positioned them socioeconomically lower than the local Cossack population."
+      ]
+    },
+    {
+      "heading": "Literary Career",
+      "paragraphs": [
+        "Sholokhov began his writing career at the age of 17 and published his first short story, 'The Birthmark,' by 19. His notable works include 'Tales from the Don' (1926) and the epic novel 'And Quiet Flows the Don,' which he worked on for 14 years, earning the State [[donetsk|Stalin]] Prize in 1941. This novel captures the experiences of the Cossacks during pivotal moments in history, including World War I and the Russian Civil War, and reflects the cultural and social dynamics relevant to [[ukraine|Ukraine]].",
+        "Another significant work, 'Virgin Soil Upturned,' took 28 years to complete and addresses the collectivization period in the Don region, further highlighting the intersection of Ukrainian and Russian histories."
+      ]
+    },
+    {
+      "heading": "Political Engagement",
+      "paragraphs": [
+        "Sholokhov was politically active, meeting Joseph Stalin in 1930 and later advocating for improvements in the living conditions of farmers in his region. His correspondence with Stalin regarding the harsh realities faced by kolkhozes and sovkhozes illustrates his engagement with the socio-political landscape of the time. He joined the Communist Party in 1932 and was elected to the Supreme Soviet, reflecting his prominent role in Soviet politics."
+      ]
+    },
+    {
+      "heading": "Later Life and Death",
+      "paragraphs": [
+        "After 1969, Sholokhov largely ceased writing and spent his later years in Vyoshenskaya. He utilized his Nobel Prize funds for community development and became a critic of certain political figures, notably Alexander Yakovlev. Sholokhov passed away on 21 February 1984, from laryngeal cancer, and was interred at his home in Vyoshenskaya."
+      ]
+    },
+    {
+      "heading": "Legacy",
+      "paragraphs": [
+        "Sholokhov's contributions to literature and his exploration of Cossack life have left a lasting impact, particularly in the context of Ukrainian and Russian cultural narratives. His house has been transformed into the National Sholokhov Museum-Reserve, and various monuments honor his legacy, including those in Moscow and Rostov-on-Don."
+      ]
+    }
+  ],
+  "links_out": [
+    "chernihiv-oblast",
+    "cossacks",
+    "donetsk",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Mikhail Sholokhov — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mikhail_Sholokhov",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-29",
+  "status": "published"
+}

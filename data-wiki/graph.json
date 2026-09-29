@@ -994,6 +994,7 @@
       "mikhail-bulgakov",
       "mikhail-gorbachev",
       "mikhail-lomonosov",
+      "mikhail-sholokhov",
       "mikheil-saakashvili",
       "ministry-of-defence-of-ukraine",
       "ministry-of-economy",
@@ -1699,6 +1700,7 @@
       "mikhail-bulgakov",
       "mikhail-gorbachev",
       "mikhail-lomonosov",
+      "mikhail-sholokhov",
       "mikheil-saakashvili",
       "ministry-of-defence-of-ukraine",
       "ministry-of-economy",
@@ -4808,6 +4810,7 @@
       "kramatorsk",
       "kremenchuk",
       "kremenets-castle",
+      "mikhail-sholokhov",
       "music-of-ukraine",
       "myrhorod",
       "soledar",
@@ -5018,6 +5021,7 @@
       "mariupol",
       "mariupol-theatre-airstrike",
       "mikhail-gorbachev",
+      "mikhail-sholokhov",
       "mykola-azarov",
       "nikita-khrushchev",
       "nikolay-aleksandrovich-tikhonov",
@@ -5485,6 +5489,7 @@
       "chernihiv",
       "kyiv-oblast",
       "leonid-kuchma",
+      "mikhail-sholokhov",
       "nizhyn",
       "oleksandr-dovzhenko",
       "ostriv",
@@ -9333,6 +9338,7 @@
       "mavka",
       "mezhyhirya",
       "mikhail-bulgakov",
+      "mikhail-sholokhov",
       "minorities-in-ukraine",
       "molodist-kyiv-international-film-festival",
       "music-of-ukraine",
@@ -10159,7 +10165,7 @@
       "id": "chernihiv-oblast",
       "title": "Chernihiv Oblast",
       "category": "economy",
-      "degree": 31
+      "degree": 32
     },
     {
       "id": "chernivtsi",
@@ -10333,7 +10339,7 @@
       "id": "cossacks",
       "title": "Cossacks",
       "category": "history",
-      "degree": 43
+      "degree": 44
     },
     {
       "id": "council-of-europe",
@@ -10609,7 +10615,7 @@
       "id": "donetsk",
       "title": "Donetsk",
       "category": "geography",
-      "degree": 77
+      "degree": 78
     },
     {
       "id": "donetsk-international-airport",
@@ -11906,6 +11912,12 @@
       "title": "Mikhail Lomonosov",
       "category": "history",
       "degree": 2
+    },
+    {
+      "id": "mikhail-sholokhov",
+      "title": "Mikhail Sholokhov",
+      "category": "culture",
+      "degree": 5
     },
     {
       "id": "mikheil-saakashvili",
@@ -13603,7 +13615,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 760
+      "degree": 761
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13651,7 +13663,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 669
+      "degree": 670
     },
     {
       "id": "ukrainian-americans",
@@ -35306,6 +35318,26 @@
     {
       "source": "kharkiv",
       "target": "ukrainian-soviet-socialist-republic"
+    },
+    {
+      "source": "mikhail-sholokhov",
+      "target": "chernihiv-oblast"
+    },
+    {
+      "source": "mikhail-sholokhov",
+      "target": "cossacks"
+    },
+    {
+      "source": "mikhail-sholokhov",
+      "target": "donetsk"
+    },
+    {
+      "source": "mikhail-sholokhov",
+      "target": "ukraine"
+    },
+    {
+      "source": "mikhail-sholokhov",
+      "target": "ukrainian"
     },
     {
       "source": "kryvorivnia",
