@@ -12020,5 +12020,18 @@
     ],
     "notability": 117,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q849170",
+    "slug": "patriarch-of-moscow-and-all-russia",
+    "name": "Patriarch of Moscow and all Russia",
+    "wp_title": "Patriarch of Moscow and all Rus'",
+    "type": "Orthodox episcopal title",
+    "category": "people",
+    "aliases": [
+      "Patriarch of Moscow and all Rus'"
+    ],
+    "notability": 45,
+    "status": "synthesized"
   }
 ]

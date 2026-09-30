@@ -1,0 +1,75 @@
+{
+  "qid": "Q849170",
+  "slug": "patriarch-of-moscow-and-all-russia",
+  "title": "Patriarch of Moscow and all Russia",
+  "type": "Orthodox episcopal title",
+  "category": "people",
+  "aliases": [
+    "Patriarch of Moscow and all Rus'"
+  ],
+  "infobox": {
+    "label": "Orthodox episcopal title",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1589-01-26",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Russia",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "The Patriarch of Moscow and all Rus' is the title held by the primate of the Russian Orthodox Church, with significant historical ties to the Christianization of Kievan Rus'. Established in 1589, the patriarchate has undergone various changes, including disestablishment and restoration, influencing Orthodox Christianity in Ukraine and beyond.",
+  "sections": [
+    {
+      "heading": "Title and Authority",
+      "paragraphs": [
+        "The title of the Patriarch of Moscow and all Rus' is often prefixed with the honorific 'His Holiness'. While the patriarch's canonical authority primarily pertains to Moscow, the position encompasses broader administrative powers across the Russian Orthodox Church (ROC)."
+      ]
+    },
+    {
+      "heading": "Historical Context",
+      "paragraphs": [
+        "The origins of the Russian Orthodox Church trace back to the Christianization of [[kievan-rus|Kievan Rus]]' in 988 under [[vladimir-the-great|Vladimir the Great]]. Initially under the jurisdiction of the patriarch of Constantinople, the church's status evolved, with the metropolitan seat moving from Kiev to Vladimir in 1299 and then to Moscow in 1325.",
+        "The ROC declared its autocephaly in 1448, asserting independence from Constantinople, particularly after the fall of Constantinople in 1453, which positioned Moscow as a leading Orthodox authority."
+      ]
+    },
+    {
+      "heading": "Establishment and Disestablishment",
+      "paragraphs": [
+        "The patriarchate was formally established in 1589, with Job as the first patriarch. However, in 1721, Peter the Great abolished the patriarchate, replacing it with the Most Holy Synod to centralize church governance under the state. This synodal period persisted until the patriarchate's restoration in 1917."
+      ]
+    },
+    {
+      "heading": "Restoration and Recent Developments",
+      "paragraphs": [
+        "The patriarchate was restored on 11 November 1917 by the All-Russian Local Council, with Tikhon as the first patriarch post-restoration. The subsequent political turmoil and the rise of the Soviet regime led to significant challenges for the ROC.",
+        "In 1990, Alexy II was elected patriarch, overseeing a revival of the church, which included the reopening of dioceses and restoration of churches. Kirill became the current patriarch in 2009."
+      ]
+    },
+    {
+      "heading": "Connection to Ukraine",
+      "paragraphs": [
+        "The history of the Russian Orthodox Church is deeply intertwined with [[ukraine|Ukraine]], particularly through the early Christianization of Kievan Rus'. The church's evolution has had lasting impacts on the religious landscape [[coal-in-ukraine|in Ukraine]], influencing both ecclesiastical and national identities."
+      ]
+    }
+  ],
+  "links_out": [
+    "coal-in-ukraine",
+    "kievan-rus",
+    "ukraine",
+    "vladimir-the-great"
+  ],
+  "sources": [
+    {
+      "title": "Patriarch of Moscow and all Rus' — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Patriarch_of_Moscow_and_all_Rus'",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-09-30",
+  "status": "published"
+}

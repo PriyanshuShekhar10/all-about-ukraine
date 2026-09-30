@@ -286,6 +286,7 @@
       "ostap-bender",
       "ostrih-bible",
       "paska",
+      "patriarch-of-moscow-and-all-russia",
       "pavlivka",
       "pavlo-klimkin",
       "pavlo-skoropadsky",
@@ -1087,6 +1088,7 @@
       "parliamentary-assembly-of-the-council-of-europe",
       "party-of-regions",
       "paska",
+      "patriarch-of-moscow-and-all-russia",
       "pavlo-klimkin",
       "pavlo-skoropadsky",
       "pavlo-tychyna",
@@ -4251,6 +4253,7 @@
       "myrhorod",
       "national-art-museum-of-ukraine",
       "nestor-the-chronicler",
+      "patriarch-of-moscow-and-all-russia",
       "pereiaslav",
       "prykarpattia",
       "pysanka",
@@ -5242,6 +5245,7 @@
       "history-of-crimea",
       "khotyn-fortress",
       "kievan-rus",
+      "patriarch-of-moscow-and-all-russia",
       "rus-khaganate",
       "slavic-religion",
       "taras-shevchenko-national-university-of-kyiv",
@@ -8994,6 +8998,7 @@
       "oleksandr-turchynov",
       "olga-kurylenko",
       "ostap-bender",
+      "patriarch-of-moscow-and-all-russia",
       "poltava-oblast",
       "ramstein-air-base",
       "rohatyn",
@@ -10285,7 +10290,7 @@
       "id": "coal-in-ukraine",
       "title": "coal in Ukraine",
       "category": "economy",
-      "degree": 481
+      "degree": 482
     },
     {
       "id": "coat-of-arms-of-ukrainiae",
@@ -11377,7 +11382,7 @@
       "id": "kievan-rus",
       "title": "Kievan Rus'",
       "category": "history",
-      "degree": 70
+      "degree": 71
     },
     {
       "id": "kingdom-of-galiciavolhynia",
@@ -12550,6 +12555,12 @@
       "degree": 3
     },
     {
+      "id": "patriarch-of-moscow-and-all-russia",
+      "title": "Patriarch of Moscow and all Russia",
+      "category": "people",
+      "degree": 4
+    },
+    {
       "id": "pavlivka",
       "title": "Pavlivka",
       "category": "culture",
@@ -13615,7 +13626,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 761
+      "degree": 762
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -14239,7 +14250,7 @@
       "id": "vladimir-the-great",
       "title": "Vladimir the Great",
       "category": "culture",
-      "degree": 12
+      "degree": 13
     },
     {
       "id": "vladimir-vysotsky",
@@ -42490,6 +42501,22 @@
     {
       "source": "buchach",
       "target": "western-ukraine"
+    },
+    {
+      "source": "patriarch-of-moscow-and-all-russia",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "patriarch-of-moscow-and-all-russia",
+      "target": "kievan-rus"
+    },
+    {
+      "source": "patriarch-of-moscow-and-all-russia",
+      "target": "ukraine"
+    },
+    {
+      "source": "patriarch-of-moscow-and-all-russia",
+      "target": "vladimir-the-great"
     },
     {
       "source": "pivdenmash",
