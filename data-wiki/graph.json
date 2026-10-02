@@ -430,6 +430,7 @@
       "ukrainization",
       "ukrainska-pravda",
       "ukrnafta",
+      "ukrtelecom",
       "uman",
       "uzh-river",
       "uzhhorod-national-university",
@@ -1306,6 +1307,7 @@
       "ukrainization",
       "ukrainska-pravda",
       "ukrnafta",
+      "ukrtelecom",
       "uman",
       "uzh-river",
       "uzhhorod",
@@ -1981,6 +1983,7 @@
       "ukrainization",
       "ukrainska-pravda",
       "ukrnafta",
+      "ukrtelecom",
       "uzhhorod",
       "uzhhorod-castle",
       "uzhhorod-national-university",
@@ -2879,6 +2882,7 @@
       "ukrainian-womens-union",
       "ukrainian-world-congress",
       "ukrainization",
+      "ukrtelecom",
       "vasyl-krychevsky",
       "vasyl-stus",
       "vasyl-symonenko",
@@ -3966,6 +3970,7 @@
       "ukrainian-railways",
       "ukrainian-state",
       "ukrnafta",
+      "ukrtelecom",
       "war-in-donbas",
       "west-ukrainian-peoples-republic"
     ],
@@ -4471,6 +4476,7 @@
       "ukrainian-soviet-socialist-republic",
       "ukrainian-wine",
       "ukrainians-in-poland",
+      "ukrtelecom",
       "uzhhorod",
       "varta-ag",
       "vasyl-stus",
@@ -5618,6 +5624,7 @@
       "ukrainian-ground-forces",
       "ukrainian-independence-referendum",
       "ukrainian-world-congress",
+      "ukrtelecom",
       "vuhledar",
       "zlata-ognevich"
     ],
@@ -8923,6 +8930,7 @@
       "ukrainian-wine",
       "ukrainska-pravda",
       "ukrnafta",
+      "ukrtelecom",
       "varta-ag",
       "volyn-oblast",
       "zakarpattia",
@@ -9642,7 +9650,7 @@
       "id": "armed-forces-of-ukraine",
       "title": "Armed Forces of Ukraine",
       "category": "politics",
-      "degree": 42
+      "degree": 43
     },
     {
       "id": "arsen-avakov",
@@ -10098,7 +10106,7 @@
       "id": "cabinet-of-ministers-of-ukraine",
       "title": "Cabinet of Ministers of Ukraine",
       "category": "politics",
-      "degree": 67
+      "degree": 68
     },
     {
       "id": "carpathian-biosphere-reserve",
@@ -10290,7 +10298,7 @@
       "id": "coal-in-ukraine",
       "title": "coal in Ukraine",
       "category": "economy",
-      "degree": 482
+      "degree": 483
     },
     {
       "id": "coat-of-arms-of-ukrainiae",
@@ -11520,7 +11528,7 @@
       "id": "kyiv",
       "title": "Kyiv",
       "category": "geography",
-      "degree": 268
+      "degree": 269
     },
     {
       "id": "kyiv-city-ballet",
@@ -13350,7 +13358,7 @@
       "id": "soviet-union",
       "title": "Soviet Union",
       "category": "politics",
-      "degree": 222
+      "degree": 223
     },
     {
       "id": "state-emergency-service-of-ukraine",
@@ -13626,7 +13634,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 762
+      "degree": 763
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13674,7 +13682,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 670
+      "degree": 671
     },
     {
       "id": "ukrainian-americans",
@@ -14059,6 +14067,12 @@
       "title": "Ukrnafta",
       "category": "economy",
       "degree": 17
+    },
+    {
+      "id": "ukrtelecom",
+      "title": "Ukrtelecom",
+      "category": "economy",
+      "degree": 7
     },
     {
       "id": "uman",
@@ -19913,6 +19927,34 @@
     {
       "source": "ukrainian-cuisine",
       "target": "varenyky"
+    },
+    {
+      "source": "ukrtelecom",
+      "target": "armed-forces-of-ukraine"
+    },
+    {
+      "source": "ukrtelecom",
+      "target": "cabinet-of-ministers-of-ukraine"
+    },
+    {
+      "source": "ukrtelecom",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "ukrtelecom",
+      "target": "kyiv"
+    },
+    {
+      "source": "ukrtelecom",
+      "target": "soviet-union"
+    },
+    {
+      "source": "ukrtelecom",
+      "target": "ukraine"
+    },
+    {
+      "source": "ukrtelecom",
+      "target": "ukrainian"
     },
     {
       "source": "ukrainian-state",

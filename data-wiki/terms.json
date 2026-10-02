@@ -12033,5 +12033,16 @@
     ],
     "notability": 45,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q1505321",
+    "slug": "ukrtelecom",
+    "name": "Ukrtelecom",
+    "wp_title": "Ukrtelecom",
+    "type": "business",
+    "category": "economy",
+    "aliases": [],
+    "notability": 15,
+    "status": "synthesized"
   }
 ]

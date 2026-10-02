@@ -1,0 +1,84 @@
+{
+  "qid": "Q1505321",
+  "slug": "ukrtelecom",
+  "title": "Ukrtelecom",
+  "type": "business",
+  "category": "economy",
+  "aliases": [],
+  "infobox": {
+    "label": "business",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1993-12-15",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      },
+      {
+        "label": "Headquarters",
+        "value": "Kyiv",
+        "source": "wikidata:P159"
+      }
+    ]
+  },
+  "summary": "Ukrtelecom JSC is the leading telecommunications company in Ukraine, providing a comprehensive range of services including fixed-line, mobile, and internet services. Established in 1993 from the remnants of the Soviet communication network, it has undergone significant transformations, including privatization and expansion of its infrastructure, particularly during the ongoing conflict in Ukraine.",
+  "sections": [
+    {
+      "heading": "History",
+      "paragraphs": [
+        "Ukrtelecom was established in 1993, evolving from the Soviet communication network that was managed by the Ministry of Communications after [[soviet-union|the Soviet Union]]'s dissolution in 1991. Prior to 1991, [[ukraine|Ukraine]]'s phone-telegraph network was ranked sixth among the Soviet republics and was underdeveloped, with 7,630 thousand numbers listed, averaging 14.6 numbers per 100 residents.",
+        "In 1993, the [[cabinet-of-ministers-of-ukraine|Ukrainian government]] approved a comprehensive program to create a unified national communication system, leading to the reorganization of the industry. This resulted in the formation of two major industrial unions, including Ukrelektrozviazok, which was renamed Ukrtelecom in 1994.",
+        "Initially, Ukrtelecom comprised seven enterprises, including Ukrtek and [[kyiv|Kyiv]] telegraph. In January 1995, it merged with 22 oblast networks and additional communication enterprises, culminating in the absorption of the last enterprise, Dniportelekom, by January 1996. However, by 1998, the organization was restructured to form a single entity from approximately 35 state enterprises, and by the end of 1999, all were converted into stock associates of Ukrtelecom."
+      ]
+    },
+    {
+      "heading": "Privatization and Ownership Changes",
+      "paragraphs": [
+        "Ukrtelecom was primarily government-owned until 2011 when Austrian investment firm EPIC acquired a 92.79% stake for $1.3 billion, which was later sold to System Capital Management, owned by [[ukrainian|Ukrainian]] oligarch Rinat Akhmetov.",
+        "The first annual general meeting of the new owners took place on 14 June 2011, during which they authorized the sale of Ukrtelecom's mobile division, Utel, and reshuffled the supervisory board."
+      ]
+    },
+    {
+      "heading": "Operations and Services",
+      "paragraphs": [
+        "As one of Ukraine's largest telecom operators, Ukrtelecom offers a wide array of telecommunications services, focusing on expanding its high-speed fiber-optic internet network. By early 2021, its broadband network reached 3,322 settlements and over 2,000 local communities, connecting medical and educational institutions to its fiber infrastructure.",
+        "In 2023, Ukrtelecom maintained operations in approximately 90% of settlements served prior to the Russian invasion, restoring connectivity in de-occupied areas and supporting the [[armed-forces-of-ukraine|Armed Forces of Ukraine]] and other government bodies. The company invested significantly in expanding its optical network and ensuring cybersecurity."
+      ]
+    },
+    {
+      "heading": "Financial Performance",
+      "paragraphs": [
+        "In 2023, Ukrtelecom reported total revenue exceeding UAH 5 billion, a 10% decrease from the previous year, with an EBITDA of over UAH 1 billion. The company was the largest taxpayer among fixed-line operators [[coal-in-ukraine|in Ukraine]], contributing over UAH 1.35 billion in taxes.",
+        "In 2024, preliminary statistics indicated total revenue of around UAH 5.3 billion, a 4.6% increase, with significant capital investments and continued contributions to the national budget despite challenging wartime conditions."
+      ]
+    },
+    {
+      "heading": "Impact of the 2022 Russian Invasion",
+      "paragraphs": [
+        "During the initial stages of the Russian invasion on 28 March 2022, Ukrtelecom experienced a loss of approximately 87% of its internet connectivity due to cyberattacks. The company managed to restore full service within 15 hours, demonstrating resilience in maintaining critical communication infrastructure during the conflict."
+      ]
+    }
+  ],
+  "links_out": [
+    "armed-forces-of-ukraine",
+    "cabinet-of-ministers-of-ukraine",
+    "coal-in-ukraine",
+    "kyiv",
+    "soviet-union",
+    "ukraine",
+    "ukrainian"
+  ],
+  "sources": [
+    {
+      "title": "Ukrtelecom — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukrtelecom",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-10-02",
+  "status": "published"
+}
