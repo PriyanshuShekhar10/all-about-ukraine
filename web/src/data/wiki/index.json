@@ -4440,6 +4440,16 @@
     "aliases": []
   },
   {
+    "slug": "mhp",
+    "title": "MHP",
+    "type": "privately held company",
+    "category": "economy",
+    "summary": "PrJSC MHP is a prominent Ukrainian food and agritech company, employing over 32,000 individuals and recognized as one of Ukraine's top employers. Founded by Yuriy Kosyuk, MHP has established itself as a leader in poultry production and food processing, with a significant presence both domestically and internationally.",
+    "aliases": [
+      "Myronivskyi khliboprodukt"
+    ]
+  },
+  {
     "slug": "mikhail-bulgakov",
     "title": "Mikhail Bulgakov",
     "type": "human",

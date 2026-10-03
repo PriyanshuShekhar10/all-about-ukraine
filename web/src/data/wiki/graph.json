@@ -229,6 +229,7 @@
       "memorial-in-commemoration-of-famines-victims-in-ukraine",
       "metinvest",
       "mezhyhirya",
+      "mhp",
       "mikhail-bulgakov",
       "mikhail-gorbachev",
       "mikheil-saakashvili",
@@ -993,6 +994,7 @@
       "melitopol",
       "memorial-in-commemoration-of-famines-victims-in-ukraine",
       "metinvest",
+      "mhp",
       "mikhail-bulgakov",
       "mikhail-gorbachev",
       "mikhail-lomonosov",
@@ -1701,6 +1703,7 @@
       "memorial-in-commemoration-of-famines-victims-in-ukraine",
       "metinvest",
       "mezhyhirya",
+      "mhp",
       "mikhail-bulgakov",
       "mikhail-gorbachev",
       "mikhail-lomonosov",
@@ -2765,6 +2768,7 @@
       "maidan-nezalezhnosti",
       "mariinskyi-park",
       "memorial-in-commemoration-of-famines-victims-in-ukraine",
+      "mhp",
       "ministry-of-finance-of-ukraine",
       "ministry-of-foreign-affairs-of-ukraine",
       "ministry-of-infrastructure-of-ukraine",
@@ -3363,6 +3367,7 @@
       "crimean-tatar",
       "decentralisation-in-ukraine",
       "liberal-party-of-ukraine",
+      "mhp",
       "mykolaiv",
       "party-of-regions",
       "polesia",
@@ -6565,6 +6570,15 @@
       "pavlo-tychyna-uman-state-pedagogical-university",
       "shevchenko-national-prize"
     ],
+    "ukrainian-cuisine": [
+      "borscht",
+      "borscht-belt",
+      "kutia",
+      "mhp",
+      "potato-pancake",
+      "salo",
+      "varenyky"
+    ],
     "lviv-national-museum": [
       "memorial-in-commemoration-of-famines-victims-in-ukraine",
       "mykola-hlushchenko",
@@ -6978,14 +6992,6 @@
       "zhmerynka"
     ],
     "salo": [
-      "varenyky"
-    ],
-    "ukrainian-cuisine": [
-      "borscht",
-      "borscht-belt",
-      "kutia",
-      "potato-pancake",
-      "salo",
       "varenyky"
     ],
     "sarmatians": [
@@ -8883,6 +8889,7 @@
       "kyivstar",
       "lviv-national-environmental-university",
       "metinvest",
+      "mhp",
       "ministry-of-economy",
       "ministry-of-finance-of-ukraine",
       "ministry-of-infrastructure-of-ukraine",
@@ -9530,7 +9537,7 @@
       "id": "administrative-territorial-entity-of-ukraine",
       "title": "administrative territorial entity of Ukraine",
       "category": "politics",
-      "degree": 36
+      "degree": 37
     },
     {
       "id": "admiral-makarov",
@@ -10298,7 +10305,7 @@
       "id": "coal-in-ukraine",
       "title": "coal in Ukraine",
       "category": "economy",
-      "degree": 483
+      "degree": 484
     },
     {
       "id": "coat-of-arms-of-ukrainiae",
@@ -11528,7 +11535,7 @@
       "id": "kyiv",
       "title": "Kyiv",
       "category": "geography",
-      "degree": 269
+      "degree": 270
     },
     {
       "id": "kyiv-city-ballet",
@@ -11901,6 +11908,12 @@
       "title": "Mezhyhirya",
       "category": "culture",
       "degree": 13
+    },
+    {
+      "id": "mhp",
+      "title": "MHP",
+      "category": "economy",
+      "degree": 6
     },
     {
       "id": "mikhail-bulgakov",
@@ -13634,7 +13647,7 @@
       "id": "ukraine",
       "title": "Ukraine",
       "category": "geography",
-      "degree": 763
+      "degree": 764
     },
     {
       "id": "ukraine-during-world-war-i",
@@ -13682,7 +13695,7 @@
       "id": "ukrainian",
       "title": "Ukrainian",
       "category": "people",
-      "degree": 671
+      "degree": 672
     },
     {
       "id": "ukrainian-americans",
@@ -13742,7 +13755,7 @@
       "id": "ukrainian-cuisine",
       "title": "Ukrainian cuisine",
       "category": "culture",
-      "degree": 13
+      "degree": 14
     },
     {
       "id": "ukrainian-cultural-foundation",
@@ -17135,6 +17148,30 @@
     {
       "source": "pavlo-tychyna-museum",
       "target": "ukrainian"
+    },
+    {
+      "source": "mhp",
+      "target": "administrative-territorial-entity-of-ukraine"
+    },
+    {
+      "source": "mhp",
+      "target": "coal-in-ukraine"
+    },
+    {
+      "source": "mhp",
+      "target": "kyiv"
+    },
+    {
+      "source": "mhp",
+      "target": "ukraine"
+    },
+    {
+      "source": "mhp",
+      "target": "ukrainian"
+    },
+    {
+      "source": "mhp",
+      "target": "ukrainian-cuisine"
     },
     {
       "source": "national-museum-тaras-shevchenko",

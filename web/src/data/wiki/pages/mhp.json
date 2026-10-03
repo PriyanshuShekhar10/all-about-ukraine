@@ -1,0 +1,87 @@
+{
+  "qid": "Q12123536",
+  "slug": "mhp",
+  "title": "MHP",
+  "type": "privately held company",
+  "category": "economy",
+  "aliases": [
+    "Myronivskyi khliboprodukt"
+  ],
+  "infobox": {
+    "label": "privately held company",
+    "fields": [
+      {
+        "label": "Inception",
+        "value": "1998",
+        "source": "wikidata:P571"
+      },
+      {
+        "label": "Country",
+        "value": "Ukraine",
+        "source": "wikidata:P17"
+      }
+    ]
+  },
+  "summary": "PrJSC MHP is a prominent Ukrainian food and agritech company, employing over 32,000 individuals and recognized as one of Ukraine's top employers. Founded by Yuriy Kosyuk, MHP has established itself as a leader in poultry production and food processing, with a significant presence both domestically and internationally.",
+  "sections": [
+    {
+      "heading": "Company Overview",
+      "paragraphs": [
+        "PrJSC MHP ([[ukrainian|Ukrainian]]: ПрАТ МХП) is a [[ukrainian-cuisine|Ukrainian food]] and agritech enterprise headquartered in [[kyiv|Kyiv]]. The company operates in agriculture, food production, and retail, employing over 32,000 people [[coal-in-ukraine|in Ukraine]] and abroad, and is ranked among the top 10 employers in Ukraine by Forbes in 2024.",
+        "MHP is recognized as the largest poultry producer in Europe and the eighth largest in the world, according to the WATT Poultry International ranking. The company exports over 50% of its products to more than 70 countries, with significant markets in the Middle East, the European Union, and Africa."
+      ]
+    },
+    {
+      "heading": "History and Development",
+      "paragraphs": [
+        "MHP was founded in 1998 by Yuriy Kosyuk, who is also the chairman of the company. The company began its journey by acquiring a controlling stake in Myronivsky Cereal and Feed Mill OJSC. In 2008, MHP became the first Ukrainian agricultural company to secure foreign equity capital through an IPO on the London Stock Exchange.",
+        "Over the years, MHP has expanded its operations significantly, including the acquisition of various poultry farms and the launch of several product brands such as Nasha Ryaba and Bashchynskyi. By 2021, MHP was ranked among the top three agricultural holdings in Ukraine."
+      ]
+    },
+    {
+      "heading": "Product Range and Operations",
+      "paragraphs": [
+        "MHP produces a wide array of food products, including chicken meat (both chilled and frozen), processed meat products, vegetable oils, and animal feed. The company has over 15 product brands and operates manufacturing facilities in Ukraine and the Balkans.",
+        "MHP's land bank spans 360,000 hectares across 12 [[administrative-territorial-entity-of-ukraine|regions of Ukraine]], and the company is one of [[ukraine|Ukraine]]'s leading exporters of vegetable oils."
+      ]
+    },
+    {
+      "heading": "Social Responsibility and Community Engagement",
+      "paragraphs": [
+        "MHP demonstrates a commitment to social responsibility by ensuring job security for employees serving in the military and providing support to their families. The company also assists veterans with health checks, medical treatment, and job retraining.",
+        "In addition, MHP has initiated programs to encourage social activity in rural communities, such as the 'Village. Steps to Development' micro-grant program."
+      ]
+    },
+    {
+      "heading": "Sustainability Initiatives",
+      "paragraphs": [
+        "Founded in 2011, MHP Eco Energy focuses on sustainable energy projects, including the development of biogas complexes. The company operates three biogas facilities, two in Ukraine and one in the Balkans, which utilize production waste to generate clean energy and reduce greenhouse gas emissions.",
+        "The Biogas Ladyzhyn complex, commissioned in 2019, is notable for being the first biogas plant in Europe of its capacity, operating on chicken manure."
+      ]
+    },
+    {
+      "heading": "Recent Developments",
+      "paragraphs": [
+        "In 2023, MHP became the largest taxpayer in the agricultural sector in Ukraine and was ranked among the top five largest investors in the country by Forbes in 2024. The company also launched MHP Food Service to enhance employee nutrition and support food delivery services.",
+        "In 2024, MHP introduced a new product brand, Super Filleo, featuring boneless chicken thigh fillet, and showcased its culinary solutions at SIAL Paris 2024, highlighting its commitment to innovation and quality."
+      ]
+    }
+  ],
+  "links_out": [
+    "administrative-territorial-entity-of-ukraine",
+    "coal-in-ukraine",
+    "kyiv",
+    "ukraine",
+    "ukrainian",
+    "ukrainian-cuisine"
+  ],
+  "sources": [
+    {
+      "title": "PrJSC MHP — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/PrJSC_MHP",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "updated_at": "2026-10-03",
+  "status": "published"
+}

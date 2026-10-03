@@ -12044,5 +12044,18 @@
     "aliases": [],
     "notability": 15,
     "status": "synthesized"
+  },
+  {
+    "qid": "Q12123536",
+    "slug": "mhp",
+    "name": "MHP",
+    "wp_title": "PrJSC MHP",
+    "type": "privately held company",
+    "category": "economy",
+    "aliases": [
+      "Myronivskyi khliboprodukt"
+    ],
+    "notability": 8,
+    "status": "synthesized"
   }
 ]
